@@ -3,6 +3,7 @@
   "sections": {
     "c51115d7-76ff-4251-adcc-df5a6062b033": {
       "type": "image--image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "image": "{{ collection.image }}",
         "subheading": "",
@@ -27,7 +28,7 @@
         "faac8e0e-4e8f-430d-b8d9-2826d304a5d1": {
           "type": "collection-image",
           "settings": {
-            "collection_image_size": "30vh"
+            "collection_image_size": "40vh"
           }
         },
         "collection-description": {
