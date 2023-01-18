@@ -56,7 +56,7 @@
         "size_guide_link": "",
         "size_guide_message": "What's my size?",
         "size_guide_variant": "Size",
-        "image_size": "large",
+        "image_size": "medium",
         "thumbnail_position": "below",
         "enable_zoom": true,
         "enable_video_loop": false
