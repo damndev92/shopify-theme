@@ -8,12 +8,29 @@
           "settings": {
           }
         },
+        "68938b63-510b-4dfd-ae6b-1b97974d28dc": {
+          "type": "vendor-sku",
+          "settings": {
+            "show_vendor": true,
+            "show_sku": false
+          }
+        },
         "product-price": {
           "type": "product-price",
           "settings": {
             "show_discount": "hide",
-            "tax_included": true,
+            "tax_included": false,
             "shipping_policy": true
+          }
+        },
+        "374f8622-6038-471b-971d-e3c84c6f38dc": {
+          "type": "product-description",
+          "settings": {
+          }
+        },
+        "quantity-selector": {
+          "type": "quantity-selector",
+          "settings": {
           }
         },
         "product-options": {
@@ -24,31 +41,21 @@
             "pick_an_option": false
           }
         },
-        "quantity-selector": {
-          "type": "quantity-selector",
-          "settings": {
-          }
-        },
         "payment-buttons": {
           "type": "payment-buttons",
           "settings": {
             "show_smart_checkout": true
           }
-        },
-        "374f8622-6038-471b-971d-e3c84c6f38dc": {
-          "type": "product-description",
-          "disabled": true,
-          "settings": {
-          }
         }
       },
       "block_order": [
         "product-title",
+        "68938b63-510b-4dfd-ae6b-1b97974d28dc",
         "product-price",
-        "product-options",
+        "374f8622-6038-471b-971d-e3c84c6f38dc",
         "quantity-selector",
-        "payment-buttons",
-        "374f8622-6038-471b-971d-e3c84c6f38dc"
+        "product-options",
+        "payment-buttons"
       ],
       "settings": {
         "show_out_of_stock_email": true,
@@ -56,15 +63,10 @@
         "size_guide_link": "",
         "size_guide_message": "What's my size?",
         "size_guide_variant": "Size",
-        "image_size": "medium",
+        "image_size": "large",
         "thumbnail_position": "below",
-        "enable_zoom": true,
+        "enable_zoom": false,
         "enable_video_loop": false
-      }
-    },
-    "42d3a5d6-c1d0-40d3-bf6b-38f55af37c13": {
-      "type": "template--product-description",
-      "settings": {
       }
     },
     "product-recommendations": {
@@ -73,25 +75,10 @@
         "show_product_recommendations": true,
         "product_recommendations_heading": "You may also like"
       }
-    },
-    "96613a5c-ed41-43de-93be-035627d0e213": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "layout": "left",
-        "subheading": "",
-        "title": "{{ product.vendor }}",
-        "text_block": "",
-        "button_link": "",
-        "button_label": ""
-      }
     }
   },
   "order": [
     "main",
-    "42d3a5d6-c1d0-40d3-bf6b-38f55af37c13",
-    "product-recommendations",
-    "96613a5c-ed41-43de-93be-035627d0e213"
+    "product-recommendations"
   ]
 }
