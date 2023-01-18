@@ -20,15 +20,15 @@
     "collection_header": {
       "type": "template--collection-header",
       "blocks": {
-        "7c4cfe0b-4cbb-4487-a49d-fd4647a71781": {
-          "type": "collection-title",
-          "settings": {
-          }
-        },
         "faac8e0e-4e8f-430d-b8d9-2826d304a5d1": {
           "type": "collection-image",
           "settings": {
             "collection_image_size": "40vh"
+          }
+        },
+        "7c4cfe0b-4cbb-4487-a49d-fd4647a71781": {
+          "type": "collection-title",
+          "settings": {
           }
         },
         "collection-description": {
@@ -38,8 +38,8 @@
         }
       },
       "block_order": [
-        "7c4cfe0b-4cbb-4487-a49d-fd4647a71781",
         "faac8e0e-4e8f-430d-b8d9-2826d304a5d1",
+        "7c4cfe0b-4cbb-4487-a49d-fd4647a71781",
         "collection-description"
       ],
       "settings": {
