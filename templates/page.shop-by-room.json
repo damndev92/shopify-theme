@@ -5,32 +5,81 @@
       "settings": {
       }
     },
-    "6ebef4dd-8039-42d7-a989-ad9a5df05aa0": {
+    "30bacd34-1cb2-49bd-b44d-bb2ff4dc92ef": {
       "type": "collection--collection-list",
       "blocks": {
-        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-0": {
+        "template--17647936635195__30bacd34-1cb2-49bd-b44d-bb2ff4dc92ef-16740666403feef5b2-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "rubn"
+            "collection": "bedroom"
           }
         },
-        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-1": {
+        "template--17647936635195__30bacd34-1cb2-49bd-b44d-bb2ff4dc92ef-16740666403feef5b2-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "la-veste"
+            "collection": "dining"
           }
         },
-        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-2": {
+        "template--17647936635195__30bacd34-1cb2-49bd-b44d-bb2ff4dc92ef-16740666403feef5b2-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "georges"
+            "collection": "kitchen"
+          }
+        },
+        "f940bde6-8be5-45f9-ab50-8a97efacc595": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": ""
+          }
+        },
+        "efa5bacd-235e-442d-91d3-7c6e34b30b61": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": ""
           }
         }
       },
       "block_order": [
-        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-0",
-        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-1",
-        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-2"
+        "template--17647936635195__30bacd34-1cb2-49bd-b44d-bb2ff4dc92ef-16740666403feef5b2-0",
+        "template--17647936635195__30bacd34-1cb2-49bd-b44d-bb2ff4dc92ef-16740666403feef5b2-1",
+        "template--17647936635195__30bacd34-1cb2-49bd-b44d-bb2ff4dc92ef-16740666403feef5b2-2",
+        "f940bde6-8be5-45f9-ab50-8a97efacc595",
+        "efa5bacd-235e-442d-91d3-7c6e34b30b61"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "309e2200-efd5-4f0d-b601-ddfce9be82f0": {
+      "type": "collection--collection-list",
+      "blocks": {
+        "template--17647936635195__309e2200-efd5-4f0d-b601-ddfce9be82f0-16740666403feef5b2-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "living-room"
+          }
+        },
+        "template--17647936635195__309e2200-efd5-4f0d-b601-ddfce9be82f0-16740666403feef5b2-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "office"
+          }
+        },
+        "template--17647936635195__309e2200-efd5-4f0d-b601-ddfce9be82f0-16740666403feef5b2-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "new-in"
+          }
+        }
+      },
+      "block_order": [
+        "template--17647936635195__309e2200-efd5-4f0d-b601-ddfce9be82f0-16740666403feef5b2-0",
+        "template--17647936635195__309e2200-efd5-4f0d-b601-ddfce9be82f0-16740666403feef5b2-1",
+        "template--17647936635195__309e2200-efd5-4f0d-b601-ddfce9be82f0-16740666403feef5b2-2"
       ],
       "settings": {
         "colors": "white",
@@ -41,6 +90,7 @@
   },
   "order": [
     "main",
-    "6ebef4dd-8039-42d7-a989-ad9a5df05aa0"
+    "30bacd34-1cb2-49bd-b44d-bb2ff4dc92ef",
+    "309e2200-efd5-4f0d-b601-ddfce9be82f0"
   ]
 }
