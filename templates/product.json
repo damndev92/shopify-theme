@@ -58,7 +58,7 @@
         "size_guide_variant": "Size",
         "image_size": "medium",
         "thumbnail_position": "below",
-        "enable_zoom": true,
+        "enable_zoom": false,
         "enable_video_loop": false
       }
     },
