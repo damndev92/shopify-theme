@@ -5,32 +5,32 @@
       "settings": {
       }
     },
-    "6ebef4dd-8039-42d7-a989-ad9a5df05aa0": {
+    "6bb64512-b0f4-470f-a831-da34d529ebce": {
       "type": "collection--collection-list",
       "blocks": {
-        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-0": {
+        "template--17647682617659__6bb64512-b0f4-470f-a831-da34d529ebce-167406554123d40f23-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "rubn"
+            "collection": "hotel-pacai"
           }
         },
-        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-1": {
+        "template--17647682617659__6bb64512-b0f4-470f-a831-da34d529ebce-167406554123d40f23-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "la-veste"
+            "collection": ""
           }
         },
-        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-2": {
+        "template--17647682617659__6bb64512-b0f4-470f-a831-da34d529ebce-167406554123d40f23-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "georges"
+            "collection": ""
           }
         }
       },
       "block_order": [
-        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-0",
-        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-1",
-        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-2"
+        "template--17647682617659__6bb64512-b0f4-470f-a831-da34d529ebce-167406554123d40f23-0",
+        "template--17647682617659__6bb64512-b0f4-470f-a831-da34d529ebce-167406554123d40f23-1",
+        "template--17647682617659__6bb64512-b0f4-470f-a831-da34d529ebce-167406554123d40f23-2"
       ],
       "settings": {
         "colors": "white",
@@ -41,6 +41,6 @@
   },
   "order": [
     "main",
-    "6ebef4dd-8039-42d7-a989-ad9a5df05aa0"
+    "6bb64512-b0f4-470f-a831-da34d529ebce"
   ]
 }
