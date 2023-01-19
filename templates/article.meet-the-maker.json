@@ -2,6 +2,7 @@
   "sections": {
     "main": {
       "type": "template--article",
+      "disabled": true,
       "settings": {
         "show_author_name": false,
         "show_dates": true,
@@ -10,6 +11,32 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
+      }
+    },
+    "37abe2fd-3065-47c3-8157-adc40442c4e2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "layout": "left",
+        "subheading": "",
+        "title": "Share brand or product details",
+        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "eb9090ee-94db-41a6-9201-73b74561685e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "layout": "right",
+        "subheading": "",
+        "title": "Share brand or product details",
+        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "button_link": "shopify:\/\/products\/astoria-floor-lamp",
+        "button_label": "Shop now"
       }
     },
     "blog-posts": {
@@ -28,6 +55,8 @@
   },
   "order": [
     "main",
+    "37abe2fd-3065-47c3-8157-adc40442c4e2",
+    "eb9090ee-94db-41a6-9201-73b74561685e",
     "blog-posts"
   ]
 }
