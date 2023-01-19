@@ -19,6 +19,7 @@
     },
     "collection_header": {
       "type": "template--collection-header",
+      "disabled": true,
       "blocks": {
         "faac8e0e-4e8f-430d-b8d9-2826d304a5d1": {
           "type": "collection-image",
@@ -43,6 +44,20 @@
         "collection-description"
       ],
       "settings": {
+      }
+    },
+    "e852b54b-9f5d-4bc2-bbed-18d21018a45d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "dark",
+        "image-width": "extra-large",
+        "image": "{{ collection.image }}",
+        "layout": "left",
+        "subheading": "",
+        "title": "{{ collection.title }}",
+        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "button_link": "",
+        "button_label": ""
       }
     },
     "collection_filtering": {
@@ -120,6 +135,7 @@
   "order": [
     "c51115d7-76ff-4251-adcc-df5a6062b033",
     "collection_header",
+    "e852b54b-9f5d-4bc2-bbed-18d21018a45d",
     "collection_filtering",
     "main",
     "collection-list"
