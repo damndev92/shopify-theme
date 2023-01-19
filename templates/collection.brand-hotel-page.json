@@ -55,7 +55,8 @@
         "layout": "left",
         "subheading": "",
         "title": "{{ collection.title }}",
-        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "text_block": "",
+        "page_description": true,
         "button_link": "",
         "button_label": ""
       }
