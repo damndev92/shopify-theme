@@ -59,6 +59,10 @@
                     {% endif %}
                     {% if section.settings.text_block != blank %}
                       <div class="rte featured-row__subtext textarea">{{ section.settings.text_block }}</div>
+                    {% elsif section.settings.page_description %}
+                        {% if collection.id %}
+                            <div class="rte featured-row__subtext textarea">{{ collection.description }}</div>
+                        {% endif %}
                     {% endif %}
                     {% if section.settings.button_label != blank and section.settings.button_link != blank %}
                       <a href="{{ section.settings.button_link }}" class="btn">
@@ -311,6 +315,14 @@
                 "pt-PT": "<p>Associe um texto de grandes dimensões a uma imagem para destacar o seu produto, coleção ou publicação no blog de eleição. Acrescente detalhes relativos à disponibilidade, estilo, ou até mesmo uma opinião.</p>"
             }
         },
+          {
+          "type": "checkbox",
+          "id": "page_description",
+              "label": {
+              "en": "Show page description"
+              },
+          "default": false
+          },
         {
             "type": "url",
             "id": "button_link",
