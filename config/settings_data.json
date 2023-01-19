@@ -78,7 +78,6 @@
             "type": "content",
             "settings": {
               "mega-menu": "Shop by Products",
-              "mega_image_1": "shopify:\/\/shop_images\/a-blue-kettle-and-tin-mug-against-a-blue-background.jpg",
               "mega_image_header_1": "TEST",
               "mega_image_subheader_1": "",
               "mega_image_link_1": "",
@@ -111,15 +110,42 @@
               "mega_image_subheader_2": "",
               "mega_image_link_2": ""
             }
+          },
+          "59b9c62a-8f3e-436c-8449-8c0b1089a52d": {
+            "type": "content",
+            "settings": {
+              "mega-menu": "Shop by Room",
+              "mega_image_header_1": "",
+              "mega_image_subheader_1": "",
+              "mega_image_link_1": "",
+              "mega_image_header_2": "",
+              "mega_image_subheader_2": "",
+              "mega_image_link_2": ""
+            }
+          },
+          "7f33597d-256d-47a4-8434-563af5326199": {
+            "type": "content",
+            "settings": {
+              "mega-menu": "Shop by Destination",
+              "mega_image_1": "shopify:\/\/shop_images\/dada_3.jpg",
+              "mega_image_header_1": "",
+              "mega_image_subheader_1": "",
+              "mega_image_link_1": "",
+              "mega_image_header_2": "",
+              "mega_image_subheader_2": "",
+              "mega_image_link_2": ""
+            }
           }
         },
         "block_order": [
           "content-1",
           "f216cd72-5711-40af-a4fd-b6ce6e3b43d3",
-          "e2635f79-dc88-4b45-887a-c296020ba44e"
+          "e2635f79-dc88-4b45-887a-c296020ba44e",
+          "59b9c62a-8f3e-436c-8449-8c0b1089a52d",
+          "7f33597d-256d-47a4-8434-563af5326199"
         ],
         "settings": {
-          "sticky_header": false,
+          "sticky_header": true,
           "overlay_header": false,
           "logo": "shopify:\/\/shop_images\/Mega_menu_logo_1.png",
           "logo_max_width": 290,
