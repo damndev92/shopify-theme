@@ -1,1 +1,81 @@
-{"sections":{"image-with-text-block":{"type":"image--image-with-text-block","settings":{"desktop_image":"shopify:\/\/shop_images\/pigalle_hp.png","parallax":true,"text-color":"#656565","background-color":"#f3f3f3","horizontal-alignment":"center","subheading":"","title":"Flâneur Magazine","text":"Here's your chance to make a great first impression","button_link":"","button_label":""}},"86c13f5c-2fc8-449d-8260-f997667eac00":{"type":"visual-navigation-banner","blocks":{"template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-0":{"type":"navigation_link","settings":{"link_url":"","link_text":""}},"template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-1":{"type":"navigation_link","settings":{"link_url":"","link_text":""}},"template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-2":{"type":"navigation_link","settings":{"link_url":"","link_text":""}},"template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-3":{"type":"navigation_link","settings":{"link_url":"","link_text":""}}},"block_order":["template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-0","template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-1","template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-2","template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-3"],"settings":{"title":"","image_style":"circle"}},"main":{"type":"template--blog","settings":{"blog_layout":"grid","blog-posts-per-page":5,"show_author_name":false,"show_dates":false,"blog-sidebar-link":"","blog_sidebar_title":"","blog_sidebar_desc":"","show_blog_tags":false,"show_recent_posts":true}}},"order":["image-with-text-block","86c13f5c-2fc8-449d-8260-f997667eac00","main"]}
+{
+  "sections": {
+    "image-with-text-block": {
+      "type": "image--image-with-text-block",
+      "settings": {
+        "desktop_image": "shopify:\/\/shop_images\/pigalle_hp.png",
+        "parallax": true,
+        "text-color": "#656565",
+        "background-color": "#f3f3f3",
+        "horizontal-alignment": "center",
+        "subheading": "",
+        "title": "Flâneur Magazine",
+        "text": "Here's your chance to make a great first impression",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "86c13f5c-2fc8-449d-8260-f997667eac00": {
+      "type": "visual-navigation-banner",
+      "blocks": {
+        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-0": {
+          "type": "navigation_link",
+          "settings": {
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-1": {
+          "type": "navigation_link",
+          "settings": {
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-2": {
+          "type": "navigation_link",
+          "settings": {
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-3": {
+          "type": "navigation_link",
+          "settings": {
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-0",
+        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-1",
+        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-2",
+        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-3"
+      ],
+      "settings": {
+        "title": "",
+        "image_style": "circle"
+      }
+    },
+    "main": {
+      "type": "template--blog",
+      "settings": {
+        "blog_layout": "grid",
+        "blog-posts-per-page": 5,
+        "show_author_name": false,
+        "show_dates": false,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": true,
+        "show_recent_posts": true
+      }
+    }
+  },
+  "order": [
+    "image-with-text-block",
+    "86c13f5c-2fc8-449d-8260-f997667eac00",
+    "main"
+  ]
+}
