@@ -28,6 +28,18 @@
           "settings": {
           }
         },
+        "2ed0d2ef-3608-4b4c-bde7-2a37c316cf4d": {
+          "type": "product-dimensions",
+          "settings": {
+            "product-dimensions": "<p>{{ product.metafields.custom.product_dimensions | metafield_tag }}<\/p>"
+          }
+        },
+        "b31c65fb-6428-485c-985d-0fa5ea3e35e3": {
+          "type": "product-specifications",
+          "settings": {
+            "product-specifications": "<p>{{ product.metafields.custom.product_specifications | metafield_tag }}<\/p>"
+          }
+        },
         "quantity-selector": {
           "type": "quantity-selector",
           "settings": {
@@ -45,18 +57,6 @@
           "type": "country-of-origin",
           "settings": {
             "country-of-origin": "{{ product.metafields.custom.country_of_origin.value }}"
-          }
-        },
-        "2ed0d2ef-3608-4b4c-bde7-2a37c316cf4d": {
-          "type": "product-dimensions",
-          "settings": {
-            "product-dimensions": "<p>{{ product.metafields.custom.product_dimensions | metafield_tag }}<\/p>"
-          }
-        },
-        "b31c65fb-6428-485c-985d-0fa5ea3e35e3": {
-          "type": "product-specifications",
-          "settings": {
-            "product-specifications": "<p>{{ product.metafields.custom.product_specifications | metafield_tag }}<\/p>"
           }
         },
         "6b24a8c9-e601-4d7a-a2b7-0d762e14441c": {
@@ -77,11 +77,11 @@
         "68938b63-510b-4dfd-ae6b-1b97974d28dc",
         "product-price",
         "374f8622-6038-471b-971d-e3c84c6f38dc",
+        "2ed0d2ef-3608-4b4c-bde7-2a37c316cf4d",
+        "b31c65fb-6428-485c-985d-0fa5ea3e35e3",
         "quantity-selector",
         "product-options",
         "28e60fc2-5972-4b97-b556-528687ff624e",
-        "2ed0d2ef-3608-4b4c-bde7-2a37c316cf4d",
-        "b31c65fb-6428-485c-985d-0fa5ea3e35e3",
         "6b24a8c9-e601-4d7a-a2b7-0d762e14441c",
         "payment-buttons"
       ],
