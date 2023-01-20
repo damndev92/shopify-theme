@@ -53,12 +53,12 @@
         "image-width": "extra-large",
         "image": "{{ collection.image }}",
         "layout": "left",
-        "subheading": "",
+        "subheading": "Vilnius, Lithuania",
         "title": "{{ collection.title }}",
         "text_block": "",
         "page_description": true,
-        "button_link": "",
-        "button_label": ""
+        "button_link": "shopify:\/\/pages\/contact",
+        "button_label": "{{ collection.title }}"
       }
     },
     "collection_filtering": {
