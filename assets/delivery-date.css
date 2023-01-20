@@ -1,0 +1,12 @@
+.delivery-date {
+	margin-bottom: 2rem;
+}
+
+delivery-date {
+	display: flex;
+	line-height: 1rem;
+}
+
+.delivery-date--title {
+	margin-bottom: 0;
+}

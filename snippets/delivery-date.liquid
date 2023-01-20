@@ -1,0 +1,33 @@
+{% comment %}
+  variables to pass:
+
+  - days_to_deliver_block
+{% endcomment %}
+
+{{ 'delivery-date.css' | asset_url | stylesheet_tag }}
+<script src="{{ 'date.min.js' | asset_url }}"></script>
+
+{% liquid
+  assign default_number_of_days = 5
+
+  if block.settings.days-to-deliver
+    assign days_to_deliver = days_to_deliver_block | jsonify
+  else
+    assign days_to_deliver = default_number_of_days
+  endif
+
+  assign international_days_to_deliver = days_to_deliver | plus: 5
+
+  assign gap = days_to_deliver | plus: 4 | jsonify
+  assign international_gap = international_days_to_deliver | plus: 4 | jsonify
+%}
+
+<div class="delivery-date">
+  <delivery-date label="EST domestic delivery by" fromdate="{{ days_to_deliver }}" todate="{{ gap }}"></delivery-date>
+  <delivery-date label="EST international delivery by" fromdate="{{ international_days_to_deliver }}" todate="{{ international_gap }}"></delivery-date>
+</div>
+
+<script id="secondary-modules" type="module" defer>
+    import { DeliveryDate } from '{{ "delivery-date.js" | asset_url }}';
+    customElements.define('delivery-date', DeliveryDate);
+</script>
