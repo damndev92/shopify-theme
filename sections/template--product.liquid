@@ -192,6 +192,7 @@
   {% endcapture %}
 
   <div class="col-sm-12 {{ product_description_width }}">
+
   	<section class="entry-content product-description-main-wrapper{% if settings.show_swatches %} variant-swatches-enabled{% else %} variant-dropdown-enabled{% endif %}{% if settings.enable_store_pickup %} store-pickup-enabled{% endif %}"
     {% if section.settings.show_out_of_stock_email %}data-stock-email-enabled="true"{% endif %}>
 
@@ -263,6 +264,51 @@
               {% when 'product-title' %}
 
                 <h1 class="custom-font product-description-header" {{ block.shopify_attributes }}>{{ product.title }}</h1>
+
+              {% when 'country-of-origin' %}
+                <p>{{ block.settings.country-of-origin }}</p>
+
+              {% when 'delivery-and-returns' %}
+                <p>{{ block.settings.delivery-and-returns }}</p>
+
+              {% when 'product-dimensions' %}
+                <p>{{ block.settings.product-dimensions }}</p>
+
+              {% when 'product-specifications' %}
+                <p>{{ block.settings.product-specifications }}</p>
+
+              {% when 'days-to-deliver' %}
+                {% liquid
+                  assign default_number_of_days = 5
+
+                  if block.settings.days-to-deliver
+                    assign days_to_deliver = block.settings.days-to-deliver | strip_html | jsonify
+                  else
+                    assign days_to_deliver = default_number_of_days
+                  endif
+
+                  assign gap = days_to_deliver | plus: 4
+                %}
+                <p>Estimated delivery:
+                  <strong>
+                    <span id="fromDate"></span> - <span id="toDate"></span>
+                  </strong>
+                </p>
+                {{ '//cdnjs.cloudflare.com/ajax/libs/datejs/1.0/date.min.js' | script_tag }}
+                <script>
+                  let fromDate = Date.today().addDays({{ days_to_deliver }});
+
+                  if (fromDate.is().saturday() || fromDate.is().sunday()) {
+                      fromDate = fromDate.next().monday();
+                  }
+
+                  let toDate = Date.today().addDays({{ gap | jsonify }});
+                  if (toDate.is().saturday() || toDate.is().sunday()) {
+                      toDate = toDate.next().monday();
+                  }
+                  document.getElementById('fromDate').innerHTML = fromDate.toString('MMM dS');
+                  document.getElementById('toDate').innerHTML = toDate.toString('MMM dS');
+                </script>
 
               {% when 'product-price' %}
 
@@ -1178,6 +1224,61 @@
               "id": "custom-liquid",
               "label": "Custom Liquid",
               "default": "<p>Add app snippets or other Liquid code to create advanced customizations.</p>"
+            }
+          ]
+        },
+        {
+          "name": "Country of origin",
+          "type": "country-of-origin",
+          "settings": [
+            {
+            "type": "text",
+            "id": "country-of-origin",
+            "label": "Type in or choose dynamic content."
+            }
+          ]
+        },
+        {
+          "name": "Delivery and returns",
+          "type": "delivery-and-returns",
+          "settings": [
+            {
+            "type": "richtext",
+            "id": "delivery-and-returns",
+            "label": "Type in or choose dynamic content."
+            }
+          ]
+        },
+        {
+          "name": "Dimensions",
+          "type": "product-dimensions",
+          "settings": [
+            {
+            "type": "richtext",
+            "id": "product-dimensions",
+            "label": "Type in or choose dynamic content."
+            }
+          ]
+        },
+        {
+          "name": "Specifications",
+          "type": "product-specifications",
+          "settings": [
+            {
+            "type": "richtext",
+            "id": "product-specifications",
+            "label": "Type in or choose dynamic content."
+            }
+          ]
+        },
+        {
+          "name": "Days to deliver",
+          "type": "days-to-deliver",
+          "settings": [
+            {
+            "type": "richtext",
+            "id": "days-to-deliver",
+            "label": "Type in or choose dynamic content."
             }
           ]
         },

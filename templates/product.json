@@ -46,6 +46,36 @@
           "settings": {
             "show_smart_checkout": true
           }
+        },
+        "country-of-origin": {
+          "type": "country-of-origin",
+          "settings": {
+            "text": "{{ product.metafields.custom.country_of_origin.value }}"
+          }
+        },
+        "delivery-and-returns": {
+          "type": "delivery-and-returns",
+          "settings": {
+            "text": "{{ product.metafields.custom.product_delivery_returns.value }}"
+          }
+        },
+        "product-dimensions": {
+          "type": "product-dimensions",
+          "settings": {
+            "text": "{{ product.metafields.custom.product_dimensions.value }}"
+          }
+        },
+        "product-specifications": {
+          "type": "product-specifications",
+          "settings": {
+            "text": "{{ product.metafields.custom.product_specifications.value }}"
+          }
+        },
+        "days-to-deliver": {
+          "type": "days-to-deliver",
+          "settings": {
+            "text": "{{ product.metafields.custom.days_to_deliver.value }}"
+          }
         }
       },
       "block_order": [
@@ -82,3 +112,12 @@
     "product-recommendations"
   ]
 }
+{% liquid
+assign default_number_of_days = 5
+
+if block.settings.days-to-deliver
+assign daysToDeliver = block.settings.days-to-deliver
+else
+assign daysToDeliver = default_number_of_days
+endif
+%}
