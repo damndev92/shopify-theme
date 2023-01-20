@@ -18,7 +18,7 @@
         "product-price": {
           "type": "product-price",
           "settings": {
-            "show_discount": "hide",
+            "show_discount": "value",
             "tax_included": false,
             "shipping_policy": true
           }
