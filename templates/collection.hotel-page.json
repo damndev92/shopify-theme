@@ -57,7 +57,7 @@
         "title": "{{ collection.title }}",
         "text_block": "",
         "page_description": true,
-        "button_link": "",
+        "button_link": "shopify:\/\/pages\/hotel-pacai",
         "button_label": "Discover"
       }
     },
