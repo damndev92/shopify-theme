@@ -49,7 +49,7 @@
     "e852b54b-9f5d-4bc2-bbed-18d21018a45d": {
       "type": "text--image-with-text",
       "settings": {
-        "colors": "dark",
+        "colors": "accent",
         "image-width": "extra-large",
         "image": "{{ collection.image }}",
         "layout": "left",
