@@ -104,6 +104,21 @@
         "product_recommendations_heading": "You may also like"
       }
     },
+    "c4fec491-65cd-4b6b-938b-92e930763c22": {
+      "type": "image--image-with-text-block",
+      "settings": {
+        "desktop_image": "shopify:\/\/shop_images\/pigalle_hp.png",
+        "parallax": true,
+        "text-color": "#000000",
+        "background-color": "#ffffff",
+        "horizontal-alignment": "center",
+        "subheading": "Found in",
+        "title": "Le Pigalle",
+        "text": "aodjoiawjdioajwdoijawodjioajwdijawodjoiajwdio aodjoiawjdioajwdoijawodjioajwdijawodjoiajwdio",
+        "button_link": "shopify:\/\/pages\/seller-profile",
+        "button_label": "Discover"
+      }
+    },
     "65211727-6a2a-4219-a8f9-1f8ac9a1ba73": {
       "type": "accordion",
       "blocks": {
@@ -161,6 +176,7 @@
   "order": [
     "main",
     "product-recommendations",
+    "c4fec491-65cd-4b6b-938b-92e930763c22",
     "65211727-6a2a-4219-a8f9-1f8ac9a1ba73"
   ]
 }
