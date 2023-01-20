@@ -34,12 +34,6 @@
             "product-dimensions": "<p>{{ product.metafields.custom.product_dimensions | metafield_tag }}<\/p>"
           }
         },
-        "b31c65fb-6428-485c-985d-0fa5ea3e35e3": {
-          "type": "product-specifications",
-          "settings": {
-            "product-specifications": "<p>{{ product.metafields.custom.product_specifications | metafield_tag }}<\/p>"
-          }
-        },
         "quantity-selector": {
           "type": "quantity-selector",
           "settings": {
@@ -70,6 +64,12 @@
           "settings": {
             "show_smart_checkout": true
           }
+        },
+        "b31c65fb-6428-485c-985d-0fa5ea3e35e3": {
+          "type": "product-specifications",
+          "settings": {
+            "product-specifications": "<p>{{ product.metafields.custom.product_specifications | metafield_tag }}<\/p>"
+          }
         }
       },
       "block_order": [
@@ -78,12 +78,12 @@
         "product-price",
         "374f8622-6038-471b-971d-e3c84c6f38dc",
         "2ed0d2ef-3608-4b4c-bde7-2a37c316cf4d",
-        "b31c65fb-6428-485c-985d-0fa5ea3e35e3",
         "quantity-selector",
         "product-options",
         "28e60fc2-5972-4b97-b556-528687ff624e",
         "6b24a8c9-e601-4d7a-a2b7-0d762e14441c",
-        "payment-buttons"
+        "payment-buttons",
+        "b31c65fb-6428-485c-985d-0fa5ea3e35e3"
       ],
       "settings": {
         "show_out_of_stock_email": true,
@@ -103,10 +103,64 @@
         "show_product_recommendations": true,
         "product_recommendations_heading": "You may also like"
       }
+    },
+    "65211727-6a2a-4219-a8f9-1f8ac9a1ba73": {
+      "type": "accordion",
+      "blocks": {
+        "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-0": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Will i have to pay custom fees on my order?",
+            "text": ""
+          }
+        },
+        "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-1": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Can I return my product?",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-2": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Whne will my produtc be delivered?",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "513503ba-b60c-4c86-b8ca-d3902d5e3071": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "514bd0d9-2e52-4b9d-b460-0c803c65b066": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-0",
+        "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-1",
+        "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-2",
+        "513503ba-b60c-4c86-b8ca-d3902d5e3071",
+        "514bd0d9-2e52-4b9d-b460-0c803c65b066"
+      ],
+      "settings": {
+        "background-color": "#f3f3f3",
+        "text-color": "#000000",
+        "title": "Frequently asked questions",
+        "faq_icon": "caret"
+      }
     }
   },
   "order": [
     "main",
-    "product-recommendations"
+    "product-recommendations",
+    "65211727-6a2a-4219-a8f9-1f8ac9a1ba73"
   ]
 }
