@@ -1,0 +1,144 @@
+{
+  "wrapper": "div.collection-main--wrapper",
+  "sections": {
+    "c51115d7-76ff-4251-adcc-df5a6062b033": {
+      "type": "image--image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image": "{{ collection.image }}",
+        "subheading": "",
+        "title": "",
+        "text": "",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "collection_header": {
+      "type": "template--collection-header",
+      "disabled": true,
+      "blocks": {
+        "faac8e0e-4e8f-430d-b8d9-2826d304a5d1": {
+          "type": "collection-image",
+          "settings": {
+            "collection_image_size": "40vh"
+          }
+        },
+        "7c4cfe0b-4cbb-4487-a49d-fd4647a71781": {
+          "type": "collection-title",
+          "settings": {
+          }
+        },
+        "collection-description": {
+          "type": "collection-description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "faac8e0e-4e8f-430d-b8d9-2826d304a5d1",
+        "7c4cfe0b-4cbb-4487-a49d-fd4647a71781",
+        "collection-description"
+      ],
+      "settings": {
+      }
+    },
+    "e852b54b-9f5d-4bc2-bbed-18d21018a45d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "accent",
+        "image-width": "extra-large",
+        "image": "{{ collection.image }}",
+        "layout": "left",
+        "subheading": "",
+        "title": "{{ collection.title }}",
+        "text_block": "",
+        "page_description": true,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "collection_filtering": {
+      "type": "template--collection-filter-sort",
+      "settings": {
+        "desktop_position": "topbar",
+        "enable_filtering": true,
+        "enable_sorting": true
+      }
+    },
+    "main": {
+      "type": "template--collection",
+      "blocks": {
+        "grid-card-title": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "grid-card-price": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "grid-card-swatches": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "grid-card-title",
+        "grid-card-price",
+        "grid-card-swatches"
+      ],
+      "settings": {
+        "grid": 4,
+        "rows": 7,
+        "pagination_type": "infinite_scrolling"
+      }
+    },
+    "collection-list": {
+      "type": "collection--collection-list",
+      "blocks": {
+        "collection-list-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "living-room-accessories"
+          }
+        },
+        "collection-list-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "{{ collection }}"
+          }
+        },
+        "collection-list-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "books-office-accessories"
+          }
+        }
+      },
+      "block_order": [
+        "collection-list-0",
+        "collection-list-1",
+        "collection-list-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Discover also"
+      }
+    }
+  },
+  "order": [
+    "c51115d7-76ff-4251-adcc-df5a6062b033",
+    "collection_header",
+    "e852b54b-9f5d-4bc2-bbed-18d21018a45d",
+    "collection_filtering",
+    "main",
+    "collection-list"
+  ]
+}
