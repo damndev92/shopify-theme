@@ -13,6 +13,20 @@
         "show_recent_posts": false
       }
     },
+    "dfb3c107-8b0c-4ab0-b411-8630591ed64b": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "subheading": "Meet the Maker",
+        "title": "Claire Olshan",
+        "text": "Creative Director Dada Daily -New York",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "37abe2fd-3065-47c3-8157-adc40442c4e2": {
       "type": "text--image-with-text",
       "settings": {
@@ -57,6 +71,7 @@
   },
   "order": [
     "main",
+    "dfb3c107-8b0c-4ab0-b411-8630591ed64b",
     "37abe2fd-3065-47c3-8157-adc40442c4e2",
     "eb9090ee-94db-41a6-9201-73b74561685e",
     "blog-posts"
