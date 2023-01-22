@@ -16,6 +16,7 @@
     "dfb3c107-8b0c-4ab0-b411-8630591ed64b": {
       "type": "image--image-with-text-overlay",
       "settings": {
+        "image": "shopify:\/\/shop_images\/dada_3.jpg",
         "subheading": "Meet the Maker",
         "title": "Claire Olshan",
         "text": "Creative Director Dada Daily -New York",
@@ -27,15 +28,28 @@
         "button_label": ""
       }
     },
+    "afb76caa-87f2-4119-9cf0-31fac40b0701": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p>Use this text block to show store announcements, advertise products and collections, or simply welcome visitors to your store.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "37abe2fd-3065-47c3-8157-adc40442c4e2": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/dada_1.jpg",
         "layout": "left",
-        "subheading": "",
-        "title": "Tell us about Malaika",
-        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "subheading": "Who or what is Dada?",
+        "title": "",
+        "text_block": "<p><a href=\"https:\/\/www.maisonflaneur.com\/brand\/dada-daily\/products\/\">Dada<\/a> is that feeling of effortless magic. It’s simple moments, tools, objects that change a moment from ordinary to extraordinary. Dada’s spirit, taken from the art movement itself, is not about convention or proper – it’s about creating decadence in one’s daily moments; moments that will bring you joy and inspiration, moments that will bring people together to be creative and ignite the senses.<em> <\/em><\/p>",
         "page_description": false,
         "button_link": "",
         "button_label": ""
@@ -45,35 +59,120 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/dada_1.jpg",
         "layout": "right",
-        "subheading": "",
-        "title": "Share brand or product details",
-        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "subheading": "Which came first, the snack or the snack holder?",
+        "title": "",
+        "text_block": "<p>In my mind they are twins, born at the same moment. The elevated snack moment, could only truly feel comfortable in the gestalt of the DADA world. Reality made the snack come first, as one can only bite off as much as they can chew (no pun intended). The purpose of DADA is to create the toolbox for entertaining. One shouldn’t feel overwhelmed or insecure – whether you’re entertaining yourself, your loved ones or your sense, DADA was meant to be used anytime and anywhere to effortlessly create a magical hour of the ordinary moment.<\/p>",
         "page_description": false,
         "button_link": "shopify:\/\/products\/astoria-floor-lamp",
-        "button_label": "Shop now"
+        "button_label": ""
+      }
+    },
+    "670405dd-cb6e-452a-860c-ac30340e73cc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/dada_3.jpg",
+        "layout": "left",
+        "subheading": "Where do you get inspiration for your designs?",
+        "title": "",
+        "text_block": "<p>OY YOY YOY. How much time do you have? I live in NYC – so there’s that. Inspiration EVERYWHERE, if you’re looking for it. I love books. In a past life I’m pretty sure I lived in Vienna in the first three decades of the 20th century. That world of design has pretty much inspired everything I’ve ever done from a very early age.<\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/products\/astoria-floor-lamp",
+        "button_label": ""
+      }
+    },
+    "4d8a5766-ee8d-4710-82b3-4a12f6815664": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/dada_2.jpg",
+        "layout": "right",
+        "subheading": "Obsessed with your “Butt Holder”! Tell us the inspiration behind that design.",
+        "title": "",
+        "text_block": "<p>When I was in my very early 20’s and worked in the art world, I remember seeing a Pedro Friedeberg hand chair for the first time and has that heartbreakingly visceral reaction (that only a true 20-year-old can have) that one day I needed to have it. I remember that loves the marriage of the masculinity of the chair, big tough and secure but mixed with these curvy voluptuous lines that resembled a woman.  I searched the internet and found a tiny gold one and blew way more money than I should have on it. It still sits on my shelf in my apartment and will always be one of my favourite purchases.<\/p><p>Anyway, I wanted the ashtray to convey those same feelings – and while it isn’t made JUST for smoking “butts” – I did want it to conjure up the visual of smoking; the sexy, bygone era, where smoking was cool. Cowboy, bombshell, European, all American, sad, disco…. Pretty much everything real. Long story short, I wanted people to feel that heartbreak I had at the turn of my teenage years and say, “I need to have that.”<\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/products\/astoria-floor-lamp",
+        "button_label": ""
+      }
+    },
+    "30f9dd98-05c5-4e13-8abc-52320edc1b9f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/dada_2.jpg",
+        "layout": "left",
+        "subheading": "What’s your favourite piece in your collection?",
+        "title": "",
+        "text_block": "<p>Bugatti chair… OR my daughter’s bed<\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/products\/astoria-floor-lamp",
+        "button_label": ""
+      }
+    },
+    "fba57df4-19c3-4c71-a897-d81a1871deb3": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17662147035451__fba57df4-19c3-4c71-a897-d81a1871deb3-16743937582669950b-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17662147035451__fba57df4-19c3-4c71-a897-d81a1871deb3-16743937582669950b-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17662147035451__fba57df4-19c3-4c71-a897-d81a1871deb3-16743937582669950b-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17662147035451__fba57df4-19c3-4c71-a897-d81a1871deb3-16743937582669950b-0",
+        "template--17662147035451__fba57df4-19c3-4c71-a897-d81a1871deb3-16743937582669950b-1",
+        "template--17662147035451__fba57df4-19c3-4c71-a897-d81a1871deb3-16743937582669950b-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Discover",
+        "title": "Dada Daily Collection",
+        "collection": "",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": true
       }
     },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
         "colors": "light",
-        "subheading": "BLOG",
-        "title": "Latest articles",
+        "subheading": "Flaneur Magazine",
+        "title": "You might also like",
         "post_limit": 3,
         "show_author_name": false,
         "show_dates": true,
         "show_blog_images": true,
-        "imageSize": "square"
+        "imageSize": "portrait"
       }
     }
   },
   "order": [
     "main",
     "dfb3c107-8b0c-4ab0-b411-8630591ed64b",
+    "afb76caa-87f2-4119-9cf0-31fac40b0701",
     "37abe2fd-3065-47c3-8157-adc40442c4e2",
     "eb9090ee-94db-41a6-9201-73b74561685e",
+    "670405dd-cb6e-452a-860c-ac30340e73cc",
+    "4d8a5766-ee8d-4710-82b3-4a12f6815664",
+    "30f9dd98-05c5-4e13-8abc-52320edc1b9f",
+    "fba57df4-19c3-4c71-a897-d81a1871deb3",
     "blog-posts"
   ]
 }
