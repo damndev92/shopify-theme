@@ -181,6 +181,7 @@
 	{% render 'structured-data' %}
   	<script defer type="module" src="{{ 'theme.min.js' | asset_url }}"></script>
 		<script defer nomodule src="{{ 'theme.legacy.min.js' | asset_url }}"></script>
+	{% render 'js-modules' %}
 </body>
 
 </html>

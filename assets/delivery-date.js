@@ -26,7 +26,7 @@ class DeliveryDate extends HTMLElement {
     }
 
     connectedCallback() {
-        this.fromDate = getDeliveryDate(this.getAttribute('fromdate'))
+        //this.fromDate = getDeliveryDate(this.getAttribute('fromdate'))
         this.toDate = getDeliveryDate(this.getAttribute('todate'));
         this.id = this.getAttribute('id')
         this.label = this.getAttribute('label')
@@ -34,8 +34,8 @@ class DeliveryDate extends HTMLElement {
 
         shadow.appendChild(template.content.cloneNode(true));
         shadow.appendChild(createElement('p', 'title', this.label))
-        shadow.appendChild(createElement('p', 'date', this.fromDate))
-        shadow.appendChild(createElement('p','space', '-'))
+        //shadow.appendChild(createElement('p', 'date', this.fromDate))
+        //shadow.appendChild(createElement('p','space', '-'))
         shadow.appendChild(createElement('p','date', this.toDate))
     }
 }

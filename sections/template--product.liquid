@@ -278,37 +278,12 @@
                 <p>{{ block.settings.product-specifications }}</p>
 
               {% when 'days-to-deliver' %}
+
                 {% liquid
-                  assign default_number_of_days = 5
-
-                  if block.settings.days-to-deliver
-                    assign days_to_deliver = block.settings.days-to-deliver | strip_html | jsonify
-                  else
-                    assign days_to_deliver = default_number_of_days
+                  if block.settings.days-to-deliver != blank
+                    render 'delivery-date', days_to_deliver_block: block.settings.days-to-deliver
                   endif
-
-                  assign gap = days_to_deliver | plus: 4
                 %}
-                <p>Estimated delivery:
-                  <strong>
-                    <span id="fromDate"></span> - <span id="toDate"></span>
-                  </strong>
-                </p>
-                {{ '//cdnjs.cloudflare.com/ajax/libs/datejs/1.0/date.min.js' | script_tag }}
-                <script>
-                  let fromDate = Date.today().addDays({{ days_to_deliver }});
-
-                  if (fromDate.is().saturday() || fromDate.is().sunday()) {
-                      fromDate = fromDate.next().monday();
-                  }
-
-                  let toDate = Date.today().addDays({{ gap | jsonify }});
-                  if (toDate.is().saturday() || toDate.is().sunday()) {
-                      toDate = toDate.next().monday();
-                  }
-                  document.getElementById('fromDate').innerHTML = fromDate.toString('MMM dS');
-                  document.getElementById('toDate').innerHTML = toDate.toString('MMM dS');
-                </script>
 
               {% when 'product-price' %}
 
