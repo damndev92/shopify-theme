@@ -266,16 +266,24 @@
                 <h1 class="custom-font product-description-header" {{ block.shopify_attributes }}>{{ product.title }}</h1>
 
               {% when 'country-of-origin' %}
-                <p>{{ block.settings.country-of-origin }}</p>
+                {% if block.settings.country-of-origin != blank %}
+                  <p>{{ block.settings.country-of-origin-label }} {{ block.settings.country-of-origin }}</p>
+                {% endif %}
 
               {% when 'delivery-and-returns' %}
-                <p>{{ block.settings.delivery-and-returns }}</p>
+                {% if block.settings.delivery-and-returns != blank %}
+                  <p>{{ block.settings.delivery-and-returns }}</p>
+                {% endif %}
 
               {% when 'product-dimensions' %}
-                <p>{{ block.settings.product-dimensions }}</p>
+                {% if block.settings.product-dimensions != blank %}
+                  <p>{{ block.settings.product-dimensions }}</p>
+                {% endif %}
 
               {% when 'product-specifications' %}
-                <p>{{ block.settings.product-specifications }}</p>
+                {% if block.settings.product-specifications != blank %}
+                  {% render 'maison-product-accordion', accordion_content: block.settings.product-specifications %}
+                {% endif %}
 
               {% when 'days-to-deliver' %}
 
@@ -1206,6 +1214,12 @@
           "name": "Country of origin",
           "type": "country-of-origin",
           "settings": [
+            {
+            "type": "text",
+            "id": "country-of-origin-label",
+            "label": "Label",
+            "default": "Ships from"
+            },
             {
             "type": "text",
             "id": "country-of-origin",
