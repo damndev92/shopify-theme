@@ -10,6 +10,7 @@ We highly recommend labelling changes, or App installs, so these can also be upd
     height: 684px;
     width: 730px;
     object-fit: cover;
+    max-width: 100% !important;
 }
 
 .product-single__thumbnails .swiper-container-horizontal .product-single__thumbnail__wrapper {
