@@ -6,7 +6,7 @@
         "image": "shopify:\/\/shop_images\/pigalle_hp.png",
         "parallax": true,
         "alignment": "center",
-        "hero_size": "medium",
+        "hero_size": "large",
         "text-over-image-width": "full-width"
       }
     },
