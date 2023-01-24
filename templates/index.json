@@ -6,11 +6,11 @@
         "image--slideshow-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cute-cat-photo.jpg",
-            "subheading": "New Brand",
-            "title": "Discover Viso",
+            "image": "shopify:\/\/shop_images\/le-pigalle-parisian-hotel-double-room_a7ba58f6-f809-4e4a-87aa-b1c83a6808a7.jpg",
+            "subheading": "Discover",
+            "title": "Le Pigalle",
             "text": "Here's your chance to make a great first impression",
-            "button_text": "Shop now",
+            "button_text": "Visit",
             "link": "shopify:\/\/collections\/all",
             "caption-background": "rgba(0,0,0,0)",
             "caption-text": "#ffffff",
@@ -66,7 +66,7 @@
         "colors": "white",
         "subheading": "Shop",
         "title": "New in",
-        "collection": "all",
+        "collection": "new-in",
         "grid": 4,
         "rows": 1,
         "show_view_all": true
@@ -174,7 +174,7 @@
         "template--17643497783611__cab7e0c8-ccb0-41e9-8fcb-49ec92305af0-1674557253e906ad71-1"
       ],
       "settings": {
-        "colors": "accent",
+        "colors": "white",
         "subheading": "Testimonials",
         "title": "Join thousands of happy Flâneurs!",
         "slider-animation": "slide",
@@ -258,9 +258,23 @@
         "b25b29a1-4272-4fff-8ba4-9b7bf27a546b"
       ],
       "settings": {
-        "colors": "white",
+        "colors": "light",
         "subheading": "",
         "title": "Discover"
+      }
+    },
+    "965c199b-916f-4301-a1cc-ef4095be5f72": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "layout": "left",
+        "subheading": "Join our",
+        "title": "Trade Program",
+        "text_block": "<p>Maison Flâneur is here to support designers, architects and stylists across the interiors industry, providing you with access to a range of benefits<\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/pages\/trade-program",
+        "button_label": "Join our trade program"
       }
     },
     "c94d79d4-bbe0-4f33-a57f-335300f24f32": {
@@ -269,9 +283,9 @@
         "template--17456700391739__c94d79d4-bbe0-4f33-a57f-335300f24f32-1673176379b2355835-0": {
           "type": "text",
           "settings": {
-            "icon": "truck",
-            "heading": "Free shipping",
-            "subheading": "Shout about your unique selling points",
+            "icon": "compass",
+            "heading": "Our curation",
+            "subheading": "",
             "link": ""
           }
         },
@@ -300,7 +314,7 @@
         "template--17456700391739__c94d79d4-bbe0-4f33-a57f-335300f24f32-1673176379b2355835-2"
       ],
       "settings": {
-        "colors": "light",
+        "colors": "dark",
         "alignment": "center",
         "icon-size": "text-adverts__icon-size--medium"
       }
@@ -311,31 +325,43 @@
         "logo-list-0": {
           "type": "logo_image",
           "settings": {
-            "link": "shopify:\/\/collections\/all"
+            "image": "shopify:\/\/shop_images\/Vogue_logo.png",
+            "link": ""
           }
         },
         "logo-list-1": {
           "type": "logo_image",
           "settings": {
-            "link": "shopify:\/\/collections\/all"
+            "image": "shopify:\/\/shop_images\/CDNST_logo.png",
+            "link": ""
           }
         },
         "logo-list-2": {
           "type": "logo_image",
           "settings": {
-            "link": "shopify:\/\/collections\/all"
+            "image": "shopify:\/\/shop_images\/Elle_Decor_logo_svg.png",
+            "link": ""
           }
         },
         "logo-list-3": {
           "type": "logo_image",
           "settings": {
-            "link": "shopify:\/\/collections\/all"
+            "image": "shopify:\/\/shop_images\/Tatler_logo_logotype.png",
+            "link": ""
           }
         },
         "logo-list-4": {
           "type": "logo_image",
           "settings": {
-            "link": "shopify:\/\/collections\/all"
+            "image": "shopify:\/\/shop_images\/lofficiel-vector-logo.png",
+            "link": ""
+          }
+        },
+        "0ec635a0-8a25-4af1-990a-d91daa3c36a3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Country_Life__magazine__logo.png",
+            "link": ""
           }
         }
       },
@@ -344,64 +370,14 @@
         "logo-list-1",
         "logo-list-2",
         "logo-list-3",
-        "logo-list-4"
+        "logo-list-4",
+        "0ec635a0-8a25-4af1-990a-d91daa3c36a3"
       ],
       "settings": {
         "colors": "white",
         "width": 150,
         "subheading": "",
         "title": "As seen in"
-      }
-    },
-    "965c199b-916f-4301-a1cc-ef4095be5f72": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "layout": "left",
-        "subheading": "Join our",
-        "title": "Trade Program",
-        "text_block": "<p>Maison Flaâneur is here to support designers, architects and stylists across the interiors industry, providing you with access to a range of benefits<\/p>",
-        "page_description": false,
-        "button_link": "shopify:\/\/pages\/trade-program",
-        "button_label": "Join our trade program"
-      }
-    },
-    "a3b5f198-b450-4885-9171-29a7598a44f0": {
-      "type": "accordion",
-      "blocks": {
-        "template--17456700391739__a3b5f198-b450-4885-9171-29a7598a44f0-167317923310d1e763-0": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        },
-        "template--17456700391739__a3b5f198-b450-4885-9171-29a7598a44f0-167317923310d1e763-1": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        },
-        "template--17456700391739__a3b5f198-b450-4885-9171-29a7598a44f0-167317923310d1e763-2": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17456700391739__a3b5f198-b450-4885-9171-29a7598a44f0-167317923310d1e763-0",
-        "template--17456700391739__a3b5f198-b450-4885-9171-29a7598a44f0-167317923310d1e763-1",
-        "template--17456700391739__a3b5f198-b450-4885-9171-29a7598a44f0-167317923310d1e763-2"
-      ],
-      "settings": {
-        "background-color": "#ffffff",
-        "text-color": "#000000",
-        "title": "Frequently asked questions",
-        "faq_icon": "plus_minus"
       }
     }
   },
@@ -413,9 +389,8 @@
     "cab7e0c8-ccb0-41e9-8fcb-49ec92305af0",
     "blog_blog_posts",
     "collection-list",
-    "c94d79d4-bbe0-4f33-a57f-335300f24f32",
-    "logo-list",
     "965c199b-916f-4301-a1cc-ef4095be5f72",
-    "a3b5f198-b450-4885-9171-29a7598a44f0"
+    "c94d79d4-bbe0-4f33-a57f-335300f24f32",
+    "logo-list"
   ]
 }

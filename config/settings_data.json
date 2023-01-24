@@ -172,8 +172,8 @@
           "footer-1": {
             "type": "menu",
             "settings": {
-              "menu_title": "Links",
-              "footer_linklist": "main-menu"
+              "menu_title": "Browse",
+              "footer_linklist": "mega-menu"
             }
           },
           "footer-0": {
@@ -183,17 +183,18 @@
               "richtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
             }
           },
-          "footer-3": {
-            "type": "social",
+          "32015f9d-98d0-4acd-aa2b-2ca8f5c2043b": {
+            "type": "newsletter",
             "settings": {
-              "menu_title": "Get connected"
+              "menu_title": "Join the Flâneur family",
+              "footer_newsletter_description": ""
             }
           }
         },
         "block_order": [
           "footer-1",
           "footer-0",
-          "footer-3"
+          "32015f9d-98d0-4acd-aa2b-2ca8f5c2043b"
         ],
         "settings": {
           "show_methods_of_payment": true,
