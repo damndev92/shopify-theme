@@ -55,12 +55,18 @@
           "type": "grid-card-swatches",
           "settings": {
           }
+        },
+        "563f44e0-b63c-4bcb-aa26-bd27d8629560": {
+          "type": "grid-card-vendor",
+          "settings": {
+          }
         }
       },
       "block_order": [
         "grid-card-title",
         "grid-card-price",
-        "grid-card-swatches"
+        "grid-card-swatches",
+        "563f44e0-b63c-4bcb-aa26-bd27d8629560"
       ],
       "settings": {
         "colors": "white",
@@ -68,7 +74,7 @@
         "title": "New in",
         "collection": "new-in",
         "grid": 4,
-        "rows": 1,
+        "rows": 2,
         "show_view_all": true
       }
     },
