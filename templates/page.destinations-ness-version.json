@@ -1,1 +1,350 @@
-{"sections":{"5a06cc80-bb50-4de2-98cb-3cf4af3a967b":{"type":"image--image","settings":{"image":"shopify:\/\/shop_images\/pigalle_hp.png","parallax":true,"alignment":"center","hero_size":"medium","text-over-image-width":"full-width"}},"main":{"type":"template--page","disabled":true,"settings":{}},"f7c0748c-6ba1-46ec-850f-c0f1e93b3446":{"type":"text--rich-text","settings":{"colors":"white","width":"medium","subheading":"","title":"Le Pigalle","text":"<p>Mythical and imposing, languid and frenetic, Pigalle is a neon light in the Parisian night. The neighbourhood has always attracted bad boys and artists, musicians and adventurers. With neither a monument nor a meeting point, it lacked a spot that really reflected its tawdry values, brazen spirit and musical energy. And so, Le Pigalle was born. An authentic neighbourhood hotel, whose history was shaped by the cultural mix that swirls on the southern slopes of Montmartre.<\/p>","button_link":"","button_label":""}},"7322c4e1-3560-42f9-a9c6-6ee0710b286b":{"type":"image--gallery","blocks":{"template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/1.png","link":"shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle","title":"","description":""}},"template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/2.png","link":"shopify:\/\/products\/parentesi-suspension-lamp","title":"","description":""}}},"block_order":["template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0","template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1"],"settings":{"colors":"light","subheading":"","title":""}},"63680a03-e85a-40a7-9084-4a83db4c7921":{"type":"image--gallery","blocks":{"4a6acbfc-e3bf-4241-befe-d155af3a0092":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/5.png","link":"shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle","title":"","description":""}},"c2c6cee0-74ca-4a08-a2fb-344ad7d32db9":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/3.png","link":"shopify:\/\/products\/wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand","title":"","description":""}},"a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/4.png","link":"shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle","title":"","description":""}},"f28e3701-03ba-4ff9-a8f9-912d3945ff62":{"type":"image","disabled":true,"settings":{"link":"","title":"","description":""}}},"block_order":["4a6acbfc-e3bf-4241-befe-d155af3a0092","c2c6cee0-74ca-4a08-a2fb-344ad7d32db9","a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03","f28e3701-03ba-4ff9-a8f9-912d3945ff62"],"settings":{"colors":"light","subheading":"","title":""}},"754b6613-99e2-4bfd-a95a-940c730e6bcd":{"type":"image--image-with-text-block","disabled":true,"settings":{"parallax":true,"text-color":"#000000","background-color":"#ffffff","horizontal-alignment":"center","subheading":"","title":"Meet the Interior Designers","text":"For Le Pigalle, renowned Parisian Interior Design Firm Festen took the original building and added typical Parisian touches, such as panelled doors and white walls, moulding, woodwork and parquet flooring.\n\nAs Hugo Sauzay, one of Festen’s partners says, “If you really look close at Pigalle, we’re actually in La Nouvelle Athenes, where the architecture is less uniform than elsewhere, and we’ve taken the essence of that with details such as curved bay windows, and the cheap, veined marble that was really popular in this faubourg, where people wanted to imitate the richer districts, so we’ve used that for the basins. The terrazzo flooring on the ground floor is like the ones you find in the local bars…”\n\nThe scraped plaster dados on the ground floor are a nod to the old mines of Montmartre and just one example of how the hotel’s interior design is deeply rooted in its surroundings.","button_link":"","button_label":"Learn More"}},"f752c25e-ff65-466a-ba61-33848f1147fc":{"type":"text--image-with-text","settings":{"colors":"white","image-width":"medium","image":"shopify:\/\/shop_images\/festern.png","layout":"left","subheading":"","title":"Meet the Interior Designers","text_block":"<p><\/p><p>For Le Pigalle, renowned Parisian Interior Design Firm Festen took the original building and added typical Parisian touches, such as panelled doors and white walls, moulding, woodwork and parquet flooring.<\/p>","button_link":"https:\/\/www.festenarchitecture.com\/contact.html","button_label":"Learn More"}},"d8d797eb-2ad1-4c2a-ad47-2e73380b2083":{"type":"product--shop-the-look","blocks":{"template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1":{"type":"product","settings":{"product":"grey-speckled-love-handles-vase","top":63,"left":51}},"61a17092-0b88-43c9-888c-ee6b50651501":{"type":"product","settings":{"product":"pierre-chapo-wood-and-leather-chair-s24","top":0,"left":0}},"2d0cd767-4992-4798-8a74-406d517d073e":{"type":"product","settings":{"product":"foscarini-buds-3-table-lamp","top":33,"left":0}},"d212ef77-eb11-4665-b89a-22f576e75dec":{"type":"product","settings":{"product":"white-cotton-graphic-backpack-jean-andre-x-le-pigalle","top":0,"left":0}}},"block_order":["template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1","61a17092-0b88-43c9-888c-ee6b50651501","2d0cd767-4992-4798-8a74-406d517d073e","d212ef77-eb11-4665-b89a-22f576e75dec"],"settings":{"colors":"white","subheading":"Le Pigalle","title":"Shop the look","image":"shopify:\/\/shop_images\/room.png","image__position":"image--left","hotspot__color":"#ffffff","stl__heading":"Heading","stl__description":"<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>","description__position":"hidden","link":"shopify:\/\/collections\/le-pigalle","button__text":"Shop the look"}},"9299a3ef-12a1-48f6-abe6-a54f93478d0b":{"type":"image--gallery","blocks":{"template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/7.png","link":"","title":"","description":""}},"template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/8.png","link":"","title":"","description":""}}},"block_order":["template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0","template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1"],"settings":{"colors":"white","subheading":"","title":""}},"889d2c25-4140-44f5-af7a-2c8599551986":{"type":"text--rich-text","settings":{"colors":"white","width":"medium","subheading":"The rooms","title":"Take A Peek Inside","text":"<p>Their rooms' neoclassical architectural style inspired artists and poets in the late nineteenth century. All 40 rooms are decorated in the Nouvelle Athènes mode, conveying a specific image of Pigalle: historic, modern, decadent, multicultural, and musical. Simple and comfortable, full of domestic touches. Each is a collection of objects, souvenirs, music, books and second-hand furniture, with a personality all of its own.<\/p>","button_link":"","button_label":""}},"0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e":{"type":"image--gallery","blocks":{"template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/4_fd62c092-41ea-469f-be64-030352f553af.png","link":"https:\/\/lepigalle.paris\/en\/chambres-pigalle-17\/","title":"Pigalle 17","description":"<p>With its bar and close-up view of the neighbourhood, the Pigalle 17 has an an intimate feel, making the room perfect for couples.<\/p>"}},"template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/3_350cda9f-05bd-4598-8745-e2f53c202924.png","link":"https:\/\/lepigalle.paris\/en\/chambres-pigalle-21-ou-22-avec-platine\/","title":"Pigalle 21","description":"<p>The Pigalle 21 features a turntable and rare selection of historic vinyl, and a 1920s golden era leather-upholstered bar.<\/p>"}},"template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/1_79b26e16-05b4-4728-99b2-639c553d59de.png","link":"https:\/\/lepigalle.paris\/en\/chambres-pigalle-22\/","title":"Pigalle 22","description":"<p>A voluptuous cocoon lined with inspiring pieces of art, the Pigalle 22 is particularly spacious and homely with a large bed and a bath in the bedroom itself.<\/p>"}}},"block_order":["template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0","template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1","template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2"],"settings":{"colors":"white","subheading":"","title":""}},"a8acd27c-8689-484b-9185-148c6a733c96":{"type":"collection--featured-collection","blocks":{"template--17526727344443__a8acd27c-8689-484b-9185-148c6a733c96-167335175805e84d3b-0":{"type":"grid-card-title","settings":{}},"template--17526727344443__a8acd27c-8689-484b-9185-148c6a733c96-167335175805e84d3b-1":{"type":"grid-card-price","settings":{}},"template--17526727344443__a8acd27c-8689-484b-9185-148c6a733c96-167335175805e84d3b-2":{"type":"grid-card-swatches","settings":{}}},"block_order":["template--17526727344443__a8acd27c-8689-484b-9185-148c6a733c96-167335175805e84d3b-0","template--17526727344443__a8acd27c-8689-484b-9185-148c6a733c96-167335175805e84d3b-1","template--17526727344443__a8acd27c-8689-484b-9185-148c6a733c96-167335175805e84d3b-2"],"settings":{"colors":"white","subheading":"Discover","title":"Le Pigalle Shop","collection":"le-pigalle","grid":5,"rows":1,"show_view_all":true}}},"order":["5a06cc80-bb50-4de2-98cb-3cf4af3a967b","main","f7c0748c-6ba1-46ec-850f-c0f1e93b3446","7322c4e1-3560-42f9-a9c6-6ee0710b286b","63680a03-e85a-40a7-9084-4a83db4c7921","754b6613-99e2-4bfd-a95a-940c730e6bcd","f752c25e-ff65-466a-ba61-33848f1147fc","d8d797eb-2ad1-4c2a-ad47-2e73380b2083","9299a3ef-12a1-48f6-abe6-a54f93478d0b","889d2c25-4140-44f5-af7a-2c8599551986","0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e","a8acd27c-8689-484b-9185-148c6a733c96"]}
+{
+  "sections": {
+    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pigalle_hp.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "main": {
+      "type": "template--page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "Le Pigalle",
+        "text": "<p>Mythical and imposing, languid and frenetic, Pigalle is a neon light in the Parisian night. The neighbourhood has always attracted bad boys and artists, musicians and adventurers. With neither a monument nor a meeting point, it lacked a spot that really reflected its tawdry values, brazen spirit and musical energy. And so, Le Pigalle was born. An authentic neighbourhood hotel, whose history was shaped by the cultural mix that swirls on the southern slopes of Montmartre.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.png",
+            "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "link": "shopify:\/\/products\/parentesi-suspension-lamp",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0",
+        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1"
+      ],
+      "settings": {
+        "colors": "light",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "63680a03-e85a-40a7-9084-4a83db4c7921": {
+      "type": "image--gallery",
+      "blocks": {
+        "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "link": "shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle",
+            "title": "",
+            "description": ""
+          }
+        },
+        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "link": "shopify:\/\/products\/wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
+            "title": "",
+            "description": ""
+          }
+        },
+        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4.png",
+            "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
+            "title": "",
+            "description": ""
+          }
+        },
+        "f28e3701-03ba-4ff9-a8f9-912d3945ff62": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "4a6acbfc-e3bf-4241-befe-d155af3a0092",
+        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9",
+        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03",
+        "f28e3701-03ba-4ff9-a8f9-912d3945ff62"
+      ],
+      "settings": {
+        "colors": "light",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "a8acd27c-8689-484b-9185-148c6a733c96": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17526727344443__a8acd27c-8689-484b-9185-148c6a733c96-167335175805e84d3b-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17526727344443__a8acd27c-8689-484b-9185-148c6a733c96-167335175805e84d3b-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17526727344443__a8acd27c-8689-484b-9185-148c6a733c96-167335175805e84d3b-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17526727344443__a8acd27c-8689-484b-9185-148c6a733c96-167335175805e84d3b-0",
+        "template--17526727344443__a8acd27c-8689-484b-9185-148c6a733c96-167335175805e84d3b-1",
+        "template--17526727344443__a8acd27c-8689-484b-9185-148c6a733c96-167335175805e84d3b-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Discover",
+        "title": "Le Pigalle Shop",
+        "collection": "le-pigalle",
+        "grid": 5,
+        "rows": 1,
+        "show_view_all": true
+      }
+    },
+    "754b6613-99e2-4bfd-a95a-940c730e6bcd": {
+      "type": "image--image-with-text-block",
+      "disabled": true,
+      "settings": {
+        "parallax": true,
+        "text-color": "#000000",
+        "background-color": "#ffffff",
+        "horizontal-alignment": "center",
+        "subheading": "",
+        "title": "Meet the Interior Designers",
+        "text": "For Le Pigalle, renowned Parisian Interior Design Firm Festen took the original building and added typical Parisian touches, such as panelled doors and white walls, moulding, woodwork and parquet flooring.\n\nAs Hugo Sauzay, one of Festen’s partners says, “If you really look close at Pigalle, we’re actually in La Nouvelle Athenes, where the architecture is less uniform than elsewhere, and we’ve taken the essence of that with details such as curved bay windows, and the cheap, veined marble that was really popular in this faubourg, where people wanted to imitate the richer districts, so we’ve used that for the basins. The terrazzo flooring on the ground floor is like the ones you find in the local bars…”\n\nThe scraped plaster dados on the ground floor are a nod to the old mines of Montmartre and just one example of how the hotel’s interior design is deeply rooted in its surroundings.",
+        "button_link": "",
+        "button_label": "Learn More"
+      }
+    },
+    "f752c25e-ff65-466a-ba61-33848f1147fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/festern.png",
+        "layout": "left",
+        "subheading": "",
+        "title": "Meet the Interior Designers",
+        "text_block": "<p><\/p><p>For Le Pigalle, renowned Parisian Interior Design Firm Festen took the original building and added typical Parisian touches, such as panelled doors and white walls, moulding, woodwork and parquet flooring.<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
+        "button_label": "Learn More"
+      }
+    },
+    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
+      "type": "product--shop-the-look",
+      "blocks": {
+        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
+          "type": "product",
+          "settings": {
+            "product": "grey-speckled-love-handles-vase",
+            "top": 63,
+            "left": 51
+          }
+        },
+        "61a17092-0b88-43c9-888c-ee6b50651501": {
+          "type": "product",
+          "settings": {
+            "product": "pierre-chapo-wood-and-leather-chair-s24",
+            "top": 0,
+            "left": 0
+          }
+        },
+        "2d0cd767-4992-4798-8a74-406d517d073e": {
+          "type": "product",
+          "settings": {
+            "product": "foscarini-buds-3-table-lamp",
+            "top": 33,
+            "left": 0
+          }
+        },
+        "d212ef77-eb11-4665-b89a-22f576e75dec": {
+          "type": "product",
+          "settings": {
+            "product": "white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
+            "top": 0,
+            "left": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
+        "61a17092-0b88-43c9-888c-ee6b50651501",
+        "2d0cd767-4992-4798-8a74-406d517d073e",
+        "d212ef77-eb11-4665-b89a-22f576e75dec"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Le Pigalle",
+        "title": "Shop the look",
+        "image": "shopify:\/\/shop_images\/room.png",
+        "image__position": "image--left",
+        "hotspot__color": "#ffffff",
+        "stl__heading": "Heading",
+        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
+        "description__position": "hidden",
+        "link": "shopify:\/\/collections\/le-pigalle",
+        "button__text": "Shop the look"
+      }
+    },
+    "9299a3ef-12a1-48f6-abe6-a54f93478d0b": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0",
+        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "889d2c25-4140-44f5-af7a-2c8599551986": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "The rooms",
+        "title": "Take A Peek Inside",
+        "text": "<p>Their rooms' neoclassical architectural style inspired artists and poets in the late nineteenth century. All 40 rooms are decorated in the Nouvelle Athènes mode, conveying a specific image of Pigalle: historic, modern, decadent, multicultural, and musical. Simple and comfortable, full of domestic touches. Each is a collection of objects, souvenirs, music, books and second-hand furniture, with a personality all of its own.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_fd62c092-41ea-469f-be64-030352f553af.png",
+            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-17\/",
+            "title": "Pigalle 17",
+            "description": "<p>With its bar and close-up view of the neighbourhood, the Pigalle 17 has an an intimate feel, making the room perfect for couples.<\/p>"
+          }
+        },
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_350cda9f-05bd-4598-8745-e2f53c202924.png",
+            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-21-ou-22-avec-platine\/",
+            "title": "Pigalle 21",
+            "description": "<p>The Pigalle 21 features a turntable and rare selection of historic vinyl, and a 1920s golden era leather-upholstered bar.<\/p>"
+          }
+        },
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_79b26e16-05b4-4728-99b2-639c553d59de.png",
+            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-22\/",
+            "title": "Pigalle 22",
+            "description": "<p>A voluptuous cocoon lined with inspiring pieces of art, the Pigalle 22 is particularly spacious and homely with a large bed and a bath in the bedroom itself.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0",
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1",
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "white",
+        "subheading": "Read From",
+        "title": "Flâneur Magazine",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "portrait"
+      }
+    }
+  },
+  "order": [
+    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
+    "main",
+    "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
+    "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
+    "63680a03-e85a-40a7-9084-4a83db4c7921",
+    "a8acd27c-8689-484b-9185-148c6a733c96",
+    "754b6613-99e2-4bfd-a95a-940c730e6bcd",
+    "f752c25e-ff65-466a-ba61-33848f1147fc",
+    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
+    "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
+    "889d2c25-4140-44f5-af7a-2c8599551986",
+    "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
+  ]
+}
