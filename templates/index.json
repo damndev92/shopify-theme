@@ -316,7 +316,7 @@
         "title": "Trade professional",
         "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
         "page_description": false,
-        "button_link": "shopify:\/\/pages\/seller-profile",
+        "button_link": "",
         "button_label": "Join our trade program"
       }
     },
