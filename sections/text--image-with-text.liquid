@@ -38,8 +38,9 @@
 
               for collection in collections
                 assign collection_handles = collection | map: 'handle' | join: " "
-          
-                echo collection_handles
+                if collection_handles contains 'viso-project'
+                  echo collection_handles
+                endif
               endfor
             
             %}
