@@ -36,18 +36,11 @@
           <div class="page-width feature-row homepage-featured-content">
             {% liquid
 
-              for tag in product.tags
-                if tag contains 'vendor:'
-                  assign vendor_tag = tag | remove: 'vendor:'
-                  
-                endif
-              endfor
+              assign hotel = product.metafields.custom.hotel
 
-              for collection in collections
-                if collection.title == vendor_tag
-                  echo collection.description
-                endif
-              endfor
+              echo hotel | json
+
+
             %}
           	<div class="feature-row__container">
               <div class="feature-row{% if section.settings.layout == 'right' %} feature-row--image-right{% endif %}">
