@@ -36,10 +36,8 @@
           <div class="page-width feature-row homepage-featured-content">
             {% liquid
 
-              for collection in collections
-                if collection.handle == 'viso-project'
-                  echo collection.description
-                endif
+              for tag in product.tag
+                echo tag
               endfor
             
             %}
