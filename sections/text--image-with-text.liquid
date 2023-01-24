@@ -38,7 +38,7 @@
 
               for tag in product.tags
                 if tag contains 'vendor:'
-                  assign vendor_tag = tag | strip: 'vendor:'
+                  assign vendor_tag = tag | remove: 'vendor:'
                   
                 endif
               endfor
