@@ -37,10 +37,13 @@
             {% liquid
 
               for tag in product.tags
-                echo tag
+                if tag contains 'vendor:'
+                  assign vendor_tag = tag
+                  
+                endif
               endfor
 
-            
+              echo vendor_tag
             %}
           	<div class="feature-row__container">
               <div class="feature-row{% if section.settings.layout == 'right' %} feature-row--image-right{% endif %}">
