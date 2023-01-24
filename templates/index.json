@@ -137,6 +137,53 @@
         "button__text": "Discover"
       }
     },
+    "cab7e0c8-ccb0-41e9-8fcb-49ec92305af0": {
+      "type": "text--testimonials",
+      "blocks": {
+        "template--17643497783611__cab7e0c8-ccb0-41e9-8fcb-49ec92305af0-1674557253e906ad71-0": {
+          "type": "textarea",
+          "settings": {
+            "stars": "0",
+            "testimonial": "I love Maison Flaneur! I ordered a several times and shipping to Belgium went every time flawlessly and fast (ordered fragile items - glasses, wine decanters, candles, etc). Would recommend 1000 times.",
+            "author": "Francois D.",
+            "link": ""
+          }
+        },
+        "template--17643497783611__cab7e0c8-ccb0-41e9-8fcb-49ec92305af0-1674557253e906ad71-1": {
+          "type": "textarea",
+          "settings": {
+            "stars": "0",
+            "testimonial": "I love Maison Flaneur! Their selection of homeware and furniture is absolutely stunning! Every product was perfectly curated. Highly recommended website.",
+            "author": "Gaelle B.",
+            "link": ""
+          }
+        },
+        "template--17643497783611__cab7e0c8-ccb0-41e9-8fcb-49ec92305af0-1674557253e906ad71-2": {
+          "type": "textarea",
+          "settings": {
+            "stars": "0",
+            "testimonial": "\"Show off incredible feedback from your customers\"",
+            "author": "John Doe",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17643497783611__cab7e0c8-ccb0-41e9-8fcb-49ec92305af0-1674557253e906ad71-0",
+        "template--17643497783611__cab7e0c8-ccb0-41e9-8fcb-49ec92305af0-1674557253e906ad71-1",
+        "template--17643497783611__cab7e0c8-ccb0-41e9-8fcb-49ec92305af0-1674557253e906ad71-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Testimonials",
+        "slider-animation": "fade",
+        "slider-slide-time": 4,
+        "show-slide-dots": true,
+        "show-slide-arrows": false,
+        "show-slide-controls": true
+      }
+    },
     "blog_blog_posts": {
       "type": "blog--blog-posts",
       "blocks": {
@@ -312,9 +359,9 @@
         "colors": "white",
         "image-width": "medium",
         "layout": "left",
-        "subheading": "",
-        "title": "Trade professional",
-        "text_block": "<p>Our Trade Program is here to support designers, architects and stylists across the interiors industry, providing you with access to a range of benefits<\/p>",
+        "subheading": "Join our",
+        "title": "Trade Program",
+        "text_block": "<p>Maison Flaâneur is here to support designers, architects and stylists across the interiors industry, providing you with access to a range of benefits<\/p>",
         "page_description": false,
         "button_link": "shopify:\/\/pages\/trade-program",
         "button_label": "Join our trade program"
@@ -363,6 +410,7 @@
     "featured_collection",
     "newsletter",
     "shop_the_look",
+    "cab7e0c8-ccb0-41e9-8fcb-49ec92305af0",
     "blog_blog_posts",
     "collection-list",
     "c94d79d4-bbe0-4f33-a57f-335300f24f32",
