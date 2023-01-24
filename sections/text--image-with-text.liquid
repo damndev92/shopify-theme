@@ -34,7 +34,15 @@
 
         <div class="index-section col-md-12">
           <div class="page-width feature-row homepage-featured-content">
-            up
+            {% liquid
+
+              for collection in collections
+                assign collection_handles = collection | map: 'handle' | join: " "
+          
+                echo collection_handles
+              endfor
+            
+            %}
           	<div class="feature-row__container">
               <div class="feature-row{% if section.settings.layout == 'right' %} feature-row--image-right{% endif %}">
                 <div class="feature-row__image col-md-{{ image_width_columns }} col-12 wow fadeIn">
