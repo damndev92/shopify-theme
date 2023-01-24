@@ -43,7 +43,11 @@
                 endif
               endfor
 
-              echo vendor_tag
+              for collection in collections
+                if collection.title == vendor_tag
+                  echo collection.description
+                endif
+              endfor
             %}
           	<div class="feature-row__container">
               <div class="feature-row{% if section.settings.layout == 'right' %} feature-row--image-right{% endif %}">
