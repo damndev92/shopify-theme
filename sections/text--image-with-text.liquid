@@ -37,9 +37,8 @@
             {% liquid
 
               for collection in collections
-                assign collection_handles = collection | map: 'handle' | join: " "
-                if collection_handles contains 'viso-project'
-                  echo collection_handles
+                if collection.handle == 'viso-project'
+                  echo collection.description
                 endif
               endfor
             
