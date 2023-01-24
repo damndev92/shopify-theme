@@ -36,11 +36,10 @@
           <div class="page-width feature-row homepage-featured-content">
             {% liquid
 
-              for tag in product.tag
+              for tag in product.tags
                 echo tag
               endfor
 
-              echo 'dddd'
             
             %}
           	<div class="feature-row__container">
