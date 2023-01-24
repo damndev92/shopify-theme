@@ -314,9 +314,9 @@
         "layout": "left",
         "subheading": "",
         "title": "Trade professional",
-        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "text_block": "<p>Our Trade Program is here to support designers, architects and stylists across the interiors industry, providing you with access to a range of benefits<\/p>",
         "page_description": false,
-        "button_link": "",
+        "button_link": "shopify:\/\/pages\/trade-program",
         "button_label": "Join our trade program"
       }
     },
