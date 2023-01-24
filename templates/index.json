@@ -140,6 +140,15 @@
     "cab7e0c8-ccb0-41e9-8fcb-49ec92305af0": {
       "type": "text--testimonials",
       "blocks": {
+        "template--17643497783611__cab7e0c8-ccb0-41e9-8fcb-49ec92305af0-1674557253e906ad71-2": {
+          "type": "textarea",
+          "settings": {
+            "stars": "0",
+            "testimonial": "Great concept, great products & above all a super responsive and efficient team! 👏🏼",
+            "author": "Marion B.",
+            "link": ""
+          }
+        },
         "template--17643497783611__cab7e0c8-ccb0-41e9-8fcb-49ec92305af0-1674557253e906ad71-0": {
           "type": "textarea",
           "settings": {
@@ -157,31 +166,22 @@
             "author": "Gaelle B.",
             "link": ""
           }
-        },
-        "template--17643497783611__cab7e0c8-ccb0-41e9-8fcb-49ec92305af0-1674557253e906ad71-2": {
-          "type": "textarea",
-          "settings": {
-            "stars": "0",
-            "testimonial": "\"Show off incredible feedback from your customers\"",
-            "author": "John Doe",
-            "link": ""
-          }
         }
       },
       "block_order": [
+        "template--17643497783611__cab7e0c8-ccb0-41e9-8fcb-49ec92305af0-1674557253e906ad71-2",
         "template--17643497783611__cab7e0c8-ccb0-41e9-8fcb-49ec92305af0-1674557253e906ad71-0",
-        "template--17643497783611__cab7e0c8-ccb0-41e9-8fcb-49ec92305af0-1674557253e906ad71-1",
-        "template--17643497783611__cab7e0c8-ccb0-41e9-8fcb-49ec92305af0-1674557253e906ad71-2"
+        "template--17643497783611__cab7e0c8-ccb0-41e9-8fcb-49ec92305af0-1674557253e906ad71-1"
       ],
       "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "Testimonials",
-        "slider-animation": "fade",
+        "colors": "accent",
+        "subheading": "Testimonials",
+        "title": "Join thousands of happy Flâneurs!",
+        "slider-animation": "slide",
         "slider-slide-time": 4,
         "show-slide-dots": true,
         "show-slide-arrows": false,
-        "show-slide-controls": true
+        "show-slide-controls": false
       }
     },
     "blog_blog_posts": {
