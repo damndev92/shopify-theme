@@ -50,6 +50,7 @@
         "28e60fc2-5972-4b97-b556-528687ff624e": {
           "type": "country-of-origin",
           "settings": {
+            "country-of-origin-label": "Ships from",
             "country-of-origin": "{{ product.metafields.custom.country_of_origin.value }}"
           }
         },
@@ -68,6 +69,8 @@
         "b31c65fb-6428-485c-985d-0fa5ea3e35e3": {
           "type": "product-specifications",
           "settings": {
+            "icon": "map-pin",
+            "product-accordion-subheader": "Product Specifications",
             "product-specifications": "<p>{{ product.metafields.custom.product_specifications | metafield_tag }}<\/p>"
           }
         }
