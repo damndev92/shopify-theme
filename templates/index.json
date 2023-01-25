@@ -58,6 +58,7 @@
         },
         "563f44e0-b63c-4bcb-aa26-bd27d8629560": {
           "type": "grid-card-vendor",
+          "disabled": true,
           "settings": {
           }
         }
@@ -74,7 +75,7 @@
         "title": "New in",
         "collection": "new-in",
         "grid": 4,
-        "rows": 2,
+        "rows": 1,
         "show_view_all": true
       }
     },
@@ -180,7 +181,7 @@
         "template--17643497783611__cab7e0c8-ccb0-41e9-8fcb-49ec92305af0-1674557253e906ad71-1"
       ],
       "settings": {
-        "colors": "white",
+        "colors": "light",
         "subheading": "Testimonials",
         "title": "Join thousands of happy Flâneurs!",
         "slider-animation": "slide",
@@ -213,6 +214,40 @@
         "show_dates": false,
         "show_blog_images": true,
         "imageSize": "portrait"
+      }
+    },
+    "e8f7b553-ba62-46d4-9539-039f8ee7892e": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17643497783611__e8f7b553-ba62-46d4-9539-039f8ee7892e-16746481874bb3eef8-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17643497783611__e8f7b553-ba62-46d4-9539-039f8ee7892e-16746481874bb3eef8-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17643497783611__e8f7b553-ba62-46d4-9539-039f8ee7892e-16746481874bb3eef8-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17643497783611__e8f7b553-ba62-46d4-9539-039f8ee7892e-16746481874bb3eef8-0",
+        "template--17643497783611__e8f7b553-ba62-46d4-9539-039f8ee7892e-16746481874bb3eef8-1",
+        "template--17643497783611__e8f7b553-ba62-46d4-9539-039f8ee7892e-16746481874bb3eef8-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Featured Brand",
+        "title": "{{ section.settings.collection.title }}",
+        "collection": "viso-project",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": true
       }
     },
     "collection-list": {
@@ -385,39 +420,6 @@
         "subheading": "",
         "title": "As seen in"
       }
-    },
-    "039d129c-55d4-4b19-984a-d54606508823": {
-      "type": "collection--collection-list",
-      "blocks": {
-        "template--17643497783611__039d129c-55d4-4b19-984a-d54606508823-1674648082069bd87f-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "template--17643497783611__039d129c-55d4-4b19-984a-d54606508823-1674648082069bd87f-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "la-veste"
-          }
-        },
-        "template--17643497783611__039d129c-55d4-4b19-984a-d54606508823-1674648082069bd87f-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17643497783611__039d129c-55d4-4b19-984a-d54606508823-1674648082069bd87f-0",
-        "template--17643497783611__039d129c-55d4-4b19-984a-d54606508823-1674648082069bd87f-1",
-        "template--17643497783611__039d129c-55d4-4b19-984a-d54606508823-1674648082069bd87f-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
     }
   },
   "order": [
@@ -427,10 +429,10 @@
     "shop_the_look",
     "cab7e0c8-ccb0-41e9-8fcb-49ec92305af0",
     "blog_blog_posts",
+    "e8f7b553-ba62-46d4-9539-039f8ee7892e",
     "collection-list",
     "965c199b-916f-4301-a1cc-ef4095be5f72",
     "c94d79d4-bbe0-4f33-a57f-335300f24f32",
-    "logo-list",
-    "039d129c-55d4-4b19-984a-d54606508823"
+    "logo-list"
   ]
 }
