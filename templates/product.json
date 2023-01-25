@@ -116,8 +116,21 @@
         "product_recommendations_heading": "You may also like"
       }
     },
+    "621e8d40-9e35-4b2c-a9f2-c2b567b847ef": {
+      "type": "maison-image-with-text-block",
+      "settings": {
+        "parallax": true,
+        "text-color": "#000000",
+        "background-color": "#ffffff",
+        "horizontal-alignment": "center",
+        "subheading": "",
+        "button_label": "Discover",
+        "text_box_width": 50
+      }
+    },
     "c4fec491-65cd-4b6b-938b-92e930763c22": {
       "type": "image--image-with-text-block",
+      "disabled": true,
       "settings": {
         "desktop_image": "shopify:\/\/shop_images\/pigalle_hp.png",
         "parallax": true,
@@ -188,6 +201,7 @@
   "order": [
     "main",
     "product-recommendations",
+    "621e8d40-9e35-4b2c-a9f2-c2b567b847ef",
     "c4fec491-65cd-4b6b-938b-92e930763c22",
     "65211727-6a2a-4219-a8f9-1f8ac9a1ba73"
   ]
