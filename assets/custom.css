@@ -20,3 +20,16 @@ We highly recommend labelling changes, or App installs, so these can also be upd
     height: 114px;
     width: 122px;
 }
+
+@media screen and (max-width:767px) {
+    .product-single__thumbnails .swiper-container-horizontal .product-single__thumbnail__wrapper img,
+    .product-single__photo {
+        height: 100%;
+        max-height: 386px;
+        width: 100%;
+    }
+}
+
+.swiper-pagination-bullets .swiper-pagination-bullet:not(:nth-of-type(1)):not(:nth-of-type(2)):not(:nth-of-type(3)):not(:nth-of-type(4)):not(:nth-of-type(5)) {
+    display: none;
+}
