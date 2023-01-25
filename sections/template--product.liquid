@@ -282,7 +282,11 @@
 
               {% when 'product-specifications' %}
                 {% if block.settings.product-specifications != blank %}
-                  {% render 'maison-product-accordion', accordion_content: block.settings.product-specifications %}
+                  {% render 'maison-product-accordion',
+                    subheader: block.settings.product-accordion-subheader,
+                    content: block.settings.product-specifications,
+                    icon: block.settings.icon
+                  %}
                 {% endif %}
 
               {% when 'days-to-deliver' %}
@@ -1250,13 +1254,273 @@
           ]
         },
         {
-          "name": "Specifications",
+          "name": "Product accordion",
           "type": "product-specifications",
           "settings": [
             {
-            "type": "richtext",
-            "id": "product-specifications",
-            "label": "Type in or choose dynamic content."
+            "type": "select",
+            "id": "icon",
+            "label": {
+            "en": "Icon",
+            "de": "Symbol",
+            "es": "Icono",
+            "fr": "Icône",
+            "pt-PT": "Ícone"
+            },
+            "default": "none",
+            "options": [
+            {
+            "value": "none",
+            "label": {
+            "en": "None",
+            "de": "Keiner",
+            "es": "Ninguno",
+            "fr": "Aucun",
+            "pt-PT": "Nenhum"
+            }
+            },
+            {
+            "value": "alert-circle",
+            "label": {
+            "en": "Alert",
+            "de": "Benachrichtigung",
+            "es": "Alerta",
+            "fr": "Alerte",
+            "pt-PT": "Alerta"
+            }
+            },
+            {
+            "value": "anchor",
+            "label": {
+            "en": "Anchor",
+            "de": "Anker",
+            "es": "Ancla",
+            "fr": "Ancre",
+            "pt-PT": "Âncora"
+            }
+            },
+            {
+            "value": "award",
+            "label": {
+            "en": "Award",
+            "de": "Preis",
+            "es": "Premio",
+            "fr": "Récompense",
+            "pt-PT": "Prémio"
+            }
+            },
+            {
+            "value": "bell",
+            "label": {
+            "en": "Bell",
+            "de": "Glocke",
+            "es": "Campana",
+            "fr": "Cloche",
+            "pt-PT": "Sino"
+            }
+            },
+            {
+            "value": "bookmark",
+            "label": {
+            "en": "Bookmark",
+            "de": "Bookmark",
+            "es": "Marcapáginas",
+            "fr": "Ajouter aux favoris",
+            "pt-PT": "Marcador de livros"
+            }
+            },
+            {
+            "value": "box",
+            "label": {
+            "en": "Box",
+            "de": "Box",
+            "es": "Caja",
+            "fr": "Boîte",
+            "pt-PT": "Caixa"
+            }
+            },
+            {
+            "value": "calendar",
+            "label": {
+            "en": "Calendar",
+            "de": "Kalender",
+            "es": "Calendario",
+            "fr": "Calendrier",
+            "pt-PT": "Calendário"
+            }
+            },
+            {
+            "value": "coffee",
+            "label": {
+            "en": "Coffee",
+            "de": "Kaffee",
+            "es": "Café",
+            "fr": "Café",
+            "pt-PT": "Café"
+            }
+            },
+            {
+            "value": "message-circle",
+            "label": {
+            "en": "Chat bubble",
+            "de": "Chatblase",
+            "es": "Burbuja de chat",
+            "fr": "Bulle de discussion",
+            "pt-PT": "Balão de conversa"
+            }
+            },
+            {
+            "value": "clock",
+            "label": {
+            "en": "Clock",
+            "de": "Uhr",
+            "es": "Reloj",
+            "fr": "Horloge",
+            "pt-PT": "Relógio"
+            }
+            },
+            {
+            "value": "compass",
+            "label": {
+            "en": "Compass",
+            "de": "Kompass",
+            "es": "Compás",
+            "fr": "Boussole",
+            "pt-PT": "Bússola"
+            }
+            },
+            {
+            "value": "truck",
+            "label": {
+            "en": "Delivery truck",
+            "de": "Liefertruck",
+            "es": "Camión de reparto",
+            "fr": "Camion de livraison",
+            "pt-PT": "Camião de distribuição"
+            }
+            },
+            {
+            "value": "dollar-sign",
+            "label": {
+            "en": "Dollar",
+            "de": "Dollar",
+            "es": "Dólar",
+            "fr": "Dollar",
+            "pt-PT": "Dólar"
+            }
+            },
+            {
+            "value": "film",
+            "label": {
+            "en": "Film",
+            "de": "Film",
+            "es": "Película",
+            "fr": "Film",
+            "pt-PT": "Filme"
+            }
+            },
+            {
+            "value": "smile",
+            "label": {
+            "en": "Happy face",
+            "de": "Glückliches Gesicht",
+            "es": "Cara feliz",
+            "fr": "Visage heureux",
+            "pt-PT": "Rosto alegre"
+            }
+            },
+            {
+            "value": "heart",
+            "label": {
+            "en": "Heart",
+            "de": "Herz",
+            "es": "Corazón",
+            "fr": "Cœur",
+            "pt-PT": "Coração"
+            }
+            },
+            {
+            "value": "key",
+            "label": {
+            "en": "Key",
+            "de": "Schlüssel",
+            "es": "Llave",
+            "fr": "Clé",
+            "pt-PT": "Chave"
+            }
+            },
+            {
+            "value": "cloud-lightning",
+            "label": {
+            "en": "Lightning bolt",
+            "de": "Blitzschlag",
+            "es": "Relámpago",
+            "fr": "Éclair",
+            "pt-PT": "Relâmpago"
+            }
+            },
+            {
+            "value": "map-pin",
+            "label": {
+            "en": "Map marker",
+            "de": "Kartenmarkierer",
+            "es": "Marcador de mapa",
+            "fr": "Marqueur de carte",
+            "pt-PT": "Marcador de mapa"
+            }
+            },
+            {
+            "value": "music",
+            "label": {
+            "en": "Music",
+            "de": "Musik",
+            "es": "Música",
+            "fr": "Musique",
+            "pt-PT": "Música"
+            }
+            },
+            {
+            "value": "phone",
+            "label": {
+            "en": "Phone",
+            "de": "Telefon",
+            "es": "Teléfono",
+            "fr": "Téléphone",
+            "pt-PT": "Telemóvel"
+            }
+            },
+            {
+            "value": "play",
+            "label": {
+            "en": "Play icon",
+            "de": "Spielsymbol",
+            "es": "Icono de reproducir",
+            "fr": "Icône de lecture",
+            "pt-PT": "Ícone de reprodução"
+            }
+            },
+            {
+            "value": "trending-up",
+            "label": {
+            "en": "Trending",
+            "de": "Im Trend",
+            "es": "Popular",
+            "fr": "Tendances",
+            "pt-PT": "Na moda"
+            }
+            }
+            ]
+            },
+            {
+              "type": "text",
+              "id": "product-accordion-subheader",
+              "label": "Subheading",
+              "default": "Specifications"
+            },
+            {
+              "type": "richtext",
+              "id": "product-specifications",
+              "label": "Type in or choose dynamic content."
             }
           ]
         },

@@ -33,3 +33,16 @@ We highly recommend labelling changes, or App installs, so these can also be upd
 .swiper-pagination-bullets .swiper-pagination-bullet:not(:nth-of-type(1)):not(:nth-of-type(2)):not(:nth-of-type(3)):not(:nth-of-type(4)):not(:nth-of-type(5)) {
     display: none;
 }
+
+/* Product accordion */
+.maison-product-accordion .accordion-heading {
+    display: flex;
+    align-content: center;
+    justify-items: center;
+    align-items: center;
+    text-transform: initial;
+}
+
+.maison-product-accordion .accordion-heading .text-advert-section__icon-wrapper {
+    margin-right: 1rem;
+}

@@ -113,7 +113,7 @@
 </style>
 
 <div
-  class="accordion--faq-wrapper accordion-faq--{{ section.id }}"
+  class="accordion--faq-wrapper accordion-faq--{{ section.id }} maison-product-accordion"
   data-wetheme-section-type="accordion--faq"
   data-wetheme-section-id="{{ section.id }}"
 >
@@ -121,19 +121,20 @@
     <details class="accordion-content">
       <summary role="button" aria-expanded="false" tabindex="0" class="type-subheading type-subheading--1">
         <div class="accordion-heading">
-          <img
-            src="{{ 'ico-specifications.png' | asset_img_url: '22x25' }}"
-            width="22"
-            height="25"
-          >
-          {{- 'Specifications' }}
+          {% if icon != 'none' %}
+            <div class="text-advert-section__icon-wrapper text-adverts__icon-size--medium">
+              <i data-feather="{{ icon }}"></i>
+            </div>
+          {% endif %}
+
+          {{ subheader }}
         </div>
         <span>
           {{- chevron_down -}}
           {{- chevron_up -}}
         </span>
       </summary>
-      {{ accordion_content }}
+      {{ content }}
     </details>
   </div>
 </div>
