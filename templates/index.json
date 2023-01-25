@@ -385,6 +385,39 @@
         "subheading": "",
         "title": "As seen in"
       }
+    },
+    "039d129c-55d4-4b19-984a-d54606508823": {
+      "type": "collection--collection-list",
+      "blocks": {
+        "template--17643497783611__039d129c-55d4-4b19-984a-d54606508823-1674648082069bd87f-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--17643497783611__039d129c-55d4-4b19-984a-d54606508823-1674648082069bd87f-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "la-veste"
+          }
+        },
+        "template--17643497783611__039d129c-55d4-4b19-984a-d54606508823-1674648082069bd87f-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17643497783611__039d129c-55d4-4b19-984a-d54606508823-1674648082069bd87f-0",
+        "template--17643497783611__039d129c-55d4-4b19-984a-d54606508823-1674648082069bd87f-1",
+        "template--17643497783611__039d129c-55d4-4b19-984a-d54606508823-1674648082069bd87f-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
     }
   },
   "order": [
@@ -397,6 +430,7 @@
     "collection-list",
     "965c199b-916f-4301-a1cc-ef4095be5f72",
     "c94d79d4-bbe0-4f33-a57f-335300f24f32",
-    "logo-list"
+    "logo-list",
+    "039d129c-55d4-4b19-984a-d54606508823"
   ]
 }
