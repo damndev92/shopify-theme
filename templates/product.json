@@ -50,6 +50,7 @@
         "28e60fc2-5972-4b97-b556-528687ff624e": {
           "type": "country-of-origin",
           "settings": {
+            "country-of-origin-label": "Ships from",
             "country-of-origin": "{{ product.metafields.custom.country_of_origin.value }}"
           }
         },
@@ -68,7 +69,17 @@
         "b31c65fb-6428-485c-985d-0fa5ea3e35e3": {
           "type": "product-specifications",
           "settings": {
+            "icon": "compass",
+            "product-accordion-subheader": "Product Specifications",
             "product-specifications": "<p>{{ product.metafields.custom.product_specifications | metafield_tag }}<\/p>"
+          }
+        },
+        "cabcb8ad-0fc8-4db4-95b8-29765a0b1244": {
+          "type": "product-specifications",
+          "settings": {
+            "icon": "truck",
+            "product-accordion-subheader": "Delivery and Return",
+            "product-specifications": "<p>{{ product.metafields.custom.product_delivery_returns | metafield_tag }}<\/p>"
           }
         }
       },
@@ -83,7 +94,8 @@
         "28e60fc2-5972-4b97-b556-528687ff624e",
         "6b24a8c9-e601-4d7a-a2b7-0d762e14441c",
         "payment-buttons",
-        "b31c65fb-6428-485c-985d-0fa5ea3e35e3"
+        "b31c65fb-6428-485c-985d-0fa5ea3e35e3",
+        "cabcb8ad-0fc8-4db4-95b8-29765a0b1244"
       ],
       "settings": {
         "show_out_of_stock_email": true,
@@ -114,8 +126,8 @@
         "horizontal-alignment": "center",
         "subheading": "Found in",
         "title": "Le Pigalle",
-        "text": "aodjoiawjdioajwdoijawodjioajwdijawodjoiajwdio aodjoiawjdioajwdoijawodjioajwdijawodjoiajwdio",
-        "button_link": "shopify:\/\/pages\/seller-profile",
+        "text": "awdomawdmiaowmdiomawoidmoiawmdoimwoimdoiamwiodioawdmoiaiwd",
+        "button_link": "shopify:\/\/collections\/hotel-pacai",
         "button_label": "Discover"
       }
     },

@@ -1,1 +1,122 @@
-{"sections":{"main":{"type":"template--page","settings":{}},"6ebef4dd-8039-42d7-a989-ad9a5df05aa0":{"type":"collection--collection-list","blocks":{"template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-0":{"type":"featured_collection","settings":{"collection":"rubn"}},"template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-1":{"type":"featured_collection","settings":{"collection":"la-veste"}},"template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-2":{"type":"featured_collection","settings":{"collection":"georges"}}},"block_order":["template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-0","template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-1","template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-2"],"settings":{"colors":"white","subheading":"","title":""}}},"order":["main","6ebef4dd-8039-42d7-a989-ad9a5df05aa0"]}
+{
+  "sections": {
+    "main": {
+      "type": "template--page",
+      "settings": {
+      }
+    },
+    "6ebef4dd-8039-42d7-a989-ad9a5df05aa0": {
+      "type": "collection--collection-list",
+      "blocks": {
+        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "rubn"
+          }
+        },
+        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "la-veste"
+          }
+        },
+        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "georges"
+          }
+        },
+        "7de43337-22b4-47d2-b8a3-1c46e966d1b2": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-0",
+        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-1",
+        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-2",
+        "7de43337-22b4-47d2-b8a3-1c46e966d1b2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "cfa6f2f4-4140-4b9d-8f1b-cc8829904856": {
+      "type": "collection--collection-list",
+      "blocks": {
+        "template--17643498701115__cfa6f2f4-4140-4b9d-8f1b-cc8829904856-167465174538dd7db8-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sew-bella"
+          }
+        },
+        "template--17643498701115__cfa6f2f4-4140-4b9d-8f1b-cc8829904856-167465174538dd7db8-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "viso-project"
+          }
+        },
+        "template--17643498701115__cfa6f2f4-4140-4b9d-8f1b-cc8829904856-167465174538dd7db8-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "beefbar"
+          }
+        }
+      },
+      "block_order": [
+        "template--17643498701115__cfa6f2f4-4140-4b9d-8f1b-cc8829904856-167465174538dd7db8-0",
+        "template--17643498701115__cfa6f2f4-4140-4b9d-8f1b-cc8829904856-167465174538dd7db8-1",
+        "template--17643498701115__cfa6f2f4-4140-4b9d-8f1b-cc8829904856-167465174538dd7db8-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "10bdf396-dbda-4947-b9e6-a3575a52ccca": {
+      "type": "collection--collection-list",
+      "blocks": {
+        "template--17643498701115__10bdf396-dbda-4947-b9e6-a3575a52ccca-167465174538dd7db8-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "guayaba-studio"
+          }
+        },
+        "template--17643498701115__10bdf396-dbda-4947-b9e6-a3575a52ccca-167465174538dd7db8-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ango-world"
+          }
+        },
+        "template--17643498701115__10bdf396-dbda-4947-b9e6-a3575a52ccca-167465174538dd7db8-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17643498701115__10bdf396-dbda-4947-b9e6-a3575a52ccca-167465174538dd7db8-0",
+        "template--17643498701115__10bdf396-dbda-4947-b9e6-a3575a52ccca-167465174538dd7db8-1",
+        "template--17643498701115__10bdf396-dbda-4947-b9e6-a3575a52ccca-167465174538dd7db8-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6ebef4dd-8039-42d7-a989-ad9a5df05aa0",
+    "cfa6f2f4-4140-4b9d-8f1b-cc8829904856",
+    "10bdf396-dbda-4947-b9e6-a3575a52ccca"
+  ]
+}
