@@ -1,0 +1,301 @@
+{{ 'section-image-with-text-block.min.css' | asset_url | stylesheet_tag }}
+
+{% assign hotel = product.metafields.custom.hotel.value %}
+
+{% if hotel != blank %}
+<style>
+  {% capture selector %}.image-text-block--{{ section.id }} .img{% endcapture %}
+  {% assign scale = 1 %}
+  {% if section.settings.parallax %}{% assign scale = 2 %}{% endif %}
+
+  @media screen and (max-width: 767px) {
+    {% assign mobile_bg_img = hotel.image %}
+
+    {% render 'responsive-background-image' with mobile_bg_img, selector: selector, scale: scale %}
+  }
+
+  @media screen and (min-width: 768px) {
+    {% render 'responsive-background-image' with mobile_bg_img, selector: selector, scale: scale %}
+  }
+
+  .hero--{{ section.id }} {
+    position: relative;
+  }
+
+  {% if section.settings.parallax %}
+    .hero--{{ section.id }},
+    .hero--{{ section.id }} .parallax-wrapper {
+      overflow: hidden;
+    }
+
+    .hero--{{ section.id }} .img {
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 100%;
+      height: 100%;
+      position: absolute;
+    }
+
+    .hero--{{ section.id }} .parallax {
+      background-color: var(--color-image-overlay);
+      bottom: 0;
+      content: "";
+      left: 0;
+      opacity: var(--image-overlay-opacity);
+      position: absolute;
+      right: 0;
+      top: 0;
+      z-index: 1;
+    }
+
+    .hero .icon--placeholder {
+      height: 1100px;
+    }
+
+    @media screen and (max-width: 767px) {
+      .hero--{{ section.id }} .img {
+        min-height: 100%;
+      }
+    }
+  {% endif %}
+
+{% if section.settings.parallax %}
+  .hero--{{ section.id }} .img {
+    display: none;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 200%;
+    background-size: cover;
+    -webkit-transform: translate3d(-50%, 0, 0);
+    transform: translate3d(-50%, 0, 0);
+    will-change: transform;
+  }
+{% endif %}
+
+  .image-with-text-block--{{ section.id }} .image-text-block-item--text-box-wrapper {
+      width: {{ section.settings.text_box_width }}%;
+  }
+
+  @media screen and (max-width: 767px) {
+      .image-with-text-block--{{ section.id }} .image-text-block-item--text-box-wrapper {
+        width: 100%;
+      }
+  }
+</style>
+
+{% capture desktop_img %}
+  <div
+    class="image-text-block--desktop-image image-text-block--{{ section.id }} parallax-wrapper"
+  >
+    <div class="hero hero--{{ section.id }}{% if section.settings.parallax %} parallax-enabled{% else %} parallax-disabled{% endif %}">
+      <div class="img"></div>
+    </div>
+  </div>
+{% endcapture %}
+
+{% capture mobile_img %}
+  <div class="image-text-block--mobile-image image-text-block--{{ section.id }}">
+    <div class="img"></div>
+  </div>
+{% endcapture %}
+
+{% capture text_box_content %}
+  <style>
+    .image-with-text-block--{{ section.id }} .image-text-block-item--text-box {
+      background: {{ section.settings.background-color }};
+      color: {{ section.settings.text-color }};
+    }
+  </style>
+
+
+  <div class="title-bar custom-font">
+    {% if section.settings.subheading != blank %}
+      <h3 class="type-subheading type-subheading--1 typography--padding-bottom">{{ section.settings.subheading | escape }}</h3>
+    {% endif %}
+      <h2>{{ hotel.title }}</h2>
+  </div>
+  <div class="image-text-block-item--textarea">{{ hotel.description }}</div>
+
+  {% if section.settings.button_label != blank %}
+    <div class="image-text-block-btn--wrapper">
+      <a href="{{ shop.url }}/collection/{{ hotel.handle }}" class="btn">
+        {{ section.settings.button_label }}
+      </a>
+    </div>
+  {% endif %}
+{% endcapture %}
+
+<section
+  class="image-with-text-block--{{ section.id }} image-text-block-grid image-text-block-rows"
+  data-wetheme-section-type="image--image-with-text-block"
+  data-wetheme-section-id="{{ section.id }}"
+  {% if section.settings.parallax %}data-parallax-enabled{% else %}data-parallax-disabled{% endif %}
+>
+
+  <div class="image-text-block-item--images imgs--{{ section.id }}">
+    {{ desktop_img }}
+    {{ mobile_img }}
+  </div>
+
+
+    <div class="image-text-block-item--text horizontal-alignment--{{ section.settings.horizontal-alignment }}">
+      <div class="image-text-block-item--text-box-wrapper wow fadeInUp">
+        <div class="image-text-block-item--text-box wow fadeInUp" style="padding: 30px;">
+          {{ text_box_content }}
+        </div>
+      </div>
+    </div>
+
+</section>
+
+{% endif %}
+
+{% schema %}
+{
+    "name": "Maison - Image/text-block",
+    "class": "homepage-section-image-with-text-block--wrapper",
+    "settings": [
+        {
+            "type": "checkbox",
+            "id": "parallax",
+            "label": {
+                "en": "Enable parallax effect",
+                "de": "Parallaxeneffekt aktivieren",
+                "es": "Habilitar efecto de paralaje",
+                "fr": "Activer l'effet parallaxe",
+                "pt-PT": "Ativar efeito de paralaxe"
+            },
+            "default": true,
+            "info": {
+                "en": "Landscape images will default to a set alignment to best fit screen",
+                "de": "Bilder im Querformat werden standardmäßig auf beste Anpassung an den Bildschirm ausgerichtet",
+                "es": "Las imágenes en apaisado se cambiarán por defecto a una alineación fija para ajustarse mejor a la pantalla",
+                "fr": "Les images du paysage seront alignées par défaut sur l'écran qui leur convient le mieux",
+                "pt-PT": "As imagens paisagísticas terão um alinhamento predefinido que melhor se adeque ao ecrã"
+            }
+        },
+        {
+            "type": "color",
+            "id": "text-color",
+            "label": {
+                "en": "Text",
+                "de": "Text",
+                "es": "Texto",
+                "fr": "Texte",
+                "pt-PT": "Texto"
+            },
+            "default": "#000000"
+        },
+        {
+            "type": "color",
+            "id": "background-color",
+            "label": {
+                "en": "Background",
+                "de": "Hintergrund",
+                "es": "Fondo",
+                "fr": "Contexte général",
+                "pt-PT": "Fundo"
+            },
+            "default": "#ffffff"
+        },
+        {
+            "type": "select",
+            "id": "horizontal-alignment",
+            "label": {
+              "en": "Content position (desktop)",
+              "de": "Inhaltsposition (Schreibtisch)",
+              "es": "Posición de contenido (escritorio)",
+              "fr": "Position du contenu (bureau)",
+              "pt-PT": "Posição do conteúdo (Área de Trabalho)"
+            },
+            "options": [
+                {
+                    "value": "left",
+                    "label": {
+                        "en": "Left",
+                        "de": "Links",
+                        "es": "Izquierda",
+                        "fr": "Gauche",
+                        "pt-PT": "Esquerda"
+                    }
+                },
+                {
+                    "value": "center",
+                    "label": {
+                        "en": "Center",
+                        "de": "Mitte",
+                        "es": "Centro",
+                        "fr": "Centre",
+                        "pt-PT": "Centro"
+                    }
+                },
+                {
+                    "value": "right",
+                    "label": {
+                        "en": "Right",
+                        "de": "Rechts",
+                        "es": "Derecha",
+                        "fr": "Droite",
+                        "pt-PT": "Direita"
+                    }
+                }
+            ],
+            "default": "center"
+        },
+        {
+            "type": "text",
+            "id": "subheading",
+            "label": {
+              "en": "Subheading",
+              "de": "Unterüberschrift",
+              "es": "Subencabezado",
+              "fr": "Sous-rubrique",
+              "pt-PT": "Subtítulo"
+            }
+        },
+        {
+            "type": "text",
+            "id": "button_label",
+            "label": {
+                "en": "Button label",
+                "de": "Button-Bezeichnung",
+                "es": "Etiqueta del botón",
+                "fr": "Étiquette du bouton",
+                "pt-PT": "Etiqueta do botão"
+            }
+        },
+        {
+          "type": "range",
+          "id": "text_box_width",
+          "min": 0,
+          "max": 100,
+          "step": 5,
+          "unit": "%",
+          "label": "Text box content width",
+          "default": 50
+        }
+    ],
+    "presets": [
+        {
+            "name": "Maison - Image/text-block",
+            "category": "Image"
+        }
+    ],
+    "templates": [
+        "index",
+        "collection",
+        "list-collections",
+        "blog",
+        "article",
+        "page",
+        "password",
+        "404",
+        "cart",
+        "search",
+        "product"
+    ]
+}
+{% endschema %}
