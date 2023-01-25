@@ -69,7 +69,7 @@
         "b31c65fb-6428-485c-985d-0fa5ea3e35e3": {
           "type": "product-specifications",
           "settings": {
-            "icon": "map-pin",
+            "icon": "key",
             "product-accordion-subheader": "Product Specifications",
             "product-specifications": "<p>{{ product.metafields.custom.product_specifications | metafield_tag }}<\/p>"
           }
