@@ -94,8 +94,8 @@
         "product--shop-the-look-0": {
           "type": "product",
           "settings": {
-            "product": "bac-armchair",
-            "top": 55,
+            "product": "astoria-floor-lamp",
+            "top": 29,
             "left": 22
           }
         },
@@ -117,6 +117,7 @@
         },
         "732b3bd1-a9df-43f4-acde-5d4eca8e4a57": {
           "type": "product",
+          "disabled": true,
           "settings": {
             "product": "abstract-4",
             "top": 0,
