@@ -41,8 +41,13 @@ We highly recommend labelling changes, or App installs, so these can also be upd
     justify-items: center;
     align-items: center;
     text-transform: initial;
+    font-family: var(--body-font-stack);
 }
 
 .maison-product-accordion .accordion-heading .text-advert-section__icon-wrapper {
     margin-right: 1rem;
+}
+
+.shopify-product-form .maison-product-accordion .accordion-container .accordion-content {
+    border-bottom: 1px solid rgba(63, 73, 76, 0.12);
 }
