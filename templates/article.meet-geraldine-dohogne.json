@@ -76,18 +76,6 @@
         "button_label": ""
       }
     },
-    "86db6316-2ab7-4216-9bf6-1fd926246a9c": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "title": "",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "465bd8cf-0b90-4509-995b-c07aeefbe031": {
       "type": "image--gallery",
       "blocks": {
@@ -148,25 +136,16 @@
         "cd08665a-75a0-464e-863c-c1e371db8af1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_ad2d83dc-230f-4399-b66c-c43fd61a16d4.png",
+            "image": "shopify:\/\/shop_images\/5_3fa8de79-8419-4fdc-913c-e1273c930c60.png",
             "link": "",
             "title": "",
             "description": ""
           }
         },
-        "6d7098c3-de35-4156-85ed-dd9f82d81a67": {
+        "94e06691-e8a6-4988-b689-8e299631380a": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/6.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "57664327-7d90-4d68-8c19-1a81e2274be6": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4_e73313ac-604f-4abd-a08c-c5ca46d29575.png",
+            "image": "shopify:\/\/shop_images\/Magazine_Header_-_1800_X1200_abfee000-4b6c-44e9-a11a-852f1351282a.png",
             "link": "",
             "title": "",
             "description": ""
@@ -175,8 +154,7 @@
       },
       "block_order": [
         "cd08665a-75a0-464e-863c-c1e371db8af1",
-        "6d7098c3-de35-4156-85ed-dd9f82d81a67",
-        "57664327-7d90-4d68-8c19-1a81e2274be6"
+        "94e06691-e8a6-4988-b689-8e299631380a"
       ],
       "settings": {
         "colors": "white",
@@ -196,6 +174,38 @@
         "button_label": ""
       }
     },
+    "626a439a-fc95-4c91-a74c-e344e3072f09": {
+      "type": "image--gallery",
+      "blocks": {
+        "090c2e2f-e157-425a-b7ec-6b43859f50b3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_3fa8de79-8419-4fdc-913c-e1273c930c60.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "0f295af4-db0f-479a-b8bd-e437f191d8a2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Magazine_Header_-_1800_X1200_abfee000-4b6c-44e9-a11a-852f1351282a.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "090c2e2f-e157-425a-b7ec-6b43859f50b3",
+        "0f295af4-db0f-479a-b8bd-e437f191d8a2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "7643a6f3-d3dd-47f8-ba4c-e08d036994e0": {
       "type": "text--rich-text",
       "settings": {
@@ -208,6 +218,48 @@
         "button_label": ""
       }
     },
+    "eb0a2d64-a73f-4709-b77c-ee311d27cdaf": {
+      "type": "image--gallery",
+      "blocks": {
+        "afb003b3-cd64-4917-89df-f5804e63e96b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_ad2d83dc-230f-4399-b66c-c43fd61a16d4.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "9eafbdd0-52a3-4119-9eb3-f1c0d50b0186": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "576a4fae-8e01-466b-8405-7d5bc85d7e23": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_e73313ac-604f-4abd-a08c-c5ca46d29575.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "afb003b3-cd64-4917-89df-f5804e63e96b",
+        "9eafbdd0-52a3-4119-9eb3-f1c0d50b0186",
+        "576a4fae-8e01-466b-8405-7d5bc85d7e23"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "ea569cc1-30a5-4e94-8011-ed149fc1d0fc": {
       "type": "text--rich-text",
       "settings": {
@@ -218,6 +270,49 @@
         "text": "<p><strong>Your favourite object in your home?<br\/><br\/><\/strong>The first antique vitrine that I bought. It’s a collection of all my memories from my travels. It’s the first piece that I bought when I first started living alone. It was expensive for me at the time but I felt so drawn to it.<br\/><br\/><strong>Your favourite hotel in the world?<br\/><br\/><\/strong>The Fife Arms – no matter the company you’re with! Family, friends, it is all-around gorgeous.<br\/><br\/><strong>Your favourite restaurant in the world?<br\/><br\/><\/strong>The Noma in Copenhagen. 7 hours later and I can honestly say it was the best dining-experience I’ve ever had!<\/p>",
         "button_link": "",
         "button_label": ""
+      }
+    },
+    "77e8486b-7c59-4fb8-81a6-0396e5cdb474": {
+      "type": "image--gallery",
+      "blocks": {
+        "8160d6d7-3e78-41e4-b9c8-547393676ea4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_ad2d83dc-230f-4399-b66c-c43fd61a16d4.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "359144ee-4c47-4623-a7ca-1b310a8939e5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "21bb5fd6-0919-4012-b0ec-6233a306aff8": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_e73313ac-604f-4abd-a08c-c5ca46d29575.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "8160d6d7-3e78-41e4-b9c8-547393676ea4",
+        "359144ee-4c47-4623-a7ca-1b310a8939e5",
+        "21bb5fd6-0919-4012-b0ec-6233a306aff8"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
       }
     },
     "6a160bf6-9969-45cd-8384-21822c612f39": {
@@ -264,13 +359,15 @@
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "86db6316-2ab7-4216-9bf6-1fd926246a9c",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
     "e7d2425a-53d5-4163-bc76-529e5c087a1f",
     "bdff20fa-c207-4cf0-a079-74d145bb8535",
     "4933d240-dcc6-43c6-980b-024b1a8684a4",
+    "626a439a-fc95-4c91-a74c-e344e3072f09",
     "7643a6f3-d3dd-47f8-ba4c-e08d036994e0",
+    "eb0a2d64-a73f-4709-b77c-ee311d27cdaf",
     "ea569cc1-30a5-4e94-8011-ed149fc1d0fc",
+    "77e8486b-7c59-4fb8-81a6-0396e5cdb474",
     "6a160bf6-9969-45cd-8384-21822c612f39",
     "main",
     "blog-posts"
