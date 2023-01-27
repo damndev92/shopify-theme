@@ -26,7 +26,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/1-1.png",
         "layout": "left",
         "subheading": "",
@@ -34,6 +34,21 @@
         "text_block": "<p>17-19 Maddox Street, W1S 2QH<br\/><strong>Head chef:<\/strong> Atul Kochhar<br\/><strong>Order the:<\/strong> Chicken tikka pie<\/p><p>Michelin Star chef Atul Kochhar’s contemporary Indian establishment not only offers tastebud-tantalising flavours, but this year sees a special five-course Valentine’s Day tasting menu designed especially for a night of romance. Expect traditional street food and mishti alongside aphrodisiacs like asparagus and figs. See the special V-day Menu <a href=\"https:\/\/kanishkarestaurant.co.uk\/wp-content\/uploads\/2023\/01\/Kanishka-Valentines-Menu-A5-2023.pdf\" target=\"_blank\">here<\/a>.<\/p>",
         "page_description": false,
         "button_link": "https:\/\/kanishkarestaurant.co.uk\/",
+        "button_label": "Book Now"
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/2-3.png",
+        "layout": "right",
+        "subheading": "",
+        "title": "2. Cornerstone",
+        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/cornerstonehackney.com\/",
         "button_label": "Book Now"
       }
     },
@@ -68,6 +83,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "blog-posts"
   ]
