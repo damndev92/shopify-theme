@@ -34,6 +34,66 @@
         "button_label": ""
       }
     },
+    "86db6316-2ab7-4216-9bf6-1fd926246a9c": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p><strong>What makes a home in one word?<\/strong><\/p><p>Memories<\/p><p> <\/p><p><strong>How would you describe your style in one word?<\/strong><\/p><p>Contextual<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "e7d2425a-53d5-4163-bc76-529e5c087a1f": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p><strong>Where do you think your interest in interior design came from?<\/strong><\/p><p>I would say mostly from my life experiences and education through traveling. Each visited place taught and inspired me in a unique way, that allowed me to be inspired by so much of the world.<\/p><p><\/p><p><strong>Where do you find your inspiration for interior design?<\/strong><\/p><p>History and culture.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "4933d240-dcc6-43c6-980b-024b1a8684a4": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p><strong>Who is your interior style icon? <br\/><br\/><\/strong>I don’t really have a style icon perse, but rather, I admire style and stories from the kinds of people I meet through my work. On a trip to Italy last month, I met a couple that have a collection house in Europe. They have bought arts, antiques and prototypes from designers of the highest calibre, reciting decades of their lives. The mix-and-match of artifacts of the world is just gorgeous, and the stories it told of them even more so. They inspired me so much by being able to harmonise all of this to tell a true story through design. So, to answer your question, I suppose, each project really brings to light its own style icon!<br\/><br\/><strong>Describe your philosophy when it comes to decoration?<br\/><br\/><\/strong>I don’t like the word decoration because it implies you are focusing on the ‘superficial’ or the ‘unnecessary’. I prefer to focus on the essentials – materials, textures and colours, local construction methods. To me, this is what “decorates” a space.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "7643a6f3-d3dd-47f8-ba4c-e08d036994e0": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p><strong>How did you incorporate Maison Flaneur in your project? <br\/><br\/><\/strong>I love taking Maison Flaneur’s strong silhouettes and existing styles and crafting it into our own. They have a great range of products from around the world so its great to work from this and match to project locations.<br\/><br\/><strong>How different is the approach to a restaurant\/ hotel project rather than a home?<br\/><br\/><\/strong>Not very different – the main differentiating element is the capacity which influences the materials and durability of most items. You have to think of every person and nationality and satisfy a whole panel of people – from the owner, to the journalist, the traveller, and the staff working there. Other than that, I believe a hotel should feel like an extension of a home, of course you incorporate more luxury amenities, but I believe the idea, in both, is to feel encapsulated by the country and its culture.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "ea569cc1-30a5-4e94-8011-ed149fc1d0fc": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p><strong>Your favourite object in your home?<br\/><br\/><\/strong>The first antique vitrine that I bought. It’s a collection of all my memories from my travels. It’s the first piece that I bought when I first started living alone. It was expensive for me at the time but I felt so drawn to it.<br\/><br\/><strong>Your favourite hotel in the world?<br\/><br\/><\/strong>The Fife Arms – no matter the company you’re with! Family, friends, it is all-around gorgeous.<br\/><br\/><strong>Your favourite restaurant in the world?<br\/><br\/><\/strong>The Noma in Copenhagen. 7 hours later and I can honestly say it was the best dining-experience I’ve ever had!<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -65,6 +125,11 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "caa04637-6009-4065-89c7-931d3e44b826",
+    "86db6316-2ab7-4216-9bf6-1fd926246a9c",
+    "e7d2425a-53d5-4163-bc76-529e5c087a1f",
+    "4933d240-dcc6-43c6-980b-024b1a8684a4",
+    "7643a6f3-d3dd-47f8-ba4c-e08d036994e0",
+    "ea569cc1-30a5-4e94-8011-ed149fc1d0fc",
     "main",
     "blog-posts"
   ]
