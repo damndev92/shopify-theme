@@ -125,7 +125,7 @@
         "width": "medium",
         "subheading": "",
         "title": "",
-        "text": "<p><strong>Where do you think your interest in interior design came from?<\/strong><\/p><p>I would say mostly from my life experiences and education through traveling. Each visited place taught and inspired me in a unique way, that allowed me to be inspired by so much of the world.<\/p><p><\/p><p><strong>Where do you find your inspiration for interior design?<\/strong><\/p><p>History and culture.<\/p>",
+        "text": "<p><strong>Where do you think your interest in interior design came from?<\/strong><\/p><p>I would say mostly from my life experiences and education through traveling. Each visited place taught and inspired me in a unique way, that allowed me to be inspired by so much of the world.<\/p><p><strong><br\/>Where do you find your inspiration for interior design?<\/strong><\/p><p>History and culture.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -350,7 +350,7 @@
         "show_author_name": false,
         "show_dates": true,
         "show_blog_images": true,
-        "imageSize": "square"
+        "imageSize": "portrait"
       }
     }
   },
