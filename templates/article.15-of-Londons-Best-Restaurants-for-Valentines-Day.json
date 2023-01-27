@@ -22,6 +22,18 @@
         "button_label": ""
       }
     },
+    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "light",
+        "width": "small",
+        "subheading": "",
+        "title": "Date Night",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
@@ -97,7 +109,7 @@
         "button_label": "Book Now"
       }
     },
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
+    "42fa63ef-ba26-44aa-bf89-4effb58c5b4a": {
       "type": "text--rich-text",
       "settings": {
         "colors": "light",
@@ -184,12 +196,13 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
+    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "50c7cc0c-94ac-4cfc-abd9-5ee1746d6e27",
     "27dfcfcf-3c27-4013-a9bc-fe0e8af2adb7",
     "25ce4bcb-a0cf-488d-8796-700e539433f9",
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
+    "42fa63ef-ba26-44aa-bf89-4effb58c5b4a",
     "1e52a36b-7da7-466b-8357-ed3834984f1f",
     "c32c3dae-5d1b-4734-a5f1-3546cd38761f",
     "b81b9c0d-5b65-4990-8694-305fec273b20",
