@@ -1,7 +1,30 @@
 {
   "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Steven-Joyce-JOS2021079D00116-02-2-scaled-1-1024x683.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "15 of London’s Best Restaurants for Valentine’s Day, No Matter Your Plans",
+        "text": "<p>They say the way to a person’s heart is through their stomach, so with that in mind,  we’ve rounded up 15 of the capital’s finest culinary offerings to book ahead of the most romantic night of the year. Flashy skyscraper restaurants to impress on a big date, joy-inducing eateries for a galentines group meal, and cosy and low-key venues for a solo evening – there’s something for everyone. <\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
+      "disabled": true,
       "settings": {
         "show_author_name": false,
         "show_dates": true,
@@ -27,6 +50,8 @@
     }
   },
   "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
     "main",
     "blog-posts"
   ]
