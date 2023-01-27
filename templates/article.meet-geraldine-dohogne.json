@@ -71,7 +71,7 @@
         "width": "medium",
         "subheading": "",
         "title": "",
-        "text": "<p><strong>Tell us three things people might not know about you? <br\/><br\/><\/strong>I never studied design! My career began by naturally gravitating towards my passion and curiosity of the world.<\/p><p>I never go to the same restaurant in London more than once (even if it was a favourite!) This keeps my taste buds and curiosity heightened.<\/p><p>My best piece of advice: Nothing is a given in life. You have to work hard to get to where you want to be, and design is no different.<\/p><p><\/p>",
+        "text": "<p><strong>Tell us three things people might not know about you? <br\/><br\/><\/strong>I never studied design! My career began by naturally gravitating towards my passion and curiosity of the world.<\/p><p>I never go to the same restaurant in London more than once (even if it was a favourite!) This keeps my taste buds and curiosity heightened.<\/p><p>My best piece of advice: Nothing is a given in life. You have to work hard to get to where you want to be, and design is no different.<br\/><br\/><strong>What makes a home in one word?<\/strong><\/p><p>Memories<\/p><p> <\/p><p><strong>How would you describe your style in one word?<\/strong><\/p><p>Contextual<\/p><p><\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -83,7 +83,7 @@
         "width": "medium",
         "subheading": "",
         "title": "",
-        "text": "<p><strong>What makes a home in one word?<\/strong><\/p><p>Memories<\/p><p> <\/p><p><strong>How would you describe your style in one word?<\/strong><\/p><p>Contextual<\/p>",
+        "text": "",
         "button_link": "",
         "button_label": ""
       }
@@ -94,7 +94,7 @@
         "19b22b12-2937-4e55-8afc-81ba466b6abd": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_5a59b540-1123-4609-be65-7635339ab3e5.png",
+            "image": "shopify:\/\/shop_images\/3_ad2d83dc-230f-4399-b66c-c43fd61a16d4.png",
             "link": "",
             "title": "",
             "description": ""
@@ -103,7 +103,7 @@
         "8d574722-6f06-4dd7-9abd-1c88ac4ed944": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_1aafe866-6b1c-4915-9def-50ec28bfaa84.png",
+            "image": "shopify:\/\/shop_images\/6.png",
             "link": "",
             "title": "",
             "description": ""
@@ -112,6 +112,7 @@
         "065fb4fa-51af-44ff-869e-a5abeb0cdb9a": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/4_e73313ac-604f-4abd-a08c-c5ca46d29575.png",
             "link": "",
             "title": "",
             "description": ""
@@ -139,6 +140,48 @@
         "text": "<p><strong>Where do you think your interest in interior design came from?<\/strong><\/p><p>I would say mostly from my life experiences and education through traveling. Each visited place taught and inspired me in a unique way, that allowed me to be inspired by so much of the world.<\/p><p><\/p><p><strong>Where do you find your inspiration for interior design?<\/strong><\/p><p>History and culture.<\/p>",
         "button_link": "",
         "button_label": ""
+      }
+    },
+    "bdff20fa-c207-4cf0-a079-74d145bb8535": {
+      "type": "image--gallery",
+      "blocks": {
+        "cd08665a-75a0-464e-863c-c1e371db8af1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_ad2d83dc-230f-4399-b66c-c43fd61a16d4.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "6d7098c3-de35-4156-85ed-dd9f82d81a67": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "57664327-7d90-4d68-8c19-1a81e2274be6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_e73313ac-604f-4abd-a08c-c5ca46d29575.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "cd08665a-75a0-464e-863c-c1e371db8af1",
+        "6d7098c3-de35-4156-85ed-dd9f82d81a67",
+        "57664327-7d90-4d68-8c19-1a81e2274be6"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
       }
     },
     "4933d240-dcc6-43c6-980b-024b1a8684a4": {
@@ -224,6 +267,7 @@
     "86db6316-2ab7-4216-9bf6-1fd926246a9c",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
     "e7d2425a-53d5-4163-bc76-529e5c087a1f",
+    "bdff20fa-c207-4cf0-a079-74d145bb8535",
     "4933d240-dcc6-43c6-980b-024b1a8684a4",
     "7643a6f3-d3dd-47f8-ba4c-e08d036994e0",
     "ea569cc1-30a5-4e94-8011-ed149fc1d0fc",
