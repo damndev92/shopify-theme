@@ -179,6 +179,33 @@
         "show_recent_posts": false
       }
     },
+    "4db223bc-8729-4b63-a9af-c3c4a54e996b": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "light",
+        "width": "small",
+        "subheading": "",
+        "title": "Solo",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "31dac674-f6ed-471e-a3da-c0c64c42a388": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T175016.436-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "title": "8. Bacchanalia",
+        "text_block": "<p>1 Mount Street, W1K 3NA<br\/><strong>Head chef:<\/strong> Athinagoras Kostakos<br\/><strong>Order the:<\/strong> Grilled octopus<\/p><p>Damien Hirst statues, selfie-inducing bathrooms, and, of course, a menu showcasing the best of Mediterranean cuisine, recent opening Bacchanalia is not to be missed. Inspired by historic Greco-Roman feasts, the Mayfair hotspot serves up sharing dishes such as lobster paccheri and rib-eye steak with inventive cocktails to match and an atmosphere that inspires hedonism.<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/bacchanalia.co.uk\/",
+        "button_label": "Book Now"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -207,6 +234,8 @@
     "c32c3dae-5d1b-4734-a5f1-3546cd38761f",
     "b81b9c0d-5b65-4990-8694-305fec273b20",
     "main",
+    "4db223bc-8729-4b63-a9af-c3c4a54e996b",
+    "31dac674-f6ed-471e-a3da-c0c64c42a388",
     "blog-posts"
   ]
 }
