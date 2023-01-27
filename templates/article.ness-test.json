@@ -124,6 +124,36 @@
         "button_label": "Book Now"
       }
     },
+    "c32c3dae-5d1b-4734-a5f1-3546cd38761f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T174629.248-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "title": "7. Bob Bob Ricard",
+        "text_block": "<p>1 Upper James Street, W1F 9DF<br\/><strong>Head chef:<\/strong> Ben Hobson<br\/><strong>Order the:<\/strong> Chicken Kyiv<\/p><p>If the mouthwatering menu and flamboyant interiors weren’t enough to entice you, then Bob Bob Ricard’s iconic ‘Press for Champagne’ button will ensure you make a reservation. Discover an elevated array of indulgent British and French comfort food, perfectly chilled vodka shots, oysters and more. To finish? Crème brûlée flambéd at the table, of course.<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.bobbobricard.com\/soho\/",
+        "button_label": "Book Now"
+      }
+    },
+    "b81b9c0d-5b65-4990-8694-305fec273b20": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T175016.436-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "title": "8. Bacchanalia",
+        "text_block": "<p>1 Mount Street, W1K 3NA<br\/><strong>Head chef:<\/strong> Athinagoras Kostakos<br\/><strong>Order the:<\/strong> Grilled octopus<\/p><p>Damien Hirst statues, selfie-inducing bathrooms, and, of course, a menu showcasing the best of Mediterranean cuisine, recent opening Bacchanalia is not to be missed. Inspired by historic Greco-Roman feasts, the Mayfair hotspot serves up sharing dishes such as lobster paccheri and rib-eye steak with inventive cocktails to match and an atmosphere that inspires hedonism.<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/bacchanalia.co.uk\/",
+        "button_label": "Book Now"
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -161,6 +191,8 @@
     "25ce4bcb-a0cf-488d-8796-700e539433f9",
     "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
     "1e52a36b-7da7-466b-8357-ed3834984f1f",
+    "c32c3dae-5d1b-4734-a5f1-3546cd38761f",
+    "b81b9c0d-5b65-4990-8694-305fec273b20",
     "main",
     "blog-posts"
   ]
