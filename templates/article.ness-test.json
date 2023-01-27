@@ -52,6 +52,51 @@
         "button_label": "Book Now"
       }
     },
+    "50c7cc0c-94ac-4cfc-abd9-5ee1746d6e27": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T183812.442-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "title": "3. Fallow",
+        "text_block": "<p>2 St James’s Market, SW1Y 4RP<br\/><strong>Head chef:<\/strong> Jack Croft and William Murray<br\/><strong>Order the:<\/strong> Cod’s head with sriracha butter sauce<\/p><p>Just two years old and with a slew of awards under its belt already, Jack Croft and William Murray’s sustainably minded Fallow is a hotpot for a reason. Explore a special Valentine’s menu, accompanied by half a dozen Carlingford oysters, alongside the signature nose-to-tail dishes; better yet, take a seat at the chef’s counter for a night of gastro theatre. Don’t forget to check out their Valentine’s Set menu <a href=\"https:\/\/fallowrestaurant.com\/wp-content\/uploads\/2023\/01\/Valentines-Day-2023-1.pdf\" target=\"_blank\">here<\/a>!<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/fallowrestaurant.com\/",
+        "button_label": "Book Now"
+      }
+    },
+    "27dfcfcf-3c27-4013-a9bc-fe0e8af2adb7": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T172434.294-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "title": "4. 34 Mayfair",
+        "text_block": "<p>34 Grosvenor Square, S Audley St, W1K 2HD<br\/><strong>Head chef:<\/strong> John Edwards<br\/><strong>Order the:<\/strong> Ceviche<\/p><p>In case the giant heart installation outside didn’t give the game away, 34 Mayfair is doubling down on all things romantic this Valentine’s Day. The eatery is setting the mood with a limited edition love-inspired menu, mouthwatering cocktails and copious amounts of roses, all accompanied by live jazz music.<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/34-restaurant.co.uk\/",
+        "button_label": "Book Now"
+      }
+    },
+    "25ce4bcb-a0cf-488d-8796-700e539433f9": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/img.jpg",
+        "layout": "left",
+        "subheading": "",
+        "title": "5. Oblix East at The Shard",
+        "text_block": "<p>Level 32 The Shard, 31 St. Thomas Street, SE1 9RY<br\/><strong>Head chef:<\/strong> Marcus Eaves<br\/><strong>Order the:<\/strong> Wagyu burger<\/p><p>Who could fail to be impressed at the sprawling floor-to-ceiling views that Oblix East provides? The vertiginous restaurant has curated an inviting menu to celebrate Valentine’s Day, including a glass of champagne on arrival, three courses of signature dishes and a bottle of wine between two. How could we refuse? Check out the Valentine’s specials <a href=\"https:\/\/www.oblixrestaurant.com\/menus\/?rest=east&cuis=valentine_menu\" target=\"_blank\">here<\/a>!<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.oblixrestaurant.com\/",
+        "button_label": "Book Now"
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -84,6 +129,9 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "50c7cc0c-94ac-4cfc-abd9-5ee1746d6e27",
+    "27dfcfcf-3c27-4013-a9bc-fe0e8af2adb7",
+    "25ce4bcb-a0cf-488d-8796-700e539433f9",
     "main",
     "blog-posts"
   ]
