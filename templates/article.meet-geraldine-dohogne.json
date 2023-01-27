@@ -94,6 +94,18 @@
         "button_label": ""
       }
     },
+    "6a160bf6-9969-45cd-8384-21822c612f39": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p><strong>Favourite address for decoration in London\/ in the world?<br\/><br\/><\/strong>Antique market of Portobello Road In London. In the world- flea markets are always my favourite.<br\/><br\/><strong>A piece of advice for people in lockdown?<br\/><br\/><\/strong>Remember you just have one life, so make the best of it everyday! Whatever the situation is.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -130,6 +142,7 @@
     "4933d240-dcc6-43c6-980b-024b1a8684a4",
     "7643a6f3-d3dd-47f8-ba4c-e08d036994e0",
     "ea569cc1-30a5-4e94-8011-ed149fc1d0fc",
+    "6a160bf6-9969-45cd-8384-21822c612f39",
     "main",
     "blog-posts"
   ]
