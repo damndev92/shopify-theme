@@ -175,10 +175,18 @@
               "menu_title": "Browse",
               "footer_linklist": "mega-menu"
             }
+          },
+          "413b7a5c-9609-4bb5-b41c-d0fbc391cd43": {
+            "type": "newsletter",
+            "settings": {
+              "menu_title": "Join the Flâneur family",
+              "footer_newsletter_description": ""
+            }
           }
         },
         "block_order": [
-          "c6b69709-8402-4e86-9ddf-f67ff3a4b2d5"
+          "c6b69709-8402-4e86-9ddf-f67ff3a4b2d5",
+          "413b7a5c-9609-4bb5-b41c-d0fbc391cd43"
         ],
         "settings": {
           "show_methods_of_payment": false,
