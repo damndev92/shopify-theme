@@ -37,6 +37,18 @@
         "button_label": ""
       }
     },
+    "e7d2425a-53d5-4163-bc76-529e5c087a1f": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "What to expect when staying at Chetzeron?",
+        "text": "<p>Ultimate relaxation, serious indulgence. Even if you spend hours whooshing up and down the mountains our hiking through verdant, flower-covered peaks every day, you’ll still leave feeling positively pampered. Chetzeron has its own cosy apres-ski lounge for guests, a top-notch restaurant and a stellar spa, so there’s truly something for everyone – no matter the season. Soak up the cinematic views of the snow-crested Matterhorn and Mont-Blanc from your 2,112-metre perch over the Rhone Valley.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6": {
       "type": "image--gallery",
       "blocks": {
@@ -121,18 +133,6 @@
         "title": ""
       }
     },
-    "e7d2425a-53d5-4163-bc76-529e5c087a1f": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "title": "What to expect when staying at Chetzeron?",
-        "text": "<p>Ultimate relaxation, serious indulgence. Even if you spend hours whooshing up and down the mountains our hiking through verdant, flower-covered peaks every day, you’ll still leave feeling positively pampered. Chetzeron has its own cosy apres-ski lounge for guests, a top-notch restaurant and a stellar spa, so there’s truly something for everyone – no matter the season. Soak up the cinematic views of the snow-crested Matterhorn and Mont-Blanc from your 2,112-metre perch over the Rhone Valley.<\/p>",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "bdff20fa-c207-4cf0-a079-74d145bb8535": {
       "type": "image--gallery",
       "blocks": {
@@ -183,7 +183,7 @@
         "090c2e2f-e157-425a-b7ec-6b43859f50b3": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5_3fa8de79-8419-4fdc-913c-e1273c930c60.png",
+            "image": "shopify:\/\/shop_images\/Reema-WIP-1-e1660048849793-1024x624.jpg",
             "link": "",
             "title": "",
             "description": ""
@@ -351,9 +351,9 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "f22f8818-4b2d-463b-a20e-8bb52fc570c5",
+    "e7d2425a-53d5-4163-bc76-529e5c087a1f",
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
-    "e7d2425a-53d5-4163-bc76-529e5c087a1f",
     "bdff20fa-c207-4cf0-a079-74d145bb8535",
     "4933d240-dcc6-43c6-980b-024b1a8684a4",
     "626a439a-fc95-4c91-a74c-e344e3072f09",
