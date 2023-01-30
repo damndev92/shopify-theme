@@ -148,8 +148,9 @@
           "7f33597d-256d-47a4-8434-563af5326199"
         ],
         "settings": {
-          "sticky_header": false,
+          "sticky_header": true,
           "overlay_header": false,
+          "logo": "shopify:\/\/shop_images\/Mega_menu_logo_1.png",
           "logo_max_width": 290,
           "logo_max_width_mobile": 140,
           "logo-placement": "within-header",
@@ -161,7 +162,7 @@
           "cart-number": "quantity",
           "enable_country_selector": false,
           "enable_locale_selector": false,
-          "main_linklist": "",
+          "main_linklist": "mega-menu",
           "top_bar_linklist": ""
         }
       },
