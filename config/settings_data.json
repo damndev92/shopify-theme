@@ -148,7 +148,7 @@
           "7f33597d-256d-47a4-8434-563af5326199"
         ],
         "settings": {
-          "sticky_header": false,
+          "sticky_header": true,
           "overlay_header": false,
           "logo_max_width": 290,
           "logo_max_width_mobile": 140,
@@ -161,12 +161,24 @@
           "cart-number": "quantity",
           "enable_country_selector": false,
           "enable_locale_selector": false,
-          "main_linklist": "",
+          "main_linklist": "mega-menu",
           "top_bar_linklist": ""
         }
       },
       "footer": {
         "type": "footer",
+        "blocks": {
+          "b980ec5a-c7ef-4549-8fc7-15f9f7d3e9e9": {
+            "type": "menu",
+            "settings": {
+              "menu_title": "Links",
+              "footer_linklist": "mega-menu"
+            }
+          }
+        },
+        "block_order": [
+          "b980ec5a-c7ef-4549-8fc7-15f9f7d3e9e9"
+        ],
         "settings": {
           "show_methods_of_payment": false,
           "alignment": "center",
