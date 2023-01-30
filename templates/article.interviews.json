@@ -185,20 +185,10 @@
             "title": "",
             "description": ""
           }
-        },
-        "0f295af4-db0f-479a-b8bd-e437f191d8a2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Magazine_Header_-_1800_X1200_abfee000-4b6c-44e9-a11a-852f1351282a.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
         }
       },
       "block_order": [
-        "090c2e2f-e157-425a-b7ec-6b43859f50b3",
-        "0f295af4-db0f-479a-b8bd-e437f191d8a2"
+        "090c2e2f-e157-425a-b7ec-6b43859f50b3"
       ],
       "settings": {
         "colors": "white",
