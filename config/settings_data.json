@@ -176,6 +176,13 @@
               "footer_linklist": "mega-menu"
             }
           },
+          "20475470-eb6c-425f-9f39-3d0629c760c2": {
+            "type": "text",
+            "settings": {
+              "title": "Contact us",
+              "richtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
+            }
+          },
           "95391973-fb1c-46d7-b409-5802681c0651": {
             "type": "newsletter",
             "settings": {
@@ -186,6 +193,7 @@
         },
         "block_order": [
           "c6b69709-8402-4e86-9ddf-f67ff3a4b2d5",
+          "20475470-eb6c-425f-9f39-3d0629c760c2",
           "95391973-fb1c-46d7-b409-5802681c0651"
         ],
         "settings": {
