@@ -101,14 +101,14 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/10-2-1024x1024.png",
+        "layout": "left",
         "subheading": "",
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "The Process",
+        "text_block": "<p>After Mylene hammers out the details of each new prototype, a Georges object really comes to life in the expert hands of her team of craftsmen. These thirty artisans set to work in the beautiful Chateau de Meritein. Whether they’re producing subtly scented candles, elegant stools, sweeping light fixtures or earthy linens, a thread of continuity runs through their work. Each piece is pure, distilled down to its most essential form, and crafted to feel as if it sprung from the earth naturally. <\/p><p>They make their own magical potions, brewing flour, and natural pigments together to create the paint they’ll use to colour the cotton. Bordeaux, ochres, indigo and pastels are also used to hand-dye the cotton, ensuring rich yet subtle hues for all.<\/p><p>The table is crafted from Orriule stoneware. While more complicated pieces are produced using ecological materials. The team honors the natural state of their materials, leaving them in their rawest form or treating them gently (hand-dyeing, polishing with steel wool to restore shine).<\/p>",
         "page_description": false,
         "button_link": "https:\/\/cornerstonehackney.com\/",
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
