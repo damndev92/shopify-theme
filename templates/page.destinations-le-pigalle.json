@@ -127,40 +127,6 @@
         "title": ""
       }
     },
-    "a8acd27c-8689-484b-9185-148c6a733c96": {
-      "type": "collection--featured-collection",
-      "blocks": {
-        "template--17526727344443__a8acd27c-8689-484b-9185-148c6a733c96-167335175805e84d3b-0": {
-          "type": "grid-card-title",
-          "settings": {
-          }
-        },
-        "template--17526727344443__a8acd27c-8689-484b-9185-148c6a733c96-167335175805e84d3b-1": {
-          "type": "grid-card-price",
-          "settings": {
-          }
-        },
-        "template--17526727344443__a8acd27c-8689-484b-9185-148c6a733c96-167335175805e84d3b-2": {
-          "type": "grid-card-swatches",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__a8acd27c-8689-484b-9185-148c6a733c96-167335175805e84d3b-0",
-        "template--17526727344443__a8acd27c-8689-484b-9185-148c6a733c96-167335175805e84d3b-1",
-        "template--17526727344443__a8acd27c-8689-484b-9185-148c6a733c96-167335175805e84d3b-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "Discover",
-        "title": "Le Pigalle Shop",
-        "collection": "le-pigalle",
-        "grid": 4,
-        "rows": 1,
-        "show_view_all": true
-      }
-    },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
       "type": "product--shop-the-look",
       "blocks": {
@@ -315,7 +281,6 @@
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
-    "a8acd27c-8689-484b-9185-148c6a733c96",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
     "889d2c25-4140-44f5-af7a-2c8599551986",
