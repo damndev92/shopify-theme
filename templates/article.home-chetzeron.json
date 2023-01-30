@@ -26,7 +26,8 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Building-cClaus-Brechenmacher-1024x703.jpg",
         "layout": "left",
         "subheading": "",
         "title": "What makes Chetzeron so special?",
