@@ -37,6 +37,21 @@
         "button_label": ""
       }
     },
+    "512be559-31f1-4d73-acf9-eab5d8af9732": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screenshot-2022-09-27-at-12.44.31.png",
+        "layout": "right",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p>Globally, the team is certainly multicultural. Each craftsman has his own way of working, his times, customs and traditions but the common denominator is the love they put into each of the pieces they create. No piece is the same, and each one of them reflects a part of the craftsman’s daily life. Cristina and Alicia like to refer to it as concept co-creation; they are guided by the craftsmen’s techniques and traditions, and they integrate that with their own stellar design vision.<\/p><p>Discovering new places, artisans and traditions is the greatest joy for the duo when they’re dreaming up new pieces for Guayaba Studio. They immerse themselves in these cultures to try to better understand the process behind each piece or technique. And while it’s definitely the thing they enjoy most, it can also be the most challenging. Puzzling out just how something is made can be tricky, as can figuring out how to adapt it to their vision. But the pair know when to accept that something just can’t be produced and cut their losses.<\/p><p>As they look to the future of Guayaba Studio, Alicia and Cristina have big dreams. They want to explore South America to discover new treasures. They want to continue producing beautiful things. And they want to become the loudspeaker for as many artisans as possible, to help share their craft and their process with people across the globe.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -212,6 +227,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
+    "512be559-31f1-4d73-acf9-eab5d8af9732",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "50c7cc0c-94ac-4cfc-abd9-5ee1746d6e27",
     "27dfcfcf-3c27-4013-a9bc-fe0e8af2adb7",
