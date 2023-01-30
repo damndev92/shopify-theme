@@ -66,8 +66,8 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "enable": true,
-          "message_text": "Subscribe to our newsletter and get 10% off your first order",
+          "enable": false,
+          "message_text": "",
           "message_link": "",
           "notification-bar--background-color": "#fab7a4",
           "notification-bar--text-color": "#ffffff",
@@ -148,59 +148,30 @@
           "7f33597d-256d-47a4-8434-563af5326199"
         ],
         "settings": {
-          "sticky_header": true,
+          "sticky_header": false,
           "overlay_header": false,
-          "logo": "shopify:\/\/shop_images\/Mega_menu_logo_1.png",
           "logo_max_width": 290,
           "logo_max_width_mobile": 140,
           "logo-placement": "within-header",
           "sticky_header_logo": false,
-          "search-enable": true,
+          "search-enable": false,
           "label-enable": false,
           "icon-size": "18",
           "cart-style": "shopping-cart",
           "cart-number": "quantity",
           "enable_country_selector": false,
           "enable_locale_selector": false,
-          "main_linklist": "mega-menu",
+          "main_linklist": "",
           "top_bar_linklist": ""
         }
       },
       "footer": {
         "type": "footer",
-        "blocks": {
-          "footer-1": {
-            "type": "menu",
-            "settings": {
-              "menu_title": "Browse",
-              "footer_linklist": "mega-menu"
-            }
-          },
-          "footer-0": {
-            "type": "text",
-            "settings": {
-              "title": "Contact us",
-              "richtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
-            }
-          },
-          "32015f9d-98d0-4acd-aa2b-2ca8f5c2043b": {
-            "type": "newsletter",
-            "settings": {
-              "menu_title": "Join the Flâneur family",
-              "footer_newsletter_description": ""
-            }
-          }
-        },
-        "block_order": [
-          "footer-1",
-          "footer-0",
-          "32015f9d-98d0-4acd-aa2b-2ca8f5c2043b"
-        ],
         "settings": {
-          "show_methods_of_payment": true,
+          "show_methods_of_payment": false,
           "alignment": "center",
-          "enable_country_selector": true,
-          "enable_locale_selector": true
+          "enable_country_selector": false,
+          "enable_locale_selector": false
         }
       }
     },
