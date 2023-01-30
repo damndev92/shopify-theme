@@ -37,18 +37,6 @@
         "button_label": ""
       }
     },
-    "caa04637-6009-4065-89c7-931d3e44b826": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "title": "",
-        "text": "<p><strong>What makes Chetzeron so special?<\/strong><\/p><p><br\/>When you’re in search of the freshest powder, being able to glide gently onto the slopes directly from your door is a true luxury. At Chetzeron, there’s no faffing with bustling ski lifts or noisy boot rooms. Just click into your skis and go. Particularly captivating in winter (hello, Alps), Chetzeron is equally lovely in the warmer months. Inviting rooms and suites have breathtaking view over the mountains and warm, subtle interiors. Though it’s hard to resist heading out into nature, we have a difficult time wanting to leave the sophisticated, Alpine rooms. Need to refresh and recharge after a long day on the slopes? Chetzeron’s wellness facilities are an unparalleled temple of Zen. Give a jolly wave as the ski-inclined slalom past you in the heated outdoor pool.<\/p><p>Discover our 10 favourite facts about the hotel <a href=\"https:\/\/www.maisonflaneur.com\/chezteron-hotel-10-facts\">here<\/a>.<\/p>",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6": {
       "type": "image--gallery",
       "blocks": {
@@ -139,8 +127,8 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
-        "title": "",
-        "text": "<p><strong>Where do you think your interest in interior design came from?<\/strong><\/p><p>I would say mostly from my life experiences and education through traveling. Each visited place taught and inspired me in a unique way, that allowed me to be inspired by so much of the world.<\/p><p><strong><br\/>Where do you find your inspiration for interior design?<\/strong><\/p><p>History and culture.<\/p>",
+        "title": "What to expect when staying at Chetzeron?",
+        "text": "<p>Ultimate relaxation, serious indulgence. Even if you spend hours whooshing up and down the mountains our hiking through verdant, flower-covered peaks every day, you’ll still leave feeling positively pampered. Chetzeron has its own cosy apres-ski lounge for guests, a top-notch restaurant and a stellar spa, so there’s truly something for everyone – no matter the season. Soak up the cinematic views of the snow-crested Matterhorn and Mont-Blanc from your 2,112-metre perch over the Rhone Valley.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -363,7 +351,6 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "f22f8818-4b2d-463b-a20e-8bb52fc570c5",
-    "caa04637-6009-4065-89c7-931d3e44b826",
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
     "e7d2425a-53d5-4163-bc76-529e5c087a1f",
