@@ -69,70 +69,6 @@
         "title": ""
       }
     },
-    "465bd8cf-0b90-4509-995b-c07aeefbe031": {
-      "type": "image--gallery",
-      "blocks": {
-        "19b22b12-2937-4e55-8afc-81ba466b6abd": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/feature-image-TEMPLATE-21.png",
-            "link": "",
-            "title": "15 of London’s Best Restaurants for Valentine’s Day, No Matter Your Plans",
-            "description": "<p>Whether you’re with your significant other, besties or just riding solo.<\/p>"
-          }
-        },
-        "8d574722-6f06-4dd7-9abd-1c88ac4ed944": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Pigalle2-731x1024.png",
-            "link": "",
-            "title": "Make Yourself at Home: Review of Le Pigalle, Paris",
-            "description": "<p>In Paris’ arty district – an area named after renowned sculptor Jean-Baptiste Pigalle – the aptly named Le Pigalle is part hotel, part neighbourhood hub, and full of joie de vivre. Its 40 rooms mix vintage furniture with modern design, giving the hotel the playful energy that prompted British GQ to dub the space ‘your new Paris hotel go-to’. Expect tr<strong>è<\/strong>s chic monochrome decor, locally sourced food, and even a curated playlist in the sociable open-plan lobby – your new antidote to cookie cutter city travel.<\/p>"
-          }
-        },
-        "065fb4fa-51af-44ff-869e-a5abeb0cdb9a": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/81395633.jpg",
-            "link": "",
-            "title": "5 of the best cafés in Paris",
-            "description": "<p>Do not lose hope, spring is said to be around the corner. We thought there was no better time to present a list of Maison Flaneur’s favourite cafés in Paris – With two Parisian co-founders, it would have been rude not to. Some better for a croissant and a morning coffee, some for a glass of wine with friends and some for a secret date: they are the perfect place to discover your inner Flâneur. Whatever the reason, you can always bring back a piece of Paris <a href=\"https:\/\/www.maisonflaneur.com\/venues\/hotelgrandamour\/products\/\">home<\/a>.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "19b22b12-2937-4e55-8afc-81ba466b6abd",
-        "8d574722-6f06-4dd7-9abd-1c88ac4ed944",
-        "065fb4fa-51af-44ff-869e-a5abeb0cdb9a"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "Flâneur Magazine"
-      }
-    },
-    "bdff20fa-c207-4cf0-a079-74d145bb8535": {
-      "type": "image--gallery",
-      "blocks": {
-        "cd08665a-75a0-464e-863c-c1e371db8af1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Soufflerie-731x1024.jpg",
-            "link": "",
-            "title": "Meet Valentina and Sebastien, La Soufflerie, Paris",
-            "description": "<p>Meet Valentina and Sebastien, the husband and wife team behind the handblown glassware cooperative: <a href=\"https:\/\/lasoufflerie.com\/\">La Soufflerie<\/a>, Paris. You may have seen their unique design on the tables of <a href=\"https:\/\/www.maisonflaneur.com\/venues\/hotelgrandamour\/\">L’Hotel Grand Amour <\/a>in Paris, now discover their universe and read about their passion for tradition.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "cd08665a-75a0-464e-863c-c1e371db8af1"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -152,8 +88,6 @@
     "9ed1a0df-5728-4bfa-8003-347e49b121e5",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
-    "465bd8cf-0b90-4509-995b-c07aeefbe031",
-    "bdff20fa-c207-4cf0-a079-74d145bb8535",
     "main"
   ]
 }
