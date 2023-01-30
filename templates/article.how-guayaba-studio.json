@@ -65,6 +65,40 @@
         "show_recent_posts": false
       }
     },
+    "c78feeed-5a2a-4287-a392-7faae8299def": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17808012869947__c78feeed-5a2a-4287-a392-7faae8299def-1675083400ac53f605-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17808012869947__c78feeed-5a2a-4287-a392-7faae8299def-1675083400ac53f605-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17808012869947__c78feeed-5a2a-4287-a392-7faae8299def-1675083400ac53f605-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17808012869947__c78feeed-5a2a-4287-a392-7faae8299def-1675083400ac53f605-0",
+        "template--17808012869947__c78feeed-5a2a-4287-a392-7faae8299def-1675083400ac53f605-1",
+        "template--17808012869947__c78feeed-5a2a-4287-a392-7faae8299def-1675083400ac53f605-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Guayaba Studio",
+        "title": "Shop the collection",
+        "collection": "guayaba-studio",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -85,6 +119,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "512be559-31f1-4d73-acf9-eab5d8af9732",
     "main",
+    "c78feeed-5a2a-4287-a392-7faae8299def",
     "blog-posts"
   ]
 }
