@@ -165,7 +165,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/festern.png",
         "layout": "left",
         "subheading": "",
