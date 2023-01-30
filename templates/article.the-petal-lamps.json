@@ -126,6 +126,40 @@
         "button_label": ""
       }
     },
+    "d13ab45d-8e44-4494-af3f-f90ef8add07b": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17809879793979__d13ab45d-8e44-4494-af3f-f90ef8add07b-16750942684a112196-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Schermata-2021-09-20-alle-13.52.44-1024x510.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17809879793979__d13ab45d-8e44-4494-af3f-f90ef8add07b-16750942684a112196-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "3d7a4323-d397-4856-b51b-faee0b19a34d": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "Welcome to our store",
+        "text": "<p>Use this text block to show store announcements, advertise products and collections, or simply welcome visitors to your store.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -162,6 +196,8 @@
     "7e0ba985-632e-4dd0-9ea9-e48bb722558f",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "51f8de8b-8d25-4853-8f18-c1cf3e34b43d",
+    "d13ab45d-8e44-4494-af3f-f90ef8add07b",
+    "3d7a4323-d397-4856-b51b-faee0b19a34d",
     "main",
     "blog-posts"
   ]
