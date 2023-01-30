@@ -37,6 +37,21 @@
         "button_label": ""
       }
     },
+    "d19619cb-ece7-4c5d-8f2b-d53cd07346c7": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/1-3-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "title": "Le Chateau de Méritein",
+        "text_block": "<p>There's magic happening around every corner at the castle. Erected in 1852, this stunning building is nestled in a 4-hectare park in the middle of Béarn’s rolling hills. The factory – if one can even call something so beautiful a factory – is divided into three workshops. Each room is dedicated to a different stage of creation for a <a href=\"https:\/\/www.maisonflaneur.com\/brand\/georges\/products\/\">Georges lamp<\/a>. One room plays host to fabric dyers, another to artisans chiseling brass. Creatives temper rattan in one corner, while others diligently mount palms in another.<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/kanishkarestaurant.co.uk\/",
+        "button_label": ""
+      }
+    },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -83,6 +98,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
+    "d19619cb-ece7-4c5d-8f2b-d53cd07346c7",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "blog-posts"
