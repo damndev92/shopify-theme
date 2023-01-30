@@ -10,6 +10,21 @@
         "text-over-image-width": "full-width"
       }
     },
+    "9ed1a0df-5728-4bfa-8003-347e49b121e5": {
+      "type": "image--image-with-text-block",
+      "disabled": true,
+      "settings": {
+        "parallax": true,
+        "text-color": "#000000",
+        "background-color": "#ffffff",
+        "horizontal-alignment": "center",
+        "subheading": "",
+        "title": "Share your story",
+        "text": "Here's your chance to make a great first impression",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "e59ec62f-07b5-46d9-921d-cba01b9aebad": {
       "type": "text--rich-text",
       "settings": {
@@ -28,18 +43,10 @@
         "111924f4-ecc9-41b5-8cc4-9d6921001931": {
           "type": "image",
           "settings": {
-            "link": "",
-            "title": "",
-            "description": "<p>Anissa Kermiche’s passion for architecture and fine art transpires through her eponymous <a href=\"https:\/\/anissakermiche.com\/\">jewelry collection<\/a>. It is with great pleasure that we have seen her expand her creativity in a home collection. Her playful intelligence expresses itself in this cheeky and colorful collection of jugs. Discover her <a href=\"https:\/\/www.maisonflaneur.com\/venues\/anissa-kermiche\/\">full collection <\/a>today.<\/p>"
-          }
-        },
-        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-1": {
-          "type": "image",
-          "settings": {
             "image": "shopify:\/\/shop_images\/White-Ceramic-Jugs-Jug-Vase-2.jpg",
             "link": "",
             "title": "",
-            "description": ""
+            "description": "<p>Anissa Kermiche’s passion for architecture and fine art transpires through her eponymous<a href=\"https:\/\/anissakermiche.com\/\">jewelry collection<\/a>. It is with great pleasure that we have seen her expand her creativity in a home collection. Her playful intelligence expresses itself in this cheeky and colorful collection of jugs. Discover her<a href=\"https:\/\/www.maisonflaneur.com\/venues\/anissa-kermiche\/\">full collection<\/a>today.<\/p>"
           }
         },
         "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-2": {
@@ -54,7 +61,6 @@
       },
       "block_order": [
         "111924f4-ecc9-41b5-8cc4-9d6921001931",
-        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-1",
         "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-2"
       ],
       "settings": {
@@ -143,6 +149,7 @@
   },
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "9ed1a0df-5728-4bfa-8003-347e49b121e5",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
