@@ -229,6 +229,40 @@
         "show_blog_images": true,
         "imageSize": "portrait"
       }
+    },
+    "95a91ca3-8990-4b9d-a0ea-c27ca060877b": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17810995642683__95a91ca3-8990-4b9d-a0ea-c27ca060877b-16750978887af323a4-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17810995642683__95a91ca3-8990-4b9d-a0ea-c27ca060877b-16750978887af323a4-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17810995642683__95a91ca3-8990-4b9d-a0ea-c27ca060877b-16750978887af323a4-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17810995642683__95a91ca3-8990-4b9d-a0ea-c27ca060877b-16750978887af323a4-0",
+        "template--17810995642683__95a91ca3-8990-4b9d-a0ea-c27ca060877b-16750978887af323a4-1",
+        "template--17810995642683__95a91ca3-8990-4b9d-a0ea-c27ca060877b-16750978887af323a4-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Subheading",
+        "title": "Featured collection",
+        "collection": "chetzeron",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -244,6 +278,7 @@
     "77e8486b-7c59-4fb8-81a6-0396e5cdb474",
     "6a160bf6-9969-45cd-8384-21822c612f39",
     "main",
-    "blog-posts"
+    "blog-posts",
+    "95a91ca3-8990-4b9d-a0ea-c27ca060877b"
   ]
 }
