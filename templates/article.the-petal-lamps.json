@@ -52,6 +52,50 @@
         "button_label": ""
       }
     },
+    "b0649c99-0ec5-426c-a5ae-005f323d966d": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17809879793979__b0649c99-0ec5-426c-a5ae-005f323d966d-16750942684a112196-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen-Shot-2021-09-20-at-16.24.11-e1665057977712.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17809879793979__b0649c99-0ec5-426c-a5ae-005f323d966d-16750942684a112196-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled-design-58.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17809879793979__b0649c99-0ec5-426c-a5ae-005f323d966d-16750942684a112196-0",
+        "template--17809879793979__b0649c99-0ec5-426c-a5ae-005f323d966d-16750942684a112196-1"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "7e0ba985-632e-4dd0-9ea9-e48bb722558f": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "The artisans let things unfold organically, creating things that seem as if they could have existed all along.",
+        "title": "",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -99,6 +143,8 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "d19619cb-ece7-4c5d-8f2b-d53cd07346c7",
+    "b0649c99-0ec5-426c-a5ae-005f323d966d",
+    "7e0ba985-632e-4dd0-9ea9-e48bb722558f",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "blog-posts"
