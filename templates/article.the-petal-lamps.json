@@ -111,6 +111,21 @@
         "button_label": ""
       }
     },
+    "51f8de8b-8d25-4853-8f18-c1cf3e34b43d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/georges-store_manufacture_gallery_12-715x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "title": "The Technique",
+        "text_block": "<p>Outsourcing is sacrilege at Georges. Mylene ensures that everything is as local as possible. Everything that can be done in-house is done in the castle. Why look elsewhere when you can do it better and more beautifully at home?<\/p><p>Once the team creates their paints and dyes from scratch, they prepare their fabrics for colouration. They carefully paint or dye the fabrics, leaving some in their unadulterated states, and then allow them to dry. After they’ve dried fully, the fabrics are ready for the next steps.<\/p><p>On the first floor of the castle, the artisans work with brass and wood. The end product dictates the technique used, but they are wide-ranging and require immense skill. The team presses, drills, wets, and soaks to tame the raw materials. This union of man and nature allows them to form the petals for the signature Georges petal fixtures.<\/p><p>Next comes cutting and gluing. Though they may sound simple, these techniques become deceptively precise when in the hands of Georges artisans. The team tackles each step meticulously. They spread out to ensure everything is exact. Proper scissors and a good brush are key.<\/p><p>Though it is a detailed and lengthy process of creation, the care and attention are worth it. The beauty and delicacy of <a href=\"https:\/\/www.pinterest.fr\/maison_flaneur\/georges-store-lighting\/\" target=\"_blank\">the Georges petals lamps are proof positive<\/a>.<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -146,6 +161,7 @@
     "b0649c99-0ec5-426c-a5ae-005f323d966d",
     "7e0ba985-632e-4dd0-9ea9-e48bb722558f",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "51f8de8b-8d25-4853-8f18-c1cf3e34b43d",
     "main",
     "blog-posts"
   ]
