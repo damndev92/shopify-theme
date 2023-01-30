@@ -48,7 +48,7 @@
     "allow_note": true,
     "enable_terms_conditions": false,
     "enable_store_pickup": false,
-    "show_swatches": true,
+    "show_swatches": false,
     "image_swatch_option": "Colors",
     "hover-effect": "second-image",
     "product-grid": "square",

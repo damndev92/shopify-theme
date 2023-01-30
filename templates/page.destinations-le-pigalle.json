@@ -141,31 +141,16 @@
         "subheading": "Discover",
         "title": "Le Pigalle Shop",
         "collection": "le-pigalle",
-        "grid": 5,
+        "grid": 4,
         "rows": 1,
         "show_view_all": true
-      }
-    },
-    "754b6613-99e2-4bfd-a95a-940c730e6bcd": {
-      "type": "image--image-with-text-block",
-      "disabled": true,
-      "settings": {
-        "parallax": true,
-        "text-color": "#000000",
-        "background-color": "#ffffff",
-        "horizontal-alignment": "center",
-        "subheading": "",
-        "title": "Meet the Interior Designers",
-        "text": "For Le Pigalle, renowned Parisian Interior Design Firm Festen took the original building and added typical Parisian touches, such as panelled doors and white walls, moulding, woodwork and parquet flooring.\n\nAs Hugo Sauzay, one of Festen’s partners says, “If you really look close at Pigalle, we’re actually in La Nouvelle Athenes, where the architecture is less uniform than elsewhere, and we’ve taken the essence of that with details such as curved bay windows, and the cheap, veined marble that was really popular in this faubourg, where people wanted to imitate the richer districts, so we’ve used that for the basins. The terrazzo flooring on the ground floor is like the ones you find in the local bars…”\n\nThe scraped plaster dados on the ground floor are a nod to the old mines of Montmartre and just one example of how the hotel’s interior design is deeply rooted in its surroundings.",
-        "button_link": "",
-        "button_label": "Learn More"
       }
     },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "large",
+        "image-width": "medium",
         "image": "shopify:\/\/shop_images\/festern.png",
         "layout": "left",
         "subheading": "",
@@ -182,7 +167,7 @@
         "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
           "type": "product",
           "settings": {
-            "product": "grey-speckled-love-handles-vase",
+            "product": "beefbar-main-plate-knife-emoji",
             "top": 63,
             "left": 51
           }
@@ -190,7 +175,7 @@
         "61a17092-0b88-43c9-888c-ee6b50651501": {
           "type": "product",
           "settings": {
-            "product": "pierre-chapo-wood-and-leather-chair-s24",
+            "product": "design-clock-solari-cifra-3-black",
             "top": 0,
             "left": 0
           }
@@ -198,16 +183,8 @@
         "2d0cd767-4992-4798-8a74-406d517d073e": {
           "type": "product",
           "settings": {
-            "product": "foscarini-buds-3-table-lamp",
+            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
             "top": 33,
-            "left": 0
-          }
-        },
-        "d212ef77-eb11-4665-b89a-22f576e75dec": {
-          "type": "product",
-          "settings": {
-            "product": "white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
-            "top": 0,
             "left": 0
           }
         }
@@ -215,8 +192,7 @@
       "block_order": [
         "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
         "61a17092-0b88-43c9-888c-ee6b50651501",
-        "2d0cd767-4992-4798-8a74-406d517d073e",
-        "d212ef77-eb11-4665-b89a-22f576e75dec"
+        "2d0cd767-4992-4798-8a74-406d517d073e"
       ],
       "settings": {
         "colors": "white",
@@ -339,7 +315,6 @@
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "a8acd27c-8689-484b-9185-148c6a733c96",
-    "754b6613-99e2-4bfd-a95a-940c730e6bcd",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
