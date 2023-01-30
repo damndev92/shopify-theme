@@ -153,9 +153,9 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
-        "title": "Welcome to our store",
-        "text": "<p>Use this text block to show store announcements, advertise products and collections, or simply welcome visitors to your store.<\/p>",
+        "subheading": "Everything is handmade. We paint our canvas with natural pigments ourselves; we cut the raw brass, wet the rattan. Each of our objects is unique.  Discover the Petal lamps dreamt up by Mylene Niedzialkowski of Georges.",
+        "title": "",
+        "text": "",
         "button_link": "",
         "button_label": ""
       }
