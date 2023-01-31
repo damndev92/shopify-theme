@@ -34,6 +34,18 @@
         "button_label": ""
       }
     },
+    "df0c14f8-dd78-4967-8636-29a50f3489f9": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "What to expect when staying at Surfrider Hotel?",
+        "text": "<p>Expect being woken up by the smell of warm bread and pastries from Venice’s favourite bakery, Gjusta, and revived by the fresh and fruity acai bowls. Sign up to the picnic program and let the Surfrider team prepare you a fresh picnic from the local farmer’s market, with crisp Californian white wine. Enjoy your surroundings with fully customized hiking maps and experiences that only locals know about. After a full day of hiking, surfing, or just enjoying Malibu’s splendor, revel in the warm outdoor shower before hitting the rooftop bar for a well-deserved cocktail.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6": {
       "type": "image--gallery",
       "blocks": {
@@ -69,6 +81,47 @@
         "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-0",
         "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-1",
         "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "03707bfc-f267-40c7-bf20-fa06d866c2fb": {
+      "type": "image--gallery",
+      "blocks": {
+        "6336f4a9-3529-417e-80c0-c0da756008e1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_5a59b540-1123-4609-be65-7635339ab3e5.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "d460aaa7-8f52-4c9c-a15e-d8f70a21cbdd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_1aafe866-6b1c-4915-9def-50ec28bfaa84.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "bd317a5d-f19d-45d0-85ed-be83e4d1c3b6": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "6336f4a9-3529-417e-80c0-c0da756008e1",
+        "d460aaa7-8f52-4c9c-a15e-d8f70a21cbdd",
+        "bd317a5d-f19d-45d0-85ed-be83e4d1c3b6"
       ],
       "settings": {
         "colors": "white",
@@ -360,7 +413,9 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "b05e8a59-f2de-4100-a150-84680f4889e7",
+    "df0c14f8-dd78-4967-8636-29a50f3489f9",
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
+    "03707bfc-f267-40c7-bf20-fa06d866c2fb",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
     "e7d2425a-53d5-4163-bc76-529e5c087a1f",
