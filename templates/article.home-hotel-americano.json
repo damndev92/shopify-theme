@@ -90,6 +90,40 @@
         "show_recent_posts": false
       }
     },
+    "5804f8a0-e6f8-4088-be71-d83058893ff9": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17826499494203__5804f8a0-e6f8-4088-be71-d83058893ff9-16751856586f2afa8c-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17826499494203__5804f8a0-e6f8-4088-be71-d83058893ff9-16751856586f2afa8c-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17826499494203__5804f8a0-e6f8-4088-be71-d83058893ff9-16751856586f2afa8c-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17826499494203__5804f8a0-e6f8-4088-be71-d83058893ff9-16751856586f2afa8c-0",
+        "template--17826499494203__5804f8a0-e6f8-4088-be71-d83058893ff9-16751856586f2afa8c-1",
+        "template--17826499494203__5804f8a0-e6f8-4088-be71-d83058893ff9-16751856586f2afa8c-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Subheading",
+        "title": "Featured collection",
+        "collection": "hotel-pacai",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -110,6 +144,7 @@
     "77e8486b-7c59-4fb8-81a6-0396e5cdb474",
     "6a160bf6-9969-45cd-8384-21822c612f39",
     "main",
+    "5804f8a0-e6f8-4088-be71-d83058893ff9",
     "blog-posts"
   ]
 }
