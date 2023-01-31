@@ -69,28 +69,16 @@
         "button_label": ""
       }
     },
-    "caa04637-6009-4065-89c7-931d3e44b826": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "title": "",
-        "text": "<p><strong>Tell us three things people might not know about you? <br\/><br\/><\/strong>I never studied design! My career began by naturally gravitating towards my passion and curiosity of the world.<\/p><p>I never go to the same restaurant in London more than once (even if it was a favourite!) This keeps my taste buds and curiosity heightened.<\/p><p>My best piece of advice: Nothing is a given in life. You have to work hard to get to where you want to be, and design is no different.<br\/><br\/><strong>What makes a home in one word?<\/strong><\/p><p>Memories<\/p><p> <\/p><p><strong>How would you describe your style in one word?<\/strong><\/p><p>Contextual<\/p><p><\/p>",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "465bd8cf-0b90-4509-995b-c07aeefbe031": {
       "type": "image--gallery",
       "blocks": {
         "19b22b12-2937-4e55-8afc-81ba466b6abd": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_ad2d83dc-230f-4399-b66c-c43fd61a16d4.png",
+            "image": "shopify:\/\/shop_images\/MF_ElFenn_Product-98.png",
             "link": "",
             "title": "",
-            "description": ""
+            "description": "<p>Red and White Cotton Pom Pom Throw<\/p>"
           }
         },
         "8d574722-6f06-4dd7-9abd-1c88ac4ed944": {
@@ -354,7 +342,6 @@
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
     "dc48be0a-2b3b-46fe-92b9-ff4d34c82c03",
-    "caa04637-6009-4065-89c7-931d3e44b826",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
     "e7d2425a-53d5-4163-bc76-529e5c087a1f",
     "bdff20fa-c207-4cf0-a079-74d145bb8535",
