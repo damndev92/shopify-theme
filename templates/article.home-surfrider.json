@@ -64,27 +64,10 @@
     "03707bfc-f267-40c7-bf20-fa06d866c2fb": {
       "type": "image--gallery",
       "blocks": {
-        "6336f4a9-3529-417e-80c0-c0da756008e1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_5a59b540-1123-4609-be65-7635339ab3e5.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "d460aaa7-8f52-4c9c-a15e-d8f70a21cbdd": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_1aafe866-6b1c-4915-9def-50ec28bfaa84.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
         "bd317a5d-f19d-45d0-85ed-be83e4d1c3b6": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Surfrider-1024x441.jpg",
             "link": "",
             "title": "",
             "description": ""
@@ -92,8 +75,6 @@
         }
       },
       "block_order": [
-        "6336f4a9-3529-417e-80c0-c0da756008e1",
-        "d460aaa7-8f52-4c9c-a15e-d8f70a21cbdd",
         "bd317a5d-f19d-45d0-85ed-be83e4d1c3b6"
       ],
       "settings": {
@@ -102,43 +83,13 @@
         "title": ""
       }
     },
-    "caa04637-6009-4065-89c7-931d3e44b826": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "title": "",
-        "text": "<p><strong>Tell us three things people might not know about you? <br\/><br\/><\/strong>I never studied design! My career began by naturally gravitating towards my passion and curiosity of the world.<\/p><p>I never go to the same restaurant in London more than once (even if it was a favourite!) This keeps my taste buds and curiosity heightened.<\/p><p>My best piece of advice: Nothing is a given in life. You have to work hard to get to where you want to be, and design is no different.<br\/><br\/><strong>What makes a home in one word?<\/strong><\/p><p>Memories<\/p><p> <\/p><p><strong>How would you describe your style in one word?<\/strong><\/p><p>Contextual<\/p><p><\/p>",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "465bd8cf-0b90-4509-995b-c07aeefbe031": {
       "type": "image--gallery",
       "blocks": {
-        "19b22b12-2937-4e55-8afc-81ba466b6abd": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3_ad2d83dc-230f-4399-b66c-c43fd61a16d4.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "8d574722-6f06-4dd7-9abd-1c88ac4ed944": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
         "065fb4fa-51af-44ff-869e-a5abeb0cdb9a": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_e73313ac-604f-4abd-a08c-c5ca46d29575.png",
+            "image": "shopify:\/\/shop_images\/Surfrider3-1024x441.jpg",
             "link": "",
             "title": "",
             "description": ""
@@ -146,8 +97,6 @@
         }
       },
       "block_order": [
-        "19b22b12-2937-4e55-8afc-81ba466b6abd",
-        "8d574722-6f06-4dd7-9abd-1c88ac4ed944",
         "065fb4fa-51af-44ff-869e-a5abeb0cdb9a"
       ],
       "settings": {
@@ -389,7 +338,6 @@
     "df0c14f8-dd78-4967-8636-29a50f3489f9",
     "00e44962-d24a-44c6-bbee-db869847c1f8",
     "03707bfc-f267-40c7-bf20-fa06d866c2fb",
-    "caa04637-6009-4065-89c7-931d3e44b826",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
     "e7d2425a-53d5-4163-bc76-529e5c087a1f",
     "bdff20fa-c207-4cf0-a079-74d145bb8535",
