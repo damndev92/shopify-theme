@@ -122,6 +122,38 @@
         "text-over-image-width": "full-width"
       }
     },
+    "96d945c8-b597-44aa-b3f4-cfddae2a40d0": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17822934106427__96d945c8-b597-44aa-b3f4-cfddae2a40d0-1675169348ebed0264-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/l_h__tel_grand_amour____paris_5413.jpeg_north_499x_white.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17822934106427__96d945c8-b597-44aa-b3f4-cfddae2a40d0-1675169348ebed0264-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/restaurant-HotelGrandAmour-Jean-Picon-1-731x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17822934106427__96d945c8-b597-44aa-b3f4-cfddae2a40d0-1675169348ebed0264-1",
+        "template--17822934106427__96d945c8-b597-44aa-b3f4-cfddae2a40d0-1675169348ebed0264-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -145,6 +177,7 @@
     "main",
     "453aeb34-4e7e-4630-bcad-11ca561141e4",
     "cbc8474a-ea1a-4317-b5df-aa1a32cb6a64",
+    "96d945c8-b597-44aa-b3f4-cfddae2a40d0",
     "blog-posts"
   ]
 }
