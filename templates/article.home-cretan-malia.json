@@ -78,6 +78,7 @@
     "a2a45379-af5e-4e4c-b567-6df696a6df68": {
       "type": "image--image",
       "settings": {
+        "image": "shopify:\/\/shop_images\/413-Lobby-1-1920x1065-1-1024x568.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
