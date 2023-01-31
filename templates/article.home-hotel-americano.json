@@ -1,0 +1,115 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-01-31_at_17.06.58.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "e59ec62f-07b5-46d9-921d-cba01b9aebad": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "Make Yourself at Home: Review of Graanmarkt 13, Antwerp",
+        "text": "<p><br\/>Graanmarkt 13 is the definition of an aesthet dream: an intriguing house in Antwerp, where every floor tells a story. It’s the brainchild of founders Ilse Cornelissens and Tim Van Geloven, and combines a concept store, restaurant, boutique, gallery and rental flat – everything you’d expect from this uber-cool Belgian city. But it’s an escape from the city too, designed with warm light and a calming character. A place to retreat from the city’s bustling streets, where every piece and design detail inside is lovingly chosen by Ilse and Tim themselves.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "77e8486b-7c59-4fb8-81a6-0396e5cdb474": {
+      "type": "image--gallery",
+      "blocks": {
+        "8160d6d7-3e78-41e4-b9c8-547393676ea4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Graanmarktcover.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "359144ee-4c47-4623-a7ca-1b310a8939e5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PicarticleG13.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "21bb5fd6-0919-4012-b0ec-6233a306aff8": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_e73313ac-604f-4abd-a08c-c5ca46d29575.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "8160d6d7-3e78-41e4-b9c8-547393676ea4",
+        "359144ee-4c47-4623-a7ca-1b310a8939e5",
+        "21bb5fd6-0919-4012-b0ec-6233a306aff8"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "6a160bf6-9969-45cd-8384-21822c612f39": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p>Since they first opened their townhouse-of-wonders in 2010, the couple has been at the forefront of architecture (employing one of Belgium’s most respected architect Vincent Van Duysen), design, fashion, and food. In the shop, you can find beautiful fashion pieces, rare beauty products, or design objects duly sourced by the couple: from Belgian designer Michaël Verheyden to the young Danish brand Frama. In the kitchen, award-winning chef Seppe Nobels celebrates vegetables in all their shapes and forms. The roof garden is providing herbs and honey for the restaurant while the upstairs apartment is a real haven of peace imagined by Van Duysen.<\/p><p><\/p><p><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/graanmarkt-13\/\">Discover Graanmarkt 13’s secrets here. <\/a><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "portrait"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "e59ec62f-07b5-46d9-921d-cba01b9aebad",
+    "77e8486b-7c59-4fb8-81a6-0396e5cdb474",
+    "6a160bf6-9969-45cd-8384-21822c612f39",
+    "main",
+    "blog-posts"
+  ]
+}
