@@ -64,6 +64,16 @@
         "title": ""
       }
     },
+    "2cc0c399-32aa-4522-9765-576030c867c7": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Velona-s-Jungle-Florence-Maison-Flaneur-1-1024x369.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "caa04637-6009-4065-89c7-931d3e44b826": {
       "type": "text--rich-text",
       "settings": {
@@ -348,6 +358,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
+    "2cc0c399-32aa-4522-9765-576030c867c7",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
     "e7d2425a-53d5-4163-bc76-529e5c087a1f",
