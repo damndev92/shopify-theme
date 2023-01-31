@@ -126,18 +126,6 @@
         "button_label": ""
       }
     },
-    "e7d2425a-53d5-4163-bc76-529e5c087a1f": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "title": "",
-        "text": "<p><strong>Where do you think your interest in interior design came from?<\/strong><\/p><p>I would say mostly from my life experiences and education through traveling. Each visited place taught and inspired me in a unique way, that allowed me to be inspired by so much of the world.<\/p><p><strong><br\/>Where do you find your inspiration for interior design?<\/strong><\/p><p>History and culture.<\/p>",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "bdff20fa-c207-4cf0-a079-74d145bb8535": {
       "type": "image--gallery",
       "blocks": {
@@ -359,7 +347,6 @@
     "dc48be0a-2b3b-46fe-92b9-ff4d34c82c03",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
     "ba8e0560-e340-49d7-99c0-afa87f6b5dd5",
-    "e7d2425a-53d5-4163-bc76-529e5c087a1f",
     "bdff20fa-c207-4cf0-a079-74d145bb8535",
     "4933d240-dcc6-43c6-980b-024b1a8684a4",
     "626a439a-fc95-4c91-a74c-e344e3072f09",
