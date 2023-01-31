@@ -111,6 +111,21 @@
         "title": ""
       }
     },
+    "ba8e0560-e340-49d7-99c0-afa87f6b5dd5": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/MF_ElFenn_Lifestlye-8-1-1024x836.jpg",
+        "layout": "right",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p><strong>Three things Maison Flaneur recommends at the El Fenn:<\/strong><\/p><p>After a long day winding through the bustling maze of streets and alleyways that make up the souk, the terrace is the perfect way to cap off your day. Cool off with a dip in the pool, and then curl up in a daybed below the roof’s Berber tent and enjoy a cup of Moroccan tea or a glass of local wine.<\/p><p>The Spa also offers traditional Moroccan-style massage and beauty treatments. Yes, please.<\/p><p>The Hotel also has a family of tortoises in the garden.<\/p><p> <\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/el-fenn\/\"><em>To see the full El-Fenn collection, click here.<\/em><\/a><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/meet-the-maker-willem-smitt\/\"><em>How to achieve a home interior style like the El Fenn? Read our interview with interior decorator Willem Smit. <\/em><\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "e7d2425a-53d5-4163-bc76-529e5c087a1f": {
       "type": "text--rich-text",
       "settings": {
@@ -343,6 +358,7 @@
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
     "dc48be0a-2b3b-46fe-92b9-ff4d34c82c03",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
+    "ba8e0560-e340-49d7-99c0-afa87f6b5dd5",
     "e7d2425a-53d5-4163-bc76-529e5c087a1f",
     "bdff20fa-c207-4cf0-a079-74d145bb8535",
     "4933d240-dcc6-43c6-980b-024b1a8684a4",
