@@ -127,14 +127,17 @@
         "title": ""
       }
     },
-    "e7d2425a-53d5-4163-bc76-529e5c087a1f": {
-      "type": "text--rich-text",
+    "7f3c857a-d60f-4657-9355-402dc77b04c6": {
+      "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/Custom-Surfrider-Hammock-Thick-Pattern-2.jpg",
+        "layout": "left",
         "subheading": "",
-        "title": "",
-        "text": "<p><strong>Where do you think your interest in interior design came from?<\/strong><\/p><p>I would say mostly from my life experiences and education through traveling. Each visited place taught and inspired me in a unique way, that allowed me to be inspired by so much of the world.<\/p><p><strong><br\/>Where do you find your inspiration for interior design?<\/strong><\/p><p>History and culture.<\/p>",
+        "title": "Private: Handmade Hammock – Thick Pattern",
+        "text_block": "<p>€712<\/p><p>Handwoven hammocks by tribal artisans in the Amazon Rainforest. Made with buriti palm, each hammock takes 4 months to make. Extremely rare and limited production.<\/p>",
+        "page_description": false,
         "button_link": "",
         "button_label": ""
       }
@@ -362,7 +365,7 @@
     "03707bfc-f267-40c7-bf20-fa06d866c2fb",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
     "48e95c53-b982-474a-bc71-2fffdd065a41",
-    "e7d2425a-53d5-4163-bc76-529e5c087a1f",
+    "7f3c857a-d60f-4657-9355-402dc77b04c6",
     "bdff20fa-c207-4cf0-a079-74d145bb8535",
     "4933d240-dcc6-43c6-980b-024b1a8684a4",
     "626a439a-fc95-4c91-a74c-e344e3072f09",
