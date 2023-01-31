@@ -37,19 +37,36 @@
         "button_label": ""
       }
     },
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
-      "type": "text--image-with-text",
+    "20cb0010-bfd6-47f2-ba47-59acda4275fb": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17823400657211__20cb0010-bfd6-47f2-ba47-59acda4275fb-1675169348ebed0264-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PATIO_POOL2-683x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17823400657211__20cb0010-bfd6-47f2-ba47-59acda4275fb-1675169348ebed0264-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8-NAILA_ROOM2-768x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17823400657211__20cb0010-bfd6-47f2-ba47-59acda4275fb-1675169348ebed0264-1",
+        "template--17823400657211__20cb0010-bfd6-47f2-ba47-59acda4275fb-1675169348ebed0264-2"
+      ],
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
         "subheading": "",
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
-        "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "button_label": "Book Now"
+        "title": ""
       }
     },
     "main": {
@@ -83,7 +100,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "20cb0010-bfd6-47f2-ba47-59acda4275fb",
     "main",
     "blog-posts"
   ]
