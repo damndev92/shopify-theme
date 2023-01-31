@@ -101,7 +101,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "large",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/interior_designers.png",
         "layout": "left",
         "subheading": "Hotel Pacai",
