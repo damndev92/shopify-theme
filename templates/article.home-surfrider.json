@@ -86,7 +86,7 @@
     "465bd8cf-0b90-4509-995b-c07aeefbe031": {
       "type": "image--gallery",
       "blocks": {
-        "065fb4fa-51af-44ff-869e-a5abeb0cdb9a": {
+        "6f4d9a21-c8b3-4422-a138-48752b263e86": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Surfrider3-1024x441.jpg",
@@ -97,7 +97,29 @@
         }
       },
       "block_order": [
-        "065fb4fa-51af-44ff-869e-a5abeb0cdb9a"
+        "6f4d9a21-c8b3-4422-a138-48752b263e86"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "48e95c53-b982-474a-bc71-2fffdd065a41": {
+      "type": "image--gallery",
+      "blocks": {
+        "a42234f2-414f-45ea-9542-e1e503bf342f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Surfrider2-1024x441.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "a42234f2-414f-45ea-9542-e1e503bf342f"
       ],
       "settings": {
         "colors": "white",
@@ -339,6 +361,7 @@
     "00e44962-d24a-44c6-bbee-db869847c1f8",
     "03707bfc-f267-40c7-bf20-fa06d866c2fb",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
+    "48e95c53-b982-474a-bc71-2fffdd065a41",
     "e7d2425a-53d5-4163-bc76-529e5c087a1f",
     "bdff20fa-c207-4cf0-a079-74d145bb8535",
     "4933d240-dcc6-43c6-980b-024b1a8684a4",
