@@ -89,21 +89,6 @@
         "title": ""
       }
     },
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
-        "subheading": "",
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
-        "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "button_label": "Book Now"
-      }
-    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -115,6 +100,26 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
+      }
+    },
+    "453aeb34-4e7e-4630-bcad-11ca561141e4": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chambre-Grande-GrandAmour-bleu-2-1024x682.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "cbc8474a-ea1a-4317-b5df-aa1a32cb6a64": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/HotelGrandAmour-hangar_clairedorn-4-1-1024x731.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
       }
     },
     "blog-posts": {
@@ -137,8 +142,9 @@
     "1809e77f-9f0b-4f21-9fc2-755c24a27089",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "5b2b34f3-7445-4c65-9425-07392cfe0f99",
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "453aeb34-4e7e-4630-bcad-11ca561141e4",
+    "cbc8474a-ea1a-4317-b5df-aa1a32cb6a64",
     "blog-posts"
   ]
 }
