@@ -1,19 +1,9 @@
 {
   "sections": {
-    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/150084-cretan-malia-park-greece-crete.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
-      }
-    },
     "3ea72b3b-a84c-434a-943b-2b74cd140e80": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Steven-Joyce-JOS2021079D00116-02-2-scaled-1-1024x683.jpg",
+        "image": "shopify:\/\/shop_images\/150084-cretan-malia-park-greece-crete.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -102,7 +92,6 @@
     }
   },
   "order": [
-    "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "3ea72b3b-a84c-434a-943b-2b74cd140e80",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
