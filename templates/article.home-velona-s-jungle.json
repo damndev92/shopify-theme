@@ -74,6 +74,16 @@
         "text-over-image-width": "full-width"
       }
     },
+    "513ae7b7-a2c1-40f7-adff-4853c0573328": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Credit-Jade-Nina-Sarkhel-4-1024x369.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "caa04637-6009-4065-89c7-931d3e44b826": {
       "type": "text--rich-text",
       "settings": {
@@ -359,6 +369,7 @@
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
     "2cc0c399-32aa-4522-9765-576030c867c7",
+    "513ae7b7-a2c1-40f7-adff-4853c0573328",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
     "e7d2425a-53d5-4163-bc76-529e5c087a1f",
