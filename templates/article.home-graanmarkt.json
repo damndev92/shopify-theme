@@ -1,0 +1,284 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/g-09-chetzeron-1024x601.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "e59ec62f-07b5-46d9-921d-cba01b9aebad": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "Make Yourself at Home: Chetzeron, Switzerland",
+        "text": "<p><br\/>There’s something peaceful about the mountains, sublime even when you get the timing right. Verbier is wild. St. Moritz is chic. And Crans Montana? Well, for lack of a better word, perfect. Chetzeron is a singular ski-in ski-out hotel perched in the summits of Crans Montana. Winter, spring, summer or fall, this striking hotel really has it all.<\/p><p><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "f22f8818-4b2d-463b-a20e-8bb52fc570c5": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Building-cClaus-Brechenmacher-1024x703.jpg",
+        "layout": "left",
+        "subheading": "",
+        "title": "What makes Chetzeron so special?",
+        "text_block": "<p><\/p><p>When you’re in search of the freshest powder, being able to glide gently onto the slopes directly from your door is a true luxury. At Chetzeron, there’s no faffing with bustling ski lifts or noisy boot rooms. Just click into your skis and go. Particularly captivating in winter (hello, Alps), Chetzeron is equally lovely in the warmer months. Inviting rooms and suites have breathtaking view over the mountains and warm, subtle interiors. Though it’s hard to resist heading out into nature, we have a difficult time wanting to leave the sophisticated, Alpine rooms. Need to refresh and recharge after a long day on the slopes? Chetzeron’s wellness facilities are an unparalleled temple of Zen. Give a jolly wave as the ski-inclined slalom past you in the heated outdoor pool.<\/p><p>Discover our 10 favourite facts about the hotel <a href=\"https:\/\/www.maisonflaneur.com\/chezteron-hotel-10-facts\">here<\/a>.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "e7d2425a-53d5-4163-bc76-529e5c087a1f": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "What to expect when staying at Chetzeron?",
+        "text": "<p>Ultimate relaxation, serious indulgence. Even if you spend hours whooshing up and down the mountains our hiking through verdant, flower-covered peaks every day, you’ll still leave feeling positively pampered. Chetzeron has its own cosy apres-ski lounge for guests, a top-notch restaurant and a stellar spa, so there’s truly something for everyone – no matter the season. Soak up the cinematic views of the snow-crested Matterhorn and Mont-Blanc from your 2,112-metre perch over the Rhone Valley.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "4933d240-dcc6-43c6-980b-024b1a8684a4": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p><strong>Who is your interior style icon? <br\/><br\/><\/strong>I don’t really have a style icon perse, but rather, I admire style and stories from the kinds of people I meet through my work. On a trip to Italy last month, I met a couple that have a collection house in Europe. They have bought arts, antiques and prototypes from designers of the highest calibre, reciting decades of their lives. The mix-and-match of artifacts of the world is just gorgeous, and the stories it told of them even more so. They inspired me so much by being able to harmonise all of this to tell a true story through design. So, to answer your question, I suppose, each project really brings to light its own style icon!<br\/><br\/><strong>Describe your philosophy when it comes to decoration?<br\/><br\/><\/strong>I don’t like the word decoration because it implies you are focusing on the ‘superficial’ or the ‘unnecessary’. I prefer to focus on the essentials – materials, textures and colours, local construction methods. To me, this is what “decorates” a space.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "626a439a-fc95-4c91-a74c-e344e3072f09": {
+      "type": "image--gallery",
+      "blocks": {
+        "090c2e2f-e157-425a-b7ec-6b43859f50b3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Reema-WIP-1-e1660048849793-1024x624.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "090c2e2f-e157-425a-b7ec-6b43859f50b3"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "7643a6f3-d3dd-47f8-ba4c-e08d036994e0": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p><strong>How did you incorporate Maison Flaneur in your project? <br\/><br\/><\/strong>I love taking Maison Flaneur’s strong silhouettes and existing styles and crafting it into our own. They have a great range of products from around the world so its great to work from this and match to project locations.<br\/><br\/><strong>How different is the approach to a restaurant\/ hotel project rather than a home?<br\/><br\/><\/strong>Not very different – the main differentiating element is the capacity which influences the materials and durability of most items. You have to think of every person and nationality and satisfy a whole panel of people – from the owner, to the journalist, the traveller, and the staff working there. Other than that, I believe a hotel should feel like an extension of a home, of course you incorporate more luxury amenities, but I believe the idea, in both, is to feel encapsulated by the country and its culture.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "eb0a2d64-a73f-4709-b77c-ee311d27cdaf": {
+      "type": "image--gallery",
+      "blocks": {
+        "afb003b3-cd64-4917-89df-f5804e63e96b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_ad2d83dc-230f-4399-b66c-c43fd61a16d4.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "9eafbdd0-52a3-4119-9eb3-f1c0d50b0186": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "576a4fae-8e01-466b-8405-7d5bc85d7e23": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_e73313ac-604f-4abd-a08c-c5ca46d29575.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "afb003b3-cd64-4917-89df-f5804e63e96b",
+        "9eafbdd0-52a3-4119-9eb3-f1c0d50b0186",
+        "576a4fae-8e01-466b-8405-7d5bc85d7e23"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "ea569cc1-30a5-4e94-8011-ed149fc1d0fc": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p><strong>Your favourite object in your home?<br\/><br\/><\/strong>The first antique vitrine that I bought. It’s a collection of all my memories from my travels. It’s the first piece that I bought when I first started living alone. It was expensive for me at the time but I felt so drawn to it.<br\/><br\/><strong>Your favourite hotel in the world?<br\/><br\/><\/strong>The Fife Arms – no matter the company you’re with! Family, friends, it is all-around gorgeous.<br\/><br\/><strong>Your favourite restaurant in the world?<br\/><br\/><\/strong>The Noma in Copenhagen. 7 hours later and I can honestly say it was the best dining-experience I’ve ever had!<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "77e8486b-7c59-4fb8-81a6-0396e5cdb474": {
+      "type": "image--gallery",
+      "blocks": {
+        "8160d6d7-3e78-41e4-b9c8-547393676ea4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_ad2d83dc-230f-4399-b66c-c43fd61a16d4.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "359144ee-4c47-4623-a7ca-1b310a8939e5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "21bb5fd6-0919-4012-b0ec-6233a306aff8": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_e73313ac-604f-4abd-a08c-c5ca46d29575.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "8160d6d7-3e78-41e4-b9c8-547393676ea4",
+        "359144ee-4c47-4623-a7ca-1b310a8939e5",
+        "21bb5fd6-0919-4012-b0ec-6233a306aff8"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "6a160bf6-9969-45cd-8384-21822c612f39": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p><strong>Favourite address for decoration in London\/ in the world?<br\/><br\/><\/strong>Antique market of Portobello Road In London. In the world- flea markets are always my favourite.<br\/><br\/><strong>A piece of advice for people in lockdown?<br\/><br\/><\/strong>Remember you just have one life, so make the best of it everyday! Whatever the situation is.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "portrait"
+      }
+    },
+    "95a91ca3-8990-4b9d-a0ea-c27ca060877b": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17810995642683__95a91ca3-8990-4b9d-a0ea-c27ca060877b-16750978887af323a4-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17810995642683__95a91ca3-8990-4b9d-a0ea-c27ca060877b-16750978887af323a4-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17810995642683__95a91ca3-8990-4b9d-a0ea-c27ca060877b-16750978887af323a4-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17810995642683__95a91ca3-8990-4b9d-a0ea-c27ca060877b-16750978887af323a4-0",
+        "template--17810995642683__95a91ca3-8990-4b9d-a0ea-c27ca060877b-16750978887af323a4-1",
+        "template--17810995642683__95a91ca3-8990-4b9d-a0ea-c27ca060877b-16750978887af323a4-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Subheading",
+        "title": "Featured collection",
+        "collection": "chetzeron",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "e59ec62f-07b5-46d9-921d-cba01b9aebad",
+    "f22f8818-4b2d-463b-a20e-8bb52fc570c5",
+    "e7d2425a-53d5-4163-bc76-529e5c087a1f",
+    "4933d240-dcc6-43c6-980b-024b1a8684a4",
+    "626a439a-fc95-4c91-a74c-e344e3072f09",
+    "7643a6f3-d3dd-47f8-ba4c-e08d036994e0",
+    "eb0a2d64-a73f-4709-b77c-ee311d27cdaf",
+    "ea569cc1-30a5-4e94-8011-ed149fc1d0fc",
+    "77e8486b-7c59-4fb8-81a6-0396e5cdb474",
+    "6a160bf6-9969-45cd-8384-21822c612f39",
+    "main",
+    "blog-posts",
+    "95a91ca3-8990-4b9d-a0ea-c27ca060877b"
+  ]
+}
