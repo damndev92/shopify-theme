@@ -54,6 +54,21 @@
         "title": ""
       }
     },
+    "dc48be0a-2b3b-46fe-92b9-ff4d34c82c03": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/MF_ElFenn_Lifestlye-14-1024x836.jpg",
+        "layout": "right",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p><strong>An on-going love story with Marrakech<\/strong><\/p><p>Owner Vanessa Branson (Sister of Richard) and Howell James were looking for a holiday home in 2002 when they stumbled upon the shambled courtyard of what was once upon a time a magnificent riad. The El-Fenn grew, over sixteen years, with utmost care for details and interest in local craftsmanship, from a charming private home to a luxurious hotel.<\/p><p><\/p><p><strong>What to expect when staying at the El Fenn?<\/strong><\/p><p><\/p><p>The riad is one of the few the medina with a pool, and it boasts not just one, but three. All are lined in Carrara marble. Colorful tiles adorn the walls and floors of the tree-lined courtyards, and the interiors are decorated with hand-carved cedar ceilings and intricate tile work. Local artisan products including leather poufs, hand-woven Berber rugs, pottery, and metal luminaries can be found throughout. Ms. Branson – an avid art collector who opened her first gallery in London in 1986 – curated an extensive art collection for El Fenn, and works by artists including William Kentridge, Fred Pollock and David Shrigley line the walls. An expansive rooftop terrace rests atop the building, offering panoramic views of the Atlas mountains and the city’s spectacular mosque, the Koutoubia.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "caa04637-6009-4065-89c7-931d3e44b826": {
       "type": "text--rich-text",
       "settings": {
@@ -338,6 +353,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
+    "dc48be0a-2b3b-46fe-92b9-ff4d34c82c03",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
     "e7d2425a-53d5-4163-bc76-529e5c087a1f",
