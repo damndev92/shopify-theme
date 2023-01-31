@@ -101,12 +101,12 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/festern.png",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/interior_designers.png",
         "layout": "left",
-        "subheading": "Le Pigalle",
+        "subheading": "Hotel Pacai",
         "title": "Meet the Interior Designers",
-        "text_block": "<p><\/p><p>For Le Pigalle, renowned Parisian Interior Design Firm Festen took the original building and added typical Parisian touches, such as panelled doors and white walls, moulding, woodwork and parquet flooring.<\/p>",
+        "text_block": "<p><br\/>Set in the heart of Vilnius’ Old Town—Yes Design Studio envisaged Hotel PACAI to perfectly echo this quarter’s 17th-century Baroque grandeur, yet augmenting it with a contemporary twist.<br\/><br\/><\/p><p>Post-Froma design’s architectural triumph in transforming the 17th Century residence of famed Lithuanian army commander Mykolas Kazimieras Pacas, the interior design firm YES designed interiors celebrating this History but blending it with a sense of Modern living.<br\/><br\/><\/p><p>As the majority of spaces dated back to the end of the XVIII century, YES aimed to keep the history visible in a very direct way whilst reimagining historical items and recasting them into the present. This included a mystical staircase with exposed old walls and rooms with authentic frescoes.<br\/><br\/><\/p><p>To create a focus on harmony and a cozy artistic atmosphere, soft deep tones were used to dominate the hotel’s public areas, smooth lighting used to compliment artistic elements such as the art and frescoes and pure and natural materials were used to reflect the colour tones of the Baltics.<\/p>",
         "page_description": false,
         "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
         "button_label": "Learn More"
