@@ -42,14 +42,14 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
+        "image": "shopify:\/\/shop_images\/article_photo2-731x1024.jpg",
         "layout": "right",
         "subheading": "",
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>What to expect when staying at Vora Santorini?<\/strong><\/p><p>Expect to wake up to a view overlooking the volcano in a villa that perfectly balances the island’s traditional and contemporary design. In a setting of tranquillity and privacy, you can take a morning or afternoon dip in your villa’s personal plunge pool. Experience the island’s celebrated sunsets before dining under the moonlight of the Aegean sky in the most secluded location – Imerovigli, Santorini.<\/p><p><strong>Maison Flâneur recommends<\/strong><\/p><p>See the alluring black sand beaches of Kamari and Perivolos are just a short drive away. <\/p><p>A brief 5-minute walk takes you to the village of Firostefani, where you will find a great deal of cozy restaurants and dreamy views of the Caldera.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "button_label": "Book Now"
+        "button_link": "",
+        "button_label": ""
       }
     },
     "main": {
