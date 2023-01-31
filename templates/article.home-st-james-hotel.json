@@ -47,6 +47,16 @@
         "text-over-image-width": "full-width"
       }
     },
+    "43e4e854-300c-4eec-9eac-56bc162d560c": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Credit-Jade-Nina-Sarkhel-Interior-Photographer-29-1024x683.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -88,6 +98,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "2e6d6007-076c-4827-8def-eadba398497c",
+    "43e4e854-300c-4eec-9eac-56bc162d560c",
     "main",
     "blog-posts",
     "27c30450-f1af-466d-a52f-866087fb9ece"
