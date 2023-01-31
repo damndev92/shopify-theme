@@ -46,46 +46,19 @@
         "button_label": ""
       }
     },
-    "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_5a59b540-1123-4609-be65-7635339ab3e5.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_1aafe866-6b1c-4915-9def-50ec28bfaa84.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-2": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-0",
-        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-1",
-        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-2"
-      ],
+    "00e44962-d24a-44c6-bbee-db869847c1f8": {
+      "type": "text--image-with-text",
       "settings": {
         "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/the-surfrider-malibu-conde-nast-traveller-27march18-pr-683x1024.jpg",
+        "layout": "right",
         "subheading": "",
-        "title": ""
+        "title": "Maison Flâneur Recommends",
+        "text_block": "<p>With everything organic and from a local farmer, surfboards made by local shaper complimentary for guest use, you’re sure to leave feeling better than you did when you arrived.<\/p><p>The stay is best for couples or pairs of friends, the private yet sociable environment is perfect for meeting new people.<\/p><p><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/the-surfrider\/\">Discover the full collection here<\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
       }
     },
     "03707bfc-f267-40c7-bf20-fa06d866c2fb": {
@@ -414,7 +387,7 @@
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "b05e8a59-f2de-4100-a150-84680f4889e7",
     "df0c14f8-dd78-4967-8636-29a50f3489f9",
-    "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
+    "00e44962-d24a-44c6-bbee-db869847c1f8",
     "03707bfc-f267-40c7-bf20-fa06d866c2fb",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
