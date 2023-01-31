@@ -65,6 +65,25 @@
         "show_recent_posts": false
       }
     },
+    "56a5608c-a8ef-4095-ae97-0ffe8fcff71a": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/231385064-1024x679.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "a2a45379-af5e-4e4c-b567-6df696a6df68": {
+      "type": "image--image",
+      "settings": {
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -85,6 +104,8 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "main",
+    "56a5608c-a8ef-4095-ae97-0ffe8fcff71a",
+    "a2a45379-af5e-4e4c-b567-6df696a6df68",
     "blog-posts"
   ]
 }
