@@ -82,6 +82,16 @@
         "show_recent_posts": false
       }
     },
+    "39d9d212-21d9-42d4-a8d4-ff029dde7406": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PATIO_POOL-1-1024x683.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -102,6 +112,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "20cb0010-bfd6-47f2-ba47-59acda4275fb",
     "main",
+    "39d9d212-21d9-42d4-a8d4-ff029dde7406",
     "blog-posts"
   ]
 }
