@@ -123,7 +123,7 @@
         "text-color": "#000000",
         "background-color": "#ffffff",
         "horizontal-alignment": "center",
-        "subheading": "",
+        "subheading": "Found in",
         "button_label": "Discover",
         "text_box_width": 30
       }
