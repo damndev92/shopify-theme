@@ -80,18 +80,6 @@
         "button_label": ""
       }
     },
-    "6a160bf6-9969-45cd-8384-21822c612f39": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "title": "",
-        "text": "<p><strong>What makes l’Americano so unique?<\/strong><\/p><p>The hotel is alluring in both its exterior and interior. The ten-story building is encased in a stainless-steel mesh and is diaphanous during the day to let in light, but opaque and glowing at night for guests to enjoy their privacy. The rooms are modeled after Japanese ryokan, featuring a platform bed, minimalist furniture, and warm lighting. Simplicity reigns supreme here but it’s the details that make Hotel Americano memorable. Hôtel Americano is alluring in both its exterior and interior. The ten-story building is encased in a stainless-steel mesh and is diaphanous during the day to let in light, but opaque and glowing at night for guests to enjoy their privacy. The rooms are modeled after Japanese ryokan, featuring a platform bed, minimalist furniture, and warm lighting. Simplicity reigns supreme here, providing an oasis of serenity while outside, New York City provides stimulation of all senses.<\/p>",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "5caa3b41-fa9e-416f-929e-4166622001d9": {
       "type": "text--image-with-text",
       "settings": {
@@ -105,6 +93,28 @@
         "page_description": false,
         "button_link": "",
         "button_label": ""
+      }
+    },
+    "6a160bf6-9969-45cd-8384-21822c612f39": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p><strong>What makes l’Americano so unique?<\/strong><\/p><p>The hotel is alluring in both its exterior and interior. The ten-story building is encased in a stainless-steel mesh and is diaphanous during the day to let in light, but opaque and glowing at night for guests to enjoy their privacy. The rooms are modeled after Japanese ryokan, featuring a platform bed, minimalist furniture, and warm lighting. Simplicity reigns supreme here but it’s the details that make Hotel Americano memorable. Hôtel Americano is alluring in both its exterior and interior. The ten-story building is encased in a stainless-steel mesh and is diaphanous during the day to let in light, but opaque and glowing at night for guests to enjoy their privacy. The rooms are modeled after Japanese ryokan, featuring a platform bed, minimalist furniture, and warm lighting. Simplicity reigns supreme here, providing an oasis of serenity while outside, New York City provides stimulation of all senses.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "882478cc-f6a3-4a7b-8b6b-418c2c035235": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/full_screen__hero-Americano-16A.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
       }
     },
     "main": {
@@ -197,8 +207,9 @@
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "77e8486b-7c59-4fb8-81a6-0396e5cdb474",
     "38275793-0b08-49f1-aa03-0a90d3af5022",
-    "6a160bf6-9969-45cd-8384-21822c612f39",
     "5caa3b41-fa9e-416f-929e-4166622001d9",
+    "6a160bf6-9969-45cd-8384-21822c612f39",
+    "882478cc-f6a3-4a7b-8b6b-418c2c035235",
     "main",
     "7a614d28-0462-45ae-bf49-97b256097ecf",
     "5804f8a0-e6f8-4088-be71-d83058893ff9",
