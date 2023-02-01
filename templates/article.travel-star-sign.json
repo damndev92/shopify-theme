@@ -97,6 +97,36 @@
         "button_label": ""
       }
     },
+    "27f6eb2e-0c5b-416f-96dc-e5f660742759": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Schermata-2021-04-29-alle-19.30.10-1024x676.png",
+        "layout": "left",
+        "subheading": "",
+        "title": "Virgo",
+        "text_block": "<p>Because Virgos are an earth sign it should come as no surprise that those born under this Mercury-ruled sign are often practical, methodical and down-to-earth. Scratch that orderly itch at the sleek, efficient <strong>Trunk Hotel <\/strong>in Tokyo. You’ve never seen a lovelier, more efficiently run operation.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "50552d46-f394-4ac7-8804-62ebfb09f603": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Just-Large-King-1024x668.jpg",
+        "layout": "left",
+        "subheading": "",
+        "title": "Libra",
+        "text_block": "<p>Venus is in charge for balance-loving Librans, so love, art and beauty take precedence when it comes to travel. Pristine, gorgeous Stockholm is an ideal destination for harmonious Libras, and the <strong>Story Hotel <\/strong>is the perfect home-away-from-home when you’re there. Soak up every last dreamy detail.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -132,6 +162,8 @@
     "3c02b4ec-1ab8-46db-9b2c-0a1bf4608d73",
     "9a170a57-3926-481a-a43c-0b6fe2e4866c",
     "9d434d95-6d4b-43f2-a126-a5e9bceb8078",
+    "27f6eb2e-0c5b-416f-96dc-e5f660742759",
+    "50552d46-f394-4ac7-8804-62ebfb09f603",
     "main",
     "blog-posts"
   ]
