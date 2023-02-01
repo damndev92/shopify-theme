@@ -100,6 +100,16 @@
         "text-over-image-width": "full-width"
       }
     },
+    "dc71d0dd-9506-4403-a89b-192540dbfc93": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copia-di-NiklasAdrianVindelev_sanmichele_bedroom_08-scaled-1-1024x684.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -123,6 +133,7 @@
     "7cd28607-9c98-46c2-886c-00469a0d1f23",
     "main",
     "bf7ff26e-5dd0-4798-b3f3-9005732e191e",
+    "dc71d0dd-9506-4403-a89b-192540dbfc93",
     "blog-posts"
   ]
 }
