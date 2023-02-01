@@ -42,14 +42,14 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
+        "image": "shopify:\/\/shop_images\/bbb-3-1024x1024.png",
         "layout": "right",
         "subheading": "",
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "2. Lunch break at:",
+        "text_block": "<p><a href=\"https:\/\/www.pianostrada.it\/\">Pianostrada<\/a><\/p><p>Via delle Zoccolette 22, Rome, Italy<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "button_label": "Book Now"
+        "button_link": "",
+        "button_label": ""
       }
     },
     "main": {
