@@ -67,6 +67,21 @@
         "button_label": ""
       }
     },
+    "9a170a57-3926-481a-a43c-0b6fe2e4866c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Maison-Flaneur-Vora-Santorini18-1024x755.jpg",
+        "layout": "left",
+        "subheading": "",
+        "title": "Cancer",
+        "text_block": "<p>Emotional, intense and romantic, Cancers would be most relaxed on an intimate, serene trip with family or a significant other. Bask in the tranquillity of <strong>Vora Santorini <\/strong>and take a moment to yourself. Breathe in the beauty of this magical place; exhale all the stress of your daily life.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -100,6 +115,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "3c02b4ec-1ab8-46db-9b2c-0a1bf4608d73",
+    "9a170a57-3926-481a-a43c-0b6fe2e4866c",
     "main",
     "blog-posts"
   ]
