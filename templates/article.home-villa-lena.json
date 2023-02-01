@@ -90,6 +90,16 @@
         "show_recent_posts": false
       }
     },
+    "bf7ff26e-5dd0-4798-b3f3-9005732e191e": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/NiklasAdrianVindelev_sanmichele_bedroom_01-1024x684-1-1024x684.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -112,6 +122,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "7cd28607-9c98-46c2-886c-00469a0d1f23",
     "main",
+    "bf7ff26e-5dd0-4798-b3f3-9005732e191e",
     "blog-posts"
   ]
 }
