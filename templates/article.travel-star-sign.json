@@ -142,6 +142,21 @@
         "button_label": ""
       }
     },
+    "05fe9fc8-a538-40d3-b360-200fb673aab6": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/167321788.jpg",
+        "layout": "right",
+        "subheading": "",
+        "title": "Sagittarius",
+        "text_block": "<p>Though all signs like to travel, none are as inspired by wanderlust as much as Sagittarius. Pretty much any destination will make inquisitive Sagittarians happy, but dynamic, adventurous destinations are best. Luckily, California has it all. Book a room at Malibu’s <strong>The Surfrider <\/strong>and indulge your outdoorsy, foodie and chilled sides all at once.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -180,6 +195,7 @@
     "27f6eb2e-0c5b-416f-96dc-e5f660742759",
     "50552d46-f394-4ac7-8804-62ebfb09f603",
     "c2d57974-0fcf-4c6e-adf6-e95539c6f76d",
+    "05fe9fc8-a538-40d3-b360-200fb673aab6",
     "main",
     "blog-posts"
   ]
