@@ -157,6 +157,21 @@
         "button_label": ""
       }
     },
+    "039d21e7-f61c-4745-a850-e4cb6294f0c8": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/2019-Hotel-Pigalle-01-copy-1-1024x683.jpg",
+        "layout": "left",
+        "subheading": "",
+        "title": "Capricorn",
+        "text_block": "<p>Yes, they can be workaholics, but earthy Capricorns also like to enjoy a little time off too. That being said, they’re often more at home on city trips, as they love having things to do 24\/7. Paris has a wonderful balance of energy for Capricorns. Explore the city from <strong>Le Pigalle<\/strong>.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -196,6 +211,7 @@
     "50552d46-f394-4ac7-8804-62ebfb09f603",
     "c2d57974-0fcf-4c6e-adf6-e95539c6f76d",
     "05fe9fc8-a538-40d3-b360-200fb673aab6",
+    "039d21e7-f61c-4745-a850-e4cb6294f0c8",
     "main",
     "blog-posts"
   ]
