@@ -52,6 +52,21 @@
         "button_label": ""
       }
     },
+    "3c02b4ec-1ab8-46db-9b2c-0a1bf4608d73": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-88.png",
+        "layout": "right",
+        "subheading": "",
+        "title": "Gemini",
+        "text_block": "<p>Multi-faceted and always social, Geminis get bored easily. Keep yourself on your toes in the ski season of the Swiss Alps. Spend mornings soaking in the views, afternoons on the slopes, and evenings of some much needed<em>après<\/em>–<em>ski<\/em>at <strong>Hotel Chetzeron<\/strong>. We promise you won’t even have time to yawn.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -84,6 +99,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "3c02b4ec-1ab8-46db-9b2c-0a1bf4608d73",
     "main",
     "blog-posts"
   ]
