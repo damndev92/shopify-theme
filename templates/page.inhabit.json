@@ -34,7 +34,7 @@
         "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.png",
+            "image": "shopify:\/\/shop_images\/29.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
             "title": "",
             "description": ""
@@ -43,7 +43,7 @@
         "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2.png",
+            "image": "shopify:\/\/shop_images\/36.png",
             "link": "shopify:\/\/products\/parentesi-suspension-lamp",
             "title": "",
             "description": ""
@@ -118,7 +118,7 @@
         "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5.png",
+            "image": "shopify:\/\/shop_images\/38.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle",
             "title": "",
             "description": ""
@@ -127,7 +127,7 @@
         "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3.png",
+            "image": "shopify:\/\/shop_images\/30.png",
             "link": "shopify:\/\/products\/wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
             "title": "",
             "description": ""
@@ -136,7 +136,7 @@
         "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4.png",
+            "image": "shopify:\/\/shop_images\/35.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
             "title": "",
             "description": ""
@@ -201,7 +201,7 @@
         "colors": "white",
         "subheading": "Le Pigalle",
         "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/room.png",
+        "image": "shopify:\/\/shop_images\/31.png",
         "image__position": "image--left",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
@@ -248,7 +248,7 @@
         "colors": "white",
         "subheading": "",
         "title": "",
-        "image": "shopify:\/\/shop_images\/room.png",
+        "image": "shopify:\/\/shop_images\/37.png",
         "image__position": "image--right",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
