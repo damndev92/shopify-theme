@@ -97,6 +97,21 @@
         "button_label": ""
       }
     },
+    "a851ce70-1217-4e9b-92b0-48a916731f9e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Prado-2-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "title": "6. Secret spot:",
+        "text_block": "<p><a href=\"https:\/\/m.facebook.com\/AnticaLibreriaCascianelli\/\">Libreria Cascianelli<\/a><\/p><p>Largo Febo 15, Rome, Italy<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -132,6 +147,7 @@
     "75b05e0b-52e9-4d49-8ad4-d4a1167b005a",
     "b69ee865-e74d-4d09-a080-7562448ac189",
     "f3a7fb8b-346b-47f7-9dbd-81dbc63435f1",
+    "a851ce70-1217-4e9b-92b0-48a916731f9e",
     "main",
     "blog-posts"
   ]
