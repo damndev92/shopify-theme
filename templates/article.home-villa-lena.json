@@ -37,19 +37,29 @@
         "button_label": ""
       }
     },
+    "63fb4e51-6aff-4824-a93e-96e678eb059a": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Fattoria_Hesselbrand_Wavy_unnamed-1-1024x768-1-1024x768.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/Fattoria_Hesselbrand_Wavy_unnamed-768x1024.jpg",
+        "layout": "left",
         "subheading": "",
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>What to expect when staying at Villa Lena?<\/strong><\/p><p><a href=\"https:\/\/www.villa-lena.org\/about\">Villa Lena Foundation<\/a>, the residency offers the opportunity to live and work at Villa Lena for six weeks. During this period, the residents infuse the site with the energy, charm and character normally reserved to the art hideouts. While the apartments occupy a number of outlying buildings, for a bit more privacy and a village-like atmosphere that will make you feel like a real Tuscan. This is what makes the time spent at Villa Lena inspiring for anyone there.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "button_label": "Book Now"
+        "button_link": "",
+        "button_label": ""
       }
     },
     "main": {
@@ -83,6 +93,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
+    "63fb4e51-6aff-4824-a93e-96e678eb059a",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "blog-posts"
