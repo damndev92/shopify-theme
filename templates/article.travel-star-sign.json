@@ -187,6 +187,21 @@
         "button_label": ""
       }
     },
+    "dc3c419f-57c8-4c92-aea3-da46d5949d2f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Schermata-2021-04-29-alle-21.19.43-1024x680.png",
+        "layout": "left",
+        "subheading": "",
+        "title": "Pisces",
+        "text_block": "<p>The most spiritual of all signs, Pisces love to connect to spaces, energy and people. <strong>Cretan Malia<\/strong> is awash in good vibes. The place is beautiful, and there’s a peaceful, holistic energy that blankets the entire property. To truly align your spiritual self, sign up for one of their yoga-centric retreats, Pisces. Get ready to find your Zen.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -228,6 +243,7 @@
     "05fe9fc8-a538-40d3-b360-200fb673aab6",
     "039d21e7-f61c-4745-a850-e4cb6294f0c8",
     "ce6f85f7-bfab-4bb5-9a08-639ae2a7fccb",
+    "dc3c419f-57c8-4c92-aea3-da46d5949d2f",
     "main",
     "blog-posts"
   ]
