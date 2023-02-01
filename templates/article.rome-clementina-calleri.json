@@ -82,6 +82,21 @@
         "button_label": ""
       }
     },
+    "f3a7fb8b-346b-47f7-9dbd-81dbc63435f1": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Prado-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "title": "5. With Friends at:",
+        "text_block": "<p><a href=\"https:\/\/m.facebook.com\/aimarmi\/\">Pizzeria ai Marmi<\/a><\/p><p>Viale Trastevere 53, Rome, Italy<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -116,6 +131,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "75b05e0b-52e9-4d49-8ad4-d4a1167b005a",
     "b69ee865-e74d-4d09-a080-7562448ac189",
+    "f3a7fb8b-346b-47f7-9dbd-81dbc63435f1",
     "main",
     "blog-posts"
   ]
