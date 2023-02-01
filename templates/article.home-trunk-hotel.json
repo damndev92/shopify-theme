@@ -52,6 +52,46 @@
         "button_label": ""
       }
     },
+    "ef9759cd-bca9-4d5a-a17f-a3344459ce4b": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17836315246907__ef9759cd-bca9-4d5a-a17f-a3344459ce4b-16752435039426166d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Trunk-Fan-White-Black.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>TRUNK(HOTEL) Japanese Fan<\/p><p>From £28<\/p>"
+          }
+        },
+        "template--17836315246907__ef9759cd-bca9-4d5a-a17f-a3344459ce4b-16752435039426166d-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17836315246907__ef9759cd-bca9-4d5a-a17f-a3344459ce4b-16752435039426166d-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17836315246907__ef9759cd-bca9-4d5a-a17f-a3344459ce4b-16752435039426166d-0",
+        "template--17836315246907__ef9759cd-bca9-4d5a-a17f-a3344459ce4b-16752435039426166d-1",
+        "template--17836315246907__ef9759cd-bca9-4d5a-a17f-a3344459ce4b-16752435039426166d-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -84,6 +124,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "ef9759cd-bca9-4d5a-a17f-a3344459ce4b",
     "main",
     "blog-posts"
   ]
