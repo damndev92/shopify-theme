@@ -136,7 +136,7 @@
         "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/circula_123.png",
+            "image": "shopify:\/\/shop_images\/24.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
             "title": "",
             "description": ""
@@ -201,7 +201,7 @@
         "colors": "white",
         "subheading": "Le Pigalle",
         "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/room.png",
+        "image": "shopify:\/\/shop_images\/22.png",
         "image__position": "image--left",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
@@ -248,7 +248,7 @@
         "colors": "white",
         "subheading": "",
         "title": "",
-        "image": "shopify:\/\/shop_images\/room.png",
+        "image": "shopify:\/\/shop_images\/27.png",
         "image__position": "image--right",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
@@ -264,7 +264,7 @@
         "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/7.png",
+            "image": "shopify:\/\/shop_images\/12_a7406a45-b012-4355-ad79-30e7df21bd2a.png",
             "link": "",
             "title": "",
             "description": ""
@@ -273,7 +273,7 @@
         "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/8.png",
+            "image": "shopify:\/\/shop_images\/13.png",
             "link": "",
             "title": "",
             "description": ""
@@ -297,7 +297,7 @@
         "width": "medium",
         "subheading": "The rooms",
         "title": "Take A Peek Inside",
-        "text": "<p>Their rooms' neoclassical architectural style inspired artists and poets in the late nineteenth century. All 40 rooms are decorated in the Nouvelle Athènes mode, conveying a specific image of Pigalle: historic, modern, decadent, multicultural, and musical. Simple and comfortable, full of domestic touches. Each is a collection of objects, souvenirs, music, books and second-hand furniture, with a personality all of its own.<\/p>",
+        "text": "<p><br\/>The Rooms and Suites are on the second and third floors and are arranged around a central patio. The rooms themselves are designed in a Shaker-inspired minimalist style, in simple traditional materials and Oaxacan textiles, with clutter kept to a minumum and subtle luxuries where they count, including furniture by local design studio La Metropolitana. Most come equipped with lofty design features like skylights, contemplative patios or balconies, and minimalist, cream-colored textiles and bedding crafted by Oaxacan artisans.<\/p>",
         "button_link": "",
         "button_label": ""
       }
