@@ -127,6 +127,21 @@
         "button_label": ""
       }
     },
+    "c2d57974-0fcf-4c6e-adf6-e95539c6f76d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/34124495.jpg",
+        "layout": "left",
+        "subheading": "",
+        "title": "Scorpio",
+        "text_block": "<p>As a water sign, Scorpios are often fluid and a little mysterious. Though they love being around friends, Scorpios get great energy by being alone, recharging and checking in with themselves. So, where to go for that solo journey, Scorpio? <strong>Graanmarkt 13 <\/strong>in Antwerp. It’s the perfect place for a bit of introspection.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -164,6 +179,7 @@
     "9d434d95-6d4b-43f2-a126-a5e9bceb8078",
     "27f6eb2e-0c5b-416f-96dc-e5f660742759",
     "50552d46-f394-4ac7-8804-62ebfb09f603",
+    "c2d57974-0fcf-4c6e-adf6-e95539c6f76d",
     "main",
     "blog-posts"
   ]
