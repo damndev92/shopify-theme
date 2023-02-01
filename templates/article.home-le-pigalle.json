@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Steven-Joyce-JOS2021079D00116-02-2-scaled-1-1024x683.jpg",
+        "image": "shopify:\/\/shop_images\/Pigalle-pic-1-1024x776.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -16,20 +16,8 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
-        "title": "15 of London’s Best Restaurants for Valentine’s Day, No Matter Your Plans",
-        "text": "<p>They say the way to a person’s heart is through their stomach, so with that in mind,  we’ve rounded up 15 of the capital’s finest culinary offerings to book ahead of the most romantic night of the year. Flashy skyscraper restaurants to impress on a big date, joy-inducing eateries for a galentines group meal, and cosy and low-key venues for a solo evening – there’s something for everyone. <\/p>",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "light",
-        "width": "small",
-        "subheading": "",
-        "title": "Date Night",
-        "text": "",
+        "title": "Make Yourself at Home: Review of Le Pigalle, Paris",
+        "text": "<p><br\/>In Paris’ artsy district – an area named after renowned sculptor Jean-Baptiste Pigalle – the aptly named Le Pigalle is part hotel, part neighbourhood hub, and full of joie de vivre. Its 40 rooms mix vintage furniture with modern design, giving the hotel the playful energy that prompted British GQ to dub the space ‘your new Paris hotel go-to’. Expect très chic monochrome decor, locally sourced food, and even a curated playlist in the sociable open-plan lobby – your new antidote to cookie cutter city travel.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -39,14 +27,24 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/1-1.png",
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-02-01T123157.048.png",
         "layout": "left",
         "subheading": "",
-        "title": "1. Kanishka",
-        "text_block": "<p>17-19 Maddox Street, W1S 2QH<\/p><p><br\/><strong>Head chef:<\/strong> Atul Kochhar<br\/><strong>Order the:<\/strong> Chicken tikka pie<\/p><p><\/p><p>Michelin Star chef Atul Kochhar’s contemporary Indian establishment not only offers tastebud-tantalising flavours, but this year sees a special five-course Valentine’s Day tasting menu designed especially for a night of romance. Expect traditional street food and mishti alongside aphrodisiacs like asparagus and figs. See the special V-day Menu <a href=\"https:\/\/kanishkarestaurant.co.uk\/wp-content\/uploads\/2023\/01\/Kanishka-Valentines-Menu-A5-2023.pdf\" target=\"_blank\">here<\/a>.<\/p>",
+        "title": "What makes Le Pigalle so special?",
+        "text_block": "<p><br\/>Le Pigalle brands itself as a ‘neighbourhood hotel’, and it’s not hard to see why. From the open-plan lobby, with a vinyl library stocking local artists and a curated custom scent powered by Le Labo candles, to the late-service kitchen serving food full of fresh ingredients from nearby small businesses – a warmer welcome at a hotel would be hard to find. In the heart of Paris, on the southern slopes of Montmartre, its youthful spirit and community feel doesn’t just exceed expectations – it shatters them. And with so many ways to entertain yourself (there’s books in every room, too) you may just forget to head out into the city.<br\/><br\/><\/p>",
         "page_description": false,
-        "button_link": "shopify:\/\/products\/beefbar-main-plate-piece-of-meat-emoji",
-        "button_label": "Book Now"
+        "button_link": "shopify:\/\/pages\/le-pigalle",
+        "button_label": "Discover Now"
+      }
+    },
+    "04a3a811-9849-4e6d-8e77-67d4f36ef3ad": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-02-01T123910.895.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "fixed"
       }
     },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
@@ -54,14 +52,71 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-02-01T125138.046.png",
         "layout": "right",
         "subheading": "",
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "What should we expect when staying at Le Pigalle?",
+        "text_block": "<p><br\/>In keeping with the decor du jour of the local area, each of the 40 individually styled rooms has a Nouvelle Athènes feel – a decor look characterised by neoclassical architecture, and inspired by artists and poets of the late nineteenth century. It’s a cultured choice, emphasised by handpicked decorative accessories: vintage furniture from the 50s-70s, bright illustrations and art, unusual objets and well-read books. It’s traditionally Parisian, but with a modern twist – think monochrome, clean lines and a spacious layout.<\/p><p><br\/><\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "button_label": "Book Now"
+        "button_link": "shopify:\/\/pages\/le-pigalle",
+        "button_label": "Discover Now"
+      }
+    },
+    "40efdcbe-055f-42cc-a84f-0f33190e9cfe": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17837860028731__40efdcbe-055f-42cc-a84f-0f33190e9cfe-1675254879eb10f897-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17837860028731__40efdcbe-055f-42cc-a84f-0f33190e9cfe-1675254879eb10f897-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2019-Hotel-Pigalle-04-683x1024_1df7b139-f1e8-4f6d-8810-b92cb2969530.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17837860028731__40efdcbe-055f-42cc-a84f-0f33190e9cfe-1675254879eb10f897-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2019-Hotel-Pigalle-52-683x1024_9097e954-3f6b-4d81-8443-593c5d416e35.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17837860028731__40efdcbe-055f-42cc-a84f-0f33190e9cfe-1675254879eb10f897-0",
+        "template--17837860028731__40efdcbe-055f-42cc-a84f-0f33190e9cfe-1675254879eb10f897-1",
+        "template--17837860028731__40efdcbe-055f-42cc-a84f-0f33190e9cfe-1675254879eb10f897-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "6f0ce742-4083-4f94-ab96-9ae4e9f85ebe": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-02-01T124536.120.png",
+        "layout": "left",
+        "subheading": "",
+        "title": "Maison Flâneur recommends",
+        "text_block": "<p><br\/>Staying in Le Pigalle means living like a local – the friendly team is well-versed in Pigalle’s mysteries, loving nothing better than regaling visitors with stories and tips. And as if it couldn’t get more Parisian, you can enjoy a 24-hour coffee service and locally sourced croissants, delivered fresh every day. Use your coffee break to plan out your day’s activities, and enjoy a playlist curated by a local DJ as you do so.<br\/><br\/><\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/pages\/le-pigalle",
+        "button_label": "Discover Now"
       }
     },
     "main": {
@@ -94,9 +149,11 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
     "60bed94f-19d1-471f-9213-301734a4bab2",
+    "04a3a811-9849-4e6d-8e77-67d4f36ef3ad",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "40efdcbe-055f-42cc-a84f-0f33190e9cfe",
+    "6f0ce742-4083-4f94-ab96-9ae4e9f85ebe",
     "main",
     "blog-posts"
   ]
