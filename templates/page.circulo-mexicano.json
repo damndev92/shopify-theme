@@ -3,7 +3,7 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/pigalle_hp.png",
+        "image": "shopify:\/\/shop_images\/circula.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -22,8 +22,8 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
-        "title": "Le Pigalle",
-        "text": "<p>Mythical and imposing, languid and frenetic, Pigalle is a neon light in the Parisian night. The neighbourhood has always attracted bad boys and artists, musicians and adventurers. With neither a monument nor a meeting point, it lacked a spot that really reflected its tawdry values, brazen spirit and musical energy. And so, Le Pigalle was born. An authentic neighbourhood hotel, whose history was shaped by the cultural mix that swirls on the southern slopes of Montmartre.<\/p>",
+        "title": "Circulo Mexicano",
+        "text": "<p><br\/>Located in the heart of Mexico City’s downtown, where pre-hispanic ruins intersect with the National Palace and the first cathedral in the Americas. Círculo Mexicano brings together Grupo Habita’s unique brand of hospitality with a selection of Mexico’s leading figures from the worlds of food, fashion, and design – offering informed travelers a unique and authentic experience of contemporary Mexican culture.<\/p>",
         "button_link": "",
         "button_label": ""
       }
