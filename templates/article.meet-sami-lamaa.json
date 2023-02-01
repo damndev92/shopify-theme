@@ -37,6 +37,21 @@
         "button_label": ""
       }
     },
+    "f0752746-d6c4-4340-bcfe-7a52c53c9579": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/chetzeron-2-1024x703.jpg",
+        "layout": "left",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p><strong>What makes a good hotel?<\/strong><\/p><p>A good hotel is made from:<\/p><ul><li>Its soul.<\/li><li>Its location.<\/li><li>Its details.<\/li><\/ul><p>At Chetzeron we combine the warm and friendly atmosphere of a mountain hut in an industrial wasteland, with refined and timeless design.<\/p><p><strong>You’ve described the hotel as a “game-changing hospitality statement”. What makes it so different?<\/strong><\/p><p>Switzerland was very famous for its traditional hôtellerie, but I couldn’t see myself in this formative but prescriptive environment. I felt the need to create a place where nature, design, taste (food) and a sense of home meet. The soul, spirit and energy flow from hotel to guest and guest to hotel. This is not merely a concept or a vision but a tangible reality.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -68,6 +83,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "f0752746-d6c4-4340-bcfe-7a52c53c9579",
     "main",
     "blog-posts"
   ]
