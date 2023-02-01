@@ -62,6 +62,21 @@
         "button_label": ""
       }
     },
+    "7cd28607-9c98-46c2-886c-00469a0d1f23": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Villa-Lena-T-Shirt-2-683x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p><strong>Maison Flaneur Recommends<\/strong><\/p><p>Creativity and collaboration underscore life at Villa Lena with a program of events ranging from artists’ talks to children’s activities, al fresco film screenings to cooking workshops, and candlelit concerts to poolside DJ sets. Guests can spend their days exploring the woodlands or visiting nearby legendary towns and cities such as Lucca, San Gimignano, Siena, or Florence. They can also learn to make fresh pasta, forage for truffles, socialise over cocktails, or simply relax poolside. Each evening guests and artists gather in the restaurant for a communal dining experience based on a seasonal organic menu that is rooted in Italian cuisine. What else?<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -95,6 +110,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "63fb4e51-6aff-4824-a93e-96e678eb059a",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "7cd28607-9c98-46c2-886c-00469a0d1f23",
     "main",
     "blog-posts"
   ]
