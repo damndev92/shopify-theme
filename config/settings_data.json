@@ -66,8 +66,8 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "enable": false,
-          "message_text": "",
+          "enable": true,
+          "message_text": "Subscribe to our newsletter and get 10% off your first order",
           "message_link": "",
           "notification-bar--background-color": "#fab7a4",
           "notification-bar--text-color": "#ffffff",
