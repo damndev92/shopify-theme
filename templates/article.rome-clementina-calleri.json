@@ -67,6 +67,21 @@
         "button_label": ""
       }
     },
+    "b69ee865-e74d-4d09-a080-7562448ac189": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Dear-Breakfast-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "title": "4. Date night at:",
+        "text_block": "<p><a href=\"https:\/\/www.instagram.com\/cantinaripagrande\/\" title=\"https:\/\/www.instagram.com\/cantinaripagrande\/\">Cantina <\/a><a href=\"https:\/\/www.instagram.com\/cantinaripagrande\/\">Ripagrande<\/a><\/p><p>Via di S. Francesco a Ripa 73, Rome, Italy<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -100,6 +115,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "75b05e0b-52e9-4d49-8ad4-d4a1167b005a",
+    "b69ee865-e74d-4d09-a080-7562448ac189",
     "main",
     "blog-posts"
   ]
