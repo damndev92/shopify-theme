@@ -172,6 +172,21 @@
         "button_label": ""
       }
     },
+    "ce6f85f7-bfab-4bb5-9a08-639ae2a7fccb": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Schermata-2021-04-29-alle-21.27.57-1024x680.png",
+        "layout": "right",
+        "subheading": "",
+        "title": "Aquarius",
+        "text_block": "<p>Aquarians are notably independent, bold and true to themselves. They love being free to explore both the world around them and who they are inside. The unique, minimal surroundings of <strong>Casa Mami <\/strong>are an inviting setting for self-discovery. Set just outside of Joshua Tree, this eco-friendly retreat is just what you need, Aquarius.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -212,6 +227,7 @@
     "c2d57974-0fcf-4c6e-adf6-e95539c6f76d",
     "05fe9fc8-a538-40d3-b360-200fb673aab6",
     "039d21e7-f61c-4745-a850-e4cb6294f0c8",
+    "ce6f85f7-bfab-4bb5-9a08-639ae2a7fccb",
     "main",
     "blog-posts"
   ]
