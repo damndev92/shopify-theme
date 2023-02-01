@@ -52,6 +52,21 @@
         "button_label": ""
       }
     },
+    "09aa6f19-3a15-4fda-8eb6-1365247ce92e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/s-chetzeron-crans-montana-switzerland-1-1024x601.jpg",
+        "layout": "left",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p><strong>Is there an object in the hotel that has a special meaning for you?<\/strong><\/p><p>The <a href=\"https:\/\/www.maisonflaneur.com\/product\/tronpeta\/\">elephant head sculpture<\/a> in the foyer. And Room 31. I’ll keep my reasons secret.<\/p><p><strong>Food is key at Chetzeron. Why is that?<\/strong><\/p><p>The kitchen is the heart of our concept, the heart of our house. For us, it is all about the food. It’s the most intimate relationship we can have with our guests. We developed this ‘Alpine Cuisine’ over the years, incorporating new ingredients as we discovered them.<\/p><p><strong>And finally can you tell us a little about what is so special about the energy at Chetzeron?<\/strong><\/p><p>Before acquiring the building, I called in Taoist Chinese monks, experts in feng shui, to study the building, its spaces and energies. The entrance to the hotel, for example, is located exactly where the monks suggested so when you enter Chetzeron, you enter another universe, a feng shui universe.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -84,6 +99,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "f0752746-d6c4-4340-bcfe-7a52c53c9579",
+    "09aa6f19-3a15-4fda-8eb6-1365247ce92e",
     "main",
     "blog-posts"
   ]
