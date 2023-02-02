@@ -118,6 +118,38 @@
         "title": ""
       }
     },
+    "bfabce82-07e6-4fa0-bb1d-2f9112ff4138": {
+      "type": "image--gallery",
+      "blocks": {
+        "9c3319c2-6d7d-4957-a1c2-f0f6065bc0b4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "7d2e5618-b24e-4790-87fe-60b77e450e64": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Morning-Coffee-at-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "9c3319c2-6d7d-4957-a1c2-f0f6065bc0b4",
+        "7d2e5618-b24e-4790-87fe-60b77e450e64"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -151,6 +183,7 @@
     "6522854f-e2da-40d2-a32c-2ada6fe73d22",
     "e0109028-9798-48f5-b293-4ab1312a871d",
     "6d1c6b78-73ec-4f7c-9bed-1d3b58e09af6",
+    "bfabce82-07e6-4fa0-bb1d-2f9112ff4138",
     "main",
     "blog-posts"
   ]
