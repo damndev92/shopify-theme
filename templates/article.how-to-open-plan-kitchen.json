@@ -96,6 +96,38 @@
         "title": ""
       }
     },
+    "7e7a6d4e-dd49-49e0-8269-b59b345cfb8a": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17851487387963__7e7a6d4e-dd49-49e0-8269-b59b345cfb8a-1675342370c1451a6a-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/OPenKitchen5.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17851487387963__7e7a6d4e-dd49-49e0-8269-b59b345cfb8a-1675342370c1451a6a-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/OpenKitchen7.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17851487387963__7e7a6d4e-dd49-49e0-8269-b59b345cfb8a-1675342370c1451a6a-1",
+        "template--17851487387963__7e7a6d4e-dd49-49e0-8269-b59b345cfb8a-1675342370c1451a6a-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -128,6 +160,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "c127f11a-1e80-483f-b89c-599a11dcb46c",
     "55d56975-1ef9-459d-ae27-5ece34aaa6bd",
+    "7e7a6d4e-dd49-49e0-8269-b59b345cfb8a",
     "main",
     "blog-posts"
   ]
