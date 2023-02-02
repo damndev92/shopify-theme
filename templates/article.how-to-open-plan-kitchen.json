@@ -54,6 +54,46 @@
         "title": ""
       }
     },
+    "55d56975-1ef9-459d-ae27-5ece34aaa6bd": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Navy-Ric-Rac-1-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Navy Ric Rac Lampshade<\/p><p>From £120<\/p>"
+          }
+        },
+        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-0",
+        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-1",
+        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -85,6 +125,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "c127f11a-1e80-483f-b89c-599a11dcb46c",
+    "55d56975-1ef9-459d-ae27-5ece34aaa6bd",
     "main",
     "blog-posts"
   ]
