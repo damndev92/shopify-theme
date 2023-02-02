@@ -297,7 +297,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_8.png",
-            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-17\/",
+            "link": "",
             "title": "Room 1",
             "description": "<p>Room 1<\/p>"
           }
@@ -306,7 +306,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Fattoria_Hesselbrand_Wavy_unnamed_1_1_2.jpg",
-            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-21-ou-22-avec-platine\/",
+            "link": "",
             "title": "Room 2",
             "description": "<p>Room 2<\/p>"
           }
@@ -315,7 +315,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_10.png",
-            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-22\/",
+            "link": "",
             "title": "Room 3",
             "description": "<p>Room 3<\/p>"
           }
