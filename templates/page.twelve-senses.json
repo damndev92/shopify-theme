@@ -1,15 +1,5 @@
 {
   "sections": {
-    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Twelve-Senses-Retreat-Exterior_1.webp",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
-      }
-    },
     "f5bda6e8-dcdb-4f75-83f7-787ab9571b9e": {
       "type": "image--image",
       "settings": {
@@ -38,13 +28,23 @@
         "button_label": ""
       }
     },
+    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Twelve-Senses-Retreat-Exterior_1.webp",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
+      }
+    },
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
       "type": "image--gallery",
       "blocks": {
         "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.png",
+            "image": "shopify:\/\/shop_images\/26_d7e30c9f-e94d-4b8b-b69a-a6044564d1b3.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
             "title": "",
             "description": ""
@@ -395,10 +395,10 @@
     }
   },
   "order": [
-    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "f5bda6e8-dcdb-4f75-83f7-787ab9571b9e",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
+    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
