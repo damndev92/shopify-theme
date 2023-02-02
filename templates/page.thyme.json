@@ -107,16 +107,6 @@
         "faq_icon": "plus_minus"
       }
     },
-    "ad7b450e-b8bb-460b-bbdd-37d6ff049b7e": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_2_c1feaee6-deec-4004-b545-8ccbac7fb4a9.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
-      }
-    },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -278,36 +268,14 @@
         "button__text": ""
       }
     },
-    "9299a3ef-12a1-48f6-abe6-a54f93478d0b": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/7.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0",
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1"
-      ],
+    "ad7b450e-b8bb-460b-bbdd-37d6ff049b7e": {
+      "type": "image--image",
       "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
+        "image": "shopify:\/\/shop_images\/Untitled_design_2_c1feaee6-deec-4004-b545-8ccbac7fb4a9.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
@@ -411,12 +379,11 @@
     "fddaf64f-ef02-4124-a6da-30225eb3da6f",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "ad7b450e-b8bb-460b-bbdd-37d6ff049b7e",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
-    "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
+    "ad7b450e-b8bb-460b-bbdd-37d6ff049b7e",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
