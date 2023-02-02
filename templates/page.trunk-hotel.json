@@ -10,20 +10,20 @@
         "text-over-image-width": "full-width"
       }
     },
-    "b8ec66ed-93f6-4c4c-b348-4b2096c72e52": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_96d666de-e3ff-4510-ad67-e6a143fd3137.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
-      }
-    },
     "main": {
       "type": "template--page",
       "disabled": true,
       "settings": {
+      }
+    },
+    "b8ec66ed-93f6-4c4c-b348-4b2096c72e52": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/11_8015ac68-92be-4235-80f8-6d48d328bd3d.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
       }
     },
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
@@ -396,8 +396,8 @@
   },
   "order": [
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
-    "b8ec66ed-93f6-4c4c-b348-4b2096c72e52",
     "main",
+    "b8ec66ed-93f6-4c4c-b348-4b2096c72e52",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
