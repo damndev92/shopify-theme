@@ -28,16 +28,6 @@
         "button_label": ""
       }
     },
-    "ad7b450e-b8bb-460b-bbdd-37d6ff049b7e": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/7_de477973-eae6-4826-bd13-bb891758d8f9.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
-      }
-    },
     "fddaf64f-ef02-4124-a6da-30225eb3da6f": {
       "type": "image--image",
       "settings": {
@@ -115,6 +105,16 @@
         "text-color": "#000000",
         "title": "Frequently asked questions",
         "faq_icon": "plus_minus"
+      }
+    },
+    "ad7b450e-b8bb-460b-bbdd-37d6ff049b7e": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/7_de477973-eae6-4826-bd13-bb891758d8f9.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
       }
     },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
@@ -328,7 +328,7 @@
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_fd62c092-41ea-469f-be64-030352f553af.png",
+            "image": "shopify:\/\/shop_images\/2019_May_Thyme6785-1140x760-1_1.jpg",
             "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-17\/",
             "title": "Pigalle 17",
             "description": "<p>With its bar and close-up view of the neighbourhood, the Pigalle 17 has an an intimate feel, making the room perfect for couples.<\/p>"
@@ -408,10 +408,10 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
-    "ad7b450e-b8bb-460b-bbdd-37d6ff049b7e",
     "fddaf64f-ef02-4124-a6da-30225eb3da6f",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
+    "ad7b450e-b8bb-460b-bbdd-37d6ff049b7e",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
