@@ -101,8 +101,8 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/festern.png",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/i1234_nterior_designers_BLOCK.png",
         "layout": "left",
         "subheading": "Chetzeron",
         "title": "Meet the Interior Designers",
