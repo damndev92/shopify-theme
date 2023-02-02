@@ -125,15 +125,6 @@
     "63680a03-e85a-40a7-9084-4a83db4c7921": {
       "type": "image--gallery",
       "blocks": {
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_d2e7a657-4207-43c3-853a-0df3178e4e69.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle",
-            "title": "",
-            "description": ""
-          }
-        },
         "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
           "type": "image",
           "settings": {
@@ -143,10 +134,19 @@
             "description": ""
           }
         },
+        "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_d2e7a657-4207-43c3-853a-0df3178e4e69.png",
+            "link": "shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle",
+            "title": "",
+            "description": ""
+          }
+        },
         "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4.png",
+            "image": "shopify:\/\/shop_images\/Untitled_design_c2a6c466-9e5b-4b08-93c6-f66d0a1554e0.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
             "title": "",
             "description": ""
@@ -163,8 +163,8 @@
         }
       },
       "block_order": [
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092",
         "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9",
+        "4a6acbfc-e3bf-4241-befe-d155af3a0092",
         "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03",
         "f28e3701-03ba-4ff9-a8f9-912d3945ff62"
       ],
