@@ -125,11 +125,11 @@
     "63680a03-e85a-40a7-9084-4a83db4c7921": {
       "type": "image--gallery",
       "blocks": {
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
+        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_1_50d499aa-ee79-41f2-bede-a7623f918624.png",
-            "link": "shopify:\/\/products\/wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
+            "image": "shopify:\/\/shop_images\/Untitled_design_c2a6c466-9e5b-4b08-93c6-f66d0a1554e0.png",
+            "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
             "title": "",
             "description": ""
           }
@@ -143,11 +143,11 @@
             "description": ""
           }
         },
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
+        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_c2a6c466-9e5b-4b08-93c6-f66d0a1554e0.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
+            "image": "shopify:\/\/shop_images\/Untitled_design_1_50d499aa-ee79-41f2-bede-a7623f918624.png",
+            "link": "shopify:\/\/products\/wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
             "title": "",
             "description": ""
           }
@@ -163,9 +163,9 @@
         }
       },
       "block_order": [
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9",
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092",
         "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03",
+        "4a6acbfc-e3bf-4241-befe-d155af3a0092",
+        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9",
         "f28e3701-03ba-4ff9-a8f9-912d3945ff62"
       ],
       "settings": {
