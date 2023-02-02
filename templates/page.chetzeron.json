@@ -311,16 +311,7 @@
             "image": "shopify:\/\/shop_images\/4_fd62c092-41ea-469f-be64-030352f553af.png",
             "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-17\/",
             "title": "Upper Vallley",
-            "description": "<p>A call to contemplation thanks to a 180 view of the peaceful alpine summits.<\/p>"
-          }
-        },
-        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3_350cda9f-05bd-4598-8745-e2f53c202924.png",
-            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-21-ou-22-avec-platine\/",
-            "title": "Deluxe Corner",
-            "description": "<p>With a surface area of ​​38 m2, the 4 deluxe corner rooms have a king-size bed and two bay windows facing the southern Alps or the Tseuzier lake.<\/p>"
+            "description": "<p>The upper valley rooms have a king size and a bay window facing the rising sun. <\/p>"
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
@@ -331,12 +322,21 @@
             "title": "Junior Suite",
             "description": "<p>The junior suites have a king-size bed and a sofa bed. The bay window offers a unique view of the setting sun to the west.<\/p>"
           }
+        },
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_350cda9f-05bd-4598-8745-e2f53c202924.png",
+            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-21-ou-22-avec-platine\/",
+            "title": "Deluxe Corner",
+            "description": "<p>With a surface area of ​​38 m2, the 4 deluxe corner rooms have a king-size bed and two bay windows facing the southern Alps or the Tseuzier lake.<\/p>"
+          }
         }
       },
       "block_order": [
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0",
-        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1",
-        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2"
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2",
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1"
       ],
       "settings": {
         "colors": "white",
