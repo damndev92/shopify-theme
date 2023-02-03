@@ -104,6 +104,18 @@
         "button_label": ""
       }
     },
+    "5d1227fd-6355-42d9-a979-e9cc820df858": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "It's a visceral experience. Dive into it. Expose yourself to it. Experience it.",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "e4e77c0c-2e5e-4163-a3d7-2b2e95828e99": {
       "type": "text--image-with-text",
       "settings": {
@@ -142,6 +154,7 @@
     "main",
     "50dc0a40-1c0b-45a1-bcba-b8ebcdade52a",
     "55b48647-d315-4178-a919-fa84ef18c972",
+    "5d1227fd-6355-42d9-a979-e9cc820df858",
     "e4e77c0c-2e5e-4163-a3d7-2b2e95828e99",
     "blog-posts"
   ]
