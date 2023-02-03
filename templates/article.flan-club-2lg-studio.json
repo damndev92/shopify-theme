@@ -47,6 +47,37 @@
         "text-over-image-width": "full-width"
       }
     },
+    "a8817dea-d24b-4c0f-979a-484a4653bfaa": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17863567704379__a8817dea-d24b-4c0f-979a-484a4653bfaa-16754208008ce45e5d-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Millennialpinkbathroomwithsquaretiles-682x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Megan Taylor<\/p>"
+          }
+        },
+        "template--17863567704379__a8817dea-d24b-4c0f-979a-484a4653bfaa-16754208008ce45e5d-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17863567704379__a8817dea-d24b-4c0f-979a-484a4653bfaa-16754208008ce45e5d-1",
+        "template--17863567704379__a8817dea-d24b-4c0f-979a-484a4653bfaa-16754208008ce45e5d-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -94,6 +125,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "e8946dc8-57f3-4d54-8891-b4f505a92a70",
+    "a8817dea-d24b-4c0f-979a-484a4653bfaa",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "blog-posts"
