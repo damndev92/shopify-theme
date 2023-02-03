@@ -89,6 +89,21 @@
         "button_label": ""
       }
     },
+    "e394336d-2ab6-4e01-ad71-63875a0b472c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/Salon2-819x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p><strong>Can you tell us what the craziest demand from a customer you ever had in a hotel is?<\/strong><br\/>Gosh. [laughter] I’ve got quite a few.  Someone asked me to call British Airways to change the time of his flight. You get quite crazy requests every day more or less.<\/p><p><strong>If you could have any guests dead or alive, who would it be?<\/strong><br\/>Quite a few. For me, the first one is the Avvocato: Gianni Agnelli.<\/p><p><strong>What is your favorite bar and The Dukes doesn’t count?<\/strong><br\/>I like The Connaught and The Dorchester. The Dorchester’s bartender, Julian has been there for 35 years, is incredible. I really do look up to him.<\/p><p><strong>Ultimately, who is your favorite James Bond?<\/strong><br\/>It’s got to be Pierce Brosnan. He’s very Irish, very warm, a great human being.<\/p><p><strong>What about Sean Connery?<\/strong><br\/>Sean Connery is incredibly cool, but he had a temper. He made us, Italian look like muppets.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -111,6 +126,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "0c08578a-c0e6-4a09-8e08-0d0c3c28e342",
+    "e394336d-2ab6-4e01-ad71-63875a0b472c",
     "blog-posts"
   ]
 }
