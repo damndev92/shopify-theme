@@ -79,6 +79,16 @@
         "title": ""
       }
     },
+    "722d3291-f32e-46d5-b309-5aee8c9ff698": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/NP_2LG_D1-048_W-min.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -127,6 +137,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "e8946dc8-57f3-4d54-8891-b4f505a92a70",
     "a8817dea-d24b-4c0f-979a-484a4653bfaa",
+    "722d3291-f32e-46d5-b309-5aee8c9ff698",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "blog-posts"
