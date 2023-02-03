@@ -1,0 +1,105 @@
+<maison-curtain></maison-curtain>
+
+<maison-country-picker>
+  <div class="close-popup"><i class="fa fa-close"></i></div>
+  <div class="country-picker footer-localization-selectors">
+    <localization-form>
+      {% form 'localization', id: 'CountrySelector', class: 'localization-form' %}
+        <div class="js">
+          <div class="disclosure">
+            <h5>{{ 'Choose your shipping location' }}</h5>
+            <span>{{ 'Location' }}</span>
+            <button type="button" class="disclosure__button alt-focus" aria-expanded="false" aria-controls="CountryListPicker">
+              <img style="width: 26px" src="https://cdn.shopify.com/static/images/flags/{{ localization.country.iso_code | downcase }}.svg"
+                   width="26"
+                   height="26"
+              />
+              {{ localization.country.name }}
+
+              <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+              </svg>
+            </button>
+
+            <ul id="CountryListPicker" role="list" class="disclosure__list localization__list" hidden>
+              {% for country in localization.available_countries %}
+                <li class="disclosure__item" tabindex="-1" {% if country.iso_code == localization.country.iso_code %}selected{% endif %}>
+                  <a href="#"{% if country.iso_code == localization.country.iso_code %} aria-current="true"{% endif %} data-value="{{ country.iso_code }}">
+                    {{ country.name }} ({{ country.currency.iso_code }} {{ country.currency.symbol }})
+                  </a>
+
+                </li>
+              {% endfor %}
+            </ul>
+
+            <input type="hidden" name="country_code" value="{{ localization.country.iso_code }}">
+          </div>
+        </div>
+      {% endform %}
+    </localization-form>
+  </div>
+</maison-country-picker>
+
+<script>
+    const observer = new MutationObserver((mutations) => {
+        mutations.forEach((mutation) => {
+            if (mutation.addedNodes.length) {
+                const popup = document.querySelector('maison-country-picker')
+                const countrySelector = document.getElementById('maison-country-selector')
+
+                if (popup) {
+                    observer.disconnect()
+
+                    const closePopup = popup.querySelector('.close-popup')
+                    const curtain = document.querySelector('maison-curtain')
+                    const mainBody = document.querySelector('.slideout-panel')
+
+                    if (closePopup) {
+                        closePopup.addEventListener('click', (event) => {
+                            popup.classList.remove('visible')
+                            curtain.classList.remove('visible')
+                            document.body.classList.remove('country-popup-active');
+                        })
+
+                        curtain.addEventListener('click', (event) => {
+                            popup.classList.remove('visible')
+                            curtain.classList.remove('visible')
+                            document.body.classList.remove('country-popup-active');
+                        })
+                    }
+                }
+            }
+        });
+    });
+
+    observer.observe(document.body, {
+        childList: true,
+        subtree: true,
+    });
+
+    const observerSelector = new MutationObserver((mutations) => {
+        mutations.forEach((mutation) => {
+            if (mutation.addedNodes.length) {
+                const popup = document.querySelector('maison-country-picker')
+                const curtain = document.querySelector('maison-curtain')
+                const countrySelector = document.getElementById('maison-country-selector')
+                const mainBody = document.querySelector('.slideout-panel')
+
+                if (countrySelector) {
+                    observerSelector.disconnect()
+
+                    countrySelector.addEventListener('click', (event) => {
+                        curtain.classList.add('visible')
+                        popup.classList.add('visible')
+                        document.body.classList.add('country-popup-active');
+                    })
+                }
+            }
+        });
+    });
+
+    observerSelector.observe(document.body, {
+        childList: true,
+        subtree: true,
+    });
+</script>

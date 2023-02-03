@@ -111,6 +111,7 @@
 <body id="{{ page_title | handle }}"
 	class="page-title--{{ page_title | handle }} {% if customer %}customer-logged-in {% endif %}template-{{ template | replace: '.', ' ' | truncatewords: 1, '' | handle }} flexbox-wrapper{% unless settings.animations_enabled %} animations-disabled{% endunless %}">
 
+	{% render 'maison-country-popup' %}
 	{% if template != 'cart' and settings.cart-type == "drawer" %}
 		{% render 'cart-drawer' %}
 	{% endif %}

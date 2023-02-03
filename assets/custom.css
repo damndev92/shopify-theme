@@ -55,3 +55,115 @@ We highly recommend labelling changes, or App installs, so these can also be upd
 button#cancel {
     width: 100%;
 }
+
+/* Country selector */
+#maison-country-selector {
+    order: 1;
+    cursor: pointer;
+}
+#maison-country-selector img {
+    width: 26px;
+    box-shadow: 0px 0px 2px 0px rgb(66 68 90);
+}
+
+maison-curtain {
+    pointer-events: none;
+    opacity: 0;
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #000000;
+    z-index: 99999999;
+    transition: ease 0.3s opacity;
+    opacity: .4;
+    pointer-events: all;
+}
+
+maison-curtain:not(.visible),
+maison-country-picker:not(.visible) {
+    display: none;
+}
+
+maison-country-picker {
+    position: absolute;
+    top: 25%;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 15px 0px rgb(66 68 90);
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    max-width: 400px;
+    height: auto;
+    z-index: 999999999;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    transform: translateY(70%);
+    transition: all 1s ease;
+    pointer-events: all;
+}
+
+maison-country-picker.visible {
+    transform: translateY(0%);
+}
+
+maison-country-picker .footer-localization-selectors localization-form {
+    pointer-events: all;
+}
+
+maison-country-picker .footer-localization-selectors localization-form .localization__list a {
+    width: 100%;
+}
+
+maison-country-picker .country-picker.footer-localization-selectors,
+maison-country-picker .footer-localization-selectors localization-form {
+    margin: 0;
+}
+
+maison-country-picker .country-picker.footer-localization-selectors,
+maison-country-picker .footer-localization-selectors localization-form,
+maison-country-picker .footer-localization-selectors localization-form button {
+    width: 100%;
+}
+
+maison-country-picker .footer-localization-selectors localization-form h5 {
+    margin-top: 25px;
+}
+
+maison-country-picker .footer-localization-selectors localization-form span {
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 7px;
+}
+
+maison-country-picker .footer-localization-selectors localization-form button {
+    display: flex;
+    padding: 0;
+    color: #000000;
+    text-align: left;
+}
+
+maison-country-picker .footer-localization-selectors localization-form button img {
+    margin-right: 15px;
+}
+
+maison-country-picker .footer-localization-selectors .localization__list {
+    bottom: auto;
+}
+
+maison-country-picker .close-popup {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    z-index: 99999999;
+    cursor: pointer;
+}
+
+.country-popup-active {
+    z-index: -1;
+    overflow: hidden;
+    pointer-events: none;
+}

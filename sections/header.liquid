@@ -389,6 +389,12 @@
 
 {% capture main_icons_locale %}
     <div class="main-icons-with-locale">
+        <div id="maison-country-selector">
+          <img src="https://cdn.shopify.com/static/images/flags/{{ localization.country.iso_code | downcase }}.svg"
+               width="26"
+               height="26"
+          />
+        </div>
         {{ main_icons }}
         {{ locale_alternative }}
     </div>
