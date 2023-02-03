@@ -17,19 +17,7 @@
         "width": "medium",
         "subheading": "",
         "title": "Flân’  Club: Alessandro Palazzi, The Dukes, London, UK",
-        "text": "<p>For the past 35 years, hidden within the quiet streets of St. James in London, the bar of the Dukes Hotel, has been home to a Martini so unique it’s actually refered to as the best Martini in the world.<\/p>",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "light",
-        "width": "small",
-        "subheading": "",
-        "title": "Date Night",
-        "text": "",
+        "text": "<p>For the past 35 years, hidden within the quiet streets of St. James in London, the bar of the Dukes Hotel, has been home to a Martini so unique it’s actually refered to as the best Martini in the world. The Duke's bar, which was Ian Fleming’s favorite in London, was the first bar in the world to prepare the Martinis in the trolley and to do it with a frozen glass and frozen gin.  Alessandro Palazzi, head bartender since 2007, is some sort of a legend in the bartending world. The “maestro of the martini” talks to us about his career, the magic behind a hotel bar and his favourite James Bond.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -94,7 +82,6 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
