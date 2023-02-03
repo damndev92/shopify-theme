@@ -28,6 +28,16 @@
         "button_label": ""
       }
     },
+    "8fbd4d37-f5a9-4f6d-ac8a-aaa42a79403d": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_4ce2fd5d-7bc1-46ea-a174-06b94be98656.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
+      }
+    },
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
       "type": "image--gallery",
       "blocks": {
@@ -201,7 +211,7 @@
         "colors": "white",
         "subheading": "Le Pigalle",
         "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/room.png",
+        "image": "shopify:\/\/shop_images\/Shop_the_Look-Hotels.png",
         "image__position": "image--left",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
@@ -388,6 +398,7 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
+    "8fbd4d37-f5a9-4f6d-ac8a-aaa42a79403d",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
