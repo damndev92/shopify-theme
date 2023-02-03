@@ -77,6 +77,18 @@
         "show_recent_posts": false
       }
     },
+    "0c08578a-c0e6-4a09-8e08-0d0c3c28e342": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p><strong>For you, it's always essential to create that connection with the client?<\/strong><br\/>Of course. You have to nurture relationships in a hotel. I always say, especially in working in this type of place, that I’m traveling without going through security or waiting for the delayed flights. You also become good at reading people. When someone comes in tells me “I’m looking for my friend.” 80% I know who they are looking for. I don’t know why. It becomes natural.  You learn to read people, body language. I’ve also introduced couples that ended up getting married.<\/p><p><strong>You’ve introduced people that got married?<\/strong><br\/>Yes. A customer who used to live in New York who had been divorced for a few years. He would come to me so I would introduce him to new sorts of Gin. One evening, the bar was bustling, and I didn’t have time for chit chat. There were those two ladies who were both from New York. I just said, “Look, you’re from the same city.” They met, and they are now happily married.<\/p><p><strong>Wow.<\/strong><br\/>Hotel bars are wonderful places, full of life. We have couples on their first dates. Whose first kiss was here… They come and celebrate here on each anniversary.  A customer even wanted to buy our outside bench because it meant so much to him. I remember once, one of my customers from the Ritz wanted to propose, but he had forgotten to buy flowers. It was the middle of the night, so I just stole a bunch from this beautiful arrangement from the entrance of the hotel.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -98,6 +110,7 @@
     "b26234f0-166a-4e41-aac7-5916068b7841",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "0c08578a-c0e6-4a09-8e08-0d0c3c28e342",
     "blog-posts"
   ]
 }
