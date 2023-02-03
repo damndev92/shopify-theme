@@ -51,3 +51,7 @@ We highly recommend labelling changes, or App installs, so these can also be upd
 .shopify-product-form .maison-product-accordion .accordion-container .accordion-content {
     border-bottom: 1px solid rgba(63, 73, 76, 0.12);
 }
+
+button#cancel {
+    width: 100%;
+}

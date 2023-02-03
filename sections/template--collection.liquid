@@ -37,13 +37,22 @@
         <div id="AjaxinateContainer" class="clearfix{% if settings.product-grid != 'natural' %} has-aspect-ratio{% else %} natural-images{% endif %}">
             <ol class="grid__item product-grid {{ grid_item_width }} indiv-product-wrapper collection-image-anim {{ olclasses }}" data-grid-id="{{section.id}}"
             id="template--collection">
+
                 {% for product in collection.products %}
-                    <li>
-                        {%-
-                            render 'product-grid--indiv-product',
-                            liquidObject: product
-                        -%}
-                    </li>
+
+                        {% liquid
+
+                            assign current_country = localization.country.iso_code | downcase
+                            assign countries_to_exclude = product.metafields.custom.countries_to_exclude | split: ","
+
+                            unless countries_to_exclude contains current_country
+                                echo '<li>'
+                                render 'product-grid--indiv-product', liquidObject: product
+                                echo '</li>'
+                            endunless
+
+                        %}
+
                 {% else %}
                     {% comment %}
                     Add default products to help with onboarding for collections/all only.

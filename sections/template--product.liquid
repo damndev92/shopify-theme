@@ -437,24 +437,44 @@
                     {% assign disabled = true %}
                   {% endunless %}
 
-                  <button
-                    type="submit"
-                    name="add"
-                    id="purchase"
-                    class="btn {% if block.settings.show_smart_checkout and product.selling_plan_groups.size == 0 %} secondary-button{% endif %}"{% if disabled %}
-                    disabled{% endif %}
-                    data-cart-action="{{ settings.cart-action }}"
-                  >
-                    {% if pick_an_option or current_variant.available %}
-                      {{ 'products.product.add_to_cart' | t }}
-                    {% else %}
-                      {{ 'products.product.sold_out' | t }}
-                    {% endif %}
-                  </button>
+                  {% liquid
 
-                  {% if block.settings.show_smart_checkout %}
-                    {{ form | payment_button }}
+                    assign current_country = localization.country.iso_code | downcase
+                    assign countries_to_exclude = product.metafields.custom.countries_to_exclude | split: ","
+
+                  %}
+
+                  {% if countries_to_exclude contains current_country %}
+                    <button
+                      type="cancel"
+                      name="add"
+                      id="cancel"
+                      class="btn secondary-button"
+                      disabled
+                    >
+                      {{ 'Product is not available for your country' }}
+                    </button>
+                  {% else %}
+                    <button
+                      type="submit"
+                      name="add"
+                      id="purchase"
+                      class="btn {% if block.settings.show_smart_checkout and product.selling_plan_groups.size == 0 %} secondary-button{% endif %}"{% if disabled %}
+                    disabled{% endif %}
+                      data-cart-action="{{ settings.cart-action }}"
+                    >
+                      {% if pick_an_option or current_variant.available %}
+                        {{ 'products.product.add_to_cart' | t }}
+                      {% else %}
+                        {{ 'products.product.sold_out' | t }}
+                      {% endif %}
+                    </button>
+
+                    {% if block.settings.show_smart_checkout %}
+                      {{ form | payment_button }}
+                    {% endif %}
                   {% endif %}
+
                 </div>
 
                 {% if section.settings.form_position == "below-payment-buttons" and section.settings.show_out_of_stock_email %}
