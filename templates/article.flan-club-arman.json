@@ -173,6 +173,21 @@
         "button_label": ""
       }
     },
+    "6f8d7e8c-54b6-46e1-8832-d40c5decc0fa": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/7-1024x1024_602c21be-7cba-4c3a-b2c6-a731dae5d5e6.png",
+        "layout": "left",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p><strong>We’ve talked about good taste, how would you define bad taste?<\/strong><\/p><p>I’m in Ibiza right now, so don’t get me started (Naféei laughs). It’s hard to define, I think bad taste is a feeling. I think in today’s world you see so many watered down ‘‘copy and paste’ ideas from a Pinterest board or an Instagram influencer’s page. <\/p><p>Try to avoid that. Instead take the time to understand and study what the original thought or history was behind the design you liked and try to work within your budget to find the original. Cheap knock-off’s. Never feels or looks right.<\/p><p><strong>Best Hotels?<\/strong><\/p><p><em>Chateau Marmont, Le Sirenuse, IL Pellicano, Posta Vecchia<\/em>. And run down hotels from Napoli with shimmers of former glory days. There is nothing like the patina of faded luxury.<\/p><p><strong>Best Restaurants in LA?<\/strong><\/p><p><em>Musso & Franks<\/em> for the old school Hollywood experience: Get a steak and a Martini. <em>Taverna Tony’s<\/em> in Malibu, an old Greek place with an insane house dip. Addictive. And the Pizza Tonno at <em>Terroni<\/em>’s<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -201,6 +216,7 @@
     "c9d4632a-c692-410e-9e34-afe5038c48f5",
     "a66f8d63-4934-40a8-99e3-8d48eefd7eff",
     "7e328c77-9db4-4d95-94a1-5a5f82dd8f5f",
+    "6f8d7e8c-54b6-46e1-8832-d40c5decc0fa",
     "blog-posts"
   ]
 }
