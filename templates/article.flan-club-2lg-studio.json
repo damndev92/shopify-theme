@@ -22,31 +22,19 @@
         "button_label": ""
       }
     },
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "light",
-        "width": "small",
-        "subheading": "",
-        "title": "Date Night",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/1-1.png",
-        "layout": "left",
+        "image": "shopify:\/\/shop_images\/2LovelyGaysJordanandRussellfrom2LGStudio-682x1024.jpg",
+        "layout": "right",
         "subheading": "",
-        "title": "1. Kanishka",
-        "text_block": "<p>17-19 Maddox Street, W1S 2QH<\/p><p><br\/><strong>Head chef:<\/strong> Atul Kochhar<br\/><strong>Order the:<\/strong> Chicken tikka pie<\/p><p><\/p><p>Michelin Star chef Atul Kochhar’s contemporary Indian establishment not only offers tastebud-tantalising flavours, but this year sees a special five-course Valentine’s Day tasting menu designed especially for a night of romance. Expect traditional street food and mishti alongside aphrodisiacs like asparagus and figs. See the special V-day Menu <a href=\"https:\/\/kanishkarestaurant.co.uk\/wp-content\/uploads\/2023\/01\/Kanishka-Valentines-Menu-A5-2023.pdf\" target=\"_blank\">here<\/a>.<\/p>",
+        "title": "",
+        "text_block": "<p><a href=\"https:\/\/www.2lgstudio.com\/\" title=\"https:\/\/www.2lgstudio.com\/\">2LG<strong> <\/strong>Studio<\/a> <strong>in one word<\/strong><\/p><p><strong>How would you describe your apartment in one word.<\/strong><br\/>Joyful<\/p><p><strong>What makes a home in one word.<\/strong><br\/>A dachshund<\/p><p><strong>How would you describe your taste in one word?<\/strong><br\/>Creative<\/p><p><strong>Define bad taste in interiors?<\/strong><br\/>Confusion<\/p><p><strong>Where do you find your inspiration for interior design?<\/strong><br\/>Theatre, Film, Fashion, Art, Nature, Music.<\/p><p><strong>Describe your philosophy when it comes to decoration.<\/strong><br\/>Brave, playful, happy. We love to let architecture guide us and we use colour to bring life. Our interiors are spaces that facilitate a happy life.<\/p><p><strong>Your favourite object in your home.<\/strong><br\/>A small white broken porcelain horse.<\/p><p><strong>Your favourite hotel in the world.<\/strong><br\/>Soho Farmhouse, UK.<\/p><p><strong>Favourite address for decoration in London\/ in the world.<\/strong><br\/>We find the National Theatre an inspiring building and Sketch still holds the crown for the most beautiful dining room.<\/p>",
         "page_description": false,
-        "button_link": "shopify:\/\/products\/beefbar-main-plate-piece-of-meat-emoji",
-        "button_label": "Book Now"
+        "button_link": "",
+        "button_label": ""
       }
     },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
@@ -94,7 +82,6 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
