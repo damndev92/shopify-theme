@@ -54,14 +54,14 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/Salon-732x1024.jpg",
+        "layout": "left",
         "subheading": "",
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>What do you think is so special about working in a hotel?<\/strong><br\/>I like that it resembles a little village.<\/p><p><strong>How has hotel life changed since you started your career?<\/strong><br\/>Everything has changed. There are some good and some bad. The good thing is that it has become more accessible to everybody. Luxury is not reserved for the elite anymore.  I would say there is less privacy than before. In the old days, we had some fantastic clientele, and the rule applied: “What happened there, stayed there.” Nobody would call the journalists.  The economy has also changed. In the old days again we were full every time. People used to live in the hotel, some year round. When I was younger, I always thought that if I become rich – which I haven’t – Forget houses, I want to live in the hotel and have a chauffeur.”<\/p><p><strong>What do you think makes a good hotel bar?<\/strong><br\/>The drinks, the lighting, the atmosphere… and obviously, the interior. One of the successes of the Duke’s is its timelessness. The bar is still precisely the same as it was 40-50 years ago and we also respect our customer’s privacy.<\/p><p><strong>What do you think makes a good bartender then?<\/strong><br\/>Very simple. Three things: He needs to be diplomatic, acrobatic and charismatic.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "button_label": "Book Now"
+        "button_link": "",
+        "button_label": ""
       }
     },
     "main": {
