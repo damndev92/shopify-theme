@@ -72,6 +72,37 @@
         "title": "Alexandra’s selection:"
       }
     },
+    "ee74da65-57b7-4ebb-ba90-c238c4be1f60": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17864534393147__ee74da65-57b7-4ebb-ba90-c238c4be1f60-1675430025018ef9cb-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ALEXANDRA_VAN_HOUTTE-004-682x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17864534393147__ee74da65-57b7-4ebb-ba90-c238c4be1f60-1675430025018ef9cb-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17864534393147__ee74da65-57b7-4ebb-ba90-c238c4be1f60-1675430025018ef9cb-1",
+        "template--17864534393147__ee74da65-57b7-4ebb-ba90-c238c4be1f60-1675430025018ef9cb-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -92,6 +123,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "main",
     "610ac12b-53a6-43fc-abe7-f4d15f0e1ef0",
+    "ee74da65-57b7-4ebb-ba90-c238c4be1f60",
     "blog-posts"
   ]
 }
