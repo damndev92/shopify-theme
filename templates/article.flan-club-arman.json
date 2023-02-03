@@ -81,7 +81,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/8-1024x1024_9315646f-2de1-4baa-8367-f5ef7ef8a586.png",
         "layout": "left",
         "subheading": "",
