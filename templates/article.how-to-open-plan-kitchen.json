@@ -1,0 +1,167 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/rustic-vegan-1561507-unsplash-1024x674.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "How to get the most out of your open plan kitchen?",
+        "text": "<p>Open plan kitchens are a homeowner’s dream – they’re great spaces to cook, entertain and welcome guests in, whether combined with a dining room or living room. But when it comes to open plan room ideas, it can be hard to strike the right balance between looking good and being functional. To help you get the most out of your open plan kitchen, we’ve compiled our best design ideas below.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "c127f11a-1e80-483f-b89c-599a11dcb46c": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17851487387963__c127f11a-1e80-483f-b89c-599a11dcb46c-1675342370c1451a6a-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/OpenKitchen3.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p><strong>1. Zone your spaces<\/strong><\/p><p>Even in an intentionally open-plan space, subtly zoning your room into specific areas can make living easier. After all, you don’t want guests to feel like they’re only ever stood in your kitchen. An easy and affordable open plan room idea is to use home accessories to do the dividing for you, like rugs and strategically placed lights. Pendant lights above a breakfast bar or dining table will create a barely-there barrier between one space and the next, making each area feel cozier and more inviting. <a href=\"https:\/\/www.maisonflaneur.com\/product\/jam-jar-pendant-light-antique-silver\/\">Jamjar pendant lights<\/a>, or a <a href=\"https:\/\/www.maisonflaneur.com\/product\/navy-ric-rac\/\">triple navy ric rac pendant light<\/a>, will stand out without overpowering your look. While a <a href=\"https:\/\/www.maisonflaneur.com\/product\/multicolored-beni-ourain-rug-ayat\/\">large handwoven rug<\/a> under your dining table, or <a href=\"https:\/\/www.maisonflaneur.com\/product\/palmeras-table-runner\/\">long, handmade runner<\/a> in your kitchen, will have the same effect.<\/p><p><strong>2. Get your seating right<\/strong><\/p><p>Having seating options in each area of your open plan kitchen will make sure that there’s space to linger, ensuring that all the different elements of your room are inviting and useable. In your dining space, pick comfy, chic dining chairs, like these <a href=\"https:\/\/www.maisonflaneur.com\/product\/bentwood-bistro-chair-218-p\/\">bentwood dining chairs<\/a> or <a href=\"https:\/\/www.maisonflaneur.com\/product\/bentwood-chair-209m\/\">white wooden dining chairs<\/a> – sticking to subtler shades will be less distracting to the eye. And for your breakfast bar or kitchen island, pick higher seats, like on-trend <a href=\"https:\/\/www.maisonflaneur.com\/product\/pelleossa-stool\/\">wooden bar stools<\/a>.<\/p>"
+          }
+        },
+        "template--17851487387963__c127f11a-1e80-483f-b89c-599a11dcb46c-1675342370c1451a6a-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/OpenKitchen2.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p><strong>3. Keep it neat<\/strong><\/p><p>When mapping out your open plan room ideas, remember: you can never have enough storage. An open plan kitchen dining room will be a space to welcome guests and relax with family, and visible clutter and mess can ruin the ambience. Invest in stylish storage pieces – they’ll add form to your room, as well as function. A <a href=\"https:\/\/www.maisonflaneur.com\/product\/sandra-woven-palm-bowl\/\">porcelain serving platter <\/a>makes great open plan kitchen addition, while a well-positioned <a href=\"https:\/\/www.maisonflaneur.com\/product\/t-square-shelf-marble\/\">marble shelf<\/a> will give you extra space for storing trinkets that’s out of your immediate eye line. <\/p><p><strong>4. Make it personal<\/strong><\/p><p>Just because an open plan kitchen is a grand space, doesn’t mean you should keep it like a show home. A lived-in look is much more appealing, and will make your room one that you want to spend time in. Achieve a welcoming look, without creating clutter, by adding a few finishing touches that showcase your style and personality. Try unusual storage containers, or decorate plain walls and surfaces with objets d’art. A <a href=\"https:\/\/www.maisonflaneur.com\/product\/eku-elephant-plate\/\">decorative wall plate<\/a> or <a href=\"https:\/\/www.maisonflaneur.com\/product\/blown-away\/\">indian head ornament<\/a> are a tasteful touch.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17851487387963__c127f11a-1e80-483f-b89c-599a11dcb46c-1675342370c1451a6a-1",
+        "template--17851487387963__c127f11a-1e80-483f-b89c-599a11dcb46c-1675342370c1451a6a-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "55d56975-1ef9-459d-ae27-5ece34aaa6bd": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Navy-Ric-Rac-1-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Navy Ric Rac Lampshade<\/p><p>From £120<\/p>"
+          }
+        },
+        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iconic-chairs-article-pics-6-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Palmeras Table Runner<\/p><p>£63<\/p>"
+          }
+        },
+        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iconic-chairs-article-pics-2-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Pelleossa Stool – Oak<\/p><p>From £731<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-0",
+        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-1",
+        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "7e7a6d4e-dd49-49e0-8269-b59b345cfb8a": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17851487387963__7e7a6d4e-dd49-49e0-8269-b59b345cfb8a-1675342370c1451a6a-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/OPenKitchen5.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17851487387963__7e7a6d4e-dd49-49e0-8269-b59b345cfb8a-1675342370c1451a6a-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/OpenKitchen7.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17851487387963__7e7a6d4e-dd49-49e0-8269-b59b345cfb8a-1675342370c1451a6a-1",
+        "template--17851487387963__7e7a6d4e-dd49-49e0-8269-b59b345cfb8a-1675342370c1451a6a-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "c127f11a-1e80-483f-b89c-599a11dcb46c",
+    "55d56975-1ef9-459d-ae27-5ece34aaa6bd",
+    "7e7a6d4e-dd49-49e0-8269-b59b345cfb8a",
+    "main",
+    "blog-posts"
+  ]
+}

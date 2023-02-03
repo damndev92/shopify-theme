@@ -3,7 +3,7 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/pigalle_hp.png",
+        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_4ce2fd5d-7bc1-46ea-a174-06b94be98656.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -22,8 +22,8 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
-        "title": "Le Pigalle",
-        "text": "<p>Mythical and imposing, languid and frenetic, Pigalle is a neon light in the Parisian night. The neighbourhood has always attracted bad boys and artists, musicians and adventurers. With neither a monument nor a meeting point, it lacked a spot that really reflected its tawdry values, brazen spirit and musical energy. And so, Le Pigalle was born. An authentic neighbourhood hotel, whose history was shaped by the cultural mix that swirls on the southern slopes of Montmartre.<\/p>",
+        "title": "Story Hotel",
+        "text": "<p><br\/>The Story Hotel Stockholm is an urban haven where stunningly coiffed Stockholmers and trendy travellers converge normally over cocktails inside the bustling lobby bar which has been inspired by the interiors of Parisian salons and dark, moody jazz bars.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -104,11 +104,11 @@
         "image-width": "medium",
         "image": "shopify:\/\/shop_images\/festern.png",
         "layout": "left",
-        "subheading": "Le Pigalle",
+        "subheading": "Story Hotel",
         "title": "Meet the Interior Designers",
-        "text_block": "<p><\/p><p>For Le Pigalle, renowned Parisian Interior Design Firm Festen took the original building and added typical Parisian touches, such as panelled doors and white walls, moulding, woodwork and parquet flooring.<\/p>",
+        "text_block": "<p><br\/>Rooms were converted from former apartments, its reception once a barber shop and the Ling Long restaurant a garage. Raw concrete walls and lots of velvet and cool illustrations still cover the walls, adding a cosy and warm feel.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
+        "button_link": "",
         "button_label": "Learn More"
       }
     },
@@ -297,7 +297,7 @@
         "width": "medium",
         "subheading": "The rooms",
         "title": "Take A Peek Inside",
-        "text": "<p>Their rooms' neoclassical architectural style inspired artists and poets in the late nineteenth century. All 40 rooms are decorated in the Nouvelle Athènes mode, conveying a specific image of Pigalle: historic, modern, decadent, multicultural, and musical. Simple and comfortable, full of domestic touches. Each is a collection of objects, souvenirs, music, books and second-hand furniture, with a personality all of its own.<\/p>",
+        "text": "<p><br\/>At Story Hotel, rooms were converted from former apartments, and include everything from singles to The Bathroom with glass walls and to the spacious Attic Suite. Its Lily Dam Suite was named after the last tenant to vacate her apartment before the renovation and her former door was transformed into the bed’s headboard.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -309,7 +309,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/4_fd62c092-41ea-469f-be64-030352f553af.png",
-            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-17\/",
+            "link": "",
             "title": "Pigalle 17",
             "description": "<p>With its bar and close-up view of the neighbourhood, the Pigalle 17 has an an intimate feel, making the room perfect for couples.<\/p>"
           }
@@ -318,7 +318,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/3_350cda9f-05bd-4598-8745-e2f53c202924.png",
-            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-21-ou-22-avec-platine\/",
+            "link": "",
             "title": "Pigalle 21",
             "description": "<p>The Pigalle 21 features a turntable and rare selection of historic vinyl, and a 1920s golden era leather-upholstered bar.<\/p>"
           }
@@ -327,7 +327,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/1_79b26e16-05b4-4728-99b2-639c553d59de.png",
-            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-22\/",
+            "link": "",
             "title": "Pigalle 22",
             "description": "<p>A voluptuous cocoon lined with inspiring pieces of art, the Pigalle 22 is particularly spacious and homely with a large bed and a bath in the bedroom itself.<\/p>"
           }

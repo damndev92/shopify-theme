@@ -1,9 +1,9 @@
 {
   "sections": {
-    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
+    "f5bda6e8-dcdb-4f75-83f7-787ab9571b9e": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/pigalle_hp.png",
+        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_2.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -22,10 +22,20 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
-        "title": "Le Pigalle",
-        "text": "<p>Mythical and imposing, languid and frenetic, Pigalle is a neon light in the Parisian night. The neighbourhood has always attracted bad boys and artists, musicians and adventurers. With neither a monument nor a meeting point, it lacked a spot that really reflected its tawdry values, brazen spirit and musical energy. And so, Le Pigalle was born. An authentic neighbourhood hotel, whose history was shaped by the cultural mix that swirls on the southern slopes of Montmartre.<\/p>",
+        "title": "Twelve Senses",
+        "text": "<p><br\/>Located in sunny Encinitas, this B&B is near beautiful coastlines, sandy beaches, and a thriving downtown. You can experience the rich local community, known for its meditation gardens, yoga, artisans and healers. Immerse yourself in some of the many activities that can connect your senses to nature – such as paddle boarding or surfing, sound bowl healing, or even walking with goats in the nearby canyons. For foodies, Encinitas boasts plenty of celebrity chef restaurants, vegan cuisine, micro Kombucha and beer breweries as well as wineries.<\/p>",
         "button_link": "",
         "button_label": ""
+      }
+    },
+    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Twelve-Senses-Retreat-Exterior_1.webp",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
       }
     },
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
@@ -34,7 +44,7 @@
         "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.png",
+            "image": "shopify:\/\/shop_images\/19_c8650fd9-625f-4c73-bc76-d88a6b59f6ad.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
             "title": "",
             "description": ""
@@ -43,7 +53,7 @@
         "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2.png",
+            "image": "shopify:\/\/shop_images\/27_5117a923-0761-47dc-95e6-1e5edcabe69c.png",
             "link": "shopify:\/\/products\/parentesi-suspension-lamp",
             "title": "",
             "description": ""
@@ -102,13 +112,13 @@
       "settings": {
         "colors": "white",
         "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/festern.png",
+        "image": "shopify:\/\/shop_images\/Interior_Designers-Hotels.png",
         "layout": "left",
-        "subheading": "Le Pigalle",
+        "subheading": "Twelve Senses",
         "title": "Meet the Interior Designers",
-        "text_block": "<p><\/p><p>For Le Pigalle, renowned Parisian Interior Design Firm Festen took the original building and added typical Parisian touches, such as panelled doors and white walls, moulding, woodwork and parquet flooring.<\/p>",
+        "text_block": "<p><br\/>With interiors by Offset Design & Drafting by Anke Bodack, the luxury minimalism at Twelve Senses makes for warm and welcoming yet uncluttered spaces. The four guestrooms each has its own color scheme based on the four elements, with designers Philippe Starck, Ethnicraft, Lagos del Mundo, and many others showcased. A cozy library boasts two Cappellini felt chairs and a Knoll marble coffee table, while a small pop-up shop offers local crafts and artisanal products.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
+        "button_link": "",
         "button_label": "Learn More"
       }
     },
@@ -118,7 +128,7 @@
         "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5.png",
+            "image": "shopify:\/\/shop_images\/21_73767d88-3a8e-41b6-a910-d117e163d8f5.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle",
             "title": "",
             "description": ""
@@ -127,7 +137,7 @@
         "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3.png",
+            "image": "shopify:\/\/shop_images\/28_9b9f9b36-ba88-489c-aad1-27e54cb92ece.png",
             "link": "shopify:\/\/products\/wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
             "title": "",
             "description": ""
@@ -136,7 +146,7 @@
         "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4.png",
+            "image": "shopify:\/\/shop_images\/25_aa64eaa5-c9ff-4ea6-b198-0c00cf87c6a2.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
             "title": "",
             "description": ""
@@ -201,7 +211,7 @@
         "colors": "white",
         "subheading": "Le Pigalle",
         "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/room.png",
+        "image": "shopify:\/\/shop_images\/26_d7e30c9f-e94d-4b8b-b69a-a6044564d1b3.png",
         "image__position": "image--left",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
@@ -248,7 +258,7 @@
         "colors": "white",
         "subheading": "",
         "title": "",
-        "image": "shopify:\/\/shop_images\/room.png",
+        "image": "shopify:\/\/shop_images\/24_a83164f4-7e89-4945-86c3-b8329419d2e4.png",
         "image__position": "image--right",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
@@ -261,19 +271,19 @@
     "9299a3ef-12a1-48f6-abe6-a54f93478d0b": {
       "type": "image--gallery",
       "blocks": {
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0": {
+        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/7.png",
+            "image": "shopify:\/\/shop_images\/1_2b9f069e-91d0-4c2a-b81c-9ce89e602ef6.png",
             "link": "",
             "title": "",
             "description": ""
           }
         },
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1": {
+        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/8.png",
+            "image": "shopify:\/\/shop_images\/4_7e2562c9-7d12-43cb-b821-ee52dc27b65f.png",
             "link": "",
             "title": "",
             "description": ""
@@ -281,8 +291,8 @@
         }
       },
       "block_order": [
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0",
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1"
+        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1",
+        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0"
       ],
       "settings": {
         "colors": "white",
@@ -297,7 +307,7 @@
         "width": "medium",
         "subheading": "The rooms",
         "title": "Take A Peek Inside",
-        "text": "<p>Their rooms' neoclassical architectural style inspired artists and poets in the late nineteenth century. All 40 rooms are decorated in the Nouvelle Athènes mode, conveying a specific image of Pigalle: historic, modern, decadent, multicultural, and musical. Simple and comfortable, full of domestic touches. Each is a collection of objects, souvenirs, music, books and second-hand furniture, with a personality all of its own.<\/p>",
+        "text": "<p>Twelve Senses' four rooms are inspired by the natural elements Fire, Water, Earth, and Air, and are designed with a sustainable approach to nature and to our guests' well-being.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -308,28 +318,28 @@
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_fd62c092-41ea-469f-be64-030352f553af.png",
-            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-17\/",
-            "title": "Pigalle 17",
-            "description": "<p>With its bar and close-up view of the neighbourhood, the Pigalle 17 has an an intimate feel, making the room perfect for couples.<\/p>"
+            "image": "shopify:\/\/shop_images\/twelve-senses-retreat-air-r-r2-jpg.jpg",
+            "link": "",
+            "title": "AIR",
+            "description": ""
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_350cda9f-05bd-4598-8745-e2f53c202924.png",
-            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-21-ou-22-avec-platine\/",
-            "title": "Pigalle 21",
-            "description": "<p>The Pigalle 21 features a turntable and rare selection of historic vinyl, and a 1920s golden era leather-upholstered bar.<\/p>"
+            "image": "shopify:\/\/shop_images\/twelve-senses-retreat-fire-r-2-jpg.jpg",
+            "link": "",
+            "title": "FIRE",
+            "description": ""
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_79b26e16-05b4-4728-99b2-639c553d59de.png",
-            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-22\/",
-            "title": "Pigalle 22",
-            "description": "<p>A voluptuous cocoon lined with inspiring pieces of art, the Pigalle 22 is particularly spacious and homely with a large bed and a bath in the bedroom itself.<\/p>"
+            "image": "shopify:\/\/shop_images\/twelve-senses-retreat-water-r-r2-jpg.jpg",
+            "link": "",
+            "title": "WATER",
+            "description": ""
           }
         }
       },
@@ -385,9 +395,10 @@
     }
   },
   "order": [
-    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
+    "f5bda6e8-dcdb-4f75-83f7-787ab9571b9e",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
+    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",

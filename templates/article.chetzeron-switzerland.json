@@ -1,0 +1,157 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot-2022-05-02-at-17.53.58-1024x620.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "10 facts about Chetzeron, Switzerland",
+        "text": "<p>Though there are many wonderful hotels and chalets dotted through the Alps, Chetzeron is something special. Stark exteriors are juxtaposed against supremely cosy interiors to create a unique mountain escape.  We’ve gathered our 10 favourite facts from Chetzeron, Switzerland.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "454d5586-135c-49d9-a2f5-4ba55029eeb6": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17851366015291__454d5586-135c-49d9-a2f5-4ba55029eeb6-167534134263f3518b-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17851366015291__454d5586-135c-49d9-a2f5-4ba55029eeb6-167534134263f3518b-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17851366015291__454d5586-135c-49d9-a2f5-4ba55029eeb6-167534134263f3518b-1",
+        "template--17851366015291__454d5586-135c-49d9-a2f5-4ba55029eeb6-167534134263f3518b-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "5ec2d9ef-d15c-4704-b809-b3a430dd8447": {
+      "type": "image--gallery",
+      "blocks": {
+        "aa12cf1b-9035-49ac-be09-0e270b34f632": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5-1024x1024_86b72d90-9da9-45cd-b7f1-86fa8f379b80.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "432d6983-7bf9-418f-be3a-c7159c30390b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2-2-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "aa12cf1b-9035-49ac-be09-0e270b34f632",
+        "432d6983-7bf9-418f-be3a-c7159c30390b"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "8eb166ab-38e9-4cc3-8908-9ba878425666": {
+      "type": "image--gallery",
+      "blocks": {
+        "a98d3bb8-da14-4df7-a377-89c5d7ae923f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3-1024x1024_5697c7be-6d21-45c7-a1c4-8c516de371ac.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "10cd99f0-92ee-4364-bc26-efb2f3c4b4ed": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6-1024x1024_6b3af03b-ea87-4437-bf54-ddb96a900d25.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "a98d3bb8-da14-4df7-a377-89c5d7ae923f",
+        "10cd99f0-92ee-4364-bc26-efb2f3c4b4ed"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "main",
+    "454d5586-135c-49d9-a2f5-4ba55029eeb6",
+    "5ec2d9ef-d15c-4704-b809-b3a430dd8447",
+    "8eb166ab-38e9-4cc3-8908-9ba878425666",
+    "blog-posts"
+  ]
+}

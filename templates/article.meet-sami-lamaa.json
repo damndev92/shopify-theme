@@ -22,7 +22,7 @@
         "button_label": ""
       }
     },
-    "60bed94f-19d1-471f-9213-301734a4bab2": {
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
@@ -31,25 +31,40 @@
         "layout": "right",
         "subheading": "",
         "title": "",
-        "text_block": "",
+        "text_block": "<p><strong>So, tell us. what are three things people might not know about Chetzeron?<\/strong><\/p><ul><li>It is the only place in the world where you can see the Mont Blanc and the Matterhorn from your bed.<\/li><li>Above Chetzeron, there is a soaring wind that allows eagle and bearded vultures to swoop wonderfully through the air.<\/li><li>There is a natural land depression behind the hotel where cows shelter during storms.<\/li><\/ul><p><strong>You grew up in a hotel. Tell us a little bit more about what that was like.<\/strong><\/p><p>It means no holidays, no family time a lot of work and always swimming against the current. That made me stronger. It gave me the chance to grow up in an enormous melting pot of different people, cultures, habits, languages and religions, which made me completely open-minded. It allowed me to build an incredible network of people with no borders. The line between family, friends and guests disappears.<\/p>",
         "page_description": false,
         "button_link": "",
         "button_label": ""
       }
     },
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+    "f0752746-d6c4-4340-bcfe-7a52c53c9579": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
+        "image": "shopify:\/\/shop_images\/chetzeron-2-1024x703.jpg",
+        "layout": "left",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p><strong>What makes a good hotel?<\/strong><\/p><p>A good hotel is made from:<\/p><ul><li>Its soul.<\/li><li>Its location.<\/li><li>Its details.<\/li><\/ul><p>At Chetzeron we combine the warm and friendly atmosphere of a mountain hut in an industrial wasteland, with refined and timeless design.<\/p><p><strong>You’ve described the hotel as a “game-changing hospitality statement”. What makes it so different?<\/strong><\/p><p>Switzerland was very famous for its traditional hôtellerie, but I couldn’t see myself in this formative but prescriptive environment. I felt the need to create a place where nature, design, taste (food) and a sense of home meet. The soul, spirit and energy flow from hotel to guest and guest to hotel. This is not merely a concept or a vision but a tangible reality.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "09aa6f19-3a15-4fda-8eb6-1365247ce92e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/s-chetzeron-crans-montana-switzerland-1-1024x601.jpg",
         "layout": "right",
         "subheading": "",
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Is there an object in the hotel that has a special meaning for you?<\/strong><\/p><p>The <a href=\"https:\/\/www.maisonflaneur.com\/product\/tronpeta\/\">elephant head sculpture<\/a> in the foyer. And Room 31. I’ll keep my reasons secret.<\/p><p><strong>Food is key at Chetzeron. Why is that?<\/strong><\/p><p>The kitchen is the heart of our concept, the heart of our house. For us, it is all about the food. It’s the most intimate relationship we can have with our guests. We developed this ‘Alpine Cuisine’ over the years, incorporating new ingredients as we discovered them.<\/p><p><strong>And finally can you tell us a little about what is so special about the energy at Chetzeron?<\/strong><\/p><p>Before acquiring the building, I called in Taoist Chinese monks, experts in feng shui, to study the building, its spaces and energies. The entrance to the hotel, for example, is located exactly where the monks suggested so when you enter Chetzeron, you enter another universe, a feng shui universe.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "button_label": "Book Now"
+        "button_link": "",
+        "button_label": ""
       }
     },
     "main": {
@@ -82,8 +97,9 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "f0752746-d6c4-4340-bcfe-7a52c53c9579",
+    "09aa6f19-3a15-4fda-8eb6-1365247ce92e",
     "main",
     "blog-posts"
   ]

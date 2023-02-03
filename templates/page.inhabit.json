@@ -3,7 +3,7 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/pigalle_hp.png",
+        "image": "shopify:\/\/shop_images\/Inhabit.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -22,8 +22,8 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
-        "title": "Le Pigalle",
-        "text": "<p>Mythical and imposing, languid and frenetic, Pigalle is a neon light in the Parisian night. The neighbourhood has always attracted bad boys and artists, musicians and adventurers. With neither a monument nor a meeting point, it lacked a spot that really reflected its tawdry values, brazen spirit and musical energy. And so, Le Pigalle was born. An authentic neighbourhood hotel, whose history was shaped by the cultural mix that swirls on the southern slopes of Montmartre.<\/p>",
+        "title": "Inhabit",
+        "text": "<p><br\/>Nestled in a leafy corner of historic Paddington, you’ll find some respite from the city at Inhabit. Staying at Inhabit is a truly restorative experience, from which guests emerge nourished, rested, and inspired. Inhabit is much more than a hotel; it’s a community that will welcome you back, time and time again.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -34,7 +34,7 @@
         "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.png",
+            "image": "shopify:\/\/shop_images\/29.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
             "title": "",
             "description": ""
@@ -43,7 +43,7 @@
         "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2.png",
+            "image": "shopify:\/\/shop_images\/36.png",
             "link": "shopify:\/\/products\/parentesi-suspension-lamp",
             "title": "",
             "description": ""
@@ -102,11 +102,11 @@
       "settings": {
         "colors": "white",
         "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/festern.png",
+        "image": "shopify:\/\/shop_images\/14_ab1400db-1c12-4b8b-a96b-3bf9ee141fff.png",
         "layout": "left",
-        "subheading": "Le Pigalle",
+        "subheading": "Inhabit",
         "title": "Meet the Interior Designers",
-        "text_block": "<p><\/p><p>For Le Pigalle, renowned Parisian Interior Design Firm Festen took the original building and added typical Parisian touches, such as panelled doors and white walls, moulding, woodwork and parquet flooring.<\/p>",
+        "text_block": "<p><br\/>At Inhabit wellbeing and sustainable design was at the core of everything, with the aim for guests to leave feeling lighter, more free and inspired by taking the pace of life down, where time is luxury.<\/p><p>Created by architecture firm Holland and Harvey with interiors by Peter Marino cohort Caitlin Henderson Design, Inhabit was designed with busy travellers in mind. The tables and chairs were created using materials honestly and in their natural state, all sealed with natural sealant to best showcase this feature.<\/p><p>Curated by Caitlin Henderson, furnishings by Hans Wegner, Austrian Design Collective EEOS for Carl Hansen & Son, and GamFratesi for Gubi are placed<br\/>side-by-side with sustainable pieces made by Burmese craftspeople. To sit alongside these, the floor is fired earth.<\/p><p><\/p>",
         "page_description": false,
         "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
         "button_label": "Learn More"
@@ -118,7 +118,7 @@
         "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5.png",
+            "image": "shopify:\/\/shop_images\/38.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle",
             "title": "",
             "description": ""
@@ -127,7 +127,7 @@
         "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3.png",
+            "image": "shopify:\/\/shop_images\/30.png",
             "link": "shopify:\/\/products\/wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
             "title": "",
             "description": ""
@@ -136,7 +136,7 @@
         "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4.png",
+            "image": "shopify:\/\/shop_images\/35.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
             "title": "",
             "description": ""
@@ -201,7 +201,7 @@
         "colors": "white",
         "subheading": "Le Pigalle",
         "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/room.png",
+        "image": "shopify:\/\/shop_images\/31.png",
         "image__position": "image--left",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
@@ -248,7 +248,7 @@
         "colors": "white",
         "subheading": "",
         "title": "",
-        "image": "shopify:\/\/shop_images\/room.png",
+        "image": "shopify:\/\/shop_images\/37.png",
         "image__position": "image--right",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
@@ -264,7 +264,7 @@
         "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/7.png",
+            "image": "shopify:\/\/shop_images\/16_69ec952c-7cf0-43f7-a215-a4daa1c140a9.png",
             "link": "",
             "title": "",
             "description": ""
@@ -273,7 +273,7 @@
         "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/8.png",
+            "image": "shopify:\/\/shop_images\/15_0d2956a6-f34b-4cea-90a1-ebdf09b6c3e7.png",
             "link": "",
             "title": "",
             "description": ""
@@ -308,28 +308,28 @@
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_fd62c092-41ea-469f-be64-030352f553af.png",
+            "image": "shopify:\/\/shop_images\/inhabit-london-6.jpg",
             "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-17\/",
-            "title": "Pigalle 17",
-            "description": "<p>With its bar and close-up view of the neighbourhood, the Pigalle 17 has an an intimate feel, making the room perfect for couples.<\/p>"
+            "title": "Sleeper",
+            "description": "<p>A snug and calm cosy space with a single bed.<\/p>"
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_350cda9f-05bd-4598-8745-e2f53c202924.png",
+            "image": "shopify:\/\/shop_images\/inhabit-london-5.jpg",
             "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-21-ou-22-avec-platine\/",
-            "title": "Pigalle 21",
-            "description": "<p>The Pigalle 21 features a turntable and rare selection of historic vinyl, and a 1920s golden era leather-upholstered bar.<\/p>"
+            "title": "Cosy",
+            "description": "<p>With calming tones, natural materials and artful furniture, this is a comfy room for a couple or solo traveller.<\/p>"
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_79b26e16-05b4-4728-99b2-639c553d59de.png",
+            "image": "shopify:\/\/shop_images\/inhabit3.jpg",
             "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-22\/",
-            "title": "Pigalle 22",
-            "description": "<p>A voluptuous cocoon lined with inspiring pieces of art, the Pigalle 22 is particularly spacious and homely with a large bed and a bath in the bedroom itself.<\/p>"
+            "title": "Roomy ",
+            "description": "<p>A pied-a-terre with a double bed, designed to inspire feelings of calm and serenity.<\/p>"
           }
         }
       },

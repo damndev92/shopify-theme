@@ -1,0 +1,154 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/183681160_4492198437474918_2113657407775032214_n-1024x890.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "Rome by Clementina Calleri, from The Palmist",
+        "text": "<p>Discover the ultimate insider guide to Rome. Let Clementina Calleri from The Palmist take you on a tour of her favourite spots in the city.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/bbb-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "title": "1. Morning Coffee at:",
+        "text_block": "<p><a href=\"https:\/\/fornomonteforte.com\/\">Forno Monteforte<\/a><\/p><p>Via del Pellegrino 129, Rome, Italy<\/p><p><\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/bbb-3-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "title": "2. Lunch break at:",
+        "text_block": "<p><a href=\"https:\/\/www.pianostrada.it\/\">Pianostrada<\/a><\/p><p>Via delle Zoccolette 22, Rome, Italy<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "75b05e0b-52e9-4d49-8ad4-d4a1167b005a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/centa-lisbona-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "title": "3. Sunset drink at:",
+        "text_block": "<p><a href=\"http:\/\/gatsby.cafe\/\">Gatsby Café<\/a><\/p><p>Piazza Vittorio Emanuele II 106, Rome, Italy<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "b69ee865-e74d-4d09-a080-7562448ac189": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Dear-Breakfast-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "title": "4. Date night at:",
+        "text_block": "<p><a href=\"https:\/\/www.instagram.com\/cantinaripagrande\/\" title=\"https:\/\/www.instagram.com\/cantinaripagrande\/\">Cantina <\/a><a href=\"https:\/\/www.instagram.com\/cantinaripagrande\/\">Ripagrande<\/a><\/p><p>Via di S. Francesco a Ripa 73, Rome, Italy<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "f3a7fb8b-346b-47f7-9dbd-81dbc63435f1": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Prado-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "title": "5. With Friends at:",
+        "text_block": "<p><a href=\"https:\/\/m.facebook.com\/aimarmi\/\">Pizzeria ai Marmi<\/a><\/p><p>Viale Trastevere 53, Rome, Italy<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "a851ce70-1217-4e9b-92b0-48a916731f9e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Prado-2-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "title": "6. Secret spot:",
+        "text_block": "<p><a href=\"https:\/\/m.facebook.com\/AnticaLibreriaCascianelli\/\">Libreria Cascianelli<\/a><\/p><p>Largo Febo 15, Rome, Italy<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "75b05e0b-52e9-4d49-8ad4-d4a1167b005a",
+    "b69ee865-e74d-4d09-a080-7562448ac189",
+    "f3a7fb8b-346b-47f7-9dbd-81dbc63435f1",
+    "a851ce70-1217-4e9b-92b0-48a916731f9e",
+    "main",
+    "blog-posts"
+  ]
+}

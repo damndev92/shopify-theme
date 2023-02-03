@@ -3,7 +3,7 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/pigalle_hp.png",
+        "image": "shopify:\/\/shop_images\/chetzeron_header.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -22,8 +22,8 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
-        "title": "Le Pigalle",
-        "text": "<p>Mythical and imposing, languid and frenetic, Pigalle is a neon light in the Parisian night. The neighbourhood has always attracted bad boys and artists, musicians and adventurers. With neither a monument nor a meeting point, it lacked a spot that really reflected its tawdry values, brazen spirit and musical energy. And so, Le Pigalle was born. An authentic neighbourhood hotel, whose history was shaped by the cultural mix that swirls on the southern slopes of Montmartre.<\/p>",
+        "title": "Chetzeron",
+        "text": "<p><br\/>Perched at 2112m above sea level, discover a stylish hotel with a pure design where alpine simplicity mingles with an authentic and warm welcome. Above the ski resort of Crans-Montana and facing the highest peaks of the Alps, a stay at Chetzeron lets you admire breathtaking landscapes which change with the seasons.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -34,7 +34,7 @@
         "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.png",
+            "image": "shopify:\/\/shop_images\/47.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
             "title": "",
             "description": ""
@@ -43,7 +43,7 @@
         "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2.png",
+            "image": "shopify:\/\/shop_images\/43.png",
             "link": "shopify:\/\/products\/parentesi-suspension-lamp",
             "title": "",
             "description": ""
@@ -101,12 +101,12 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/festern.png",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/i1234_nterior_designers_BLOCK.png",
         "layout": "left",
-        "subheading": "Le Pigalle",
+        "subheading": "Chetzeron",
         "title": "Meet the Interior Designers",
-        "text_block": "<p><\/p><p>For Le Pigalle, renowned Parisian Interior Design Firm Festen took the original building and added typical Parisian touches, such as panelled doors and white walls, moulding, woodwork and parquet flooring.<\/p>",
+        "text_block": "<p><br\/>At Chetzeron, every space was inspired by the mountains. The architecture of the building and its interior design is entirely conceived in a sensitive and minimalist manner, creating a comfy, welcoming space that manages to work in sublime harmony with its beautiful surroundings.<\/p><p>Chetzeron’s puristic design was created by the architect Ambroise Bonvin, his team at Actes Collectifs, Sami Lamaa, and his partner; the hotel was a finalist in the 2015 European Design Awards in the category “Architecture adaptive reuse”.<\/p><p>The luscious interiors juxtapose weathered materials like stone against sumptuous bedding and furniture, resulting in Alpine interiors perfectly in tune with the surroundings.<\/p><p>Ultimately with Chetzeron Sami Lamaa built a deluxe haven; a place to unwind, to recharge and to find inner peace, with the team looking to make each guest’s stay as unique as possible.<\/p>",
         "page_description": false,
         "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
         "button_label": "Learn More"
@@ -118,7 +118,7 @@
         "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5.png",
+            "image": "shopify:\/\/shop_images\/41.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle",
             "title": "",
             "description": ""
@@ -127,7 +127,7 @@
         "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3.png",
+            "image": "shopify:\/\/shop_images\/46.png",
             "link": "shopify:\/\/products\/wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
             "title": "",
             "description": ""
@@ -136,7 +136,7 @@
         "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4.png",
+            "image": "shopify:\/\/shop_images\/44.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
             "title": "",
             "description": ""
@@ -201,7 +201,7 @@
         "colors": "white",
         "subheading": "Le Pigalle",
         "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/room.png",
+        "image": "shopify:\/\/shop_images\/chetzeron_animal.png",
         "image__position": "image--left",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
@@ -248,7 +248,7 @@
         "colors": "white",
         "subheading": "",
         "title": "",
-        "image": "shopify:\/\/shop_images\/room.png",
+        "image": "shopify:\/\/shop_images\/smaller_gif_chet.gif",
         "image__position": "image--right",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
@@ -264,7 +264,7 @@
         "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/7.png",
+            "image": "shopify:\/\/shop_images\/23_ccc36801-fbdf-4d2c-bb6a-56129408ee7c.png",
             "link": "",
             "title": "",
             "description": ""
@@ -273,7 +273,7 @@
         "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/8.png",
+            "image": "shopify:\/\/shop_images\/17_bff753fa-a3f4-493f-9ba3-29c133ab44b5.png",
             "link": "",
             "title": "",
             "description": ""
@@ -297,7 +297,7 @@
         "width": "medium",
         "subheading": "The rooms",
         "title": "Take A Peek Inside",
-        "text": "<p>Their rooms' neoclassical architectural style inspired artists and poets in the late nineteenth century. All 40 rooms are decorated in the Nouvelle Athènes mode, conveying a specific image of Pigalle: historic, modern, decadent, multicultural, and musical. Simple and comfortable, full of domestic touches. Each is a collection of objects, souvenirs, music, books and second-hand furniture, with a personality all of its own.<\/p>",
+        "text": "<p><br\/>Sublime Alpine views from the comfort of your bed. Reflecting the feng shui endeavours of the monks who were called to reflect on the creation of Chetzeron, all rooms have sublime views of the neighbouring alpine summits.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -308,35 +308,35 @@
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_fd62c092-41ea-469f-be64-030352f553af.png",
+            "image": "shopify:\/\/shop_images\/30_34d1ca3e-eaa5-4c33-beb4-b3466530855e.png",
             "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-17\/",
-            "title": "Pigalle 17",
-            "description": "<p>With its bar and close-up view of the neighbourhood, the Pigalle 17 has an an intimate feel, making the room perfect for couples.<\/p>"
-          }
-        },
-        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3_350cda9f-05bd-4598-8745-e2f53c202924.png",
-            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-21-ou-22-avec-platine\/",
-            "title": "Pigalle 21",
-            "description": "<p>The Pigalle 21 features a turntable and rare selection of historic vinyl, and a 1920s golden era leather-upholstered bar.<\/p>"
+            "title": "Upper Vallley",
+            "description": "<p>The upper valley rooms have a king size and a bay window facing the rising sun. <\/p>"
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_79b26e16-05b4-4728-99b2-639c553d59de.png",
+            "image": "shopify:\/\/shop_images\/31_9c824fa1-3513-4acb-be7c-06d5d0981f78.png",
             "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-22\/",
-            "title": "Pigalle 22",
-            "description": "<p>A voluptuous cocoon lined with inspiring pieces of art, the Pigalle 22 is particularly spacious and homely with a large bed and a bath in the bedroom itself.<\/p>"
+            "title": "Junior Suite",
+            "description": "<p>The junior suites have a king-size bed and a sofa bed. The bay window offers a unique view of the setting sun to the west.<\/p>"
+          }
+        },
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/chetz123.png",
+            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-21-ou-22-avec-platine\/",
+            "title": "Deluxe Corner",
+            "description": "<p>The deluxe corner rooms have a king-size bed and two bay windows facing the southern Alps or the Tseuzier lake.<\/p>"
           }
         }
       },
       "block_order": [
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0",
-        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1",
-        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2"
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2",
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1"
       ],
       "settings": {
         "colors": "white",

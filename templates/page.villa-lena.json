@@ -3,7 +3,7 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/pigalle_hp.png",
+        "image": "shopify:\/\/shop_images\/Untitled_design.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -22,10 +22,20 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
-        "title": "Le Pigalle",
-        "text": "<p>Mythical and imposing, languid and frenetic, Pigalle is a neon light in the Parisian night. The neighbourhood has always attracted bad boys and artists, musicians and adventurers. With neither a monument nor a meeting point, it lacked a spot that really reflected its tawdry values, brazen spirit and musical energy. And so, Le Pigalle was born. An authentic neighbourhood hotel, whose history was shaped by the cultural mix that swirls on the southern slopes of Montmartre.<\/p>",
+        "title": "Villa Lena",
+        "text": "<p><br\/>Villa Lena cultivates both nature and culture, exemplifying a new way of living and holiday experience. The Villa Lena estate is located in the Province of Pisa, secluded amongst 500 hectares of woodland, vineyards, olive groves and organic vegetable gardens. A 19th-century villa sits at the heart of the property, originally built for an Italian aristocratic family. It now houses the Villa Lena Foundation and artist-in-residence programme. Surrounding the villa, converted historic agricultural buildings—former farmhouses, stables and hunting lodges—house self-contained guest apartments and shared facilities.<\/p>",
         "button_link": "",
         "button_label": ""
+      }
+    },
+    "88f7ec75-97f2-443d-8281-abec602b3777": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_3_a010982d-f7ab-4925-9c05-f2d6532b2fc9.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
       }
     },
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
@@ -34,7 +44,7 @@
         "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.png",
+            "image": "shopify:\/\/shop_images\/Untitled_design_1.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
             "title": "",
             "description": ""
@@ -43,7 +53,7 @@
         "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2.png",
+            "image": "shopify:\/\/shop_images\/Untitled_design_2.png",
             "link": "shopify:\/\/products\/parentesi-suspension-lamp",
             "title": "",
             "description": ""
@@ -102,13 +112,13 @@
       "settings": {
         "colors": "white",
         "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/festern.png",
+        "image": "shopify:\/\/shop_images\/Untitled_design_11.png",
         "layout": "left",
-        "subheading": "Le Pigalle",
+        "subheading": "Villa Lena",
         "title": "Meet the Interior Designers",
-        "text_block": "<p><\/p><p>For Le Pigalle, renowned Parisian Interior Design Firm Festen took the original building and added typical Parisian touches, such as panelled doors and white walls, moulding, woodwork and parquet flooring.<\/p>",
+        "text_block": "<p><br\/>During the 19th and early 20th-century Villa Lena was the home of an aristocratic Italian family, but in 2013 it re-opened as a hotel with For Villa Lena, architecture firm Hesselbrand designing and creating a series of rustic guest suites.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
+        "button_link": "https:\/\/www.hesselbrand.com\/",
         "button_label": "Learn More"
       }
     },
@@ -118,7 +128,7 @@
         "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5.png",
+            "image": "shopify:\/\/shop_images\/Untitled_design_5.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle",
             "title": "",
             "description": ""
@@ -127,7 +137,7 @@
         "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3.png",
+            "image": "shopify:\/\/shop_images\/Untitled_design_7.png",
             "link": "shopify:\/\/products\/wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
             "title": "",
             "description": ""
@@ -136,7 +146,7 @@
         "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4.png",
+            "image": "shopify:\/\/shop_images\/Untitled_design_6.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
             "title": "",
             "description": ""
@@ -201,7 +211,7 @@
         "colors": "white",
         "subheading": "Le Pigalle",
         "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/room.png",
+        "image": "shopify:\/\/shop_images\/Untitled_design_12.png",
         "image__position": "image--left",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
@@ -248,7 +258,7 @@
         "colors": "white",
         "subheading": "",
         "title": "",
-        "image": "shopify:\/\/shop_images\/room.png",
+        "image": "shopify:\/\/shop_images\/Untitled_design_13.png",
         "image__position": "image--right",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
@@ -258,36 +268,14 @@
         "button__text": ""
       }
     },
-    "9299a3ef-12a1-48f6-abe6-a54f93478d0b": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/7.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0",
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1"
-      ],
+    "686d64c5-d9ec-40b2-9aeb-63fa1861cf78": {
+      "type": "image--image",
       "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
+        "image": "shopify:\/\/shop_images\/Untitled_design_4.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
@@ -297,7 +285,7 @@
         "width": "medium",
         "subheading": "The rooms",
         "title": "Take A Peek Inside",
-        "text": "<p>Their rooms' neoclassical architectural style inspired artists and poets in the late nineteenth century. All 40 rooms are decorated in the Nouvelle Athènes mode, conveying a specific image of Pigalle: historic, modern, decadent, multicultural, and musical. Simple and comfortable, full of domestic touches. Each is a collection of objects, souvenirs, music, books and second-hand furniture, with a personality all of its own.<\/p>",
+        "text": "<p>Double rooms in the San Michele building are Seventies in style – think pastel pinks and blues, raffia chairs and desks, pendant lamps and terrazzo-tiled bathrooms. If you book into the Fattoria building expect austere apartments (some sleep up to four), with stylish features such as mismatched chairs, brick flooring, working fireplaces, kitchenettes and featured art.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -308,28 +296,28 @@
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_fd62c092-41ea-469f-be64-030352f553af.png",
-            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-17\/",
-            "title": "Pigalle 17",
-            "description": "<p>With its bar and close-up view of the neighbourhood, the Pigalle 17 has an an intimate feel, making the room perfect for couples.<\/p>"
+            "image": "shopify:\/\/shop_images\/Untitled_design_8.png",
+            "link": "",
+            "title": "Room 1",
+            "description": "<p>Room 1<\/p>"
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_350cda9f-05bd-4598-8745-e2f53c202924.png",
-            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-21-ou-22-avec-platine\/",
-            "title": "Pigalle 21",
-            "description": "<p>The Pigalle 21 features a turntable and rare selection of historic vinyl, and a 1920s golden era leather-upholstered bar.<\/p>"
+            "image": "shopify:\/\/shop_images\/Fattoria_Hesselbrand_Wavy_unnamed_1_1_2.jpg",
+            "link": "",
+            "title": "Room 2",
+            "description": "<p>Room 2<\/p>"
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_79b26e16-05b4-4728-99b2-639c553d59de.png",
-            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-22\/",
-            "title": "Pigalle 22",
-            "description": "<p>A voluptuous cocoon lined with inspiring pieces of art, the Pigalle 22 is particularly spacious and homely with a large bed and a bath in the bedroom itself.<\/p>"
+            "image": "shopify:\/\/shop_images\/Untitled_design_10.png",
+            "link": "",
+            "title": "Room 3",
+            "description": "<p>Room 3<\/p>"
           }
         }
       },
@@ -388,13 +376,14 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
+    "88f7ec75-97f2-443d-8281-abec602b3777",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
-    "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
+    "686d64c5-d9ec-40b2-9aeb-63fa1861cf78",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",

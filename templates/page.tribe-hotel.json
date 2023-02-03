@@ -3,7 +3,7 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/pigalle_hp.png",
+        "image": "shopify:\/\/shop_images\/tribe_header.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -22,8 +22,8 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
-        "title": "Le Pigalle",
-        "text": "<p>Mythical and imposing, languid and frenetic, Pigalle is a neon light in the Parisian night. The neighbourhood has always attracted bad boys and artists, musicians and adventurers. With neither a monument nor a meeting point, it lacked a spot that really reflected its tawdry values, brazen spirit and musical energy. And so, Le Pigalle was born. An authentic neighbourhood hotel, whose history was shaped by the cultural mix that swirls on the southern slopes of Montmartre.<\/p>",
+        "title": "Tribe Hotel",
+        "text": "<p><br\/>Tribe Hotel, Nairobi’s coolest luxury boutique hotel, encapsulates the city’s African spirit and celebrates its creativity. Warm, earthy shades and traditional craft blends with contemporary design, creating a sense of understated luxury. We are incredibly proud to showcase Tribe hotel’s unique decor.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -34,7 +34,7 @@
         "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.png",
+            "image": "shopify:\/\/shop_images\/53.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
             "title": "",
             "description": ""
@@ -43,7 +43,7 @@
         "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2.png",
+            "image": "shopify:\/\/shop_images\/58.png",
             "link": "shopify:\/\/products\/parentesi-suspension-lamp",
             "title": "",
             "description": ""
@@ -118,7 +118,7 @@
         "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5.png",
+            "image": "shopify:\/\/shop_images\/54.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle",
             "title": "",
             "description": ""
@@ -127,7 +127,7 @@
         "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3.png",
+            "image": "shopify:\/\/shop_images\/55.png",
             "link": "shopify:\/\/products\/wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
             "title": "",
             "description": ""
@@ -136,7 +136,7 @@
         "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4.png",
+            "image": "shopify:\/\/shop_images\/59.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
             "title": "",
             "description": ""
@@ -201,7 +201,7 @@
         "colors": "white",
         "subheading": "Le Pigalle",
         "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/room.png",
+        "image": "shopify:\/\/shop_images\/52.png",
         "image__position": "image--left",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
@@ -211,60 +211,13 @@
         "button__text": "Shop the look"
       }
     },
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
-      "type": "product--shop-the-look",
-      "blocks": {
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e": {
-          "type": "product",
-          "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51
-          }
-        },
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0
-          }
-        },
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0
-          }
-        }
-      },
-      "block_order": [
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e",
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8",
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "",
-        "image": "shopify:\/\/shop_images\/room.png",
-        "image__position": "image--right",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": ""
-      }
-    },
     "9299a3ef-12a1-48f6-abe6-a54f93478d0b": {
       "type": "image--gallery",
       "blocks": {
         "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/7.png",
+            "image": "shopify:\/\/shop_images\/33_8c7aca8a-1f94-44a5-b557-0ba28fdc7fd0.png",
             "link": "",
             "title": "",
             "description": ""
@@ -273,7 +226,7 @@
         "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/8.png",
+            "image": "shopify:\/\/shop_images\/34_22d46ca1-f5d1-4b9e-9ac7-64f138ed0298.png",
             "link": "",
             "title": "",
             "description": ""
@@ -393,7 +346,6 @@
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0",
     "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",

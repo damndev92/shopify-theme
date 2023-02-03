@@ -1,0 +1,140 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/e265ffa6b2f44ff88d49880095546161.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "Flân’  Club: 2LG Studio, London, UK",
+        "text": "<p>We are proud to introduce you to the creative duo behind the London Interior design studio 2LG. Expect simplicity, elegance, functionality, and a very playful signature use of colour from Jordan Cluroe and Russell Whitehead’s work. <\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/2LovelyGaysJordanandRussellfrom2LGStudio-682x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p><a href=\"https:\/\/www.2lgstudio.com\/\" title=\"https:\/\/www.2lgstudio.com\/\">2LG<strong> <\/strong>Studio<\/a> <strong>in one word<\/strong><\/p><p><strong>How would you describe your apartment in one word.<\/strong><br\/>Joyful<\/p><p><strong>What makes a home in one word.<\/strong><br\/>A dachshund<\/p><p><strong>How would you describe your taste in one word?<\/strong><br\/>Creative<\/p><p><strong>Define bad taste in interiors?<\/strong><br\/>Confusion<\/p><p><strong>Where do you find your inspiration for interior design?<\/strong><br\/>Theatre, Film, Fashion, Art, Nature, Music.<\/p><p><strong>Describe your philosophy when it comes to decoration.<\/strong><br\/>Brave, playful, happy. We love to let architecture guide us and we use colour to bring life. Our interiors are spaces that facilitate a happy life.<\/p><p><strong>Your favourite object in your home.<\/strong><br\/>A small white broken porcelain horse.<\/p><p><strong>Your favourite hotel in the world.<\/strong><br\/>Soho Farmhouse, UK.<\/p><p><strong>Favourite address for decoration in London\/ in the world.<\/strong><br\/>We find the National Theatre an inspiring building and Sketch still holds the crown for the most beautiful dining room.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "e8946dc8-57f3-4d54-8891-b4f505a92a70": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1-2500x1667-1024x683.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "a8817dea-d24b-4c0f-979a-484a4653bfaa": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17863567704379__a8817dea-d24b-4c0f-979a-484a4653bfaa-16754208008ce45e5d-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Millennialpinkbathroomwithsquaretiles-682x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Megan Taylor<\/p>"
+          }
+        },
+        "template--17863567704379__a8817dea-d24b-4c0f-979a-484a4653bfaa-16754208008ce45e5d-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pinkbathroomdesignedby2LGStudio-682x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Megan Taylor<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17863567704379__a8817dea-d24b-4c0f-979a-484a4653bfaa-16754208008ce45e5d-1",
+        "template--17863567704379__a8817dea-d24b-4c0f-979a-484a4653bfaa-16754208008ce45e5d-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "722d3291-f32e-46d5-b309-5aee8c9ff698": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/NP_2LG_D1-048_W-min.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "33cbff28-85cd-4dd0-ae9f-1264e3cd2342": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2LG-Kitchen-045-1024x768.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "e8946dc8-57f3-4d54-8891-b4f505a92a70",
+    "a8817dea-d24b-4c0f-979a-484a4653bfaa",
+    "722d3291-f32e-46d5-b309-5aee8c9ff698",
+    "main",
+    "33cbff28-85cd-4dd0-ae9f-1264e3cd2342",
+    "blog-posts"
+  ]
+}

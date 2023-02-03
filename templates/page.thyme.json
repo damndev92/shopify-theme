@@ -3,7 +3,7 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/pigalle_hp.png",
+        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -22,10 +22,20 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
-        "title": "Le Pigalle",
-        "text": "<p>Mythical and imposing, languid and frenetic, Pigalle is a neon light in the Parisian night. The neighbourhood has always attracted bad boys and artists, musicians and adventurers. With neither a monument nor a meeting point, it lacked a spot that really reflected its tawdry values, brazen spirit and musical energy. And so, Le Pigalle was born. An authentic neighbourhood hotel, whose history was shaped by the cultural mix that swirls on the southern slopes of Montmartre.<\/p>",
+        "title": "Thyme",
+        "text": "<p>You’ll find The Ox Barn within a converted, former 19-Century oxen house – an architecturally impressive space with soaring ceilings. Which makes sense, because Thyme – the converted manor and farm in which it’s set – is driven by a passion for local heritage, beauty and conservation. Accordingly, The Ox Barn pays homage to its past – think a striking stone rubble facade and original beams overhead, made more modern with Scandi-inspired furniture in nature’s best tones. Making it even more contemporary still are a contemporary bar and seven-and-a-half metre Charvet open kitchen, where Head Chef Charlie Hibbert puts this historic building to work.<\/p>",
         "button_link": "",
         "button_label": ""
+      }
+    },
+    "fddaf64f-ef02-4124-a6da-30225eb3da6f": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_c55be5cd-ab52-420d-92f3-960d588c3741.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
       }
     },
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
@@ -34,7 +44,7 @@
         "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.png",
+            "image": "shopify:\/\/shop_images\/Untitled_design_3_997118a6-27fe-4d9f-9864-9bb73b6cd5bc.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
             "title": "",
             "description": ""
@@ -43,7 +53,7 @@
         "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2.png",
+            "image": "shopify:\/\/shop_images\/Untitled_design_5_fc804d91-f4d1-426a-a53d-b7a6c4faf830.png",
             "link": "shopify:\/\/products\/parentesi-suspension-lamp",
             "title": "",
             "description": ""
@@ -102,23 +112,32 @@
       "settings": {
         "colors": "white",
         "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/festern.png",
+        "image": "shopify:\/\/shop_images\/Untitled_design_1_75b71c0d-7f07-45b1-b07a-a0d68580e156.png",
         "layout": "left",
-        "subheading": "Le Pigalle",
+        "subheading": "Thyme Hotel",
         "title": "Meet the Interior Designers",
-        "text_block": "<p><\/p><p>For Le Pigalle, renowned Parisian Interior Design Firm Festen took the original building and added typical Parisian touches, such as panelled doors and white walls, moulding, woodwork and parquet flooring.<\/p>",
+        "text_block": "<p><br\/>For Fawn, the Interior Designers behind Thyme, the colour palette is expected - soft and muted (creams and plaster-pink) - but then invigorated with unexpected pops of sunny, happy yellow, greens and blues. The bedrooms (and integrated bathrooms) are sumptuous with luxury touches of marble and stone. Beautiful exposed original beams add character, warmth and structure. In the drawing rooms, the use of greens enhances the organic feel with luxury touches of coppers and brasses. The use of light oak keeps spaces feeling fresh and modern, with quirky touches like arty sheep to keep visitors company.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
+        "button_link": "",
         "button_label": "Learn More"
       }
     },
     "63680a03-e85a-40a7-9084-4a83db4c7921": {
       "type": "image--gallery",
       "blocks": {
+        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_c2a6c466-9e5b-4b08-93c6-f66d0a1554e0.png",
+            "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
+            "title": "",
+            "description": ""
+          }
+        },
         "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5.png",
+            "image": "shopify:\/\/shop_images\/Untitled_design_d2e7a657-4207-43c3-853a-0df3178e4e69.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle",
             "title": "",
             "description": ""
@@ -127,17 +146,8 @@
         "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3.png",
+            "image": "shopify:\/\/shop_images\/Untitled_design_1_50d499aa-ee79-41f2-bede-a7623f918624.png",
             "link": "shopify:\/\/products\/wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
-            "title": "",
-            "description": ""
-          }
-        },
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
             "title": "",
             "description": ""
           }
@@ -153,9 +163,9 @@
         }
       },
       "block_order": [
+        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03",
         "4a6acbfc-e3bf-4241-befe-d155af3a0092",
         "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9",
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03",
         "f28e3701-03ba-4ff9-a8f9-912d3945ff62"
       ],
       "settings": {
@@ -201,7 +211,7 @@
         "colors": "white",
         "subheading": "Le Pigalle",
         "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/room.png",
+        "image": "shopify:\/\/shop_images\/Untitled_design_00066cfb-72a6-48a6-8a65-689187267a2b.png",
         "image__position": "image--left",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
@@ -248,7 +258,7 @@
         "colors": "white",
         "subheading": "",
         "title": "",
-        "image": "shopify:\/\/shop_images\/room.png",
+        "image": "shopify:\/\/shop_images\/Untitled_design_6_62517e9e-c683-4a95-bc40-8e3bbf7da4e8.png",
         "image__position": "image--right",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
@@ -258,36 +268,14 @@
         "button__text": ""
       }
     },
-    "9299a3ef-12a1-48f6-abe6-a54f93478d0b": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/7.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0",
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1"
-      ],
+    "ad7b450e-b8bb-460b-bbdd-37d6ff049b7e": {
+      "type": "image--image",
       "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
+        "image": "shopify:\/\/shop_images\/Untitled_design_2_c1feaee6-deec-4004-b545-8ccbac7fb4a9.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
@@ -305,38 +293,38 @@
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e": {
       "type": "image--gallery",
       "blocks": {
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_1274c725-9e98-4495-a738-0090612f7780.png",
+            "link": "",
+            "title": "Large Double ROOM",
+            "description": "<p>A large front facing double room with seperate bathroom and window seats.<\/p>"
+          }
+        },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_fd62c092-41ea-469f-be64-030352f553af.png",
-            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-17\/",
-            "title": "Pigalle 17",
-            "description": "<p>With its bar and close-up view of the neighbourhood, the Pigalle 17 has an an intimate feel, making the room perfect for couples.<\/p>"
+            "image": "shopify:\/\/shop_images\/2_666773dd-af29-49b2-8f08-f131deaa2c97.png",
+            "link": "",
+            "title": "Double Room",
+            "description": "<p>Double Room with free standing claw bath.<\/p>"
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_350cda9f-05bd-4598-8745-e2f53c202924.png",
-            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-21-ou-22-avec-platine\/",
-            "title": "Pigalle 21",
-            "description": "<p>The Pigalle 21 features a turntable and rare selection of historic vinyl, and a 1920s golden era leather-upholstered bar.<\/p>"
-          }
-        },
-        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_79b26e16-05b4-4728-99b2-639c553d59de.png",
-            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-22\/",
-            "title": "Pigalle 22",
-            "description": "<p>A voluptuous cocoon lined with inspiring pieces of art, the Pigalle 22 is particularly spacious and homely with a large bed and a bath in the bedroom itself.<\/p>"
+            "image": "shopify:\/\/shop_images\/3_6879b90a-36fb-4858-bb5f-826c1eac24fb.png",
+            "link": "",
+            "title": "Thyme Double Room under the Eaves.",
+            "description": "<p>Double Room under the Eaves<\/p>"
           }
         }
       },
       "block_order": [
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2",
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0",
-        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1",
-        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2"
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1"
       ],
       "settings": {
         "colors": "white",
@@ -388,13 +376,14 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
+    "fddaf64f-ef02-4124-a6da-30225eb3da6f",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
-    "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
+    "ad7b450e-b8bb-460b-bbdd-37d6ff049b7e",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
