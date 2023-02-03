@@ -1,0 +1,222 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/sensibles-3-1024x512.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "Flân’ Club: Arman Naféei, Director of Ambiance, Chateau Marmont",
+        "text": "<p>We recently had the pleasure of talking to the captivating Arman Naféei, Director of ambiance to the most emblematic hotels around the world like the Chateau Marmont in LA and the Sirenuse in Positano. (What is a director of ambiance you may ask – Don’t worry we will get to that later) and host of the podcast ARE WE ON AIR?<\/p><p>Guests of ARE WE ON AIR ? range from worldwide icons like Patti Smith, Pop Star Kali Uchis, classical musician Elim Chan and DJ Benji B.<\/p><p>Through his podcast Naféei provides an exciting escapist world in which music, art and design are all on the menu for discussion. In this series of enlivened conversations, Arman and his guest dissect the cultural as well as the intellectual. Each guest is encouraged to answer interview questions by selecting a song – each ‘answer’ is then compiled into a playlist available to stream on Spotify.<\/p><p>The weekly podcast has been dubbed ‘the coolest music podcast in the world’ by VOGUE and we have to say, we agree.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/2-6-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p><strong>Can you tell us more about how ARE WE ON AIR ? – where did the idea for it evolve from?<\/strong><br\/>The idea came to me in 2019. I had started narrowing down the concept whilst preparing for the opening of my club at the Chateau Marmont. I delve into what I was known for: my music and my network, something I could do by myself without a physical space or outside investment and involvement. I had a feeling I wanted to narrow things down and Covid was a sign from the universe to get it out.<\/p><p>Spending my evenings at the Chateau Marmont, I often found myself having fascinating conversations and thought, ‘why aren’t I recording these conversations?’ Patti Smith was my first interview.<\/p><p>When Lockdown happened I was incredibly grateful to have this positive, creative outlet. It was an incredible project that I could develop from the comfort of my living room.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Arman-Nafeei-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p><strong>What's your own history with music? <\/strong><\/p><p>I don’t come from a musically trained family nor did I learn it in school. But music was always there in our house and for me personally. First it was Persian and Classical music. I was doing mix tapes in primary school and burning CD’s. Then my friend Max Vallot had these turntables at home and I was immediately drawn to them so I decided to save money to buy myself the same ones. To be honest, I’ve never taken it too seriously. Still today, I can’t believe it took me so far. It’s my hobby and I get paid to do it, which is so fun.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60f5c4b7-c4f6-4395-b518-b487dea95c89": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "Music is an excuse, a gateway to someone’s world; It’s just an opener to get to the person’s story.",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "50dc0a40-1c0b-45a1-bcba-b8ebcdade52a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/8-1024x1024_9315646f-2de1-4baa-8367-f5ef7ef8a586.png",
+        "layout": "left",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p><strong>On working at Chateau Marmont, how would you describe your role as Director of Ambiance? <\/strong><\/p><p>Officially, I was the Music Director for all of André Balazs’s Hotel (Château, Chiltern Firehouse, The Mercer, Sunset Beach and The Standard Hotels) This type of hotel is relatively new – the concept of these boutique locations is maybe 30 or 40 years old. In New York City, there is no real estate. People live in small apartments so everything happens in public spaces. These hotels or restaurants work as little piazzas. They are real culture hubs.<\/p><p>For it to become magic you need the right ingredients; people,light, temperature and music. André [Balazs] always called me his cultural attaché , or, Ambiance Director – which I found a little bit cheesy (Naféei laughs). I preferred the French version of Directeur d’Ambiance. Way more Chic non? <\/p><p>It’s incredibly intangible but it also means so much. Once the music passes from your subconscious to your conscious mind it’s too late. Music should be highlighting but not overbearing. I often use the metaphor of a shadow. It should never be on top of you but should follow you in a natural way.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "55b48647-d315-4178-a919-fa84ef18c972": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "Music should not be overbearing. I often use the metaphor of a shadow. It should never be on top of you but should follow you in a natural way.",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "e4e77c0c-2e5e-4163-a3d7-2b2e95828e99": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/9-1024x1024_b97c078b-48fe-417a-87be-525ff1b993b8.png",
+        "layout": "right",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p><strong>What advice would you give people to educate their own musical ear?<\/strong><br\/>Be open. Listen Listen Listen Listen. The more you digest and spend with it the better your ear gets. Like other forms of art, it’s a visceral experience. Dive into it. Expose yourself to it. Experience it. The more you learn the more you will learn how to filter. I often say, to find 200 tracks, 200 great tracks, you need to listen to 2000 bad ones.<\/p><p><strong>What did you miss most during the Lockdown?<\/strong><br\/>What I miss most is to hear music in a really good environment. Certain things blossom in the environment they were supposed to be heard in. The other day I had the chance to get a preview of Sven Vath’s upcoming album in his house, on a proper sound system. I suddenly got emotionally overwhelmed. We were 5 or 6 people, there was good wine, and the sound was just what it ought to be.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "5d1227fd-6355-42d9-a979-e9cc820df858": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "It's a visceral experience. Dive into it. Expose yourself to it. Experience it.",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "c9d4632a-c692-410e-9e34-afe5038c48f5": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Arman-Nafeei-1-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p><strong>So, what would your dream dinner party look like? <\/strong><\/p><p>I always have as a reference the scene in <em>Marie Antoinette<\/em> where they have dinner outside, on this long table underneath a made up tent, surrounded by wild grass. So for me the ideal mise en scene would be the <em>Marie Antoinette<\/em> field, without the costumes but with the natural linen and candles only surrounded by that uncut wild grass. The ultimate chicest dinner party. <\/p><p>There is a similar vibe, at the Vitra Museum, Basel where the renowned Dutch landscape designer Piet Oudolf has crafted pathways through bushes and wild flowers. The path is cut in an irregular way. It’s incredibly elegant. <\/p><p><strong>What are your favourite kinds of venues? <\/strong><\/p><p>I like small, more authentic nookes you discover. A local bar that feels lived in. As I worked on opening the Chateau Marmont club I learned so much. I got to talk to so many designers and it helped me refine my taste even more. Design plays such a big role in setting the right tone and message.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "a66f8d63-4934-40a8-99e3-8d48eefd7eff": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/3-3-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p><strong>How would you define your taste?<\/strong><\/p><p>In whatever I do, it’s gotta be warm and sexy. That’s the goal (Naféei laughs).<\/p><p>Some people like things very white and some people like lots of colours. I think what’s important is to have good reference points. My taste is eclectic, musically and in design. The game is to create a cohesive environment. Whether African, Arabic, Brazilian, Disco it needs to make sense together and it’s the same when it comes to Design.<\/p><p><strong>Is there an object you really like at home? <\/strong><\/p><p>Yes, this little vase I bought just before I left. From a random vintage shop in Hollywood. It is red and yellow striped with a copper on top. I was immediately drawn to it and I’m still thinking about it.<\/p><p><strong>Where would you go shopping for design pieces in LA? <\/strong><\/p><p>LA has some of the best vintage shopping in the world. From the flea markets and the Rose Bowl to stores like mid century L.A to this little Mother and Daughter shop in Venice called, <em>Merchant Modern<\/em> too. They have great taste. I also love the Pasadena antique stores and <em>Jeff’s<\/em> on Fairfax, which is basically just piles and piles of dusted gems BUT the real deal is <em>Craigslist<\/em>; I found this mint mid-century Norwegian lounge chair on <em>Craigslist<\/em>. The other day I saw it on <em>1st Dibs <\/em>for 100 times the price.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "7e328c77-9db4-4d95-94a1-5a5f82dd8f5f": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "Try and work within your budget and always go for the original.",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "6f8d7e8c-54b6-46e1-8832-d40c5decc0fa": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/7-1024x1024_602c21be-7cba-4c3a-b2c6-a731dae5d5e6.png",
+        "layout": "left",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p><strong>We’ve talked about good taste, how would you define bad taste?<\/strong><\/p><p>I’m in Ibiza right now, so don’t get me started (Naféei laughs). It’s hard to define, I think bad taste is a feeling. I think in today’s world you see so many watered down ‘‘copy and paste’ ideas from a Pinterest board or an Instagram influencer’s page. <\/p><p>Try to avoid that. Instead take the time to understand and study what the original thought or history was behind the design you liked and try to work within your budget to find the original. Cheap knock-off’s. Never feels or looks right.<\/p><p><strong>Best Hotels?<\/strong><\/p><p><em>Chateau Marmont, Le Sirenuse, IL Pellicano, Posta Vecchia<\/em>. And run down hotels from Napoli with shimmers of former glory days. There is nothing like the patina of faded luxury.<\/p><p><strong>Best Restaurants in LA?<\/strong><\/p><p><em>Musso & Franks<\/em> for the old school Hollywood experience: Get a steak and a Martini. <em>Taverna Tony’s<\/em> in Malibu, an old Greek place with an insane house dip. Addictive. And the Pizza Tonno at <em>Terroni<\/em>’s<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "60f5c4b7-c4f6-4395-b518-b487dea95c89",
+    "main",
+    "50dc0a40-1c0b-45a1-bcba-b8ebcdade52a",
+    "55b48647-d315-4178-a919-fa84ef18c972",
+    "e4e77c0c-2e5e-4163-a3d7-2b2e95828e99",
+    "5d1227fd-6355-42d9-a979-e9cc820df858",
+    "c9d4632a-c692-410e-9e34-afe5038c48f5",
+    "a66f8d63-4934-40a8-99e3-8d48eefd7eff",
+    "7e328c77-9db4-4d95-94a1-5a5f82dd8f5f",
+    "6f8d7e8c-54b6-46e1-8832-d40c5decc0fa",
+    "blog-posts"
+  ]
+}

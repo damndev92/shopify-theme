@@ -28,13 +28,23 @@
         "button_label": ""
       }
     },
+    "8fbd4d37-f5a9-4f6d-ac8a-aaa42a79403d": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_2_7a35e995-2235-4c94-b2f2-ae307b4d9ad4.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
+      }
+    },
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
       "type": "image--gallery",
       "blocks": {
         "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.png",
+            "image": "shopify:\/\/shop_images\/34_8098d0ac-ac09-4124-8513-40ba7d9a3760.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
             "title": "",
             "description": ""
@@ -43,7 +53,7 @@
         "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2.png",
+            "image": "shopify:\/\/shop_images\/36_21c9afe3-109e-44c9-a7ef-d60c86d832b1.png",
             "link": "shopify:\/\/products\/parentesi-suspension-lamp",
             "title": "",
             "description": ""
@@ -106,7 +116,7 @@
         "layout": "left",
         "subheading": "Story Hotel",
         "title": "Meet the Interior Designers",
-        "text_block": "<p><br\/>Rooms were converted from former apartments, its reception once a barber shop and the Ling Long restaurant a garage. Raw concrete walls and lots of velvet and cool illustrations still cover the walls, adding a cosy and warm feel.<\/p>",
+        "text_block": "<p><br\/>Story Hotel is a new hotel concept in Stockholm by Swedish architects Koncept. The hotel is a conversion of an existing building, which has been stripped back to a bare shell of raw concrete walls. Rooms were converted from former apartments, its reception was once a barber shop and the Ling Long restaurant a garage. Raw concrete walls and lots of velvet and cool illustrations cover the walls, adding a cosy and warm feel. The interior is decorated with a mixture of vintage and contemporary furniture and the original doors from the building have been reused as headboards for the beds.<\/p>",
         "page_description": false,
         "button_link": "",
         "button_label": "Learn More"
@@ -118,7 +128,7 @@
         "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5.png",
+            "image": "shopify:\/\/shop_images\/32_ce6ec23d-7b87-4f07-b6c4-cb33e6547667.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle",
             "title": "",
             "description": ""
@@ -127,7 +137,7 @@
         "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3.png",
+            "image": "shopify:\/\/shop_images\/33_69e401bf-ea45-4182-beb7-ba4fa7b3f386.png",
             "link": "shopify:\/\/products\/wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
             "title": "",
             "description": ""
@@ -136,7 +146,7 @@
         "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4.png",
+            "image": "shopify:\/\/shop_images\/31_5e6497a1-7096-42b9-a496-6fbd6f3f5f56.png",
             "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
             "title": "",
             "description": ""
@@ -201,7 +211,7 @@
         "colors": "white",
         "subheading": "Le Pigalle",
         "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/room.png",
+        "image": "shopify:\/\/shop_images\/Shop_the_Look-Hotels.png",
         "image__position": "image--left",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
@@ -248,7 +258,7 @@
         "colors": "white",
         "subheading": "",
         "title": "",
-        "image": "shopify:\/\/shop_images\/room.png",
+        "image": "shopify:\/\/shop_images\/Shop_the_Look-Hotels_1.png",
         "image__position": "image--right",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
@@ -258,36 +268,14 @@
         "button__text": ""
       }
     },
-    "9299a3ef-12a1-48f6-abe6-a54f93478d0b": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/7.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0",
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1"
-      ],
+    "af7cbd62-f66b-4a1d-ad22-7e95e10ce21e": {
+      "type": "image--image",
       "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
+        "image": "shopify:\/\/shop_images\/Backyard.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
@@ -308,28 +296,28 @@
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_fd62c092-41ea-469f-be64-030352f553af.png",
-            "link": "",
-            "title": "Pigalle 17",
-            "description": "<p>With its bar and close-up view of the neighbourhood, the Pigalle 17 has an an intimate feel, making the room perfect for couples.<\/p>"
+            "image": "shopify:\/\/shop_images\/13_f56ab439-7be5-4d13-a73f-1e53eef8b5d2.png",
+            "link": "https:\/\/storyhotels.com\/riddargatan\/rooms\/twin-beds\/",
+            "title": "TWIN BED ROOM",
+            "description": "<ul><li>21 square meter<\/li><li>Jensen Twin beds (2x90 x 200 cm)<\/li><li>Working space<\/li><li>Entertainment system<\/li><li>48\" SMART LCD TV<\/li><li>Pets are welcome in this room<\/li><\/ul>"
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_350cda9f-05bd-4598-8745-e2f53c202924.png",
-            "link": "",
-            "title": "Pigalle 21",
-            "description": "<p>The Pigalle 21 features a turntable and rare selection of historic vinyl, and a 1920s golden era leather-upholstered bar.<\/p>"
+            "image": "shopify:\/\/shop_images\/14_b67a4117-fde4-4d91-96b2-95333ca8a588.png",
+            "link": "https:\/\/storyhotels.com\/riddargatan\/rooms\/king-bed-balcony\/",
+            "title": "KING BED BALCONY",
+            "description": "<ul><li>18 square meter<\/li><li>Jensen King bed (180x200 cm)<\/li><li>Windows and balcony on the 5th floor, facing the street<\/li><li>Entertainment system<\/li><li>48\" SMART LCD TV<\/li><\/ul>"
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_79b26e16-05b4-4728-99b2-639c553d59de.png",
-            "link": "",
-            "title": "Pigalle 22",
-            "description": "<p>A voluptuous cocoon lined with inspiring pieces of art, the Pigalle 22 is particularly spacious and homely with a large bed and a bath in the bedroom itself.<\/p>"
+            "image": "shopify:\/\/shop_images\/15_093713fe-ab6a-4147-ae89-1fd9352db005.png",
+            "link": "https:\/\/storyhotels.com\/riddargatan\/rooms\/king-deluxe\/",
+            "title": "KING BED DELUXE",
+            "description": "<ul><li>25 square meter<\/li><li>Jensen King bed (180x200 cm)<\/li><li>Working space<\/li><li>Entertainment system<\/li><li>48\" SMART LCD TV<\/li><\/ul>"
           }
         }
       },
@@ -388,13 +376,14 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
+    "8fbd4d37-f5a9-4f6d-ac8a-aaa42a79403d",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
-    "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
+    "af7cbd62-f66b-4a1d-ad22-7e95e10ce21e",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
