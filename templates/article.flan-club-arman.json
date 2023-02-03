@@ -146,6 +146,21 @@
         "button_label": ""
       }
     },
+    "a66f8d63-4934-40a8-99e3-8d48eefd7eff": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/3-3-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p><strong>How would you define your taste?<\/strong><\/p><p>In whatever I do, it’s gotta be warm and sexy. That’s the goal (Naféei laughs).<\/p><p>Some people like things very white and some people like lots of colours. I think what’s important is to have good reference points. My taste is eclectic, musically and in design. The game is to create a cohesive environment. Whether African, Arabic, Brazilian, Disco it needs to make sense together and it’s the same when it comes to Design.<\/p><p><strong>Is there an object you really like at home? <\/strong><\/p><p>Yes, this little vase I bought just before I left. From a random vintage shop in Hollywood. It is red and yellow striped with a copper on top. I was immediately drawn to it and I’m still thinking about it.<\/p><p><strong>Where would you go shopping for design pieces in LA? <\/strong><\/p><p>LA has some of the best vintage shopping in the world. From the flea markets and the Rose Bowl to stores like mid century L.A to this little Mother and Daughter shop in Venice called, <em>Merchant Modern<\/em> too. They have great taste. I also love the Pasadena antique stores and <em>Jeff’s<\/em> on Fairfax, which is basically just piles and piles of dusted gems BUT the real deal is <em>Craigslist<\/em>; I found this mint mid-century Norwegian lounge chair on <em>Craigslist<\/em>. The other day I saw it on <em>1st Dibs <\/em>for 100 times the price.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -172,6 +187,7 @@
     "e4e77c0c-2e5e-4163-a3d7-2b2e95828e99",
     "5d1227fd-6355-42d9-a979-e9cc820df858",
     "c9d4632a-c692-410e-9e34-afe5038c48f5",
+    "a66f8d63-4934-40a8-99e3-8d48eefd7eff",
     "blog-posts"
   ]
 }
