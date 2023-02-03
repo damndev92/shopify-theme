@@ -77,6 +77,21 @@
         "show_blog_images": true,
         "imageSize": "square"
       }
+    },
+    "50dc0a40-1c0b-45a1-bcba-b8ebcdade52a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/8-1024x1024_9315646f-2de1-4baa-8367-f5ef7ef8a586.png",
+        "layout": "left",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p><strong>On working at Chateau Marmont, how would you describe your role as Director of Ambiance? <\/strong><\/p><p>Officially, I was the Music Director for all of André Balazs’s Hotel (Château, Chiltern Firehouse, The Mercer, Sunset Beach and The Standard Hotels) This type of hotel is relatively new – the concept of these boutique locations is maybe 30 or 40 years old. In New York City, there is no real estate. People live in small apartments so everything happens in public spaces. These hotels or restaurants work as little piazzas. They are real culture hubs.<\/p><p>For it to become magic you need the right ingredients; people,light, temperature and music. André [Balazs] always called me his cultural attaché , or, Ambiance Director – which I found a little bit cheesy (Naféei laughs). I preferred the French version of Directeur d’Ambiance. Way more Chic non? <\/p><p>It’s incredibly intangible but it also means so much. Once the music passes from your subconscious to your conscious mind it’s too late. Music should be highlighting but not overbearing. I often use the metaphor of a shadow. It should never be on top of you but should follow you in a natural way.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
     }
   },
   "order": [
@@ -85,6 +100,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
-    "blog-posts"
+    "blog-posts",
+    "50dc0a40-1c0b-45a1-bcba-b8ebcdade52a"
   ]
 }
