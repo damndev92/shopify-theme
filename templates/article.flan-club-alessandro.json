@@ -104,6 +104,28 @@
         "button_label": ""
       }
     },
+    "36011eed-8acd-4032-9932-14e896a4401f": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17863809466683__36011eed-8acd-4032-9932-14e896a4401f-1675423255e121ae61-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Slide5-Dukes-Martini-Hotel-London-Alessandro-Palazzi-Cocktail-Recipe-1-1024x576.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p><a href=\"https:\/\/www.maisonflaneur.com\/flan-club-alessandro-palazzis-martini-recipe-london-uk\/\"><strong>Discover Alessandro’s Martini Recipe <\/strong><\/a><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/st-jamess-hotel-club\/\"><strong>Discover the best of English clubs interior at the St James Hotel. <\/strong><\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17863809466683__36011eed-8acd-4032-9932-14e896a4401f-1675423255e121ae61-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -127,6 +149,7 @@
     "main",
     "0c08578a-c0e6-4a09-8e08-0d0c3c28e342",
     "e394336d-2ab6-4e01-ad71-63875a0b472c",
+    "36011eed-8acd-4032-9932-14e896a4401f",
     "blog-posts"
   ]
 }
