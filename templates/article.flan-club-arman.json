@@ -52,6 +52,18 @@
         "button_label": ""
       }
     },
+    "60f5c4b7-c4f6-4395-b518-b487dea95c89": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "Music is an excuse, a gateway to someone’s world; It’s just an opener to get to the person’s story.",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -63,19 +75,6 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
-      }
-    },
-    "blog-posts": {
-      "type": "blog--blog-posts",
-      "settings": {
-        "colors": "light",
-        "subheading": "BLOG",
-        "title": "Latest articles",
-        "post_limit": 3,
-        "show_author_name": false,
-        "show_dates": true,
-        "show_blog_images": true,
-        "imageSize": "square"
       }
     },
     "50dc0a40-1c0b-45a1-bcba-b8ebcdade52a": {
@@ -92,6 +91,19 @@
         "button_link": "",
         "button_label": ""
       }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
     }
   },
   "order": [
@@ -99,8 +111,9 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "60f5c4b7-c4f6-4395-b518-b487dea95c89",
     "main",
-    "blog-posts",
-    "50dc0a40-1c0b-45a1-bcba-b8ebcdade52a"
+    "50dc0a40-1c0b-45a1-bcba-b8ebcdade52a",
+    "blog-posts"
   ]
 }
