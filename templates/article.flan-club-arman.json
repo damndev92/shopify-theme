@@ -161,6 +161,18 @@
         "button_label": ""
       }
     },
+    "7e328c77-9db4-4d95-94a1-5a5f82dd8f5f": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "Try and work within your budget and always go for the original.",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -188,6 +200,7 @@
     "5d1227fd-6355-42d9-a979-e9cc820df858",
     "c9d4632a-c692-410e-9e34-afe5038c48f5",
     "a66f8d63-4934-40a8-99e3-8d48eefd7eff",
+    "7e328c77-9db4-4d95-94a1-5a5f82dd8f5f",
     "blog-posts"
   ]
 }
