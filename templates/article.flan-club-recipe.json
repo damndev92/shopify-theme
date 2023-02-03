@@ -37,6 +37,37 @@
         "button_label": ""
       }
     },
+    "1c29af57-2816-4d58-bba7-a981f142ee1c": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17864462663995__1c29af57-2816-4d58-bba7-a981f142ee1c-16754289003ae9421b-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Martini4-819x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17864462663995__1c29af57-2816-4d58-bba7-a981f142ee1c-16754289003ae9421b-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17864462663995__1c29af57-2816-4d58-bba7-a981f142ee1c-16754289003ae9421b-1",
+        "template--17864462663995__1c29af57-2816-4d58-bba7-a981f142ee1c-16754289003ae9421b-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -83,6 +114,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
+    "1c29af57-2816-4d58-bba7-a981f142ee1c",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "blog-posts"
