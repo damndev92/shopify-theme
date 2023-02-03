@@ -104,11 +104,11 @@
         "image-width": "medium",
         "image": "shopify:\/\/shop_images\/festern.png",
         "layout": "left",
-        "subheading": "Le Pigalle",
+        "subheading": "Story Hotel",
         "title": "Meet the Interior Designers",
-        "text_block": "<p><\/p><p>For Le Pigalle, renowned Parisian Interior Design Firm Festen took the original building and added typical Parisian touches, such as panelled doors and white walls, moulding, woodwork and parquet flooring.<\/p>",
+        "text_block": "<p><br\/>Rooms were converted from former apartments, its reception once a barber shop and the Ling Long restaurant a garage. Raw concrete walls and lots of velvet and cool illustrations still cover the walls, adding a cosy and warm feel.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
+        "button_link": "",
         "button_label": "Learn More"
       }
     },
