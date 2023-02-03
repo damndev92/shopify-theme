@@ -296,7 +296,7 @@
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Thyme_-_The_Lodge_-_English_Rose.jpg",
+            "image": "shopify:\/\/shop_images\/16_fbc7db65-8920-42b6-b1a8-1098de22c2a0.png",
             "link": "",
             "title": "ENGLISH ROSE BEDROOM",
             "description": ""
@@ -306,8 +306,8 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/2_666773dd-af29-49b2-8f08-f131deaa2c97.png",
-            "link": "",
-            "title": "Double Room",
+            "link": "https:\/\/www.thyme.co.uk\/stay\/teeny-cosy-bedrooms",
+            "title": "TEENY COSY BEDROOMS",
             "description": "<p>Double Room with free standing claw bath.<\/p>"
           }
         },
