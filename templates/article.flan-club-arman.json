@@ -42,14 +42,14 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
+        "image": "shopify:\/\/shop_images\/Arman-Nafeei-1024x1024.png",
         "layout": "right",
         "subheading": "",
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>What's your own history with music? <\/strong><\/p><p>I don’t come from a musically trained family nor did I learn it in school. But music was always there in our house and for me personally. First it was Persian and Classical music. I was doing mix tapes in primary school and burning CD’s. Then my friend Max Vallot had these turntables at home and I was immediately drawn to them so I decided to save money to buy myself the same ones. To be honest, I’ve never taken it too seriously. Still today, I can’t believe it took me so far. It’s my hobby and I get paid to do it, which is so fun.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "button_label": "Book Now"
+        "button_link": "",
+        "button_label": ""
       }
     },
     "main": {
