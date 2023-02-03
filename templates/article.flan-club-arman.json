@@ -104,6 +104,21 @@
         "button_label": ""
       }
     },
+    "e4e77c0c-2e5e-4163-a3d7-2b2e95828e99": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/9-1024x1024_b97c078b-48fe-417a-87be-525ff1b993b8.png",
+        "layout": "right",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p><strong>What advice would you give people to educate their own musical ear?<\/strong><br\/>Be open. Listen Listen Listen Listen. The more you digest and spend with it the better your ear gets. Like other forms of art, it’s a visceral experience. Dive into it. Expose yourself to it. Experience it. The more you learn the more you will learn how to filter. I often say, to find 200 tracks, 200 great tracks, you need to listen to 2000 bad ones.<\/p><p><strong>What did you miss most during the Lockdown?<\/strong><br\/>What I miss most is to hear music in a really good environment. Certain things blossom in the environment they were supposed to be heard in. The other day I had the chance to get a preview of Sven Vath’s upcoming album in his house, on a proper sound system. I suddenly got emotionally overwhelmed. We were 5 or 6 people, there was good wine, and the sound was just what it ought to be.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "5d1227fd-6355-42d9-a979-e9cc820df858": {
       "type": "text--rich-text",
       "settings": {
@@ -116,16 +131,16 @@
         "button_label": ""
       }
     },
-    "e4e77c0c-2e5e-4163-a3d7-2b2e95828e99": {
+    "c9d4632a-c692-410e-9e34-afe5038c48f5": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/9-1024x1024_b97c078b-48fe-417a-87be-525ff1b993b8.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/Arman-Nafeei-1-1024x1024.png",
+        "layout": "left",
         "subheading": "",
-        "title": "",
-        "text_block": "<p><strong>What advice would you give people to educate their own musical ear?<\/strong><br\/>Be open. Listen Listen Listen Listen. The more you digest and spend with it the better your ear gets. Like other forms of art, it’s a visceral experience. Dive into it. Expose yourself to it. Experience it. The more you learn the more you will learn how to filter. I often say, to find 200 tracks, 200 great tracks, you need to listen to 2000 bad ones.<\/p><p><strong>What did you miss most during the Lockdown?<\/strong><br\/>What I miss most is to hear music in a really good environment. Certain things blossom in the environment they were supposed to be heard in. The other day I had the chance to get a preview of Sven Vath’s upcoming album in his house, on a proper sound system. I suddenly got emotionally overwhelmed. We were 5 or 6 people, there was good wine, and the sound was just what it ought to be.<\/p>",
+        "title": "Share brand or product details",
+        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
         "page_description": false,
         "button_link": "",
         "button_label": ""
@@ -154,8 +169,9 @@
     "main",
     "50dc0a40-1c0b-45a1-bcba-b8ebcdade52a",
     "55b48647-d315-4178-a919-fa84ef18c972",
-    "5d1227fd-6355-42d9-a979-e9cc820df858",
     "e4e77c0c-2e5e-4163-a3d7-2b2e95828e99",
+    "5d1227fd-6355-42d9-a979-e9cc820df858",
+    "c9d4632a-c692-410e-9e34-afe5038c48f5",
     "blog-posts"
   ]
 }
