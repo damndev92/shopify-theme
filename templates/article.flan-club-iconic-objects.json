@@ -67,6 +67,21 @@
         "button_label": ""
       }
     },
+    "1f789bf8-9eba-4eb7-a331-f7bce182443e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/418300497.jpg",
+        "layout": "left",
+        "subheading": "",
+        "title": "4.",
+        "text_block": "<p>He resides in each guest room of this famous hotel and is legendary for having “slept” with every It girl in New York City. He dons a proper bellman uniform modeled after the legendary 5 Points Gang. Have you met Bo the Bear?<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -100,6 +115,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "e30ca7e1-81d0-423f-81dc-318d6680b98e",
+    "1f789bf8-9eba-4eb7-a331-f7bce182443e",
     "main",
     "blog-posts"
   ]
