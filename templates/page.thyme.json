@@ -54,7 +54,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_5_fc804d91-f4d1-426a-a53d-b7a6c4faf830.png",
-            "link": "shopify:\/\/products\/parentesi-suspension-lamp",
+            "link": "",
             "title": "",
             "description": ""
           }
@@ -119,6 +119,7 @@
         "text_block": "<p><br\/>For Fawn, the Interior Designers behind Thyme, the colour palette is expected - soft and muted (creams and plaster-pink) - but then invigorated with unexpected pops of sunny, happy yellow, greens and blues. The bedrooms (and integrated bathrooms) are sumptuous with luxury touches of marble and stone. Beautiful exposed original beams add character, warmth and structure. In the drawing rooms, the use of greens enhances the organic feel with luxury touches of coppers and brasses. The use of light oak keeps spaces feeling fresh and modern, with quirky touches like arty sheep to keep visitors company.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": "Learn More"
       }
     },
