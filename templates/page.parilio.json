@@ -114,7 +114,7 @@
         "image-width": "medium",
         "image": "shopify:\/\/shop_images\/festern.png",
         "layout": "left",
-        "subheading": "PARILIO",
+        "subheading": "PARĪLIO",
         "location": "{{ collection.metafields.custom.location.value }}",
         "title": "Meet the Interior Designers",
         "text_block": "<p><br\/>The rolling landscape of the Cycladic island of Paros — with its mountainous heaps, pine-fringed coves and white-washed fishing villages — casts a flawless frame around the timeless beauty that is Parīlio. Here, amongst 33 suites, the past, present and to an extent the future are seamlessly merged in a celebration of this fabled Greek escape.<\/p>",
