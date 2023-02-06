@@ -28,6 +28,16 @@
         "button_label": ""
       }
     },
+    "1dc85c19-cbb0-4cf1-bc4a-3c743a1c5bd3": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pigalle_hp.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
+      }
+    },
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
       "type": "image--gallery",
       "blocks": {
@@ -260,6 +270,16 @@
         "button__text": ""
       }
     },
+    "bdedcca0-f74d-43ca-be6b-5980a1dd81fa": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pigalle_hp.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
+      }
+    },
     "9299a3ef-12a1-48f6-abe6-a54f93478d0b": {
       "type": "image--gallery",
       "blocks": {
@@ -390,12 +410,14 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
+    "1dc85c19-cbb0-4cf1-bc4a-3c743a1c5bd3",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
+    "bdedcca0-f74d-43ca-be6b-5980a1dd81fa",
     "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
