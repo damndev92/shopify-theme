@@ -53,15 +53,15 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/f71049fe55e51baba4686ff37937b846.jpg",
+        "layout": "left",
         "subheading": "",
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Your favourite object in your home?<\/strong><\/p><p>A question mark made out of cast brass<\/p><p><strong>Your favourite hotel in the world?<\/strong><\/p><p><a href=\"https:\/\/www.adrereamellal.com\/adrere\/\">Adrere Amellal in the oasis of Siwa, Egypt<\/a><\/p><p><strong>Your favourite restaurant in the world?<\/strong><\/p><p><a href=\"http:\/\/www.chassagnette.fr\/fr\/\">La Chassagnette in Arles<\/a><\/p><p><strong>Favourite address for decoration in London\/ in the world?<\/strong><\/p><p><a href=\"https:\/\/www.libertylondon.com\/\">Liberty<\/a> on Regent St in London<br\/><a href=\"http:\/\/www.nilufar.com\/\">Nilufar Gallery<\/a> on via Della Spiga in Milan<\/p><p><strong>A piece of advice for people in confinement?<\/strong><\/p><p>Take this time to concentrate on what is essential to you<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
