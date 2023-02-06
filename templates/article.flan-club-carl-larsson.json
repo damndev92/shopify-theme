@@ -83,6 +83,28 @@
         "show_recent_posts": false
       }
     },
+    "e5140c9b-8efe-4832-9c77-49541ff77206": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17899190878523__e5140c9b-8efe-4832-9c77-49541ff77206-1675692961112ab292-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ikon-863.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Round Coffee Table Ikon<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17899190878523__e5140c9b-8efe-4832-9c77-49541ff77206-1675692961112ab292-0"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -104,6 +126,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "556acfb5-207c-46aa-8fc9-84c6a906c1ba",
     "main",
+    "e5140c9b-8efe-4832-9c77-49541ff77206",
     "blog-posts"
   ]
 }
