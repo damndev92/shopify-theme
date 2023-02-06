@@ -45,7 +45,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/34_8098d0ac-ac09-4124-8513-40ba7d9a3760.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
+            "link": "",
             "title": "",
             "description": ""
           }
@@ -119,6 +119,7 @@
         "text_block": "<p><br\/>Story Hotel is a new hotel concept in Stockholm by Swedish architects Koncept. The hotel is a conversion of an existing building, which has been stripped back to a bare shell of raw concrete walls. Rooms were converted from former apartments, its reception was once a barber shop and the Ling Long restaurant a garage. Raw concrete walls and lots of velvet and cool illustrations cover the walls, adding a cosy and warm feel. The interior is decorated with a mixture of vintage and contemporary furniture and the original doors from the building have been reused as headboards for the beds.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": "Learn More"
       }
     },
