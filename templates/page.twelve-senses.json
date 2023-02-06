@@ -45,7 +45,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/19_c8650fd9-625f-4c73-bc76-d88a6b59f6ad.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
+            "link": "",
             "title": "",
             "description": ""
           }
@@ -54,7 +54,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/27_5117a923-0761-47dc-95e6-1e5edcabe69c.png",
-            "link": "shopify:\/\/products\/parentesi-suspension-lamp",
+            "link": "",
             "title": "",
             "description": ""
           }
@@ -119,6 +119,7 @@
         "text_block": "<p><br\/>With interiors by Offset Design & Drafting by Anke Bodack, the luxury minimalism at Twelve Senses makes for warm and welcoming yet uncluttered spaces. The four guestrooms each has its own color scheme based on the four elements, with designers Philippe Starck, Ethnicraft, Lagos del Mundo, and many others showcased. A cozy library boasts two Cappellini felt chairs and a Knoll marble coffee table, while a small pop-up shop offers local crafts and artisanal products.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": "Learn More"
       }
     },
@@ -129,7 +130,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/21_73767d88-3a8e-41b6-a910-d117e163d8f5.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle",
+            "link": "",
             "title": "",
             "description": ""
           }
@@ -138,7 +139,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/28_9b9f9b36-ba88-489c-aad1-27e54cb92ece.png",
-            "link": "shopify:\/\/products\/wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
+            "link": "",
             "title": "",
             "description": ""
           }
@@ -147,7 +148,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/25_aa64eaa5-c9ff-4ea6-b198-0c00cf87c6a2.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
+            "link": "",
             "title": "",
             "description": ""
           }
