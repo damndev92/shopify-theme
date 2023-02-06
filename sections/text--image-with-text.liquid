@@ -52,8 +52,8 @@
                         {% if section.settings.subheading != blank %}
                           <h3 class="type-subheading type-subheading--1 wow fadeIn{% if section.settings.title != blank %} typography--padding-bottom{% endif %}">{{ section.settings.subheading | escape }}</h3>
                         {% endif %}
-                        {% if section.settings.location != blank %}
-                          <h3 class="type-subheading type-subheading--1 wow fadeIn{% if section.settings.title != blank %} typography--padding-bottom{% endif %}">{{ section.settings.location | escape }}</h3>
+                        {% if section.settings.location == true %}
+                          <h3 class="type-subheading type-subheading--1 wow fadeIn{% if section.settings.title != blank %} typography--padding-bottom{% endif %}">{{ collection.metafields.custom.location.value | escape }}</h3>
                         {% endif %}
                         {% if section.settings.title != blank %}
                           <h2 class="wow fadeIn{% if section.settings.subheading != blank %} delay-1{% endif %}">{{ section.settings.title | escape }}</h2>
@@ -291,10 +291,12 @@
           }
         },
         {
-          "type": "text",
-          "id": "location",
-          "label": "Location",
-          "default": "{{ collection.metafields.custom.location.value }}"
+        "type": "checkbox",
+        "id": "location",
+        "label": {
+        "en": "Show collection location"
+        },
+        "default": false
         },
         {
           "type": "text",
