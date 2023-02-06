@@ -53,11 +53,13 @@
         "image-width": "extra-large",
         "image": "{{ collection.image }}",
         "layout": "left",
-        "subheading": "Vilnius, Lithuania",
+        "subheading": "",
+        "location": "{{ collection.metafields.custom.location.value }}",
         "title": "{{ collection.title }}",
         "text_block": "",
         "page_description": true,
         "button_link": "shopify:\/\/pages\/hotel-pacai",
+        "hotel_page_url": false,
         "button_label": "Discover"
       }
     },
