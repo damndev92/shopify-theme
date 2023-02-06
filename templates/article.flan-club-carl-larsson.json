@@ -54,6 +54,22 @@
         "button_label": ""
       }
     },
+    "556acfb5-207c-46aa-8fc9-84c6a906c1ba": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/article_carl_larsson_art_reporter_design_interior-683x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "title": "",
+        "text_block": "<p> <strong>How would you describe your home in one word?<\/strong><br\/>Changing.<\/p><p><strong>What makes a home in one word?<\/strong><br\/>An inviting bed and the people who live in it<\/p><p><strong>Define bad taste in interiors?<\/strong><br\/>When it’s not personal<\/p><p><strong>What is your favourite object in your home?<\/strong><br\/>My Hästens 2000T bed<\/p><p><strong>Ever wanted to bring back something from a hotel or a restaurant?’<\/strong><br\/>Everything from Axel Vervoordts designed rooms at Greenwich hotel<\/p><p><strong>What is your favourite hotel in the world?<\/strong><br\/>The Lotte Hotel. Because it has a $195,000 Hästens bed.<\/p><p><strong>What is your favourite address for decoration?<\/strong><br\/>instagram.com<\/p><p><strong>A message for people at home?<\/strong><br\/>Sleep better, feel better.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -86,6 +102,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "556acfb5-207c-46aa-8fc9-84c6a906c1ba",
     "main",
     "blog-posts"
   ]
