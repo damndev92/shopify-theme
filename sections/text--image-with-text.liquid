@@ -69,6 +69,14 @@
                         {{ section.settings.button_label }}
                       </a>
                     {% endif %}
+
+                    {% if section.settings.button_label != blank and section.settings.hotel_page_url != blank %}
+                      {% if collection.id != blank %}
+                        <a href="{{ '/pages/' | append: collection.handle }}" class="btn">
+                          {{ section.settings.button_label }}
+                        </a>
+                      {% endif %}
+                    {% endif %}
                   </div>
                 </div>
               </div>
@@ -341,6 +349,14 @@
                 "pt-PT": "Necessário para exibir o botão"
             }
         },
+          {
+          "type": "checkbox",
+          "id": "hotel_page_url",
+          "label": {
+          "en": "Use dynamic hotel page url"
+          },
+          "default": false
+          },
         {
             "type": "text",
             "id": "button_label",
