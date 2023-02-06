@@ -52,6 +52,21 @@
         "button_label": ""
       }
     },
+    "e30ca7e1-81d0-423f-81dc-318d6680b98e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/MF_DO_AmourGlasses_Silo-1-600x600.jpg",
+        "layout": "right",
+        "subheading": "",
+        "title": "3.",
+        "text_block": "<p>These iconic wine glasses were etched by Andre Saraiva, the famous French street artist. Where would you be able to drink from those lovely wine glasses?<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -84,6 +99,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "e30ca7e1-81d0-423f-81dc-318d6680b98e",
     "main",
     "blog-posts"
   ]
