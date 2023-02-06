@@ -1,0 +1,106 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0826.aa50228d7ccd4480fd906b18ca964d98-1024x538.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "Flân’ Club: Can you recognise which hotels these 5 iconic objects are from?",
+        "text": "<p>Certain objects have become iconic to a place. So iconic that without a logo or a tag you could still be able to name the restaurant or hotel they belong to.  Want to play a game? Look at these objects and try and guess which hospitality location they belong to. If you know, you know.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/4b268a276b2f2cd93e119f38ca23a1cd-1024x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "title": "1.",
+        "text_block": "<p>At this Italian Sixties-built Hôtel, the sun loungers come with Slim Aarons-inspired yellow-and-white striped towels.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/SquareBH-1.jpg",
+        "layout": "left",
+        "subheading": "",
+        "title": "2.",
+        "text_block": "<p>It was 1942 and a popular dancer, fashion designer and interior decorator by the name of Don Loper designed the Martinique banana leaf wallpaper exclusively for this hotel. Some 60 plus years later this wallpaper is one of the world’s most recognizable wallpapers ever created.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "e30ca7e1-81d0-423f-81dc-318d6680b98e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/MF_DO_AmourGlasses_Silo-1-600x600.jpg",
+        "layout": "right",
+        "subheading": "",
+        "title": "3.",
+        "text_block": "<p>These iconic wine glasses were etched by Andre Saraiva, the famous French street artist. Where would you be able to drink from those lovely wine glasses?<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "e30ca7e1-81d0-423f-81dc-318d6680b98e",
+    "main",
+    "blog-posts"
+  ]
+}
