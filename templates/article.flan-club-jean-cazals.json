@@ -43,15 +43,15 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/DEx022FXoAYsdT6.jpg",
+        "layout": "left",
         "subheading": "",
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Describe your philosophy when it comes to decoration?<\/strong><\/p><p>It has to be visually pleasing and confortable. A mix of key pieces with key objects reflecting yourself. It must not be a ‘show’ flat\/house. The style got to perspire as you walk through the house almost like walking through somebody’s mind, revealing their travel and soul.<\/p><p><strong>Your favourite object in your home?<\/strong><\/p><p>My Mariano Fortuny floor lamp from 1907. What an iconic design. I never get bored of looking at it.<\/p><p><strong>Your favourite hotel in the world?<\/strong><\/p><p>It depends on the city where you’re staying! The <a href=\"http:\/\/www.jnanetamsna.com\/\">Jnane Tamsna<\/a> in the Palmeraie of Marrakech was the last one I stayed at and loved.<\/p><p><strong>Your favourite restaurant in the world?<\/strong><\/p><p>The French Laundry in San Fransisco and Roka in London.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
