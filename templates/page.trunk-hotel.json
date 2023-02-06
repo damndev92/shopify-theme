@@ -45,7 +45,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/38_b0416b61-73cc-4648-86b3-c362db00a783.png",
-            "link": "shopify:\/\/products\/parentesi-suspension-lamp",
+            "link": "",
             "title": "",
             "description": ""
           }
@@ -119,6 +119,7 @@
         "text_block": "<p><br\/>Tokyo's Trunk hotel is housed in two four-storey buildings designed by local firm Mount Fuji Architects Studio, with interiors by Jamo Associates. It features a material palette of recycled wood, grey stone and black metal, and a host of public spaces, such as a restaurant, a bar and a convenience store- all to encourage socialising by both tourists and locals alike.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": "Learn More"
       }
     },
