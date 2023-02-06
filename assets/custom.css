@@ -88,26 +88,27 @@ maison-country-picker:not(.visible) {
 }
 
 maison-country-picker {
-    position: absolute;
-    top: 25%;
-    background: #FFFFFF;
-    box-shadow: 0px 0px 15px 0px rgb(66 68 90);
-    margin: 0 auto;
-    left: 0;
-    right: 0;
-    max-width: 400px;
-    height: auto;
-    z-index: 999999999;
-    display: flex;
-    justify-content: center;
-    padding: 15px;
-    transform: translateY(70%);
-    transition: all 1s ease;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 1px rgba(0,0,0,0.3),0px 4px 4px 1px rgba(0,0,0,0.1);
+    max-width: 30em;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: calc(100% - 2em);
+    z-index: 99999999;
+    border-radius: 5px;
     pointer-events: all;
 }
 
 maison-country-picker.visible {
-    transform: translateY(0%);
+}
+
+maison-country-picker .disclosure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 2.5em 2.5em;
 }
 
 maison-country-picker .footer-localization-selectors localization-form {
@@ -130,28 +131,57 @@ maison-country-picker .footer-localization-selectors localization-form button {
 }
 
 maison-country-picker .footer-localization-selectors localization-form h5 {
-    margin-top: 25px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    font-size: 22px;
 }
 
 maison-country-picker .footer-localization-selectors localization-form span {
-    display: block;
-    margin-top: 50px;
-    margin-bottom: 7px;
+    font-size: 16px;
+    line-height: 1.4;
+    margin-bottom: 4px;
 }
 
 maison-country-picker .footer-localization-selectors localization-form button {
-    display: flex;
-    padding: 0;
-    color: #000000;
+    -moz-appearance: none !important;
+    -webkit-appearance: none !important;
+    appearance: none !important;
+    background-color: #f4f4f4 !important;
+    background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4IiBoZWlnaHQ9IjUiPjxwYXRoIGZpbGw9IiM2NjYiIGQ9Ik0wIDBzMy40IDQuNCAzLjUgNC40QzMuNyA0LjQgNy4xIDAgNy4xIDBIMHoiLz48L3N2Zz4=") !important;
+    background-position: right 10px center !important;
+    background-repeat: no-repeat !important;
+    background-size: auto !important;
+    color: #333 !important;
+    cursor: pointer !important;
+    display: inline-block !important;
+    font-size: 16px !important;
+    line-height: 1.375 !important;
+    max-width: 100% !important;
+    min-height: unset !important;
+    min-width: unset !important;
+    padding: 0.3em 28px 0.3em 10px !important;
+    text-indent: 0.01px !important;
+    text-overflow: '' !important;
+    vertical-align: baseline !important;
+    border: 1px solid #babfc3 !important;
+    border-radius: 4px !important;
+    width: 100% !important;
+    height: 38px !important;
+    margin: 25px 0 0 0 !important;
     text-align: left;
 }
 
 maison-country-picker .footer-localization-selectors localization-form button img {
-    margin-right: 15px;
 }
 
 maison-country-picker .footer-localization-selectors .localization__list {
+    position: absolute;
+    z-index: 999999;
+    max-height: 20vh;
+    background-color: #fff;
+    top: 90%;
     bottom: auto;
+    padding-left: 35px;
 }
 
 maison-country-picker .close-popup {
@@ -166,4 +196,8 @@ maison-country-picker .close-popup {
     z-index: -1;
     overflow: hidden;
     pointer-events: none;
+}
+
+.maison-country-picker--flag {
+    margin-top: 45px;
 }
