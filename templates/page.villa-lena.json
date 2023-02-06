@@ -54,7 +54,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Shop_the_Look-Hotels_1_93d719dd-f428-4cb7-bb25-f4f0f558372d.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
+            "link": "",
             "title": "",
             "description": ""
           }
@@ -119,6 +119,7 @@
         "text_block": "<p><br\/>During the 19th and early 20th-century Villa Lena was the home of an aristocratic Italian family, but in 2013 it re-opened as a hotel with For Villa Lena, architecture firm Hesselbrand designing and creating a series of rustic guest suites.<\/p>",
         "page_description": false,
         "button_link": "https:\/\/www.hesselbrand.com\/",
+        "hotel_page_url": false,
         "button_label": "Learn More"
       }
     },
