@@ -31,7 +31,7 @@
     "beb23a1d-cc68-4ce6-b14e-61aa94bcefca": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/37_2cd71e37-5568-4a80-8c41-2c94289e6cfc.png",
+        "image": "shopify:\/\/shop_images\/40_e0b373a6-68b5-48e1-b175-4b779171f6bf.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -115,6 +115,7 @@
         "image": "shopify:\/\/shop_images\/festern.png",
         "layout": "left",
         "subheading": "PARILIO",
+        "location": "{{ collection.metafields.custom.location.value }}",
         "title": "Meet the Interior Designers",
         "text_block": "<p><br\/>The rolling landscape of the Cycladic island of Paros — with its mountainous heaps, pine-fringed coves and white-washed fishing villages — casts a flawless frame around the timeless beauty that is Parīlio. Here, amongst 33 suites, the past, present and to an extent the future are seamlessly merged in a celebration of this fabled Greek escape.<\/p>",
         "page_description": false,
@@ -272,7 +273,7 @@
     "68d33d91-cbd6-48de-bf58-17aae17bb37b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/pigalle_hp.png",
+        "image": "shopify:\/\/shop_images\/38_a13b0b06-2426-4663-ab5b-d3af7fb01795.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
