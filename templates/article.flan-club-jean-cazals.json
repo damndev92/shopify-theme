@@ -99,6 +99,18 @@
         "title": ""
       }
     },
+    "5cae8cd8-dc10-4d18-829a-b681f0c1971d": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "Read about Jean Cazals tips to take better pictures of your interior here!",
+        "title": "",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -120,6 +132,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "3d3064b3-55e0-46fc-8b6c-06a492245d42",
+    "5cae8cd8-dc10-4d18-829a-b681f0c1971d",
     "blog-posts"
   ]
 }
