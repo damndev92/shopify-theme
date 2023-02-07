@@ -44,16 +44,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2021-01-08-at-17.14.06-820x1024.png",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Where do you find your inspiration for interior design?<\/strong><br\/>I read constantly – I prefer books to films, as it frees my mind to imagine the interiors and settings of the places that I’m reading about. Long car and train rides are great, I try to never fall asleep; I’d much rather be looking out the windows. I’m a big believer in intuition. When I first visit a prospective project I try to imagine the finished interior in my mind; rather than consume too much imagery before. That being said, my greatest resource is the archive of auction catalogues that I have. <\/p><p><strong>Who is your interior style icon? <\/strong><br\/>My mom. <\/p><p><strong>What advice would you give to people who want to learn more about interiors? <\/strong><br\/>Read as much as possible.<\/p><p><strong>Describe your philosophy when it comes to decoration?<\/strong><br\/>I’m as interested in furniture as I am in “decorating” – and I try to build a collection of furniture for my clients, as much as decorate their houses. I’m also, much to my clients’ chagrin, not a fan of rushing things. I like rooms that look and feel lived in – that have a sense of history, and a bit of nostalgia; but that don’t feel “period”. I find there’s nothing more banal than spaces that are too proper or perfect. I think ease is the most important quality in a room.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
