@@ -124,6 +124,23 @@
         "button_label": ""
       }
     },
+    "2e1310e4-dd5e-472a-8686-0752c851c5fd": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/thehoteljoutnal-3-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>In what way do you think your travels have influenced your home?<\/strong><\/p><p>Travelling has influenced me greatly, and having the opportunity to learn more about sustainability and craftsmanship through my work has definitely fed into how we live. We’ve been moving around a bit in the last few years, so I’m excited to have a forever-ish home here in London. One of my most prized possessions is my fan collection that is made up of decorative fans from Fiji to Vietnam to Spain. It’s currently in a box somewhere between here and Hong Kong, so I hope it survives! As soon as all those lovely fans go up on the wall, I’ll feel more at home.<\/p><p>On a wider level, my travels have taught me the importance of buying quality. We don’t have a lot in our home, but we invest in the important things (quality linen, a good mattress, reusable beeswax food storage etc.) so that we have them for a long time, and lessen our impact on the environment. I’m also really into buying second-hand when it comes to furniture and appliances.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -160,6 +177,7 @@
     "0320d9d8-aeea-423c-a7bd-4dc6f5012a5f",
     "5a24d3e6-ca06-4d3d-856c-2373fe6ea9c3",
     "bcb97a21-475f-439c-9755-30ee4b8bfefd",
+    "2e1310e4-dd5e-472a-8686-0752c851c5fd",
     "main",
     "blog-posts"
   ]
