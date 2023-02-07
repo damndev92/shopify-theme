@@ -58,8 +58,8 @@
         "title": "{{ collection.title }}",
         "text_block": "",
         "page_description": true,
-        "button_link": "shopify:\/\/pages\/hotel-pacai",
-        "hotel_page_url": false,
+        "button_link": "",
+        "hotel_page_url": true,
         "button_label": "Discover"
       }
     },
