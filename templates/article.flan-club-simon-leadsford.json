@@ -44,16 +44,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/View2-Nihiwatu-Indonesia-CRHotel-1-1024x768.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>If you could stay in one hotel in the world today?<\/strong><br\/>Nihi Sumba.<\/p><p><strong>If you could eat at one restaurant in the world today?<\/strong><br\/>Scotts Mayfair for their grilled lobster.<\/p><p><strong>Favourite address for decoration in London\/ in the world?<\/strong><br\/>Portobello road market. ABC carpet & Home NY<\/p><p><strong>How do you think this pandemic will influence the way we travel?<\/strong><br\/>More meaningful & considered.<\/p><p><strong>A message for people at home?<\/strong><br\/>Stay positive. Try something new. Plan your next adventure.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
