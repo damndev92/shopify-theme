@@ -136,19 +136,19 @@
             "description": ""
           }
         },
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
+        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Cretan_Malia_5.png",
+            "image": "shopify:\/\/shop_images\/Cretan_Malia_7.png",
             "link": "",
             "title": "",
             "description": ""
           }
         },
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
+        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Cretan_Malia_7.png",
+            "image": "shopify:\/\/shop_images\/Cretan_Malia_5.png",
             "link": "",
             "title": "",
             "description": ""
@@ -166,8 +166,8 @@
       },
       "block_order": [
         "4a6acbfc-e3bf-4241-befe-d155af3a0092",
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9",
         "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03",
+        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9",
         "f28e3701-03ba-4ff9-a8f9-912d3945ff62"
       ],
       "settings": {
