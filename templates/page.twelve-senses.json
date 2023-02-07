@@ -3,7 +3,7 @@
     "f5bda6e8-dcdb-4f75-83f7-787ab9571b9e": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_2.png",
+        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_11aba1c0-89b0-4218-907d-96cf47d4378b.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -115,6 +115,7 @@
         "image": "shopify:\/\/shop_images\/Interior_Designers-Hotels.png",
         "layout": "left",
         "subheading": "Twelve Senses",
+        "location": false,
         "title": "Meet the Interior Designers",
         "text_block": "<p><br\/>With interiors by Offset Design & Drafting by Anke Bodack, the luxury minimalism at Twelve Senses makes for warm and welcoming yet uncluttered spaces. The four guestrooms each has its own color scheme based on the four elements, with designers Philippe Starck, Ethnicraft, Lagos del Mundo, and many others showcased. A cozy library boasts two Cappellini felt chairs and a Knoll marble coffee table, while a small pop-up shop offers local crafts and artisanal products.<\/p>",
         "page_description": false,
