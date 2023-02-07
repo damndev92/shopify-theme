@@ -28,6 +28,7 @@
           "type": "navigation_link",
           "settings": {
             "link_url": "shopify:\/\/blogs\/design-inspo",
+            "link_image": "shopify:\/\/shop_images\/Design_Inspo.png",
             "link_text": "Design Inspo"
           }
         },
@@ -35,6 +36,7 @@
           "type": "navigation_link",
           "settings": {
             "link_url": "shopify:\/\/blogs\/destinations",
+            "link_image": "shopify:\/\/shop_images\/Destinations.png",
             "link_text": "Destinations"
           }
         },
