@@ -83,21 +83,36 @@
         "button_label": ""
       }
     },
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
-      "type": "text--image-with-text",
+    "a5297c03-ccac-45bf-a5a4-d2b89a7e78de": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17912024367419__a5297c03-ccac-45bf-a5a4-d2b89a7e78de-1675779576f426f684-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Copy-of-Black-Malawi-Loveseat-2.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Black Bamboo and Rattan Loveseat<\/p><p>From £410<\/p>"
+          }
+        },
+        "template--17912024367419__a5297c03-ccac-45bf-a5a4-d2b89a7e78de-1675779576f426f684-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GC-021-PEGGY-UP-DOWN-TWIN-WALL-LAMP-BLACK-1.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Peggy Black Twin Up & Down Wall Lamp<\/p><p>From £589<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17912024367419__a5297c03-ccac-45bf-a5a4-d2b89a7e78de-1675779576f426f684-0",
+        "template--17912024367419__a5297c03-ccac-45bf-a5a4-d2b89a7e78de-1675779576f426f684-1"
+      ],
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
         "subheading": "",
-        "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
-        "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "hotel_page_url": false,
-        "button_label": "Book Now"
+        "title": ""
       }
     },
     "main": {
@@ -133,7 +148,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "51d3169b-e858-43da-a4da-021cfa7731b4",
     "06ad4da9-a5ec-47a4-8ae2-6007dc542908",
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "a5297c03-ccac-45bf-a5a4-d2b89a7e78de",
     "main",
     "blog-posts"
   ]
