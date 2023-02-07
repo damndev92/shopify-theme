@@ -44,16 +44,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
+        "image": "shopify:\/\/shop_images\/thehoteljoutnal-1024x1024.png",
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><\/p><p><strong>Do you remember your first hotel stay?<\/strong><\/p><p>Hmmm… I guess the first time I fell in love with a hotel was when I was about 10. My brother was a pianist and we used to travel a bit as he gave recitals across the country. We were in Christchurch, New Zealand, and we stayed in this beautifully refurbished B&B. My brother and I each had a four-poster bed in our room, and all the furniture and trimmings were so ornate; I felt like I was in a movie!<\/p><p>The Grand Mansion Hotel<\/p><p>From a work perspective, one of my first reviews was for <a href=\"http:\/\/the-grand-mansion-a-luxury-collection-nanjing-nanjing.hotels-nanjing.com\/en\/\">The Grand Mansion Hotel<\/a> in Nanjing, China. The piece of land that the hotel was built on was won in a gambling game. The man who won it wanted to make sure the site was used in a way that gave back to the local community. As they were excavating, they discovered all these antiquities and lost pieces of art hidden in the earth. They decided to use them across the property, making it feel like this glorious hotel\/museum hybrid. The hotel was designed by I.M. Pei’s son, with interiors by HBA, and it has gorgeous views of the Presidential Palace next door. And the most impressive Presidential Suite I’ve ever seen.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
