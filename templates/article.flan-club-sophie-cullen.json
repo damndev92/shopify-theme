@@ -141,6 +141,23 @@
         "button_label": ""
       }
     },
+    "12cfc817-db95-45c8-b5de-22a79e8eb7bd": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/4-7-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Would it be possible for you to share three of your favourite hotels for design around the world?<\/strong><\/p><p>Absolutely!<\/p><p>The Keemala<\/p><p>So, the first would be <a href=\"https:\/\/www.keemala.com\/\">Keemala<\/a> in Phuket, Thailand. It’s such a special place. The hotel is owned by a Thai family who really wanted to create something unique and eco-friendly, and it sits in the rainforest above Kamala Beach, largely constructed from reclaimed natural materials. The concept is based around five fictional tribes, and I ended up staying in the Tent Pool Villa, where you could hear the rain falling on the canopy above as you lay in bed; it was just magical. The service there was also amazing, and don’t get me started on the food which is mostly grown onsite, it’s so good for vegetarians. They even have a few water buffalos that they’ve rescued roaming around the place.<\/p><p>The St Regis Hong Kong<\/p><p>The <a href=\"https:\/\/www.marriott.com\/hotels\/travel\/hkgxr-the-st-regis-hong-kong\/\">St. Regis Hong Kong<\/a> is a delight, and the design by André Fu is almost like his love letter to the city he grew up in. He pays homage to his backyard through unique motifs and materials and the entire space feels like you’re staying in a mansion, plus the Frette robes are lush. Don’t miss out on trying the Canton Mary at St. Regis Bar, and a visit to Michelin-starred Rùn is a must (they have a Tea Sommelier!)<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -178,6 +195,7 @@
     "5a24d3e6-ca06-4d3d-856c-2373fe6ea9c3",
     "bcb97a21-475f-439c-9755-30ee4b8bfefd",
     "2e1310e4-dd5e-472a-8686-0752c851c5fd",
+    "12cfc817-db95-45c8-b5de-22a79e8eb7bd",
     "main",
     "blog-posts"
   ]
