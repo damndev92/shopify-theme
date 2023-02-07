@@ -15,6 +15,12 @@
         "button_label": ""
       }
     },
+    "3d470d2e-dc91-4f3c-876e-8deacf3dc5b7": {
+      "type": "template--blog-header",
+      "disabled": true,
+      "settings": {
+      }
+    },
     "86c13f5c-2fc8-449d-8260-f997667eac00": {
       "type": "visual-navigation-banner",
       "blocks": {
@@ -75,6 +81,7 @@
   },
   "order": [
     "image-with-text-block",
+    "3d470d2e-dc91-4f3c-876e-8deacf3dc5b7",
     "86c13f5c-2fc8-449d-8260-f997667eac00",
     "main"
   ]
