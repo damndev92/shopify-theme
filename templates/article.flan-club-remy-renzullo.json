@@ -92,25 +92,28 @@
         "template--17911718838587__22ab106c-4662-46c2-807a-bb58d4960e76-16757778976d95fc05-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled-design-50-1024x863.png",
             "link": "",
             "title": "",
-            "description": ""
+            "description": "<p>Red\/Pink Sacred Nile Placemat<\/p><p>£25<\/p>"
           }
         },
         "template--17911718838587__22ab106c-4662-46c2-807a-bb58d4960e76-16757778976d95fc05-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/saucer-redjpg_720x-1.jpg",
             "link": "",
             "title": "",
-            "description": ""
+            "description": "<p>Red Zigzag Bistro Saucer<\/p><p>£19<\/p>"
           }
         },
         "template--17911718838587__22ab106c-4662-46c2-807a-bb58d4960e76-16757778976d95fc05-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/candle-product-pics-5-1024x1024.png",
             "link": "",
             "title": "",
-            "description": ""
+            "description": "<p>La Terre – Elemental Candle Collection<\/p><p>£35<\/p>"
           }
         }
       },
