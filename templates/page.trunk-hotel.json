@@ -28,16 +28,6 @@
         "button_label": ""
       }
     },
-    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Trunk_Hotel.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
-      }
-    },
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
       "type": "image--gallery",
       "blocks": {
@@ -115,6 +105,7 @@
         "image": "shopify:\/\/shop_images\/Untitled_design_1_184de9c7-8830-4c32-a67b-e5c22245e1c6.png",
         "layout": "left",
         "subheading": "Trunk Hotel",
+        "location": false,
         "title": "Meet the Interior Designers",
         "text_block": "<p><br\/>Tokyo's Trunk hotel is housed in two four-storey buildings designed by local firm Mount Fuji Architects Studio, with interiors by Jamo Associates. It features a material palette of recycled wood, grey stone and black metal, and a host of public spaces, such as a restaurant, a bar and a convenience store- all to encourage socialising by both tourists and locals alike.<\/p>",
         "page_description": false,
@@ -377,7 +368,6 @@
     "b8ec66ed-93f6-4c4c-b348-4b2096c72e52",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
-    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
