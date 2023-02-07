@@ -160,6 +160,16 @@
         "show_recent_posts": false
       }
     },
+    "c0bd4e03-df3b-4c04-9b1a-b1c6b4c6c03a": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/20180131-VicarageGate-031-1024x671.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -183,6 +193,7 @@
     "a5297c03-ccac-45bf-a5a4-d2b89a7e78de",
     "f3c643e3-19e1-4c12-b839-df74d9c37c90",
     "main",
+    "c0bd4e03-df3b-4c04-9b1a-b1c6b4c6c03a",
     "blog-posts"
   ]
 }
