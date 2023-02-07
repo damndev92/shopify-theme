@@ -85,12 +85,27 @@
         "show_blog_tags": false,
         "show_recent_posts": false
       }
+    },
+    "175d16b8-8f1f-4a9a-8422-7302b25d0f4b": {
+      "type": "blog--blog-posts",
+      "disabled": true,
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "From the blog",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
     }
   },
   "order": [
     "image-with-text-block",
     "3d470d2e-dc91-4f3c-876e-8deacf3dc5b7",
     "86c13f5c-2fc8-449d-8260-f997667eac00",
-    "main"
+    "main",
+    "175d16b8-8f1f-4a9a-8422-7302b25d0f4b"
   ]
 }
