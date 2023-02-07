@@ -90,6 +90,23 @@
         "button_label": ""
       }
     },
+    "5a24d3e6-ca06-4d3d-856c-2373fe6ea9c3": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/3-6-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>I want to travel more sustainably. What should I look for when booking a hotel?<\/strong><\/p><p>The biggest thing you need to do is research. Many hotels like to throw around terms like ‘sustainability, ‘green’, and ‘eco-friendly’, but if you can’t find much information about what they’re actually doing on their website, then I’d steer clear.<\/p><p>That being said, there’s been a huge growth in properties that are very transparent in their practices and they’re the types of places you need to go. The likes of <a href=\"https:\/\/www.bawahreserve.com\/\">Bawah Reserve<\/a> in Bali, <a href=\"https:\/\/fogoislandinn.ca\/\">Fogo Island Inn<\/a> in Canada, and <a href=\"https:\/\/www.songsaa-privateisland.com\/\">Song Saa<\/a> in Cambodia really get it right with their holistic approaches to sustainability.<\/p><p>Unfortunately, there’s often a financial barrier to staying in properties like these, so on a more universal level, small things like taking your own toothbrush, choosing properties with in-house water filtration systems, opting for plant-based cuisine, requesting that your linens and towels aren’t laundered every day, taking the train instead of a plane, and choosing flights where you can off-set your carbon emissions, are all little things that can help make a difference.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -124,6 +141,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "72ca2be9-dc6e-4d66-a72a-187f9dcbac82",
     "0320d9d8-aeea-423c-a7bd-4dc6f5012a5f",
+    "5a24d3e6-ca06-4d3d-856c-2373fe6ea9c3",
     "main",
     "blog-posts"
   ]
