@@ -270,6 +270,16 @@
         "button__text": ""
       }
     },
+    "1507e4d0-fdc4-4482-8fa3-16265c3d5b80": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hotelito_by_Musa_3.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
+      }
+    },
     "9299a3ef-12a1-48f6-abe6-a54f93478d0b": {
       "type": "image--gallery",
       "blocks": {
@@ -407,6 +417,7 @@
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
+    "1507e4d0-fdc4-4482-8fa3-16265c3d5b80",
     "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
