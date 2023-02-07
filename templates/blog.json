@@ -52,6 +52,7 @@
           "type": "navigation_link",
           "settings": {
             "link_url": "shopify:\/\/blogs\/how-to",
+            "link_image": "shopify:\/\/shop_images\/How_to.png",
             "link_text": "How to"
           }
         },
@@ -59,6 +60,7 @@
           "type": "navigation_link",
           "settings": {
             "link_url": "shopify:\/\/blogs\/the-flaneurs",
+            "link_image": "shopify:\/\/shop_images\/The_Flaneurs.png",
             "link_text": "The Flâneurs"
           }
         },
