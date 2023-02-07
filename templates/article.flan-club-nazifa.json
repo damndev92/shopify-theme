@@ -81,23 +81,6 @@
         "text-over-image-width": "full-width"
       }
     },
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
-        "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "hotel_page_url": false,
-        "button_label": "Book Now"
-      }
-    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -131,7 +114,6 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "3512a28f-8294-4ade-9b3b-e7307dc54144",
     "f1e6b6a3-1c77-40c4-b6fb-fb50a12a3fe3",
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "blog-posts"
   ]
