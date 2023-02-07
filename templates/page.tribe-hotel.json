@@ -243,15 +243,6 @@
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e": {
       "type": "image--gallery",
       "blocks": {
-        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Tribe_Superior_King.png",
-            "link": "https:\/\/be.synxis.com\/?adult=1&arrive=2023-02-07&chain=5154&child=0&config=Tribe_SBE&currency=USD&depart=2023-02-08&hotel=55658&level=hotel&locale=en-US&rooms=1&theme=Tribe_SBE_V2",
-            "title": "superior king room",
-            "description": "<p>- 30 sqm (320 sqft)<br\/>- Superior King rooms feature a walk-in rain shower<br\/>- Luxury linens<br\/>- King bed<br\/>- A sofa<br\/>- Some superior rooms feature an oversize bath tub<br\/>- All rooms offer original artwork and Organic Savanna amenities<\/p>"
-          }
-        },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
@@ -259,6 +250,15 @@
             "link": "https:\/\/be.synxis.com\/?adult=1&arrive=2023-02-07&chain=5154&child=0&config=Tribe_SBE&currency=USD&depart=2023-02-08&hotel=55658&level=hotel&locale=en-US&rooms=1&theme=Tribe_SBE_V2",
             "title": "superior twin room",
             "description": "<p>- 30 sqm (320 sqft)<\/p><p>- Twin beds<\/p><p>- Superior Twin rooms feature a walk-in rain shower<\/p><p>- Luxury linens<\/p><p>- Two single beds & a sofa<\/p>"
+          }
+        },
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tribe_Superior_King.png",
+            "link": "https:\/\/be.synxis.com\/?adult=1&arrive=2023-02-07&chain=5154&child=0&config=Tribe_SBE&currency=USD&depart=2023-02-08&hotel=55658&level=hotel&locale=en-US&rooms=1&theme=Tribe_SBE_V2",
+            "title": "superior king room",
+            "description": "<p>- 30 sqm (320 sqft)<br\/>- Superior King rooms feature a walk-in rain shower<br\/>- Luxury linens<br\/>- King bed<br\/>- A sofa<br\/>- Some superior rooms feature an oversize bath tub<br\/>- All rooms offer original artwork and Organic Savanna amenities<\/p>"
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0": {
@@ -272,8 +272,8 @@
         }
       },
       "block_order": [
-        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2",
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1",
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2",
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0"
       ],
       "settings": {
