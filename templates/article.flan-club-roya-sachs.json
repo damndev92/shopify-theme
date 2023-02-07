@@ -39,23 +39,6 @@
         "button_label": ""
       }
     },
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
-        "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "hotel_page_url": false,
-        "button_label": "Book Now"
-      }
-    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -67,6 +50,18 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
+      }
+    },
+    "1e130f9d-4191-4d50-b24b-730902073615": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "Roya’s selection:",
+        "text": "<p><a href=\"https:\/\/www.maisonflaneur.com\/shop\/\"><strong>Discover Maison Flaneur’s full collection here. <\/strong><\/a><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/flan-club-alexandra-van-houtte\/\"><strong>Read more Flân’ Club interviews here. <\/strong><\/a><\/p>",
+        "button_link": "",
+        "button_label": ""
       }
     },
     "blog-posts": {
@@ -87,8 +82,8 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "1e130f9d-4191-4d50-b24b-730902073615",
     "blog-posts"
   ]
 }
