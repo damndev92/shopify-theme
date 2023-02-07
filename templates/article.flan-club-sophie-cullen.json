@@ -158,6 +158,23 @@
         "button_label": ""
       }
     },
+    "468b1f6f-87c8-4913-9aa0-301fed025331": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/thehoteljoutnal-2-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Bongeunsa Temple<\/p><p>Not so much a hotel, but an amazing experience, <a href=\"http:\/\/temple.bongeunsa.org\/public_html\/index.asp?\">Bongeunsa Temple<\/a> in Seoul offers overnight stays that are phenomenal. When I used to live in South Korea, I’d try to visit once a year. It’s really grounding to live that ascetic lifestyle (if only for a weekend). During your stay, you learn more about the temple and the part it played in the revival of Buddhism in the country; you even learn the Cham-Seon style of meditation. During your stay, you eat traditional temple food which is plant-based and earthy, and you even get to chat with the monks who are so welcoming. The early-morning rituals are one of the highlights, especially as the complex is surrounded by forest; it’s unforgettable.<\/p><p><strong>Any wishes for 2022?<\/strong><\/p><p>I really hope that we can lower the number of human lives lost through COVID. I also hope that the world starts to open up again so that those of us separated from our families can connect in real life again.<\/p><p>On a more personal level, I hope to visit my friends in Portugal who are in the middle of transforming their property into glorious accommodations, and I’m hoping my friend and I can finally finish our novel.<\/p><p> <\/p><p> <\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/shop\/just-in\/\">Discover more on Maison Flâneur. <\/a><\/p><p><\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -196,6 +213,7 @@
     "bcb97a21-475f-439c-9755-30ee4b8bfefd",
     "2e1310e4-dd5e-472a-8686-0752c851c5fd",
     "12cfc817-db95-45c8-b5de-22a79e8eb7bd",
+    "468b1f6f-87c8-4913-9aa0-301fed025331",
     "main",
     "blog-posts"
   ]
