@@ -56,6 +56,23 @@
         "button_label": ""
       }
     },
+    "a1c7b785-dd31-4a99-818b-8f439686d962": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/IMG_4008-1024x1004.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What’s the recipe for a perfect dinner?<\/strong><\/p><p>Good food and good people 🙂<\/p><p><strong>What’s the key to setting the perfect dinner table? <\/strong><\/p><p>I love dressing a table with the simplest things: old linen table cloth, vintage dinnerware, candles and flowers. The food served on the table. I like to make it feel like you are on a summer holiday somewhere near the Mediterranean Sea.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -88,6 +105,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "a1c7b785-dd31-4a99-818b-8f439686d962",
     "main",
     "blog-posts"
   ]
