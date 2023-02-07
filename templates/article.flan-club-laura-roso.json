@@ -56,6 +56,23 @@
         "button_label": ""
       }
     },
+    "72208dd3-630e-4393-9ff3-53a3de35551c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2020-10-30-at-10.29.06-969x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How would you describe your style in interiors? <\/strong><\/p><p>Eclectic and warm. I am a serious advocate of creating comfortable and warm places for my family to feel secured and love.<\/p><p><strong>How did having your son Albert influenced your interior? <\/strong><\/p><p>A lot, first of all, because I read a lot about Montessori, and we followed some of the strong value of that method for him, and his well being.So you can find in our home lots of wooden mini every day necessary items for Albert –<\/p><p><strong>Your favourite object at home?   <\/strong><\/p><p>Do I really need to choose? We know Pisces are terrible at making decisions.A dandelion paper press and my Hans Wegner chair<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -88,6 +105,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "72208dd3-630e-4393-9ff3-53a3de35551c",
     "main",
     "blog-posts"
   ]
