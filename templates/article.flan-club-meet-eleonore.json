@@ -90,6 +90,23 @@
         "button_label": ""
       }
     },
+    "524d8c4b-e6e2-431f-98f8-622a8f9ff191": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/IMG_4002-1024x1012.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Favourite chef? <\/strong><\/p><p>Thomas Keller<\/p><p><strong>Favourite address for decoration in LA\/Paris\/ in the world?<\/strong><\/p><p>Any flea market<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -124,6 +141,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "a1c7b785-dd31-4a99-818b-8f439686d962",
     "d9f071b7-2dd2-4ca3-a47b-3fdabf656faa",
+    "524d8c4b-e6e2-431f-98f8-622a8f9ff191",
     "main",
     "blog-posts"
   ]
