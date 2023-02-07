@@ -22,6 +22,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
+        "page_title": "",
         "title": "Villa Lena",
         "text": "<p><br\/>Villa Lena cultivates both nature and culture, exemplifying a new way of living and holiday experience. The Villa Lena estate is located in the Province of Pisa, secluded amongst 500 hectares of woodland, vineyards, olive groves and organic vegetable gardens. A 19th-century villa sits at the heart of the property, originally built for an Italian aristocratic family. It now houses the Villa Lena Foundation and artist-in-residence programme. Surrounding the villa, converted historic agricultural buildings—former farmhouses, stables and hunting lodges—house self-contained guest apartments and shared facilities.<\/p>",
         "button_link": "",
@@ -45,7 +46,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Shop_the_Look-Hotels_c04b2307-0f55-4fc9-b5f4-60921a059c56.png",
-            "link": "shopify:\/\/products\/parentesi-suspension-lamp",
+            "link": "",
             "title": "",
             "description": ""
           }
@@ -115,6 +116,7 @@
         "image": "shopify:\/\/shop_images\/Untitled_design_11.png",
         "layout": "left",
         "subheading": "Villa Lena",
+        "location": false,
         "title": "Meet the Interior Designers",
         "text_block": "<p><br\/>During the 19th and early 20th-century Villa Lena was the home of an aristocratic Italian family, but in 2013 it re-opened as a hotel with For Villa Lena, architecture firm Hesselbrand designing and creating a series of rustic guest suites.<\/p>",
         "page_description": false,
@@ -218,7 +220,7 @@
         "stl__heading": "Heading",
         "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
         "description__position": "hidden",
-        "link": "shopify:\/\/collections\/le-pigalle",
+        "link": "",
         "button__text": "Shop the look"
       }
     },
@@ -285,6 +287,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "The rooms",
+        "page_title": "",
         "title": "Take A Peek Inside",
         "text": "<p>Double rooms in the San Michele building are Seventies in style – think pastel pinks and blues, raffia chairs and desks, pendant lamps and terrazzo-tiled bathrooms. If you book into the Fattoria building expect austere apartments (some sleep up to four), with stylish features such as mismatched chairs, brick flooring, working fireplaces, kitchenettes and featured art.<\/p>",
         "button_link": "",
