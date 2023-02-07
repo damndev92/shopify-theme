@@ -112,13 +112,15 @@
       "settings": {
         "colors": "white",
         "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/festern.png",
+        "image": "shopify:\/\/shop_images\/Interior_Designers-Hotels_1.png",
         "layout": "left",
         "subheading": "Jnane Tamsna",
+        "location": false,
         "title": "Meet the Interior Designers",
         "text_block": "<p><\/p><p><br\/>Luxe meets Moroccan style in Jnane Tamsna, a boutique hotel with 24 rooms and private villas in Marrakech. Designed by renowned Meryanne Loum-Martin, with a serene garden by Gary Martin, there’s a Boho style to the colourful walls, hand-crafted textiles, and tiled furnishings by local artisans. An ethnic retreat in the heart of a vibrant capital city.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": "Learn More"
       }
     },
