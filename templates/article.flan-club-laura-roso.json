@@ -86,6 +86,28 @@
         "show_recent_posts": false
       }
     },
+    "2b33dc93-cc18-4988-9472-227fa251c697": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17910268756283__2b33dc93-cc18-4988-9472-227fa251c697-1675766470c68fe722-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MF_DO_AmourGlasses_Silo-1_7368ab50-0fe2-440b-a591-25dafb227043.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17910268756283__2b33dc93-cc18-4988-9472-227fa251c697-1675766470c68fe722-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Laura's Selection"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -107,6 +129,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "72208dd3-630e-4393-9ff3-53a3de35551c",
     "main",
+    "2b33dc93-cc18-4988-9472-227fa251c697",
     "blog-posts"
   ]
 }
