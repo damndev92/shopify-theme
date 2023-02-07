@@ -107,6 +107,23 @@
         "button_label": ""
       }
     },
+    "bcb97a21-475f-439c-9755-30ee4b8bfefd": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/1-6-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Have you ever wanted to bring an object from a Hotel back to your home? If so, which one?<\/strong><\/p><p>So often! Just a few weeks ago at <a href=\"https:\/\/www.thesavoylondon.com\/\">The Savoy<\/a>, we took home the Savoy Steam Penhaligon’s toiletries so we could pretend we were still there.<\/p><p>In terms of decor, <a href=\"https:\/\/www.artus.com.hk\/\">K11 Artus<\/a> in Hong Kong has the most divine collection of antiques, art, and ephemera. I really wanted to swipe the special edition Guangcai plate that was in our suite when we stayed, but thought better of it. Guangzhou Zhijin Porcelain (or Guangcai) was popular during the Ming Dynasty, and in the 18th century Guangzhou really became the heart of pottery and ceramic production in China. Nowadays though, there are only a few masters left in Guangzhou and Hong Kong who have the technique to produce the traditional crafts, so it’s great that <a href=\"https:\/\/www.k11craftandguild.org\/\">K11 Craft & Guild Foundation<\/a> are keeping these disappearing artforms alive.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -142,6 +159,7 @@
     "72ca2be9-dc6e-4d66-a72a-187f9dcbac82",
     "0320d9d8-aeea-423c-a7bd-4dc6f5012a5f",
     "5a24d3e6-ca06-4d3d-856c-2373fe6ea9c3",
+    "bcb97a21-475f-439c-9755-30ee4b8bfefd",
     "main",
     "blog-posts"
   ]
