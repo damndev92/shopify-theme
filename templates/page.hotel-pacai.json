@@ -22,6 +22,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
+        "page_title": "",
         "title": "Hotel Pacai",
         "text": "<p>With the majority of the mansion dating back centuries, the goal was to keep the history visible in a direct way. Thus, all the existing frescoes and unique textures of the walls are emphasized through lighting, while the main features of the hotel strive for elegance and classical purity, both through materials and details.<\/p>",
         "button_link": "",
@@ -105,10 +106,12 @@
         "image": "shopify:\/\/shop_images\/interior_designers.png",
         "layout": "left",
         "subheading": "Hotel Pacai",
+        "location": false,
         "title": "Meet the Interior Designers",
         "text_block": "<p><br\/>Set in the heart of Vilnius’ Old Town—Yes Design Studio envisaged Hotel PACAI to perfectly echo this quarter’s 17th-century Baroque grandeur, yet augmenting it with a contemporary twist.<br\/><br\/><\/p><p>Post-Froma design’s architectural triumph in transforming the 17th Century residence of famed Lithuanian army commander Mykolas Kazimieras Pacas, the interior design firm YES designed interiors celebrating this History but blending it with a sense of Modern living.<br\/><br\/><\/p><p>As the majority of spaces dated back to the end of the XVIII century, YES aimed to keep the history visible in a very direct way whilst reimagining historical items and recasting them into the present. This included a mystical staircase with exposed old walls and rooms with authentic frescoes.<br\/><br\/><\/p><p>To create a focus on harmony and a cozy artistic atmosphere, soft deep tones were used to dominate the hotel’s public areas, smooth lighting used to compliment artistic elements such as the art and frescoes and pure and natural materials were used to reflect the colour tones of the Baltics.<\/p>",
         "page_description": false,
         "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
+        "hotel_page_url": false,
         "button_label": "Learn More"
       }
     },
@@ -207,7 +210,7 @@
         "stl__heading": "Heading",
         "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
         "description__position": "hidden",
-        "link": "shopify:\/\/collections\/le-pigalle",
+        "link": "",
         "button__text": "Shop the look"
       }
     },
@@ -249,6 +252,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "The rooms",
+        "page_title": "",
         "title": "Take A Peek Inside",
         "text": "<p>Experience a completely unique stay at the Hotel Pacai, where historic 17th Century rooms get a thoroughly modern make-over.<\/p>",
         "button_link": "",
