@@ -26,14 +26,16 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/Screenshot_2023-02-01_at_08.15.29.png",
         "layout": "left",
         "subheading": "",
+        "location": false,
         "title": "",
         "text_block": "<p><strong>What to expect at the Americano?<\/strong><\/p><p><\/p><p>Surrounded by art, cutting-edge architecture and nightlife, stands <a href=\"https:\/\/www.maisonflaneur.com\/venue\/hotel-americano\/\">the Hotel Americano<\/a>, a boutique West Chelsea hotel that’s inspired by all three of these worlds. Steps away from some of the world’s best galleries, the 56-room property reflects the neighborhood’s creative sensibility with its modern design and international appeal. Guests from around the world flock to West 27th street where the old New York meets the new New York — a place where industrial grit and minimalist luxury coexist.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -41,14 +43,16 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/Screenshot_2023-02-01_at_08.18.14.png",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "",
         "text_block": "<p><strong>Who should stay at the Americano?<\/strong><\/p><p>Hôtel Americano is a vibrant destination you’ll want to visit whether you’re a hotel guest or not. Enjoy a quiet morning with a coffee and a stroll on the nearby High Line. Schedule a lunch meeting at The Americano, an airy restaurant with soaring ceilings that serves French cuisine with a Latin American flair. Or get cocktails at Hotel Americano Rooftop, the rooftop bar with a pool beckoning for a quick dip. <\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -142,40 +146,6 @@
         "text_box_width": 50
       }
     },
-    "5804f8a0-e6f8-4088-be71-d83058893ff9": {
-      "type": "collection--featured-collection",
-      "blocks": {
-        "template--17826499494203__5804f8a0-e6f8-4088-be71-d83058893ff9-16751856586f2afa8c-0": {
-          "type": "grid-card-title",
-          "settings": {
-          }
-        },
-        "template--17826499494203__5804f8a0-e6f8-4088-be71-d83058893ff9-16751856586f2afa8c-1": {
-          "type": "grid-card-price",
-          "settings": {
-          }
-        },
-        "template--17826499494203__5804f8a0-e6f8-4088-be71-d83058893ff9-16751856586f2afa8c-2": {
-          "type": "grid-card-swatches",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--17826499494203__5804f8a0-e6f8-4088-be71-d83058893ff9-16751856586f2afa8c-0",
-        "template--17826499494203__5804f8a0-e6f8-4088-be71-d83058893ff9-16751856586f2afa8c-1",
-        "template--17826499494203__5804f8a0-e6f8-4088-be71-d83058893ff9-16751856586f2afa8c-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "Subheading",
-        "title": "Featured collection",
-        "collection": "hotel-pacai",
-        "grid": 4,
-        "rows": 1,
-        "show_view_all": false
-      }
-    },
     "f54e8080-2513-4bde-aced-6ba997cad3ad": {
       "type": "maison-image-with-text-block",
       "settings": {
@@ -212,7 +182,6 @@
     "77e8486b-7c59-4fb8-81a6-0396e5cdb474",
     "main",
     "7a614d28-0462-45ae-bf49-97b256097ecf",
-    "5804f8a0-e6f8-4088-be71-d83058893ff9",
     "f54e8080-2513-4bde-aced-6ba997cad3ad",
     "blog-posts"
   ]
