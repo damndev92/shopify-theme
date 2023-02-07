@@ -71,6 +71,16 @@
         "title": ""
       }
     },
+    "f1e6b6a3-1c77-40c4-b6fb-fb50a12a3fe3": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3042330_downstairsfw16-1024x682.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -120,6 +130,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "3512a28f-8294-4ade-9b3b-e7307dc54144",
+    "f1e6b6a3-1c77-40c4-b6fb-fb50a12a3fe3",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "blog-posts"
