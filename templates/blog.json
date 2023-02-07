@@ -44,6 +44,7 @@
           "type": "navigation_link",
           "settings": {
             "link_url": "shopify:\/\/blogs\/edits",
+            "link_image": "shopify:\/\/shop_images\/Edits.png",
             "link_text": "Edits"
           }
         },
