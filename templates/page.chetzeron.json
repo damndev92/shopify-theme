@@ -22,6 +22,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
+        "page_title": "",
         "title": "Chetzeron",
         "text": "<p><br\/>Perched at 2112m above sea level, discover a stylish hotel with a pure design where alpine simplicity mingles with an authentic and warm welcome. Above the ski resort of Crans-Montana and facing the highest peaks of the Alps, a stay at Chetzeron lets you admire breathtaking landscapes which change with the seasons.<\/p>",
         "button_link": "",
@@ -202,14 +203,14 @@
       "settings": {
         "colors": "white",
         "subheading": "Le Pigalle",
-        "title": "Shop the look",
+        "title": "Chetzeron",
         "image": "shopify:\/\/shop_images\/chetzeron_animal.png",
         "image__position": "image--left",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
         "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
         "description__position": "hidden",
-        "link": "shopify:\/\/collections\/le-pigalle",
+        "link": "",
         "button__text": "Shop the look"
       }
     },
@@ -298,6 +299,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "The rooms",
+        "page_title": "",
         "title": "Take A Peek Inside",
         "text": "<p><br\/>Sublime Alpine views from the comfort of your bed. Reflecting the feng shui endeavours of the monks who were called to reflect on the creation of Chetzeron, all rooms have sublime views of the neighbouring alpine summits.<\/p>",
         "button_link": "",

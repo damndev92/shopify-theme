@@ -22,6 +22,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
+        "page_title": "",
         "title": "Story Hotel",
         "text": "<p><br\/>The Story Hotel Stockholm is an urban haven where stunningly coiffed Stockholmers and trendy travellers converge normally over cocktails inside the bustling lobby bar which has been inspired by the interiors of Parisian salons and dark, moody jazz bars.<\/p>",
         "button_link": "",
@@ -115,6 +116,7 @@
         "image": "shopify:\/\/shop_images\/festern.png",
         "layout": "left",
         "subheading": "Story Hotel",
+        "location": false,
         "title": "Meet the Interior Designers",
         "text_block": "<p><br\/>Story Hotel is a new hotel concept in Stockholm by Swedish architects Koncept. The hotel is a conversion of an existing building, which has been stripped back to a bare shell of raw concrete walls. Rooms were converted from former apartments, its reception was once a barber shop and the Ling Long restaurant a garage. Raw concrete walls and lots of velvet and cool illustrations cover the walls, adding a cosy and warm feel. The interior is decorated with a mixture of vintage and contemporary furniture and the original doors from the building have been reused as headboards for the beds.<\/p>",
         "page_description": false,
@@ -210,7 +212,7 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Le Pigalle",
+        "subheading": "Story",
         "title": "Shop the look",
         "image": "shopify:\/\/shop_images\/Shop_the_Look-Hotels.png",
         "image__position": "image--left",
@@ -218,7 +220,7 @@
         "stl__heading": "Heading",
         "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
         "description__position": "hidden",
-        "link": "shopify:\/\/collections\/le-pigalle",
+        "link": "",
         "button__text": "Shop the look"
       }
     },
@@ -285,6 +287,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "The rooms",
+        "page_title": "",
         "title": "Take A Peek Inside",
         "text": "<p><br\/>At Story Hotel, rooms were converted from former apartments, and include everything from singles to The Bathroom with glass walls and to the spacious Attic Suite. Its Lily Dam Suite was named after the last tenant to vacate her apartment before the renovation and her former door was transformed into the bed’s headboard.<\/p>",
         "button_link": "",

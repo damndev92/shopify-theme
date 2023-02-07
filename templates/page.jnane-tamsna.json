@@ -22,6 +22,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
+        "page_title": "",
         "title": "Jnane Tamsna",
         "text": "<p><br\/>Jnane Tamsna is a family-friendly hotel that benefits from a wonderful sense of space and light. A walk from bedroom to reception is likely to pass pools, covered pathways, and a discreetly located tennis court. It’s an extremely photogenic location, and as you walk around it’s easy to imagine yourself posed artfully in some shot accompanying an article entitled ‘The Wonder of Marrakech’.<br\/><\/p>",
         "button_link": "",
@@ -219,7 +220,7 @@
         "stl__heading": "Heading",
         "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
         "description__position": "hidden",
-        "link": "shopify:\/\/collections\/le-pigalle",
+        "link": "",
         "button__text": "Shop the look"
       }
     },
@@ -286,6 +287,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "The rooms",
+        "page_title": "",
         "title": "Take A Peek Inside",
         "text": "<p><br\/>Attracting a Boho crowd of artists and writers, Jnane Tamsna is designed in a luxe ethnic style and rooms have elegant garden and roof terrace access. The Suites and Villas come with fireplaces, verandas and modern Moroccan-style decor.<\/p>",
         "button_link": "",

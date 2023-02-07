@@ -22,6 +22,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
+        "page_title": "",
         "title": "Parīlio",
         "text": "<p><br\/>The rolling landscape of the Cycladic island of Paros — with its mountainous heaps, pine-fringed coves and white-washed fishing villages — casts a flawless frame around the timeless beauty that is Parīlio. Here, amongst 33 suites, the past, present and to an extent the future are seamlessly merged in a celebration of this fabled Greek escape.<\/p>",
         "button_link": "",
@@ -115,7 +116,7 @@
         "image": "shopify:\/\/shop_images\/festern.png",
         "layout": "left",
         "subheading": "PARĪLIO",
-        "location": "{{ collection.metafields.custom.location.value }}",
+        "location": false,
         "title": "Meet the Interior Designers",
         "text_block": "<p><br\/>The rolling landscape of the Cycladic island of Paros — with its mountainous heaps, pine-fringed coves and white-washed fishing villages — casts a flawless frame around the timeless beauty that is Parīlio. Here, amongst 33 suites, the past, present and to an extent the future are seamlessly merged in a celebration of this fabled Greek escape.<\/p>",
         "page_description": false,
@@ -219,7 +220,7 @@
         "stl__heading": "Heading",
         "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
         "description__position": "hidden",
-        "link": "shopify:\/\/collections\/le-pigalle",
+        "link": "",
         "button__text": "Shop the look"
       }
     },
@@ -286,6 +287,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "The rooms",
+        "page_title": "",
         "title": "Take A Peek Inside",
         "text": "<p><br\/>Parīlio's Rooms are inspired by literal Parilios (parelion): Bright, sunlike optical illusions, often on a luminous ring or halo.<\/p><p>Characterised by Paros’ distinctive architecture and vibe, the hotel’s 33 Suites are defined by a soothing, tonal colour palette and natural materials.<\/p>",
         "button_link": "",
