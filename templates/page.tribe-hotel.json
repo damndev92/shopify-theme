@@ -184,7 +184,7 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Le Pigalle",
+        "subheading": "tribe",
         "title": "Shop the look",
         "image": "shopify:\/\/shop_images\/52.png",
         "image__position": "image--left",
@@ -192,7 +192,7 @@
         "stl__heading": "Heading",
         "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
         "description__position": "hidden",
-        "link": "shopify:\/\/collections\/le-pigalle",
+        "link": "",
         "button__text": "Shop the look"
       }
     },

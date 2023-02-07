@@ -68,6 +68,7 @@
           "type": "navigation_link",
           "settings": {
             "link_url": "shopify:\/\/blogs\/travel-guide",
+            "link_image": "shopify:\/\/shop_images\/Travel_guide.png",
             "link_text": "Travel Guide"
           }
         }
