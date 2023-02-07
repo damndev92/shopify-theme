@@ -86,6 +86,45 @@
         "show_recent_posts": false
       }
     },
+    "22ab106c-4662-46c2-807a-bb58d4960e76": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17911718838587__22ab106c-4662-46c2-807a-bb58d4960e76-16757778976d95fc05-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17911718838587__22ab106c-4662-46c2-807a-bb58d4960e76-16757778976d95fc05-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17911718838587__22ab106c-4662-46c2-807a-bb58d4960e76-16757778976d95fc05-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17911718838587__22ab106c-4662-46c2-807a-bb58d4960e76-16757778976d95fc05-0",
+        "template--17911718838587__22ab106c-4662-46c2-807a-bb58d4960e76-16757778976d95fc05-1",
+        "template--17911718838587__22ab106c-4662-46c2-807a-bb58d4960e76-16757778976d95fc05-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Shop the Look"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -107,6 +146,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "402b01ae-4a35-4619-a679-98446401fe7c",
     "main",
+    "22ab106c-4662-46c2-807a-bb58d4960e76",
     "blog-posts"
   ]
 }
