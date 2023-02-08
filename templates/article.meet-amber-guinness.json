@@ -130,6 +130,23 @@
         "colors": "white",
         "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/SittingRoom-805x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Who would your ideal guest at Arniano be?<\/strong><\/p><p>He has been to stay before with my mum for Christmas, but Nicky Haslam would be a fabulous addition to one of our courses. He has that rare combination of high and low – intellect with gossip. <\/p><p><strong>What is your favourite hotel in Italy and in the UK?<\/strong><\/p><p>My dream place to visit in Italy is The Principe di Salina on island of Salina, off Sicily’s northern coast. The island is part of the Aeolians, and is known as the ‘Green one’ for its lush wildflower-strewn mountains that lead down to a crystal clear sea. The hotel has 12 bedrooms, and overlooks Stromboli and Panarea. There is nothing nicer than sitting on your private terrace, Martini in hand, watching Stromboli gently erupt in the twilight. <\/p><p>In London, I love the Laslett off Noting Hill Gate. The rooms are chic and comfortable and the bar is lovely. I am also addicted to baths so appreciate that they have big bathtubs.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "a6bfceff-5aeb-48ef-a88c-ca371e36ce04": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/SittingRoom-805x1024.jpg",
         "layout": "left",
         "subheading": "",
         "location": false,
@@ -166,6 +183,7 @@
     "main",
     "dbcda042-6ac4-4c33-86ea-96d95408dfde",
     "49a0fd16-1b50-4e83-b8b1-5a4078a86849",
+    "a6bfceff-5aeb-48ef-a88c-ca371e36ce04",
     "blog-posts"
   ]
 }
