@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "01a02ec6-9414-4231-b86e-c3884f00d7d7": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/31-768x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>On your website, you mention you are committed to promote real people and inaccessible places. How would you define real people and inaccessible places?<\/strong><\/p><p>By real people, we mean <em>local Italians<\/em> – full of soul, talent and character. Italy has beautiful landscapes but it’s the people who made it an exceptional country. They’re the foundation of Italian excellence.<br\/>Some of our partners include the proud owner of a boutique winery in Tuscany with a passion for astronomy and architecture – each wine is dedicated to a constellation and the tasting takes place into a converted chapel. Or a Venetian Countess who will host you for tea in her 16th-century palazzo overlooking the Grand Canal in Venice, surrounded by works of art she has collected during her trips around the world. Or a writer who converted an ancient stone quarry into a cozy “nest” overlooking Lake Como where you can enjoy dining al fresco while learning about legends of the famous lake.<br\/>By inaccessible places, we mean <em>unique places<\/em> that you would not necessarily be able to find on a travel guide. Places that are off-the-beaten-path, so they haven’t lost their local flair. Places that aren’t overcrowded because people don’t know about them and places that aren’t normally open to the public.<br\/>Inaccessible places can be the private island you can only reach by helicopter, or an offshore villa accessible exclusively by private boat. “Inaccessible” doesn’t necessarily mean difficult to access physically or cost-prohibitive – it could even be a hidden corner or neighborhood that only locals know about or a place you can only access thanks to our relationships on the ground.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "01a02ec6-9414-4231-b86e-c3884f00d7d7",
     "main",
     "blog-posts"
   ]
