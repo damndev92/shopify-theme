@@ -89,72 +89,12 @@
         "button__text": "Shop the look"
       }
     },
-    "a2d49766-849a-4f73-a87d-ba2498a5e1d7": {
-      "type": "product--shop-the-look",
-      "blocks": {
-        "1ade018e-ba40-438a-b245-fb2add94d20c": {
-          "type": "product",
-          "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": true
-          }
-        },
-        "517bf13f-4587-410b-9936-ec1c633fb40a": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": true
-          }
-        },
-        "c7a1d13b-34b7-482c-a60b-86062ad97463": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": true
-          }
-        },
-        "8a21686a-7203-4aa6-b294-22f0b03e4720": {
-          "type": "product",
-          "settings": {
-            "product": "duck-feather-cushion-inner-1",
-            "top": 0,
-            "left": 0,
-            "disable_spot": true
-          }
-        }
-      },
-      "block_order": [
-        "1ade018e-ba40-438a-b245-fb2add94d20c",
-        "517bf13f-4587-410b-9936-ec1c633fb40a",
-        "c7a1d13b-34b7-482c-a60b-86062ad97463",
-        "8a21686a-7203-4aa6-b294-22f0b03e4720"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "",
-        "image": "shopify:\/\/shop_images\/3_f221a499-5514-4db4-a012-87e5017a950e.png",
-        "image__position": "image--right",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": "Shop the look"
-      }
-    },
     "fc207bbe-372a-410a-9fd6-efb127b006be": {
       "type": "maison--btn",
       "settings": {
-        "btn": "DISCOVER MORE",
+        "btn": "Discover",
         "url": "",
-        "bg_color": "#e28065",
+        "bg_color": "#656565",
         "padding_top": 15,
         "padding_bottom": 20
       }
@@ -292,7 +232,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "accent",
-        "image-width": "small",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/interior_designers.png",
         "layout": "right",
         "subheading": "",
@@ -409,7 +349,6 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "5988eaab-4539-4c15-8296-624e8fa52534",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
-    "a2d49766-849a-4f73-a87d-ba2498a5e1d7",
     "fc207bbe-372a-410a-9fd6-efb127b006be",
     "156bf7fb-b013-4b82-85d8-444bfc130794",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
