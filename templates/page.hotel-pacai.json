@@ -226,7 +226,7 @@
     "91fe7917-0097-4538-aa1f-d9eb40f6d18d": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/image1-e1589815725326-768x1024.jpg",
+        "image": "shopify:\/\/shop_images\/09-cretanmalia-cooking-1024x576.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -401,6 +401,21 @@
         "subheading": "",
         "title": ""
       }
+    },
+    "eb54e25f-5093-4aaf-b27c-a09aa64c14eb": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Cretan-Malia-Park-Accommodation-3-1024x695.jpg",
+        "subheading": "Shop",
+        "title": "Hotel Pacai",
+        "text": "",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "shopify:\/\/collections\/hotel-pacai",
+        "button_label": "Shop all"
+      }
     }
   },
   "order": [
@@ -420,6 +435,7 @@
     "6b633d33-85b6-43bb-b397-1a5037f77912",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
-    "63680a03-e85a-40a7-9084-4a83db4c7921"
+    "63680a03-e85a-40a7-9084-4a83db4c7921",
+    "eb54e25f-5093-4aaf-b27c-a09aa64c14eb"
   ]
 }
