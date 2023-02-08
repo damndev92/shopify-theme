@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
+        "image": "shopify:\/\/shop_images\/15-1024x1024.png",
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Describe your philosophy when it comes to travel?<\/strong><\/p><p>We believe in the slow travel philosophy: taking the time to really savor an experience and having the space to forge a deeper exchange with Italy and Italians rather than speeding through the country to tick mainstream places off a bucket list.<\/p><p>This is the new luxury in travel, that is changing fast and the pandemic only accelerated this process. Today factors like authenticity, sustainability and time are the “new” luxuries.<\/p><p>Moreover, slow is also synonymous of sustainability. Travel is sustainable when it is purposeful and when it contributes to the local economy of “secondary” destinations or places that are off-the-beaten-path but not necessarily less beautiful. <\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
