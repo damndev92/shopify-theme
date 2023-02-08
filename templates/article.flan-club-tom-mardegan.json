@@ -142,6 +142,23 @@
         "button_label": ""
       }
     },
+    "1642c1cd-3d58-4350-951b-3e68db0cf119": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Progetto-senza-titolo-91-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Your favourite hotel in the world?<\/strong><\/p><p><em>Tom <\/em><\/p><p>Cuixmala, Mexico <\/p><p><em>Leti <\/em><\/p><p>Palais Amani, Morocco <strong>Your favourite restaurant in the world?<\/strong><\/p><p><em>Tom<\/em><\/p><p>Lo Scoglio da Tommaso, Nerano  <\/p><p><em>Leti<\/em><\/p><p>Ristorante La Marina, Ponza <\/p><p><strong>Any wishes for 2022?<\/strong><\/p><p>Easy one! End of Pandemic + a couple of talented new N2S team members so that we can breathe. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -179,6 +196,7 @@
     "75891d13-656d-45b9-b60b-0d2febc9b8df",
     "423e9a14-7e02-4643-9173-2ff812a3d147",
     "a39ca12e-4066-4cfa-a06d-44c4616f2fbf",
+    "1642c1cd-3d58-4350-951b-3e68db0cf119",
     "main",
     "blog-posts"
   ]
