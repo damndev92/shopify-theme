@@ -220,7 +220,7 @@
         "stl__heading": "Heading",
         "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
         "description__position": "hidden",
-        "link": "shopify:\/\/collections\/le-pigalle",
+        "link": "",
         "button__text": "Shop the look"
       }
     },
@@ -274,7 +274,7 @@
     "1507e4d0-fdc4-4482-8fa3-16265c3d5b80": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Hotelito_by_Musa_2.png",
+        "image": "shopify:\/\/shop_images\/MUSA_2.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",

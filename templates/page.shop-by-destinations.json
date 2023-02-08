@@ -1,5 +1,15 @@
 {
   "sections": {
+    "d5277379-ae02-4eb1-ac45-a58c58641551": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_f4b4313e-5ee9-4e9a-9f90-d1de0253a0c9.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "main": {
       "type": "template--page",
       "settings": {
@@ -84,11 +94,64 @@
         "subheading": "",
         "title": ""
       }
+    },
+    "1171aa9d-339a-4ce4-8468-5b3208ca4ad3": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17647682617659__1171aa9d-339a-4ce4-8468-5b3208ca4ad3-1675858103a8476972-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Photo3-819x1024.jpg",
+            "link": "shopify:\/\/collections\/chetzeron",
+            "title": "Chetzeron",
+            "description": ""
+          }
+        },
+        "template--17647682617659__1171aa9d-339a-4ce4-8468-5b3208ca4ad3-1675858103a8476972-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17647682617659__1171aa9d-339a-4ce4-8468-5b3208ca4ad3-1675858103a8476972-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17647682617659__1171aa9d-339a-4ce4-8468-5b3208ca4ad3-1675858103a8476972-0",
+        "template--17647682617659__1171aa9d-339a-4ce4-8468-5b3208ca4ad3-1675858103a8476972-1",
+        "template--17647682617659__1171aa9d-339a-4ce4-8468-5b3208ca4ad3-1675858103a8476972-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "eada9471-525f-4376-8e4f-3493ed49a28f": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/eden-locke-hotel-grzywinski-pons-interiors-hotels-london-uk_dezeen_hero-b-1024x576.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
     }
   },
   "order": [
+    "d5277379-ae02-4eb1-ac45-a58c58641551",
     "main",
     "6bb64512-b0f4-470f-a831-da34d529ebce",
-    "07d9e5bd-58c8-4fd8-9347-02901b98324b"
+    "07d9e5bd-58c8-4fd8-9347-02901b98324b",
+    "1171aa9d-339a-4ce4-8468-5b3208ca4ad3",
+    "eada9471-525f-4376-8e4f-3493ed49a28f"
   ]
 }

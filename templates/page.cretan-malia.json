@@ -22,6 +22,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "Crete, Greece",
+        "page_title": "",
         "title": "Cretan Malia Park",
         "text": "<p><br\/>Cretan Malia Park's traditional materials, textures, and colors of Crete, as well as curious indigenous objects combine to curate a warm atmosphere. Walnut, chestnut, and bamboo combine with rattan, ceramic, stone, and brass to create a palette of wood tones, mustard yellow, copper-red, blue, green, and orange that imparts a relaxed, boho mood in the bright, airy rooms. Murals artistically bring the nature of Crete inside the living spaces and serve as main focal points for the interior design.<\/p>",
         "button_link": "",
@@ -294,6 +295,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "The rooms",
+        "page_title": "",
         "title": "Take A Peek Inside",
         "text": "<p><br\/>A Bauhaus inflected property, Cretan Malia Park's light-filled suites and bungalows are packed with natural wood textures, earthy tones and indoor plants and contrast with their polished copper and geometric tiles, They are placed around a sinuous river pool framed by lush gardens.<\/p>",
         "button_link": "",
@@ -307,27 +309,27 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Cretan_Malia_Sea_Front_Bungalow.png",
-            "link": "",
+            "link": "https:\/\/be.synxis.com\/?_ga=2.86897496.1198096264.1675866891-962242294.1675866891&adult=1&arrive=2023-02-08&chain=5154&child=0&config=SBE_Cretan_Malia_Park_V1&configcode=SBE_Cretan_Malia_Park_V1&currency=EUR&depart=2023-02-09&hotel=9805&level=hotel&locale=en-US&rooms=1&theme=SBE_Cretan_Malia_Park_V1&themecode=SBE_Cretan_Malia_Park_V1",
             "title": "BEACH FRONT Bungalow",
-            "description": "<p>Superbly placed directly on the seafront and enjoying unobstructed views to the sea from a furnished veranda or balcony. Also feature a calming and elegant mural by Greek artist Thanasis Kretsis as a reference to nature's rich flora and creates a calming ambiance.<\/p><p>- 26sqm (280sqft)- King or 2 twin beds and daybed<\/p><p>- Varied beach view<\/p><p>- Balcony or veranda<\/p>"
+            "description": "<p><br\/>A 26 sqm room with either twin or king beds superbly placed directly on the seafront and enjoying unobstructed views to the sea from a furnished veranda or balcony. Also feature a calming and elegant mural by Greek artist Thanasis Kretsis as a reference to nature's rich flora and creates a calming ambiance.<\/p>"
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Cretan_Park_Bungalow_Garden_View.png",
-            "link": "https:\/\/www.designhotels.com\/hotels\/greece\/crete\/cretan-malia-park\/rooms-rates\/",
+            "link": "https:\/\/be.synxis.com\/?_ga=2.86897496.1198096264.1675866891-962242294.1675866891&adult=1&arrive=2023-02-08&chain=5154&child=0&config=SBE_Cretan_Malia_Park_V1&configcode=SBE_Cretan_Malia_Park_V1&currency=EUR&depart=2023-02-09&hotel=9805&level=hotel&locale=en-US&rooms=1&theme=SBE_Cretan_Malia_Park_V1&themecode=SBE_Cretan_Malia_Park_V1",
             "title": "Signature Garden View Bungalow",
-            "description": "<p>Cretan Malia Park’s most coveted views are all yours in Signature Bungalows with Garden View. From the sweeping terrace, in full communion with nature, soak up the resort’s striking gardens – crowned with Crete’s most revered natural iconic flora – and magnificent sea beyond.<\/p><p>- 26sqm (280sqft)<br\/>- 2 Twin and a Sofa Bed.<br\/>- Garden View<\/p>"
+            "description": "<p><br\/>Cretan Malia Park’s most coveted views are all yours in Signature Bungalows with a 26sqm bedroom and Garden View. From the sweeping terrace, in full communion with nature, soak up the resort’s striking gardens – crowned with Crete’s most revered natural iconic flora – and magnificent sea beyond. This room features twin beds and a sofa.<\/p><p><\/p>"
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Cretan_Malia_Deluxe_Suite.png",
-            "link": "https:\/\/www.designhotels.com\/hotels\/greece\/crete\/cretan-malia-park\/rooms-rates\/",
+            "link": "https:\/\/be.synxis.com\/?_ga=2.86897496.1198096264.1675866891-962242294.1675866891&adult=1&arrive=2023-02-08&chain=5154&child=0&config=SBE_Cretan_Malia_Park_V1&configcode=SBE_Cretan_Malia_Park_V1&currency=EUR&depart=2023-02-09&hotel=9805&level=hotel&locale=en-US&rooms=1&theme=SBE_Cretan_Malia_Park_V1&themecode=SBE_Cretan_Malia_Park_V1",
             "title": "DELUXE SUITE",
-            "description": "<p>Decorated with items that honor the hotel's Mediterranean heritage: Moroccan rugs, handcrafted Italian tiles, artwork by Greek artist Thanassis Kretsis and beautiful custom-made furnishing. The bedroom features an impressive yet soothing wall of white-grey handmade tiles by Cotto Etrusco.<br\/>- 64sqm (688sqft)<br\/>- King bed<br\/>- Sofa bed<br\/>- Beach view<\/p>"
+            "description": "<p><br\/>A 64 sqm Beach View suite decorated with items that honor the hotel's Mediterranean heritage: Moroccan rugs, handcrafted Italian tiles, artwork by Greek artist Thanassis Kretsis and beautiful custom-made furnishing. The bedroom features a King Bed and a Sofa Bed and an impressive yet soothing wall of white-grey handmade tiles by Cotto Etrusco. <br\/><\/p>"
           }
         }
       },

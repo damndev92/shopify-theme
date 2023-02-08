@@ -235,7 +235,7 @@
         "width": "medium",
         "subheading": "The rooms",
         "title": "Take A Peek Inside",
-        "text": "<p>Their rooms' neoclassical architectural style inspired artists and poets in the late nineteenth century. All 40 rooms are decorated in the Nouvelle Athènes mode, conveying a specific image of Pigalle: historic, modern, decadent, multicultural, and musical. Simple and comfortable, full of domestic touches. Each is a collection of objects, souvenirs, music, books and second-hand furniture, with a personality all of its own.<\/p>",
+        "text": "<p><br\/>The majority of the 137 bedrooms at Tribe have the business traveller in mind, so they are quite compact, but all rooms have extra-long king-sized beds, rain showers and LCD televisions. That said, natural stone-tiled walls and rustic metals contrast against stainless steel and glass, and local fabrics and handmade wooden furniture add a distinctive African feel.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -249,7 +249,7 @@
             "image": "shopify:\/\/shop_images\/Tribe_Superior_Twin.png",
             "link": "https:\/\/be.synxis.com\/?adult=1&arrive=2023-02-07&chain=5154&child=0&config=Tribe_SBE&currency=USD&depart=2023-02-08&hotel=55658&level=hotel&locale=en-US&rooms=1&theme=Tribe_SBE_V2",
             "title": "superior twin room",
-            "description": "<p>- 30 sqm (320 sqft)<\/p><p>- Twin beds<\/p><p>- Superior Twin rooms feature a walk-in rain shower<\/p><p>- Luxury linens<\/p><p>- Two single beds & a sofa<\/p>"
+            "description": "<p><br\/>A 30 sqm Superior Twin room featuring a walk-in rain shower, Twin beds, Luxury linens & a sofa.<\/p>"
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
@@ -258,7 +258,7 @@
             "image": "shopify:\/\/shop_images\/Tribe_Superior_King.png",
             "link": "https:\/\/be.synxis.com\/?adult=1&arrive=2023-02-07&chain=5154&child=0&config=Tribe_SBE&currency=USD&depart=2023-02-08&hotel=55658&level=hotel&locale=en-US&rooms=1&theme=Tribe_SBE_V2",
             "title": "superior king room",
-            "description": "<p>- 30 sqm (320 sqft)<br\/>- Superior King rooms feature a walk-in rain shower<br\/>- Luxury linens<br\/>- King bed<br\/>- A sofa<br\/>- Some superior rooms feature an oversize bath tub<br\/>- All rooms offer original artwork and Organic Savanna amenities<\/p>"
+            "description": "<p><br\/>A 30 sqm Superior King room featuring a walk-in rain shower, Luxury linens, a King bed & a sofa. Some superior rooms also feature an oversize bath tub and all rooms offer original artwork and Organic Savanna amenities.<\/p>"
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0": {
@@ -267,7 +267,7 @@
             "image": "shopify:\/\/shop_images\/Room_pix_300_x_400.png",
             "link": "https:\/\/be.synxis.com\/?adult=1&arrive=2023-02-07&chain=5154&child=0&config=Tribe_SBE&currency=USD&depart=2023-02-08&hotel=55658&level=hotel&locale=en-US&rooms=1&theme=Tribe_SBE_V2",
             "title": "one bedroom suite",
-            "description": "<p>-59 sqm (640 sqft)<\/p><p>-King or Twin Beds<\/p><p>-LED Smart TV<\/p><p>-Separate lounge area<\/p><p>-Kitchenette<\/p><p>- One Bedroom Suites feature a walk-in rain shower<\/p>"
+            "description": "<p><br\/>A 59 sqm room featuring A King or Twin Beds, an LED Smart TV, a separate lounge area and a kitchenette, this one Bedroom Suites feature a walk-in rain shower, and original artwork and Organic Savanna amenities.<\/p>"
           }
         }
       },
