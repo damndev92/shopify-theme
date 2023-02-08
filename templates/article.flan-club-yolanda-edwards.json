@@ -23,34 +23,21 @@
         "button_label": ""
       }
     },
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "light",
-        "width": "small",
-        "subheading": "",
-        "page_title": "",
-        "title": "Date Night",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/1-1.png",
+        "image": "shopify:\/\/shop_images\/Yolanda-Edwards-731x1024.jpg",
         "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "1. Kanishka",
-        "text_block": "<p>17-19 Maddox Street, W1S 2QH<\/p><p><br\/><strong>Head chef:<\/strong> Atul Kochhar<br\/><strong>Order the:<\/strong> Chicken tikka pie<\/p><p><\/p><p>Michelin Star chef Atul Kochhar’s contemporary Indian establishment not only offers tastebud-tantalising flavours, but this year sees a special five-course Valentine’s Day tasting menu designed especially for a night of romance. Expect traditional street food and mishti alongside aphrodisiacs like asparagus and figs. See the special V-day Menu <a href=\"https:\/\/kanishkarestaurant.co.uk\/wp-content\/uploads\/2023\/01\/Kanishka-Valentines-Menu-A5-2023.pdf\" target=\"_blank\">here<\/a>.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>How would you describe your home in one word?<\/strong><br\/>Calm<\/p><p><strong>What makes a home in one word?<\/strong><br\/>Family<\/p><p><strong>How would you describe your taste in hotels in one word?<\/strong><br\/>Soulfulness<\/p><p><strong>What made you first want to travel?<\/strong><br\/>I grew up in a very conservative family who didn’t really travel, so travel was my escape, my rebellion.<\/p><p><strong>Describe your travelling philosophy? <\/strong><br\/>I try to be in a discover mode as much as I can, no matter where I am. When I’m doing research before a trip, I get so excited that it’s almost like I’m there (helpful for times like now). I go down so many rabbit holes with all the options of which way to go: I put everything in a notebook and bring it with me—so that if what I’ve mapped out ends up shifting, I have some other options at the ready. <\/p>",
         "page_description": false,
-        "button_link": "shopify:\/\/products\/beefbar-main-plate-piece-of-meat-emoji",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
@@ -100,7 +87,6 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
