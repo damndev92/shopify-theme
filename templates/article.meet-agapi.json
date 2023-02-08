@@ -67,6 +67,23 @@
         "button_label": ""
       }
     },
+    "d9fd8179-ff8d-4137-9061-4e212ab3a167": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/WebSize_118-DS-CretanMalia.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Nature is at the heart of Cretan Malia Park, How did you incorporate this eco-consciousness in your vision? <\/strong><br\/>The challenge to create a hotel while respecting and protecting the environment and the society in which we operate is at the heart of our philosophy. It did not come as a trend of today. It developed naturally, starting back in the early 90’s by our father. Today, it is a strong pillar in our philosophy and a filter in everything we do. It guides us in how we design, how we operate Cretan Malia Park, the initiatives we take with our people behind the scenes and how we want our guests to experience Crete. <\/p><p><strong>Your favourite design item from Cretan Malia Park? <\/strong><br\/>Sessan Sofa of Tacchini and our Greek artists collection!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -100,6 +117,7 @@
     "d8e4bf7d-b7d8-4b47-a70e-45a196701bac",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "d9fd8179-ff8d-4137-9061-4e212ab3a167",
     "main",
     "blog-posts"
   ]
