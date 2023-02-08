@@ -84,6 +84,23 @@
         "button_label": ""
       }
     },
+    "ae837fb0-40ca-41b1-ac99-5352c9c04129": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/IMG_0747_preview-768x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Do you have tips for creating the most beautiful table setting?<\/strong><\/p><p>I think it depends on the mood you want to create. Sometimes I want the evening to be fun and colourful, and so I will choose a tablecloth accordingly – my favourites are from the Milanese designer Lisa Corti; she mixes gorgeous patterns with lovely colour combinations. If I am going all-out, I will pair this with ‘Palio’ plates bought from nearby Siena which are decorated in the gorgeous colours of the various <em>contrade <\/em>of Siena, which race in the city’s famous horse race. If I want a meal to feel more serene, a crisp white linen table cloth with foraged greenery as centre pieces works well (I cut branches from the olive tree and put them in small silver cups), and lots of candles. Candles look beautiful when they are at various heights, some tall and some low, giving a sense of movement to your table.  <\/p><p><strong>An object that you particularly love?<\/strong><\/p><p>I love my bed at our flat in Florence. It is designed by my mother and is a replica of the bed in my favourite room at Arniano. It’s a four poster with a huge, comfortable mattress, and beautiful old Indian saris turned into curtains. It’s so big that it takes up most of the room, but it feels like a decadent comfort, and reminds me of home when I’m in the city. One of my favourite objects when it comes to hosting is a gorgeous round wooden tray made by my friend Beata Heuman. It’s very big, so great for serving drinks to guests on our courses, and is printed with one of Beata’s signature marble wallpapers, a beautiful backdrop when serving cocktails. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -118,6 +135,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "ea6873a7-ba35-4b62-ab40-ab3bd834de4f",
+    "ae837fb0-40ca-41b1-ac99-5352c9c04129",
     "main",
     "blog-posts"
   ]
