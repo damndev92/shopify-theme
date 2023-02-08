@@ -145,8 +145,8 @@
         "btn": "DISCOVER MORE",
         "url": "",
         "bg_color": "#e28065",
-        "padding_top": 25,
-        "padding_bottom": 25
+        "padding_top": 15,
+        "padding_bottom": 20
       }
     },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
