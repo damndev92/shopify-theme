@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "dc5f9b70-18df-4790-b33a-eb5f9595b11e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/stephanie_fishwick-art-collage-article-731x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>A message for people at home?<\/strong><br\/>“Life is intrinsically, well, boring, and dangerous at the same time. At any given moment the floor may open up. Of course, it almost never does; that’s what makes it so boring.” — Edward Gorey. <\/p><p>This is a really weird time! I have days where I feel depressed and anxious. I’ve found that getting immersed in a flow state in my studio has been really good for me, more now than ever. I learned how to marble paper in the Florentine style by watching YouTube videos. Marbling turns out to be way more tedious, scientific, and difficult than I realized when I started! I probably won’t make that part of my repertoire, but it was really fun to learn something new and so challenging. We have been enjoying some excellent and inspiring documentaries: Dorthea Lange’s Grab a Hunk of Lightning and How to Survive a Plague were particularly great. No better time than now to binge some excellent TeeVee!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "ca1c7436-8151-404d-ac55-2e0e960e7d3d",
     "605e190c-ffd4-4525-aab0-f8d6d6f0d84c",
+    "dc5f9b70-18df-4790-b33a-eb5f9595b11e",
     "main",
     "blog-posts"
   ]
