@@ -99,13 +99,13 @@
         "padding_bottom": 20
       }
     },
-    "156bf7fb-b013-4b82-85d8-444bfc130794": {
+    "747daaf7-56b9-411a-a6ef-3627bbbd9b6a": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/image1-e1589815725326-768x1024.jpg",
+        "image": "shopify:\/\/shop_images\/hotelpacai-vilnus-lithuania-europe-rooms-jpg.jpg",
         "parallax": true,
         "alignment": "center",
-        "hero_size": "medium",
+        "hero_size": "large",
         "text-over-image-width": "full-width"
       }
     },
@@ -124,6 +124,16 @@
         "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
         "hotel_page_url": false,
         "button_label": "Read More"
+      }
+    },
+    "ce2de4fb-18f2-48a0-b7c4-343144d2d838": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hotelpacai-vilnus-lithuania-europe-rooms-jpg.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
       }
     },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
@@ -163,13 +173,13 @@
         "faq_icon": "plus_minus"
       }
     },
-    "91fe7917-0097-4538-aa1f-d9eb40f6d18d": {
+    "905968d0-1364-43ba-b6f9-c40d1387ff8b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/09-cretanmalia-cooking-1024x576.jpg",
+        "image": "shopify:\/\/shop_images\/hotelpacai-vilnus-lithuania-europe-rooms-jpg.jpg",
         "parallax": true,
         "alignment": "center",
-        "hero_size": "medium",
+        "hero_size": "large",
         "text-over-image-width": "full-width"
       }
     },
@@ -226,6 +236,16 @@
         "colors": "white",
         "subheading": "",
         "title": ""
+      }
+    },
+    "d65530bf-d321-40a6-9274-d539d93227d2": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hotelpacai-vilnus-lithuania-europe-rooms-jpg.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
       }
     },
     "6b633d33-85b6-43bb-b397-1a5037f77912": {
@@ -350,12 +370,14 @@
     "5988eaab-4539-4c15-8296-624e8fa52534",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "fc207bbe-372a-410a-9fd6-efb127b006be",
-    "156bf7fb-b013-4b82-85d8-444bfc130794",
+    "747daaf7-56b9-411a-a6ef-3627bbbd9b6a",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
+    "ce2de4fb-18f2-48a0-b7c4-343144d2d838",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "91fe7917-0097-4538-aa1f-d9eb40f6d18d",
+    "905968d0-1364-43ba-b6f9-c40d1387ff8b",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
+    "d65530bf-d321-40a6-9274-d539d93227d2",
     "6b633d33-85b6-43bb-b397-1a5037f77912",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
