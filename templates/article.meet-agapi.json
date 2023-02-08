@@ -124,6 +124,23 @@
         "button_label": ""
       }
     },
+    "f6ad3043-e2e9-4d1e-9926-744d90b46174": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Cretan-Malia-Park-Accommodation-3-1024x695.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How would you define luxury today? <\/strong><br\/>Luxury today is work in progress. It is moving away from tangible to intangible. Luxury is about space and time. It is about truth in everything – from design to materials, to timelessness – and it is ultimately about genuine feelings.  <\/p><p><strong>Can you tell us something people might not know about Crete? <\/strong><br\/>In mythology Crete was the birthplace of Zeus and also the place where later Zeus took his love Europa, who gave birth to Minos – later King Minos and founder of the first European civilization, the Minoans. In a way, it all started here. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -148,6 +165,7 @@
     "main",
     "9f39b87b-08ad-4583-85c0-e08f33173743",
     "60987c08-d1d3-4c4d-a9f5-153a3347a4cb",
+    "f6ad3043-e2e9-4d1e-9926-744d90b46174",
     "blog-posts"
   ]
 }
