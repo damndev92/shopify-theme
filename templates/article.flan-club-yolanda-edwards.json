@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "51ae9850-44d0-44ba-8bb0-c4ab4fb0ead4": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/image1-e1589815725326-768x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>If you could eat at one restaurant in the world today?<\/strong><br\/>Prima Aneplora in Leros, a feet in the sand simple restaurant on the water.<\/p><p><strong>Favourite address for decoration in London\/ in the world?<\/strong><br\/>Another Country in London and the flea markets in France.<\/p><p><strong>How do you think this pandemic will influence the way we travel?<\/strong><br\/>We have all slowed down so much, and as much as it wasn’t our choice, I think many of us have realized that constantly moving isn’t healthy for us, or our environment. I imagine that we will be more considered in our choices moving forward. <\/p><p><strong>A message for people at home?<\/strong><br\/>This is a time to use your imagination in ways that maybe you haven’t before. In order to make the days feel different, try doing things like picking a theme for the dinner…maybe based on a place that you miss. Pull souvenirs if you have them and make a little still life centerpiece with them. Listen to the music of the place, and get lost in your vacation pictures.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "51ae9850-44d0-44ba-8bb0-c4ab4fb0ead4",
     "main",
     "blog-posts"
   ]
