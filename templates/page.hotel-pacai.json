@@ -223,6 +223,16 @@
         "faq_icon": "plus_minus"
       }
     },
+    "91fe7917-0097-4538-aa1f-d9eb40f6d18d": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image1-e1589815725326-768x1024.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
       "type": "text--rich-text",
       "settings": {
@@ -404,6 +414,7 @@
     "156bf7fb-b013-4b82-85d8-444bfc130794",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
+    "91fe7917-0097-4538-aa1f-d9eb40f6d18d",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "6b633d33-85b6-43bb-b397-1a5037f77912",
