@@ -32,6 +32,65 @@
 
     {% when 'collection-title' %}
 
+      {% assign menu_collection = false %}
+
+      <div class="page-width col-md-12">
+        {% for link in linklists.mega-menu.links %}
+          {% if link.links != blank %}
+            {% if link.title == 'Shop by Products' or 'Shop by Room' %}
+              <div class="title-bar custom-font" style="padding-top: 50px;">
+                <h2 class="wow fadeIn delay-1" style="visibility: visible; animation-name: fadeIn;">{{ collection.title }}</h2>
+              </div>
+              {% break %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+        <div class="collection-grid">
+          <div class="row">
+
+            {% for link in linklists.mega-menu.links %}
+              {% if link.links != blank %}
+                {% if link.title == 'Shop by Products' or 'Shop by Room' %}
+                  {% for sub_link in link.links %}
+                    {% if sub_link.title == collection.title %}
+                      {% for sub_sub_link in sub_link.links %}
+                        {% for collection_from_menu in collections %}
+                          {% if collection_from_menu.title contains sub_sub_link.title %}
+                            {% assign menu_collection = true %}
+                            <article class="indiv-collection-grid-homepage wow fadeInUp col-md">
+                              <div class="homepage-collection-grid-inner">
+                                <div class="grid-image">
+                                  <div class="grid-image--centered">
+                                    {% if collection_from_menu.image %}
+                                      {% render 'responsive-image' with collection_from_menu, alt: collection_from_menu.image.alt %}
+                                    {% else %}
+                                      {% assign product = collection_from_menu.products | first %}
+                                      {% render 'responsive-image' with product.media[0].preview_image, alt: product.featured_image.alt %}
+                                    {% endif %}
+                                  </div>
+                                </div>
+                              </div>
+
+                              <div class="hp-title homepage-collection-link">
+                                <h3 class="type-subheading type-subheading--1">
+                                  <a href="{{ collection_from_menu.url }}">{{ collection_from_menu.title }}</a>
+                                </h3>
+                              </div>
+                            </article>
+                          {% endif %}
+                        {% endfor %}
+                      {% endfor %}
+                    {% endif %}
+                  {% endfor %}
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+
+
+      {% if menu_collection == false %}
       <div class="{{ collection.handle }} collection-title" {{ block.shopify_attributes }}>
         <div class="title-bar custom-font collection-header{% if collection.image and has_collection_image %} collection-header--with-image{% endif %}">
         {% if collection.handle == 'all' %}
@@ -42,6 +101,7 @@
         <div class="clear"></div>
         </div>
       </div>
+      {% endif %}
 
     {% when 'collection-description' %}
 
@@ -50,7 +110,6 @@
       {% endif %}
   {% endcase %}
 {% endfor %}
-
 </div>
 
 {% schema %}
