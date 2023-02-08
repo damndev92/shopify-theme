@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "4450c9f4-e287-4259-b8d0-88accdd20d4c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Progetto-senza-titolo-92-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What’s the key to create the perfect italian itinerary?<\/strong><\/p><p>For us there are 3 fundamental keys to create the perfect itinerary: <\/p><p><em>Contacts – Creativity – Knowledge <\/em><\/p><p>Our goal is to include even in the most classic itinerary something unconventional and unexpected, mixing some ever-greens that always attract the client and convince him to book with some unknown places or experiences.  <\/p><p>An itinerary is perfect when is unexcepted. If you know already what to expect from the trip you are going to make, then it’ll be ordinary and not exceptional. <\/p><p>Obviously, to execute this successfully, you need tons of local contacts to open doors – creativity to come up always with the craziest idea – in dept knowledge about the destination in order not to copy what every one provides already. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "01a02ec6-9414-4231-b86e-c3884f00d7d7",
+    "4450c9f4-e287-4259-b8d0-88accdd20d4c",
     "main",
     "blog-posts"
   ]
