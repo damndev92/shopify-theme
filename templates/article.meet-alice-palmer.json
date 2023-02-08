@@ -50,6 +50,23 @@
         "button_label": ""
       }
     },
+    "a224a773-5af3-439b-9fad-4c02cbb32fc6": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/damien-hirst-1.0.0.1412884150-1024x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Favourite Hotel for its decoration? <\/strong><br\/>Peter and Paul Hotel, New Orleans<\/p><p><strong>Favourite Restaurant for its decoration? <\/strong><br\/>Petersham Nurseries <\/p><p><strong>Your favourite address for decoration? <\/strong><br\/>I love to pick up fabrics and homewares whenever I travel but I can always find something to bring home from The Souks in Morocco. <\/p><p><strong>Have you ever wanted to bring back an object from a hotel or a restaurant? And if so which one?<\/strong><br\/>Probably Damien Hirst’s Cow and Chicken in the old Mark Hix restaurant Tramshed!<\/p><p><strong>Your favourite object at home? <\/strong><br\/>My plants<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -82,6 +99,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "5f85c013-3fc1-49ff-aa2e-95a1c73f1a10",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "a224a773-5af3-439b-9fad-4c02cbb32fc6",
     "main",
     "blog-posts"
   ]
