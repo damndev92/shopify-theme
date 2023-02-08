@@ -89,21 +89,6 @@
         "button__text": "Shop the look"
       }
     },
-    "eb54e25f-5093-4aaf-b27c-a09aa64c14eb": {
-      "type": "image--image-with-text-overlay",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Cretan-Malia-Park-Accommodation-3-1024x695.jpg",
-        "subheading": "Shop",
-        "title": "Hotel Pacai",
-        "text": "",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width",
-        "button_link": "shopify:\/\/collections\/hotel-pacai",
-        "button_label": "Shop all"
-      }
-    },
     "a2d49766-849a-4f73-a87d-ba2498a5e1d7": {
       "type": "product--shop-the-look",
       "blocks": {
@@ -424,7 +409,6 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "5988eaab-4539-4c15-8296-624e8fa52534",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
-    "eb54e25f-5093-4aaf-b27c-a09aa64c14eb",
     "a2d49766-849a-4f73-a87d-ba2498a5e1d7",
     "fc207bbe-372a-410a-9fd6-efb127b006be",
     "156bf7fb-b013-4b82-85d8-444bfc130794",
