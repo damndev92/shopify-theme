@@ -108,6 +108,23 @@
         "button_label": ""
       }
     },
+    "423e9a14-7e02-4643-9173-2ff812a3d147": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/6-1024x1024_d075dc07-a833-4359-9a3f-7d22a0775b54.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Your best and worst travel memory?<\/strong><\/p><p><em>Tom<\/em> <\/p><p>Best: overnight in an open treehouse in the middle of the South African bush covered by a sky full of stars and falling asleep with the wildlife sounds <\/p><p>Worst: when I was about 16 yo in India and had the brilliant idea to get street food at a train station and got food poisoned – spent two days between bed and toilet.  <\/p><p><em>Leti<\/em><\/p><p>Best: Sahara desert with my family. We had dinner under the stars and I can still remember the soft wind of the desert and the smell of the spices. We slept in a tent that night and I don’t think I have ever seen such a dramatic sunrise. <\/p><p>Worst: a thunderstorm in Australia while I was in the smallest aircraft ever in the route from Ayers Rock to Sydney.  <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -143,6 +160,7 @@
     "01a02ec6-9414-4231-b86e-c3884f00d7d7",
     "4450c9f4-e287-4259-b8d0-88accdd20d4c",
     "75891d13-656d-45b9-b60b-0d2febc9b8df",
+    "423e9a14-7e02-4643-9173-2ff812a3d147",
     "main",
     "blog-posts"
   ]
