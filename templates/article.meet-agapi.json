@@ -55,16 +55,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/cretan-malia-park-reception-desk-extraordinary-lamp-interior-design-k-02-x2-jpg-872x1024.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Who was Antonis Stylianides? <\/strong><br\/>The buildings of CMP are modernist structures spread amongst lush gardens, were originally constructed in the late 80’s when our father Yannis Sbokos bought the land, by Antonis Stylianides of 3SK Stylianidis architects, who once worked alongside German Architect Gropius. <\/p><p>Cretan Malia Park has just been fully renovated by Vana Pernari, a talented Greek architect. The resort’s original form provided the initial idea to create spaces where people will experience the outside, inside. Indoor and outdoor living should blend in a harmonious and natural way for people to experience a new slow-paced lifestyle and authentic unassuming luxury.   <\/p><p>The low rising building’s complex and the amazing gardens, is a sweet spot between the sense of memory and the familiar. This inspired the architect to keep the design rooted in tradition but yet unique, filled with materials, textures, colors of the Cretan land, curious objects, carefully curating a warm atmosphere that will seduce and enchant the visitors<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
