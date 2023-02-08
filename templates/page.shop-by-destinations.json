@@ -17,20 +17,67 @@
         "template--17647682617659__6bb64512-b0f4-470f-a831-da34d529ebce-167406554123d40f23-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "chetzeron"
+            "collection": "circulo-mexicano"
           }
         },
         "template--17647682617659__6bb64512-b0f4-470f-a831-da34d529ebce-167406554123d40f23-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "inhabit"
+          }
+        },
+        "39593429-47d6-49c7-b381-a829420c0c93": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tribe-hotel"
           }
         }
       },
       "block_order": [
         "template--17647682617659__6bb64512-b0f4-470f-a831-da34d529ebce-167406554123d40f23-0",
         "template--17647682617659__6bb64512-b0f4-470f-a831-da34d529ebce-167406554123d40f23-1",
-        "template--17647682617659__6bb64512-b0f4-470f-a831-da34d529ebce-167406554123d40f23-2"
+        "template--17647682617659__6bb64512-b0f4-470f-a831-da34d529ebce-167406554123d40f23-2",
+        "39593429-47d6-49c7-b381-a829420c0c93"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "07d9e5bd-58c8-4fd8-9347-02901b98324b": {
+      "type": "collection--collection-list",
+      "blocks": {
+        "890dc6ec-285f-437f-a1e7-ed582320c07a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "parilio"
+          }
+        },
+        "8ef26979-6992-4773-8df4-fdbc7ed30dcf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cretan-malia"
+          }
+        },
+        "ea3f4d3e-745b-4f16-821b-cf6219a93584": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "villa-lena"
+          }
+        },
+        "735493ee-91bc-4a21-8540-205c97881100": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "thyme"
+          }
+        }
+      },
+      "block_order": [
+        "890dc6ec-285f-437f-a1e7-ed582320c07a",
+        "8ef26979-6992-4773-8df4-fdbc7ed30dcf",
+        "ea3f4d3e-745b-4f16-821b-cf6219a93584",
+        "735493ee-91bc-4a21-8540-205c97881100"
       ],
       "settings": {
         "colors": "white",
@@ -41,6 +88,7 @@
   },
   "order": [
     "main",
-    "6bb64512-b0f4-470f-a831-da34d529ebce"
+    "6bb64512-b0f4-470f-a831-da34d529ebce",
+    "07d9e5bd-58c8-4fd8-9347-02901b98324b"
   ]
 }
