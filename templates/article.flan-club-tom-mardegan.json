@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "75891d13-656d-45b9-b60b-0d2febc9b8df": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/9-1024x1024_f4e0ebd8-8278-46ef-9e93-958436f339cb.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How do you think this pandemic has influenced the way we travel?<\/strong><\/p><p>Thanks to the Pandemic we will see a return to traveling with a purpose. Like during the Grand Tour era when people traveled to discover new cultures and learn new languages, modern-day travelers are eager to discover new ways of living and seeing.<\/p><p>There will also be a renewed appreciation for nature experiences and remote destinations, and with 20 diverse regions, Italy has a lot to offer including wonderful outdoors experiences that we are eager to share with our clients.<\/p><p>People are also seeking wellness when they travel, as an antidote to the technology that is keeping our minds always busy. More travelers will be looking for JOMO (the joy of missing out) rather than FOMO (the fear of missing out).<\/p><p>Ultimately, we will see more bespoke and segmented travel which is why we’re dedicated to creating tailor-made experiences for each of our clients.<\/p><p><\/p><p>More travelers will be looking for JOMO (the joy of missing out) rather than FOMO (the fear of missing out).<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "01a02ec6-9414-4231-b86e-c3884f00d7d7",
     "4450c9f4-e287-4259-b8d0-88accdd20d4c",
+    "75891d13-656d-45b9-b60b-0d2febc9b8df",
     "main",
     "blog-posts"
   ]
