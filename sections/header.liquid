@@ -176,6 +176,12 @@
       {% comment %}#main-navigation-wrapper will be copied here{% endcomment %}
     </div>
     <div class="sticky-header-icons d-none d-lg-flex">
+      <div class="maison-country-selector">
+        <img src="https://cdn.shopify.com/static/images/flags/{{ localization.country.iso_code | downcase }}.svg"
+             width="26"
+             height="26"
+        />
+      </div>
       {% comment %}icons from .cart-link will be copied here{% endcomment %}
     </div>
     <div class="sticky-header-search d-none d-lg-block">
@@ -230,6 +236,12 @@
 		</div>
 
 		<div class="mobile-side-column mobile-header-wrap--icons mobile-header-right{% if section.settings.cart-number == 'total' %} show-total{% endif %}">
+      <div class="maison-country-selector">
+        <img src="https://cdn.shopify.com/static/images/flags/{{ localization.country.iso_code | downcase }}.svg"
+             width="26"
+             height="26"
+        />
+      </div>
       {% if settings.cart-type == 'drawer' %}
         <button
           type="button"
@@ -389,7 +401,7 @@
 
 {% capture main_icons_locale %}
     <div class="main-icons-with-locale">
-        <div id="maison-country-selector">
+        <div class="maison-country-selector">
           <img src="https://cdn.shopify.com/static/images/flags/{{ localization.country.iso_code | downcase }}.svg"
                width="26"
                height="26"

@@ -55,7 +55,6 @@
         mutations.forEach((mutation) => {
             if (mutation.addedNodes.length) {
                 const popup = document.querySelector('maison-country-picker')
-                const countrySelector = document.getElementById('maison-country-selector')
 
                 if (popup) {
                     observer.disconnect()
@@ -88,28 +87,28 @@
     });
 
     const observerSelector = new MutationObserver((mutations) => {
-        mutations.forEach((mutation) => {
-            if (mutation.addedNodes.length) {
-                const popup = document.querySelector('maison-country-picker')
-                const curtain = document.querySelector('maison-curtain')
-                const countrySelector = document.getElementById('maison-country-selector')
-                const mainBody = document.querySelector('.slideout-panel')
+      mutations.forEach((mutation) => {
+        if (mutation.addedNodes.length) {
+          const popup = document.querySelector('maison-country-picker')
+          const curtain = document.querySelector('maison-curtain')
+          const countrySelector = document.querySelectorAll('.maison-country-selector')
+          const mainBody = document.querySelector('.slideout-panel')
 
-                if (countrySelector) {
-                    observerSelector.disconnect()
-
-                    countrySelector.addEventListener('click', (event) => {
-                        curtain.classList.add('visible')
-                        popup.classList.add('visible')
-                        document.body.classList.add('country-popup-active');
-                    })
-                }
-            }
-        });
+          if (countrySelector.length) {
+            countrySelector.forEach(element => {
+              element.addEventListener('click', (event) => {
+                curtain.classList.add('visible')
+                popup.classList.add('visible')
+                document.body.classList.add('country-popup-active')
+              })
+            })
+          }
+        }
+      });
     });
 
     observerSelector.observe(document.body, {
-        childList: true,
-        subtree: true,
+      childList: true,
+      subtree: true,
     });
 </script>
