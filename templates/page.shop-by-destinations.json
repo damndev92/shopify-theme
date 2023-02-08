@@ -94,12 +94,23 @@
         "subheading": "",
         "title": ""
       }
+    },
+    "eada9471-525f-4376-8e4f-3493ed49a28f": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/eden-locke-hotel-grzywinski-pons-interiors-hotels-london-uk_dezeen_hero-b-1024x576.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
     }
   },
   "order": [
     "d5277379-ae02-4eb1-ac45-a58c58641551",
     "main",
     "6bb64512-b0f4-470f-a831-da34d529ebce",
-    "07d9e5bd-58c8-4fd8-9347-02901b98324b"
+    "07d9e5bd-58c8-4fd8-9347-02901b98324b",
+    "eada9471-525f-4376-8e4f-3493ed49a28f"
   ]
 }
