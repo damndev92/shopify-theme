@@ -388,6 +388,74 @@
         "subheading": "",
         "title": ""
       }
+    },
+    "e57c3e7f-0127-4fd4-acbd-4c611a4834d8": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17824602128699__e57c3e7f-0127-4fd4-acbd-4c611a4834d8-16758769303f12d5f7-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17824602128699__e57c3e7f-0127-4fd4-acbd-4c611a4834d8-16758769303f12d5f7-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17824602128699__e57c3e7f-0127-4fd4-acbd-4c611a4834d8-16758769303f12d5f7-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17824602128699__e57c3e7f-0127-4fd4-acbd-4c611a4834d8-16758769303f12d5f7-0",
+        "template--17824602128699__e57c3e7f-0127-4fd4-acbd-4c611a4834d8-16758769303f12d5f7-1",
+        "template--17824602128699__e57c3e7f-0127-4fd4-acbd-4c611a4834d8-16758769303f12d5f7-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Subheading",
+        "title": "Featured collection",
+        "collection": "",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
+    "6205418f-bbc9-4f5e-9478-b647f46d0a2c": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17824602128699__6205418f-bbc9-4f5e-9478-b647f46d0a2c-16758769303f12d5f7-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17824602128699__6205418f-bbc9-4f5e-9478-b647f46d0a2c-16758769303f12d5f7-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17824602128699__6205418f-bbc9-4f5e-9478-b647f46d0a2c-16758769303f12d5f7-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17824602128699__6205418f-bbc9-4f5e-9478-b647f46d0a2c-16758769303f12d5f7-0",
+        "template--17824602128699__6205418f-bbc9-4f5e-9478-b647f46d0a2c-16758769303f12d5f7-1",
+        "template--17824602128699__6205418f-bbc9-4f5e-9478-b647f46d0a2c-16758769303f12d5f7-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Subheading",
+        "title": "Featured collection",
+        "collection": "le-pigalle",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -406,6 +474,8 @@
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
-    "f5f7b256-b511-4d25-9ec5-50568033693b"
+    "f5f7b256-b511-4d25-9ec5-50568033693b",
+    "e57c3e7f-0127-4fd4-acbd-4c611a4834d8",
+    "6205418f-bbc9-4f5e-9478-b647f46d0a2c"
   ]
 }

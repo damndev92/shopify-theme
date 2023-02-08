@@ -29,6 +29,16 @@
         "button_label": ""
       }
     },
+    "5988eaab-4539-4c15-8296-624e8fa52534": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hotelpacai-vilnus-lithuania-europe-rooms-jpg.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
+      }
+    },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
       "type": "product--shop-the-look",
       "blocks": {
@@ -67,7 +77,7 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Hotel Pacai",
+        "subheading": "",
         "title": "Shop the look",
         "image": "shopify:\/\/shop_images\/3_f221a499-5514-4db4-a012-87e5017a950e.png",
         "image__position": "image--left",
@@ -193,6 +203,23 @@
         "faq_icon": "plus_minus"
       }
     },
+    "6b633d33-85b6-43bb-b397-1a5037f77912": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/interior_designers.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Meet the Interior Designers",
+        "text_block": "<p><br\/>Set in the heart of Vilnius’ Old Town—Yes Design Studio envisaged Hotel PACAI to perfectly echo this quarter’s 17th-century Baroque grandeur, yet augmenting it with a contemporary twist.<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
       "type": "text--rich-text",
       "settings": {
@@ -259,63 +286,6 @@
         "show_dates": true,
         "show_blog_images": true,
         "imageSize": "portrait"
-      }
-    },
-    "5355c404-fc86-495a-9c38-91eaf46ec30c": {
-      "type": "image--slideshow",
-      "blocks": {
-        "template--17824551338299__5355c404-fc86-495a-9c38-91eaf46ec30c-16758765411a96fc7a-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Cream-and-Brown-Delicate-Organic-Essentials-Marketing-Presentation-1024x576.png",
-            "subheading": "",
-            "title": "",
-            "text": "",
-            "button_text": "",
-            "link": "",
-            "caption-background": "rgba(0,0,0,0)",
-            "caption-text": "#ffffff",
-            "button-text": "#ffffff",
-            "button-background": "#000000",
-            "button-background-hover": "#797979",
-            "horizontal-alignment": "left",
-            "vertical-alignment": "middle"
-          }
-        },
-        "template--17824551338299__5355c404-fc86-495a-9c38-91eaf46ec30c-16758765411a96fc7a-1": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/f34dff66-9fc2-48dc-8db2-5bd5e47939ff.jpg",
-            "subheading": "",
-            "title": "",
-            "text": "",
-            "button_text": "",
-            "link": "",
-            "caption-background": "rgba(0,0,0,0)",
-            "caption-text": "#ffffff",
-            "button-text": "#ffffff",
-            "button-background": "#000000",
-            "button-background-hover": "#797979",
-            "horizontal-alignment": "left",
-            "vertical-alignment": "middle"
-          }
-        }
-      },
-      "block_order": [
-        "template--17824551338299__5355c404-fc86-495a-9c38-91eaf46ec30c-16758765411a96fc7a-0",
-        "template--17824551338299__5355c404-fc86-495a-9c38-91eaf46ec30c-16758765411a96fc7a-1"
-      ],
-      "settings": {
-        "slider-animation": "slide",
-        "slider-width": "fixed",
-        "show-slide-full-screen": true,
-        "slider-slide-time": 5,
-        "caption-heading-size": 50,
-        "show-slide-dots": false,
-        "show-slide-arrows": true,
-        "show-slide-controls": false,
-        "slider-navigation--color": "#ffffff",
-        "overlay": false
       }
     },
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
@@ -465,15 +435,16 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
+    "5988eaab-4539-4c15-8296-624e8fa52534",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "a2d49766-849a-4f73-a87d-ba2498a5e1d7",
     "fc207bbe-372a-410a-9fd6-efb127b006be",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
+    "6b633d33-85b6-43bb-b397-1a5037f77912",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
-    "5355c404-fc86-495a-9c38-91eaf46ec30c",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
