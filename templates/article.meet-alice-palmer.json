@@ -80,6 +80,19 @@
         "show_recent_posts": false
       }
     },
+    "958374a1-14d3-4615-bd90-c08df74f6e40": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "Alice’s Selection",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -101,6 +114,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "a224a773-5af3-439b-9fad-4c02cbb32fc6",
     "main",
+    "958374a1-14d3-4615-bd90-c08df74f6e40",
     "blog-posts"
   ]
 }
