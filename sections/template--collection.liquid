@@ -38,20 +38,26 @@
             <ol class="grid__item product-grid {{ grid_item_width }} indiv-product-wrapper collection-image-anim {{ olclasses }}" data-grid-id="{{section.id}}"
             id="template--collection">
 
+                {% assign count = 0 %}
                 {% for product in collection.products %}
 
-                        {% liquid
+                    {% liquid
 
-                            assign current_country = localization.country.iso_code | downcase
-                            assign countries_to_exclude = product.metafields.custom.countries_to_exclude | split: ","
+                        assign current_country = localization.country.iso_code | downcase
+                        assign countries_to_exclude = product.metafields.custom.countries_to_exclude | downcase | split: ","
 
-                            unless countries_to_exclude contains current_country
-                                echo '<li>'
-                                render 'product-grid--indiv-product', liquidObject: product
-                                echo '</li>'
-                            endunless
+                        unless countries_to_exclude contains current_country
+                            echo '<li>'
+                            render 'product-grid--indiv-product', liquidObject: product
+                            echo '</li>'
+                            assign count = couont | plus: 1
+                        endunless
 
-                        %}
+                    %}
+
+                    {% if count == 0 %}
+                        {% assign is_empty_collection = true %}
+                    {% endif %}
 
                 {% else %}
                     {% comment %}

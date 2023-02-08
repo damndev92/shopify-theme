@@ -444,7 +444,7 @@
                   {% liquid
 
                     assign current_country = localization.country.iso_code | downcase
-                    assign countries_to_exclude = product.metafields.custom.countries_to_exclude | split: ","
+                    assign countries_to_exclude = product.metafields.custom.countries_to_exclude | downcase | split: ","
 
                   %}
 
