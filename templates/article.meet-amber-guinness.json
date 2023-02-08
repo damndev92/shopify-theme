@@ -55,16 +55,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/ArchRoom.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>What is a typical day at Arniano?<\/strong><\/p><p>The day on a painting course begins with a hearty breakfast, involving various courses – home-made granola with local honey and yogurt, boiled eggs and toast with lashings of butter, and large cups of coffee and freshly squeezed grapefruit juice. Once their appetites have been sated, the painters head out to their easels, at around 10 (it used to be 9, but William had a rebellion years ago about the early start and it has been 10 ever since). Often the guests warm up with a charcoal drawing all together, before William walks with them each individually around the garden to see what corner inspires them. He then helps them set up and mix their colours. By this time, I have headed to the local town to visit the fruit and veg market; on our spring courses I will be asking the <em>frutti vendolo<\/em> for kilos of broad beans, fresh peas and artichokes. In autumn this shifts to locally sourced porcini, figs and pears.  At midday, the church bells chime from the nearby monastery, alerting the painters of the hour and they usually demand a glass of crisp white Vermentino to accompany them at the easels (it is a holiday). I get home and start preparing lunch, which will be a smorgasbord based on what is in season: artichoke and béchamel pie with a green salad and new potatoes; asparagus and ricotta galette; or vitello tonnato with green beans. After lunch the painters head straight back to their easels for the afternoon, before going on a walk or siesta at 5pm. We all reconvene at seven for cocktails, and dinner. These evenings are always full of laughter, fun, and occasionally lead to hours of dancing.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
