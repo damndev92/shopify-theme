@@ -118,12 +118,22 @@
             "left": 0,
             "disable_spot": false
           }
+        },
+        "8a21686a-7203-4aa6-b294-22f0b03e4720": {
+          "type": "product",
+          "settings": {
+            "product": "duck-feather-cushion-inner-1",
+            "top": 0,
+            "left": 0,
+            "disable_spot": true
+          }
         }
       },
       "block_order": [
         "1ade018e-ba40-438a-b245-fb2add94d20c",
         "517bf13f-4587-410b-9936-ec1c633fb40a",
-        "c7a1d13b-34b7-482c-a60b-86062ad97463"
+        "c7a1d13b-34b7-482c-a60b-86062ad97463",
+        "8a21686a-7203-4aa6-b294-22f0b03e4720"
       ],
       "settings": {
         "colors": "white",
