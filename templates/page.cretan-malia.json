@@ -3,7 +3,7 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Cretan_Malia.png",
+        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_2324a3f3-6580-4589-9a40-51ff16d3f10e.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -185,7 +185,8 @@
           "settings": {
             "product": "beefbar-main-plate-knife-emoji",
             "top": 63,
-            "left": 51
+            "left": 51,
+            "disable_spot": false
           }
         },
         "61a17092-0b88-43c9-888c-ee6b50651501": {
@@ -193,7 +194,8 @@
           "settings": {
             "product": "design-clock-solari-cifra-3-black",
             "top": 0,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         },
         "2d0cd767-4992-4798-8a74-406d517d073e": {
@@ -201,7 +203,8 @@
           "settings": {
             "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
             "top": 33,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         }
       },
@@ -232,7 +235,8 @@
           "settings": {
             "product": "beefbar-main-plate-knife-emoji",
             "top": 63,
-            "left": 51
+            "left": 51,
+            "disable_spot": false
           }
         },
         "33f45241-76a7-44e8-98cf-425c6bb0bdc8": {
@@ -240,7 +244,8 @@
           "settings": {
             "product": "design-clock-solari-cifra-3-black",
             "top": 0,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         },
         "acc4f147-815a-42fe-a4b7-0c5e251efe89": {
@@ -248,7 +253,8 @@
           "settings": {
             "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
             "top": 33,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         }
       },
