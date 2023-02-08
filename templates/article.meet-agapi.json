@@ -141,6 +141,23 @@
         "button_label": ""
       }
     },
+    "d72a1862-0f17-4e2b-bb32-ebb4d31ff6a2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Cretan-Malia-Park-The-Place1-1024x683.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Favourite restaurant in the world? <\/strong><br\/>On the South of Crete, on a remote beach accessible only by boat, <em>Chryssanthos, <\/em>makes the most delicious bread, salads, eggs, and meat cooked in Cretan style. Simple, yet the best. Looking forward to it every single summer.<\/p><p><strong>Favourite address for decoration?<\/strong><br\/>We love combining things. From the flee markets in Paris to Maison Flaneur’s curated selection to our favourite designers of the moment. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -166,6 +183,7 @@
     "9f39b87b-08ad-4583-85c0-e08f33173743",
     "60987c08-d1d3-4c4d-a9f5-153a3347a4cb",
     "f6ad3043-e2e9-4d1e-9926-744d90b46174",
+    "d72a1862-0f17-4e2b-bb32-ebb4d31ff6a2",
     "blog-posts"
   ]
 }
