@@ -297,22 +297,13 @@
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e": {
       "type": "image--gallery",
       "blocks": {
-        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Villa_Lena_Casetta.png",
-            "link": "https:\/\/www.ericsoft.biz\/BookingEngine\/Book?idh=8015F6D4EDD3C10C&lang=en&beta=true",
-            "title": "CASETTA BELLA",
-            "description": "<p>80mq, 3 double bedrooms<\/p><p>Casetta Bella is a self-contained and secluded three bedroom house with a pool shared with the neighbouring Maison Stento. The house includes a large open-plan living space, outdoor terrace, two double bedrooms and one twin, a large family bathroom with a bath and shower, a kitchen with facilities including fridge, gas hob and electric oven. The property is a 20 minutes walk walk from the San Michele restaurant and pool so car rental is recommended.<\/p>"
-          }
-        },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Fattoria_Hesselbrand_Wavy_unnamed_1_1_2.jpg",
             "link": "https:\/\/www.villa-lena.it\/stay-with-us\/rooms-apartments\/fattoria-large-superior\/",
             "title": "Large Superior FAttoria Room",
-            "description": "<p>These rooms have a more luxurious touch and feel, but still with our relaxed Villa Lena aesthetic and boast marble bathrooms with underfloor heating and large bathtubs. Previously the estate’s stables, the Fattoria rooms have majestic high-beamed ceilings, beautiful oak floors and are located in a central position adjacent to the Villa and a short stroll from the San Michele restaurant and pool.<\/p>"
+            "description": "<p>39 sqm, 1 King-Size Double or Twin<\/p><p>These rooms have a more luxurious touch and feel, but still with our relaxed Villa Lena aesthetic and boast marble bathrooms with underfloor heating and large bathtubs. Previously the estate’s stables, the Fattoria rooms have majestic high-beamed ceilings, beautiful oak floors and are located in a central position adjacent to the Villa and a short stroll from the San Michele restaurant and pool.<\/p>"
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
@@ -323,12 +314,21 @@
             "title": "SAN MICHELE rooms",
             "description": "<p>These rooms are one of six beautiful bedrooms situated in the San Michele building alongside the hotel’s restaurant and bar and a short walk from the pool. Each room features a luxurious en-suite bathroom with bathtub and French door-windows offering unrivalled views across the Tuscan hills or the majestic Villa.<\/p>"
           }
+        },
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Villa_Lena_Casetta.png",
+            "link": "https:\/\/www.ericsoft.biz\/BookingEngine\/Book?idh=8015F6D4EDD3C10C&lang=en&beta=true",
+            "title": "CASETTA BELLA",
+            "description": "<p>80mq, 3 double bedrooms<\/p><p>Casetta Bella is a self-contained and secluded three bedroom house with a pool shared with the neighbouring Maison Stento. The house includes a large open-plan living space, outdoor terrace, two double bedrooms and one twin, a large family bathroom with a bath and shower, a kitchen with facilities including fridge, gas hob and electric oven. The property is a 20 minutes walk walk from the San Michele restaurant and pool so car rental is recommended.<\/p>"
+          }
         }
       },
       "block_order": [
-        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0",
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1",
-        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2"
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2",
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0"
       ],
       "settings": {
         "colors": "white",
