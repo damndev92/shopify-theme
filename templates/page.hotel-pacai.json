@@ -77,8 +77,8 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "",
-        "title": "Shop the look",
+        "subheading": "Shop",
+        "title": "The look",
         "image": "shopify:\/\/shop_images\/3_f221a499-5514-4db4-a012-87e5017a950e.png",
         "image__position": "image--left",
         "hotspot__color": "#ffffff",
@@ -166,9 +166,9 @@
         "image-width": "large",
         "image": "shopify:\/\/shop_images\/interior_designers.png",
         "layout": "left",
-        "subheading": "",
+        "subheading": "meet",
         "location": false,
-        "title": "Meet Vanessa Ollis",
+        "title": "Vanessa Ollis, Queen",
         "text_block": "<p>Set in the heart of Vilnius’ Old Town—Yes Design Studio envisaged Hotel PACAI to perfectly echo this quarter’s 17th-century Baroque grandeur, yet augmenting it with a contemporary twist.<\/p>",
         "page_description": false,
         "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
@@ -271,8 +271,8 @@
     "6b633d33-85b6-43bb-b397-1a5037f77912": {
       "type": "text--image-with-text",
       "settings": {
-        "colors": "white",
-        "image-width": "medium",
+        "colors": "accent",
+        "image-width": "small",
         "image": "shopify:\/\/shop_images\/interior_designers.png",
         "layout": "right",
         "subheading": "",
