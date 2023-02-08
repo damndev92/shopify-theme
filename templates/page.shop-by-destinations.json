@@ -1,5 +1,14 @@
 {
   "sections": {
+    "d5277379-ae02-4eb1-ac45-a58c58641551": {
+      "type": "image--image",
+      "settings": {
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "main": {
       "type": "template--page",
       "settings": {
@@ -87,6 +96,7 @@
     }
   },
   "order": [
+    "d5277379-ae02-4eb1-ac45-a58c58641551",
     "main",
     "6bb64512-b0f4-470f-a831-da34d529ebce",
     "07d9e5bd-58c8-4fd8-9347-02901b98324b"
