@@ -147,53 +147,53 @@
     "65211727-6a2a-4219-a8f9-1f8ac9a1ba73": {
       "type": "accordion",
       "blocks": {
-        "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-0": {
+        "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-2": {
           "type": "tab_content",
           "settings": {
-            "question": "Will i have to pay custom fees on my order?",
-            "text": ""
+            "question": "When will my product be delivered?",
+            "text": "<p>We strive to give you access to independent brands from all over the world. This means delivery times may vary make sure to check our estimated lead time on each product page. Once your order is dispatched you will receive your tracking information. <\/p>"
           }
         },
         "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-1": {
           "type": "tab_content",
           "settings": {
             "question": "Can I return my product?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>Most of our products are elligeble for return withing 14 days of delivery. If your product is made to order, we cannot accept any returns. Make sure to check the delivery and return section on each product page for more information.<\/p>"
           }
         },
-        "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-2": {
+        "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-0": {
           "type": "tab_content",
           "settings": {
-            "question": "Whne will my produtc be delivered?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "question": "Will i have to pay custom fees on my order?",
+            "text": "<p>Our brands are located all over the world, and in some cases, you will be required to pay customs fees. Refer to the country of origin of each product on their product page. Depending on your delivery location custom fees might be payable. Refer to our delivery policy here<\/p>"
           }
         },
         "513503ba-b60c-4c86-b8ca-d3902d5e3071": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "question": "Need more help?",
+            "text": "<p>Need some styling advice? More information about the product? Please get in touch with our lovely customer service team. We are here to help.<\/p>"
           }
         },
-        "514bd0d9-2e52-4b9d-b460-0c803c65b066": {
+        "91a7ffe7-4f94-4b39-beab-bdd18bd48d34": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "question": "Are you an interior designer?",
+            "text": "<p>Email us at trade@maisonflaneur.com to open your trade account and benefit from our trade discounts accross the Maison Flaneur collection<\/p>"
           }
         }
       },
       "block_order": [
-        "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-0",
-        "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-1",
         "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-2",
+        "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-1",
+        "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-0",
         "513503ba-b60c-4c86-b8ca-d3902d5e3071",
-        "514bd0d9-2e52-4b9d-b460-0c803c65b066"
+        "91a7ffe7-4f94-4b39-beab-bdd18bd48d34"
       ],
       "settings": {
         "background-color": "#f3f3f3",
         "text-color": "#000000",
-        "title": "Frequently asked questions",
+        "title": "What you need to know",
         "faq_icon": "caret"
       }
     }

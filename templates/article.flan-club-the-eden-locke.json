@@ -1,0 +1,166 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/eden-locke-hotel-grzywinski-pons-interiors-hotels-london-uk_dezeen_hero-b-1024x576.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Flân’ Club: The Eden Locke, Edinburgh",
+        "title": "",
+        "text": "<p><a href=\"http:\/\/www.lockeliving.com\/eden-locke\/\">The Eden Locke<\/a> is located in Edinburgh’s New Town, a UNESCO World Heritage Site, which is filled with 18th-century Georgian houses. <a href=\"http:\/\/gp-arch.com\/\">Grzywinski + Pons, <\/a>the New York-based studio who designed the hotel describes it as “a beautiful, if austere, collection of sturdy and uniform ranks”. The design of the 72 rooms hotel is a flâneur’s dream. See below.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "68627415-32f3-469f-a115-dbb514f3a815": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17923517448507__68627415-32f3-469f-a115-dbb514f3a815-16758544624cc668fc-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Photo1-819x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17923517448507__68627415-32f3-469f-a115-dbb514f3a815-16758544624cc668fc-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Photo2-819x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17923517448507__68627415-32f3-469f-a115-dbb514f3a815-16758544624cc668fc-1",
+        "template--17923517448507__68627415-32f3-469f-a115-dbb514f3a815-16758544624cc668fc-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/eden-locke-hotel-grzywinski-pons-interiors-hotels-london-uk_dezeen_2364_col_41-1022x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>“With a dash of reverence we sought to embellish the building in our own way, and from the inside out,” said the architects to online design magazine <a href=\"https:\/\/www.dezeen.com\/2017\/06\/24\/eden-locke-hotel-grzywinski-pons-edinburgh-scotland-renovation-tropical-interior\/#\/\">Dezeen<\/a>. “We amplified the visual warmth of the long Scottish light with an approach that leaned towards the sophisticatedly tropical.”<\/p><p>“We manipulated the building sectionally so that rooms spanned both the generous Georgian volume and the tighter spaces of the 20th-century addition, yielding some dynamic spaces. We capitalised on the larger period fenestration and lofty ceilings in the public areas of the rooms while beds and circulation sit in the more intimate areas of the hybrid spaces.”<\/p><p> <\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/flan-club-the-jaffa-hotel-tel-aviv\/\"><strong>Discover more inspiring design location <\/strong><\/a><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/shop\/\"><strong>And Maison Flâneur’s full collection. <\/strong><\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "0850f203-6858-441c-894d-6687e4fbaf61": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17923517448507__0850f203-6858-441c-894d-6687e4fbaf61-16758544624cc668fc-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Photo3-819x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17923517448507__0850f203-6858-441c-894d-6687e4fbaf61-16758544624cc668fc-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Photo4-820x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17923517448507__0850f203-6858-441c-894d-6687e4fbaf61-16758544624cc668fc-1",
+        "template--17923517448507__0850f203-6858-441c-894d-6687e4fbaf61-16758544624cc668fc-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "5fa9b9f1-3d1c-4aab-809a-3c78d6fcf7e9": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17923517448507__5fa9b9f1-3d1c-4aab-809a-3c78d6fcf7e9-16758544624cc668fc-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GC-019-PEGGY-WALL-ADJUSTABLE-BEIGE-1024x1024-1-1024x648.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Peggy Beige Adjustable Wall Lamp<\/p><p>From £280<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17923517448507__5fa9b9f1-3d1c-4aab-809a-3c78d6fcf7e9-16758544624cc668fc-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Shop the Look:"
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "68627415-32f3-469f-a115-dbb514f3a815",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "main",
+    "0850f203-6858-441c-894d-6687e4fbaf61",
+    "5fa9b9f1-3d1c-4aab-809a-3c78d6fcf7e9",
+    "blog-posts"
+  ]
+}

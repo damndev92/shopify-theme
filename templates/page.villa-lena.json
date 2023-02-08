@@ -21,7 +21,8 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "Pisa, Italy",
+        "page_title": "",
         "title": "Villa Lena",
         "text": "<p><br\/>Villa Lena cultivates both nature and culture, exemplifying a new way of living and holiday experience. The Villa Lena estate is located in the Province of Pisa, secluded amongst 500 hectares of woodland, vineyards, olive groves and organic vegetable gardens. A 19th-century villa sits at the heart of the property, originally built for an Italian aristocratic family. It now houses the Villa Lena Foundation and artist-in-residence programme. Surrounding the villa, converted historic agricultural buildings—former farmhouses, stables and hunting lodges—house self-contained guest apartments and shared facilities.<\/p>",
         "button_link": "",
@@ -45,7 +46,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Shop_the_Look-Hotels_c04b2307-0f55-4fc9-b5f4-60921a059c56.png",
-            "link": "shopify:\/\/products\/parentesi-suspension-lamp",
+            "link": "",
             "title": "",
             "description": ""
           }
@@ -115,6 +116,7 @@
         "image": "shopify:\/\/shop_images\/Untitled_design_11.png",
         "layout": "left",
         "subheading": "Villa Lena",
+        "location": false,
         "title": "Meet the Interior Designers",
         "text_block": "<p><br\/>During the 19th and early 20th-century Villa Lena was the home of an aristocratic Italian family, but in 2013 it re-opened as a hotel with For Villa Lena, architecture firm Hesselbrand designing and creating a series of rustic guest suites.<\/p>",
         "page_description": false,
@@ -218,7 +220,7 @@
         "stl__heading": "Heading",
         "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
         "description__position": "hidden",
-        "link": "shopify:\/\/collections\/le-pigalle",
+        "link": "",
         "button__text": "Shop the look"
       }
     },
@@ -285,6 +287,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "The rooms",
+        "page_title": "",
         "title": "Take A Peek Inside",
         "text": "<p>Double rooms in the San Michele building are Seventies in style – think pastel pinks and blues, raffia chairs and desks, pendant lamps and terrazzo-tiled bathrooms. If you book into the Fattoria building expect austere apartments (some sleep up to four), with stylish features such as mismatched chairs, brick flooring, working fireplaces, kitchenettes and featured art.<\/p>",
         "button_link": "",
@@ -294,38 +297,38 @@
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e": {
       "type": "image--gallery",
       "blocks": {
-        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0": {
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_8.png",
-            "link": "",
-            "title": "Room 1",
-            "description": "<p>Room 1<\/p>"
+            "image": "shopify:\/\/shop_images\/Untitled_design_10.png",
+            "link": "https:\/\/www.villa-lena.it\/stay-with-us\/rooms-apartments\/san-michele\/",
+            "title": "SAN MICHELE rooms",
+            "description": "<p>30 sqm, 1 King-Size Double or Twin<\/p><p>These rooms are one of six beautiful bedrooms situated in the San Michele building alongside the hotel’s restaurant and bar and a short walk from the pool. Each room features a luxurious en-suite bathroom with bathtub and French door-windows offering unrivalled views across the Tuscan hills or the majestic Villa.<\/p>"
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Fattoria_Hesselbrand_Wavy_unnamed_1_1_2.jpg",
-            "link": "",
-            "title": "Room 2",
-            "description": "<p>Room 2<\/p>"
+            "link": "https:\/\/www.villa-lena.it\/stay-with-us\/rooms-apartments\/fattoria-large-superior\/",
+            "title": "Large Superior FAttoria Room",
+            "description": "<p>39 sqm, 1 King-Size Double or Twin<\/p><p>These rooms have a more luxurious touch and feel, but still with our relaxed Villa Lena aesthetic and boast marble bathrooms with underfloor heating and large bathtubs. Previously the estate’s stables, the Fattoria rooms have majestic high-beamed ceilings, beautiful oak floors and are located in a central position adjacent to the Villa and a short stroll from the San Michele restaurant and pool.<\/p>"
           }
         },
-        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_10.png",
-            "link": "",
-            "title": "Room 3",
-            "description": "<p>Room 3<\/p>"
+            "image": "shopify:\/\/shop_images\/Villa_Lena_Casetta.png",
+            "link": "https:\/\/www.ericsoft.biz\/BookingEngine\/Book?idh=8015F6D4EDD3C10C&lang=en&beta=true",
+            "title": "CASETTA BELLA VILLA",
+            "description": "<p>80 sqm, 3 Double Bedrooms<\/p><p>Casetta Bella is a self-contained and secluded three bedroom house with a pool shared with the neighbouring Maison Stento. The house includes a large open-plan living space, outdoor terrace, two double bedrooms and one twin, a large family bathroom with a bath and shower, a kitchen with facilities including fridge, gas hob and electric oven. The property is a 20 minutes walk walk from the San Michele restaurant and pool so car rental is recommended.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0",
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2",
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1",
-        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2"
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0"
       ],
       "settings": {
         "colors": "white",

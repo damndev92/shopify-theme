@@ -21,7 +21,8 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "The Cotswolds, UK",
+        "page_title": "",
         "title": "Thyme",
         "text": "<p><br\/>You’ll find The Ox Barn within a converted, former 19-Century oxen house – an architecturally impressive space with soaring ceilings. Which makes sense, because Thyme – the converted manor and farm in which it’s set – is driven by a passion for local heritage, beauty and conservation. Accordingly, The Ox Barn pays homage to its past – think a striking stone rubble facade and original beams overhead, made more modern with Scandi-inspired furniture in nature’s best tones. Making it even more contemporary still are a contemporary bar and seven-and-a-half metre Charvet open kitchen, where Head Chef Charlie Hibbert puts this historic building to work.<\/p>",
         "button_link": "",
@@ -115,6 +116,7 @@
         "image": "shopify:\/\/shop_images\/Untitled_design_1_75b71c0d-7f07-45b1-b07a-a0d68580e156.png",
         "layout": "left",
         "subheading": "Thyme",
+        "location": false,
         "title": "Meet the Interior Designers",
         "text_block": "<p><br\/>For Fawn, the Interior Designers behind Thyme, the colour palette is expected - soft and muted (creams and plaster-pink) - but then invigorated with unexpected pops of sunny, happy yellow, greens and blues. The bedrooms (and integrated bathrooms) are sumptuous with luxury touches of marble and stone. Beautiful exposed original beams add character, warmth and structure. In the drawing rooms, the use of greens enhances the organic feel with luxury touches of coppers and brasses. The use of light oak keeps spaces feeling fresh and modern, with quirky touches like arty sheep to keep visitors company.<\/p>",
         "page_description": false,
@@ -218,7 +220,7 @@
         "stl__heading": "Heading",
         "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
         "description__position": "hidden",
-        "link": "shopify:\/\/collections\/le-pigalle",
+        "link": "",
         "button__text": "Shop the look"
       }
     },
@@ -285,6 +287,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "The rooms",
+        "page_title": "",
         "title": "Take A Peek Inside",
         "text": "<p>Their rooms' neoclassical architectural style inspired artists and poets in the late nineteenth century. All 40 rooms are decorated in the Nouvelle Athènes mode, conveying a specific image of Pigalle: historic, modern, decadent, multicultural, and musical. Simple and comfortable, full of domestic touches. Each is a collection of objects, souvenirs, music, books and second-hand furniture, with a personality all of its own.<\/p>",
         "button_link": "",

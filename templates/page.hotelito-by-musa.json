@@ -3,7 +3,7 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Hotelito_by_Musa.png",
+        "image": "shopify:\/\/shop_images\/Musa_f68f1a1a-668e-4a5e-8ec7-a142504f6383.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -21,7 +21,8 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "Cancun, Mexico",
+        "page_title": "",
         "title": "Hotelito By Musa",
         "text": "<p><br\/>Nestled between the cascading mountains of the Sierra Madres and Mexico’s glittering Pacific, and spanning 165 acres of Arcadian jungle and a one mile stretch of pristine, untouched coastline and a calm lagoon brimming with wildlife, the 11 bedroom boutique Hotelito by Musa is a new beachfront destination for the conscious traveler. A transcendental playground for the young at heart, Musa combines cutting-edge design, architecture, art, music, culinary experiences, relaxation and cultural explorations, conjure countless opportunities for pleasure and illumination.<\/p>",
         "button_link": "",
@@ -260,7 +261,7 @@
         "colors": "white",
         "subheading": "",
         "title": "",
-        "image": "shopify:\/\/shop_images\/89.png",
+        "image": "shopify:\/\/shop_images\/musa_2_a0b21d78-2dd9-4639-95ce-a9fee107cc8a.png",
         "image__position": "image--right",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
@@ -286,8 +287,9 @@
         "colors": "white",
         "width": "medium",
         "subheading": "The rooms",
+        "page_title": "",
         "title": "Take A Peek Inside",
-        "text": "<p>Their rooms' neoclassical architectural style inspired artists and poets in the late nineteenth century. All 40 rooms are decorated in the Nouvelle Athènes mode, conveying a specific image of Pigalle: historic, modern, decadent, multicultural, and musical. Simple and comfortable, full of domestic touches. Each is a collection of objects, souvenirs, music, books and second-hand furniture, with a personality all of its own.<\/p>",
+        "text": "<p><br\/>Featuring thirteen boutique suites and personalised bedrooms featuring curated art and book collections and cool and modern materials sourced and constructed in the region, el Hotelito meets the needs of the modern luxury traveller with sanctuary-like private and communal spaces well-appointed with custom designed furniture, hemp-cotton robes, cloud-like beds dressed with 500 thread count Vivenda and handspun Candor linens, and accented by a custom MUSA scent for a multi-sensory experience. <\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -299,27 +301,27 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_016b5cf1-191c-4f63-9c26-eb76ab900064.png",
-            "link": "",
-            "title": "Double ROOM",
-            "description": "<p>With its bar and close-up view of the neighbourhood, the Pigalle 17 has an an intimate feel, making the room perfect for couples.<\/p>"
+            "link": "https:\/\/www.mews.li\/distributor\/a0fa0bf6-bcb0-495b-a7de-ac690136da03",
+            "title": "Double ROOM musa 1",
+            "description": "<p>All rooms offer reliable WiFi, curated minibar, and bedside controls for air conditioning and intelligent lighting. In addition to sleek, open-air ensuites, personal balconies and garden terraces offer either an outdoor bathtub or dipping pool for cooling off and calming down.<\/p>"
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_350cda9f-05bd-4598-8745-e2f53c202924.png",
-            "link": "",
-            "title": "Pigalle 21",
-            "description": "<p>The Pigalle 21 features a turntable and rare selection of historic vinyl, and a 1920s golden era leather-upholstered bar.<\/p>"
+            "image": "shopify:\/\/shop_images\/MUSA.png",
+            "link": "https:\/\/www.mews.li\/distributor\/a0fa0bf6-bcb0-495b-a7de-ac690136da03",
+            "title": "BEDROOM MUSA 2",
+            "description": "<p>All rooms offer reliable WiFi, curated minibar, and bedside controls for air conditioning and intelligent lighting. In addition to sleek, open-air ensuites, personal balconies and garden terraces offer either an outdoor bathtub or dipping pool for cooling off and calming down.<\/p>"
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_79b26e16-05b4-4728-99b2-639c553d59de.png",
+            "image": "shopify:\/\/shop_images\/Room_pix_300_x_400_efe63353-232c-4ee5-b13b-d148136a2195.png",
             "link": "",
-            "title": "Pigalle 22",
-            "description": "<p>A voluptuous cocoon lined with inspiring pieces of art, the Pigalle 22 is particularly spacious and homely with a large bed and a bath in the bedroom itself.<\/p>"
+            "title": "BEDROOM MUSA 3",
+            "description": "<p>All rooms offer reliable WiFi, curated minibar, and bedside controls for air conditioning and intelligent lighting. In addition to sleek, open-air ensuites, personal balconies and garden terraces offer either an outdoor bathtub or dipping pool for cooling off and calming down.<\/p>"
           }
         }
       },

@@ -21,7 +21,7 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "Nairobi, Kenya",
         "title": "Tribe Hotel",
         "text": "<p><br\/>Tribe Hotel, Nairobi’s coolest luxury boutique hotel, encapsulates the city’s African spirit and celebrates its creativity. Warm, earthy shades and traditional craft blends with contemporary design, creating a sense of understated luxury. We are incredibly proud to showcase Tribe hotel’s unique decor.<\/p>",
         "button_link": "",
@@ -184,7 +184,7 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Le Pigalle",
+        "subheading": "tribe",
         "title": "Shop the look",
         "image": "shopify:\/\/shop_images\/52.png",
         "image__position": "image--left",
@@ -192,7 +192,7 @@
         "stl__heading": "Heading",
         "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
         "description__position": "hidden",
-        "link": "shopify:\/\/collections\/le-pigalle",
+        "link": "",
         "button__text": "Shop the look"
       }
     },

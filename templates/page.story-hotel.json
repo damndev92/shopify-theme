@@ -21,7 +21,7 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "Stockholm, Sweden",
         "page_title": "",
         "title": "Story Hotel",
         "text": "<p><br\/>The Story Hotel Stockholm is an urban haven where stunningly coiffed Stockholmers and trendy travellers converge normally over cocktails inside the bustling lobby bar which has been inspired by the interiors of Parisian salons and dark, moody jazz bars.<\/p>",
@@ -113,12 +113,12 @@
       "settings": {
         "colors": "white",
         "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/festern.png",
+        "image": "shopify:\/\/shop_images\/Interior_Designers-Hotels_5eddd8a3-edfe-4d90-8f81-fe783290c7f4.png",
         "layout": "left",
         "subheading": "Story Hotel",
         "location": false,
         "title": "Meet the Interior Designers",
-        "text_block": "<p><br\/>Story Hotel is a new hotel concept in Stockholm by Swedish architects Koncept. The hotel is a conversion of an existing building, which has been stripped back to a bare shell of raw concrete walls. Rooms were converted from former apartments, its reception was once a barber shop and the Ling Long restaurant a garage. Raw concrete walls and lots of velvet and cool illustrations cover the walls, adding a cosy and warm feel. The interior is decorated with a mixture of vintage and contemporary furniture and the original doors from the building have been reused as headboards for the beds.<\/p>",
+        "text_block": "<p><br\/>Story Hotel is a new hotel concept in Stockholm by Swedish architects and interior designers Koncept, part of the AFRY group. The hotel is a conversion of an existing building, which has been stripped back to a bare shell of raw concrete walls. Rooms were converted from former apartments, its reception was once a barber shop and the Ling Long restaurant a garage. Raw concrete walls and lots of velvet and cool illustrations cover the walls, adding a cosy and warm feel. The interior is decorated with a mixture of vintage and contemporary furniture and the original doors from the building have been reused as headboards for the beds.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,

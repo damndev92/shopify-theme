@@ -3,7 +3,7 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/27_8e165bc9-0093-4b37-bd14-e36a4269a71a.png",
+        "image": "shopify:\/\/shop_images\/jnane_tamsna.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -21,7 +21,7 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "Marrakech, Morocco",
         "page_title": "",
         "title": "Jnane Tamsna",
         "text": "<p><br\/>Jnane Tamsna is a family-friendly hotel that benefits from a wonderful sense of space and light. A walk from bedroom to reception is likely to pass pools, covered pathways, and a discreetly located tennis court. It’s an extremely photogenic location, and as you walk around it’s easy to imagine yourself posed artfully in some shot accompanying an article entitled ‘The Wonder of Marrakech’.<br\/><\/p>",
@@ -32,7 +32,7 @@
     "302ff8da-82b7-4a84-bdc7-26a7e514e2be": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/26_bea2755d-1a36-411b-8f2b-dd1b40305147.png",
+        "image": "shopify:\/\/shop_images\/jnane_tamsna_5.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -149,7 +149,7 @@
         "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/50.png",
+            "image": "shopify:\/\/shop_images\/Jnane.png",
             "link": "",
             "title": "",
             "description": ""
@@ -274,7 +274,7 @@
     "421c7e07-6af9-44f0-aa81-d5b98faac719": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/29_7dd7f4bb-7c99-45a7-bbcb-93759371f646.png",
+        "image": "shopify:\/\/shop_images\/jnane_tamsna_3.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
