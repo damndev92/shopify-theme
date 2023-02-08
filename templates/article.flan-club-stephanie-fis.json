@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "ca1c7436-8151-404d-ac55-2e0e960e7d3d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Stephanie_Fishwick_Shell_Books_Merci-731x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>A fun story to share about calligraphy? <\/strong><br\/>It’s so easy to acquire all kinds of amazing writing tools other than the traditional quill type nib online. I collect Murano glass pens, ruling pens, folded pens and others to make different scripts with. One year for Christmas my husband James custom ordered a few calligraphy brushes for me from a Chinese artist who uses local roadkill to source hair, and designs wild tufts out of them, to place into the handles she carves herself. The result: Truly one-of-a-kind brush strokes!<\/p><p><strong>Describe your philosophy when it comes to your work.<\/strong><br\/>A while ago I wrote this down and have it pinned up next to my desk:  Two parts history, beauty, nature to one part experimental, surreal, ugly.<\/p><p><strong>What is your favourite object in your home?<\/strong><br\/>One of my favourite finds is an Atlantic surf clamshell that was swirling around my son and I in the waves a few summers ago in Amagansett; a truly beautiful place and memory with my 5-year-old.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "ca1c7436-8151-404d-ac55-2e0e960e7d3d",
     "main",
     "blog-posts"
   ]
