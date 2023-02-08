@@ -153,7 +153,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/interior_designers.png",
         "layout": "left",
         "subheading": "",
@@ -163,7 +163,7 @@
         "page_description": false,
         "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
         "hotel_page_url": false,
-        "button_label": "Learn More"
+        "button_label": "Read More"
       }
     },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
