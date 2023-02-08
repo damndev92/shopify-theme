@@ -125,6 +125,23 @@
         "button_label": ""
       }
     },
+    "a39ca12e-4066-4cfa-a06d-44c4616f2fbf": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/1-1024x1024_9ea59963-a47a-4cf2-90f6-f7c4001c49e4.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Your favourite experience to do in Italy?<\/strong><\/p><p><em>Tom<\/em><\/p><p>Sailing Expedition in the Aeolian Island, admiring Stromboli erupting in front of you at night <\/p><p><em>Leti<\/em><\/p><p>Sharing stories with locals – Meeting for example Corrado, the proud owner of a Masseria in Puglia, he will tell you the story of his family, bring you around the estate, telling you all the secrets (like an escape tunnel that was built in the 1500). You are there to taste the olive oil but everything comes first.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -161,6 +178,7 @@
     "4450c9f4-e287-4259-b8d0-88accdd20d4c",
     "75891d13-656d-45b9-b60b-0d2febc9b8df",
     "423e9a14-7e02-4643-9173-2ff812a3d147",
+    "a39ca12e-4066-4cfa-a06d-44c4616f2fbf",
     "main",
     "blog-posts"
   ]
