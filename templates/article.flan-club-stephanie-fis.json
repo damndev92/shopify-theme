@@ -121,6 +121,38 @@
         "show_recent_posts": false
       }
     },
+    "a8e3bd40-9130-4114-a224-b33b6fa14444": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17923265986875__a8e3bd40-9130-4114-a224-b33b6fa14444-16758530340b5bb877-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/jars_featured.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Alabaster Urn Vases, Set of 3<\/p><p>€1,537<\/p>"
+          }
+        },
+        "template--17923265986875__a8e3bd40-9130-4114-a224-b33b6fa14444-16758530340b5bb877-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Egg-300ml-cafe-latte-cup-and-saucer-red.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Latte Coffee Cup & Saucer<\/p><p>From €16<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17923265986875__a8e3bd40-9130-4114-a224-b33b6fa14444-16758530340b5bb877-0",
+        "template--17923265986875__a8e3bd40-9130-4114-a224-b33b6fa14444-16758530340b5bb877-1"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -144,6 +176,7 @@
     "605e190c-ffd4-4525-aab0-f8d6d6f0d84c",
     "dc5f9b70-18df-4790-b33a-eb5f9595b11e",
     "main",
+    "a8e3bd40-9130-4114-a224-b33b6fa14444",
     "blog-posts"
   ]
 }
