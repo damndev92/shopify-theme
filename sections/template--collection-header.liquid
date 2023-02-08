@@ -38,10 +38,14 @@
         {% for link in linklists.mega-menu.links %}
           {% if link.links != blank %}
             {% if link.title == 'Shop by Products' or 'Shop by Room' %}
+              {% for sub_link in link.links %}
+                {% if sub_link.title == collection.title %}
               <div class="title-bar custom-font" style="padding-top: 50px;">
                 <h2 class="wow fadeIn delay-1" style="visibility: visible; animation-name: fadeIn;">{{ collection.title }}</h2>
               </div>
               {% break %}
+                  {% endif %}
+              {% endfor %}
             {% endif %}
           {% endif %}
         {% endfor %}
