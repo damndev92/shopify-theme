@@ -98,7 +98,7 @@
             "product": "beefbar-main-plate-knife-emoji",
             "top": 63,
             "left": 51,
-            "disable_spot": false
+            "disable_spot": true
           }
         },
         "517bf13f-4587-410b-9936-ec1c633fb40a": {
@@ -107,7 +107,7 @@
             "product": "design-clock-solari-cifra-3-black",
             "top": 0,
             "left": 0,
-            "disable_spot": false
+            "disable_spot": true
           }
         },
         "c7a1d13b-34b7-482c-a60b-86062ad97463": {
