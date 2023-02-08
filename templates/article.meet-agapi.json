@@ -1,0 +1,207 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/09-cretanmalia-cooking-1024x576.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Meet Agapi and Costantza Sbokou, Owners of Cretan Malia Park, Crete",
+        "title": "",
+        "text": "<p>Agapi and Costantza Sbokou the two sisters behind Cretan Malia Park in Crete were born with the hospitality bug. Passionate, ambitious, and fearless, we ask them about the story behind the hotel, their favourite locations, and their organic recipe for success.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "d8e4bf7d-b7d8-4b47-a70e-45a196701bac": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/01-cretanmalia-agapi-costantza-sbokou-pier-1024x574.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Cretan-Malia-Park-Beach-3-767x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How would you describe Cretan Malia Park in one word?<\/strong><br\/>Engaging – And that’s on many levels. Nature, Design, Food, People. <\/p><p><strong>Hospitality is part of your heritage – Can you tell us about the story of Cretan Malia Park? <\/strong><br\/>Indeed it is. We grew up in hotels, as our father was amongst the pioneers of tourism in Crete. He was an educated visionary who helped shape quality tourism. Originally a camping site, Cretan Malia Park sits today amongst lush gardens which date back to the late 70’s. The wild Cretan, and in specific Malian flora, with palm trees, Indian figs, and the famous banana trees, are part of beautiful exotic Mediterranean gardens that remain until today a strong reference point and a source of inspiration for its architecture and style. Our paternal grandmother had a successful woven textile business in the 50’s and 60’s, items from her collection are blend in with new design items at CMP to create this fresh yet rooted aesthetic.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/cretan-malia-park-reception-desk-extraordinary-lamp-interior-design-k-02-x2-jpg-872x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Who was Antonis Stylianides? <\/strong><br\/>The buildings of CMP are modernist structures spread amongst lush gardens, were originally constructed in the late 80’s when our father Yannis Sbokos bought the land, by Antonis Stylianides of 3SK Stylianidis architects, who once worked alongside German Architect Gropius. <\/p><p>Cretan Malia Park has just been fully renovated by Vana Pernari, a talented Greek architect. The resort’s original form provided the initial idea to create spaces where people will experience the outside, inside. Indoor and outdoor living should blend in a harmonious and natural way for people to experience a new slow-paced lifestyle and authentic unassuming luxury.   <\/p><p>The low rising building’s complex and the amazing gardens, is a sweet spot between the sense of memory and the familiar. This inspired the architect to keep the design rooted in tradition but yet unique, filled with materials, textures, colors of the Cretan land, curious objects, carefully curating a warm atmosphere that will seduce and enchant the visitors<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "d9fd8179-ff8d-4137-9061-4e212ab3a167": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/WebSize_118-DS-CretanMalia.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Nature is at the heart of Cretan Malia Park, How did you incorporate this eco-consciousness in your vision? <\/strong><br\/>The challenge to create a hotel while respecting and protecting the environment and the society in which we operate is at the heart of our philosophy. It did not come as a trend of today. It developed naturally, starting back in the early 90’s by our father. Today, it is a strong pillar in our philosophy and a filter in everything we do. It guides us in how we design, how we operate Cretan Malia Park, the initiatives we take with our people behind the scenes and how we want our guests to experience Crete. <\/p><p><strong>Your favourite design item from Cretan Malia Park? <\/strong><br\/>Sessan Sofa of Tacchini and our Greek artists collection!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "9f39b87b-08ad-4583-85c0-e08f33173743": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/10-cretanmalia-constantza-agapi-pier-1024x573.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "60987c08-d1d3-4c4d-a9f5-153a3347a4cb": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/cretan-malia-park-farming-garden-kitchen-barbeque-m-06-r-a-a-872x1024_aed16b41-d6d2-4046-bbcf-30677e558973.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What’s your hospitality philosophy?<\/strong><br\/>At Phāea Resorts we believe in celebrating a truer, more timeless Greece. <\/p><p>We live by that and because the island of Crete is our heritage and such a strong influence for us, we are meticulously putting together experiences that speak of our worldly aesthetics, local heritage and truth.  <\/p><p><strong>What makes a good host?<\/strong><br\/>Genuine warmth – this comes naturally to us Cretans; understanding of who our guest is and effortless attention to detail. Every space should be curated to reflect our aesthetics. Every experience should have our attention to speak of who we are. And yet all should be done to exude an effortless, almost natural feeling. It is all an acquired talent.<\/p><p><strong>Who would be your dream guest?<\/strong><br\/>Anyone who leaves a place mesmerized by its culture and people. Someone who travels the world but comes to Crete and Cretan Malia Park and sees beyond the obvious.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "f6ad3043-e2e9-4d1e-9926-744d90b46174": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Cretan-Malia-Park-Accommodation-3-1024x695.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How would you define luxury today? <\/strong><br\/>Luxury today is work in progress. It is moving away from tangible to intangible. Luxury is about space and time. It is about truth in everything – from design to materials, to timelessness – and it is ultimately about genuine feelings.  <\/p><p><strong>Can you tell us something people might not know about Crete? <\/strong><br\/>In mythology Crete was the birthplace of Zeus and also the place where later Zeus took his love Europa, who gave birth to Minos – later King Minos and founder of the first European civilization, the Minoans. In a way, it all started here. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "d72a1862-0f17-4e2b-bb32-ebb4d31ff6a2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Cretan-Malia-Park-The-Place1-1024x683.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Favourite restaurant in the world? <\/strong><br\/>On the South of Crete, on a remote beach accessible only by boat, <em>Chryssanthos, <\/em>makes the most delicious bread, salads, eggs, and meat cooked in Cretan style. Simple, yet the best. Looking forward to it every single summer.<\/p><p><strong>Favourite address for decoration?<\/strong><br\/>We love combining things. From the flee markets in Paris to Maison Flaneur’s curated selection to our favourite designers of the moment. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "1fe8e4d2-ab4b-486a-88bd-46c5fd832eb5": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/84336256-1024x768.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Favourite restaurant in the world? <\/strong><br\/>On the South of Crete, on a remote beach accessible only by boat, <em>Chryssanthos, <\/em>makes the most delicious bread, salads, eggs, and meat cooked in Cretan style. Simple, yet the best. Looking forward to it every single summer.<\/p><p><strong>Favourite address for decoration?<\/strong><br\/>We love combining things. From the flee markets in Paris to Maison Flaneur’s curated selection to our favourite designers of the moment. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "d8e4bf7d-b7d8-4b47-a70e-45a196701bac",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "d9fd8179-ff8d-4137-9061-4e212ab3a167",
+    "main",
+    "9f39b87b-08ad-4583-85c0-e08f33173743",
+    "60987c08-d1d3-4c4d-a9f5-153a3347a4cb",
+    "f6ad3043-e2e9-4d1e-9926-744d90b46174",
+    "d72a1862-0f17-4e2b-bb32-ebb4d31ff6a2",
+    "1fe8e4d2-ab4b-486a-88bd-46c5fd832eb5",
+    "blog-posts"
+  ]
+}
