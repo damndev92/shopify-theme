@@ -141,6 +141,16 @@
         "subheading": "",
         "title": "Discover also"
       }
+    },
+    "4a9a9c3a-1551-437e-8b5b-09dc9369be13": {
+      "type": "image--image",
+      "settings": {
+        "image": "{{ collection.image }}",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
     }
   },
   "order": [
@@ -149,6 +159,7 @@
     "e852b54b-9f5d-4bc2-bbed-18d21018a45d",
     "collection_filtering",
     "main",
-    "collection-list"
+    "collection-list",
+    "4a9a9c3a-1551-437e-8b5b-09dc9369be13"
   ]
 }
