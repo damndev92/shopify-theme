@@ -1,0 +1,77 @@
+{% style %}
+  #shopify-section-{{ section.id }}.maison--btn .btn {
+    background-color: {{ section.settings.bg_color }}
+  }
+
+  .maison--btn .btn {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+{% endstyle %}
+
+<section id="{{ section.id }}">
+  <div class="container featured-blog--block--{{ section.id }}">
+      <div class="row">
+        <div class="page-width col-md-12" style="padding-top: {{ section.settings.padding_top }}px; padding-bottom: {{ section.settings.padding_bottom }}px;">
+          {% if section.settings.btn %}
+            <div class="text-center wow fadeIn delay-1" style="margin: 0 auto">
+              <a href="{{ section.settings.url }}" class="btn">
+                {{ section.settings.btn }}
+              </a>
+            </div>
+          {% endif %}
+        </div>
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+    "name": "Maison - button",
+    "class": "maison--btn",
+    "settings": [
+        {
+            "type": "text",
+            "id": "btn",
+            "label": "Label"
+        },
+        {
+          "type": "text",
+          "id": "url",
+          "label": "Url"
+        },
+        {
+          "type": "color",
+          "id": "bg_color",
+          "label": "Background color",
+          "default": "#e28065"
+        },
+        {
+            "type": "range",
+            "id": "padding_top",
+            "min": 5,
+            "max": 100,
+            "step": 5,
+            "label": "Padding top",
+            "default": 25,
+            "unit": "px"
+        },
+        {
+          "type": "range",
+          "id": "padding_bottom",
+          "min": 5,
+          "max": 100,
+          "step": 5,
+          "label": "Padding bottom",
+          "default": 25,
+          "unit": "px"
+        }
+    ],
+    "presets": [
+        {
+            "name": "Maison - button",
+            "category": "Maison"
+        }
+    ]
+}
+{% endschema %}
