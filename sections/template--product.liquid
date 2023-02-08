@@ -254,7 +254,11 @@
 
                 <div class="product-vendor-sku" {{ block.shopify_attributes }}>
                   {% if block.settings.show_vendor %}
-                    <div class="indiv-product-vendor-text">{{ product.vendor }}</div>
+                    {% for collection in collections %}
+                      {% if collection.title == product.vendor %}
+                        <div class="indiv-product-vendor-text"><a href={{ shop.url | append: collection.url }}>{{ product.vendor }}</a></div>
+                      {% endif %}
+                    {% endfor %}
                   {% endif %}
                   {% if block.settings.show_sku %}
                     <div class="indiv-product-sku-text{% unless current_variant.sku %} hide{% endunless %}">{{ current_variant.sku }}</div>
