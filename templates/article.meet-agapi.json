@@ -97,6 +97,16 @@
         "show_recent_posts": false
       }
     },
+    "9f39b87b-08ad-4583-85c0-e08f33173743": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/10-cretanmalia-constantza-agapi-pier-1024x573.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -119,6 +129,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "d9fd8179-ff8d-4137-9061-4e212ab3a167",
     "main",
+    "9f39b87b-08ad-4583-85c0-e08f33173743",
     "blog-posts"
   ]
 }
