@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "605e190c-ffd4-4525-aab0-f8d6d6f0d84c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Stephanie_Fishwick_Art_Collage_Maison_Flaneur_Article-732x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Ever wanted to bring back something from a hotel or a restaurant?<\/strong><br\/>The perfectly-sized, vintage martini glasses at our favourite bar, The C&O.<\/p><p><strong>What is your favourite hotel in the world?<\/strong><br\/>Truthfully I haven’t stayed in many hotels – or the really nice ones I should say. Growing up our one annual family trip was to a tiny seaside town in Delaware called Bethany Beach. Our large extended family would rent two old clapboard cottages next door to one another – across from the ocean, yes, but very rustic. Mom would bring along our cotton sheets from home, our own pillows and we cooked most of the meals (except for the famous local pizza ) and it felt – and still very much feels – like a home away from home. It wasn’t until I was out of college that I began travelling and that was always on a shoestring. I will say, since getting married, my husband and I have stayed at a few very special hotels. We loved our stay at The Bowery Hotel in New York City. A wonderful former client of mine, who has stayed in the greatest hotels all over the world, told me his favourite is The Bowery. We bonded over their chic and comfortable rooms, wood floors with natural wool area rugs and large bright windows that you can crank open for fresh air. The downstairs is a cosy, casual place to hang out in, and the experience overall was more like being in a really nice apartment than a hotel—I guess that makes me kind of a homebody, ha!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "ca1c7436-8151-404d-ac55-2e0e960e7d3d",
+    "605e190c-ffd4-4525-aab0-f8d6d6f0d84c",
     "main",
     "blog-posts"
   ]
