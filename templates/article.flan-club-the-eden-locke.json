@@ -72,23 +72,6 @@
         "button_label": ""
       }
     },
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
-        "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "hotel_page_url": false,
-        "button_label": "Book Now"
-      }
-    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -100,6 +83,38 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
+      }
+    },
+    "0850f203-6858-441c-894d-6687e4fbaf61": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17923517448507__0850f203-6858-441c-894d-6687e4fbaf61-16758544624cc668fc-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Photo3-819x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17923517448507__0850f203-6858-441c-894d-6687e4fbaf61-16758544624cc668fc-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Photo4-820x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17923517448507__0850f203-6858-441c-894d-6687e4fbaf61-16758544624cc668fc-1",
+        "template--17923517448507__0850f203-6858-441c-894d-6687e4fbaf61-16758544624cc668fc-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
       }
     },
     "blog-posts": {
@@ -121,8 +136,8 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "68627415-32f3-469f-a115-dbb514f3a815",
     "60bed94f-19d1-471f-9213-301734a4bab2",
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "0850f203-6858-441c-894d-6687e4fbaf61",
     "blog-posts"
   ]
 }
