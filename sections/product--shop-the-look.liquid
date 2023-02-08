@@ -60,9 +60,11 @@
                   {% if block.settings.product != blank %}
                     {% assign thisProduct = all_products[block.settings.product] %}
                     {% if block.settings.product != blank %}
-                      <div class="stl__dot--container" style="top:{{ block.settings.top }}%; left:{{ block.settings.left }}%;" data-index="{{ main-dot-count }}" {{ block.shopify_attributes }}>
-                        <button aria-labelledby="product_{{ main-dot-count }}" class="stl__dot" data-index="{{ main-dot-count }}" type="button" data-stl-dot-block-id="{{ block.id }}"></button>
-                      </div>
+                      {% if block.settings.disable_spot == false %}
+                        <div class="stl__dot--container" style="top:{{ block.settings.top }}%; left:{{ block.settings.left }}%;" data-index="{{ main-dot-count }}" {{ block.shopify_attributes }}>
+                          <button aria-labelledby="product_{{ main-dot-count }}" class="stl__dot" data-index="{{ main-dot-count }}" type="button" data-stl-dot-block-id="{{ block.id }}"></button>
+                        </div>
+                      {% endif %}
                     {% endif %}
                   {% endif %}
 
@@ -73,10 +75,12 @@
               {% else %}
 
                 {% for block in section.blocks %}
+                  {% if block.settings.disable_spot == false %}
                   {% assign main-dot-count = main-dot-count | plus: 1 %}
                   <div class="stl__dot--container" style="top:{{ block.settings.top }}%; left:{{ block.settings.left }}%;" data-index="{{ main-dot-count }}" {{ block.shopify_attributes }}>
                     <button aria-labelledby="product_{{ main-dot-count }}" class="stl__dot" data-index="{{ main-dot-count }}" type="button" data-stl-dot-block-id="{{ block.id }}"></button>
                   </div>
+                  {% endif %}
                 {% endfor %}
 
                 {{ 'collection-1' | append: current | placeholder_svg_tag: 'icon--placeholder stl__image' }}
@@ -563,6 +567,12 @@
             "max": 90,
             "unit": "%",
             "default": 0
+          },
+          {
+            "type": "checkbox",
+            "id": "disable_spot",
+            "label": "Disable spot",
+            "default": false
           }
         ]
       }
