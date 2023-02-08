@@ -151,14 +151,14 @@
           "type": "tab_content",
           "settings": {
             "question": "Will i have to pay custom fees on my order?",
-            "text": "<p>Refer to the country of origin of each product on their product pages. Depending on your delivery location custom fees might be payable. Refer to our delivery policy here<\/p>"
+            "text": "<p>Our brands are located all over the world, and in some cases, you will be required to pay customs fees. Refer to the country of origin of each product on their product page. Depending on your delivery location custom fees might be payable. Refer to our delivery policy here<\/p>"
           }
         },
         "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-1": {
           "type": "tab_content",
           "settings": {
             "question": "Can I return my product?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>Most of our products <\/p>"
           }
         },
         "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-2": {
