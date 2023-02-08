@@ -209,25 +209,8 @@
       "settings": {
         "background-color": "#e3e3e3",
         "text-color": "#000000",
-        "title": "Frequently asked questions",
+        "title": "Get to know Hotel Pacai",
         "faq_icon": "plus_minus"
-      }
-    },
-    "6b633d33-85b6-43bb-b397-1a5037f77912": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/interior_designers.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "Meet the Interior Designers",
-        "text_block": "<p><br\/>Set in the heart of Vilnius’ Old Town—Yes Design Studio envisaged Hotel PACAI to perfectly echo this quarter’s 17th-century Baroque grandeur, yet augmenting it with a contemporary twist.<\/p>",
-        "page_description": false,
-        "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
@@ -283,6 +266,23 @@
         "colors": "white",
         "subheading": "",
         "title": ""
+      }
+    },
+    "6b633d33-85b6-43bb-b397-1a5037f77912": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/interior_designers.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Meet the Interior Designers",
+        "text_block": "<p><br\/>Set in the heart of Vilnius’ Old Town—Yes Design Studio envisaged Hotel PACAI to perfectly echo this quarter’s 17th-century Baroque grandeur, yet augmenting it with a contemporary twist.<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
       }
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
@@ -451,9 +451,9 @@
     "fc207bbe-372a-410a-9fd6-efb127b006be",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "6b633d33-85b6-43bb-b397-1a5037f77912",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
+    "6b633d33-85b6-43bb-b397-1a5037f77912",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
