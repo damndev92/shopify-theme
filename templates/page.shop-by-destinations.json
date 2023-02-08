@@ -104,6 +104,46 @@
         "hero_size": "medium",
         "text-over-image-width": "full-width"
       }
+    },
+    "1171aa9d-339a-4ce4-8468-5b3208ca4ad3": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17647682617659__1171aa9d-339a-4ce4-8468-5b3208ca4ad3-1675858103a8476972-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Photo3-819x1024.jpg",
+            "link": "shopify:\/\/collections\/chetzeron",
+            "title": "Chetzeron",
+            "description": ""
+          }
+        },
+        "template--17647682617659__1171aa9d-339a-4ce4-8468-5b3208ca4ad3-1675858103a8476972-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17647682617659__1171aa9d-339a-4ce4-8468-5b3208ca4ad3-1675858103a8476972-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17647682617659__1171aa9d-339a-4ce4-8468-5b3208ca4ad3-1675858103a8476972-0",
+        "template--17647682617659__1171aa9d-339a-4ce4-8468-5b3208ca4ad3-1675858103a8476972-1",
+        "template--17647682617659__1171aa9d-339a-4ce4-8468-5b3208ca4ad3-1675858103a8476972-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
     }
   },
   "order": [
@@ -111,6 +151,7 @@
     "main",
     "6bb64512-b0f4-470f-a831-da34d529ebce",
     "07d9e5bd-58c8-4fd8-9347-02901b98324b",
-    "eada9471-525f-4376-8e4f-3493ed49a28f"
+    "eada9471-525f-4376-8e4f-3493ed49a28f",
+    "1171aa9d-339a-4ce4-8468-5b3208ca4ad3"
   ]
 }
