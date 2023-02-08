@@ -107,6 +107,23 @@
         "text-over-image-width": "full-width"
       }
     },
+    "60987c08-d1d3-4c4d-a9f5-153a3347a4cb": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/cretan-malia-park-farming-garden-kitchen-barbeque-m-06-r-a-a-872x1024_aed16b41-d6d2-4046-bbcf-30677e558973.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Share brand or product details",
+        "text_block": "<p><strong>What’s your hospitality philosophy?<\/strong><br\/>At Phāea Resorts we believe in celebrating a truer, more timeless Greece. <\/p><p>We live by that and because the island of Crete is our heritage and such a strong influence for us, we are meticulously putting together experiences that speak of our worldly aesthetics, local heritage and truth.  <\/p><p><strong>What makes a good host?<\/strong><br\/>Genuine warmth – this comes naturally to us Cretans; understanding of who our guest is and effortless attention to detail. Every space should be curated to reflect our aesthetics. Every experience should have our attention to speak of who we are. And yet all should be done to exude an effortless, almost natural feeling. It is all an acquired talent.<\/p><p><strong>Who would be your dream guest?<\/strong><br\/>Anyone who leaves a place mesmerized by its culture and people. Someone who travels the world but comes to Crete and Cretan Malia Park and sees beyond the obvious.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -130,6 +147,7 @@
     "d9fd8179-ff8d-4137-9061-4e212ab3a167",
     "main",
     "9f39b87b-08ad-4583-85c0-e08f33173743",
+    "60987c08-d1d3-4c4d-a9f5-153a3347a4cb",
     "blog-posts"
   ]
 }
