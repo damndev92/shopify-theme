@@ -3,6 +3,7 @@
     "d5277379-ae02-4eb1-ac45-a58c58641551": {
       "type": "image--image",
       "settings": {
+        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_f4b4313e-5ee9-4e9a-9f90-d1de0253a0c9.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
