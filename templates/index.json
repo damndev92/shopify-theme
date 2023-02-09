@@ -7,7 +7,6 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/le-pigalle-parisian-hotel-double-room_a7ba58f6-f809-4e4a-87aa-b1c83a6808a7.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Ruta-Macike_0050_1-scaled.jpg",
             "subheading": "Discover",
             "title": "Le Pigalle",
             "text": "Here's your chance to make a great first impression",
@@ -39,11 +38,30 @@
             "horizontal-alignment": "right",
             "vertical-alignment": "bottom"
           }
+        },
+        "6b477156-e822-486d-bea7-256f9d4a480e": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "subheading": "",
+            "title": "Share your story",
+            "text": "Here's your chance to make a great first impression",
+            "button_text": "",
+            "link": "",
+            "caption-background": "rgba(0,0,0,0)",
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#000000",
+            "button-background-hover": "#797979",
+            "horizontal-alignment": "left",
+            "vertical-alignment": "middle"
+          }
         }
       },
       "block_order": [
         "image--slideshow-0",
-        "bb922bba-94ab-4952-b9e2-8a6bd68eafb1"
+        "bb922bba-94ab-4952-b9e2-8a6bd68eafb1",
+        "6b477156-e822-486d-bea7-256f9d4a480e"
       ],
       "settings": {
         "split-images": true,
