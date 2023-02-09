@@ -141,56 +141,11 @@
         "subheading": "meet",
         "location": false,
         "title": "Blanca Miro and Maria de la Orden",
-        "text_block": "<p>Let them take you on a journey in the Spanish capital. Madrid like you have not seen it before. <\/p>",
+        "text_block": "<p>There’s never a dull day when you’re in the bright, kaleidoscopic world of La Veste. Spanish style icons Blanca Miro and Maria de la Orden have finally turned their hands at interiors, and we couldn’t be happier.<\/p>",
         "page_description": false,
         "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
         "hotel_page_url": false,
         "button_label": "Read More"
-      }
-    },
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
-      "type": "accordion",
-      "blocks": {
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
-          "type": "tab_content",
-          "settings": {
-            "question": "STAY",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        },
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
-          "type": "tab_content",
-          "settings": {
-            "question": "EAT",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        },
-        "1a417f72-3017-4455-aba2-ed34dbdbfe48": {
-          "type": "tab_content",
-          "settings": {
-            "question": "SEE",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        },
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
-          "type": "tab_content",
-          "settings": {
-            "question": "SHOP",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
-        "1a417f72-3017-4455-aba2-ed34dbdbfe48",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
-      ],
-      "settings": {
-        "background-color": "#e3e3e3",
-        "text-color": "#000000",
-        "title": "WHERE TO",
-        "faq_icon": "plus_minus"
       }
     },
     "b8b7b408-c4e2-493b-83c4-5d1239774fcb": {
@@ -222,7 +177,7 @@
       "settings": {
         "colors": "white",
         "subheading": "",
-        "title": ""
+        "title": "EAT"
       }
     },
     "4a5ce8f8-4c14-49ec-9614-c01842269f06": {
@@ -254,7 +209,39 @@
       "settings": {
         "colors": "white",
         "subheading": "",
-        "title": ""
+        "title": "SEE"
+      }
+    },
+    "3348f991-fee1-4f5d-8bc3-69c69d3b35c8": {
+      "type": "image--gallery",
+      "blocks": {
+        "59ae0fd5-f5f7-4979-a565-e564397e584d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_11.06.26.png",
+            "link": "",
+            "title": "Antigua Casa Crespo",
+            "description": "<p>For more than 150 years, Antigua Casa Crespo has been shoeing Madrid's masses with hand-sewn espadrilles, the comfy and colorful sandals that never go out of style with the bohemian set.<\/p>"
+          }
+        },
+        "7e6311e6-17e3-4a55-b24c-b95c21b5a0ad": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_13.23.22.png",
+            "link": "",
+            "title": "Cocol",
+            "description": "<p>Let's face it: That Real Madrid T-shirt you bought at the soccer stadium and those \"Viva España\" shot glasses you snapped up on Gran Vía aren't made in Spain, let alone in Madrid.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "59ae0fd5-f5f7-4979-a565-e564397e584d",
+        "7e6311e6-17e3-4a55-b24c-b95c21b5a0ad"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "SHOP"
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
@@ -265,7 +252,7 @@
         "subheading": "DISCOVER",
         "page_title": "",
         "title": "THE BRANDS",
-        "text": "<p>Experience a completely unique stay at the Hotel Pacai, where historic 17th Century rooms get a thoroughly modern make-over.<\/p>",
+        "text": "<p>Bring home without the hassle of paying extra luggage. We will ship it directly to your home. <\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -338,9 +325,9 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "SHop",
+        "subheading": "Shop",
         "title": "ON MAISON FLÂNEUR",
-        "collection": "",
+        "collection": "la-veste",
         "grid": 4,
         "rows": 1,
         "show_view_all": false
@@ -369,9 +356,9 @@
     "fc207bbe-372a-410a-9fd6-efb127b006be",
     "8277f169-883c-4a2a-a64e-fb9fa3aacb5a",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "b8b7b408-c4e2-493b-83c4-5d1239774fcb",
     "4a5ce8f8-4c14-49ec-9614-c01842269f06",
+    "3348f991-fee1-4f5d-8bc3-69c69d3b35c8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a",
