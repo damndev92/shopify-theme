@@ -22,6 +22,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "Nairobi, Kenya",
+        "page_title": "",
         "title": "Tribe Hotel",
         "text": "<p><br\/>Tribe Hotel, Nairobi’s coolest luxury boutique hotel, encapsulates the city’s African spirit and celebrates its creativity. Warm, earthy shades and traditional craft blends with contemporary design, creating a sense of understated luxury. We are incredibly proud to showcase Tribe hotel’s unique decor.<\/p>",
         "button_link": "",
@@ -58,6 +59,22 @@
         "colors": "light",
         "subheading": "",
         "title": ""
+      }
+    },
+    "a05db212-652f-4271-8069-7ace459b4c2e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "layout": "left",
+        "subheading": "Meet",
+        "location": false,
+        "title": "Owner",
+        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
       }
     },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
@@ -157,7 +174,8 @@
           "settings": {
             "product": "beefbar-main-plate-knife-emoji",
             "top": 63,
-            "left": 51
+            "left": 51,
+            "disable_spot": false
           }
         },
         "61a17092-0b88-43c9-888c-ee6b50651501": {
@@ -165,7 +183,8 @@
           "settings": {
             "product": "design-clock-solari-cifra-3-black",
             "top": 0,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         },
         "2d0cd767-4992-4798-8a74-406d517d073e": {
@@ -173,7 +192,8 @@
           "settings": {
             "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
             "top": 33,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         }
       },
@@ -234,6 +254,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "The rooms",
+        "page_title": "",
         "title": "Take A Peek Inside",
         "text": "<p><br\/>The majority of the 137 bedrooms at Tribe have the business traveller in mind, so they are quite compact, but all rooms have extra-long king-sized beds, rain showers and LCD televisions. That said, natural stone-tiled walls and rustic metals contrast against stainless steel and glass, and local fabrics and handmade wooden furniture add a distinctive African feel.<\/p>",
         "button_link": "",
@@ -327,6 +348,7 @@
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
+    "a05db212-652f-4271-8069-7ace459b4c2e",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
