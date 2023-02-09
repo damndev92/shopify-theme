@@ -220,3 +220,37 @@ h1, h2, h3, h4, h5, h6 {
 .maison-collection-category {
     max-width: 185px;
 }
+
+.splitted-flex-slider {
+    display: flex !important;
+}
+
+.splitted-flex-slider > div {
+    width: 50%;
+    position: relative;
+}
+
+/* Splitted image on home page */
+@media screen and (max-width: 767px) {
+    .splitted-flex-slider img {
+        height: 100%;
+        object-fit: cover;
+    }
+    .splitted-flex-slider>div .slider-caption:not(.slideshow-mobile-image-content).background,
+    .splitted-flex-slider .slider-caption,
+    .splitted-flex-slider .slider-caption.background {
+        background-color: transparent!important;
+        position: absolute;
+        background: transparent!important;
+        bottom: auto !important;
+        top: 0 !important;
+    }
+
+    .splitted-flex-slider > div:not(:nth-of-type(1)) {
+        display: none;
+    }
+
+    .splitted-flex-slider > div {
+        width: 100%;
+    }
+}

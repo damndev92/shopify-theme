@@ -19,6 +19,7 @@
 							<ul class="slides" style="width: {{ section.blocks | size | times:100 }}%;">
 								{% assign number_of_slides_float = section.blocks | size | times:1.0 %}
 
+                {% if section.settings.split-images != true %}
 								{% for block in section.blocks %}
 									{%- assign slide_is_link = false -%}
                                     {% if block.settings.link != blank %}
@@ -156,6 +157,144 @@
                     </style>
 
 									{% endfor %}
+
+
+                {% else %}
+                    <li class="splitted-flex-slider">
+                    {% for block in section.blocks %}
+                        {%- assign slide_is_link = false -%}
+                        {% if block.settings.link != blank %}
+                            {%- assign slide_is_link = true -%}
+                        {% endif %}
+                        <div {{ block.shopify_attributes }} class="slider-block--{{ block.id }}">
+                            {% if block.settings.image == blank and block.settings.mobile_image == blank %}
+                                {% if slide_is_link %}
+                                    <a
+                                    href="{{ block.settings.link }}"
+                                    class="slideshow__link"
+                                    tabindex="-1"
+                                    aria-label="{{ block.settings.link | split: '/' | last | replace: '-', ' ' | capitalize }}"
+                                    >
+                                {% endif %}
+
+                                {% capture current %}{% cycle 1, 2 %}{% endcapture %}
+                                {{ 'lifestyle-' | append: current | placeholder_svg_tag: 'icon--placeholder' }}
+
+                                {% if slide_is_link %}
+                                    </a>
+                                {% endif %}
+                            {% else %}
+                                {% if slide_is_link %}
+                                    <a
+                                    href="{{ block.settings.link }}"
+                                    class="slideshow__link"
+                                    tabindex="-1"
+                                    aria-label="{{ block.settings.link | split: '/' | last | replace: '-', ' ' | capitalize }}"
+                                    >
+                                {% endif %}
+
+                                {% if block.settings.mobile_image != blank and block.settings.image != blank %}
+                                    {% render 'responsive-image' with block.settings.mobile_image, class: 'slideshow-mobile-image', alt: block.settings.mobile_image.alt, sizes: '100vw' %}
+                                    {% render 'responsive-image' with block.settings.image, class: 'slideshow-desktop-image', props: 'data-expand="10000"', alt: block.settings.image.alt, sizes: '100vw'%}
+                                {% elsif block.settings.mobile_image == blank and block.settings.image != blank %}
+                                    {% render 'responsive-image' with block.settings.image, class: 'slideshow-desktop-as-mobile-image', alt: block.settings.image.alt, sizes: '100vw' %}
+                                {% elsif block.settings.mobile_image != blank and block.settings.image == blank %}
+                                    {% render 'responsive-image' with block.settings.mobile_image, class: 'slideshow-mobile-image', alt: block.settings.mobile_image.alt, sizes: '100vw' %}
+                                {% endif %}
+
+                                {% if slide_is_link %}
+                                    </a>
+                                {% endif %}
+                            {% endif %}
+
+                            {% if block.settings.title != empty or block.settings.text != empty or block.settings.button_text != empty %}
+
+                                {% assign has_caption = true %}
+
+                                <div aria-live="polite" aria-atomic="true" class="slider-caption horizontal-align--{{ block.settings.horizontal-alignment }} vertical-align--{{ block.settings.vertical-alignment }} background{% if block.settings.mobile_image != blank %} slideshow-mobile-image-content{% endif %}{% if block.settings.mobile_image == blank and section.settings.show-slide-dots %} slider-dots--padding{% endif %}">
+                                    {% if block.settings.subheading != empty %}
+                                        <h3 class="type-subheading type-subheading--1 slideshow-fade-content{% if block.settings.title != blank %} typography--padding-bottom{% endif %}">{{ block.settings.subheading | escape }}</h3>
+                                    {% endif %}
+
+                                    {% if block.settings.title != empty %}
+                                        {% if slide_is_link %}
+                                            <h2 class="slideshow-fade-content"><a href="{{ block.settings.link }}">{{ block.settings.title | escape }}</a></h2>
+                                        {% else %}
+                                            <h2 class="slideshow-fade-content">{{ block.settings.title | escape }}</h2>
+                                        {% endif %}
+                                    {% endif %}
+
+                                    {% if block.settings.text != empty %}
+                                        <div class="slider-caption--text slideshow-fade-content">
+                                        {% if slide_is_link %}
+                                            <a href="{{ block.settings.link }}" class="slider-caption--text__link">
+                                                {% endif %}
+
+                                                {{ block.settings.text }}
+
+                                                {% if slide_is_link %}
+                                            </a>
+                                            {% endif %}
+                                        </div>
+                                    {% endif %}
+
+                                    {% if block.settings.button_text != empty %}
+                                        {% if slide_is_link %}
+                                            <a class="btn slideshow-fade-content" href="{{ block.settings.link }}">{{ block.settings.button_text  }}</a>
+                                        {% else %}
+                                            <div class="btn btn-no-link slideshow-fade-content" href="{{ block.settings.link }}">{{ block.settings.button_text  }}</div>
+                                        {% endif %}
+                                    {% endif %}
+                                </div>
+                            {% endif %}
+                        </div>
+
+                        <style>
+                            .slider-block--{{ block.id }} .slider-caption.background {
+                                background-color: {{ block.settings.caption-background }}!important;
+                                color: {{ block.settings.caption-text }} !important;
+                            }
+
+                            .slider-block--{{ block.id }} .slider-caption.background a:not(.btn) {
+                                color: {{ block.settings.caption-text }} !important;
+                            }
+
+                            .slider-block--{{ block.id }} .slider-caption .btn {
+                                background-color: {{ block.settings.button-background }} !important;
+                                color: {{ block.settings.button-text }} !important;
+                            }
+
+                            .slider-block--{{ block.id }} .slider-caption.background .btn:hover {
+                                background-color: {{ block.settings.button-background-hover }} !important;
+                            }
+
+                            .slider-block--{{ block.id }} .slider-caption .btn:focus {
+                                background-color: {{ block.settings.button-text }} !important;
+                                color: {{ block.settings.button-background }} !important;
+                            }
+
+                            @media only screen and (max-width: 767px) {
+                                .slider-block--{{ block.id }} .slider-caption:not(.slideshow-mobile-image-content).background {
+                                    background-color: {{ settings.bg_color }} !important;
+                                    color: {{ settings.font-color }} !important;
+                                    text-align: center;
+                                }
+
+                                .slider-block--{{ block.id }} .slider-caption:not(.slideshow-mobile-image-content).background a {
+                                    color: {{ settings.font-color }} !important;
+                                    vertical-align: bottom;
+                                }
+
+                                .slider-block--{{ block.id }} .slider-caption:not(.slideshow-mobile-image-content) a.btn {
+                                    background-color: {{ block.settings.button-background }} !important;
+                                    color: {{ block.settings.button-text }} !important;
+                                }
+                            }
+                        </style>
+                    {% endfor %}
+                    </li>
+                {% endif %}
+
 					      </ul>
 
                         {% if section.blocks.size > 1 %}
@@ -324,6 +463,13 @@
     "class": "homepage-section--slideshow-wrapper",
     "max_blocks": 12,
     "settings": [
+          {
+              "type": "checkbox",
+              "id": "split-images",
+              "label": "Two images on one slide",
+              "info": "Merge two images into one slide.",
+              "default": false
+          },
         {
             "type": "radio",
             "id": "slider-animation",
