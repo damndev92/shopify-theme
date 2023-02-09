@@ -29,15 +29,15 @@
         "colors": "white",
         "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/Schermata-2021-05-18-alle-16.40.54-1024x1022.png",
-        "layout": "left",
+        "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "1. Kanishka",
-        "text_block": "<p><\/p><p><\/p><p><\/p>",
+        "title": "",
+        "text_block": "<p><strong>What is the story behind Sew Bella?<\/strong><\/p><p>I broke my leg in my first year at university, and was on crutches for about 5 months. Bored rigid and needing a creative outlet, I picked up a needle and found a passion! I wanted to find a way of adding some fun per<\/p><p><\/p>",
         "page_description": false,
-        "button_link": "shopify:\/\/products\/beefbar-main-plate-piece-of-meat-emoji",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
