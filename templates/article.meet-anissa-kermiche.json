@@ -40,6 +40,19 @@
         "button_label": ""
       }
     },
+    "2f759e0c-1240-4708-9286-7d7094073af2": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><strong>Where do you find your inspiration for interior design?<\/strong><\/p><p>I am very observant and have hawk eyes when it comes to detail. Whenever I spend an evening at a friend’s house, I inevitably end up leaving with a whole new list of ideas for my flat. I inhale interior magazines on nearly a daily basis and always try to get to antique markets when I travel. I also love attending design fairs such as Salone Del Mobile in Milan or Maison et Objets in Paris. I would definitely be identified as a bit of an interior design show addict, French TV has the best ones! They feature the most incredible architect’s houses, which naturally inspire me but also regularly leave me engulfed with envy.<\/p><p><strong>Describe your philosophy when it comes to decoration.<\/strong><\/p><p>My taste seems to be constantly changing with age. When I was younger, I held quite a Scandinavian perspective- I would choose purely neutral colours and geometric lines, very minimal. However, now I find myself leaning towards much warmer colours and antique furniture. I am enchanted by older pieces and their stories; it makes for a much more interesting interior. I’ve also developed a penchant for striking prints, especially the Liberty ones, they are so gorgeously feminine. My taste has unquestionably become much bolder with age. My philosophy is about investing in solid timeless pieces that you can rely on for a lifetime. For example, I would always go to Dutch or Danish designers when it comes to chairs. Then to spice up their classic style I would mix and match them with unexpected treasures from antique shopping or auctions. To me it is a never-ending expedition, I will constantly be tweaking and updating, highlighting the significant stages of my taste trajectory until I’m old and grey.<\/p><p><strong>Your favourite object in your home.<\/strong><\/p><p>Well it’s technically a piece of art but I think I can be allowed to call it an object given that it has a function: lighting my corridor. It is a canvas from the contemporary artist Francois Morrelet. A black monochrome canvas with neon lights suspended to it. As simple as it is, the bold statement it makes in my flat amazes me every day.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -88,6 +101,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
+    "2f759e0c-1240-4708-9286-7d7094073af2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "blog-posts"
