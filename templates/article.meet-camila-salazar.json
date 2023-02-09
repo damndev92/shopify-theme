@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/Sevilla-Baby-Alpaca-Throw-9-683x1024.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>What is the story behind Studio Erhart?<\/strong><\/p><p>My mother, Mercedes, and my aunt Federica started working together on some of Federica’s projects a couple of years ago. They then started looking for artisans in Spain to create bespoke pieces for these projects. While working together on the renovation of the Park Gstaad Hotel, the client asked them last minute to set up a small shop in the hotel’s lobby and the products we designed were such a success that we decided to start producing them in limited quantities! That’s how Studio Erhart was born!<br\/><strong><br\/>How would you describe Studio Erhart in a word?<\/strong><\/p><p>Timeless.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
