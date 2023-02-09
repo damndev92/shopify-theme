@@ -105,6 +105,23 @@
         "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/i1234_nterior_designers_BLOCK.png",
         "layout": "left",
+        "subheading": "Sami Lamaa, Owner",
+        "location": false,
+        "title": "Meet",
+        "text_block": "<p><br\/>At Chetzeron, every space was inspired by the mountains. The architecture of the building and its interior design is entirely conceived in a sensitive and minimalist manner, creating a comfy, welcoming space that manages to work in sublime harmony with its beautiful surroundings.<\/p><p>Chetzeron’s puristic design was created by the architect Ambroise Bonvin, his team at Actes Collectifs, Sami Lamaa, and his partner; the hotel was a finalist in the 2015 European Design Awards in the category “Architecture adaptive reuse”.<\/p><p>The luscious interiors juxtapose weathered materials like stone against sumptuous bedding and furniture, resulting in Alpine interiors perfectly in tune with the surroundings.<\/p><p>Ultimately with Chetzeron Sami Lamaa built a deluxe haven; a place to unwind, to recharge and to find inner peace, with the team looking to make each guest’s stay as unique as possible.<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
+    "252d581f-2c61-4de0-9415-8d56fac7f13e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/i1234_nterior_designers_BLOCK.png",
+        "layout": "left",
         "subheading": "Chetzeron",
         "location": false,
         "title": "Meet the Interior Designers",
@@ -175,7 +192,8 @@
           "settings": {
             "product": "beefbar-main-plate-knife-emoji",
             "top": 63,
-            "left": 51
+            "left": 51,
+            "disable_spot": false
           }
         },
         "61a17092-0b88-43c9-888c-ee6b50651501": {
@@ -183,7 +201,8 @@
           "settings": {
             "product": "design-clock-solari-cifra-3-black",
             "top": 0,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         },
         "2d0cd767-4992-4798-8a74-406d517d073e": {
@@ -191,7 +210,8 @@
           "settings": {
             "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
             "top": 33,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         }
       },
@@ -222,7 +242,8 @@
           "settings": {
             "product": "beefbar-main-plate-knife-emoji",
             "top": 63,
-            "left": 51
+            "left": 51,
+            "disable_spot": false
           }
         },
         "33f45241-76a7-44e8-98cf-425c6bb0bdc8": {
@@ -230,7 +251,8 @@
           "settings": {
             "product": "design-clock-solari-cifra-3-black",
             "top": 0,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         },
         "acc4f147-815a-42fe-a4b7-0c5e251efe89": {
@@ -238,7 +260,8 @@
           "settings": {
             "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
             "top": 33,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         }
       },
@@ -395,6 +418,7 @@
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
+    "252d581f-2c61-4de0-9415-8d56fac7f13e",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
