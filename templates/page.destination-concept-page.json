@@ -185,6 +185,37 @@
         "faq_icon": "plus_minus"
       }
     },
+    "b8b7b408-c4e2-493b-83c4-5d1239774fcb": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17934527725883__b8b7b408-c4e2-493b-83c4-5d1239774fcb-16759366176042e399-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_10.50.26.png",
+            "link": "",
+            "title": "El Cisne Azul",
+            "description": "<p>Ask local food writers and chefs where to try the city's best wild mushrooms, and they'll invariably point you to El Cisne Azul, an unsuspecting hole-in-the-wall in Chueca. <\/p>"
+          }
+        },
+        "template--17934527725883__b8b7b408-c4e2-493b-83c4-5d1239774fcb-16759366176042e399-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17934527725883__b8b7b408-c4e2-493b-83c4-5d1239774fcb-16759366176042e399-0",
+        "template--17934527725883__b8b7b408-c4e2-493b-83c4-5d1239774fcb-16759366176042e399-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "905968d0-1364-43ba-b6f9-c40d1387ff8b": {
       "type": "image--image",
       "settings": {
@@ -250,16 +281,6 @@
         "title": ""
       }
     },
-    "d65530bf-d321-40a6-9274-d539d93227d2": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/hotelpacai-vilnus-lithuania-europe-rooms-jpg.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
-      }
-    },
     "6b633d33-85b6-43bb-b397-1a5037f77912": {
       "type": "text--image-with-text",
       "settings": {
@@ -289,90 +310,6 @@
         "show_blog_images": true,
         "imageSize": "portrait"
       }
-    },
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5_5bc062fc-052d-4daa-b5c6-ac8959ed00b9.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6_d5b49dc4-65d6-4af0-b9eb-c648dbd5c71e.png",
-            "link": "shopify:\/\/products\/parentesi-suspension-lamp",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0",
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1"
-      ],
-      "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
-      }
-    },
-    "63680a03-e85a-40a7-9084-4a83db4c7921": {
-      "type": "image--gallery",
-      "blocks": {
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4_48ec3f8c-6e5b-41b9-a092-e4b62b6a5e2c.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle",
-            "title": "",
-            "description": ""
-          }
-        },
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/10_69048bcf-407e-46cd-b2e4-635fbd5afc15.png",
-            "link": "shopify:\/\/products\/wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
-            "title": "",
-            "description": ""
-          }
-        },
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_9e5ccb61-65d7-41f4-9751-b385ef82c29d.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
-            "title": "",
-            "description": ""
-          }
-        },
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092",
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9",
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03",
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62"
-      ],
-      "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
-      }
     }
   },
   "order": [
@@ -385,13 +322,11 @@
     "ce2de4fb-18f2-48a0-b7c4-343144d2d838",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
+    "b8b7b408-c4e2-493b-83c4-5d1239774fcb",
     "905968d0-1364-43ba-b6f9-c40d1387ff8b",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
-    "d65530bf-d321-40a6-9274-d539d93227d2",
     "6b633d33-85b6-43bb-b397-1a5037f77912",
-    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
-    "63680a03-e85a-40a7-9084-4a83db4c7921"
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
   ]
 }
