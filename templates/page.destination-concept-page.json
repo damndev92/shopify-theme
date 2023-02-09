@@ -29,16 +29,6 @@
         "button_label": ""
       }
     },
-    "5988eaab-4539-4c15-8296-624e8fa52534": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Pacai_2.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
-      }
-    },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
       "type": "product--shop-the-look",
       "blocks": {
@@ -87,6 +77,38 @@
         "description__position": "hidden",
         "link": "",
         "button__text": "Shop the look"
+      }
+    },
+    "8277f169-883c-4a2a-a64e-fb9fa3aacb5a": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17934527725883__8277f169-883c-4a2a-a64e-fb9fa3aacb5a-16759366176042e399-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_09.57.24.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17934527725883__8277f169-883c-4a2a-a64e-fb9fa3aacb5a-16759366176042e399-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_09.57.29.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17934527725883__8277f169-883c-4a2a-a64e-fb9fa3aacb5a-16759366176042e399-0",
+        "template--17934527725883__8277f169-883c-4a2a-a64e-fb9fa3aacb5a-16759366176042e399-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
       }
     },
     "fc207bbe-372a-410a-9fd6-efb127b006be": {
@@ -367,8 +389,8 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
-    "5988eaab-4539-4c15-8296-624e8fa52534",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
+    "8277f169-883c-4a2a-a64e-fb9fa3aacb5a",
     "fc207bbe-372a-410a-9fd6-efb127b006be",
     "747daaf7-56b9-411a-a6ef-3627bbbd9b6a",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
