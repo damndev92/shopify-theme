@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "4ebd5222-2d66-4bf7-9e88-56a4f48470fb": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/IMG_7625-scaled-1-683x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How is it to create a new brand with your mother & aunt?<\/strong><\/p><p>Contrary to what anyone could think, it is great fun! We complement each other very well: Federica and my mother, Mercedes, do most of the designing work and I am in charge of the general management. We all come from different backgrounds (interior designer, art historian and business lawyer), which allows us to explore ideas and solve issues with different approaches.<\/p><p><strong>Where did you find your inspiration for your first collection?<\/strong><\/p><p>My mother and aunt are from Argentina origin and we decided to pay tribute to the wonderful heritage of that country with our Pampa collection, featuring some of its traditional materials such as horn, heavy linens, Mapuche embroideries and alpaca wool.<\/p><p><strong>Your favourite object at home? <\/strong><\/p><p>At home, I love mixing modern and antiques. Whether they are family heirlooms or small objects found at flea markets, I believe that antiques bring a soul to any interior. My favourite is a XVII century Dutch ebonised mirror that my husband gave me for my birthday.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "4ebd5222-2d66-4bf7-9e88-56a4f48470fb",
     "main",
     "blog-posts"
   ]
