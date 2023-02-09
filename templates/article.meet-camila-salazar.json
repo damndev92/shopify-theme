@@ -138,6 +138,38 @@
         "show_recent_posts": false
       }
     },
+    "056012dd-5b5c-4bdd-82e8-3feb733417b1": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17934692417851__056012dd-5b5c-4bdd-82e8-3feb733417b1-1675937378d0995d46-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kyklos-Green-on-White-Pottery-Vase-1-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Kyklos Green on White Vase<\/p><p>£672<\/p>"
+          }
+        },
+        "template--17934692417851__056012dd-5b5c-4bdd-82e8-3feb733417b1-1675937378d0995d46-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pablo-Dining-Set-White-Green-683x1024-1.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Pablo Linen Dining Set for 4 – White & Green<\/p><p>£154<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17934692417851__056012dd-5b5c-4bdd-82e8-3feb733417b1-1675937378d0995d46-1",
+        "template--17934692417851__056012dd-5b5c-4bdd-82e8-3feb733417b1-1675937378d0995d46-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -162,6 +194,7 @@
     "97ba856b-69c7-4270-8fc2-fe0abfaaa8c5",
     "ba3b1bb0-880e-461f-ad83-6442542900c7",
     "main",
+    "056012dd-5b5c-4bdd-82e8-3feb733417b1",
     "blog-posts"
   ]
 }
