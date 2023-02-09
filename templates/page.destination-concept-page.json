@@ -29,6 +29,38 @@
         "button_label": ""
       }
     },
+    "8277f169-883c-4a2a-a64e-fb9fa3aacb5a": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17934527725883__8277f169-883c-4a2a-a64e-fb9fa3aacb5a-16759366176042e399-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_09.57.24.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17934527725883__8277f169-883c-4a2a-a64e-fb9fa3aacb5a-16759366176042e399-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_09.57.29.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17934527725883__8277f169-883c-4a2a-a64e-fb9fa3aacb5a-16759366176042e399-0",
+        "template--17934527725883__8277f169-883c-4a2a-a64e-fb9fa3aacb5a-16759366176042e399-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
       "type": "product--shop-the-look",
       "blocks": {
@@ -67,8 +99,8 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Shop",
-        "title": "The look",
+        "subheading": "Where to",
+        "title": "STAY",
         "image": "shopify:\/\/shop_images\/3_f221a499-5514-4db4-a012-87e5017a950e.png",
         "image__position": "image--left",
         "hotspot__color": "#ffffff",
@@ -77,38 +109,6 @@
         "description__position": "hidden",
         "link": "",
         "button__text": "Shop the look"
-      }
-    },
-    "8277f169-883c-4a2a-a64e-fb9fa3aacb5a": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17934527725883__8277f169-883c-4a2a-a64e-fb9fa3aacb5a-16759366176042e399-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_09.57.24.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17934527725883__8277f169-883c-4a2a-a64e-fb9fa3aacb5a-16759366176042e399-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_09.57.29.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17934527725883__8277f169-883c-4a2a-a64e-fb9fa3aacb5a-16759366176042e399-0",
-        "template--17934527725883__8277f169-883c-4a2a-a64e-fb9fa3aacb5a-16759366176042e399-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
       }
     },
     "fc207bbe-372a-410a-9fd6-efb127b006be": {
@@ -136,12 +136,12 @@
       "settings": {
         "colors": "white",
         "image-width": "large",
-        "image": "shopify:\/\/shop_images\/interior_designers.png",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_10.11.58.png",
         "layout": "left",
         "subheading": "meet",
         "location": false,
-        "title": "Vanessa Ollis, Queen",
-        "text_block": "<p>Set in the heart of Vilnius’ Old Town—Yes Design Studio envisaged Hotel PACAI to perfectly echo this quarter’s 17th-century Baroque grandeur, yet augmenting it with a contemporary twist.<\/p>",
+        "title": "Blanca Miro and Maria de la Orden",
+        "text_block": "<p>Let them take you on a journey in the Spanish capital. Madrid like you have not seen it before. <\/p>",
         "page_description": false,
         "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
         "hotel_page_url": false,
@@ -226,8 +226,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/9.png",
             "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-17\/",
-            "title": "Superior Room",
-            "description": "<p>The interiors of the Superior room are inspired by the nature in the region- the room is full of local artwork as well as a king bed.<\/p>"
+            "title": "¡La Veste Is Best!",
+            "description": "<p><br\/>There’s never a dull day when you’re in the bright, kaleidoscopic world of La Veste.<br\/>Spanish style icons Blanca Miro and Maria de la Orden have finally turned their hands<br\/>at interiors, and we couldn’t be happier.<\/p><p><br\/>Cheery gingham, primary colours and bric-a-brac details abound on the duo’s napkins,<br\/>coasters and quilted placemats. Mix and match to keep the party going or keep it<br\/>simple. Either way, meals are about to get a whole lot more fun.<\/p>"
           }
         },
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1": {
@@ -389,8 +389,8 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "8277f169-883c-4a2a-a64e-fb9fa3aacb5a",
+    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "fc207bbe-372a-410a-9fd6-efb127b006be",
     "747daaf7-56b9-411a-a6ef-3627bbbd9b6a",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
