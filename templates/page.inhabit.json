@@ -115,6 +115,23 @@
         "button_label": "Learn More"
       }
     },
+    "ec227ab9-48fc-403c-82cd-b98c13fb3552": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/14_ab1400db-1c12-4b8b-a96b-3bf9ee141fff.png",
+        "layout": "left",
+        "subheading": "Inhabit",
+        "location": false,
+        "title": "Meet the Interior Designers",
+        "text_block": "<p>At Inhabit wellbeing and sustainable design was at the core of everything, with the aim for guests to leave feeling lighter, more free and inspired by taking the pace of life down, where time is luxury. Created by architecture firm Holland and Harvey with interiors by Peter Marino cohort Caitlin Henderson Design, Inhabit was designed with busy travellers in mind. The tables and chairs were created using materials honestly and in their natural state, all sealed with natural sealant to best showcase this feature. <\/p><p>Curated by Caitlin Henderson, furnishings by Hans Wegner, Austrian Design Collective EEOS for Carl Hansen & Son, and GamFratesi for Gubi, are placed side-by-side with sustainable pieces made by Burmese craftspeople. The fired earth foor is made to juxtapose with these touches.<\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
     "63680a03-e85a-40a7-9084-4a83db4c7921": {
       "type": "image--gallery",
       "blocks": {
@@ -401,6 +418,7 @@
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
+    "ec227ab9-48fc-403c-82cd-b98c13fb3552",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
