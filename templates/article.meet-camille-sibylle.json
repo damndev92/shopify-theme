@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "ecd74946-1366-427b-994d-3ed75a59cab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/IMG_4397-768x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>You create objects for the table. What does “l’Art de la Table” mean to you? <\/strong><\/p><p>It means a lot to us for two reasons. The first one is that feeling of being welcomed, when the table is all set and looking great, it puts you in a good mood and you always end up having the best moments. The second one, is that with a nice plate food will always taste better, so why deprive ourselves?  <\/p><p><strong>Do you think confinement has changed the way people see their homes\/tables?<\/strong><\/p><p>Of course, it’s not news but we stayed in, cooked more, and got more careful of our surroundings. We believe feeling good in our home and kitchen is not an “extra” but can really ease your daily life.<\/p><p><strong>What are your tips for the perfect table setting pour un déjeuner du Dimanche?<\/strong><\/p><p>Put a little heart into it. Don’t be obsessed about having all the same plates or glasses, don’t be afraid to mix, it’s when a table is transformed into art.<\/p><p><strong>Where do you shop your interior pieces?<\/strong><\/p><p>We are more interested in crafting than in the brand, so we try to shop and imagine our pieces through our artisan’s network. Though, we can resist a good designer piece on vintage shops like Selency.<\/p><p><strong>Any wishes for the rest of the year?<\/strong><\/p><p>We would like to find new artisans to collaborate with. Our dream would also be to design a collection for a hotel or a restaurant.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "ecd74946-1366-427b-994d-3ed75a59cab2",
     "main",
     "blog-posts"
   ]
