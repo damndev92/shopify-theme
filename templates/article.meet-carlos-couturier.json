@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "542fedff-77b4-46a5-9979-d244f4e16ff2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Schermata-2021-06-01-alle-18.00.09-1024x683.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What is the biggest lesson you’ve learned since your first project?<\/strong><\/p><p>Consistency.<\/p><p><strong>What has this year changed for you and your vision for Grupo Habita?<\/strong><\/p><p>A better understanding of nature. Of simple life. The real meaning of humility.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "542fedff-77b4-46a5-9979-d244f4e16ff2",
     "main",
     "blog-posts"
   ]
