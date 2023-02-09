@@ -101,7 +101,7 @@
         "colors": "white",
         "subheading": "Where to",
         "title": "STAY",
-        "image": "shopify:\/\/shop_images\/3_f221a499-5514-4db4-a012-87e5017a950e.png",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_10.34.06.png",
         "image__position": "image--left",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
@@ -121,10 +121,10 @@
         "padding_bottom": 20
       }
     },
-    "747daaf7-56b9-411a-a6ef-3627bbbd9b6a": {
+    "ce2de4fb-18f2-48a0-b7c4-343144d2d838": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Pacai.png",
+        "image": "shopify:\/\/shop_images\/Hotel_Pacai_3.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -148,37 +148,27 @@
         "button_label": "Read More"
       }
     },
-    "ce2de4fb-18f2-48a0-b7c4-343144d2d838": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Pacai_3.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
-      }
-    },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
       "type": "accordion",
       "blocks": {
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
+            "question": "STAY",
             "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
+            "question": "EAT",
             "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
+            "question": "SHOP",
             "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
         }
@@ -191,7 +181,7 @@
       "settings": {
         "background-color": "#e3e3e3",
         "text-color": "#000000",
-        "title": "Get to know Hotel Pacai",
+        "title": "WHERE TO",
         "faq_icon": "plus_minus"
       }
     },
@@ -210,9 +200,9 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "The rooms",
+        "subheading": "DISCOVER",
         "page_title": "",
-        "title": "Take A Peek Inside",
+        "title": "THE BRANDS THAT EVERYONE'S TALKING ABOUT",
         "text": "<p>Experience a completely unique stay at the Hotel Pacai, where historic 17th Century rooms get a thoroughly modern make-over.<\/p>",
         "button_link": "",
         "button_label": ""
@@ -242,7 +232,7 @@
         "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_10.18.06.png",
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_10.21.55.png",
             "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-22\/",
             "title": "SUTDIO ERHART; Madrid's best kept secret",
             "description": "<p>Studio Erhart designs and manufactures beautiful interior objects produced in unique pieces or small series, handmade by fine craftsmen using refined materials based in Madrid.<\/p>"
@@ -392,9 +382,8 @@
     "8277f169-883c-4a2a-a64e-fb9fa3aacb5a",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "fc207bbe-372a-410a-9fd6-efb127b006be",
-    "747daaf7-56b9-411a-a6ef-3627bbbd9b6a",
-    "f752c25e-ff65-466a-ba61-33848f1147fc",
     "ce2de4fb-18f2-48a0-b7c4-343144d2d838",
+    "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "905968d0-1364-43ba-b6f9-c40d1387ff8b",
     "889d2c25-4140-44f5-af7a-2c8599551986",
