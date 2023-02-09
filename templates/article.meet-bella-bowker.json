@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "698dd0e1-ff7f-4023-9ce0-f10566fe6aa7": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/cocktails2.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Do you think the confinement has changed the way people see their homes\/tables?<\/strong><\/p><p>100%! My appreciation of a house vs a home has dramatically changed over the past year – where I would have used my house as a base for sleeping, slow evenings and lazy weekends, I now actively try and make sure it’s the most homely, welcoming and lovely place to spend time in. The same for the tables – not being able to eat out meant that we had to create our own ‘occasions’ – although I think this will really come into its own as people begin to host again. <\/p><p><strong>What are your tips for the perfect table setting?<\/strong><\/p><p>Let your personality shine! Whatever that may be, there’s nothing more satisfying than looking at a table and thinking ‘that’s a bit of me’. For me, I wear excessively colourful clothing, I love bright and structural flowers, and pattern-clashing makes me happy – so I will always try and top the table with some fabulous florals, a bright and funky tablecloth, quirky plates – and of course, a set of jazzy Sew Bella napkins. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "3569c588-d638-4479-a28c-fd7d9627c850",
+    "698dd0e1-ff7f-4023-9ce0-f10566fe6aa7",
     "main",
     "blog-posts"
   ]
