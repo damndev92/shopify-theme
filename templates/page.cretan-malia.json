@@ -126,12 +126,22 @@
             "left": 0,
             "disable_spot": true
           }
+        },
+        "5b9e5021-b2c1-4636-94f9-58b2164fc260": {
+          "type": "product",
+          "settings": {
+            "product": "bolero-floor-lamp",
+            "top": 0,
+            "left": 0,
+            "disable_spot": true
+          }
         }
       },
       "block_order": [
         "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
         "61a17092-0b88-43c9-888c-ee6b50651501",
-        "2d0cd767-4992-4798-8a74-406d517d073e"
+        "2d0cd767-4992-4798-8a74-406d517d073e",
+        "5b9e5021-b2c1-4636-94f9-58b2164fc260"
       ],
       "settings": {
         "colors": "white",
