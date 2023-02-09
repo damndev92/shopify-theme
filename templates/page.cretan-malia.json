@@ -3,9 +3,9 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_2324a3f3-6580-4589-9a40-51ff16d3f10e.png",
+        "image": "shopify:\/\/shop_images\/cretan-malia-park-rooms.jpg",
         "parallax": true,
-        "alignment": "center",
+        "alignment": "bottom",
         "hero_size": "large",
         "text-over-image-width": "full-width"
       }
@@ -32,7 +32,7 @@
     "1dc85c19-cbb0-4cf1-bc4a-3c743a1c5bd3": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_b6e144e0-7c6b-482c-9613-97adc9616eeb.png",
+        "image": "shopify:\/\/shop_images\/g-01-cretan-malia-park.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -92,7 +92,7 @@
       ],
       "settings": {
         "colors": "light",
-        "width": 170,
+        "width": 210,
         "subheading": "Some",
         "title": "Facts"
       }
@@ -167,13 +167,13 @@
         "padding_bottom": 25
       }
     },
-    "a4047d2e-8c9f-4550-916a-dffc3104acbc": {
+    "b7f6bc4f-e872-4704-9147-4b826a37f3fd": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/cretan-malia-park-rooms.jpg",
+        "image": "shopify:\/\/shop_images\/s-cretan-malia-park-crete-greece.jpg",
         "parallax": true,
         "alignment": "center",
-        "hero_size": "medium",
+        "hero_size": "large",
         "text-over-image-width": "full-width"
       }
     },
@@ -343,7 +343,7 @@
     "59ecc3a2-e12e-4f43-a554-f9420936706d",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "dc673228-1f95-4ffc-887d-83a8a45785a5",
-    "a4047d2e-8c9f-4550-916a-dffc3104acbc",
+    "b7f6bc4f-e872-4704-9147-4b826a37f3fd",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
