@@ -106,17 +106,19 @@
         "template--17937602707771__7ec9ad06-7edb-4172-ba0c-0d0b0ff9adc1-1675957496cf23f6b2-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Set-of-1784-Collection-Wooden-Chair-and-Stool-1024x1024.jpg",
             "link": "",
             "title": "",
-            "description": ""
+            "description": "<p>1784 Collection Wooden Stool<\/p><p>£533<\/p>"
           }
         },
         "template--17937602707771__7ec9ad06-7edb-4172-ba0c-0d0b0ff9adc1-1675957496cf23f6b2-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/1784-Wooden-Chair-with-Polypropylene-Fabric-1024x1024.jpg",
             "link": "",
             "title": "",
-            "description": ""
+            "description": "<p>1784 Wooden Chair with Polypropylene Fabric<\/p><p>£641<\/p>"
           }
         }
       },
