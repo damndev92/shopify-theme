@@ -165,6 +165,13 @@
             "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
         },
+        "1a417f72-3017-4455-aba2-ed34dbdbfe48": {
+          "type": "tab_content",
+          "settings": {
+            "question": "SEE",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
           "type": "tab_content",
           "settings": {
@@ -176,6 +183,7 @@
       "block_order": [
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
+        "1a417f72-3017-4455-aba2-ed34dbdbfe48",
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
       ],
       "settings": {
@@ -217,14 +225,36 @@
         "title": ""
       }
     },
-    "905968d0-1364-43ba-b6f9-c40d1387ff8b": {
-      "type": "image--image",
+    "4a5ce8f8-4c14-49ec-9614-c01842269f06": {
+      "type": "image--gallery",
+      "blocks": {
+        "da62f075-04c8-41ca-8696-b2d80f19631f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_11.06.26.png",
+            "link": "",
+            "title": "Antigua Casa Crespo",
+            "description": "<p>For more than 150 years, Antigua Casa Crespo has been shoeing Madrid's masses with hand-sewn espadrilles, the comfy and colorful sandals that never go out of style with the bohemian set.<\/p>"
+          }
+        },
+        "5920e11c-5d04-430a-8616-e15b2b2af693": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_13.16.28.png",
+            "link": "",
+            "title": "Teleférico de Madrid",
+            "description": "<p>Madrid Teleférico is a cable car service that connects both sides of Madrid, crossing the river and helping locals avoid rush-hour traffic on their morning and evening commutes.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "da62f075-04c8-41ca-8696-b2d80f19631f",
+        "5920e11c-5d04-430a-8616-e15b2b2af693"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_10.43.28.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
+        "colors": "white",
+        "subheading": "",
+        "title": ""
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
@@ -234,7 +264,7 @@
         "width": "medium",
         "subheading": "DISCOVER",
         "page_title": "",
-        "title": "THE BRANDS THAT EVERYONE'S TALKING ABOUT",
+        "title": "THE BRANDS",
         "text": "<p>Experience a completely unique stay at the Hotel Pacai, where historic 17th Century rooms get a thoroughly modern make-over.<\/p>",
         "button_link": "",
         "button_label": ""
@@ -282,6 +312,40 @@
         "title": ""
       }
     },
+    "922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17934527725883__922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a-167594070126d5a173-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17934527725883__922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a-167594070126d5a173-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17934527725883__922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a-167594070126d5a173-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17934527725883__922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a-167594070126d5a173-0",
+        "template--17934527725883__922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a-167594070126d5a173-1",
+        "template--17934527725883__922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a-167594070126d5a173-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHop",
+        "title": "ON MAISON FLÂNEUR",
+        "collection": "",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
       "settings": {
@@ -307,9 +371,10 @@
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "b8b7b408-c4e2-493b-83c4-5d1239774fcb",
-    "905968d0-1364-43ba-b6f9-c40d1387ff8b",
+    "4a5ce8f8-4c14-49ec-9614-c01842269f06",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
+    "922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
   ]
 }
