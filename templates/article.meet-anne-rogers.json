@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
+        "image": "shopify:\/\/shop_images\/Copy-of-Green-and-Salmon-Text-Food-Influencer-Maximalism-Highlight-Cover-Set-52-731x1024.png",
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Step by step, could you describe the creative process? <\/strong><\/p><p>1. To start, I researched art movements and aesthetics connected to wellness and color psychology, then created mood boards in response to themes and workshopped storytelling exercises to establish the kind of art I wanted to achieve. <\/p><p>2. Next, I collaborated with a computer vision engineer, who built an algorithm (specifically, a Generative Adversarial Network, or GAN) and trained it on a dataset of over 10,000 open access art images. These images were primarily landscape and color field paintings. <\/p><p>3. For over six months, we refined the criteria of the images produced by the AI to achieve color, composition, and subject matter inspired by impressionist landscapes and abstract art. The AI learns the dataset’s artistic styles at an accelerated rate, so it’s fascinating to see what elements the machine chooses to mimic from the data, but also how you can set parameters to help focus it on certain colors or forms. <\/p><p>4. When the AI began producing higher quality art (around Month 4 and 5), I created an online survey that asked people to rank around 100 pairs of images. The online survey did not reveal that any of the art was created by AI, and was instead used to test image preferences. I saved the feedback to assess against the next batch of art.<\/p><p>5. Around Month 6, I saw an exciting batch of appx. 5,000 images that resembled the type of aesthetic and style I had hoped to achieve. I selected 30 and began testing the images on various print materials, including wool\/silk, velvet, linen, and fine art paper. Ultimately, I selected 10 final images that would become “Meditative Landscapes” based on the resulting quality tests and what felt like a comprehensive series.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
