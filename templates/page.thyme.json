@@ -115,6 +115,23 @@
         "image-width": "medium",
         "image": "shopify:\/\/shop_images\/Untitled_design_1_75b71c0d-7f07-45b1-b07a-a0d68580e156.png",
         "layout": "left",
+        "subheading": "Meet",
+        "location": false,
+        "title": "Caryn Hibbert, Owner",
+        "text_block": "<p><br\/>For Fawn, the Interior Designers behind Thyme, the colour palette is expected - soft and muted (creams and plaster-pink) - but then invigorated with unexpected pops of sunny, happy yellow, greens and blues. The bedrooms (and integrated bathrooms) are sumptuous with luxury touches of marble and stone. Beautiful exposed original beams add character, warmth and structure. In the drawing rooms, the use of greens enhances the organic feel with luxury touches of coppers and brasses. The use of light oak keeps spaces feeling fresh and modern, with quirky touches like arty sheep to keep visitors company.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
+    "edecdabc-fd53-479e-80c3-b56525f80ea2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/Untitled_design_1_75b71c0d-7f07-45b1-b07a-a0d68580e156.png",
+        "layout": "left",
         "subheading": "Thyme",
         "location": false,
         "title": "Meet the Interior Designers",
@@ -185,7 +202,8 @@
           "settings": {
             "product": "beefbar-main-plate-knife-emoji",
             "top": 63,
-            "left": 51
+            "left": 51,
+            "disable_spot": false
           }
         },
         "61a17092-0b88-43c9-888c-ee6b50651501": {
@@ -193,7 +211,8 @@
           "settings": {
             "product": "design-clock-solari-cifra-3-black",
             "top": 0,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         },
         "2d0cd767-4992-4798-8a74-406d517d073e": {
@@ -201,7 +220,8 @@
           "settings": {
             "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
             "top": 33,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         }
       },
@@ -232,7 +252,8 @@
           "settings": {
             "product": "beefbar-main-plate-knife-emoji",
             "top": 63,
-            "left": 51
+            "left": 51,
+            "disable_spot": false
           }
         },
         "33f45241-76a7-44e8-98cf-425c6bb0bdc8": {
@@ -240,7 +261,8 @@
           "settings": {
             "product": "design-clock-solari-cifra-3-black",
             "top": 0,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         },
         "acc4f147-815a-42fe-a4b7-0c5e251efe89": {
@@ -248,7 +270,8 @@
           "settings": {
             "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
             "top": 33,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         }
       },
@@ -384,6 +407,7 @@
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
+    "edecdabc-fd53-479e-80c3-b56525f80ea2",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
