@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/DSC_8865-2-685x1024.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>What is the story behind Dimanche Vaisselle?<\/strong><\/p><p>We met while working together in marketing. The idea of DimancheVvaisselle emerged during a long dinner on a Parisian terrasse. We both felt that our regular dishes were really doll and were not up to our cuisine even the everyday one. We went to Morocco, Spain, Portugal and we finally landed in Italy on the Amalfi Coast where we found the perfect team of artisans and we’ve been developing our collection with them since then. <\/p><p><strong>Where did you find your inspiration? <\/strong><\/p><p>Our designs are inspired by our memories of Sunday’s big tables: full of laughters and food with our family and friends. We try to celebrate this feeling of plenitude and friendliness through our products. We are of course inspired by traditional work but always try to add a little twist to it.<\/p><p><strong>Can you tell us more about the artisan you work with in Italy?<\/strong><\/p><p>Our artisans come from a village well-known for its ceramic: Vietri Sul Mare, on the Amalfi coast. With them, we develop our iconic designs and always try to imagine new collections. We are very proud to support the artisan’s work and to promote a slow and responsible production. It’s a big part of why we get up in the morning.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
