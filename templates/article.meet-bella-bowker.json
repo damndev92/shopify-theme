@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "ee975a40-15ee-429a-b63d-744239f96647": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Schermata-2021-05-18-alle-16.40.14-1024x1022.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Any wishes for 2021?<\/strong><\/p><p>I’d love to see Sew Bella grow and grow, and with that, begin to focus on expanding the business. I already have plans to get a machine to make the more ‘off-the-shelf’ napkins, and I’m working on getting a studio space. There’s so much to be excited by. Oh, and to get a campervan and go on a mini-adventure around the French wine regions. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "3569c588-d638-4479-a28c-fd7d9627c850",
     "698dd0e1-ff7f-4023-9ce0-f10566fe6aa7",
+    "ee975a40-15ee-429a-b63d-744239f96647",
     "main",
     "blog-posts"
   ]
