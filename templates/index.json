@@ -20,51 +20,13 @@
             "horizontal-alignment": "left",
             "vertical-alignment": "bottom"
           }
-        },
-        "bb922bba-94ab-4952-b9e2-8a6bd68eafb1": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Schermata-2021-06-01-alle-18.00.09-1024x683.png",
-            "subheading": "",
-            "title": "Share your story",
-            "text": "Here's your chance to make a great first impression",
-            "button_text": "View all",
-            "link": "shopify:\/\/products\/tea-bowl",
-            "caption-background": "rgba(0,0,0,0)",
-            "caption-text": "#ffffff",
-            "button-text": "#ffffff",
-            "button-background": "#000000",
-            "button-background-hover": "#797979",
-            "horizontal-alignment": "right",
-            "vertical-alignment": "bottom"
-          }
-        },
-        "6b477156-e822-486d-bea7-256f9d4a480e": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "subheading": "",
-            "title": "Share your story",
-            "text": "Here's your chance to make a great first impression",
-            "button_text": "",
-            "link": "",
-            "caption-background": "rgba(0,0,0,0)",
-            "caption-text": "#ffffff",
-            "button-text": "#ffffff",
-            "button-background": "#000000",
-            "button-background-hover": "#797979",
-            "horizontal-alignment": "left",
-            "vertical-alignment": "middle"
-          }
         }
       },
       "block_order": [
-        "image--slideshow-0",
-        "bb922bba-94ab-4952-b9e2-8a6bd68eafb1",
-        "6b477156-e822-486d-bea7-256f9d4a480e"
+        "image--slideshow-0"
       ],
       "settings": {
-        "split-images": true,
+        "split-images": false,
         "slider-animation": "slide",
         "slider-width": "full-width",
         "show-slide-full-screen": true,
@@ -75,80 +37,6 @@
         "show-slide-controls": false,
         "slider-navigation--color": "#ffffff",
         "overlay": false
-      }
-    },
-    "2e73460d-efc0-4a18-a0e2-e4d0bd3e6672": {
-      "type": "image--slideshow",
-      "blocks": {
-        "template--17643497783611__2e73460d-efc0-4a18-a0e2-e4d0bd3e6672-1675957827d0408100-0": {
-          "type": "slide",
-          "settings": {
-            "subheading": "",
-            "title": "Share your story",
-            "text": "Here's your chance to make a great first impression",
-            "button_text": "",
-            "link": "",
-            "caption-background": "rgba(0,0,0,0)",
-            "caption-text": "#ffffff",
-            "button-text": "#ffffff",
-            "button-background": "#000000",
-            "button-background-hover": "#797979",
-            "horizontal-alignment": "left",
-            "vertical-alignment": "middle"
-          }
-        },
-        "template--17643497783611__2e73460d-efc0-4a18-a0e2-e4d0bd3e6672-1675957827d0408100-1": {
-          "type": "slide",
-          "settings": {
-            "subheading": "",
-            "title": "Share your story",
-            "text": "Here's your chance to make a great first impression",
-            "button_text": "",
-            "link": "",
-            "caption-background": "rgba(0,0,0,0)",
-            "caption-text": "#ffffff",
-            "button-text": "#ffffff",
-            "button-background": "#000000",
-            "button-background-hover": "#797979",
-            "horizontal-alignment": "left",
-            "vertical-alignment": "middle"
-          }
-        },
-        "e2c7f378-977c-4269-b8f1-ea01fd00c84f": {
-          "type": "slide",
-          "settings": {
-            "subheading": "",
-            "title": "Share your story",
-            "text": "Here's your chance to make a great first impression",
-            "button_text": "",
-            "link": "",
-            "caption-background": "rgba(0,0,0,0)",
-            "caption-text": "#ffffff",
-            "button-text": "#ffffff",
-            "button-background": "#000000",
-            "button-background-hover": "#797979",
-            "horizontal-alignment": "left",
-            "vertical-alignment": "middle"
-          }
-        }
-      },
-      "block_order": [
-        "template--17643497783611__2e73460d-efc0-4a18-a0e2-e4d0bd3e6672-1675957827d0408100-0",
-        "template--17643497783611__2e73460d-efc0-4a18-a0e2-e4d0bd3e6672-1675957827d0408100-1",
-        "e2c7f378-977c-4269-b8f1-ea01fd00c84f"
-      ],
-      "settings": {
-        "split-images": false,
-        "slider-animation": "slide",
-        "slider-width": "full-width",
-        "show-slide-full-screen": true,
-        "slider-slide-time": 5,
-        "caption-heading-size": 50,
-        "show-slide-dots": false,
-        "show-slide-arrows": true,
-        "show-slide-controls": true,
-        "slider-navigation--color": "#ffffff",
-        "overlay": true
       }
     },
     "featured_collection": {
@@ -544,7 +432,6 @@
   },
   "order": [
     "image_slideshow",
-    "2e73460d-efc0-4a18-a0e2-e4d0bd3e6672",
     "featured_collection",
     "newsletter",
     "shop_the_look",
