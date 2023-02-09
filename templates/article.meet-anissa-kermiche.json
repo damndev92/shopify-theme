@@ -87,6 +87,23 @@
         "button_label": ""
       }
     },
+    "9069903d-7f31-4ed9-b20c-3c4151ed0f11": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/CGS-PAR-STOUEN-2_0.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Favourite address for decoration in London\/ in the world.<\/strong><\/p><p>Kempton market in Middlesex<\/p><p>Mint, shop in Brompton that sells the most exquisite contemporary furniture<\/p><p>Les puces de Saint Ouen in France, more pricey. <\/p><p>Online : Pamono, a lovely french website.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -121,6 +138,7 @@
     "2f759e0c-1240-4708-9286-7d7094073af2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "06c9eb8b-d2dc-4610-bd5b-6bff5c855e27",
+    "9069903d-7f31-4ed9-b20c-3c4151ed0f11",
     "main",
     "blog-posts"
   ]
