@@ -6,7 +6,7 @@
         "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_09.32.58.png",
         "parallax": true,
         "alignment": "center",
-        "hero_size": "large",
+        "hero_size": "small",
         "text-over-image-width": "full-width"
       }
     },
@@ -21,10 +21,10 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "Vilnius, Lithuania",
+        "subheading": "WELCOME TO",
         "page_title": "",
-        "title": "Hotel Pacai",
-        "text": "<p>With the majority of the mansion dating back centuries, the goal was to keep the history visible in a direct way. Thus, all the existing frescoes and unique textures of the walls are emphasized through lighting, while the main features of the hotel strive for elegance and classical purity, both through materials and details.<\/p>",
+        "title": "SPAIN",
+        "text": "<p>The flouncing, foot-stamping flamenco is still red hot and the fiestas wilder and more colorful than ever in Spain. Much more than a museum of tired clichés or dated folk festivals, the country binds modernity and tradition with a strutting confidence. With one of Europe’s most theatrical and turbulent histories to be explored, vivacious and fun-loving people ready to take you by the hand and a food culture that ranges from the avant-garde to the raw and unapologetic, it is impossible to not be swept up in the Spanish verve.<\/p>",
         "button_link": "",
         "button_label": ""
       }
