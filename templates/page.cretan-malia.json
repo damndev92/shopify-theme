@@ -115,6 +115,23 @@
         "image-width": "medium",
         "image": "shopify:\/\/shop_images\/images_vana.jpg",
         "layout": "left",
+        "subheading": "Meet",
+        "location": false,
+        "title": "Agapi and Costantza Sbokou, Hoteliers",
+        "text_block": "<p>Thanks to the work of Vana Pernari Architecture Studio, a cool look and an eco-friendly ethos characterise this Design hotel overlooking a rock-strewn strip of coastline near Malia port. The wild Cretan, and in specific Malian flora, with palm trees, Indian figs and local banana trees, are part of beautiful exotic Mediterranean gardens which remain until today a strong reference point and a source of inspiration for its architecture and style. The hotel’s décor is chic and quirky: think custom-made tiles; black worktops and rattan furniture; bamboo, gingko leaves and other plant motifs on walls; big mushroom-shaped lamps or hanging copper tube lighting; wraparound chairs and sofas and big, plump beds.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
+    "adf75184-c66f-4374-a407-a6e042dc0947": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/images_vana.jpg",
+        "layout": "left",
         "subheading": "Cretan Malia Park",
         "location": false,
         "title": "Meet the Interior Designers",
@@ -466,6 +483,7 @@
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
+    "adf75184-c66f-4374-a407-a6e042dc0947",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",

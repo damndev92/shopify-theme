@@ -92,6 +92,38 @@
         "title": ""
       }
     },
+    "1ba2f76c-47da-45ef-90db-65e65f2e3ab4": {
+      "type": "image--gallery",
+      "blocks": {
+        "92ae0c07-7d1d-431b-9548-039582db6d4f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2CasaMami-731x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "d7808e41-3d23-420e-ac10-5be15a83b29b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3CasaMami-731x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "92ae0c07-7d1d-431b-9548-039582db6d4f",
+        "d7808e41-3d23-420e-ac10-5be15a83b29b"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -143,6 +175,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "0ea1bb49-20c0-4004-9b79-8872bdb1155a",
     "d39f0b6a-0b37-4a36-bdf9-1497012a4043",
+    "1ba2f76c-47da-45ef-90db-65e65f2e3ab4",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "blog-posts"
