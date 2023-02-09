@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "0041e193-a105-437c-bc2c-44c296225837": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/2-3-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><\/p><p><strong>Human and Nature, Nature and Machine. Interconnection, tension, evolution. How do you, as a creative, engage with technology? and the natural world?<\/strong><\/p><p>I see technology as a tool. Sometimes it helps me work more efficiently. Sometimes – like with “Meditative Landscapes” – it helps me create something surprising and new. The natural world – its colors, shapes, and textures – remains my primary design inspiration. <\/p><p>In “Meditative Landscapes”, the scenes are completely fictional: it’s a machine’s understanding of an artist’s understanding of the natural world, but despite this layered separation, there is still something so curiously relatable in each artwork. You look at the images and your brain understands the natural composition of a seaside or colors of a sunset, even though the scenes are 100% artificial. It’s a fun dynamic to explore.<\/p><p><strong>Can you tell us more about Culture A Editions? <\/strong><\/p><p>I started Culture A Editions as a platform to inspire product collaborations with artists and creatives in my network. Most of my projects are determined by a client brief, so this platform is an opportunity to work on more passion projects that experiment with technology or new production methods.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "f8f40bc0-01f1-413b-bb10-913cb0dc50a1",
+    "0041e193-a105-437c-bc2c-44c296225837",
     "main",
     "blog-posts"
   ]
