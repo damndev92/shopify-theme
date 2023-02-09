@@ -70,6 +70,23 @@
         "button_label": ""
       }
     },
+    "06c9eb8b-d2dc-4610-bd5b-6bff5c855e27": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Enoteca-Pinchiorri-Florence-a.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Your favourite restaurant in the world.<\/strong><\/p><p>It is a restaurant that offers a genuine fine dining experience but in a wonderfully friendly place, it’s called <a href=\"https:\/\/enotecapinchiorri.it\/?lang=en\">Enoteca Pinchiorri in Florence<\/a>. What I love is that it is not the least bit stuffy despite it being a 3 Michelin star restaurant, how remarkable. I went two nights in a row when I was visiting Florence and it just blew me away! It was started by a lovely couple, a French sommelier and an Italian chef, who managed to give life to the most authentic and delicious food I’ve ever had in my life. Drawing a parallel between food and interior design, I would say that a successful and tasty recipe is about strict simplicity with just the right amount of audacity, nothing more nothing less. Every meal reminds you of something you had before but an improved version. You end up wanting more of everything. Absolutely fantastic in every way. Staff, food, service and atmosphere<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -103,6 +120,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "2f759e0c-1240-4708-9286-7d7094073af2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "06c9eb8b-d2dc-4610-bd5b-6bff5c855e27",
     "main",
     "blog-posts"
   ]
