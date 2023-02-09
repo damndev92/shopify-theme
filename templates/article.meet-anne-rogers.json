@@ -125,6 +125,48 @@
         "button_label": ""
       }
     },
+    "b33617a5-46a1-4ddf-a38a-3653b3ecbfdd": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17934420508987__b33617a5-46a1-4ddf-a38a-3653b3ecbfdd-1675935012280234f4-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Meditative-Landscape-1-1019x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Meditative Landscape AI-generated artwork #1<\/p><p>£405<\/p>"
+          }
+        },
+        "template--17934420508987__b33617a5-46a1-4ddf-a38a-3653b3ecbfdd-1675935012280234f4-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Meditative-Landscape-4-1020x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Meditative Landscape AI-generated artwork #4<\/p><p>£405<\/p>"
+          }
+        },
+        "template--17934420508987__b33617a5-46a1-4ddf-a38a-3653b3ecbfdd-1675935012280234f4-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Meditative-Landscape-6-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Meditative Landscape AI-generated artwork #6<\/p><p>£405<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17934420508987__b33617a5-46a1-4ddf-a38a-3653b3ecbfdd-1675935012280234f4-0",
+        "template--17934420508987__b33617a5-46a1-4ddf-a38a-3653b3ecbfdd-1675935012280234f4-1",
+        "template--17934420508987__b33617a5-46a1-4ddf-a38a-3653b3ecbfdd-1675935012280234f4-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -161,6 +203,7 @@
     "0041e193-a105-437c-bc2c-44c296225837",
     "18c91b6a-3012-4517-af12-70988d10c5e2",
     "839493d1-1bbd-47ef-b209-8053692cc8c3",
+    "b33617a5-46a1-4ddf-a38a-3653b3ecbfdd",
     "main",
     "blog-posts"
   ]
