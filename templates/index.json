@@ -7,6 +7,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/le-pigalle-parisian-hotel-double-room_a7ba58f6-f809-4e4a-87aa-b1c83a6808a7.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Ruta-Macike_0050_1-scaled.jpg",
             "subheading": "Discover",
             "title": "Le Pigalle",
             "text": "Here's your chance to make a great first impression",
@@ -20,12 +21,32 @@
             "horizontal-alignment": "left",
             "vertical-alignment": "bottom"
           }
+        },
+        "bb922bba-94ab-4952-b9e2-8a6bd68eafb1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Schermata-2021-06-01-alle-18.00.09-1024x683.png",
+            "subheading": "",
+            "title": "Share your story",
+            "text": "Here's your chance to make a great first impression",
+            "button_text": "",
+            "link": "",
+            "caption-background": "rgba(0,0,0,0)",
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#000000",
+            "button-background-hover": "#797979",
+            "horizontal-alignment": "right",
+            "vertical-alignment": "bottom"
+          }
         }
       },
       "block_order": [
-        "image--slideshow-0"
+        "image--slideshow-0",
+        "bb922bba-94ab-4952-b9e2-8a6bd68eafb1"
       ],
       "settings": {
+        "split-images": true,
         "slider-animation": "slide",
         "slider-width": "full-width",
         "show-slide-full-screen": true,
@@ -96,7 +117,8 @@
           "settings": {
             "product": "astoria-floor-lamp",
             "top": 29,
-            "left": 22
+            "left": 22,
+            "disable_spot": false
           }
         },
         "product--shop-the-look-1": {
@@ -104,7 +126,8 @@
           "settings": {
             "product": "crown-table-low-coffee",
             "top": 71,
-            "left": 51
+            "left": 51,
+            "disable_spot": false
           }
         },
         "product--shop-the-look-2": {
@@ -112,7 +135,8 @@
           "settings": {
             "product": "foscarini-birdie-floor-lamp",
             "top": 30,
-            "left": 81
+            "left": 81,
+            "disable_spot": false
           }
         },
         "732b3bd1-a9df-43f4-acde-5d4eca8e4a57": {
@@ -121,7 +145,8 @@
           "settings": {
             "product": "abstract-4",
             "top": 0,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         }
       },
@@ -312,10 +337,12 @@
         "image-width": "medium",
         "layout": "left",
         "subheading": "Join our",
+        "location": false,
         "title": "Trade Program",
         "text_block": "<p>Maison Flâneur is here to support designers, architects and stylists across the interiors industry, providing you with access to a range of benefits<\/p>",
         "page_description": false,
         "button_link": "shopify:\/\/pages\/trade-program",
+        "hotel_page_url": false,
         "button_label": "Join our trade program"
       }
     },
