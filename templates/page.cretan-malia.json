@@ -39,36 +39,104 @@
         "text-over-image-width": "full-width"
       }
     },
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
-      "type": "image--gallery",
+    "e25422b6-ab6f-4892-939e-0f301e896c99": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><br\/>Cretan Malia Park's traditional materials, textures, and colors of Crete, as well as curious indigenous objects combine to curate a warm atmosphere. Walnut, chestnut, and bamboo combine with rattan, ceramic, stone, and brass to create a palette of wood tones, mustard yellow, copper-red, blue, green, and orange that imparts a relaxed, boho mood in the bright, airy rooms. Murals artistically bring the nature of Crete inside the living spaces and serve as main focal points for the interior design.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
+      "type": "product--shop-the-look",
       "blocks": {
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
-          "type": "image",
+        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
+          "type": "product",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Cretan_Malia_ab428cb9-785f-40db-b076-791d9f70a030.png",
-            "link": "",
-            "title": "",
-            "description": ""
+            "product": "alfonso-vase",
+            "top": 63,
+            "left": 51,
+            "disable_spot": true
           }
         },
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
-          "type": "image",
+        "61a17092-0b88-43c9-888c-ee6b50651501": {
+          "type": "product",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Cretan_Malia_2.png",
-            "link": "",
-            "title": "",
-            "description": ""
+            "product": "arc-de-stool-53",
+            "top": 0,
+            "left": 0,
+            "disable_spot": true
+          }
+        },
+        "2d0cd767-4992-4798-8a74-406d517d073e": {
+          "type": "product",
+          "settings": {
+            "product": "backgammon-tea-towel-1",
+            "top": 33,
+            "left": 0,
+            "disable_spot": true
           }
         }
       },
       "block_order": [
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0",
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1"
+        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
+        "61a17092-0b88-43c9-888c-ee6b50651501",
+        "2d0cd767-4992-4798-8a74-406d517d073e"
       ],
       "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
+        "colors": "white",
+        "subheading": "Shop",
+        "title": "Shop the look",
+        "image": "shopify:\/\/shop_images\/Cretan_Malia_4.png",
+        "image__position": "image--left",
+        "hotspot__color": "#ffffff",
+        "stl__heading": "Heading",
+        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
+        "description__position": "hidden",
+        "link": "",
+        "button__text": "Shop the look"
+      }
+    },
+    "dc673228-1f95-4ffc-887d-83a8a45785a5": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Shop all products",
+        "url": "",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
+      }
+    },
+    "a4047d2e-8c9f-4550-916a-dffc3104acbc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_b6e144e0-7c6b-482c-9613-97adc9616eeb.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "f752c25e-ff65-466a-ba61-33848f1147fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_1_7a9bc5bc-e5b4-4a83-b332-8a93f4befdc5.png",
+        "layout": "left",
+        "subheading": "Meet the host",
+        "location": false,
+        "title": "Agapi and Costantza Sbokou",
+        "text_block": "<p><\/p><p>In mythology Crete was the birthplace of Zeus and also the place where later Zeus took his love Europa, who gave birth to Minos – later King Minos and founder of the first European civilization, the Minoans. In a way, it all started here. <\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/blogs\/news\/meet-agapi-and-costantza-sbokou-owners-of-cretan-malia-park-crete",
+        "hotel_page_url": false,
+        "button_label": "Read more"
       }
     },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
@@ -77,14 +145,14 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
+            "question": "Where to eat?",
             "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
+            "question": "Where to",
             "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
         },
@@ -102,214 +170,10 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
       ],
       "settings": {
-        "background-color": "#e3e3e3",
+        "background-color": "#F3F3F3",
         "text-color": "#000000",
-        "title": "Frequently asked questions",
+        "title": "Insider tips",
         "faq_icon": "plus_minus"
-      }
-    },
-    "f752c25e-ff65-466a-ba61-33848f1147fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_1_7a9bc5bc-e5b4-4a83-b332-8a93f4befdc5.png",
-        "layout": "left",
-        "subheading": "Meet",
-        "location": false,
-        "title": "Agapi and Costantza Sbokou, Hoteliers",
-        "text_block": "<p><strong>Can you tell us something people might not know about Crete? <\/strong><\/p><p><br\/>In mythology Crete was the birthplace of Zeus and also the place where later Zeus took his love Europa, who gave birth to Minos – later King Minos and founder of the first European civilization, the Minoans. In a way, it all started here. <\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
-      }
-    },
-    "adf75184-c66f-4374-a407-a6e042dc0947": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/images_vana.jpg",
-        "layout": "left",
-        "subheading": "Cretan Malia Park",
-        "location": false,
-        "title": "Meet the Interior Designers",
-        "text_block": "<p>Thanks to the work of Vana Pernari Architecture Studio, a cool look and an eco-friendly ethos characterise this Design hotel overlooking a rock-strewn strip of coastline near Malia port. The wild Cretan, and in specific Malian flora, with palm trees, Indian figs and local banana trees, are part of beautiful exotic Mediterranean gardens which remain until today a strong reference point and a source of inspiration for its architecture and style. The hotel’s décor is chic and quirky: think custom-made tiles; black worktops and rattan furniture; bamboo, gingko leaves and other plant motifs on walls; big mushroom-shaped lamps or hanging copper tube lighting; wraparound chairs and sofas and big, plump beds.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
-      }
-    },
-    "63680a03-e85a-40a7-9084-4a83db4c7921": {
-      "type": "image--gallery",
-      "blocks": {
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Cretan_Malia_Ext.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Cretan_Malia_7.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Cretan_Malia_5.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092",
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03",
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9",
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62"
-      ],
-      "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
-      }
-    },
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
-      "type": "product--shop-the-look",
-      "blocks": {
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
-          "type": "product",
-          "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        },
-        "61a17092-0b88-43c9-888c-ee6b50651501": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
-          }
-        },
-        "2d0cd767-4992-4798-8a74-406d517d073e": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
-        "61a17092-0b88-43c9-888c-ee6b50651501",
-        "2d0cd767-4992-4798-8a74-406d517d073e"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "Cretan Malia Park",
-        "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/Cretan_Malia_4.png",
-        "image__position": "image--left",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": "Shop the look"
-      }
-    },
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
-      "type": "product--shop-the-look",
-      "blocks": {
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e": {
-          "type": "product",
-          "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        },
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
-          }
-        },
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
-          }
-        }
-      },
-      "block_order": [
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e",
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8",
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "",
-        "image": "shopify:\/\/shop_images\/Cretan_Malia_Food.png",
-        "image__position": "image--right",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": ""
-      }
-    },
-    "bdedcca0-f74d-43ca-be6b-5980a1dd81fa": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/43_3c7e7e31-27ce-472a-b4bc-c790c21ad818.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
-      }
-    },
-    "9299a3ef-12a1-48f6-abe6-a54f93478d0b": {
-      "type": "image--gallery",
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
@@ -367,6 +231,26 @@
         "title": ""
       }
     },
+    "e7c3e67e-84e8-4f3e-a73b-f1bcf90c88fd": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Check Availability",
+        "url": "",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
+      }
+    },
+    "3e9a3011-d355-4723-82ae-f3f86a2d5e64": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/10-cretanmalia-constantza-agapi-pier-1024x573.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
+      }
+    },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
       "settings": {
@@ -379,100 +263,6 @@
         "show_blog_images": true,
         "imageSize": "portrait"
       }
-    },
-    "f5f7b256-b511-4d25-9ec5-50568033693b": {
-      "type": "collection--collection-list",
-      "blocks": {
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-0",
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
-    "e57c3e7f-0127-4fd4-acbd-4c611a4834d8": {
-      "type": "collection--featured-collection",
-      "blocks": {
-        "template--17824602128699__e57c3e7f-0127-4fd4-acbd-4c611a4834d8-16758769303f12d5f7-0": {
-          "type": "grid-card-title",
-          "settings": {
-          }
-        },
-        "template--17824602128699__e57c3e7f-0127-4fd4-acbd-4c611a4834d8-16758769303f12d5f7-1": {
-          "type": "grid-card-price",
-          "settings": {
-          }
-        },
-        "template--17824602128699__e57c3e7f-0127-4fd4-acbd-4c611a4834d8-16758769303f12d5f7-2": {
-          "type": "grid-card-swatches",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--17824602128699__e57c3e7f-0127-4fd4-acbd-4c611a4834d8-16758769303f12d5f7-0",
-        "template--17824602128699__e57c3e7f-0127-4fd4-acbd-4c611a4834d8-16758769303f12d5f7-1",
-        "template--17824602128699__e57c3e7f-0127-4fd4-acbd-4c611a4834d8-16758769303f12d5f7-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "Subheading",
-        "title": "Featured collection",
-        "collection": "",
-        "grid": 4,
-        "rows": 1,
-        "show_view_all": false
-      }
-    },
-    "6205418f-bbc9-4f5e-9478-b647f46d0a2c": {
-      "type": "collection--featured-collection",
-      "blocks": {
-        "template--17824602128699__6205418f-bbc9-4f5e-9478-b647f46d0a2c-16758769303f12d5f7-0": {
-          "type": "grid-card-title",
-          "settings": {
-          }
-        },
-        "template--17824602128699__6205418f-bbc9-4f5e-9478-b647f46d0a2c-16758769303f12d5f7-1": {
-          "type": "grid-card-price",
-          "settings": {
-          }
-        },
-        "template--17824602128699__6205418f-bbc9-4f5e-9478-b647f46d0a2c-16758769303f12d5f7-2": {
-          "type": "grid-card-swatches",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--17824602128699__6205418f-bbc9-4f5e-9478-b647f46d0a2c-16758769303f12d5f7-0",
-        "template--17824602128699__6205418f-bbc9-4f5e-9478-b647f46d0a2c-16758769303f12d5f7-1",
-        "template--17824602128699__6205418f-bbc9-4f5e-9478-b647f46d0a2c-16758769303f12d5f7-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "Subheading",
-        "title": "Featured collection",
-        "collection": "le-pigalle",
-        "grid": 4,
-        "rows": 1,
-        "show_view_all": false
-      }
     }
   },
   "order": [
@@ -480,20 +270,16 @@
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "1dc85c19-cbb0-4cf1-bc4a-3c743a1c5bd3",
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "f752c25e-ff65-466a-ba61-33848f1147fc",
-    "adf75184-c66f-4374-a407-a6e042dc0947",
-    "63680a03-e85a-40a7-9084-4a83db4c7921",
+    "e25422b6-ab6f-4892-939e-0f301e896c99",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0",
-    "bdedcca0-f74d-43ca-be6b-5980a1dd81fa",
-    "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
+    "dc673228-1f95-4ffc-887d-83a8a45785a5",
+    "a4047d2e-8c9f-4550-916a-dffc3104acbc",
+    "f752c25e-ff65-466a-ba61-33848f1147fc",
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
-    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
-    "f5f7b256-b511-4d25-9ec5-50568033693b",
-    "e57c3e7f-0127-4fd4-acbd-4c611a4834d8",
-    "6205418f-bbc9-4f5e-9478-b647f46d0a2c"
+    "e7c3e67e-84e8-4f3e-a73b-f1bcf90c88fd",
+    "3e9a3011-d355-4723-82ae-f3f86a2d5e64",
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
   ]
 }
