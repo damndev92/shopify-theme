@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "401c6488-ceac-48e9-9b95-e61d653d2e82": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Peony-Flat-Plates-Set-of-2.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Peony Flat Plates, Set of 2",
+        "text_block": "<p>£35<\/p><p>It is certainly not with the flat peony plate that you will calm your love of the red. Ready to land on small and large tables, the flat peony plate will undoubtedly be the best ally of your meals. Its deep red will certainly make any dish romantic, from morning to evening and from Monday to Sunday. Certified Italian, artisanal and cheerful every day.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "ecd74946-1366-427b-994d-3ed75a59cab2",
+    "401c6488-ceac-48e9-9b95-e61d653d2e82",
     "main",
     "blog-posts"
   ]
