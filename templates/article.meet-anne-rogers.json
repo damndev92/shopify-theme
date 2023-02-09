@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "f8f40bc0-01f1-413b-bb10-913cb0dc50a1": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/6-2-1024x1024_3ad04479-c0fa-4b9d-a964-87e68ecb6759.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Was it the first time you were working with Artificial Intelligence? <\/strong><\/p><p>It’s the first time I’ve created AI-generated artwork, but I have been researching and experimenting with AI since 2017 as part of an ongoing project called <a href=\"https:\/\/www.culture-a.com\/is-seeing-believing-case-study\">“Is Seeing Believing?”<\/a>. Within this project, I’m continually looking at how AI impacts us through news media, product launches, and even emoji. My team includes illustrators and a creative technologist, who produce new visual media (image and GIF) around topics in AI to be used in stock image databases. <\/p><p><strong>What surprised you the most in the process? <\/strong><\/p><p>The machine is learning from the data you give it: you choose the criteria\/parameters around what you hope to achieve (certain colors, etc.), but it’s not a simple A + B = C process. The results were surprisingly unpredictable and much more organic – wild, even! – than I expected. I really enjoyed this mix of wildness and control as it kept the project hands-on and experimental.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "f8f40bc0-01f1-413b-bb10-913cb0dc50a1",
     "main",
     "blog-posts"
   ]
