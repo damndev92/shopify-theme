@@ -91,6 +91,46 @@
         "button_label": ""
       }
     },
+    "7ec9ad06-7edb-4172-ba0c-0d0b0ff9adc1": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17937602707771__7ec9ad06-7edb-4172-ba0c-0d0b0ff9adc1-1675957496cf23f6b2-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/High-Wooden-Coat-Rack-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>High Wooden Coat Rack<\/p><p>£888<\/p>"
+          }
+        },
+        "template--17937602707771__7ec9ad06-7edb-4172-ba0c-0d0b0ff9adc1-1675957496cf23f6b2-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17937602707771__7ec9ad06-7edb-4172-ba0c-0d0b0ff9adc1-1675957496cf23f6b2-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17937602707771__7ec9ad06-7edb-4172-ba0c-0d0b0ff9adc1-1675957496cf23f6b2-0",
+        "template--17937602707771__7ec9ad06-7edb-4172-ba0c-0d0b0ff9adc1-1675957496cf23f6b2-1",
+        "template--17937602707771__7ec9ad06-7edb-4172-ba0c-0d0b0ff9adc1-1675957496cf23f6b2-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +165,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "542fedff-77b4-46a5-9979-d244f4e16ff2",
     "7192b16d-694d-402a-93f3-ceba9dac7bc0",
+    "7ec9ad06-7edb-4172-ba0c-0d0b0ff9adc1",
     "main",
     "blog-posts"
   ]
