@@ -105,6 +105,23 @@
         "image-width": "large",
         "image": "shopify:\/\/shop_images\/interior_designers_Circula.png",
         "layout": "left",
+        "subheading": "Meet",
+        "location": false,
+        "title": "Carlos Couturier & Moisés Micha",
+        "text_block": "<p><br\/>Known for creating Mexico’s trendiest boutique properties, the hotel developer Grupo Habita commissioned the architecture firm Ambrosi Etchegaray to transform this 19th-century townhome in Centro Histórico into a Shaker-inspired boutique hotel.<\/p><p>Assigned as curators of the Mexican Pavilion at the Architecture Venice Biennale 2018, adjunct Professors at GSAPP, Columbia University, and selected by Architectural Record as Design Vanguard 2017 and as Emerging Voices 2015, Ambrosi Etchegaray was founded in Mexico City in 2011.<\/p><p>Housed in the former home of Manuel Álvarez Bravo, one of Mexico’s most celebrated 20th-century photographers, the building pays homage to its former resident, with his black-and-white images lining the exposed brick walls. Though the rooms are more minimalist in style, the ground-floor marketplace, rooftop, and pool provide a bustling atmosphere for both guests and locals.<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
+    "b0442bae-57f5-48ad-91da-cc1d473f591c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/interior_designers_Circula.png",
+        "layout": "left",
         "subheading": "Círculo Mexicano",
         "location": false,
         "title": "Meet the Interior Designers",
@@ -175,7 +192,8 @@
           "settings": {
             "product": "beefbar-main-plate-knife-emoji",
             "top": 63,
-            "left": 51
+            "left": 51,
+            "disable_spot": false
           }
         },
         "61a17092-0b88-43c9-888c-ee6b50651501": {
@@ -183,7 +201,8 @@
           "settings": {
             "product": "design-clock-solari-cifra-3-black",
             "top": 0,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         },
         "2d0cd767-4992-4798-8a74-406d517d073e": {
@@ -191,7 +210,8 @@
           "settings": {
             "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
             "top": 33,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         }
       },
@@ -222,7 +242,8 @@
           "settings": {
             "product": "beefbar-main-plate-knife-emoji",
             "top": 63,
-            "left": 51
+            "left": 51,
+            "disable_spot": false
           }
         },
         "33f45241-76a7-44e8-98cf-425c6bb0bdc8": {
@@ -230,7 +251,8 @@
           "settings": {
             "product": "design-clock-solari-cifra-3-black",
             "top": 0,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         },
         "acc4f147-815a-42fe-a4b7-0c5e251efe89": {
@@ -238,7 +260,8 @@
           "settings": {
             "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
             "top": 33,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         }
       },
@@ -395,6 +418,7 @@
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
+    "b0442bae-57f5-48ad-91da-cc1d473f591c",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
