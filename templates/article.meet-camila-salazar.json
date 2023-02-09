@@ -108,6 +108,23 @@
         "button_label": ""
       }
     },
+    "ba3b1bb0-880e-461f-ad83-6442542900c7": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/IMG_5360-scaled-1-683x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Have you ever wanted to bring back an object from a hotel or a restaurant? And if so which one?<\/strong><\/p><p>Of course! I fell in love with a pair of bronze ashtrays designed by Christian Liaigre at The Ocean Club in Bahamas and would have loved to bring them home!<\/p><p><strong>Any advice?<\/strong><\/p><p>I would personally invest in lasting decoration accessories, such as cushions, throws, lamps, and ceramics. They have the ability to lift up any interior and they will accompany for many years to come as part of your personal history wherever you live.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -143,6 +160,7 @@
     "4ebd5222-2d66-4bf7-9e88-56a4f48470fb",
     "9a6b7ef9-89a7-4e78-b2c3-b42c138dcbdf",
     "97ba856b-69c7-4270-8fc2-fe0abfaaa8c5",
+    "ba3b1bb0-880e-461f-ad83-6442542900c7",
     "main",
     "blog-posts"
   ]
