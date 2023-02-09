@@ -1,0 +1,380 @@
+{
+  "sections": {
+    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_09.32.58.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "small",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "main": {
+      "type": "template--page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "WELCOME TO",
+        "page_title": "",
+        "title": "SPAIN",
+        "text": "<p>The flouncing, foot-stamping flamenco is still red hot and the fiestas wilder and more colorful than ever in Spain. Much more than a museum of tired clichés or dated folk festivals, the country binds modernity and tradition with a strutting confidence. With one of Europe’s most theatrical and turbulent histories to be explored, vivacious and fun-loving people ready to take you by the hand and a food culture that ranges from the avant-garde to the raw and unapologetic, it is impossible to not be swept up in the Spanish verve.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "ce2de4fb-18f2-48a0-b7c4-343144d2d838": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_10.33.13.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
+      "type": "product--shop-the-look",
+      "blocks": {
+        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
+          "type": "product",
+          "settings": {
+            "product": "beefbar-main-plate-knife-emoji",
+            "top": 63,
+            "left": 51,
+            "disable_spot": false
+          }
+        },
+        "61a17092-0b88-43c9-888c-ee6b50651501": {
+          "type": "product",
+          "settings": {
+            "product": "design-clock-solari-cifra-3-black",
+            "top": 0,
+            "left": 0,
+            "disable_spot": false
+          }
+        },
+        "2d0cd767-4992-4798-8a74-406d517d073e": {
+          "type": "product",
+          "settings": {
+            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
+            "top": 33,
+            "left": 0,
+            "disable_spot": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
+        "61a17092-0b88-43c9-888c-ee6b50651501",
+        "2d0cd767-4992-4798-8a74-406d517d073e"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Where to",
+        "title": "STAY",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_10.34.06.png",
+        "image__position": "image--left",
+        "hotspot__color": "#ffffff",
+        "stl__heading": "Heading",
+        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
+        "description__position": "hidden",
+        "link": "",
+        "button__text": "Shop the look"
+      }
+    },
+    "fc207bbe-372a-410a-9fd6-efb127b006be": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Discover",
+        "url": "",
+        "bg_color": "#656565",
+        "padding_top": 15,
+        "padding_bottom": 20
+      }
+    },
+    "8277f169-883c-4a2a-a64e-fb9fa3aacb5a": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17934527725883__8277f169-883c-4a2a-a64e-fb9fa3aacb5a-16759366176042e399-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_09.57.24.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17934527725883__8277f169-883c-4a2a-a64e-fb9fa3aacb5a-16759366176042e399-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_09.57.29.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17934527725883__8277f169-883c-4a2a-a64e-fb9fa3aacb5a-16759366176042e399-0",
+        "template--17934527725883__8277f169-883c-4a2a-a64e-fb9fa3aacb5a-16759366176042e399-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "f752c25e-ff65-466a-ba61-33848f1147fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_10.11.58.png",
+        "layout": "left",
+        "subheading": "meet",
+        "location": false,
+        "title": "Blanca Miro and Maria de la Orden",
+        "text_block": "<p>Let them take you on a journey in the Spanish capital. Madrid like you have not seen it before. <\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
+        "hotel_page_url": false,
+        "button_label": "Read More"
+      }
+    },
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
+      "type": "accordion",
+      "blocks": {
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
+          "type": "tab_content",
+          "settings": {
+            "question": "STAY",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
+          "type": "tab_content",
+          "settings": {
+            "question": "EAT",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "1a417f72-3017-4455-aba2-ed34dbdbfe48": {
+          "type": "tab_content",
+          "settings": {
+            "question": "SEE",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
+          "type": "tab_content",
+          "settings": {
+            "question": "SHOP",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
+        "1a417f72-3017-4455-aba2-ed34dbdbfe48",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
+      ],
+      "settings": {
+        "background-color": "#e3e3e3",
+        "text-color": "#000000",
+        "title": "WHERE TO",
+        "faq_icon": "plus_minus"
+      }
+    },
+    "b8b7b408-c4e2-493b-83c4-5d1239774fcb": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17934527725883__b8b7b408-c4e2-493b-83c4-5d1239774fcb-16759366176042e399-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_10.50.26.png",
+            "link": "",
+            "title": "El Cisne Azul",
+            "description": "<p>Ask local food writers and chefs where to try the city's best wild mushrooms, and they'll invariably point you to El Cisne Azul, an unsuspecting hole-in-the-wall in Chueca. <\/p>"
+          }
+        },
+        "template--17934527725883__b8b7b408-c4e2-493b-83c4-5d1239774fcb-16759366176042e399-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_10.50.40.png",
+            "link": "",
+            "title": "Restaurante Sacha",
+            "description": "<p>Sacha, a twinkly candlelit bistro blissfully removed from the busy center, is the ultimate date-night spot with dim lighting and white tablecloths. At first glance, the menu seems simple—early-spring options might include cardoons with salt cod, lamb chops with garlic shoots, or, plainly, lentils.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17934527725883__b8b7b408-c4e2-493b-83c4-5d1239774fcb-16759366176042e399-0",
+        "template--17934527725883__b8b7b408-c4e2-493b-83c4-5d1239774fcb-16759366176042e399-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "4a5ce8f8-4c14-49ec-9614-c01842269f06": {
+      "type": "image--gallery",
+      "blocks": {
+        "da62f075-04c8-41ca-8696-b2d80f19631f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_13.10.28.png",
+            "link": "",
+            "title": "The Prado Museum",
+            "description": "<p>Undoubtedly the most celebrated museum in Madrid—and one of the most visited in Europe—the Prado is a must-see attraction.<\/p>"
+          }
+        },
+        "5920e11c-5d04-430a-8616-e15b2b2af693": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_13.16.28.png",
+            "link": "",
+            "title": "Teleférico de Madrid",
+            "description": "<p>Madrid Teleférico is a cable car service that connects both sides of Madrid, crossing the river and helping locals avoid rush-hour traffic on their morning and evening commutes.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "da62f075-04c8-41ca-8696-b2d80f19631f",
+        "5920e11c-5d04-430a-8616-e15b2b2af693"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "889d2c25-4140-44f5-af7a-2c8599551986": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "DISCOVER",
+        "page_title": "",
+        "title": "THE BRANDS",
+        "text": "<p>Experience a completely unique stay at the Hotel Pacai, where historic 17th Century rooms get a thoroughly modern make-over.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_10.14.40.png",
+            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-17\/",
+            "title": "¡La Veste Is Best!",
+            "description": "<p>Cheery gingham, primary colours and bric-a-brac details abound on the duo’s napkins,<br\/>coasters and quilted placemats. Mix and match to keep the party going or keep it<br\/>simple. Either way, meals are about to get a whole lot more fun.<\/p>"
+          }
+        },
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_10.17.07.png",
+            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-21-ou-22-avec-platine\/",
+            "title": "Loca about Platera",
+            "description": "<p>We started the platera during the lockdown, when sitting at the table was the best plan of the day. We wanted to find a way to make that moment more enjoyable, so our passion for everything handmade and my free time led me to try new things. <\/p>"
+          }
+        },
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_10.21.55.png",
+            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-22\/",
+            "title": "SUTDIO ERHART; Madrid's best kept secret",
+            "description": "<p>Studio Erhart designs and manufactures beautiful interior objects produced in unique pieces or small series, handmade by fine craftsmen using refined materials based in Madrid.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-0",
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-1",
+        "template--17526727344443__0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e-16733517587c71d58c-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17934527725883__922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a-167594070126d5a173-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17934527725883__922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a-167594070126d5a173-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17934527725883__922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a-167594070126d5a173-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17934527725883__922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a-167594070126d5a173-0",
+        "template--17934527725883__922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a-167594070126d5a173-1",
+        "template--17934527725883__922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a-167594070126d5a173-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHop",
+        "title": "ON MAISON FLÂNEUR",
+        "collection": "",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "white",
+        "subheading": "Read From",
+        "title": "Flâneur Magazine",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "portrait"
+      }
+    }
+  },
+  "order": [
+    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
+    "main",
+    "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
+    "ce2de4fb-18f2-48a0-b7c4-343144d2d838",
+    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
+    "fc207bbe-372a-410a-9fd6-efb127b006be",
+    "8277f169-883c-4a2a-a64e-fb9fa3aacb5a",
+    "f752c25e-ff65-466a-ba61-33848f1147fc",
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
+    "b8b7b408-c4e2-493b-83c4-5d1239774fcb",
+    "4a5ce8f8-4c14-49ec-9614-c01842269f06",
+    "889d2c25-4140-44f5-af7a-2c8599551986",
+    "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
+    "922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a",
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
+  ]
+}

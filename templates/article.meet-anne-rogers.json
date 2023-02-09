@@ -1,0 +1,210 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Schermata-2021-10-14-alle-15.42.26-1024x425.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Meet Anne Rogers, Culture A, London",
+        "title": "",
+        "text": "<p>Anne Rogers is an innovative art consultant. Her multi-disciplinary expertise, allows her to curate unique and powerful experiences through compelling visual storytelling, and arts programming.<\/p><p>With <a href=\"https:\/\/www.maisonflaneur.com\/venues\/inhabit\/products\/\">Inhabit hotels<\/a>, our favourite Paddington hotel she created ‘Meditative Landscapes’, a new series of AI-generated artwork. We sit down with her to talk about the creative process, how it is to work with artificial intelligence, and her future projects.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/5-2-1024x1024_59ec2dd0-4e83-43be-9c64-a77948e367a2.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Could you tell us more about the title “Meditative Landscapes”?<\/strong><\/p><p>Each artwork in this series is an abstract landscape. The compositions and colors are unique and curious, but also convey a sense of peace, stillness, and quietude. I chose the title, “Meditative Landscapes”, in response to these qualities but also to consider how I want the artwork to feel in someone’s home.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Copy-of-Green-and-Salmon-Text-Food-Influencer-Maximalism-Highlight-Cover-Set-52-731x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Step by step, could you describe the creative process? <\/strong><\/p><p>1. To start, I researched art movements and aesthetics connected to wellness and color psychology, then created mood boards in response to themes and workshopped storytelling exercises to establish the kind of art I wanted to achieve. <\/p><p>2. Next, I collaborated with a computer vision engineer, who built an algorithm (specifically, a Generative Adversarial Network, or GAN) and trained it on a dataset of over 10,000 open access art images. These images were primarily landscape and color field paintings. <\/p><p>3. For over six months, we refined the criteria of the images produced by the AI to achieve color, composition, and subject matter inspired by impressionist landscapes and abstract art. The AI learns the dataset’s artistic styles at an accelerated rate, so it’s fascinating to see what elements the machine chooses to mimic from the data, but also how you can set parameters to help focus it on certain colors or forms. <\/p><p>4. When the AI began producing higher quality art (around Month 4 and 5), I created an online survey that asked people to rank around 100 pairs of images. The online survey did not reveal that any of the art was created by AI, and was instead used to test image preferences. I saved the feedback to assess against the next batch of art.<\/p><p>5. Around Month 6, I saw an exciting batch of appx. 5,000 images that resembled the type of aesthetic and style I had hoped to achieve. I selected 30 and began testing the images on various print materials, including wool\/silk, velvet, linen, and fine art paper. Ultimately, I selected 10 final images that would become “Meditative Landscapes” based on the resulting quality tests and what felt like a comprehensive series.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "f8f40bc0-01f1-413b-bb10-913cb0dc50a1": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/6-2-1024x1024_3ad04479-c0fa-4b9d-a964-87e68ecb6759.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Was it the first time you were working with Artificial Intelligence? <\/strong><\/p><p>It’s the first time I’ve created AI-generated artwork, but I have been researching and experimenting with AI since 2017 as part of an ongoing project called <a href=\"https:\/\/www.culture-a.com\/is-seeing-believing-case-study\">“Is Seeing Believing?”<\/a>. Within this project, I’m continually looking at how AI impacts us through news media, product launches, and even emoji. My team includes illustrators and a creative technologist, who produce new visual media (image and GIF) around topics in AI to be used in stock image databases. <\/p><p><strong>What surprised you the most in the process? <\/strong><\/p><p>The machine is learning from the data you give it: you choose the criteria\/parameters around what you hope to achieve (certain colors, etc.), but it’s not a simple A + B = C process. The results were surprisingly unpredictable and much more organic – wild, even! – than I expected. I really enjoyed this mix of wildness and control as it kept the project hands-on and experimental.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "0041e193-a105-437c-bc2c-44c296225837": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/2-3-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><\/p><p><strong>Human and Nature, Nature and Machine. Interconnection, tension, evolution. How do you, as a creative, engage with technology? and the natural world?<\/strong><\/p><p>I see technology as a tool. Sometimes it helps me work more efficiently. Sometimes – like with “Meditative Landscapes” – it helps me create something surprising and new. The natural world – its colors, shapes, and textures – remains my primary design inspiration. <\/p><p>In “Meditative Landscapes”, the scenes are completely fictional: it’s a machine’s understanding of an artist’s understanding of the natural world, but despite this layered separation, there is still something so curiously relatable in each artwork. You look at the images and your brain understands the natural composition of a seaside or colors of a sunset, even though the scenes are 100% artificial. It’s a fun dynamic to explore.<\/p><p><strong>Can you tell us more about Culture A Editions? <\/strong><\/p><p>I started Culture A Editions as a platform to inspire product collaborations with artists and creatives in my network. Most of my projects are determined by a client brief, so this platform is an opportunity to work on more passion projects that experiment with technology or new production methods.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "18c91b6a-3012-4517-af12-70988d10c5e2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/1-3-1024x1024_e8e0fe8c-7acf-4ba6-85ba-5ea176a6efb6.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How do you curate art for a hotel? <\/strong><\/p><p>I think a lot about engagement: how will guests and staff interact with the art?; how can the art elevate the story of the brand?. I adopt the combined perspective of a UX researcher and an art curator to develop curatorial themes aligned with a hotel’s mission, aesthetic, and audience. All of the art or decor is then sourced and commissioned to respond in kind.<\/p><p><strong>Could you tell us about your work with Inhabit Hotels? <\/strong><\/p><p>I started working with <a href=\"https:\/\/www.inhabithotels.com\/\">Inhabit Hotels<\/a> in 2018 and have been continually inspired by its mission and commitment to sustainability. Designing the art experiences for their London locations encouraged me to do an audit of my own creative process in order to incorporate more sustainable measures. This included sourcing more local artwork, using artists working with eco-friendly materials, and exploring more environmentally beneficial shipping methods. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "839493d1-1bbd-47ef-b209-8053692cc8c3": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Progetto-senza-titolo-97-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Do you remember an art piece from a hotel that particularly touched you? <\/strong><\/p><p><a href=\"https:\/\/www.wallpaper.com\/travel\/sweden\/stockholm\/hotels\/at-six\">The Jaume Plensa sculpture<\/a> in the lobby of the At Six hotel in Stockholm is striking and thoughtful. I think its elegant and feminine form works well against the more brutalist architecture. <\/p><p><strong>Could you tell us about your future projects?<\/strong><\/p><p>The next iteration of AI-generated design! Our studio is developing new artwork and patterns for textile and upholstery use. We’re also working on art experiences for a few upcoming public projects, including property developments in Washington DC and NYC, as well as a hotel renovation in London.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "b33617a5-46a1-4ddf-a38a-3653b3ecbfdd": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17934420508987__b33617a5-46a1-4ddf-a38a-3653b3ecbfdd-1675935012280234f4-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Meditative-Landscape-1-1019x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Meditative Landscape AI-generated artwork #1<\/p><p>£405<\/p>"
+          }
+        },
+        "template--17934420508987__b33617a5-46a1-4ddf-a38a-3653b3ecbfdd-1675935012280234f4-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Meditative-Landscape-4-1020x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Meditative Landscape AI-generated artwork #4<\/p><p>£405<\/p>"
+          }
+        },
+        "template--17934420508987__b33617a5-46a1-4ddf-a38a-3653b3ecbfdd-1675935012280234f4-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Meditative-Landscape-6-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Meditative Landscape AI-generated artwork #6<\/p><p>£405<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17934420508987__b33617a5-46a1-4ddf-a38a-3653b3ecbfdd-1675935012280234f4-0",
+        "template--17934420508987__b33617a5-46a1-4ddf-a38a-3653b3ecbfdd-1675935012280234f4-1",
+        "template--17934420508987__b33617a5-46a1-4ddf-a38a-3653b3ecbfdd-1675935012280234f4-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "f8f40bc0-01f1-413b-bb10-913cb0dc50a1",
+    "0041e193-a105-437c-bc2c-44c296225837",
+    "18c91b6a-3012-4517-af12-70988d10c5e2",
+    "839493d1-1bbd-47ef-b209-8053692cc8c3",
+    "b33617a5-46a1-4ddf-a38a-3653b3ecbfdd",
+    "main",
+    "blog-posts"
+  ]
+}

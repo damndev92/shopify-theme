@@ -1,0 +1,200 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pampa-cocktail-white-4-1024x683.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Meet Camila Salazar-Simpson Erhart del Campo, Studio Erhart, Madrid",
+        "title": "",
+        "text": "<p>Studio Erhart is a family affair. Mother-daughter duo Mercedes and Camila and Mercede’s sister: Federica. The trio creates beautiful objects of design, inspired by their Argentinian heritage and rooted in their love for Spanish artisans. Classics with a modern twist, they are the perfect safe-bet-statement-piece-you’ll-never-get-tired-of. We sit down with Camila to learn more about Studio Erhart, working with her family, and her tips to decorate your home.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/hermanas-salazar-simpson-z.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Tell us three facts about you<\/strong><\/p><p>Born in Geneva and raised in Madrid.<\/p><p>Went to law school and quit my job as a corporate lawyer to start Studio Erhart.<\/p><p>Owner of a brown Labrador called Pampa, like our first collection.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Sevilla-Baby-Alpaca-Throw-9-683x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What is the story behind Studio Erhart?<\/strong><\/p><p>My mother, Mercedes, and my aunt Federica started working together on some of Federica’s projects a couple of years ago. They then started looking for artisans in Spain to create bespoke pieces for these projects. While working together on the renovation of the Park Gstaad Hotel, the client asked them last minute to set up a small shop in the hotel’s lobby and the products we designed were such a success that we decided to start producing them in limited quantities! That’s how Studio Erhart was born!<br\/><strong><br\/>How would you describe Studio Erhart in a word?<\/strong><\/p><p>Timeless.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "4ebd5222-2d66-4bf7-9e88-56a4f48470fb": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/IMG_7625-scaled-1-683x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How is it to create a new brand with your mother & aunt?<\/strong><\/p><p>Contrary to what anyone could think, it is great fun! We complement each other very well: Federica and my mother, Mercedes, do most of the designing work and I am in charge of the general management. We all come from different backgrounds (interior designer, art historian and business lawyer), which allows us to explore ideas and solve issues with different approaches.<\/p><p><strong>Where did you find your inspiration for your first collection?<\/strong><\/p><p>My mother and aunt are from Argentina origin and we decided to pay tribute to the wonderful heritage of that country with our Pampa collection, featuring some of its traditional materials such as horn, heavy linens, Mapuche embroideries and alpaca wool.<\/p><p><strong>Your favourite object at home? <\/strong><\/p><p>At home, I love mixing modern and antiques. Whether they are family heirlooms or small objects found at flea markets, I believe that antiques bring a soul to any interior. My favourite is a XVII century Dutch ebonised mirror that my husband gave me for my birthday.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "9a6b7ef9-89a7-4e78-b2c3-b42c138dcbdf": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/IMG_1375-scaled-1-683x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Which is your favorite item from your collection?<\/strong><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/product\/pampa-linen-cushion-white\/\">The Pampa cushions<\/a> featuring natural horn plates were one of the first products we designed and they are still my favourite! They uplift even the dullest sofa!<\/p><p><strong>Can you tell us about the artisans you work with, in Spain?<\/strong><\/p><p>Working with artisans is by far the best part of this journey. Their personal stories, how they acquired their skills from their fathers and grandfathers, the pride they take in their work is something wonderful to be part of. By working with skilled locals to whom we pay fair wages, we are proud to make a meaningful contribution to their economies and lives, while pursuing our environmental, social and economic sustainability goals.<\/p><p><strong>In what way do you think the pandemic is influencing the way people see their homes? <\/strong><\/p><p>In a country like Spain where people spend more time outside that at home, due to the difficult circumstances, we have been forced to stay inside for large periods of time. I believe that many people have started to realize the importance of being at ease at with their surroundings and have their interior reflect, more than ever, their tastes and personality. Moreover, with most restaurants closed, we have seen a sort of table-setting fever which has been, during the entire confinement, a source of great inspiration. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "97ba856b-69c7-4270-8fc2-fe0abfaaa8c5": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/IMG_7768-1-scaled-1-683x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Favourite Hotel for its decoration?<\/strong><\/p><p>In Madrid, I would choose the Only You Hotel, designed by Lázaro Rosa-Violán, and located in a XIX century mansion on Calle Barquillo. It’s surprising and charming at the same time!<\/p><p><strong>Favourite Restaurant for its decoration?<\/strong><\/p><p>I love the ambience at Charrúa, a Uruguayan restaurant located in the centre of Madrid. They managed to create an amazing atmosphere between the traditional “parrilla”, a beautiful lighting job and very simple but effective furniture that reminds the style of Axel Vervoordt with a Latin twist.<\/p><p><strong>Your favourite address for decoration?<\/strong><\/p><p>For antiques my go-to-address is Le Secret (Ribera de Curtidores, 29), which is curated by one of my favourite Spanish interior designers, Luis Puerta. I love Mestizo’s selection of modern furniture and accessories (Piamonte, 4), and browsing through the fabrics at Gaston y Daniela (Velázquez, 42) is always a joy!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "ba3b1bb0-880e-461f-ad83-6442542900c7": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/IMG_5360-scaled-1-683x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Have you ever wanted to bring back an object from a hotel or a restaurant? And if so which one?<\/strong><\/p><p>Of course! I fell in love with a pair of bronze ashtrays designed by Christian Liaigre at The Ocean Club in Bahamas and would have loved to bring them home!<\/p><p><strong>Any advice?<\/strong><\/p><p>I would personally invest in lasting decoration accessories, such as cushions, throws, lamps, and ceramics. They have the ability to lift up any interior and they will accompany for many years to come as part of your personal history wherever you live.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "056012dd-5b5c-4bdd-82e8-3feb733417b1": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17934692417851__056012dd-5b5c-4bdd-82e8-3feb733417b1-1675937378d0995d46-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kyklos-Green-on-White-Pottery-Vase-1-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Kyklos Green on White Vase<\/p><p>£672<\/p>"
+          }
+        },
+        "template--17934692417851__056012dd-5b5c-4bdd-82e8-3feb733417b1-1675937378d0995d46-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pablo-Dining-Set-White-Green-683x1024-1.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Pablo Linen Dining Set for 4 – White & Green<\/p><p>£154<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17934692417851__056012dd-5b5c-4bdd-82e8-3feb733417b1-1675937378d0995d46-1",
+        "template--17934692417851__056012dd-5b5c-4bdd-82e8-3feb733417b1-1675937378d0995d46-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "4ebd5222-2d66-4bf7-9e88-56a4f48470fb",
+    "9a6b7ef9-89a7-4e78-b2c3-b42c138dcbdf",
+    "97ba856b-69c7-4270-8fc2-fe0abfaaa8c5",
+    "ba3b1bb0-880e-461f-ad83-6442542900c7",
+    "main",
+    "056012dd-5b5c-4bdd-82e8-3feb733417b1",
+    "blog-posts"
+  ]
+}

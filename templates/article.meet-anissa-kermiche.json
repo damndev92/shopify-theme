@@ -1,0 +1,163 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Explore-1-1024x580.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Meet Anissa Kermiche, Designer, London",
+        "title": "",
+        "text": "<p>Ambitious London-based jewellery and ceramics designer <a href=\"https:\/\/www.maisonflaneur.com\/brand\/anissa-kermiche\/\">Anissa Kermiche <\/a>knows a thing or two about decorating – both bodies and homes. Her pretty pieces have been featured in Harper’s Bazaar and Forbes, but next on her press list? Maison Flâneur – to talk bad taste, French interior design TV shows, and how to find the best antiques.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/CoverAnissa-731x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How would you describe your apartment in one word.<\/strong><\/p><p>Eclectic<\/p><p><strong>What makes a home in one word?<\/strong><\/p><p>Warmth<\/p><p><strong>How would you describe your taste in one word.<\/strong><\/p><p>Peculiar <\/p><p><strong>Define bad taste in interiors.<\/strong><\/p><p>Bad taste is a difficult area to navigate because it is so dependent on people’s personal tastes. Your home is the only place in the world that you can truly be yourself and it should honour you and your personality. People will always have opinions and there is no point in mocking or lecturing about what constitutes as good or bad taste. I can share what I would personally find aesthetically displeasing, for example a wrong colour choice or an uncomfortable pattern combination, cheesy art, over the top furniture and ornaments, the list could go on forever! You can overload a room with too many stunning items which will constitute as ”bad taste”. Good taste to me is about finding a balanced medium within your home decor, being sure not to overload and not to be too minimalistic, investing in timeless pieces that will never go out of fashion. But again, it all is in the eye of the beholder!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "2f759e0c-1240-4708-9286-7d7094073af2": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><strong>Where do you find your inspiration for interior design?<\/strong><\/p><p>I am very observant and have hawk eyes when it comes to detail. Whenever I spend an evening at a friend’s house, I inevitably end up leaving with a whole new list of ideas for my flat. I inhale interior magazines on nearly a daily basis and always try to get to antique markets when I travel. I also love attending design fairs such as Salone Del Mobile in Milan or Maison et Objets in Paris. I would definitely be identified as a bit of an interior design show addict, French TV has the best ones! They feature the most incredible architect’s houses, which naturally inspire me but also regularly leave me engulfed with envy.<\/p><p><strong>Describe your philosophy when it comes to decoration.<\/strong><\/p><p>My taste seems to be constantly changing with age. When I was younger, I held quite a Scandinavian perspective- I would choose purely neutral colours and geometric lines, very minimal. However, now I find myself leaning towards much warmer colours and antique furniture. I am enchanted by older pieces and their stories; it makes for a much more interesting interior. I’ve also developed a penchant for striking prints, especially the Liberty ones, they are so gorgeously feminine. My taste has unquestionably become much bolder with age. My philosophy is about investing in solid timeless pieces that you can rely on for a lifetime. For example, I would always go to Dutch or Danish designers when it comes to chairs. Then to spice up their classic style I would mix and match them with unexpected treasures from antique shopping or auctions. To me it is a never-ending expedition, I will constantly be tweaking and updating, highlighting the significant stages of my taste trajectory until I’m old and grey.<\/p><p><strong>Your favourite object in your home.<\/strong><\/p><p>Well it’s technically a piece of art but I think I can be allowed to call it an object given that it has a function: lighting my corridor. It is a canvas from the contemporary artist Francois Morrelet. A black monochrome canvas with neon lights suspended to it. As simple as it is, the bold statement it makes in my flat amazes me every day.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Postavecchia-1024x682.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Your favourite hotel in the world.<\/strong><\/p><p><a href=\"https:\/\/www.postavecchiahotel.com\/en\/?gclid=CjwKCAjw5_DsBRBPEiwAIEDRW7pYM6NH0IVirDRgGt-XoUqGfYuD5EpXDt-G-rnFa8oNTIDj15ahFRoCcEEQAvD_BwE\">La Posta Vecchia Hotel<\/a>, which I recently visited really made an impression on me, especially from a design point of view. It was once the residence of Jean Paul Getty whose collection of antique furniture, tapestries and century old objects remain part of what is now a 19-room luxury hotel complete with every comfort and amenity. It’s located just an hour away from Rome and is built on the site of an ancient villa and 17th-century castle. It has one of the most gorgeous Mediterranean restaurants, I was completely speechless looking out at the sea from the dinner table. I was also enamoured by their spa, and indoor pool, they were dazzling! One of the highlights was seeing the Roman ruins and statuary discovered onsite by builders and archaeologists, it’s such a special place. I remember coming home from that weekend, wanting to refurbish my entire flat. Luckily, I was too busy with work to think about it.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "06c9eb8b-d2dc-4610-bd5b-6bff5c855e27": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Enoteca-Pinchiorri-Florence-a.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Your favourite restaurant in the world.<\/strong><\/p><p>It is a restaurant that offers a genuine fine dining experience but in a wonderfully friendly place, it’s called <a href=\"https:\/\/enotecapinchiorri.it\/?lang=en\">Enoteca Pinchiorri in Florence<\/a>. What I love is that it is not the least bit stuffy despite it being a 3 Michelin star restaurant, how remarkable. I went two nights in a row when I was visiting Florence and it just blew me away! It was started by a lovely couple, a French sommelier and an Italian chef, who managed to give life to the most authentic and delicious food I’ve ever had in my life. Drawing a parallel between food and interior design, I would say that a successful and tasty recipe is about strict simplicity with just the right amount of audacity, nothing more nothing less. Every meal reminds you of something you had before but an improved version. You end up wanting more of everything. Absolutely fantastic in every way. Staff, food, service and atmosphere<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "9069903d-7f31-4ed9-b20c-3c4151ed0f11": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/CGS-PAR-STOUEN-2_0.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Favourite address for decoration in London\/ in the world.<\/strong><\/p><p>Kempton market in Middlesex<\/p><p>Mint, shop in Brompton that sells the most exquisite contemporary furniture<\/p><p>Les puces de Saint Ouen in France, more pricey. <\/p><p>Online : Pamono, a lovely french website.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "4520302f-5a9e-4d32-b429-d9aea7edd489": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/The-Popotin-Glass-_-Bundle-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Can’t pick a colour? This prismatic set of Anissa Kermiche x Maison Flaneur handblown glasses gives you one of each: rose, ochre, cerulean and classic clear.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "2f759e0c-1240-4708-9286-7d7094073af2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "06c9eb8b-d2dc-4610-bd5b-6bff5c855e27",
+    "9069903d-7f31-4ed9-b20c-3c4151ed0f11",
+    "4520302f-5a9e-4d32-b429-d9aea7edd489",
+    "main",
+    "blog-posts"
+  ]
+}
