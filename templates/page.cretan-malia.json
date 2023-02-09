@@ -174,7 +174,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "fixed"
+        "text-over-image-width": "full-width"
       }
     },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
@@ -299,11 +299,11 @@
     "3e9a3011-d355-4723-82ae-f3f86a2d5e64": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/10-cretanmalia-constantza-agapi-pier-1024x573.jpg",
+        "image": "shopify:\/\/shop_images\/g-01-cretan-malia-park.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
-        "text-over-image-width": "fixed"
+        "text-over-image-width": "full-width"
       }
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
