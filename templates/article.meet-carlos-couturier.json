@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/g-05-circulo-mexicano-1024x601.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Are there early signs to know that a location will be the next “destination”?<\/strong><\/p><p>Yes. It starts with word of mouth. A certain ‘crowd‘ arrives early (bohemians, creatives, visionaries). The place must be authentic, fresh, untouched.<\/p><p><strong>Can you tell us about your vision in terms of interior design?<\/strong><\/p><p>Our vision is dynamic. We follow our instincts. We like working with emerging talents in all creative fields (architecture, design, music, food, culture).<\/p><p><strong>Is there a piece in one of your locations that has a special meaning to you?<\/strong><\/p><p>Not really. Every location is special. It is ‘the whole‘ that holds the meaning.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
