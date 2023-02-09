@@ -170,11 +170,11 @@
     "a4047d2e-8c9f-4550-916a-dffc3104acbc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_b6e144e0-7c6b-482c-9613-97adc9616eeb.png",
+        "image": "shopify:\/\/shop_images\/cretan-malia-park-rooms.jpg",
         "parallax": true,
         "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
+        "hero_size": "medium",
+        "text-over-image-width": "fixed"
       }
     },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
@@ -303,7 +303,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
