@@ -52,6 +52,51 @@
         "button_label": ""
       }
     },
+    "59ecc3a2-e12e-4f43-a554-f9420936706d": {
+      "type": "image--logo-list",
+      "blocks": {
+        "template--17824602128699__59ecc3a2-e12e-4f43-a554-f9420936706d-1675972048cd00e15a-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_25280e4a-f3e4-4435-8d11-2d020e08dc7a.png",
+            "link": ""
+          }
+        },
+        "template--17824602128699__59ecc3a2-e12e-4f43-a554-f9420936706d-1675972048cd00e15a-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_b44f17ac-02cd-47db-9401-d3fbcf7a5589.png",
+            "link": ""
+          }
+        },
+        "template--17824602128699__59ecc3a2-e12e-4f43-a554-f9420936706d-1675972048cd00e15a-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_8a28c1c8-7b2a-494b-9c1f-8488993166d4.png",
+            "link": ""
+          }
+        },
+        "template--17824602128699__59ecc3a2-e12e-4f43-a554-f9420936706d-1675972048cd00e15a-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_d37b3b5a-c88b-4f8c-a4ea-1de47d01be63.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17824602128699__59ecc3a2-e12e-4f43-a554-f9420936706d-1675972048cd00e15a-0",
+        "template--17824602128699__59ecc3a2-e12e-4f43-a554-f9420936706d-1675972048cd00e15a-1",
+        "template--17824602128699__59ecc3a2-e12e-4f43-a554-f9420936706d-1675972048cd00e15a-2",
+        "template--17824602128699__59ecc3a2-e12e-4f43-a554-f9420936706d-1675972048cd00e15a-3"
+      ],
+      "settings": {
+        "colors": "light",
+        "width": 170,
+        "subheading": "Some",
+        "title": "Facts"
+      }
+    },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
       "type": "product--shop-the-look",
       "blocks": {
@@ -170,10 +215,10 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
       ],
       "settings": {
-        "background-color": "#F3F3F3",
+        "background-color": "#f3f3f3",
         "text-color": "#000000",
         "title": "Insider tips",
-        "faq_icon": "plus_minus"
+        "faq_icon": "caret"
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
@@ -253,13 +298,27 @@
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
+      "blocks": {
+        "43658a8c-9931-43bb-b285-b7672453c484": {
+          "type": "article",
+          "settings": {
+            "blog_post_1": "news\/meet-agapi-and-costantza-sbokou-owners-of-cretan-malia-park-crete",
+            "blog_post_2": "news\/make-yourself-at-home-cretan-malia-park-crete",
+            "blog_post_3": "news\/make-yourself-at-home-cretan-malia-park-crete",
+            "blog_post_4": ""
+          }
+        }
+      },
+      "block_order": [
+        "43658a8c-9931-43bb-b285-b7672453c484"
+      ],
       "settings": {
         "colors": "white",
         "subheading": "Read From",
         "title": "Flâneur Magazine",
-        "post_limit": 3,
+        "post_limit": 2,
         "show_author_name": false,
-        "show_dates": true,
+        "show_dates": false,
         "show_blog_images": true,
         "imageSize": "portrait"
       }
@@ -271,6 +330,7 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "1dc85c19-cbb0-4cf1-bc4a-3c743a1c5bd3",
     "e25422b6-ab6f-4892-939e-0f301e896c99",
+    "59ecc3a2-e12e-4f43-a554-f9420936706d",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "dc673228-1f95-4ffc-887d-83a8a45785a5",
     "a4047d2e-8c9f-4550-916a-dffc3104acbc",
