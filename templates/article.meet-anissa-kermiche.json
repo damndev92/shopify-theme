@@ -104,6 +104,23 @@
         "button_label": ""
       }
     },
+    "4520302f-5a9e-4d32-b429-d9aea7edd489": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/The-Popotin-Glass-_-Bundle-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Can’t pick a colour? This prismatic set of Anissa Kermiche x Maison Flaneur handblown glasses gives you one of each: rose, ochre, cerulean and classic clear.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -139,6 +156,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "06c9eb8b-d2dc-4610-bd5b-6bff5c855e27",
     "9069903d-7f31-4ed9-b20c-3c4151ed0f11",
+    "4520302f-5a9e-4d32-b429-d9aea7edd489",
     "main",
     "blog-posts"
   ]
