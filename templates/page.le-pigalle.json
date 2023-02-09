@@ -98,23 +98,6 @@
         "faq_icon": "plus_minus"
       }
     },
-    "f752c25e-ff65-466a-ba61-33848f1147fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/festern.png",
-        "layout": "left",
-        "subheading": "Le Pigalle",
-        "location": false,
-        "title": "Meet the Interior Designers",
-        "text_block": "<p><\/p><p>For Le Pigalle, renowned Parisian Interior Design Firm Festen took the original building and added typical Parisian touches, such as panelled doors and white walls, moulding, woodwork and parquet flooring.<\/p>",
-        "page_description": false,
-        "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
-      }
-    },
     "b195b8ee-f0b3-4c9c-b196-88e03135f2b9": {
       "type": "text--image-with-text",
       "settings": {
@@ -125,6 +108,23 @@
         "subheading": "Meet",
         "location": false,
         "title": "Valéry Grégo, Owner",
+        "text_block": "<p><\/p><p>Le Pigalle is part of Valéry Grégo's Perseus group—a collection of luxury hotels in Europe that focuses on mindful experiences for the local community, the guests, and the environment.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
+    "f752c25e-ff65-466a-ba61-33848f1147fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/festern.png",
+        "layout": "left",
+        "subheading": "Le Pigalle",
+        "location": false,
+        "title": "Meet the Interior Designers",
         "text_block": "<p><\/p><p>For Le Pigalle, renowned Parisian Interior Design Firm Festen took the original building and added typical Parisian touches, such as panelled doors and white walls, moulding, woodwork and parquet flooring.<\/p>",
         "page_description": false,
         "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
@@ -417,8 +417,8 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "f752c25e-ff65-466a-ba61-33848f1147fc",
     "b195b8ee-f0b3-4c9c-b196-88e03135f2b9",
+    "f752c25e-ff65-466a-ba61-33848f1147fc",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
