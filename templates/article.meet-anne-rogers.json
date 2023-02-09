@@ -108,6 +108,23 @@
         "button_label": ""
       }
     },
+    "839493d1-1bbd-47ef-b209-8053692cc8c3": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Progetto-senza-titolo-97-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Do you remember an art piece from a hotel that particularly touched you? <\/strong><\/p><p><a href=\"https:\/\/www.wallpaper.com\/travel\/sweden\/stockholm\/hotels\/at-six\">The Jaume Plensa sculpture<\/a> in the lobby of the At Six hotel in Stockholm is striking and thoughtful. I think its elegant and feminine form works well against the more brutalist architecture. <\/p><p><strong>Could you tell us about your future projects?<\/strong><\/p><p>The next iteration of AI-generated design! Our studio is developing new artwork and patterns for textile and upholstery use. We’re also working on art experiences for a few upcoming public projects, including property developments in Washington DC and NYC, as well as a hotel renovation in London.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -143,6 +160,7 @@
     "f8f40bc0-01f1-413b-bb10-913cb0dc50a1",
     "0041e193-a105-437c-bc2c-44c296225837",
     "18c91b6a-3012-4517-af12-70988d10c5e2",
+    "839493d1-1bbd-47ef-b209-8053692cc8c3",
     "main",
     "blog-posts"
   ]
