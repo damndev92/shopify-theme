@@ -108,23 +108,6 @@
         "faq_icon": "plus_minus"
       }
     },
-    "f752c25e-ff65-466a-ba61-33848f1147fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/Interior_Designers-Hotels_5eddd8a3-edfe-4d90-8f81-fe783290c7f4.png",
-        "layout": "left",
-        "subheading": "Story Hotel",
-        "location": false,
-        "title": "Meet the Interior Designers",
-        "text_block": "<p><br\/>Story Hotel is a new hotel concept in Stockholm by Swedish architects and interior designers Koncept, part of the AFRY group. The hotel is a conversion of an existing building, which has been stripped back to a bare shell of raw concrete walls. Rooms were converted from former apartments, its reception was once a barber shop and the Ling Long restaurant a garage. Raw concrete walls and lots of velvet and cool illustrations cover the walls, adding a cosy and warm feel. The interior is decorated with a mixture of vintage and contemporary furniture and the original doors from the building have been reused as headboards for the beds.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
-      }
-    },
     "3c3ad3d0-ccd6-4a3d-97ee-b9cff65bfe21": {
       "type": "text--image-with-text",
       "settings": {
@@ -135,6 +118,23 @@
         "subheading": "Meet",
         "location": false,
         "title": "Staffan Åkerlind, CEO, Story Hotels",
+        "text_block": "<p><br\/>Story Hotel is a new hotel concept located at the heart of Stockholm and celebrates the unique neighborhood in which the property resides. With modern, Scandinavian design that reflects the edgy nature of the city, the hotel offers amenities for both business and leisure travelers.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
+    "f752c25e-ff65-466a-ba61-33848f1147fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/Interior_Designers-Hotels_5eddd8a3-edfe-4d90-8f81-fe783290c7f4.png",
+        "layout": "left",
+        "subheading": "Story Hotel",
+        "location": false,
+        "title": "Meet the Interior Designers",
         "text_block": "<p><br\/>Story Hotel is a new hotel concept in Stockholm by Swedish architects and interior designers Koncept, part of the AFRY group. The hotel is a conversion of an existing building, which has been stripped back to a bare shell of raw concrete walls. Rooms were converted from former apartments, its reception was once a barber shop and the Ling Long restaurant a garage. Raw concrete walls and lots of velvet and cool illustrations cover the walls, adding a cosy and warm feel. The interior is decorated with a mixture of vintage and contemporary furniture and the original doors from the building have been reused as headboards for the beds.<\/p>",
         "page_description": false,
         "button_link": "",
@@ -406,8 +406,8 @@
     "8fbd4d37-f5a9-4f6d-ac8a-aaa42a79403d",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "f752c25e-ff65-466a-ba61-33848f1147fc",
     "3c3ad3d0-ccd6-4a3d-97ee-b9cff65bfe21",
+    "f752c25e-ff65-466a-ba61-33848f1147fc",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
