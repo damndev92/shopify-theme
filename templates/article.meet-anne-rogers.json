@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "18c91b6a-3012-4517-af12-70988d10c5e2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/1-3-1024x1024_e8e0fe8c-7acf-4ba6-85ba-5ea176a6efb6.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How do you curate art for a hotel? <\/strong><\/p><p>I think a lot about engagement: how will guests and staff interact with the art?; how can the art elevate the story of the brand?. I adopt the combined perspective of a UX researcher and an art curator to develop curatorial themes aligned with a hotel’s mission, aesthetic, and audience. All of the art or decor is then sourced and commissioned to respond in kind.<\/p><p><strong>Could you tell us about your work with Inhabit Hotels? <\/strong><\/p><p>I started working with <a href=\"https:\/\/www.inhabithotels.com\/\">Inhabit Hotels<\/a> in 2018 and have been continually inspired by its mission and commitment to sustainability. Designing the art experiences for their London locations encouraged me to do an audit of my own creative process in order to incorporate more sustainable measures. This included sourcing more local artwork, using artists working with eco-friendly materials, and exploring more environmentally beneficial shipping methods. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "f8f40bc0-01f1-413b-bb10-913cb0dc50a1",
     "0041e193-a105-437c-bc2c-44c296225837",
+    "18c91b6a-3012-4517-af12-70988d10c5e2",
     "main",
     "blog-posts"
   ]
