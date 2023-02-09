@@ -77,6 +77,22 @@
         "button_label": ""
       }
     },
+    "6662f3b4-71a8-41be-b231-b0233686c9d0": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "layout": "left",
+        "subheading": "Meet",
+        "location": false,
+        "title": "Interior Designer",
+        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
       "type": "accordion",
       "blocks": {
@@ -349,6 +365,7 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "a05db212-652f-4271-8069-7ace459b4c2e",
+    "6662f3b4-71a8-41be-b231-b0233686c9d0",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
