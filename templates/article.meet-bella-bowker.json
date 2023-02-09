@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "3569c588-d638-4479-a28c-fd7d9627c850": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Schermata-2021-05-18-alle-16.41.47-1024x861.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Do you have a favourite design?<\/strong><\/p><p>Argh, I change my mind every time I do something new! I really love the Rainbow Veggie set – and I think the bright pink radish has to be my favourite. It’s so eye-catching. I also love the Mimosa napkin set as it combines several different <strong>stitches. <\/strong><\/p><p><strong>Is there something about your embroideries people might not know about?<\/strong><\/p><p>They are so time consuming to create! Not only are they hand-made by a lovely lady in Greece, each one is lovingly designed & stitched – I think there’s around 500 individual stitches of thread in each design. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "3569c588-d638-4479-a28c-fd7d9627c850",
     "main",
     "blog-posts"
   ]
