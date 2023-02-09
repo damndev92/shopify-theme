@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "9a6b7ef9-89a7-4e78-b2c3-b42c138dcbdf": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/IMG_1375-scaled-1-683x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Which is your favorite item from your collection?<\/strong><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/product\/pampa-linen-cushion-white\/\">The Pampa cushions<\/a> featuring natural horn plates were one of the first products we designed and they are still my favourite! They uplift even the dullest sofa!<\/p><p><strong>Can you tell us about the artisans you work with, in Spain?<\/strong><\/p><p>Working with artisans is by far the best part of this journey. Their personal stories, how they acquired their skills from their fathers and grandfathers, the pride they take in their work is something wonderful to be part of. By working with skilled locals to whom we pay fair wages, we are proud to make a meaningful contribution to their economies and lives, while pursuing our environmental, social and economic sustainability goals.<\/p><p><strong>In what way do you think the pandemic is influencing the way people see their homes? <\/strong><\/p><p>In a country like Spain where people spend more time outside that at home, due to the difficult circumstances, we have been forced to stay inside for large periods of time. I believe that many people have started to realize the importance of being at ease at with their surroundings and have their interior reflect, more than ever, their tastes and personality. Moreover, with most restaurants closed, we have seen a sort of table-setting fever which has been, during the entire confinement, a source of great inspiration. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "4ebd5222-2d66-4bf7-9e88-56a4f48470fb",
+    "9a6b7ef9-89a7-4e78-b2c3-b42c138dcbdf",
     "main",
     "blog-posts"
   ]
