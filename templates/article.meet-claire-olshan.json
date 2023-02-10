@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "807c164c-4d9d-494b-8f27-9d2e426b936c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/la-coste-1-600x400-1.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Your favourite hotel in the world.<\/strong><\/p><p>Villa le CosteHacienda de san Antonio<\/p><p><strong>Your favourite address for interior deco in New York\/ the world.<\/strong><\/p><p>Maison Gerard and Demisch Denant<\/p><p><strong>Finally, what was the last gift you gave someone?<\/strong><\/p><p>The Toy Pepper Mill from BIRLEYAnd a Red Vase by Gaetano Pesce<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "b0b1e3b4-61df-4dab-b262-5fed90b4a143",
     "f5f1d2b8-fd0f-48b2-96ef-d8efa405d6e4",
+    "807c164c-4d9d-494b-8f27-9d2e426b936c",
     "main",
     "blog-posts"
   ]
