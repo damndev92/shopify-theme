@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "42bf022b-5426-4c29-a455-242ee68f3c98": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/iconic-chairs-article-pics-6-1024x1024_04b7c95f-3104-4e1d-ba17-212c99c28a74.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Palmeras Table Runner",
+        "text_block": "<p>£63<\/p><p>Vintage linen table runner in cream colour, embroidered with natural cottons.  These runners can be paired with the Palm Napkins Sets-of-2<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "f714d619-8b2a-4cd2-bbc0-99c573165e65",
     "bef25762-2052-47c4-a6d2-a272ebb0b06e",
+    "42bf022b-5426-4c29-a455-242ee68f3c98",
     "main",
     "blog-posts"
   ]
