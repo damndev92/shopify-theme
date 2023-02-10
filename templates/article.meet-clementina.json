@@ -142,6 +142,23 @@
         "button_label": ""
       }
     },
+    "d07a8148-a54f-4bc9-98f9-6a6983d3fd2d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Palm-Tray.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Palm Tray",
+        "text_block": "<p>From£41<\/p><p>Hand decorated ceramic tray which can be used in multiple ways: for bread at dinner tables, but also as a soap dis, as a keys tray or jewellery holder. available in grey-green or yellow glaze.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -179,6 +196,7 @@
     "42bf022b-5426-4c29-a455-242ee68f3c98",
     "b5d40566-3a75-4ec3-8b44-81662d3cd642",
     "dee97cc6-613d-44dc-b61d-c52bc4ec9364",
+    "d07a8148-a54f-4bc9-98f9-6a6983d3fd2d",
     "main",
     "blog-posts"
   ]
