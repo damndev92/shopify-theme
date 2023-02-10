@@ -202,6 +202,13 @@
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
       "type": "accordion",
       "blocks": {
+        "b11b0916-b0c0-489c-9620-e6c565559c0c": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Cretan Malia Park in one word?",
+            "text": "<p>Engaging – And that’s on many levels. Nature, Design, Food, People. <\/p>"
+          }
+        },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
           "type": "tab_content",
           "settings": {
@@ -225,6 +232,7 @@
         }
       },
       "block_order": [
+        "b11b0916-b0c0-489c-9620-e6c565559c0c",
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
