@@ -138,11 +138,60 @@
     "eada9471-525f-4376-8e4f-3493ed49a28f": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/eden-locke-hotel-grzywinski-pons-interiors-hotels-london-uk_dezeen_hero-b-1024x576.jpg",
+        "image": "shopify:\/\/shop_images\/test_mobile.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
         "text-over-image-width": "full-width"
+      }
+    },
+    "8d4f41f4-185b-4e23-809b-f3f6292c552c": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17647682617659__8d4f41f4-185b-4e23-809b-f3f6292c552c-1676052933b7629c32-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17647682617659__8d4f41f4-185b-4e23-809b-f3f6292c552c-1676052933b7629c32-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17647682617659__8d4f41f4-185b-4e23-809b-f3f6292c552c-1676052933b7629c32-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17647682617659__8d4f41f4-185b-4e23-809b-f3f6292c552c-1676052933b7629c32-0",
+        "template--17647682617659__8d4f41f4-185b-4e23-809b-f3f6292c552c-1676052933b7629c32-1",
+        "template--17647682617659__8d4f41f4-185b-4e23-809b-f3f6292c552c-1676052933b7629c32-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "VILNIUS, LITHUANIA",
+        "title": "Hotel Pacai",
+        "collection": "hotel-pacai",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
+    "ead30b73-2c78-4aae-bdff-a922e308b09b": {
+      "type": "image--image-with-text-block",
+      "disabled": true,
+      "settings": {
+        "parallax": true,
+        "text-color": "#000000",
+        "background-color": "#ffffff",
+        "horizontal-alignment": "center",
+        "subheading": "",
+        "title": "Share your story",
+        "text": "Here's your chance to make a great first impression",
+        "button_link": "",
+        "button_label": ""
       }
     }
   },
@@ -152,6 +201,8 @@
     "6bb64512-b0f4-470f-a831-da34d529ebce",
     "07d9e5bd-58c8-4fd8-9347-02901b98324b",
     "1171aa9d-339a-4ce4-8468-5b3208ca4ad3",
-    "eada9471-525f-4376-8e4f-3493ed49a28f"
+    "eada9471-525f-4376-8e4f-3493ed49a28f",
+    "8d4f41f4-185b-4e23-809b-f3f6292c552c",
+    "ead30b73-2c78-4aae-bdff-a922e308b09b"
   ]
 }
