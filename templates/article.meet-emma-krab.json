@@ -40,21 +40,21 @@
         "button_label": ""
       }
     },
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+    "fc7cdb05-5ec9-4237-9dcd-2cc04c73dbd8": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/2-9.png",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>If money wasn’t an issue, what furniture piece would you buy?<\/strong><\/p><p>Hmmm…. Either a built-in closet for my bedroom, that’s very high on my utopian wish list or a giant dutch vintage tulipiere vase.<\/p><p><strong>If you moved house tomorrow, what one piece of homeware would you take with you?<\/strong><\/p><p>That’s a really hard question. I’m quite emotional about the things I surround myself with. I would definitely bring the benches my sister Agnes has made for me, they are irreplaceable to me.<\/p><p>But I would also bring the plates my sister-in-law made for my wedding. She made a set of 5 cake plates, with details from the wedding invitation she made us.<\/p><p><strong>Where do you shop for homeware in Copenhagen?<\/strong><\/p><p>Well, most of the items in my home are of course from Jore Copenhagen where I work. Otherwise, I love buying little items at Beau Marche on Ny Østergade, or Dora on Værnedamsvej. Mother on Blaagårdsgade has really good second-hand pieces, I bought a really cute ceramic chicken for salt there a while ago.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
@@ -88,7 +88,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "fc7cdb05-5ec9-4237-9dcd-2cc04c73dbd8",
     "main",
     "blog-posts"
   ]
