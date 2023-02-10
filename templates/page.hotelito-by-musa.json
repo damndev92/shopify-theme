@@ -71,6 +71,23 @@
         "title": ""
       }
     },
+    "c63a3c52-723b-4ea8-af80-bcdab2b58e04": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/52c2beadcb236f210b2ea8634a0d3af6fcab07b3-1277x960.webp",
+        "layout": "left",
+        "subheading": "meet the hosts",
+        "location": false,
+        "title": "Andrés Saavedra & Tara Medina",
+        "text_block": "<p><br\/>With over 17 years experience in architecture and design projects from around Ixtapa-Zihuatanejo region, ASD provides elevated, contemporary, and minimalist design concepts for structures, spaces, and branding in a now signature modernist style rooted in natural, and locally-sourced materials that hero a new era of Mexican tradition and craftsmanship. Designer Andrés Saavedra’s signature style seamlessly melds the Japanese aesthetic concept of Wabi Sabi with the new wave of Mexican Modernism.Opposing elements come together to create sensory experiences: Locally-sourced materials such as stone, palapa, and tropical wood; contemporary components like metal, concrete, and glass. Interiors showcase a curated blend of curiosities both familiar and unknown—artisanal fabrics, modern art, handmade furniture, intricately patterned tiles.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
       "type": "accordion",
       "blocks": {
@@ -185,7 +202,8 @@
           "settings": {
             "product": "beefbar-main-plate-knife-emoji",
             "top": 63,
-            "left": 51
+            "left": 51,
+            "disable_spot": false
           }
         },
         "61a17092-0b88-43c9-888c-ee6b50651501": {
@@ -193,7 +211,8 @@
           "settings": {
             "product": "design-clock-solari-cifra-3-black",
             "top": 0,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         },
         "2d0cd767-4992-4798-8a74-406d517d073e": {
@@ -201,7 +220,8 @@
           "settings": {
             "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
             "top": 33,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         }
       },
@@ -232,7 +252,8 @@
           "settings": {
             "product": "beefbar-main-plate-knife-emoji",
             "top": 63,
-            "left": 51
+            "left": 51,
+            "disable_spot": false
           }
         },
         "33f45241-76a7-44e8-98cf-425c6bb0bdc8": {
@@ -240,7 +261,8 @@
           "settings": {
             "product": "design-clock-solari-cifra-3-black",
             "top": 0,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         },
         "acc4f147-815a-42fe-a4b7-0c5e251efe89": {
@@ -248,7 +270,8 @@
           "settings": {
             "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
             "top": 33,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         }
       },
@@ -382,6 +405,7 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "9ffae660-13df-4a6b-8d76-7b4aacce707f",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
+    "c63a3c52-723b-4ea8-af80-bcdab2b58e04",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
