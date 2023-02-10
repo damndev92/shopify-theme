@@ -91,7 +91,7 @@
         "ab378664-61a7-4073-bad5-23268f4b103a"
       ],
       "settings": {
-        "colors": "light",
+        "colors": "accent",
         "width": 170,
         "subheading": "Some",
         "title": "Facts"
@@ -167,14 +167,19 @@
         "padding_bottom": 25
       }
     },
-    "b7f6bc4f-e872-4704-9147-4b826a37f3fd": {
-      "type": "image--image",
+    "16287b18-538e-4971-9b07-365e6c3d0c5e": {
+      "type": "image--image-with-text-overlay",
       "settings": {
         "image": "shopify:\/\/shop_images\/s-cretan-malia-park-crete-greece.jpg",
+        "subheading": "",
+        "title": "Take a tour",
+        "text": "Here's your chance to make a great first impression",
         "parallax": true,
         "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
       }
     },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
@@ -296,19 +301,14 @@
         "padding_bottom": 25
       }
     },
-    "16287b18-538e-4971-9b07-365e6c3d0c5e": {
-      "type": "image--image-with-text-overlay",
+    "b7f6bc4f-e872-4704-9147-4b826a37f3fd": {
+      "type": "image--image",
       "settings": {
         "image": "shopify:\/\/shop_images\/s-cretan-malia-park-crete-greece.jpg",
-        "subheading": "",
-        "title": "Take a tour",
-        "text": "Here's your chance to make a great first impression",
         "parallax": true,
         "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width",
-        "button_link": "",
-        "button_label": ""
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
       }
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
@@ -358,13 +358,13 @@
     "59ecc3a2-e12e-4f43-a554-f9420936706d",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "dc673228-1f95-4ffc-887d-83a8a45785a5",
-    "b7f6bc4f-e872-4704-9147-4b826a37f3fd",
+    "16287b18-538e-4971-9b07-365e6c3d0c5e",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "e7c3e67e-84e8-4f3e-a73b-f1bcf90c88fd",
-    "16287b18-538e-4971-9b07-365e6c3d0c5e",
+    "b7f6bc4f-e872-4704-9147-4b826a37f3fd",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
     "d58cdf89-8a91-4c4a-8130-de04ef80f6f1"
   ]
