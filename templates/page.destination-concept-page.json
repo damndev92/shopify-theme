@@ -248,10 +248,10 @@
       "type": "image--image",
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_5813.jpg",
-        "parallax": false,
+        "parallax": true,
         "alignment": "center",
-        "hero_size": "x-large",
-        "text-over-image-width": "fixed"
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
