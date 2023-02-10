@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "af6fe36a-2432-4a41-97c5-fcfb57515c8e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/3-6.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What colour combination do you predict will be everywhere next?<\/strong><\/p><p>I’m pretty keen on darker colours like aubergine or black cherry combined with very light colours like mint. Red, blue and white never goes out of style.<\/p><p>But I think we will see more white base as the next thing, or at least more neutrals as the base, but then with a pop of paint or embroidery to freshen it up.<\/p><p><strong>Your living room colours are so unique & cool, what tips do you have for picking colour combinations for your home?<\/strong><\/p><p>To sometimes just take a risk. It’s not the end of the world if it’s not gonna last forever. To me it helped a lot that all the colours are from the same colour card from Notes of Color. All the colours had a similar vibe in a way, so I could find the colours that were the biggest contrast to each other.<\/p><p>And go with the vibe of the room. If you mainly spend your evenings in the room you can go a bit darker than the rooms you work or cook in.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "fc7cdb05-5ec9-4237-9dcd-2cc04c73dbd8",
+    "af6fe36a-2432-4a41-97c5-fcfb57515c8e",
     "main",
     "blog-posts"
   ]
