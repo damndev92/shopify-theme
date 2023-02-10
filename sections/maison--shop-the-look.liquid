@@ -1,0 +1,454 @@
+{{ 'section-shop-the-look.min.css' | asset_url | stylesheet_tag }}
+
+{% case section.settings.colors %}
+  {% when 'white' %}
+    <div class="homepage-sections-wrapper homepage-sections-wrapper--white">
+  {% when 'light' %}
+    <div class="homepage-sections-wrapper homepage-sections-wrapper--light">
+  {% when 'accent' %}
+    <div class="homepage-sections-wrapper homepage-sections-wrapper--accent">
+  {% when 'dark' %}
+    <div class="homepage-sections-wrapper homepage-sections-wrapper--dark">
+{% endcase %}
+
+{% assign main-dot-count = 0 %}
+{% assign item-index-count = 0 %}
+
+  <div class="container" data-wetheme-section-type="product--shop-the-look" data-wetheme-section-id="{{ section.id }}">
+    <div class="row">
+      <div class="page-width col-md-12">
+
+        {% if section.settings.title != blank or section.settings.subheading != blank %}
+          <div class="title-bar custom-font">
+            {% if section.settings.subheading != blank %}
+              <h3 class="type-subheading type-subheading--1 wow fadeIn{% if section.settings.title != blank %} typography--padding-bottom{% endif %}">{{ section.settings.subheading | escape }}</h3>
+            {% endif %}
+            {% if section.settings.title != blank %}
+              <h2 class="wow fadeIn{% if section.settings.subheading != blank %} delay-1{% endif %}">{{ section.settings.title | escape }}</h2>
+            {% endif %}
+          </div>
+        {% endif %}
+        <div class="flexslider-container">
+          <div class="flexslider flexslider-shop-the-look">
+          <ul class="slides">
+        {% for block in section.blocks %}
+          <li class="stl__main {% if block.settings.image__position == 'image--right' %} stl__img-right{% endif %}">
+
+            <div class="stl__image-container">
+              <div class="stl__image">
+                {% render 'responsive-image' with block.settings.image, class: 'stl__image', alt: block.settings.image.alt %}
+              </div>
+            </div>
+
+            <div class="stl__outer-products-container">
+              <div class="stl__products-container">
+
+                {% if block.settings.product != blank %}
+                  {% assign thisProduct = all_products[block.settings.product] %}
+                  <div class="stl__products" id="product_1" data-index="1" data-stl-product-block-id="{{ block.id }}">
+                    {%-
+                      render 'product-grid--no-blocks',
+                      liquidObject: thisProduct
+                    -%}
+                  </div>
+                {% endif %}
+
+                {% if block.settings.product-2 != blank %}
+                  {% assign thisProduct = all_products[block.settings.product-2] %}
+                  <div class="stl__products" id="product_2" data-index="2" data-stl-product-block-id="{{ block.id }}">
+                    {%-
+                      render 'product-grid--no-blocks',
+                      liquidObject: thisProduct
+                    -%}
+                  </div>
+                {% endif %}
+
+                {% if block.settings.product-3 != blank %}
+                  {% assign thisProduct = all_products[block.settings.product-3] %}
+                  <div class="stl__products" id="product_3" data-index="3" data-stl-product-block-id="{{ block.id }}">
+                    {%-
+                      render 'product-grid--no-blocks',
+                      liquidObject: thisProduct
+                    -%}
+                  </div>
+                {% endif %}
+
+                {% if block.settings.product-4 != blank %}
+                  {% assign thisProduct = all_products[block.settings.product-4] %}
+                  <div class="stl__products" id="product_4" data-index="4" data-stl-product-block-id="{{ block.id }}">
+                    {%-
+                      render 'product-grid--no-blocks',
+                      liquidObject: thisProduct
+                    -%}
+                  </div>
+                {% endif %}
+
+              </div>
+            </div>
+
+          </li>
+        {% endfor %}
+          </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<style>
+    @-webkit-keyframes shopTheLookDotKeyframe {
+    0% {
+      transform: scale(0.95);
+      box-shadow: 0 0 0 0 {{ section.settings.hotspot__color }};
+      opacity: 0.7;
+    }
+    70% {
+      transform: scale(1);
+      box-shadow: 0 0 0 10px {{ section.settings.hotspot__color }};
+      opacity: 0;
+    }
+    100% {
+      transform: scale(0.95);
+      box-shadow: 0 0 0 0 {{ section.settings.hotspot__color }};
+      opacity: 0;
+    }
+  }
+
+  @keyframes shopTheLookDotKeyframe {
+    0% {
+      transform: scale(0.95);
+      box-shadow: 0 0 0 0 {{ section.settings.hotspot__color }};
+      opacity: 0.7;
+    }
+    70% {
+      transform: scale(1);
+      box-shadow: 0 0 0 10px {{ section.settings.hotspot__color }};
+      opacity: 0;
+    }
+    100% {
+      transform: scale(0.95);
+      box-shadow: 0 0 0 0 {{ section.settings.hotspot__color }};
+      opacity: 0;
+    }
+  }
+
+  .stl__dot,
+  .stl__dot-num {
+    background-color: {{ section.settings.hotspot__color }};
+  }
+</style>
+
+{% schema %}
+  {
+    "name": {
+      "en": "Maison - Shop the look",
+      "de": "Hol dir den Look",
+      "es": "Compra este look",
+      "fr": "Acheter le look",
+      "pt-PT": "Compre a aparência"
+    },
+    "class": "homepage-section--shop-the-look-wrapper",
+    "max_blocks": 4,
+    "settings": [
+
+      {
+      "type": "select",
+      "id": "colors",
+      "label": {
+      "en": "Color scheme",
+      "de": "Farbschema",
+      "es": "Esquema de colores",
+      "fr": "Palette de couleurs",
+      "pt-PT": "Esquema de cores"
+      },
+      "default": "white",
+      "options": [
+      {
+      "value": "white",
+      "label": {
+      "en": "White",
+      "de": "Weiß",
+      "es": "Blanco",
+      "fr": "Blanc",
+      "pt-PT": "Branco"
+      }
+      },
+      {
+      "value": "light",
+      "label": {
+      "en": "Light",
+      "de": "Licht",
+      "es": "Luz",
+      "fr": "Clair",
+      "pt-PT": "Claro"
+      }
+      },
+      {
+      "value": "accent",
+      "label": {
+      "en": "Feature",
+      "de": "Eigenschaft",
+      "es": "Destacado",
+      "fr": "Caractéristique",
+      "pt-PT": "Funcionalidade"
+      }
+      },
+      {
+      "value": "dark",
+      "label": {
+      "en": "Dark",
+      "de": "Dunkel",
+      "es": "Oscuro",
+      "fr": "Foncé",
+      "pt-PT": "Escuro"
+      }
+      }
+      ],
+      "info": {
+      "en": "Set your color schemes in 'Theme settings' > 'Colors'",
+      "de": "Legen Sie Ihre Farbschemata in 'Themeneinstellungen' > 'Farben' fest",
+      "es": "Configurar las combinaciones de color en 'Configuración del tema' > 'Colores'",
+      "fr": "Définissez vos jeux de couleurs dans « Paramètres du thème » > « Couleurs »",
+      "pt-PT": "Defina os seus esquemas de cor em 'Definições de tema' > 'Cores'"
+      }
+      },
+    {
+        "type": "text",
+        "id": "subheading",
+        "label": {
+          "en": "Subheading",
+          "de": "Unterüberschrift",
+          "es": "Subencabezado",
+          "fr": "Sous-rubrique",
+          "pt-PT": "Subtítulo"
+        },
+        "default": {
+          "en": "Subheading",
+          "de": "Unterüberschrift",
+          "es": "Subencabezado",
+          "fr": "Sous-rubrique",
+          "pt-PT": "Subtítulo"
+        }
+    },
+    {
+      "type": "text",
+      "id": "title",
+      "label": {
+          "en": "Heading",
+          "de": "Überschrift",
+          "es": "Encabezado",
+          "fr": "Rubrique",
+          "pt-PT": "Título"
+      },
+      "default": {
+          "en": "Shop the look",
+          "de": "Hol dir den Look",
+          "es": "Compra este look",
+          "fr": "Acheter le look",
+          "pt-PT": "Compre a aparência"
+      }
+    },
+    {
+      "type": "header",
+      "content": {
+          "en": "Description",
+          "de": "Beschreibung",
+          "es": "Descripción",
+          "fr": "Description",
+          "pt-PT": "Descrição"
+      }
+    }
+    ],
+	  "blocks": [
+      {
+        "type": "product",
+        "name": {
+          "en": "Product",
+          "de": "Produkt",
+          "es": "Producto",
+          "fr": "Produit",
+          "pt-PT": "Produto"
+        },
+        "settings": [
+          {
+          "type": "select",
+          "id": "colors",
+          "label": {
+          "en": "Color scheme",
+          "de": "Farbschema",
+          "es": "Esquema de colores",
+          "fr": "Palette de couleurs",
+          "pt-PT": "Esquema de cores"
+          },
+          "default": "white",
+          "options": [
+          {
+          "value": "white",
+          "label": {
+          "en": "White",
+          "de": "Weiß",
+          "es": "Blanco",
+          "fr": "Blanc",
+          "pt-PT": "Branco"
+          }
+          },
+          {
+          "value": "light",
+          "label": {
+          "en": "Light",
+          "de": "Licht",
+          "es": "Luz",
+          "fr": "Clair",
+          "pt-PT": "Claro"
+          }
+          },
+          {
+          "value": "accent",
+          "label": {
+          "en": "Feature",
+          "de": "Eigenschaft",
+          "es": "Destacado",
+          "fr": "Caractéristique",
+          "pt-PT": "Funcionalidade"
+          }
+          },
+          {
+          "value": "dark",
+          "label": {
+          "en": "Dark",
+          "de": "Dunkel",
+          "es": "Oscuro",
+          "fr": "Foncé",
+          "pt-PT": "Escuro"
+          }
+          }
+          ],
+          "info": {
+          "en": "Set your color schemes in 'Theme settings' > 'Colors'",
+          "de": "Legen Sie Ihre Farbschemata in 'Themeneinstellungen' > 'Farben' fest",
+          "es": "Configurar las combinaciones de color en 'Configuración del tema' > 'Colores'",
+          "fr": "Définissez vos jeux de couleurs dans « Paramètres du thème » > « Couleurs »",
+          "pt-PT": "Defina os seus esquemas de cor em 'Definições de tema' > 'Cores'"
+          }
+          },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": {
+            "en": "Image",
+            "de": "Bild",
+            "es": "Imagen",
+            "fr": "Image",
+            "pt-PT": "Imagem"
+            },
+            "info": {
+            "en": "2000 x 900px recommended",
+            "de": "2000 x 900 px empfohlen",
+            "es": "Recomendado 2000 x 900 px",
+            "fr": "2000 x 900 px recommandé",
+            "pt-PT": "2000 x 900px, recomendado"
+            }
+            },
+            {
+            "type": "select",
+            "id": "image__position",
+            "label": {
+            "en": "Image position",
+            "de": "Bildposition",
+            "es": "Posición de la imagen",
+            "fr": "Position de l'mage",
+            "pt-PT": "Posição da imagem"
+            },
+            "default": "image--left",
+            "options": [
+            {
+            "value": "image--left",
+            "label": {
+            "en": "Left",
+            "de": "Links",
+            "es": "Izquierda",
+            "fr": "Gauche",
+            "pt-PT": "Esquerda"
+            }
+          },
+          {
+          "value": "image--right",
+          "label": {
+          "en": "Right",
+          "de": "Rechts",
+          "es": "Derecha",
+          "fr": "Droite",
+          "pt-PT": "Direita"
+          }
+          }
+          ]
+          },
+          {
+            "id": "product",
+            "type": "product",
+            "label": {
+              "en": "Product",
+              "de": "Produkt",
+              "es": "Producto",
+              "fr": "Produit",
+              "pt-PT": "Produto"
+            }
+          },
+      {
+      "id": "product-2",
+      "type": "product",
+      "label": "Product 2"
+      },
+      {
+      "id": "product-3",
+      "type": "product",
+      "label": "Product 3"
+      },
+      {
+      "id": "product-4",
+      "type": "product",
+      "label": "Product 4"
+      }
+        ]
+      }
+    ],
+    "presets": [
+      {
+      "name": {
+          "en": "Maison - Shop the look",
+          "de": "Hol dir den Look",
+          "es": "Compra este look",
+          "fr": "Acheter le look",
+          "pt-PT": "Compre a aparência"
+      },
+      "category": {
+          "en": "Product",
+          "de": "Produkt",
+          "es": "Producto",
+          "fr": "Produit",
+          "pt-PT": "Produto"
+      },
+      "blocks": [
+          {
+              "type": "product"
+          }
+      ]
+    }
+  ],
+  "templates": [
+        "index",
+        "collection",
+        "list-collections",
+        "blog",
+        "article",
+        "page",
+        "password",
+        "404",
+        "cart",
+        "search",
+        "product"
+    ]
+}
+{% endschema %}
