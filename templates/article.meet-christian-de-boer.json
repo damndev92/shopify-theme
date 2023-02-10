@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "be147b05-2a8f-44da-894e-48660548df91": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/48095314938_ba3c1ba95b_c.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What’s your favourite spot in Jaya House?<\/strong> <br\/>Our Skybar to watch the sun go down with a glass of Ginger Mojito or Passion Fruit Martini. <\/p><p><strong>Something no one knows about Cambodia?  <\/strong><br\/>Cambodia has some of the nicest people globally. Hard-working, peaceful, and (rightfully) proud of their culture and traditions.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "4adefbc2-e71e-4732-8dca-2b9fb45610ff",
+    "be147b05-2a8f-44da-894e-48660548df91",
     "main",
     "blog-posts"
   ]
