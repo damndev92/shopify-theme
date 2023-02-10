@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "bef25762-2052-47c4-a6d2-a272ebb0b06e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Club-Lumiere-Lampshade.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Club Lumière Lampshade",
+        "text_block": "<p>£118<\/p><p>Made in Dried Palm fibre, it is a suspension lampshade. Moving to Kenya, I have had the chance to meet an incredibly talented artisan and have developed a palm fibre lampshade that respects the shape of the palm leaf and radiates warm inviting light. Sold not electrified.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "f714d619-8b2a-4cd2-bbc0-99c573165e65",
+    "bef25762-2052-47c4-a6d2-a272ebb0b06e",
     "main",
     "blog-posts"
   ]
