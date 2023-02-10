@@ -141,7 +141,7 @@
         "template--17647682617659__2750303b-b826-4366-ae63-1b7568c4fd2b-16760537067805bf44-0": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "6x6",
             "top": 46,
             "left": 30,
             "disable_spot": false
@@ -150,7 +150,7 @@
         "template--17647682617659__2750303b-b826-4366-ae63-1b7568c4fd2b-16760537067805bf44-1": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "alfonso-vase",
             "top": 63,
             "left": 51,
             "disable_spot": false
