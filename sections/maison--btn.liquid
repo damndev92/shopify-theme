@@ -15,9 +15,15 @@
         <div class="page-width col-md-12" style="padding-top: {{ section.settings.padding_top }}px; padding-bottom: {{ section.settings.padding_bottom }}px;">
           {% if section.settings.btn %}
             <div class="text-center wow fadeIn delay-1" style="margin: 0 auto">
-              <a href="{{ section.settings.url }}" class="btn">
-                {{ section.settings.btn }}
-              </a>
+              {% if section.settings.url != blank %}
+                <a href="{{ section.settings.url }}" class="btn">
+                  {{ section.settings.btn }}
+                </a>
+              {% elsif section.settings.link %}
+                <a href="{{ section.settings.link }}" class="btn">
+                  {{ section.settings.btn }}
+                </a>
+              {% endif %}
             </div>
           {% endif %}
         </div>
@@ -38,6 +44,11 @@
         {
           "type": "text",
           "id": "url",
+          "label": "Url"
+        },
+        {
+          "type": "url",
+          "id": "link",
           "label": "Url"
         },
         {
