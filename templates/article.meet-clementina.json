@@ -125,6 +125,23 @@
         "button_label": ""
       }
     },
+    "dee97cc6-613d-44dc-b61d-c52bc4ec9364": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Palm-Napkins.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Palm Napkins, Set of 2",
+        "text_block": "<p>£44<\/p><p>Set-of-2- Vintage linen, Natural cotton embroideries. Entirely made by hand [that is 0 machine work] in vintage Italian linen, these sets are ideal for any table, breakfast-in-bed or tv-dinner. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -161,6 +178,7 @@
     "bef25762-2052-47c4-a6d2-a272ebb0b06e",
     "42bf022b-5426-4c29-a455-242ee68f3c98",
     "b5d40566-3a75-4ec3-8b44-81662d3cd642",
+    "dee97cc6-613d-44dc-b61d-c52bc4ec9364",
     "main",
     "blog-posts"
   ]
