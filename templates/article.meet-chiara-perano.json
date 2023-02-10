@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "97faa77b-eb8e-41f0-a727-cf5d4c3022dc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Maman-Fleur.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Maman Fleur Limited Edition Print",
+        "text_block": "<p>£50<\/p><p>A3 size -<strong>Limited Edition of 50 <\/strong>Maman Fleur ’ limited edition fine art print is a special collaboration between Chiara Perano and Maison Flâneur. The original acrylic painting has been created by Chiara with a special french twist, paying tribute to maman this Mother’s Day. <strong>Order by 19 March to receive in time for Mothering Sunday.<\/strong><\/p><p><\/p><p><\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "97faa77b-eb8e-41f0-a727-cf5d4c3022dc",
     "main",
     "blog-posts"
   ]
