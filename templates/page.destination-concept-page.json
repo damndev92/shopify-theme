@@ -244,6 +244,16 @@
         "title": "SHOP"
       }
     },
+    "f14a1003-b54c-4fea-a13a-b0a328f49f48": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_5813.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "x-large",
+        "text-over-image-width": "fixed"
+      }
+    },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
       "type": "text--rich-text",
       "settings": {
@@ -359,6 +369,7 @@
     "b8b7b408-c4e2-493b-83c4-5d1239774fcb",
     "4a5ce8f8-4c14-49ec-9614-c01842269f06",
     "3348f991-fee1-4f5d-8bc3-69c69d3b35c8",
+    "f14a1003-b54c-4fea-a13a-b0a328f49f48",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a",
