@@ -309,6 +309,48 @@
         "title": ""
       }
     },
+    "9007a83e-8e48-49c0-9eeb-f49cfd89b794": {
+      "type": "image--gallery",
+      "blocks": {
+        "a75c4b83-2f06-43c0-998a-9acf9933e9ed": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-10_at_11.18.22.png",
+            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-17\/",
+            "title": "¡La Veste Is Best!",
+            "description": "<p>Cheery gingham, primary colours and bric-a-brac details abound on the duo’s napkins,<br\/>coasters and quilted placemats. Mix and match to keep the party going or keep it<br\/>simple. Either way, meals are about to get a whole lot more fun.<\/p>"
+          }
+        },
+        "64c82b02-c3bb-4e83-bbdc-2f46f0ed1b09": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_10.17.07.png",
+            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-21-ou-22-avec-platine\/",
+            "title": "Loca about Platera",
+            "description": "<p>We started the platera during the lockdown, when sitting at the table was the best plan of the day. We wanted to find a way to make that moment more enjoyable, so our passion for everything handmade and my free time led me to try new things. <\/p>"
+          }
+        },
+        "389f73ad-217a-42d3-9aa4-ebaa123faada": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_10.21.55.png",
+            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-22\/",
+            "title": "SUTDIO ERHART; Madrid's best kept secret",
+            "description": "<p>Studio Erhart designs and manufactures beautiful interior objects produced in unique pieces or small series, handmade by fine craftsmen using refined materials based in Madrid.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "a75c4b83-2f06-43c0-998a-9acf9933e9ed",
+        "64c82b02-c3bb-4e83-bbdc-2f46f0ed1b09",
+        "389f73ad-217a-42d3-9aa4-ebaa123faada"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a": {
       "type": "collection--featured-collection",
       "blocks": {
@@ -372,6 +414,7 @@
     "f14a1003-b54c-4fea-a13a-b0a328f49f48",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
+    "9007a83e-8e48-49c0-9eeb-f49cfd89b794",
     "922b4cdc-fcfd-44a6-8ca5-d3fd8376f71a",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
   ]
