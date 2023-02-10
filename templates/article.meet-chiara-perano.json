@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "8ef8e4ba-4fcb-483a-b210-2b2cc9c5a3a1": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Chic2BMaman.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Très Chic Maman Limited Edition Print",
+        "text_block": "<p>£50<\/p><p>A3 size ‘Tres Chic ’ limited edition fine art print is a special collaboration between Chiara Perano and <a href=\"http:\/\/3.9.65.88\/\">Maison Flâneur<\/a>. The original acrylic painting has been created by Chiara with a special french twist, paying tribute to maman this Mother’s Day.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "97faa77b-eb8e-41f0-a727-cf5d4c3022dc",
+    "8ef8e4ba-4fcb-483a-b210-2b2cc9c5a3a1",
     "main",
     "blog-posts"
   ]
