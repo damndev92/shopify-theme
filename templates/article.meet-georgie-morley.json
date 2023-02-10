@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "23618353-77c0-4180-aaf1-7f6c4bfdae84": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/5-4-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What are your favourite decoration accounts on Instagram? <\/strong><\/p><p><a href=\"https:\/\/www.instagram.com\/pieceslondon_\/\">@pieceslondon_<\/a> Has the best insight into what’s happening now in interiors <\/p><p><a href=\"https:\/\/www.instagram.com\/theattic.london\/\">@theattic.london<\/a> Gorgeously curated vintage <\/p><p><a href=\"https:\/\/www.instagram.com\/ellajaneofficial\/\">@ellajane<\/a> Beautiful photographs that just want to make you entertain and getaway.<\/p><p><br\/><strong>Any wishes for 2021?<\/strong><\/p><p>More sunshine to be able to eat, drink and be merry outside with friends! <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "ec201368-e3e1-4e60-bec4-e07f2b6a613d",
     "2ec2ed7f-4abe-4d3c-9466-5f618a6d2001",
+    "23618353-77c0-4180-aaf1-7f6c4bfdae84",
     "main",
     "blog-posts"
   ]
