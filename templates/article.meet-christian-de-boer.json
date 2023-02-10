@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "ffe560b0-6d11-443c-9825-93c1d32b80a8": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/jaya-house-riverpark-imageLinkjaya-house-riverpark-siem-reap-6.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>We’ve read you are quite involved in the local community. Was that part of your vision as hoteliers?<\/strong><\/p><p><strong> <\/strong>For years hotels and many other businesses have been able to get away with ‘fake’ CSR activities largely as a tool for marketing purposes. I believe that’s a rather sad state of affairs and wanted to lead by example. Actions-before-words and then let those actions speak for themselves.Living in the beautiful Kingdom of Cambodia means that I have access to many different initiatives that need (financial) support ranging from The Cambodian Landmine Museum, Rehash Trash, and The Small Art School Cambodia.  Cambodia needs jobs because they create a sense worth and a regular income which in return enhances the standing in local communities. As a hotel, we choose to buy items as much locally as possible.  As an example; we could have bought wall- furniture from the usual channels but decided to commission a local NGO (Small Art School) to paint 80+ paintings by their adult students of Khmer celebrities. This way it creates jobs and enhances our hotel with local art.<\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "4adefbc2-e71e-4732-8dca-2b9fb45610ff",
     "be147b05-2a8f-44da-894e-48660548df91",
     "41ee7c56-9a84-48a0-bb40-969d51dd867b",
+    "ffe560b0-6d11-443c-9825-93c1d32b80a8",
     "main",
     "blog-posts"
   ]
