@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "41ee7c56-9a84-48a0-bb40-969d51dd867b": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/48149332216_0e1ed0c6d9_c-1.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Was social impact and ecology at the heart of its development, or was it something that grew along? <\/strong><\/p><p>It was (and still is) at the heart of Jaya House Hotels. From the very beginning, sustainability and community are the basic pillars of our hotel. There is no hotel without the community— and to be a good and successful hotel we need to be sustainable. I also think that these days the consumers are more aware of environmental issues and they demand that the brands that they consume or relate with to be implementing these changes.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "4adefbc2-e71e-4732-8dca-2b9fb45610ff",
     "be147b05-2a8f-44da-894e-48660548df91",
+    "41ee7c56-9a84-48a0-bb40-969d51dd867b",
     "main",
     "blog-posts"
   ]
