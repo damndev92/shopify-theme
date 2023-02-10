@@ -161,7 +161,7 @@
       "type": "maison--btn",
       "settings": {
         "btn": "Shop all products",
-        "url": "",
+        "url": "meet.google.com\/xyw-phxo-yry",
         "bg_color": "#e28065",
         "padding_top": 25,
         "padding_bottom": 25
@@ -229,16 +229,24 @@
             "question": "Something most people don't know about Crete?",
             "text": "<p>In mythology Crete was the birthplace of Zeus and also the place where later Zeus took his love Europa, who gave birth to Minos – later King Minos and founder of the first European civilization, the Minoans. In a way, it all started here. <\/p>"
           }
+        },
+        "e5cf1288-40de-4f18-bb64-5e3e7f9e59fe": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
         }
       },
       "block_order": [
         "b11b0916-b0c0-489c-9620-e6c565559c0c",
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2",
+        "e5cf1288-40de-4f18-bb64-5e3e7f9e59fe"
       ],
       "settings": {
-        "background-color": "#ffffff",
+        "background-color": "#F3F3F3",
         "text-color": "#000000",
         "title": "Tips from the hosts",
         "faq_icon": "caret"
