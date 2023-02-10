@@ -176,6 +176,23 @@
         "button_label": ""
       }
     },
+    "bd40bd2c-7167-4b94-98e2-ced58fc86447": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/41885848255_347904f2ba_c.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Secondly, we have had a big look at ‘what makes a hotel experience’. I simply do not understand why hotels charge for mini bar, early check-in, resort fees, Wi-Fi, laundry services, and other things. I simply do not understand hotels that offer rooms without breakfast (we all need to eat), or provide horrible plastic coffee sachets in the rooms, or give a welcome drink that no one wants, just because it’s cheap.<\/p><p>The third reason for our success is that we have a proven track record of ‘what we do in our community’ with our tree-planting initiative. Google-earth will show you how our Riverside used to look like, and you can compare it to what it is now.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -215,6 +232,7 @@
     "3b11de1e-b7e3-4811-a7a8-013a0465ffd2",
     "c32e48d8-ab32-4d17-ae95-7c143e752c73",
     "f37123f3-4ea6-4311-89e8-8c2dac21f1c2",
+    "bd40bd2c-7167-4b94-98e2-ced58fc86447",
     "main",
     "blog-posts"
   ]
