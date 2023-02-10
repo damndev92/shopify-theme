@@ -61,6 +61,23 @@
         "title": ""
       }
     },
+    "f752c25e-ff65-466a-ba61-33848f1147fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/Untitled_design_1_184de9c7-8830-4c32-a67b-e5c22245e1c6.png",
+        "layout": "left",
+        "subheading": "Meet",
+        "location": false,
+        "title": "Meet the Interior Designers",
+        "text_block": "<p><br\/>Tokyo's Trunk hotel is housed in two four-storey buildings designed by local firm Mount Fuji Architects Studio, with interiors by Jamo Associates. It features a material palette of recycled wood, grey stone and black metal, and a host of public spaces, such as a restaurant, a bar and a convenience store- all to encourage socialising by both tourists and locals alike.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
       "type": "accordion",
       "blocks": {
@@ -98,7 +115,7 @@
         "faq_icon": "plus_minus"
       }
     },
-    "f752c25e-ff65-466a-ba61-33848f1147fc": {
+    "0456563e-ab53-463c-9173-4d83f7c2495f": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
@@ -175,7 +192,8 @@
           "settings": {
             "product": "beefbar-main-plate-knife-emoji",
             "top": 63,
-            "left": 51
+            "left": 51,
+            "disable_spot": false
           }
         },
         "61a17092-0b88-43c9-888c-ee6b50651501": {
@@ -183,7 +201,8 @@
           "settings": {
             "product": "design-clock-solari-cifra-3-black",
             "top": 0,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         },
         "2d0cd767-4992-4798-8a74-406d517d073e": {
@@ -191,7 +210,8 @@
           "settings": {
             "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
             "top": 33,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         }
       },
@@ -222,7 +242,8 @@
           "settings": {
             "product": "beefbar-main-plate-knife-emoji",
             "top": 63,
-            "left": 51
+            "left": 51,
+            "disable_spot": false
           }
         },
         "33f45241-76a7-44e8-98cf-425c6bb0bdc8": {
@@ -230,7 +251,8 @@
           "settings": {
             "product": "design-clock-solari-cifra-3-black",
             "top": 0,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         },
         "acc4f147-815a-42fe-a4b7-0c5e251efe89": {
@@ -238,7 +260,8 @@
           "settings": {
             "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
             "top": 33,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         }
       },
@@ -371,8 +394,9 @@
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
+    "0456563e-ab53-463c-9173-4d83f7c2495f",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
