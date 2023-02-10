@@ -135,6 +135,46 @@
         "title": ""
       }
     },
+    "2750303b-b826-4366-ae63-1b7568c4fd2b": {
+      "type": "product--shop-the-look",
+      "blocks": {
+        "template--17647682617659__2750303b-b826-4366-ae63-1b7568c4fd2b-16760537067805bf44-0": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "top": 46,
+            "left": 30,
+            "disable_spot": false
+          }
+        },
+        "template--17647682617659__2750303b-b826-4366-ae63-1b7568c4fd2b-16760537067805bf44-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "top": 63,
+            "left": 51,
+            "disable_spot": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17647682617659__2750303b-b826-4366-ae63-1b7568c4fd2b-16760537067805bf44-0",
+        "template--17647682617659__2750303b-b826-4366-ae63-1b7568c4fd2b-16760537067805bf44-1"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Creet, greece",
+        "title": "Cretan Malia Park",
+        "image": "shopify:\/\/shop_images\/cretan-malia-park-reception-desk-extraordinary-lamp-interior-design-k-02-x2-jpg-872x1024.jpg",
+        "image__position": "image--left",
+        "hotspot__color": "#ffffff",
+        "stl__heading": "Heading",
+        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
+        "description__position": "below-products",
+        "link": "shopify:\/\/collections\/all",
+        "button__text": "Shop the look"
+      }
+    },
     "eada9471-525f-4376-8e4f-3493ed49a28f": {
       "type": "image--image",
       "settings": {
@@ -245,6 +285,7 @@
     "6bb64512-b0f4-470f-a831-da34d529ebce",
     "07d9e5bd-58c8-4fd8-9347-02901b98324b",
     "1171aa9d-339a-4ce4-8468-5b3208ca4ad3",
+    "2750303b-b826-4366-ae63-1b7568c4fd2b",
     "eada9471-525f-4376-8e4f-3493ed49a28f",
     "8d4f41f4-185b-4e23-809b-f3f6292c552c",
     "ead30b73-2c78-4aae-bdff-a922e308b09b",
