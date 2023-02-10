@@ -104,6 +104,48 @@
         "show_recent_posts": false
       }
     },
+    "50ec203c-007d-4392-ad9f-061f3373c456": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17949603692859__50ec203c-007d-4392-ad9f-061f3373c456-1676043402aabe5a49-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled-design-14.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Red Bistro Zigzag Plate<\/p><p>From €24<\/p>"
+          }
+        },
+        "template--17949603692859__50ec203c-007d-4392-ad9f-061f3373c456-1676043402aabe5a49-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled-design-2.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Blue Hand-Embroidered Fork & Knife Placemat<\/p><p>€16<\/p>"
+          }
+        },
+        "template--17949603692859__50ec203c-007d-4392-ad9f-061f3373c456-1676043402aabe5a49-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/JoreCopenhagen_016_540x_64a86cf9-3f6b-416a-83ef-fb386fe6501e.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Pinot Wine Glass Pink, Set of 6<\/p><p>€93<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17949603692859__50ec203c-007d-4392-ad9f-061f3373c456-1676043402aabe5a49-0",
+        "template--17949603692859__50ec203c-007d-4392-ad9f-061f3373c456-1676043402aabe5a49-1",
+        "template--17949603692859__50ec203c-007d-4392-ad9f-061f3373c456-1676043402aabe5a49-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Shop Jore Copenhagen"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -126,6 +168,7 @@
     "af6fe36a-2432-4a41-97c5-fcfb57515c8e",
     "2f7ae4ee-3f26-4334-be73-ee6614b6fcbd",
     "main",
+    "50ec203c-007d-4392-ad9f-061f3373c456",
     "blog-posts"
   ]
 }
