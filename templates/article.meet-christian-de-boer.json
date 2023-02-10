@@ -193,6 +193,23 @@
         "button_label": ""
       }
     },
+    "165907ec-bffa-4cd6-8456-11ca6eab1b79": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/42737003782_7dc1a8d4af_c.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>In addition to that, we have co-started other initiatives such as:<br\/>1) Made in Cambodia Market  – creating much-needed jobs<br\/>2) www.refllltheworld.com – reducing plastic in the tourism industry globally<br\/>3) www.hotelsjoininghands.com – so far donated 16.000 meals during Covid-19 and it’s increasing by 400 daily).<\/p><p><strong>Do you think this pandemic will impact the way people travel, and if so. in what way?<\/strong><br\/>I believe guests will finally start to demand hotels to be more environmentally and socially conscious. I think this pandemic has taught us to be more aware of our daily decisions; whether it is to buy water in a plastic bottle or to bring your refillable water bottle when you travel; or whether you would fly with an airline that gives a refund when people need their money or not. Besides that, guests now want a tailored experience and that’s something only boutique hotels are able to offer.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -233,6 +250,7 @@
     "c32e48d8-ab32-4d17-ae95-7c143e752c73",
     "f37123f3-4ea6-4311-89e8-8c2dac21f1c2",
     "bd40bd2c-7167-4b94-98e2-ced58fc86447",
+    "165907ec-bffa-4cd6-8456-11ca6eab1b79",
     "main",
     "blog-posts"
   ]
