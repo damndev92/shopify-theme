@@ -315,35 +315,25 @@
         "a75c4b83-2f06-43c0-998a-9acf9933e9ed": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-10_at_11.18.22.png",
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-10_at_11.24.18.png",
             "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-17\/",
-            "title": "¡La Veste Is Best!",
-            "description": "<p>Cheery gingham, primary colours and bric-a-brac details abound on the duo’s napkins,<br\/>coasters and quilted placemats. Mix and match to keep the party going or keep it<br\/>simple. Either way, meals are about to get a whole lot more fun.<\/p>"
+            "title": "Tina VAIA from VALENTIA",
+            "description": "<p>Thoughtfully conceived with a warm, considered vibe, Tina Vaia ceramics are hand crafted by Artisans in Valencia. Pieces are crafted from rich terracotta and glazed in warm colours creating a functional design that also works as a piece of art. Each piece is unique and produced individually by hand.<\/p>"
           }
         },
         "64c82b02-c3bb-4e83-bbdc-2f46f0ed1b09": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_10.17.07.png",
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-10_at_11.22.39.png",
             "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-21-ou-22-avec-platine\/",
-            "title": "Loca about Platera",
-            "description": "<p>We started the platera during the lockdown, when sitting at the table was the best plan of the day. We wanted to find a way to make that moment more enjoyable, so our passion for everything handmade and my free time led me to try new things. <\/p>"
-          }
-        },
-        "389f73ad-217a-42d3-9aa4-ebaa123faada": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-02-09_at_10.21.55.png",
-            "link": "https:\/\/lepigalle.paris\/en\/chambres-pigalle-22\/",
-            "title": "SUTDIO ERHART; Madrid's best kept secret",
-            "description": "<p>Studio Erhart designs and manufactures beautiful interior objects produced in unique pieces or small series, handmade by fine craftsmen using refined materials based in Madrid.<\/p>"
+            "title": "Guayaba Studio",
+            "description": "<p>Guayaba Studio was born with the aim of safeguarding the artisan knowledge affected by globalization and industrialization, with a selection of pieces that inspire slow consumption, respectful of small workshops and far from large industries.<\/p>"
           }
         }
       },
       "block_order": [
         "a75c4b83-2f06-43c0-998a-9acf9933e9ed",
-        "64c82b02-c3bb-4e83-bbdc-2f46f0ed1b09",
-        "389f73ad-217a-42d3-9aa4-ebaa123faada"
+        "64c82b02-c3bb-4e83-bbdc-2f46f0ed1b09"
       ],
       "settings": {
         "colors": "white",
@@ -379,7 +369,7 @@
         "colors": "white",
         "subheading": "Shop",
         "title": "ON MAISON FLÂNEUR",
-        "collection": "la-veste",
+        "collection": "guayaba-studio",
         "grid": 4,
         "rows": 1,
         "show_view_all": false
