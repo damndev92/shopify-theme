@@ -40,21 +40,21 @@
         "button_label": ""
       }
     },
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+    "4adefbc2-e71e-4732-8dca-2b9fb45610ff": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/49212344162_76ed2fff24_c.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>What’s Jaya House’s philosophy?<\/strong><\/p><p>We want to inspire people. When people travel to a country like Cambodia, we want to tell them about the history of the country, the community – and what we can do as a small hotel, to give an impact on society. I want people to leave our hotel feeling like they have learned something about Cambodia, its people, and what impact they can bring to their society back home.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
@@ -88,7 +88,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "4adefbc2-e71e-4732-8dca-2b9fb45610ff",
     "main",
     "blog-posts"
   ]
