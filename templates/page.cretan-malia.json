@@ -91,9 +91,9 @@
         "ab378664-61a7-4073-bad5-23268f4b103a"
       ],
       "settings": {
-        "colors": "light",
+        "colors": "white",
         "width": 170,
-        "subheading": "Some",
+        "subheading": "Did you know?",
         "title": "Facts"
       }
     },
@@ -161,20 +161,25 @@
       "type": "maison--btn",
       "settings": {
         "btn": "Shop all products",
-        "url": "",
+        "url": "meet.google.com\/xyw-phxo-yry",
         "bg_color": "#e28065",
         "padding_top": 25,
         "padding_bottom": 25
       }
     },
-    "b7f6bc4f-e872-4704-9147-4b826a37f3fd": {
-      "type": "image--image",
+    "16287b18-538e-4971-9b07-365e6c3d0c5e": {
+      "type": "image--image-with-text-overlay",
       "settings": {
         "image": "shopify:\/\/shop_images\/s-cretan-malia-park-crete-greece.jpg",
+        "subheading": "",
+        "title": "Take a tour",
+        "text": "Here's your chance to make a great first impression",
         "parallax": true,
         "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
       }
     },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
@@ -197,21 +202,35 @@
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
       "type": "accordion",
       "blocks": {
+        "b11b0916-b0c0-489c-9620-e6c565559c0c": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Cretan Malia Park in one word?",
+            "text": "<p>Engaging – And that’s on many levels. Nature, Design, Food, People. <\/p>"
+          }
+        },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
           "type": "tab_content",
           "settings": {
             "question": "Where to eat?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>On the South of Crete, on a remote beach accessible only by boat, <em>Chryssanthos, <\/em>makes the most delicious bread, salads, eggs, and meat cooked in Cretan style.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
           "type": "tab_content",
           "settings": {
-            "question": "Where to",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "question": "Your favourite object in the hotel?",
+            "text": "<p>Sessan Sofa of Tacchini and our Greek artists collection!<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Something most people don't know about Crete?",
+            "text": "<p>In mythology Crete was the birthplace of Zeus and also the place where later Zeus took his love Europa, who gave birth to Minos – later King Minos and founder of the first European civilization, the Minoans. In a way, it all started here. <\/p>"
+          }
+        },
+        "e5cf1288-40de-4f18-bb64-5e3e7f9e59fe": {
           "type": "tab_content",
           "settings": {
             "question": "Place your question or heading here",
@@ -220,14 +239,16 @@
         }
       },
       "block_order": [
+        "b11b0916-b0c0-489c-9620-e6c565559c0c",
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2",
+        "e5cf1288-40de-4f18-bb64-5e3e7f9e59fe"
       ],
       "settings": {
-        "background-color": "#f3f3f3",
+        "background-color": "#F3F3F3",
         "text-color": "#000000",
-        "title": "Insider tips",
+        "title": "Tips from the hosts",
         "faq_icon": "caret"
       }
     },
@@ -290,25 +311,10 @@
       "type": "maison--btn",
       "settings": {
         "btn": "Check Availability",
-        "url": "",
+        "url": "https:\/\/www.designhotels.com\/hotels\/greece\/crete\/cretan-malia-park\/?&Rooms=1&Adult=2&Child=0",
         "bg_color": "#e28065",
         "padding_top": 5,
         "padding_bottom": 25
-      }
-    },
-    "16287b18-538e-4971-9b07-365e6c3d0c5e": {
-      "type": "image--image-with-text-overlay",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/s-cretan-malia-park-crete-greece.jpg",
-        "subheading": "",
-        "title": "Take a tour",
-        "text": "Here's your chance to make a great first impression",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width",
-        "button_link": "",
-        "button_label": ""
       }
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
@@ -358,13 +364,12 @@
     "59ecc3a2-e12e-4f43-a554-f9420936706d",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "dc673228-1f95-4ffc-887d-83a8a45785a5",
-    "b7f6bc4f-e872-4704-9147-4b826a37f3fd",
+    "16287b18-538e-4971-9b07-365e6c3d0c5e",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "e7c3e67e-84e8-4f3e-a73b-f1bcf90c88fd",
-    "16287b18-538e-4971-9b07-365e6c3d0c5e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
     "d58cdf89-8a91-4c4a-8130-de04ef80f6f1"
   ]
