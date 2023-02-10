@@ -142,7 +142,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "8d4f41f4-185b-4e23-809b-f3f6292c552c": {
@@ -193,6 +193,50 @@
         "button_link": "",
         "button_label": ""
       }
+    },
+    "a965ba19-f5d2-4018-8c3b-431c38087d46": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/36_ba361869-dfe4-4c55-8419-7612b394e1ce.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "fixed"
+      }
+    },
+    "f6b4dbc5-a83f-4562-9194-2b36ef0895e3": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17647682617659__f6b4dbc5-a83f-4562-9194-2b36ef0895e3-1676052933b7629c32-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17647682617659__f6b4dbc5-a83f-4562-9194-2b36ef0895e3-1676052933b7629c32-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17647682617659__f6b4dbc5-a83f-4562-9194-2b36ef0895e3-1676052933b7629c32-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17647682617659__f6b4dbc5-a83f-4562-9194-2b36ef0895e3-1676052933b7629c32-0",
+        "template--17647682617659__f6b4dbc5-a83f-4562-9194-2b36ef0895e3-1676052933b7629c32-1",
+        "template--17647682617659__f6b4dbc5-a83f-4562-9194-2b36ef0895e3-1676052933b7629c32-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Paros, Greece",
+        "title": "Parīlio",
+        "collection": "parilio",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -203,6 +247,8 @@
     "1171aa9d-339a-4ce4-8468-5b3208ca4ad3",
     "eada9471-525f-4376-8e4f-3493ed49a28f",
     "8d4f41f4-185b-4e23-809b-f3f6292c552c",
-    "ead30b73-2c78-4aae-bdff-a922e308b09b"
+    "ead30b73-2c78-4aae-bdff-a922e308b09b",
+    "a965ba19-f5d2-4018-8c3b-431c38087d46",
+    "f6b4dbc5-a83f-4562-9194-2b36ef0895e3"
   ]
 }
