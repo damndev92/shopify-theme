@@ -159,6 +159,23 @@
         "button_label": ""
       }
     },
+    "f37123f3-4ea6-4311-89e8-8c2dac21f1c2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/41885724145_eaecd9c95c_c-1.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Have people ever asked you if they could buy a decoration item from the hotel? If so which one? <\/strong><br\/>Funny story is that our laundry bag once was trending on Instagram. This is because an NYC art collector was so impressed that he took a picture, posted it, and explained the story of this very simple initiative.<\/p><p><strong>What do you think makes the success of a hotel?<\/strong><br\/>Our success is because of our staff. Thanks to my time at Virgin Airlines and the lessons learned from Richard Branson I have understood that happy staff means happy guests. It’s my number one priority to take care of my staff so they can take care of our guests and show the absolute beauty of Cambodia and its people. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -197,6 +214,7 @@
     "a48cd0e6-8a82-4c8d-9112-a3b14dea3e46",
     "3b11de1e-b7e3-4811-a7a8-013a0465ffd2",
     "c32e48d8-ab32-4d17-ae95-7c143e752c73",
+    "f37123f3-4ea6-4311-89e8-8c2dac21f1c2",
     "main",
     "blog-posts"
   ]
