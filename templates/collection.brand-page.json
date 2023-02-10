@@ -100,47 +100,6 @@
         "rows": 7,
         "pagination_type": "infinite_scrolling"
       }
-    },
-    "collection-list": {
-      "type": "collection--collection-list",
-      "disabled": true,
-      "blocks": {
-        "collection-list-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "living-room-accessories"
-          }
-        },
-        "collection-list-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "{{ collection }}"
-          }
-        },
-        "collection-list-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "books-office-accessories"
-          }
-        },
-        "5af77c27-e8be-45b1-bead-13924e5fc99a": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-list-0",
-        "collection-list-1",
-        "collection-list-2",
-        "5af77c27-e8be-45b1-bead-13924e5fc99a"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "Discover also"
-      }
     }
   },
   "order": [
@@ -148,7 +107,6 @@
     "collection_header",
     "e852b54b-9f5d-4bc2-bbed-18d21018a45d",
     "collection_filtering",
-    "main",
-    "collection-list"
+    "main"
   ]
 }
