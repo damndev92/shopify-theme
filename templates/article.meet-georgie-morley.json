@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "2ec2ed7f-4abe-4d3c-9466-5f618a6d2001": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/3-7-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What advice would you give to someone who would want to launch their own?<\/strong><\/p><p>It’s a great idea to start small and test your product\/idea out first just to check there is a demand for it. Then make sure you have a plan if it takes off and have a good supply base. Be unique! <\/p><p><br\/><strong>Do you think the confinement has changed the way people see their homes\/tables?<\/strong><\/p><p>Yes, I think people are more aware of their space around them. People are taking more pride in elevating their homes & making mealtimes more special. Homeware is having a real moment and is showcasing an extension of our personality. <\/p><p><br\/><strong>What are your tips for the perfect table setting?<\/strong><\/p><p>Layering is key, set a colour palette & use seasonal flowers (whatever you can find\/forage from nearby). I love a mix of old vintage pieces with new to create a timeless classic look.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "ec201368-e3e1-4e60-bec4-e07f2b6a613d",
+    "2ec2ed7f-4abe-4d3c-9466-5f618a6d2001",
     "main",
     "blog-posts"
   ]
