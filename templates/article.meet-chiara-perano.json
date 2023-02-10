@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/unnamed-6-936x1024.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Describe your philosophy when it comes to decoration.<\/strong><\/p><p>I believe you have to feel truly happy and content in your own home whatever that may mean to you. I try to stay inspired, and create a warm, inviting feeling, using colours we love, artwork and objects which have meaning. We adapt our decoration as our needs and the season’s change.<\/p><p><strong>Your favourite object in your home.<\/strong><\/p><p>Record player<\/p><p><strong>Your favourite hotel in the world.<\/strong><\/p><p>Les Roches Rouges, in the south of France. We honeymooned here and it was quite perfect<\/p><p><strong>Your favourite restaurant in the world.<\/strong><\/p><p>Aside from our family Italian restaurant in Hertfordshire (which is obviously my No.1), it will probably be Da Adolfo on the beach in Laurito, we’ve had many happy times here.<\/p><p><strong>Favourite address for decoration in London\/ in the world.<\/strong><\/p><p>The ceramic studio\/shops in Grottaglie, Puglia<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
