@@ -40,21 +40,21 @@
         "button_label": ""
       }
     },
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+    "b0b1e3b4-61df-4dab-b262-5fed90b4a143": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/image-scaled-e1665650698294-864x1024.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Obsessed with your “Butt Holder”! Tell us the inspiration behind that design.<\/strong><\/p><p>When I was in my very early 20’s and worked in the art world, I remember seeing a Pedro Friedeberg hand chair for the first time and has that heartbreakingly visceral reaction (that only a true 20 year old can have) that one day I needed to have it. I remember that loves the marriage of the masculinity of the chair, big tough and secure but mixed with these curvy voluptuous lines that resembled a woman.  I searched the internet and found a tiny gold one and blew way more money than I should have on it. It still sits on my shelf in my apartment and will always be one of my favorite purchases.Anyway, I wanted the ashtray to convey those same feelings – and while it isn’t made JUST for smoking “butts” – I did want it to conjure up the visual of smoking – the sexy , bygone era , where smoking was cool , cowboy, bombshell, European, all American, sad, disco …. Pretty much everything real.   Long story short, I wanted people to feel that heartbreak I had at the turn of my teenage years and say “I need to have that.”<\/p><p><strong>What’s your favourite piece in your collection?<\/strong><\/p><p>Bugatti chairOR my daughter’s bed (pictured left)<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
@@ -88,7 +88,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "b0b1e3b4-61df-4dab-b262-5fed90b4a143",
     "main",
     "blog-posts"
   ]
