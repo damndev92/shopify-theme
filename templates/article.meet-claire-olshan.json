@@ -23,34 +23,21 @@
         "button_label": ""
       }
     },
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "light",
-        "width": "small",
-        "subheading": "",
-        "page_title": "",
-        "title": "Date Night",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/1-1.png",
-        "layout": "left",
+        "image": "shopify:\/\/shop_images\/87147759_1106577923014009_8020760036965875712_n-819x1024.jpg",
+        "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "1. Kanishka",
-        "text_block": "<p>17-19 Maddox Street, W1S 2QH<\/p><p><br\/><strong>Head chef:<\/strong> Atul Kochhar<br\/><strong>Order the:<\/strong> Chicken tikka pie<\/p><p><\/p><p>Michelin Star chef Atul Kochhar’s contemporary Indian establishment not only offers tastebud-tantalising flavours, but this year sees a special five-course Valentine’s Day tasting menu designed especially for a night of romance. Expect traditional street food and mishti alongside aphrodisiacs like asparagus and figs. See the special V-day Menu <a href=\"https:\/\/kanishkarestaurant.co.uk\/wp-content\/uploads\/2023\/01\/Kanishka-Valentines-Menu-A5-2023.pdf\" target=\"_blank\">here<\/a>.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Who or what is Dada?<\/strong><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/brand\/dada-daily\/products\/\">Dada<\/a> is that feeling of effortless magic. It’s simple moments, tools, objects that change a moment from ordinary to extraordinary. Dada’s spirit, taken from the art movement itself, is not about convention or proper – it’s about creating decadence in one’s daily moments; moments that will bring you joy and inspiration, moments that will bring people together to be creative and ignite the senses.<em> <\/em><\/p><p><strong>Which came first, the snack or the snack holder?<\/strong><\/p><p>In my mind they are twins, born at the same moment. The elevated snack moment, could only truly feel comfortable in the gesalt of the DADA world. Reality made the snack come first, as one can only bite off as much as they can chew (no pun intended). The purpose of DADA is to create the tool box for entertaining. One shouldn’t feel overwhelmed or insecure – whether you’re entertaining yourself, your loved ones or your sense, DADA was meant to be used anytime and anywhere to effortlessly create a magical hour of the ordinary moment.<\/p><p><strong>Where do you get inspiration for your designs?<\/strong><\/p><p>OY YOY YOY. How much time do you have?I live in NYC – so there’s that. Inspiration EVERYWHERE , if you’re looking for it.I love books. In a past life im pretty sure I lived in Vienna in the first three decades of the 20th century.That world of design has pretty much inspired everything I’ve ever done from a very early age.<\/p>",
         "page_description": false,
-        "button_link": "shopify:\/\/products\/beefbar-main-plate-piece-of-meat-emoji",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
@@ -100,7 +87,6 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
