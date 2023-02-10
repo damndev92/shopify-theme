@@ -248,7 +248,7 @@
       "type": "image--image",
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_5813.jpg",
-        "parallax": true,
+        "parallax": false,
         "alignment": "center",
         "hero_size": "x-large",
         "text-over-image-width": "fixed"
