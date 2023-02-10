@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "f714d619-8b2a-4cd2-bbc0-99c573165e65": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/IMG_6214-835x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Have you ever wanted to bring back an object from a hotel or a restaurant? And if so which one?<\/strong><br\/>Plenty! But the one piece I regret I could not bring home was a very fine antique floor mat that was used to cover the table in Dar Ben Gacem’s courtyard in Tunis.<\/p><p><strong>Your favourite object at home? <\/strong><br\/>Very hard to say. Maybe the 70″high wooden banner from Sri Lanka, bought in an antiques shop on the road between Unawatuna and Galle Fort, which we transported on a tiny motorbike, on the train and on the airplane!<\/p><p><strong>Your three tips for the perfect Christmas present? <\/strong>Tip 1: choose something unique, a one-of-a-kind piece, something antique or vintage.Tip 2: when possible, personalise it.Tip 3: support a small company, this year especially! …or simply look among the beautiful pieces available on Maison Flâneur, they are supporting small businesses too!!!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "f714d619-8b2a-4cd2-bbc0-99c573165e65",
     "main",
     "blog-posts"
   ]
