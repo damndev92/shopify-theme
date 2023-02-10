@@ -142,6 +142,23 @@
         "button_label": ""
       }
     },
+    "c32e48d8-ab32-4d17-ae95-7c143e752c73": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/45111122805_3aef1275c8_c-1.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How would you describe Jaya House interiors?<\/strong><\/p><p>A lot of people say it’s Cambodian Modernism from the 1960s, some people say it’s Khmer-Art Deco. I like both, but I’d say we like to keep it timeless. We love having a stylish new sofa in the lobby, but we also have paintings of late, great Khmer musicians such as Sinn Sisamouth, Cambodia’s Elvis from Small Art School Cambodia, one of the NGOs that we support monthly. We want to stay authentic as a boutique hotel from Cambodia. So, I guess it’s a great combination of what we do as a hotel influences the interior of the hotel.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -179,6 +196,7 @@
     "ffe560b0-6d11-443c-9825-93c1d32b80a8",
     "a48cd0e6-8a82-4c8d-9112-a3b14dea3e46",
     "3b11de1e-b7e3-4811-a7a8-013a0465ffd2",
+    "c32e48d8-ab32-4d17-ae95-7c143e752c73",
     "main",
     "blog-posts"
   ]
