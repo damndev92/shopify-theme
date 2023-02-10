@@ -295,20 +295,10 @@
       "type": "maison--btn",
       "settings": {
         "btn": "Check Availability",
-        "url": "",
+        "url": "https:\/\/www.designhotels.com\/hotels\/greece\/crete\/cretan-malia-park\/?&Rooms=1&Adult=2&Child=0",
         "bg_color": "#e28065",
         "padding_top": 5,
         "padding_bottom": 25
-      }
-    },
-    "b7f6bc4f-e872-4704-9147-4b826a37f3fd": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/s-cretan-malia-park-crete-greece.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
       }
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
@@ -364,7 +354,6 @@
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "e7c3e67e-84e8-4f3e-a73b-f1bcf90c88fd",
-    "b7f6bc4f-e872-4704-9147-4b826a37f3fd",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
     "d58cdf89-8a91-4c4a-8130-de04ef80f6f1"
   ]
