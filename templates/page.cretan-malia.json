@@ -58,28 +58,28 @@
         "template--17824602128699__59ecc3a2-e12e-4f43-a554-f9420936706d-1675972048cd00e15a-0": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_25280e4a-f3e4-4435-8d11-2d020e08dc7a.png",
+            "image": "shopify:\/\/shop_images\/Location_4.png",
             "link": ""
           }
         },
         "template--17824602128699__59ecc3a2-e12e-4f43-a554-f9420936706d-1675972048cd00e15a-1": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_b44f17ac-02cd-47db-9401-d3fbcf7a5589.png",
+            "image": "shopify:\/\/shop_images\/4_eb110628-d91d-4bd3-b7c9-1e10c9508c48.png",
             "link": ""
           }
         },
         "template--17824602128699__59ecc3a2-e12e-4f43-a554-f9420936706d-1675972048cd00e15a-2": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_8a28c1c8-7b2a-494b-9c1f-8488993166d4.png",
+            "image": "shopify:\/\/shop_images\/5_81b2d0ac-6f36-40cc-a611-517d11fc60a5.png",
             "link": ""
           }
         },
-        "template--17824602128699__59ecc3a2-e12e-4f43-a554-f9420936706d-1675972048cd00e15a-3": {
+        "ab378664-61a7-4073-bad5-23268f4b103a": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_d37b3b5a-c88b-4f8c-a4ea-1de47d01be63.png",
+            "image": "shopify:\/\/shop_images\/Location_5.png",
             "link": ""
           }
         }
@@ -88,11 +88,11 @@
         "template--17824602128699__59ecc3a2-e12e-4f43-a554-f9420936706d-1675972048cd00e15a-0",
         "template--17824602128699__59ecc3a2-e12e-4f43-a554-f9420936706d-1675972048cd00e15a-1",
         "template--17824602128699__59ecc3a2-e12e-4f43-a554-f9420936706d-1675972048cd00e15a-2",
-        "template--17824602128699__59ecc3a2-e12e-4f43-a554-f9420936706d-1675972048cd00e15a-3"
+        "ab378664-61a7-4073-bad5-23268f4b103a"
       ],
       "settings": {
         "colors": "light",
-        "width": 230,
+        "width": 170,
         "subheading": "Some",
         "title": "Facts"
       }
