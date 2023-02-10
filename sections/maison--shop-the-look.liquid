@@ -1,4 +1,6 @@
 {{ 'section-shop-the-look.min.css' | asset_url | stylesheet_tag }}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
 
 {% case section.settings.colors %}
   {% when 'white' %}
@@ -28,11 +30,10 @@
             {% endif %}
           </div>
         {% endif %}
-        <div class="flexslider-container">
-          <div class="flexslider flexslider-shop-the-look">
-          <ul class="slides">
+
+          <swiper-container>
         {% for block in section.blocks %}
-          <li class="stl__main {% if block.settings.image__position == 'image--right' %} stl__img-right{% endif %}">
+          <swiper-slide class="stl__main {% if block.settings.image__position == 'image--right' %} stl__img-right{% endif %}">
 
             <div class="stl__image-container">
               <div class="stl__image">
@@ -86,11 +87,9 @@
               </div>
             </div>
 
-          </li>
+          </swiper-slide>
         {% endfor %}
-          </ul>
-          </div>
-        </div>
+          </swiper-container>
       </div>
     </div>
   </div>
