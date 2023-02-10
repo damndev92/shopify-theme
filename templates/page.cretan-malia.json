@@ -91,9 +91,9 @@
         "ab378664-61a7-4073-bad5-23268f4b103a"
       ],
       "settings": {
-        "colors": "accent",
+        "colors": "white",
         "width": 170,
-        "subheading": "Some",
+        "subheading": "Did you know?",
         "title": "Facts"
       }
     },
@@ -206,21 +206,21 @@
           "type": "tab_content",
           "settings": {
             "question": "Where to eat?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>On the South of Crete, on a remote beach accessible only by boat, <em>Chryssanthos, <\/em>makes the most delicious bread, salads, eggs, and meat cooked in Cretan style.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
           "type": "tab_content",
           "settings": {
-            "question": "Where to",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "question": "Your favourite object in the hotel?",
+            "text": "<p>Sessan Sofa of Tacchini and our Greek artists collection!<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "question": "Something most people don't know about Crete?",
+            "text": "<p>In mythology Crete was the birthplace of Zeus and also the place where later Zeus took his love Europa, who gave birth to Minos – later King Minos and founder of the first European civilization, the Minoans. In a way, it all started here. <\/p>"
           }
         }
       },
@@ -232,7 +232,7 @@
       "settings": {
         "background-color": "#f3f3f3",
         "text-color": "#000000",
-        "title": "Insider tips",
+        "title": "Tips from the hosts",
         "faq_icon": "caret"
       }
     },
