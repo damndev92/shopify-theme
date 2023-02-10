@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "f5f1d2b8-fd0f-48b2-96ef-d8efa405d6e4": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/unnamed-3-2-scaled-e1665650599493-1024x569.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Describe your interior design philosophy in 3 words.<\/strong><\/p><p>1. Maxamlist materials in minimalist designs.<\/p><p>2. Other worldly\/historic mixed with the future.<\/p><p>3. SEX SEX SEX (usually via red velvets or red lacquer or red marble)<\/p><p><strong>Your favourite object in your home.<\/strong><\/p><p>Nicole Eisenman Sculptures (pictured right)<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "b0b1e3b4-61df-4dab-b262-5fed90b4a143",
+    "f5f1d2b8-fd0f-48b2-96ef-d8efa405d6e4",
     "main",
     "blog-posts"
   ]
