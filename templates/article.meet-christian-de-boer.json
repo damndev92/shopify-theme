@@ -125,6 +125,23 @@
         "button_label": ""
       }
     },
+    "3b11de1e-b7e3-4811-a7a8-013a0465ffd2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/49211643243_1cc368218d_c.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Can you tell us about beauty products?<\/strong>I actually do not know much about beauty products. Dennis, the founder of Jaya Organics is the one who is passionate about skincare & body products and how it is very important to create good quality hotel toiletries including Shampoo, Conditioner, Body Wash, Body Lotion, and all the products that you use in a hotel room. His concept with Jaya Organics aligns with our vision to be sustainable by using refillable bottles for hotel amenities, and there was a demand for it. We used to just put them in ceramic bottles but since they are made of natural and local ingredients, the guests asked if they could buy it. We then gave them for free in a glass container from the kitchen. Because of this demand, we thought as a brand we can no longer give our products in kitchen container and that’s the start of Jaya Organics.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -161,6 +178,7 @@
     "41ee7c56-9a84-48a0-bb40-969d51dd867b",
     "ffe560b0-6d11-443c-9825-93c1d32b80a8",
     "a48cd0e6-8a82-4c8d-9112-a3b14dea3e46",
+    "3b11de1e-b7e3-4811-a7a8-013a0465ffd2",
     "main",
     "blog-posts"
   ]
