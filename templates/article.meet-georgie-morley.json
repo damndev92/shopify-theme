@@ -40,21 +40,21 @@
         "button_label": ""
       }
     },
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+    "ec201368-e3e1-4e60-bec4-e07f2b6a613d": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
+        "image": "shopify:\/\/shop_images\/2-11-1024x1024.png",
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>What inspires your designs?<\/strong><\/p><p>Colour is a key inspiration at ALB, we look to painters such as Helen Frankenthaler & Etel Adnan for their timeless stunning use of colour as well as the ‘Cottage Core’ movement which has also been a big influence this season. <\/p><p><br\/><strong>What was\/is your other career in?<\/strong><\/p><p>Designer through & through! <\/p><p><br\/><strong>What are the lessons you’ve learned from launching your own business in quarantine?<\/strong><\/p><p>Quarantine has been an interesting one, there has been more time to focus on launching the business which we would have never had before so that we are super grateful for but inevitably due to restrictions things have been harder to work around so were learning be less impatient (still in work!).  Also, there is an amazing super supportive community on Instagram which we are so happy to have found. <\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
@@ -88,7 +88,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "ec201368-e3e1-4e60-bec4-e07f2b6a613d",
     "main",
     "blog-posts"
   ]
