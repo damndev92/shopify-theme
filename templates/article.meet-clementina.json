@@ -108,6 +108,23 @@
         "button_label": ""
       }
     },
+    "b5d40566-3a75-4ec3-8b44-81662d3cd642": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Masseria-Ceramic-Set-olive-green.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Masseria Ceramic Set",
+        "text_block": "<p>From £245<\/p><p>hand decorated ceramic set for two: 2 cups, 2 bowls, 2 plates | sold in 1 olive basket | available in grey-green or yellow glaze.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -143,6 +160,7 @@
     "f714d619-8b2a-4cd2-bbc0-99c573165e65",
     "bef25762-2052-47c4-a6d2-a272ebb0b06e",
     "42bf022b-5426-4c29-a455-242ee68f3c98",
+    "b5d40566-3a75-4ec3-8b44-81662d3cd642",
     "main",
     "blog-posts"
   ]
