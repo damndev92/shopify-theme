@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "2f7ae4ee-3f26-4334-be73-ee6614b6fcbd": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/4-5.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Tell us about your favourite Jore Copenhagen pieces.<\/strong><\/p><p>I love the Parasol lamps, I think they are so clever. They are so simple but give off such a huge impact. And the same with the little mushroom table lamps, so easy to use, but such a showstopper.<\/p><p>I love all the plates 😀 I have one of each at home, so I can mix and match when I have friends over for dinner.<\/p><p>And the little saucer has become such a big part of my kitchen, I use it for everything. As a coaster for warm coffee kettles, serving butter or just snacks for myself.<\/p><p><strong>Can you give us a sneak preview of the next Jore Copenhagen collection?<\/strong><\/p><p>We are working on a really nice mirror at the moment, so hopefully that will be ready in not too long.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "fc7cdb05-5ec9-4237-9dcd-2cc04c73dbd8",
     "af6fe36a-2432-4a41-97c5-fcfb57515c8e",
+    "2f7ae4ee-3f26-4334-be73-ee6614b6fcbd",
     "main",
     "blog-posts"
   ]
