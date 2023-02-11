@@ -33,7 +33,7 @@
           </div>
         {% endif %}
 
-        <swiper-container navigation="true" pagination="true">
+        <swiper-container navigation="false" pagination="true" scrollbar="false">
           {% for block in section.blocks %}
             <swiper-slide class="stl__main {% if block.settings.image__position == 'image--right' %} stl__img-right{% endif %}">
               <div class="stl__image-container">
