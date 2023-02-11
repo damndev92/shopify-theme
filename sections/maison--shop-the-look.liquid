@@ -99,6 +99,7 @@
               </div>
             {% endfor %}
           </div>
+          <div class="swiper-pagination"></div>
         </div>
       </div>
     </div>
@@ -147,6 +148,15 @@
     background-color: {{ section.settings.hotspot__color }};
   }
 </style>
+
+<script>
+    const swiper = new Swiper('.swiper.{{ section.id }}', {
+    loop: true,
+    pagination: {
+      el: '.swiper-pagination',
+    }
+  });
+</script>
 
 {% schema %}
   {
