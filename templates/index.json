@@ -437,10 +437,10 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/5-4-1024x1024.png",
             "image__position": "image--left",
-            "product": "",
-            "product-2": "",
-            "product-3": "",
-            "product-4": ""
+            "product": "tea-bowl",
+            "product-2": "duck-feather-cushion-inner-1",
+            "product-3": "6x6",
+            "product-4": "aged-brass-sculptural-floor-lamp-escargot-by-le-corbusier"
           }
         },
         "3598fd05-b642-49d0-bdf4-73036bcb89df": {
@@ -448,7 +448,29 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/3-7-1024x1024.png",
             "image__position": "image--left",
-            "product": "",
+            "product": "tea-bowl",
+            "product-2": "alfonso-vase",
+            "product-3": "copy-of-arc-de-stool-37",
+            "product-4": ""
+          }
+        },
+        "c911afdf-b413-4569-b812-4ec624752d04": {
+          "type": "product",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-9-1024x1024.png",
+            "image__position": "image--left",
+            "product": "alfonso-fruit-bowl-6",
+            "product-2": "alfonso-scented-candle",
+            "product-3": "",
+            "product-4": ""
+          }
+        },
+        "a9c6b72d-967c-4191-95d3-bd7d2d671bf5": {
+          "type": "product",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3-6.png",
+            "image__position": "image--left",
+            "product": "6x6",
             "product-2": "",
             "product-3": "",
             "product-4": ""
@@ -457,7 +479,9 @@
       },
       "block_order": [
         "template--17643497783611__0c78a5c1-7d9a-4374-9d3b-e76f80ed41b3-1676111267fd38b487-0",
-        "3598fd05-b642-49d0-bdf4-73036bcb89df"
+        "3598fd05-b642-49d0-bdf4-73036bcb89df",
+        "c911afdf-b413-4569-b812-4ec624752d04",
+        "a9c6b72d-967c-4191-95d3-bd7d2d671bf5"
       ],
       "settings": {
         "colors": "white",
