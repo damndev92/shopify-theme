@@ -256,8 +256,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Swiper slider */
-.swiper .swiper-wrapper .swiper-pagination {
-  bottom: 0;
+.swiper .swiper-pagination {
+  bottom: 0 !important;
 }
 
 .swiper .swiper-pagination-bullet {
