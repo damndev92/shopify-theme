@@ -256,13 +256,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Swiper slider */
-.swiper-pagination-bullet {
+.swiper .swiper-pagination-bullet {
   background: var(--color-scheme-light-text);
   opacity: .5;
   width: 11px;
   height: 11px;
 }
 
-.swiper-pagination-bullet.swiper-pagination-bullet-active {
+.swiper .swiper-pagination-bullet.swiper-pagination-bullet-active {
   opacity: .8;
 }
