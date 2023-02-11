@@ -428,6 +428,29 @@
         "subheading": "",
         "title": "As seen in"
       }
+    },
+    "0c78a5c1-7d9a-4374-9d3b-e76f80ed41b3": {
+      "type": "maison--shop-the-look",
+      "blocks": {
+        "template--17643497783611__0c78a5c1-7d9a-4374-9d3b-e76f80ed41b3-1676111267fd38b487-0": {
+          "type": "product",
+          "settings": {
+            "image__position": "image--left",
+            "product": "",
+            "product-2": "",
+            "product-3": "",
+            "product-4": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17643497783611__0c78a5c1-7d9a-4374-9d3b-e76f80ed41b3-1676111267fd38b487-0"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Subheading",
+        "title": "Shop the look"
+      }
     }
   },
   "order": [
@@ -441,6 +464,7 @@
     "collection-list",
     "965c199b-916f-4301-a1cc-ef4095be5f72",
     "c94d79d4-bbe0-4f33-a57f-335300f24f32",
-    "logo-list"
+    "logo-list",
+    "0c78a5c1-7d9a-4374-9d3b-e76f80ed41b3"
   ]
 }
