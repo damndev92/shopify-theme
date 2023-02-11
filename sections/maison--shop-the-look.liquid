@@ -3,97 +3,86 @@
 
 {% case section.settings.colors %}
   {% when 'white' %}
-    <div class="homepage-sections-wrapper homepage-sections-wrapper--white">
+    {% assign homepage_sections_wrapper_background_color = 'white' %}
   {% when 'light' %}
-    <div class="homepage-sections-wrapper homepage-sections-wrapper--light">
+    {% assign homepage_sections_wrapper_background_color = 'light' %}
   {% when 'accent' %}
-    <div class="homepage-sections-wrapper homepage-sections-wrapper--accent">
+    {% assign homepage_sections_wrapper_background_color = 'accent' %}
   {% when 'dark' %}
-    <div class="homepage-sections-wrapper homepage-sections-wrapper--dark"> 
+    {% assign homepage_sections_wrapper_background_color = 'dark' %}
 {% endcase %}
-
-{% assign main-dot-count = 0 %}
-{% assign item-index-count = 0 %}
+<div class="homepage-sections-wrapper homepage-sections-wrapper--{{ homepage_sections_wrapper_background_color }}">
+  {% assign main-dot-count = 0 %}
+  {% assign item-index-count = 0 %}
 
   <div class="container" data-wetheme-section-type="product--shop-the-look" data-wetheme-section-id="{{ section.id }}">
     <div class="row">
       <div class="page-width col-md-12">
-
         {% if section.settings.title != blank or section.settings.subheading != blank %}
           <div class="title-bar custom-font">
             {% if section.settings.subheading != blank %}
-              <h3 class="type-subheading type-subheading--1 wow fadeIn{% if section.settings.title != blank %} typography--padding-bottom{% endif %}">{{ section.settings.subheading | escape }}</h3>
+              <h3 class="type-subheading type-subheading--1 wow fadeIn{% if section.settings.title != blank %} typography--padding-bottom{% endif %}">
+                {{ section.settings.subheading | escape }}
+              </h3>
             {% endif %}
             {% if section.settings.title != blank %}
-              <h2 class="wow fadeIn{% if section.settings.subheading != blank %} delay-1{% endif %}">{{ section.settings.title | escape }}</h2>
+              <h2 class="wow fadeIn{% if section.settings.subheading != blank %} delay-1{% endif %}">
+                {{ section.settings.title | escape }}
+              </h2>
             {% endif %}
           </div>
         {% endif %}
 
-          <swiper-container>
-        {% for block in section.blocks %}
-          <swiper-slide class="stl__main {% if block.settings.image__position == 'image--right' %} stl__img-right{% endif %}">
-
-            <div class="stl__image-container">
-              <div class="stl__image">
-                {% render 'responsive-image' with block.settings.image, class: 'stl__image', alt: block.settings.image.alt %}
+        <swiper-container>
+          {% for block in section.blocks %}
+            <swiper-slide class="stl__main {% if block.settings.image__position == 'image--right' %} stl__img-right{% endif %}">
+              <div class="stl__image-container">
+                <div class="stl__image">
+                  {% render 'responsive-image' with block.settings.image,
+                    class: 'stl__image',
+                    alt: block.settings.image.alt
+                  %}
+                </div>
               </div>
-            </div>
 
-            <div class="stl__outer-products-container">
-              <div class="stl__products-container">
+              <div class="stl__outer-products-container">
+                <div class="stl__products-container">
+                  {% if block.settings.product != blank %}
+                    {% assign thisProduct = all_products[block.settings.product] %}
+                    <div class="stl__products" id="product_1" data-index="1" data-stl-product-block-id="{{ block.id }}">
+                      {%- render 'product-grid--no-blocks', liquidObject: thisProduct -%}
+                    </div>
+                  {% endif %}
 
-                {% if block.settings.product != blank %}
-                  {% assign thisProduct = all_products[block.settings.product] %}
-                  <div class="stl__products" id="product_1" data-index="1" data-stl-product-block-id="{{ block.id }}">
-                    {%-
-                      render 'product-grid--no-blocks',
-                      liquidObject: thisProduct
-                    -%}
-                  </div>
-                {% endif %}
+                  {% if block.settings['product-2'] != blank %}
+                    {% assign thisProduct = all_products[block.settings['product-2']] %}
+                    <div class="stl__products" id="product_2" data-index="2" data-stl-product-block-id="{{ block.id }}">
+                      {%- render 'product-grid--no-blocks', liquidObject: thisProduct -%}
+                    </div>
+                  {% endif %}
 
-                {% if block.settings.product-2 != blank %}
-                  {% assign thisProduct = all_products[block.settings.product-2] %}
-                  <div class="stl__products" id="product_2" data-index="2" data-stl-product-block-id="{{ block.id }}">
-                    {%-
-                      render 'product-grid--no-blocks',
-                      liquidObject: thisProduct
-                    -%}
-                  </div>
-                {% endif %}
+                  {% if block.settings['product-3'] != blank %}
+                    {% assign thisProduct = all_products[block.settings['product-3']] %}
+                    <div class="stl__products" id="product_3" data-index="3" data-stl-product-block-id="{{ block.id }}">
+                      {%- render 'product-grid--no-blocks', liquidObject: thisProduct -%}
+                    </div>
+                  {% endif %}
 
-                {% if block.settings.product-3 != blank %}
-                  {% assign thisProduct = all_products[block.settings.product-3] %}
-                  <div class="stl__products" id="product_3" data-index="3" data-stl-product-block-id="{{ block.id }}">
-                    {%-
-                      render 'product-grid--no-blocks',
-                      liquidObject: thisProduct
-                    -%}
-                  </div>
-                {% endif %}
-
-                {% if block.settings.product-4 != blank %}
-                  {% assign thisProduct = all_products[block.settings.product-4] %}
-                  <div class="stl__products" id="product_4" data-index="4" data-stl-product-block-id="{{ block.id }}">
-                    {%-
-                      render 'product-grid--no-blocks',
-                      liquidObject: thisProduct
-                    -%}
-                  </div>
-                {% endif %}
-
+                  {% if block.settings['product-4'] != blank %}
+                    {% assign thisProduct = all_products[block.settings['product-4']] %}
+                    <div class="stl__products" id="product_4" data-index="4" data-stl-product-block-id="{{ block.id }}">
+                      {%- render 'product-grid--no-blocks', liquidObject: thisProduct -%}
+                    </div>
+                  {% endif %}
+                </div>
               </div>
-            </div>
-
-          </swiper-slide>
-        {% endfor %}
-          </swiper-container>
+            </swiper-slide>
+          {% endfor %}
+        </swiper-container>
       </div>
     </div>
   </div>
 </div>
-
 
 <style>
     @-webkit-keyframes shopTheLookDotKeyframe {
