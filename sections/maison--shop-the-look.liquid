@@ -1,5 +1,4 @@
 {{ 'section-shop-the-look.min.css' | asset_url | stylesheet_tag }}
-<script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
 
 {% case section.settings.colors %}
   {% when 'white' %}
@@ -33,52 +32,74 @@
           </div>
         {% endif %}
 
-        <swiper-container navigation="false" pagination="true" scrollbar="false">
-          {% for block in section.blocks %}
-            <swiper-slide class="stl__main {% if block.settings.image__position == 'image--right' %} stl__img-right{% endif %}">
-              <div class="stl__image-container">
-                <div class="stl__image">
-                  {% render 'responsive-image' with block.settings.image,
-                    class: 'stl__image',
-                    alt: block.settings.image.alt
-                  %}
+        <div class="swiper {{ block.id }}">
+          <div class="swiper-wrapper">
+            {% for block in section.blocks %}
+              <div class="swiper-slide stl__main {% if block.settings.image__position == 'image--right' %} stl__img-right{% endif %}">
+                <div class="stl__image-container">
+                  <div class="stl__image">
+                    {% render 'responsive-image' with block.settings.image,
+                      class: 'stl__image',
+                      alt: block.settings.image.alt
+                    %}
+                  </div>
+                </div>
+
+                <div class="stl__outer-products-container">
+                  <div class="stl__products-container">
+                    {% if block.settings.product != blank %}
+                      {% assign thisProduct = all_products[block.settings.product] %}
+                      <div
+                        class="stl__products"
+                        id="product_1"
+                        data-index="1"
+                        data-stl-product-block-id="{{ block.id }}"
+                      >
+                        {%- render 'product-grid--no-blocks', liquidObject: thisProduct -%}
+                      </div>
+                    {% endif %}
+
+                    {% if block.settings['product-2'] != blank %}
+                      {% assign thisProduct = all_products[block.settings['product-2']] %}
+                      <div
+                        class="stl__products"
+                        id="product_2"
+                        data-index="2"
+                        data-stl-product-block-id="{{ block.id }}"
+                      >
+                        {%- render 'product-grid--no-blocks', liquidObject: thisProduct -%}
+                      </div>
+                    {% endif %}
+
+                    {% if block.settings['product-3'] != blank %}
+                      {% assign thisProduct = all_products[block.settings['product-3']] %}
+                      <div
+                        class="stl__products"
+                        id="product_3"
+                        data-index="3"
+                        data-stl-product-block-id="{{ block.id }}"
+                      >
+                        {%- render 'product-grid--no-blocks', liquidObject: thisProduct -%}
+                      </div>
+                    {% endif %}
+
+                    {% if block.settings['product-4'] != blank %}
+                      {% assign thisProduct = all_products[block.settings['product-4']] %}
+                      <div
+                        class="stl__products"
+                        id="product_4"
+                        data-index="4"
+                        data-stl-product-block-id="{{ block.id }}"
+                      >
+                        {%- render 'product-grid--no-blocks', liquidObject: thisProduct -%}
+                      </div>
+                    {% endif %}
+                  </div>
                 </div>
               </div>
-
-              <div class="stl__outer-products-container">
-                <div class="stl__products-container">
-                  {% if block.settings.product != blank %}
-                    {% assign thisProduct = all_products[block.settings.product] %}
-                    <div class="stl__products" id="product_1" data-index="1" data-stl-product-block-id="{{ block.id }}">
-                      {%- render 'product-grid--no-blocks', liquidObject: thisProduct -%}
-                    </div>
-                  {% endif %}
-
-                  {% if block.settings['product-2'] != blank %}
-                    {% assign thisProduct = all_products[block.settings['product-2']] %}
-                    <div class="stl__products" id="product_2" data-index="2" data-stl-product-block-id="{{ block.id }}">
-                      {%- render 'product-grid--no-blocks', liquidObject: thisProduct -%}
-                    </div>
-                  {% endif %}
-
-                  {% if block.settings['product-3'] != blank %}
-                    {% assign thisProduct = all_products[block.settings['product-3']] %}
-                    <div class="stl__products" id="product_3" data-index="3" data-stl-product-block-id="{{ block.id }}">
-                      {%- render 'product-grid--no-blocks', liquidObject: thisProduct -%}
-                    </div>
-                  {% endif %}
-
-                  {% if block.settings['product-4'] != blank %}
-                    {% assign thisProduct = all_products[block.settings['product-4']] %}
-                    <div class="stl__products" id="product_4" data-index="4" data-stl-product-block-id="{{ block.id }}">
-                      {%- render 'product-grid--no-blocks', liquidObject: thisProduct -%}
-                    </div>
-                  {% endif %}
-                </div>
-              </div>
-            </swiper-slide>
-          {% endfor %}
-        </swiper-container>
+            {% endfor %}
+          </div>
+        </div>
       </div>
     </div>
   </div>
