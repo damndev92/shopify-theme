@@ -29,209 +29,68 @@
         "button_label": ""
       }
     },
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/17_fbb2cfa2-e899-4d9d-9293-12f5830e8ab2.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/20.png",
-            "link": "shopify:\/\/products\/parentesi-suspension-lamp",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0",
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1"
-      ],
+    "66506f27-d47d-47ca-ac78-8d21bc6cab4b": {
+      "type": "image--image",
       "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
+        "image": "shopify:\/\/shop_images\/facade-circulo-mexicano-1466x1148-1-1024x802.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
       }
     },
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
-      "type": "accordion",
-      "blocks": {
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        },
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        },
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
-      ],
-      "settings": {
-        "background-color": "#e3e3e3",
-        "text-color": "#000000",
-        "title": "Frequently asked questions",
-        "faq_icon": "plus_minus"
-      }
-    },
-    "f752c25e-ff65-466a-ba61-33848f1147fc": {
-      "type": "text--image-with-text",
+    "16feb9a7-146a-4bfd-8a5a-0fe5cda75b33": {
+      "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "image-width": "large",
-        "image": "shopify:\/\/shop_images\/006-carlos-couturier-moises-micha-b.jpg",
-        "layout": "left",
-        "subheading": "Meet the hosts",
-        "location": false,
-        "title": "Carlos Couturier & Moisés Micha, Owners Grupo Habita",
-        "text_block": "<p><br\/>Known for creating Mexico’s trendiest boutique properties, the hotel developer Grupo Habita are a pioneer in this space.<\/p><p><\/p>",
-        "page_description": false,
+        "width": "medium",
+        "subheading": "Mexico City, Mexico",
+        "page_title": "",
+        "title": "Circulo Mexicano",
+        "text": "<p><br\/>Located in the heart of Mexico City’s downtown, where pre-hispanic ruins intersect with the National Palace and the first cathedral in the Americas. Círculo Mexicano brings together Grupo Habita’s unique brand of hospitality with a selection of Mexico’s leading figures from the worlds of food, fashion, and design – offering informed travelers a unique and authentic experience of contemporary Mexican culture.<\/p>",
         "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
+        "button_label": ""
       }
     },
-    "b0442bae-57f5-48ad-91da-cc1d473f591c": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "large",
-        "image": "shopify:\/\/shop_images\/interior_designers_Circula.png",
-        "layout": "left",
-        "subheading": "Círculo Mexicano",
-        "location": false,
-        "title": "Meet the Interior Designers",
-        "text_block": "<p>Grupo Habita commissioned the architecture firm Ambrosi Etchegaray to transform this 19th-century townhome in Centro Histórico into a Shaker-inspired boutique hotel.<\/p><p>Assigned as curators of the Mexican Pavilion at the Architecture Venice Biennale 2018, adjunct Professors at GSAPP, Columbia University, and selected by Architectural Record as Design Vanguard 2017 and as Emerging Voices 2015, Ambrosi Etchegaray was founded in Mexico City in 2011.<\/p><p>Housed in the former home of Manuel Álvarez Bravo, one of Mexico’s most celebrated 20th-century photographers, the building pays homage to its former resident, with his black-and-white images lining the exposed brick walls. Though the rooms are more minimalist in style, the ground-floor marketplace, rooftop, and pool provide a bustling atmosphere for both guests and locals.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
-      }
-    },
-    "63680a03-e85a-40a7-9084-4a83db4c7921": {
-      "type": "image--gallery",
+    "a5262afe-3ca2-45ff-8371-f7a34b3bfbf0": {
+      "type": "image--logo-list",
       "blocks": {
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
-          "type": "image",
+        "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-0": {
+          "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/19.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle",
-            "title": "",
-            "description": ""
+            "link": ""
           }
         },
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
-          "type": "image",
+        "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-1": {
+          "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/21.png",
-            "link": "shopify:\/\/products\/wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
-            "title": "",
-            "description": ""
+            "link": ""
           }
         },
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
-          "type": "image",
+        "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-2": {
+          "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/24.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
-            "title": "",
-            "description": ""
+            "link": ""
           }
         },
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62": {
-          "type": "image",
-          "disabled": true,
+        "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-3": {
+          "type": "logo_image",
           "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
+            "link": ""
           }
         }
       },
       "block_order": [
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092",
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9",
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03",
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62"
-      ],
-      "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
-      }
-    },
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
-      "type": "product--shop-the-look",
-      "blocks": {
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
-          "type": "product",
-          "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        },
-        "61a17092-0b88-43c9-888c-ee6b50651501": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
-          }
-        },
-        "2d0cd767-4992-4798-8a74-406d517d073e": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
-        "61a17092-0b88-43c9-888c-ee6b50651501",
-        "2d0cd767-4992-4798-8a74-406d517d073e"
+        "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-0",
+        "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-1",
+        "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-2",
+        "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-3"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "circulo mexicano",
-        "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/22.png",
-        "image__position": "image--left",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": "Shop the look"
+        "width": 150,
+        "subheading": "did you know?",
+        "title": "Facts"
       }
     },
     "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
@@ -272,10 +131,10 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "",
-        "title": "",
+        "subheading": "Shop",
+        "title": "Shop the look",
         "image": "shopify:\/\/shop_images\/27.png",
-        "image__position": "image--right",
+        "image__position": "image--left",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
         "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
@@ -284,36 +143,89 @@
         "button__text": ""
       }
     },
-    "9299a3ef-12a1-48f6-abe6-a54f93478d0b": {
+    "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
       "type": "image--gallery",
+      "settings": {
+        "colors": "light",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "b3719866-6b76-4281-8172-8fceffd46385": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Schermata-2021-06-01-alle-18.00.09-1024x683_22ddeca1-351b-47d5-9beb-861d9a590ca6.png",
+        "subheading": "",
+        "title": "Take a tour",
+        "text": "Here's your chance to make a great first impression",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "f752c25e-ff65-466a-ba61-33848f1147fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/006-carlos-couturier-moises-micha-b.jpg",
+        "layout": "left",
+        "subheading": "Meet the hosts",
+        "location": false,
+        "title": "Carlos Couturier & Moisés Micha, Owners Grupo Habita",
+        "text_block": "<p><br\/>Known for creating Mexico’s trendiest boutique properties, the hotel developer Grupo Habita are a pioneer in this space.<\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
+      "type": "accordion",
       "blocks": {
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0": {
-          "type": "image",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
+          "type": "tab_content",
           "settings": {
-            "image": "shopify:\/\/shop_images\/12_a7406a45-b012-4355-ad79-30e7df21bd2a.png",
-            "link": "",
-            "title": "",
-            "description": ""
+            "question": "CIRCULO MEXICANO IN ONE sentence?",
+            "text": "<p>100% Mexican<\/p>"
           }
         },
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1": {
-          "type": "image",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
+          "type": "tab_content",
           "settings": {
-            "image": "shopify:\/\/shop_images\/13.png",
-            "link": "",
-            "title": "",
-            "description": ""
+            "question": "WHERE TO EAT?",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
+          "type": "tab_content",
+          "settings": {
+            "question": "DO YOU HAVE A FAVOURITE OBJECT IN ONE OF YOUR HOTELs?",
+            "text": "<p>Not really. Every location is special. It is ‘the whole‘ that holds the meaning.<\/p>"
+          }
+        },
+        "59b8580a-a40d-47f5-ac44-cf3db9849e10": {
+          "type": "tab_content",
+          "settings": {
+            "question": "three facts MOST PEOPLE DON'T KNOW ABOUT grupo habita?",
+            "text": "<p>Three facts about Grupo Habita: We have fun. We love our jobs. We are permanent nomads.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0",
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1"
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2",
+        "59b8580a-a40d-47f5-ac44-cf3db9849e10"
       ],
       "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
+        "background-color": "#e3e3e3",
+        "text-color": "#000000",
+        "title": "Frequently asked questions",
+        "faq_icon": "plus_minus"
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
@@ -415,14 +327,14 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "f752c25e-ff65-466a-ba61-33848f1147fc",
-    "b0442bae-57f5-48ad-91da-cc1d473f591c",
-    "63680a03-e85a-40a7-9084-4a83db4c7921",
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
+    "66506f27-d47d-47ca-ac78-8d21bc6cab4b",
+    "16feb9a7-146a-4bfd-8a5a-0fe5cda75b33",
+    "a5262afe-3ca2-45ff-8371-f7a34b3bfbf0",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
-    "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
+    "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
+    "b3719866-6b76-4281-8172-8fceffd46385",
+    "f752c25e-ff65-466a-ba61-33848f1147fc",
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",

@@ -1,9 +1,9 @@
 {
   "sections": {
-    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
+    "85f6dbd8-9cb3-4313-ac71-dbacace8f3e9": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/s-inhabit-london-united-kingdom.jpg",
+        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_f73df551-c0ae-4185-acef-ac275e4cedf1.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -29,209 +29,68 @@
         "button_label": ""
       }
     },
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/29.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/36.png",
-            "link": "shopify:\/\/products\/parentesi-suspension-lamp",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0",
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1"
-      ],
+    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
+      "type": "image--image",
       "settings": {
-        "colors": "light",
+        "image": "shopify:\/\/shop_images\/s-inhabit-london-united-kingdom.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "010e1187-c659-4cbb-a19c-cbb1a3cfabef": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
         "subheading": "",
-        "title": ""
-      }
-    },
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
-      "type": "accordion",
-      "blocks": {
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        },
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        },
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
-      ],
-      "settings": {
-        "background-color": "#e3e3e3",
-        "text-color": "#000000",
-        "title": "Frequently asked questions",
-        "faq_icon": "plus_minus"
-      }
-    },
-    "f752c25e-ff65-466a-ba61-33848f1147fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/13-mbo-inhabit-nadira-lalji.jpg",
-        "layout": "left",
-        "subheading": "Meet the host",
-        "location": false,
-        "title": "Nadira Lalji, Owner",
-        "text_block": "<p><strong>Can you share three interesting facts about Inhabit? <\/strong><\/p><p><strong><br\/><\/strong><em>1) Originally six homes… <\/em><br\/>Inhabit occupies six, formerly residential Georgian townhouses. <\/p><p><em>2) Formerly a nightclub…<\/em><br\/>25 Southwick Street was previously the site of Zebra Club, a restaurant, bar and nightclub. While the club was not somewhere we frequented, or know much about, we are certain that the current wellness-focused hotel and its serene spaces are quite the transformation and juxtaposition, given the building’s past life and former red-light-district locale.<\/p><p><em>3) Art gallery credentials…<\/em><br\/>Many hotels resort to prints and off-the-shelf art. Art was a major consideration for the property: we collaborated with around several dozen artists, in partnership with Anne Rogers from Culture A. Roughly half of our artists are based in the UK; others hail from the USA, Japan, Denmark, Bulgaria, Germany and France.<\/p>",
-        "page_description": false,
+        "page_title": "",
+        "title": "",
+        "text": "<p><br\/>Nestled in a leafy corner of historic Paddington, you’ll find some respite from the city at Inhabit. Staying at Inhabit is a truly restorative experience, from which guests emerge nourished, rested, and inspired. Inhabit is much more than a hotel; it’s a community that will welcome you back, time and time again.<\/p>",
         "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
+        "button_label": ""
       }
     },
-    "ec227ab9-48fc-403c-82cd-b98c13fb3552": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/14_ab1400db-1c12-4b8b-a96b-3bf9ee141fff.png",
-        "layout": "left",
-        "subheading": "Inhabit",
-        "location": false,
-        "title": "Meet the Interior Designers",
-        "text_block": "<p>At Inhabit wellbeing and sustainable design was at the core of everything, with the aim for guests to leave feeling lighter, more free and inspired by taking the pace of life down, where time is luxury. Created by architecture firm Holland and Harvey with interiors by Peter Marino cohort Caitlin Henderson Design, Inhabit was designed with busy travellers in mind. The tables and chairs were created using materials honestly and in their natural state, all sealed with natural sealant to best showcase this feature. <\/p><p>Curated by Caitlin Henderson, furnishings by Hans Wegner, Austrian Design Collective EEOS for Carl Hansen & Son, and GamFratesi for Gubi, are placed side-by-side with sustainable pieces made by Burmese craftspeople. The fired earth foor is made to juxtapose with these touches.<\/p><p><\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
-      }
-    },
-    "63680a03-e85a-40a7-9084-4a83db4c7921": {
-      "type": "image--gallery",
+    "ff10149a-4098-48c6-9420-2d9abafa1210": {
+      "type": "image--logo-list",
       "blocks": {
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
-          "type": "image",
+        "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-0": {
+          "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/38.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle",
-            "title": "",
-            "description": ""
+            "link": ""
           }
         },
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
-          "type": "image",
+        "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-1": {
+          "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/30.png",
-            "link": "shopify:\/\/products\/wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
-            "title": "",
-            "description": ""
+            "link": ""
           }
         },
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
-          "type": "image",
+        "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-2": {
+          "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/35.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
-            "title": "",
-            "description": ""
+            "link": ""
           }
         },
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62": {
-          "type": "image",
-          "disabled": true,
+        "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-3": {
+          "type": "logo_image",
           "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
+            "link": ""
           }
         }
       },
       "block_order": [
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092",
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9",
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03",
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62"
-      ],
-      "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
-      }
-    },
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
-      "type": "product--shop-the-look",
-      "blocks": {
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
-          "type": "product",
-          "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        },
-        "61a17092-0b88-43c9-888c-ee6b50651501": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
-          }
-        },
-        "2d0cd767-4992-4798-8a74-406d517d073e": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
-        "61a17092-0b88-43c9-888c-ee6b50651501",
-        "2d0cd767-4992-4798-8a74-406d517d073e"
+        "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-0",
+        "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-1",
+        "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-2",
+        "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-3"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "inhabit",
-        "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/31.png",
-        "image__position": "image--left",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": "Shop the look"
+        "width": 150,
+        "subheading": "Did you know?",
+        "title": "Facts"
       }
     },
     "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
@@ -272,10 +131,10 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "",
-        "title": "",
+        "subheading": "Shop",
+        "title": "Shop the look",
         "image": "shopify:\/\/shop_images\/37.png",
-        "image__position": "image--right",
+        "image__position": "image--left",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
         "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
@@ -284,36 +143,81 @@
         "button__text": ""
       }
     },
-    "9299a3ef-12a1-48f6-abe6-a54f93478d0b": {
-      "type": "image--gallery",
+    "1c5c5a3d-4290-4ec0-b81a-0789ef805b78": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_8ee35f95-5487-4778-89be-5e60bf79a451.png",
+        "subheading": "",
+        "title": "Take a tour",
+        "text": "Here's your chance to make a great first impression",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "f752c25e-ff65-466a-ba61-33848f1147fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/13-mbo-inhabit-nadira-lalji.jpg",
+        "layout": "left",
+        "subheading": "Meet the host",
+        "location": false,
+        "title": "Nadira Lalji, Owner",
+        "text_block": "<p><strong>\" Fundamentally, at Inhabit, I have used design as a means to showcase life-improving, socially conscious homewares. If I were not a hotelier, I would most certainly be a social entrepreneur, so I seek to support these innovators as they support the disenfranchised, tackling big, challenging issues. \"<\/strong><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
+      "type": "accordion",
       "blocks": {
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0": {
-          "type": "image",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
+          "type": "tab_content",
           "settings": {
-            "image": "shopify:\/\/shop_images\/16_69ec952c-7cf0-43f7-a215-a4daa1c140a9.png",
-            "link": "",
-            "title": "",
-            "description": ""
+            "question": "Inhabit in one word?",
+            "text": "<p>I read a few books about mindfulness,<em>lagom <\/em>and <em>hygge<\/em>: all concepts that explore the idea of comfort and, most importantly for me, comfort in the quotidian – our day-to-day living and routine. As I read these books, I kept an eye on words, marking up the books as I leafed through them, and ‘inhabit’ kept surfacing and summarised it for me and our team.<\/p>"
           }
         },
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1": {
-          "type": "image",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
+          "type": "tab_content",
           "settings": {
-            "image": "shopify:\/\/shop_images\/15_0d2956a6-f34b-4cea-90a1-ebdf09b6c3e7.png",
-            "link": "",
-            "title": "",
-            "description": ""
+            "question": "where to eat?",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
+          "type": "tab_content",
+          "settings": {
+            "question": "your favourite object in the hotel?",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "3f7d6e13-5176-4159-8b61-0b069c971bcf": {
+          "type": "tab_content",
+          "settings": {
+            "question": "something most people don't know about inhabit?",
+            "text": "<p>25 Southwick Street was previously the site of Zebra Club, a restaurant, bar and nightclub. While the club was not somewhere we frequented, or know much about, we are certain that the current wellness-focused hotel and its serene spaces are quite the transformation and juxtaposition, given the building’s past life and former red-light-district locale.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0",
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1"
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2",
+        "3f7d6e13-5176-4159-8b61-0b069c971bcf"
       ],
       "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
+        "background-color": "#e3e3e3",
+        "text-color": "#000000",
+        "title": "Tips from the host",
+        "faq_icon": "plus_minus"
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
@@ -412,17 +316,16 @@
     }
   },
   "order": [
-    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
+    "85f6dbd8-9cb3-4313-ac71-dbacace8f3e9",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "f752c25e-ff65-466a-ba61-33848f1147fc",
-    "ec227ab9-48fc-403c-82cd-b98c13fb3552",
-    "63680a03-e85a-40a7-9084-4a83db4c7921",
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
+    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
+    "010e1187-c659-4cbb-a19c-cbb1a3cfabef",
+    "ff10149a-4098-48c6-9420-2d9abafa1210",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
-    "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
+    "1c5c5a3d-4290-4ec0-b81a-0789ef805b78",
+    "f752c25e-ff65-466a-ba61-33848f1147fc",
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",

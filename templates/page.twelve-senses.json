@@ -61,6 +61,23 @@
         "title": ""
       }
     },
+    "f752c25e-ff65-466a-ba61-33848f1147fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/Interior_Designers-Hotels_16b1405d-11b4-4782-bf95-fc7e019e3dc5.png",
+        "layout": "left",
+        "subheading": "Meet the host",
+        "location": false,
+        "title": "Anke Bodack, Owner",
+        "text_block": "<p><br\/>With interiors by Offset Design & Drafting by Anke Bodack, the luxury minimalism at Twelve Senses makes for warm and welcoming yet uncluttered spaces. The four guestrooms each has its own color scheme based on the four elements, with designers Philippe Starck, Ethnicraft, Lagos del Mundo, and many others showcased. A cozy library boasts two Cappellini felt chairs and a Knoll marble coffee table, while a small pop-up shop offers local crafts and artisanal products.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
       "type": "accordion",
       "blocks": {
@@ -94,25 +111,8 @@
       "settings": {
         "background-color": "#e3e3e3",
         "text-color": "#000000",
-        "title": "Frequently asked questions",
+        "title": "Tips from the host",
         "faq_icon": "plus_minus"
-      }
-    },
-    "f752c25e-ff65-466a-ba61-33848f1147fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/Interior_Designers-Hotels_16b1405d-11b4-4782-bf95-fc7e019e3dc5.png",
-        "layout": "left",
-        "subheading": "Meet the host",
-        "location": false,
-        "title": "Anke Bodack, Owner",
-        "text_block": "<p><br\/>With interiors by Offset Design & Drafting by Anke Bodack, the luxury minimalism at Twelve Senses makes for warm and welcoming yet uncluttered spaces. The four guestrooms each has its own color scheme based on the four elements, with designers Philippe Starck, Ethnicraft, Lagos del Mundo, and many others showcased. A cozy library boasts two Cappellini felt chairs and a Knoll marble coffee table, while a small pop-up shop offers local crafts and artisanal products.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
       }
     },
     "63680a03-e85a-40a7-9084-4a83db4c7921": {
@@ -399,8 +399,8 @@
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",

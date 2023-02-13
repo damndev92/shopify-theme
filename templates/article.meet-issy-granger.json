@@ -1,0 +1,167 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0493-2-1024x529.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Meet Issy Granger, Designer, London",
+        "title": "",
+        "text": "<p>Meet Issy Granger, the genius creator behind the eponymous brand. It was love at first like, when we discovered her colourful candlesticks on Instagram. Her unique designs marry antique artisanship with modern-day craft. We sit down with Issy to discuss her duck Chips, the inspiration behind her brand, and the talented makers and manufacturers who breathe life into her pencil sketches.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Issy-Granger-Headshot_1080x-993x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Could you tell us three things about you, that people might not know about? <\/strong><\/p><p>I love poetry and I try to fit in a bit of time each day to read or write a few lines. <br\/>When I was a child I raised a duck named Chips and taught him how to fly. <br\/>I love languages and recently attempted a bit of Turkish. It proved rather more difficult than I had anticipated, and after ten-week course, I haven’t got much further than hello\/merhaba!<\/p><p><strong>What is the story behind your brand?<\/strong><\/p><p>For as long as I can remember I have loved designing and making things and I always planned to one day turn this creativity into a brand. Both my mother and grandmother are artists and so I was lucky enough to grow up watching and learning so much from them both. I began by making furniture in my parent’s shed for a few years before branching out into designing my own homeware pieces. I launched Issy Granger in 2019 with the aim of creating unique designs that I love and that will bring joy into the home.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/210310_IssyGranger1524_1080x-683x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Can you tell us how you discovered the Egyptian glass blowers you work with? <\/strong><\/p><p>I have always been fascinated by glassblowing. I remember as a child being taken to watch glassblowers work near where I grew up in Yorkshire and this sparked an early interest in the art. On the hunt for glassblowers last year, I began to learn about the history of glass and discovered its origins in Egypt. I instantly fell in love with the delicate Egyptian style and the techniques that have been passed down generation after generation for many hundred years. It is such a pleasure working with these talented makers and I feel very fortunate to have them bring my designs to life.<\/p><p><strong>Where do you find your inspiration? <\/strong><\/p><p>Growing up with artists I have always been very aware of colour and the world around me. I take inspiration from my surroundings, be it the English countryside, further afield or from conversations with people that I meet along the way. Inspiration is all around us. <\/p><p>Since all the wonderful London galleries and museums have been shut for most of this last year, I have spent many days wandering around the streets and looking up at the incredible architecture all over the city. I love the variety of style that there is to be found across London. Whilst the doors remain closed to so many great buildings, I think this offers the perfect opportunity to take the time to be inspired by the beauty of the buildings themselves.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "2713bd12-7808-4b14-a57f-ad6a30adaabe": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/BlueOmbo_1080x-1024x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What do you<\/strong> <strong>love most about candlesticks?<\/strong><\/p><p>Candlesticks are the table’s icing on the cake! I love how the addition of candlesticks instantly transforms a table into a special place for entertaining and celebrating. <\/p><p><strong>Do you have a design that you are particularly fond of? <\/strong><\/p><p>It is hard to narrow it down to one piece! I really love the process from conception to realisation of every design that I have done. Once I have sketched out my ideas, I work with the glassblowers to bring them to life. There really is nothing more exciting than when I get to hold the finished product for the first time and so each one is very special to me. <\/p><p><strong>What would be your dream object to design? <\/strong><\/p><p>I don’t know if I have one object in particular, there are so many pieces that I would like to design! When it comes to new ideas the sky is the limit! Perhaps returning to my beginnings with furniture it would be fun to design a collection of Issy Granger chairs. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "3e3128be-aa3b-4b97-83b0-bdc160efef18": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/142159349_1055918851588668_7731702312399417948_n.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Do you think lockdown has changed the way people see their homes? <\/strong><\/p><p>Yes definitely. Over the past year, we have spent more time inside our own homes than ever before. As the outside world became an uncertain place, the importance of creating a warm and joyful home became all the more essential. As we have been unable to eat out, evening dinners are a treasured occasion and people are definitely having fun making their table settings more beautiful and creating more of a “dining out” experience at home. <\/p><p><strong>What are your tips for the perfect table setting? <br\/><\/strong><\/p><p>My perfect table setting is one adorned with fresh flowers in the day and candlelight in the evening. <\/p><p><strong>Any wishes for 2021?<\/strong><\/p><p>In life – for us all to enjoy the freedom that existed before this pandemic. In my work – that I continue to design and launch new creations. I have been busy with my sketchbooks over the last few months, and I am excited to see these come to fruition over the course of the year.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "1cb9f25c-479b-4726-b9fb-c2cd6c6974af": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Luxor-Candlestick.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Luxor Glass Candlestick",
+        "text_block": "<p>£27<\/p><p>A beautiful handblown glass candle holder designed by Issy and made by Egyptian artisans in Cairo. Egypt has a rich history of glassblowing dating back well over 3000 years and the artisans today continue the craft that has been passed down the generations. As the light dances off and through these elegant candlesticks, they an eye-catching addition to a mantelpiece or dining table. Borosilicate glass is incredibly light and delicate yet able to withstand amazingly high temperatures.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "de8dfea6-3c10-4457-b737-47c4f9ec6fce": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Horus-Candlestick.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Horus Glass Candlestick",
+        "text_block": "<p>£38<\/p><p>A beautiful handblown glass candle holder designed by Issy and made by Egyptian artisans in Cairo. Egypt has a rich history of glassblowing dating back well over 3000 years and the artisans today continue the craft that has been passed down the generations. As the light dances off and through these elegant candlesticks, they an eye-catching addition to a mantelpiece or dining table. Borosilicate glass is incredibly light and delicate yet able to withstand amazingly high temperatures.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "2713bd12-7808-4b14-a57f-ad6a30adaabe",
+    "3e3128be-aa3b-4b97-83b0-bdc160efef18",
+    "1cb9f25c-479b-4726-b9fb-c2cd6c6974af",
+    "de8dfea6-3c10-4457-b737-47c4f9ec6fce",
+    "main",
+    "blog-posts"
+  ]
+}
