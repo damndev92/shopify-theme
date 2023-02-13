@@ -108,6 +108,23 @@
         "button_label": ""
       }
     },
+    "de8dfea6-3c10-4457-b737-47c4f9ec6fce": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Horus-Candlestick.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Horus Glass Candlestick",
+        "text_block": "<p>£38<\/p><p>A beautiful handblown glass candle holder designed by Issy and made by Egyptian artisans in Cairo. Egypt has a rich history of glassblowing dating back well over 3000 years and the artisans today continue the craft that has been passed down the generations. As the light dances off and through these elegant candlesticks, they an eye-catching addition to a mantelpiece or dining table. Borosilicate glass is incredibly light and delicate yet able to withstand amazingly high temperatures.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -143,6 +160,7 @@
     "2713bd12-7808-4b14-a57f-ad6a30adaabe",
     "3e3128be-aa3b-4b97-83b0-bdc160efef18",
     "1cb9f25c-479b-4726-b9fb-c2cd6c6974af",
+    "de8dfea6-3c10-4457-b737-47c4f9ec6fce",
     "main",
     "blog-posts"
   ]
