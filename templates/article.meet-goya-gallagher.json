@@ -125,6 +125,23 @@
         "button_label": ""
       }
     },
+    "415a1c06-02d9-4d46-b2db-4894d268b065": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Copy-of-DSCF4335-1024x683.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Is there one that you particularly like?<\/strong><\/p><p>There are many! One of our favourites is the fully embroidered Sakkara placemat. We love the boldness of the design and the colourways which are inspired by those found in Valley of the Artisans in Luxor. Another one of our favourites is the hand-embroidered ottoman vase tablecloth in cinnamon because it represents the combination of a timeless design with the highest level of craftsmanship  (cross stitch and hand-drawn embroidery) which makes it sumptuous yet inviting. And then there is the bee collection which is an explosion of colour and guaranteed to make any gathering feel festive.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -161,6 +178,7 @@
     "327a7dcd-2855-430b-9663-b51a87acb688",
     "2d966b83-660e-4e3d-9360-aa8cbfe3046c",
     "80a0b090-d419-4a77-909c-e00ce6a4b0e8",
+    "415a1c06-02d9-4d46-b2db-4894d268b065",
     "main",
     "blog-posts"
   ]
