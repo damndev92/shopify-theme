@@ -1,0 +1,95 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/header-article-gianluca-1024x576.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Meet Gianluca Longo, Style Editor of British Vogue, London",
+        "title": "",
+        "text": "<p>Gianluca Longo is the London based but Italian born Style Editor of British Vogue and Cabana Magazine, for which he styles portraits, interiors, and writes about lifestyle. As an authority on all things beautiful, he regularly hosts talks on fashion and design and consults for various luxury brands. We were lucky enough to ask Gianluca about his inspirations, his design addresses, and what he believes will change in our homes after the pandemic.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Gianluca-Longo-interview_maison_flaneur_british_vogue-731x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Have you ever wanted to bring back an object from a hotel or a restaurant?<\/strong><\/p><p>Yes, all the time.<\/p><p><strong>And if so which one?<\/strong><\/p><p>Usually ashtrays and shower mats.<\/p><p><strong>Who influenced your taste in terms of interiors?<\/strong><\/p><p>3 Ladies: Dorothy Draper*, Madeleine Castaing**, and my mother.<\/p><p><strong>How would you describe your style in interiors?<\/strong><\/p><p>An organised chaos of prints, patterns, and colours.<\/p><p><strong>How would you define good taste in interiors?<\/strong><\/p><p>It’s all about the right proportions.<\/p><p><strong>How would you define bad taste in interiors?<\/strong><\/p><p>Interiors with no soul.* <\/p><p><strong>Dorothy Draper<\/strong> (1889 – 1969) was an American interior decorator. Stylistically very anti-minimalist, she would use bright, exuberant colors and large prints that would encompass whole walls. Her influence is now considered definitive of the Hollywood Regency style of interior decoration.** <\/p><p><strong>Madeleine Castaing<\/strong> (1894–1992) was a French antique dealer and interior designer of international renown. She was the friend and the sponsor of many artists, including Soutine, who made her portrait in 1928. Original, even whimsical, she revolutionized the world of decoration, creating the <em>style Castaing<\/em> which is now a reference<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/floristry-flower-home-living-room-960x960.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Your favourite object at home?<\/strong>A large vase by Lena Peters from her Saints and Spirits Collection.<\/p><p><strong>Your favourite Hotel\/Restaurant?<\/strong><\/p><p><a href=\"https:\/\/sirenuse.it\/en\">Le Sirenuse in Positano.<\/a><\/p><p><strong>Your favourite address for decoration?<\/strong><\/p><p>Kempton Park Antique Fair<\/p><p><strong>Do you have a brand you particularly like at the moment?<\/strong><\/p><p><a href=\"https:\/\/www.soane.co.uk\/\">Soane Britain<\/a>.<\/p><p><strong>In what way do you think this pandemic will influence the way people see their homes?<\/strong>The pandemic has kept people at home for such a long time that they have started realising that their houses need more love and attention. So they have been spending more on homeware, crockery and furniture.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "main",
+    "blog-posts"
+  ]
+}
