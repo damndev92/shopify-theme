@@ -66,7 +66,7 @@
         "90ff0fd9-454e-4f22-8038-954f7d6e684b": {
           "type": "navigation_link",
           "settings": {
-            "link_url": "shopify:\/\/blogs\/travel-guide",
+            "link_url": "https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/travel-guide",
             "link_image": "shopify:\/\/shop_images\/Travel_guide.png",
             "link_text": "Travel Guide"
           }
