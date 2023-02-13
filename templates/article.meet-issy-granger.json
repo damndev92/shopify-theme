@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "3e3128be-aa3b-4b97-83b0-bdc160efef18": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/142159349_1055918851588668_7731702312399417948_n.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Do you think lockdown has changed the way people see their homes? <\/strong><\/p><p>Yes definitely. Over the past year, we have spent more time inside our own homes than ever before. As the outside world became an uncertain place, the importance of creating a warm and joyful home became all the more essential. As we have been unable to eat out, evening dinners are a treasured occasion and people are definitely having fun making their table settings more beautiful and creating more of a “dining out” experience at home. <\/p><p><strong>What are your tips for the perfect table setting? <br\/><\/strong><\/p><p>My perfect table setting is one adorned with fresh flowers in the day and candlelight in the evening. <\/p><p><strong>Any wishes for 2021?<\/strong><\/p><p>In life – for us all to enjoy the freedom that existed before this pandemic. In my work – that I continue to design and launch new creations. I have been busy with my sketchbooks over the last few months, and I am excited to see these come to fruition over the course of the year.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "2713bd12-7808-4b14-a57f-ad6a30adaabe",
+    "3e3128be-aa3b-4b97-83b0-bdc160efef18",
     "main",
     "blog-posts"
   ]
