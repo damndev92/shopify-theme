@@ -39,36 +39,17 @@
         "text-over-image-width": "full-width"
       }
     },
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/34_8098d0ac-ac09-4124-8513-40ba7d9a3760.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/36_21c9afe3-109e-44c9-a7ef-d60c86d832b1.png",
-            "link": "shopify:\/\/products\/parentesi-suspension-lamp",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0",
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1"
-      ],
+    "da4f3bce-a546-4f2b-b010-3f4efa52fd35": {
+      "type": "text--rich-text",
       "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
+        "colors": "white",
+        "width": "medium",
+        "subheading": "Stockholm, Sweden",
+        "page_title": "",
+        "title": "Story Hotel",
+        "text": "<p><br\/>The Story Hotel Stockholm is an urban haven where stunningly coiffed Stockholmers and trendy travellers converge normally over cocktails inside the bustling lobby bar which has been inspired by the interiors of Parisian salons and dark, moody jazz bars.<\/p>",
+        "button_link": "",
+        "button_label": ""
       }
     },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
@@ -404,7 +385,7 @@
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "8fbd4d37-f5a9-4f6d-ac8a-aaa42a79403d",
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
+    "da4f3bce-a546-4f2b-b010-3f4efa52fd35",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "3c3ad3d0-ccd6-4a3d-97ee-b9cff65bfe21",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
