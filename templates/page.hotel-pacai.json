@@ -209,12 +209,20 @@
             "question": "Your favourite object in the hotel?",
             "text": "<p>Athena – a sculpture of 17th century greets you on the second floor. The sculpture was found during renovation without a head, the head was cut and placed next to the feet. Reborn Athena is as important as a reborn mansion.<\/p>"
           }
+        },
+        "a049c1b6-1c64-4181-b314-be15481ed5df": {
+          "type": "tab_content",
+          "settings": {
+            "question": "something most people don't know about vilnius?",
+            "text": "<p>Vilnius is the only capital in Europe you can fly above with a hot air balloon. Views of the medieval old town from above are breathtaking.<\/p>"
+          }
         }
       },
       "block_order": [
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2",
+        "a049c1b6-1c64-4181-b314-be15481ed5df"
       ],
       "settings": {
         "background-color": "#e3e3e3",
