@@ -203,7 +203,7 @@
         "7a313341-6907-41f3-9690-276a9793e8ee": {
           "type": "blog",
           "settings": {
-            "blog": "news",
+            "blog": "flaneur-magazine",
             "show_view_all": true
           }
         }
