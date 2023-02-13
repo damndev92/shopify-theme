@@ -2,7 +2,7 @@
     <div
         class="product-recommendations"
         data-product-id="{{ product.id }}"
-        data-limit="4"
+        data-limit="{{ section.settings.products-per-section }}"
         data-recommendations-url="{{ routes.product_recommendations_url }}"
         data-wetheme-section-type="template--product--recommandations"
         data-wetheme-section-id="{{ section.id }}"
@@ -86,6 +86,15 @@
                 "fr": "Vous aimerez peut-être aussi",
                 "pt-PT": "Também poderá gostar de"
             }
+        },
+        {
+        "type": "range",
+        "id": "products-per-section",
+        "min": 4,
+        "max": 8,
+        "step": 1,
+        "label": "Number of products",
+        "default": 4
         }
     ]
 }
