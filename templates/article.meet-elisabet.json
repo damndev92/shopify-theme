@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/140013478_234250791568328_875952916437626256_n-819x1024.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>How did you come up with The Platera?<\/strong><br\/>We started the platera during the lockdown, when sitting at the table was the best plan of the day. We wanted to find a way to make that moment more enjoyable, so our passion for everything handmade and my free time led me to try new things. The first thing I made was a salad bowl, and seeing the success among our friends, we decided to try new things.<\/p><p><br\/><strong>Can you tell us about your technique?<\/strong><\/p><p>I just take a brush, mix paint pigments with different oils, and let my imagination flow. All our pieces are hand painted one by one. It’s a very slow process but the final result is worth it! There are not two identical drawings and all the small differences make each piece unique.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
