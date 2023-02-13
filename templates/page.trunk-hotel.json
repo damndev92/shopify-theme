@@ -52,6 +52,47 @@
         "button_label": ""
       }
     },
+    "12b7373c-3fa3-4f63-b532-f6a3e58197c3": {
+      "type": "image--logo-list",
+      "blocks": {
+        "template--17824617726267__12b7373c-3fa3-4f63-b532-f6a3e58197c3-1676291575c0dd75a6-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824617726267__12b7373c-3fa3-4f63-b532-f6a3e58197c3-1676291575c0dd75a6-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824617726267__12b7373c-3fa3-4f63-b532-f6a3e58197c3-1676291575c0dd75a6-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824617726267__12b7373c-3fa3-4f63-b532-f6a3e58197c3-1676291575c0dd75a6-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17824617726267__12b7373c-3fa3-4f63-b532-f6a3e58197c3-1676291575c0dd75a6-0",
+        "template--17824617726267__12b7373c-3fa3-4f63-b532-f6a3e58197c3-1676291575c0dd75a6-1",
+        "template--17824617726267__12b7373c-3fa3-4f63-b532-f6a3e58197c3-1676291575c0dd75a6-2",
+        "template--17824617726267__12b7373c-3fa3-4f63-b532-f6a3e58197c3-1676291575c0dd75a6-3"
+      ],
+      "settings": {
+        "colors": "white",
+        "width": 150,
+        "subheading": "",
+        "title": "As seen in"
+      }
+    },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
       "type": "product--shop-the-look",
       "blocks": {
@@ -336,6 +377,7 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "058b283b-d682-4fa0-be83-004110cdf5cd",
     "ae557e2a-c35e-4b18-b42a-dccdacbe4282",
+    "12b7373c-3fa3-4f63-b532-f6a3e58197c3",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
