@@ -74,6 +74,19 @@
         "button_label": ""
       }
     },
+    "1bbe0a87-7a9a-4dc1-9f62-468ab25df588": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "Debonnaire’s Selection",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +120,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "f680e7af-195f-4ec1-921b-a4250f79a32e",
+    "1bbe0a87-7a9a-4dc1-9f62-468ab25df588",
     "main",
     "blog-posts"
   ]
