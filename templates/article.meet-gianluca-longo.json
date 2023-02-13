@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
+        "image": "shopify:\/\/shop_images\/floristry-flower-home-living-room-960x960.jpg",
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Your favourite object at home?<\/strong>A large vase by Lena Peters from her Saints and Spirits Collection.<\/p><p><strong>Your favourite Hotel\/Restaurant?<\/strong><\/p><p><a href=\"https:\/\/sirenuse.it\/en\">Le Sirenuse in Positano.<\/a><\/p><p><strong>Your favourite address for decoration?<\/strong><\/p><p>Kempton Park Antique Fair<\/p><p><strong>Do you have a brand you particularly like at the moment?<\/strong><\/p><p><a href=\"https:\/\/www.soane.co.uk\/\">Soane Britain<\/a>.<\/p><p><strong>In what way do you think this pandemic will influence the way people see their homes?<\/strong>The pandemic has kept people at home for such a long time that they have started realising that their houses need more love and attention. So they have been spending more on homeware, crockery and furniture.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
