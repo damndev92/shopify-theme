@@ -162,6 +162,7 @@
       "settings": {
         "btn": "Shop all products",
         "url": "meet.google.com\/xyw-phxo-yry",
+        "link": "",
         "bg_color": "#e28065",
         "padding_top": 25,
         "padding_bottom": 25
@@ -192,7 +193,7 @@
         "subheading": "Meet the host",
         "location": false,
         "title": "“We feel that luxury and travel are being redefined. People want to give back, to feel changed, fulfilled, and inspired\"",
-        "text_block": "<p>- Agapi Sbokou - <\/p>",
+        "text_block": "",
         "page_description": false,
         "button_link": "shopify:\/\/blogs\/news\/meet-agapi-and-costantza-sbokou-owners-of-cretan-malia-park-crete",
         "hotel_page_url": false,
@@ -246,7 +247,7 @@
         "e5cf1288-40de-4f18-bb64-5e3e7f9e59fe"
       ],
       "settings": {
-        "background-color": "#F3F3F3",
+        "background-color": "#f3f3f3",
         "text-color": "#000000",
         "title": "Tips from the hosts",
         "faq_icon": "caret"
@@ -312,6 +313,7 @@
       "settings": {
         "btn": "Check Availability",
         "url": "https:\/\/www.designhotels.com\/hotels\/greece\/crete\/cretan-malia-park\/?&Rooms=1&Adult=2&Child=0",
+        "link": "",
         "bg_color": "#e28065",
         "padding_top": 5,
         "padding_bottom": 25
@@ -349,6 +351,7 @@
       "settings": {
         "btn": "Shop the Cretan Malia Collection",
         "url": "",
+        "link": "",
         "bg_color": "#e28065",
         "padding_top": 25,
         "padding_bottom": 25
