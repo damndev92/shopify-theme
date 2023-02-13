@@ -97,64 +97,40 @@
         "title": "Facts"
       }
     },
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
-      "type": "product--shop-the-look",
+    "023e414f-597d-402a-91e7-4defe7a0506d": {
+      "type": "maison--shop-the-look",
       "blocks": {
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
+        "template--17824602128699__023e414f-597d-402a-91e7-4defe7a0506d-16762898251e12b7a8-0": {
           "type": "product",
           "settings": {
+            "image": "shopify:\/\/shop_images\/129479774_188371789604482_3905663483304084715_n.jpg",
+            "image__position": "image--left",
             "product": "alfonso-vase",
-            "top": 63,
-            "left": 51,
-            "disable_spot": true
+            "product-2": "6x6",
+            "product-3": "alfonso-scented-candle",
+            "product-4": "anthologist-pegasus-lover-bookmarks"
           }
         },
-        "61a17092-0b88-43c9-888c-ee6b50651501": {
+        "4aa25084-4cc3-4827-99e5-62e5737bbf1d": {
           "type": "product",
           "settings": {
-            "product": "arc-de-stool-53",
-            "top": 0,
-            "left": 0,
-            "disable_spot": true
-          }
-        },
-        "2d0cd767-4992-4798-8a74-406d517d073e": {
-          "type": "product",
-          "settings": {
-            "product": "backgammon-tea-towel-1",
-            "top": 33,
-            "left": 0,
-            "disable_spot": true
-          }
-        },
-        "5b9e5021-b2c1-4636-94f9-58b2164fc260": {
-          "type": "product",
-          "settings": {
-            "product": "bolero-floor-lamp",
-            "top": 0,
-            "left": 0,
-            "disable_spot": true
+            "image": "shopify:\/\/shop_images\/theplatera_125916446_192105005780227_1183905658310094338_n-819x1024.jpg",
+            "image__position": "image--left",
+            "product": "1784-collection-wooden-coffee-table",
+            "product-2": "",
+            "product-3": "",
+            "product-4": ""
           }
         }
       },
       "block_order": [
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
-        "61a17092-0b88-43c9-888c-ee6b50651501",
-        "2d0cd767-4992-4798-8a74-406d517d073e",
-        "5b9e5021-b2c1-4636-94f9-58b2164fc260"
+        "template--17824602128699__023e414f-597d-402a-91e7-4defe7a0506d-16762898251e12b7a8-0",
+        "4aa25084-4cc3-4827-99e5-62e5737bbf1d"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Shop",
-        "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/Cretan_Malia_4.png",
-        "image__position": "image--left",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": "Shop the look"
+        "subheading": "Subheading",
+        "title": "Shop the look"
       }
     },
     "dc673228-1f95-4ffc-887d-83a8a45785a5": {
@@ -365,7 +341,7 @@
     "1dc85c19-cbb0-4cf1-bc4a-3c743a1c5bd3",
     "e25422b6-ab6f-4892-939e-0f301e896c99",
     "59ecc3a2-e12e-4f43-a554-f9420936706d",
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
+    "023e414f-597d-402a-91e7-4defe7a0506d",
     "dc673228-1f95-4ffc-887d-83a8a45785a5",
     "16287b18-538e-4971-9b07-365e6c3d0c5e",
     "f752c25e-ff65-466a-ba61-33848f1147fc",

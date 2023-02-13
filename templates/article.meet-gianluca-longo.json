@@ -23,34 +23,21 @@
         "button_label": ""
       }
     },
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "light",
-        "width": "small",
-        "subheading": "",
-        "page_title": "",
-        "title": "Date Night",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/1-1.png",
-        "layout": "left",
+        "image": "shopify:\/\/shop_images\/Gianluca-Longo-interview_maison_flaneur_british_vogue-731x1024.png",
+        "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "1. Kanishka",
-        "text_block": "<p>17-19 Maddox Street, W1S 2QH<\/p><p><br\/><strong>Head chef:<\/strong> Atul Kochhar<br\/><strong>Order the:<\/strong> Chicken tikka pie<\/p><p><\/p><p>Michelin Star chef Atul Kochhar’s contemporary Indian establishment not only offers tastebud-tantalising flavours, but this year sees a special five-course Valentine’s Day tasting menu designed especially for a night of romance. Expect traditional street food and mishti alongside aphrodisiacs like asparagus and figs. See the special V-day Menu <a href=\"https:\/\/kanishkarestaurant.co.uk\/wp-content\/uploads\/2023\/01\/Kanishka-Valentines-Menu-A5-2023.pdf\" target=\"_blank\">here<\/a>.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Have you ever wanted to bring back an object from a hotel or a restaurant?<\/strong><\/p><p>Yes, all the time.<\/p><p><strong>And if so which one?<\/strong><\/p><p>Usually ashtrays and shower mats.<\/p><p><strong>Who influenced your taste in terms of interiors?<\/strong><\/p><p>3 Ladies: Dorothy Draper*, Madeleine Castaing**, and my mother.<\/p><p><strong>How would you describe your style in interiors?<\/strong><\/p><p>An organised chaos of prints, patterns, and colours.<\/p><p><strong>How would you define good taste in interiors?<\/strong><\/p><p>It’s all about the right proportions.<\/p><p><strong>How would you define bad taste in interiors?<\/strong><\/p><p>Interiors with no soul.* <\/p><p><strong>Dorothy Draper<\/strong> (1889 – 1969) was an American interior decorator. Stylistically very anti-minimalist, she would use bright, exuberant colors and large prints that would encompass whole walls. Her influence is now considered definitive of the Hollywood Regency style of interior decoration.** <\/p><p><strong>Madeleine Castaing<\/strong> (1894–1992) was a French antique dealer and interior designer of international renown. She was the friend and the sponsor of many artists, including Soutine, who made her portrait in 1928. Original, even whimsical, she revolutionized the world of decoration, creating the <em>style Castaing<\/em> which is now a reference<\/p>",
         "page_description": false,
-        "button_link": "shopify:\/\/products\/beefbar-main-plate-piece-of-meat-emoji",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
@@ -100,7 +87,6 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
