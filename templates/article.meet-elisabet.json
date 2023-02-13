@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "d8a082e7-2cfc-4c0f-9898-9ba1a94b0b07": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/2-1024x1024_bad86b11-bd67-4e03-8081-187cf2896f67.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Handpainted Mushroom Plate Bundle",
+        "text_block": "<p>£179<\/p><p><strong>*Set of 6*<\/strong> Beautiful hand-painted dinner plates. Each one made uniquely, designed and hand-painted in Barcelona. Uniqueness in every plate!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "1daf3bf3-12da-44ec-88f1-be6a2525f687",
     "9a97d3c4-4e06-450f-8c20-c6203ed0e2e8",
+    "d8a082e7-2cfc-4c0f-9898-9ba1a94b0b07",
     "main",
     "blog-posts"
   ]
