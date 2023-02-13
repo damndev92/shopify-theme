@@ -159,6 +159,23 @@
         "button_label": ""
       }
     },
+    "c3232f3f-b3ee-4a34-bcc1-71fa2d2c33ce": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Blossom-Placemat-5-1024x683.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What is your best advice for the perfect table setting?<\/strong><\/p><p>For us, a successful table setting leads to a fun dinner with lots of chatter and laughter, so we like a table to be beautiful but not intimidating and prefer a setting that is not too perfect.  Layering textures, not being afraid of mixing colours, incorporating vintage pieces, and having fun with flowers. For the evening lots of candles, we particularly love the light given by alabaster candleholders because it’s warm and flattering and reminds us of how the ancient Egyptians must have dined!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -197,6 +214,7 @@
     "80a0b090-d419-4a77-909c-e00ce6a4b0e8",
     "415a1c06-02d9-4d46-b2db-4894d268b065",
     "8ec3adeb-6ca7-4f6e-8b60-dd253b86a61d",
+    "c3232f3f-b3ee-4a34-bcc1-71fa2d2c33ce",
     "main",
     "blog-posts"
   ]
