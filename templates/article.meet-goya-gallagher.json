@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "327a7dcd-2855-430b-9663-b51a87acb688": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/IMG_6638-1-scaled-1-768x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Could you share one particularly touching story from your workshop?<\/strong><\/p><p>A particularly touching story to share is the story of Rose John, a 46-year-old embroiderer from South Sudan. Rose’s husband stayed in Sudan when she fled to Egypt four years ago with their seven children to escape the civil war. Now, as a single mother in Cairo, Rose’s children rely on her being at home. Rose joined the Malaika training centre (TOH) in 2018 and studied embroidery. With needle, thread and yarn, she has acquired the skills to work from home while supporting her family as a mother. Rose says the training centre gave her the means and self-respect to make a life for herself and her family in Egypt. Even though she now embroiders from home, Rose often returns to the centre to spend time with the ladies still working there. The laughter, conversation and family atmosphere bring her back, she says. Rose says she is now proud to be passing on her embroidery skills to her little daughter who is already showing considerable talent and promise at needlework.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "b07a08e7-e63d-41be-a0ce-99e20f8567cd",
+    "327a7dcd-2855-430b-9663-b51a87acb688",
     "main",
     "blog-posts"
   ]
