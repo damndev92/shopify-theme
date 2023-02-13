@@ -1,0 +1,125 @@
+{
+  "sections": {
+    "image-with-text-block": {
+      "type": "image--image-with-text-block",
+      "settings": {
+        "desktop_image": "shopify:\/\/shop_images\/pigalle_hp.png",
+        "parallax": true,
+        "text-color": "#656565",
+        "background-color": "#f3f3f3",
+        "horizontal-alignment": "center",
+        "subheading": "",
+        "title": "Flâneur Magazine",
+        "text": "Here's your chance to make a great first impression",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "3d470d2e-dc91-4f3c-876e-8deacf3dc5b7": {
+      "type": "template--blog-header",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "86c13f5c-2fc8-449d-8260-f997667eac00": {
+      "type": "visual-navigation-banner",
+      "blocks": {
+        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-0": {
+          "type": "navigation_link",
+          "settings": {
+            "link_url": "shopify:\/\/blogs\/design-inspo",
+            "link_image": "shopify:\/\/shop_images\/Design_Inspo.png",
+            "link_text": "Design Inspo"
+          }
+        },
+        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-1": {
+          "type": "navigation_link",
+          "settings": {
+            "link_url": "shopify:\/\/blogs\/destinations",
+            "link_image": "shopify:\/\/shop_images\/Destinations.png",
+            "link_text": "Destinations"
+          }
+        },
+        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-2": {
+          "type": "navigation_link",
+          "settings": {
+            "link_url": "shopify:\/\/blogs\/edits",
+            "link_image": "shopify:\/\/shop_images\/Edits.png",
+            "link_text": "Edits"
+          }
+        },
+        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-3": {
+          "type": "navigation_link",
+          "settings": {
+            "link_url": "shopify:\/\/blogs\/how-to",
+            "link_image": "shopify:\/\/shop_images\/How_to.png",
+            "link_text": "How to"
+          }
+        },
+        "3a996d82-d511-4e24-9c19-363a59ee2c03": {
+          "type": "navigation_link",
+          "settings": {
+            "link_url": "shopify:\/\/blogs\/the-flaneurs",
+            "link_image": "shopify:\/\/shop_images\/The_Flaneurs.png",
+            "link_text": "The Flâneurs"
+          }
+        },
+        "90ff0fd9-454e-4f22-8038-954f7d6e684b": {
+          "type": "navigation_link",
+          "settings": {
+            "link_url": "shopify:\/\/blogs\/travel-guide",
+            "link_image": "shopify:\/\/shop_images\/Travel_guide.png",
+            "link_text": "Travel Guide"
+          }
+        }
+      },
+      "block_order": [
+        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-0",
+        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-1",
+        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-2",
+        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-3",
+        "3a996d82-d511-4e24-9c19-363a59ee2c03",
+        "90ff0fd9-454e-4f22-8038-954f7d6e684b"
+      ],
+      "settings": {
+        "title": "",
+        "image_style": "circle"
+      }
+    },
+    "main": {
+      "type": "template--blog",
+      "settings": {
+        "blog_layout": "grid",
+        "blog-posts-per-page": 12,
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "175d16b8-8f1f-4a9a-8422-7302b25d0f4b": {
+      "type": "blog--blog-posts",
+      "disabled": true,
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "From the blog",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "image-with-text-block",
+    "3d470d2e-dc91-4f3c-876e-8deacf3dc5b7",
+    "86c13f5c-2fc8-449d-8260-f997667eac00",
+    "main",
+    "175d16b8-8f1f-4a9a-8422-7302b25d0f4b"
+  ]
+}
