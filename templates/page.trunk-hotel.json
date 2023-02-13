@@ -52,36 +52,54 @@
         "button_label": ""
       }
     },
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
-      "type": "image--gallery",
+    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
+      "type": "product--shop-the-look",
       "blocks": {
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
-          "type": "image",
+        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
+          "type": "product",
           "settings": {
-            "image": "shopify:\/\/shop_images\/38_b0416b61-73cc-4648-86b3-c362db00a783.png",
-            "link": "",
-            "title": "",
-            "description": ""
+            "product": "beefbar-main-plate-knife-emoji",
+            "top": 63,
+            "left": 51,
+            "disable_spot": false
           }
         },
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
-          "type": "image",
+        "61a17092-0b88-43c9-888c-ee6b50651501": {
+          "type": "product",
           "settings": {
-            "image": "shopify:\/\/shop_images\/37_12e60eea-4a08-45dd-910d-32337209e63a.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
-            "title": "",
-            "description": ""
+            "product": "design-clock-solari-cifra-3-black",
+            "top": 0,
+            "left": 0,
+            "disable_spot": false
+          }
+        },
+        "2d0cd767-4992-4798-8a74-406d517d073e": {
+          "type": "product",
+          "settings": {
+            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
+            "top": 33,
+            "left": 0,
+            "disable_spot": false
           }
         }
       },
       "block_order": [
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1",
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0"
+        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
+        "61a17092-0b88-43c9-888c-ee6b50651501",
+        "2d0cd767-4992-4798-8a74-406d517d073e"
       ],
       "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
+        "colors": "white",
+        "subheading": "TRUNK HOTEL",
+        "title": "Shop the look",
+        "image": "shopify:\/\/shop_images\/Shop_the_Look-Hotels_1e981330-24bf-4871-a73b-53f6b8b7b152.png",
+        "image__position": "image--left",
+        "hotspot__color": "#ffffff",
+        "stl__heading": "Heading",
+        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
+        "description__position": "hidden",
+        "link": "",
+        "button__text": "Shop the look"
       }
     },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
@@ -207,106 +225,6 @@
         "title": ""
       }
     },
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
-      "type": "product--shop-the-look",
-      "blocks": {
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
-          "type": "product",
-          "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        },
-        "61a17092-0b88-43c9-888c-ee6b50651501": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
-          }
-        },
-        "2d0cd767-4992-4798-8a74-406d517d073e": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
-        "61a17092-0b88-43c9-888c-ee6b50651501",
-        "2d0cd767-4992-4798-8a74-406d517d073e"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "TRUNK HOTEL",
-        "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/Shop_the_Look-Hotels_1e981330-24bf-4871-a73b-53f6b8b7b152.png",
-        "image__position": "image--left",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": "Shop the look"
-      }
-    },
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
-      "type": "product--shop-the-look",
-      "blocks": {
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e": {
-          "type": "product",
-          "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        },
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
-          }
-        },
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
-          }
-        }
-      },
-      "block_order": [
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e",
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8",
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "",
-        "image": "shopify:\/\/shop_images\/17_48a7c87d-b84c-44e4-8a34-ea1ac0e677b1.png",
-        "image__position": "image--right",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": ""
-      }
-    },
     "d78464e1-3e03-41e8-a618-3bb987c92951": {
       "type": "image--image",
       "settings": {
@@ -418,13 +336,11 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "058b283b-d682-4fa0-be83-004110cdf5cd",
     "ae557e2a-c35e-4b18-b42a-dccdacbe4282",
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
+    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "0456563e-ab53-463c-9173-4d83f7c2495f",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0",
     "d78464e1-3e03-41e8-a618-3bb987c92951",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
