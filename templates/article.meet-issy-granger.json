@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "2713bd12-7808-4b14-a57f-ad6a30adaabe": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/BlueOmbo_1080x-1024x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What do you<\/strong> <strong>love most about candlesticks?<\/strong><\/p><p>Candlesticks are the table’s icing on the cake! I love how the addition of candlesticks instantly transforms a table into a special place for entertaining and celebrating. <\/p><p><strong>Do you have a design that you are particularly fond of? <\/strong><\/p><p>It is hard to narrow it down to one piece! I really love the process from conception to realisation of every design that I have done. Once I have sketched out my ideas, I work with the glassblowers to bring them to life. There really is nothing more exciting than when I get to hold the finished product for the first time and so each one is very special to me. <\/p><p><strong>What would be your dream object to design? <\/strong><\/p><p>I don’t know if I have one object in particular, there are so many pieces that I would like to design! When it comes to new ideas the sky is the limit! Perhaps returning to my beginnings with furniture it would be fun to design a collection of Issy Granger chairs. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "2713bd12-7808-4b14-a57f-ad6a30adaabe",
     "main",
     "blog-posts"
   ]
