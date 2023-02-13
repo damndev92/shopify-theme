@@ -53,8 +53,10 @@
                       {% assign grid_item_width = 'three_columns'  %}
                     {% elsif mega_column_width == 4 %}
                       {% assign grid_item_width = 'four_columns'  %}
-                    {% else %}
+                    {% elsif mega_column_width == 6 %}
                       {% assign grid_item_width = 'five_columns'  %}
+                    {% else %}
+                      {% assign grid_item_width = 'six_columns'  %}
                     {% endif %}
                     <li class="dropdown-submenu {{ grid_item_width }}">
                       <div class="inner">
