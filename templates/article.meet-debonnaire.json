@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "f680e7af-195f-4ec1-921b-a4250f79a32e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/BenedicteDrummondPhotos10_b-684x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p> <strong>Your favourite object at home?<\/strong><br\/>An iconic 1960’s black and white photograph of a couple dancing by Malick Sidibe that was given to me<\/p><p><strong>Your three tips for the perfect Christmas present?<\/strong><br\/>Personalisation as that extra bit of thought has gone into it<br\/>Something luxurious that they would never buy for themselves<br\/>Something fun and maybe a bit naughty for example the Brazilian swimming trunks from the Octopussy collection<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "f680e7af-195f-4ec1-921b-a4250f79a32e",
     "main",
     "blog-posts"
   ]
