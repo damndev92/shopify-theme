@@ -93,6 +93,56 @@
         "title": "Facts"
       }
     },
+    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
+      "type": "product--shop-the-look",
+      "blocks": {
+        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
+          "type": "product",
+          "settings": {
+            "product": "beefbar-main-plate-knife-emoji",
+            "top": 63,
+            "left": 51,
+            "disable_spot": false
+          }
+        },
+        "61a17092-0b88-43c9-888c-ee6b50651501": {
+          "type": "product",
+          "settings": {
+            "product": "design-clock-solari-cifra-3-black",
+            "top": 0,
+            "left": 0,
+            "disable_spot": false
+          }
+        },
+        "2d0cd767-4992-4798-8a74-406d517d073e": {
+          "type": "product",
+          "settings": {
+            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
+            "top": 33,
+            "left": 0,
+            "disable_spot": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
+        "61a17092-0b88-43c9-888c-ee6b50651501",
+        "2d0cd767-4992-4798-8a74-406d517d073e"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "shop",
+        "title": "Shop the look",
+        "image": "shopify:\/\/shop_images\/52.png",
+        "image__position": "image--left",
+        "hotspot__color": "#ffffff",
+        "stl__heading": "Heading",
+        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
+        "description__position": "hidden",
+        "link": "",
+        "button__text": "Shop the look"
+      }
+    },
     "a05db212-652f-4271-8069-7ace459b4c2e": {
       "type": "text--image-with-text",
       "settings": {
@@ -212,56 +262,6 @@
         "colors": "light",
         "subheading": "",
         "title": ""
-      }
-    },
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
-      "type": "product--shop-the-look",
-      "blocks": {
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
-          "type": "product",
-          "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        },
-        "61a17092-0b88-43c9-888c-ee6b50651501": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
-          }
-        },
-        "2d0cd767-4992-4798-8a74-406d517d073e": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
-        "61a17092-0b88-43c9-888c-ee6b50651501",
-        "2d0cd767-4992-4798-8a74-406d517d073e"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "tribe",
-        "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/52.png",
-        "image__position": "image--left",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": "Shop the look"
       }
     },
     "9299a3ef-12a1-48f6-abe6-a54f93478d0b": {
@@ -398,11 +398,11 @@
     "84d38e23-4d01-4e43-9b45-77682a5c89f5",
     "abb3abe2-b7c0-4a2a-9311-7466a6b23728",
     "ddd0bffa-458a-45f9-8004-7d856470b57f",
+    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "a05db212-652f-4271-8069-7ace459b4c2e",
     "6662f3b4-71a8-41be-b231-b0233686c9d0",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
