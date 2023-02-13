@@ -34,6 +34,12 @@
                 </div>
                 {% endif %}
 
+                {% if section.settings.mobile_image %}
+                    <div class="logo-bar-mobile">
+                        {% render 'responsive-image' with section.settings.mobile_image, alt: section.settings.mobile_image.alt, class: 'logo-bar-mobile__image' %}
+                    </div>
+                {% endif %}
+
                 {% if section.blocks.size > 0 %}
                 <div class="logo-bar">
                     {% for block in section.blocks %}
@@ -193,6 +199,11 @@
                 "fr": "Comme on peut le voir dans",
                 "pt-PT": "Conforme visto em"
             }
+        },
+        {
+            "type": "image_picker",
+            "id": "mobile_image",
+            "label": "Mobile image"
         }
     ],
     "blocks": [

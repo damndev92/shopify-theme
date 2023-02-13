@@ -285,3 +285,16 @@ h1, h2, h3, h4, h5, h6 {
     display: none;
   }
 }
+
+/* Featured logos */
+@media screen and (max-width: 767px) {
+    .logo-bar {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .logo-bar-mobile {
+        display: none;
+    }
+}
