@@ -71,6 +71,7 @@
     {% endif %}
 
     {{ 'custom.css' | asset_url | stylesheet_tag }}
+    {{ 'simple-lightbox.css' | asset_url | stylesheet_tag }}
 
     {% if settings.type_base_font contains 'Google' %}
       {%- assign type_body_parts = settings.type_base_font | split: '_' -%}
@@ -190,6 +191,6 @@
     {% render 'structured-data' %}
     <script defer type="module" src="{{ 'theme.min.js' | asset_url }}"></script>
     <script defer nomodule src="{{ 'theme.legacy.min.js' | asset_url }}"></script>
-    {% render 'js-modules' %}
+    <script src="{{ 'simple-lightbox.js' | asset_url }}"></script>
   </body>
 </html>

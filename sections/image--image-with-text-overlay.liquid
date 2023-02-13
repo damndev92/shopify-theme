@@ -99,6 +99,14 @@
       		          </a>
                   </div>
     		        {% endif %}
+
+                {% if section.blocks.size > 0 %}
+                    <div>
+                        <div id="{{ section.id }}--gallery-trigger" class="btn btn-secondary">
+                            {{ 'View gallery' }}
+                        </div>
+                    </div>
+                {% endif %}
     		      </div>
     		    </div>
     		  </div>
@@ -106,6 +114,29 @@
     	</div>
     </div>
   </div>
+
+{% if section.blocks.size > 0 %}
+    <div id="{{ section.id }}--gallery-holder" class="gallery--hidden">
+        {% for block in section.blocks %}
+
+            {% if block.settings.gallery_image != blank %}
+                <a class="gallery-image-url" href="{{ block.settings.gallery_image | img_url: '950x' }}">
+                {% render 'responsive-image' with block.settings.gallery_image, alt: block.settings.gallery_image.alt, class: 'gallery-image', default_size: '950x' %}
+                </a>
+            {% endif %}
+
+        {% endfor %}
+    </div>
+
+    <script type="module">
+        let gallery = new SimpleLightbox('#{{ section.id }}--gallery-holder .gallery-image-url');
+
+        document.querySelector('#{{ section.id }}--gallery-trigger').addEventListener('click', function () {
+            gallery.open()
+        })
+    </script>
+
+{% endif %}
 
 {% schema %}
 {
@@ -372,6 +403,19 @@
                 "fr": "Étiquette du bouton",
                 "pt-PT": "Etiqueta do botão"
             }
+        }
+    ],
+    "blocks": [
+        {
+            "type": "image",
+            "name": "Gallery image",
+            "settings": [
+                {
+                "type": "image_picker",
+                "id": "gallery_image",
+                "label": "Image"
+                }
+            ]
         }
     ],
     "presets": [
