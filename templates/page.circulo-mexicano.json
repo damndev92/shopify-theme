@@ -60,6 +60,23 @@
         "title": ""
       }
     },
+    "f752c25e-ff65-466a-ba61-33848f1147fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/006-carlos-couturier-moises-micha-b.jpg",
+        "layout": "left",
+        "subheading": "Meet the hosts",
+        "location": false,
+        "title": "Carlos Couturier & Moisés Micha, Owners Grupo Habita",
+        "text_block": "<p><br\/>Known for creating Mexico’s trendiest boutique properties, the hotel developer Grupo Habita are a pioneer in this space.<\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
       "type": "accordion",
       "blocks": {
@@ -95,92 +112,6 @@
         "text-color": "#000000",
         "title": "Frequently asked questions",
         "faq_icon": "plus_minus"
-      }
-    },
-    "f752c25e-ff65-466a-ba61-33848f1147fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "large",
-        "image": "shopify:\/\/shop_images\/006-carlos-couturier-moises-micha-b.jpg",
-        "layout": "left",
-        "subheading": "Meet the hosts",
-        "location": false,
-        "title": "Carlos Couturier & Moisés Micha, Owners Grupo Habita",
-        "text_block": "<p><br\/>Known for creating Mexico’s trendiest boutique properties, the hotel developer Grupo Habita are a pioneer in this space.<\/p><p><\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
-      }
-    },
-    "b0442bae-57f5-48ad-91da-cc1d473f591c": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "large",
-        "image": "shopify:\/\/shop_images\/interior_designers_Circula.png",
-        "layout": "left",
-        "subheading": "Círculo Mexicano",
-        "location": false,
-        "title": "Meet the Interior Designers",
-        "text_block": "<p>Grupo Habita commissioned the architecture firm Ambrosi Etchegaray to transform this 19th-century townhome in Centro Histórico into a Shaker-inspired boutique hotel.<\/p><p>Assigned as curators of the Mexican Pavilion at the Architecture Venice Biennale 2018, adjunct Professors at GSAPP, Columbia University, and selected by Architectural Record as Design Vanguard 2017 and as Emerging Voices 2015, Ambrosi Etchegaray was founded in Mexico City in 2011.<\/p><p>Housed in the former home of Manuel Álvarez Bravo, one of Mexico’s most celebrated 20th-century photographers, the building pays homage to its former resident, with his black-and-white images lining the exposed brick walls. Though the rooms are more minimalist in style, the ground-floor marketplace, rooftop, and pool provide a bustling atmosphere for both guests and locals.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
-      }
-    },
-    "63680a03-e85a-40a7-9084-4a83db4c7921": {
-      "type": "image--gallery",
-      "blocks": {
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/19.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle",
-            "title": "",
-            "description": ""
-          }
-        },
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/21.png",
-            "link": "shopify:\/\/products\/wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
-            "title": "",
-            "description": ""
-          }
-        },
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/24.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
-            "title": "",
-            "description": ""
-          }
-        },
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092",
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9",
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03",
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62"
-      ],
-      "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
       }
     },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
@@ -271,10 +202,10 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "",
-        "title": "",
+        "subheading": "Shop",
+        "title": "Shop the look",
         "image": "shopify:\/\/shop_images\/27.png",
-        "image__position": "image--right",
+        "image__position": "image--left",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
         "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
@@ -417,10 +348,8 @@
     "66506f27-d47d-47ca-ac78-8d21bc6cab4b",
     "16feb9a7-146a-4bfd-8a5a-0fe5cda75b33",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
-    "b0442bae-57f5-48ad-91da-cc1d473f591c",
-    "63680a03-e85a-40a7-9084-4a83db4c7921",
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
     "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
