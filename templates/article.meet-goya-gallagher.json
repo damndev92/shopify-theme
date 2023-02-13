@@ -189,6 +189,48 @@
         "show_recent_posts": false
       }
     },
+    "e42eaa42-c1a4-4921-814c-d2e0e27ea4ab": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17980250882363__e42eaa42-c1a4-4921-814c-d2e0e27ea4ab-1676292164188146a7-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled-design-35.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Rose Bud Placemat Blossom<\/p><p>£86<\/p>"
+          }
+        },
+        "template--17980250882363__e42eaa42-c1a4-4921-814c-d2e0e27ea4ab-1676292164188146a7-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled-design-38-1024x900.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Ottoman Carnation Placemat Navy Blue<\/p><p>£56<\/p>"
+          }
+        },
+        "template--17980250882363__e42eaa42-c1a4-4921-814c-d2e0e27ea4ab-1676292164188146a7-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled-design-45.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Bees Placemat<\/p><p>£44<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17980250882363__e42eaa42-c1a4-4921-814c-d2e0e27ea4ab-1676292164188146a7-0",
+        "template--17980250882363__e42eaa42-c1a4-4921-814c-d2e0e27ea4ab-1676292164188146a7-1",
+        "template--17980250882363__e42eaa42-c1a4-4921-814c-d2e0e27ea4ab-1676292164188146a7-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -216,6 +258,7 @@
     "8ec3adeb-6ca7-4f6e-8b60-dd253b86a61d",
     "c3232f3f-b3ee-4a34-bcc1-71fa2d2c33ce",
     "main",
+    "e42eaa42-c1a4-4921-814c-d2e0e27ea4ab",
     "blog-posts"
   ]
 }
