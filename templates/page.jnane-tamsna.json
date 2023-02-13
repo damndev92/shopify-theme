@@ -52,6 +52,23 @@
         "button_label": ""
       }
     },
+    "f752c25e-ff65-466a-ba61-33848f1147fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/Interior_Designers-Hotels_1.png",
+        "layout": "left",
+        "subheading": "Meet the host",
+        "location": false,
+        "title": "Meyanne Loum-Martin, Owner",
+        "text_block": "<p><br\/>Luxe meets Moroccan style in Jnane Tamsna, a boutique hotel with 24 rooms and private villas in Marrakech. Designed by renowned Meryanne Loum-Martin, with a serene garden by Gary Martin, there’s a Boho style to the colourful walls, hand-crafted textiles, and tiled furnishings by local artisans. An ethnic retreat in the heart of a vibrant capital city.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
       "type": "accordion",
       "blocks": {
@@ -87,23 +104,6 @@
         "text-color": "#000000",
         "title": "Frequently asked questions",
         "faq_icon": "plus_minus"
-      }
-    },
-    "f752c25e-ff65-466a-ba61-33848f1147fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/Interior_Designers-Hotels_1.png",
-        "layout": "left",
-        "subheading": "Meet the host",
-        "location": false,
-        "title": "Meyanne Loum-Martin, Owner",
-        "text_block": "<p><br\/>Luxe meets Moroccan style in Jnane Tamsna, a boutique hotel with 24 rooms and private villas in Marrakech. Designed by renowned Meryanne Loum-Martin, with a serene garden by Gary Martin, there’s a Boho style to the colourful walls, hand-crafted textiles, and tiled furnishings by local artisans. An ethnic retreat in the heart of a vibrant capital city.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
       }
     },
     "63680a03-e85a-40a7-9084-4a83db4c7921": {
@@ -369,8 +369,8 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "302ff8da-82b7-4a84-bdc7-26a7e514e2be",
     "d35ad0e1-49a0-442f-a911-b2ef5af24e91",
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
