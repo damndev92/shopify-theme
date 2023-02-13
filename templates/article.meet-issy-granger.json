@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "1cb9f25c-479b-4726-b9fb-c2cd6c6974af": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Luxor-Candlestick.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Luxor Glass Candlestick",
+        "text_block": "<p>£27<\/p><p>A beautiful handblown glass candle holder designed by Issy and made by Egyptian artisans in Cairo. Egypt has a rich history of glassblowing dating back well over 3000 years and the artisans today continue the craft that has been passed down the generations. As the light dances off and through these elegant candlesticks, they an eye-catching addition to a mantelpiece or dining table. Borosilicate glass is incredibly light and delicate yet able to withstand amazingly high temperatures.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "2713bd12-7808-4b14-a57f-ad6a30adaabe",
     "3e3128be-aa3b-4b97-83b0-bdc160efef18",
+    "1cb9f25c-479b-4726-b9fb-c2cd6c6974af",
     "main",
     "blog-posts"
   ]
