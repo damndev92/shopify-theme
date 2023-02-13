@@ -52,6 +52,47 @@
         "button_label": ""
       }
     },
+    "a5262afe-3ca2-45ff-8371-f7a34b3bfbf0": {
+      "type": "image--logo-list",
+      "blocks": {
+        "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-0",
+        "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-1",
+        "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-2",
+        "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-3"
+      ],
+      "settings": {
+        "colors": "white",
+        "width": 150,
+        "subheading": "",
+        "title": "As seen in"
+      }
+    },
     "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
       "type": "product--shop-the-look",
       "blocks": {
@@ -100,6 +141,14 @@
         "description__position": "hidden",
         "link": "",
         "button__text": ""
+      }
+    },
+    "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
+      "type": "image--gallery",
+      "settings": {
+        "colors": "light",
+        "subheading": "",
+        "title": ""
       }
     },
     "b3719866-6b76-4281-8172-8fceffd46385": {
@@ -279,7 +328,9 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "66506f27-d47d-47ca-ac78-8d21bc6cab4b",
     "16feb9a7-146a-4bfd-8a5a-0fe5cda75b33",
+    "a5262afe-3ca2-45ff-8371-f7a34b3bfbf0",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
+    "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "b3719866-6b76-4281-8172-8fceffd46385",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
