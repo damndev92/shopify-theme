@@ -142,6 +142,23 @@
         "button_label": ""
       }
     },
+    "8ec3adeb-6ca7-4f6e-8b60-dd253b86a61d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Blossom-Placemat-8-1024x683.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Your favourite address for decoration?<\/strong><\/p><p>This year has been all about shopping online and we are very happy to have discovered Maison Flâneur!<\/p><p><strong>Your favourite address in Egypt for decoration?<\/strong><\/p><p>The Khan el Khalili bazaar is one of our favourite places, for its hidden gems and the personal relationships we have established with many shop owners and artisans over the years. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -179,6 +196,7 @@
     "2d966b83-660e-4e3d-9360-aa8cbfe3046c",
     "80a0b090-d419-4a77-909c-e00ce6a4b0e8",
     "415a1c06-02d9-4d46-b2db-4894d268b065",
+    "8ec3adeb-6ca7-4f6e-8b60-dd253b86a61d",
     "main",
     "blog-posts"
   ]
