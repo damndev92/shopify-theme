@@ -44,12 +44,53 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "London, UK",
+        "subheading": "",
         "page_title": "",
-        "title": "Inhabit",
+        "title": "",
         "text": "<p><br\/>Nestled in a leafy corner of historic Paddington, you’ll find some respite from the city at Inhabit. Staying at Inhabit is a truly restorative experience, from which guests emerge nourished, rested, and inspired. Inhabit is much more than a hotel; it’s a community that will welcome you back, time and time again.<\/p>",
         "button_link": "",
         "button_label": ""
+      }
+    },
+    "ff10149a-4098-48c6-9420-2d9abafa1210": {
+      "type": "image--logo-list",
+      "blocks": {
+        "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-0",
+        "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-1",
+        "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-2",
+        "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-3"
+      ],
+      "settings": {
+        "colors": "white",
+        "width": 150,
+        "subheading": "",
+        "title": "As seen in"
       }
     },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
@@ -265,6 +306,7 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "85f6dbd8-9cb3-4313-ac71-dbacace8f3e9",
     "010e1187-c659-4cbb-a19c-cbb1a3cfabef",
+    "ff10149a-4098-48c6-9420-2d9abafa1210",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
