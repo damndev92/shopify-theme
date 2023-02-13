@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "9a97d3c4-4e06-450f-8c20-c6203ed0e2e8": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/129479774_188371789604482_3905663483304084715_n.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What are your tips for the perfect table setting?<\/strong><br\/>I think the trick is not to think about it too much! I like to combine colors and not look too much if the tablecloth sticks with the napkins or if the dishes stick with the tablecloth. The best is to take it as a game and the fun is the mix. Sometimes the most unexpected is what turns out best!<\/p><p><strong>Fishes, Mushrooms, what’s next? What are the next designs you’d love to do?<\/strong><br\/>Secrets can’t be told, as I want to keep on surprising : )  I think there are endless possibilities to be done, from more realistic drawings to completely abstract designs. But if I have to give a hint, they will not be boring!!<\/p><p><strong>Any wishes for 2021?<\/strong><br\/>To be able to keep doing what we love. We wish to continue adding a touch of fun and color to the tables around the world.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "1daf3bf3-12da-44ec-88f1-be6a2525f687",
+    "9a97d3c4-4e06-450f-8c20-c6203ed0e2e8",
     "main",
     "blog-posts"
   ]
