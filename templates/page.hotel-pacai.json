@@ -277,33 +277,6 @@
         "title": ""
       }
     },
-    "d65530bf-d321-40a6-9274-d539d93227d2": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_93dd7338-bfa1-46e6-a514-a86d4981b849.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
-      }
-    },
-    "6b633d33-85b6-43bb-b397-1a5037f77912": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "accent",
-        "image-width": "large",
-        "image": "shopify:\/\/shop_images\/interior_designers.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "Meet the Interior Designers",
-        "text_block": "<p><br\/>Set in the heart of Vilnius’ Old Town—Yes Design Studio envisaged Hotel PACAI to perfectly echo this quarter’s 17th-century Baroque grandeur, yet augmenting it with a contemporary twist.<\/p>",
-        "page_description": false,
-        "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
-      }
-    },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
       "settings": {
@@ -416,8 +389,6 @@
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
-    "d65530bf-d321-40a6-9274-d539d93227d2",
-    "6b633d33-85b6-43bb-b397-1a5037f77912",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "63680a03-e85a-40a7-9084-4a83db4c7921"
