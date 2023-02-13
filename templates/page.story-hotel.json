@@ -143,6 +143,23 @@
         "button__text": "Shop the look"
       }
     },
+    "3c3ad3d0-ccd6-4a3d-97ee-b9cff65bfe21": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_4.png",
+        "layout": "left",
+        "subheading": "Meet",
+        "location": false,
+        "title": "Staffan Åkerlind, CEO, Story Hotels",
+        "text_block": "<p><br\/>Story Hotel is a new hotel concept located at the heart of Stockholm and celebrates the unique neighborhood in which the property resides. With modern, Scandinavian design that reflects the edgy nature of the city, the hotel offers amenities for both business and leisure travelers.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
       "type": "accordion",
       "blocks": {
@@ -178,23 +195,6 @@
         "text-color": "#000000",
         "title": "Frequently asked questions",
         "faq_icon": "plus_minus"
-      }
-    },
-    "3c3ad3d0-ccd6-4a3d-97ee-b9cff65bfe21": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_4.png",
-        "layout": "left",
-        "subheading": "Meet",
-        "location": false,
-        "title": "Staffan Åkerlind, CEO, Story Hotels",
-        "text_block": "<p><br\/>Story Hotel is a new hotel concept located at the heart of Stockholm and celebrates the unique neighborhood in which the property resides. With modern, Scandinavian design that reflects the edgy nature of the city, the hotel offers amenities for both business and leisure travelers.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
       }
     },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
@@ -429,8 +429,8 @@
     "da4f3bce-a546-4f2b-b010-3f4efa52fd35",
     "fa27e928-71d7-4dc8-b0a9-357789a2e8e1",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "3c3ad3d0-ccd6-4a3d-97ee-b9cff65bfe21",
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
