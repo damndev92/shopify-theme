@@ -55,6 +55,48 @@
         "title": ""
       }
     },
+    "26e53410-aaa3-47d8-a4c3-efc3f7d0c5fc": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17980570009915__26e53410-aaa3-47d8-a4c3-efc3f7d0c5fc-16762938456c274e37-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/navette-ebene.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Navette Ebene Knives, Set of 6<\/p><p>£425<\/p>"
+          }
+        },
+        "template--17980570009915__26e53410-aaa3-47d8-a4c3-efc3f7d0c5fc-16762938456c274e37-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zoza-table.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Zoza Ebene Table Knives, Set of 6<\/p><p>£419<\/p>"
+          }
+        },
+        "template--17980570009915__26e53410-aaa3-47d8-a4c3-efc3f7d0c5fc-16762938456c274e37-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ceccaldi-ZOZA-RAM_S-HORN-4_de7d4287-4ae6-4876-af27-120594034422.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Zoza Ram’s Horn Folding Knife<\/p><p>£125<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17980570009915__26e53410-aaa3-47d8-a4c3-efc3f7d0c5fc-16762938456c274e37-0",
+        "template--17980570009915__26e53410-aaa3-47d8-a4c3-efc3f7d0c5fc-16762938456c274e37-1",
+        "template--17980570009915__26e53410-aaa3-47d8-a4c3-efc3f7d0c5fc-16762938456c274e37-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
@@ -120,6 +162,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "05119ffd-f68a-4f0c-895c-98e4fda10958",
+    "26e53410-aaa3-47d8-a4c3-efc3f7d0c5fc",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
