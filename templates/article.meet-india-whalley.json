@@ -84,6 +84,23 @@
         "button_label": ""
       }
     },
+    "20fa1a1d-0b48-4e1e-99d2-da5f020ecb6c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/edition-94-swirly-candles.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Your favourite Hotel\/Restaurant?<br\/><\/strong>Vila Santa Teresa, in Rio De Janeiro that I mentioned before is hard to beat. The interiors are incredible but the views are unbelievable.<\/p><p><strong>Do you have a brand you particularly like at the moment? <\/strong><br\/>I love all the lighting pieces designed by Beata Heuman and the bedding by Trove by Studio Duggan<\/p><p><strong>In what way do you think this pandemic will influence the way people see their homes?<\/strong><br\/>I think people are seeing their homes as their personal sanctuaries away from everything that is going on. Therefore people are really looking at ways to make their homes a really special place not only for themselves but also to have friends and family round to when they are allowed. We have really noticed how important the art of entertaining has become even when people are just having 4 or 6 people round for an evening they want it to make it memorable.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "2277c011-7dbe-42c6-bb8b-f47f14534283": {
       "type": "image--gallery",
       "blocks": {
@@ -104,23 +121,6 @@
         "colors": "white",
         "subheading": "",
         "title": ""
-      }
-    },
-    "20fa1a1d-0b48-4e1e-99d2-da5f020ecb6c": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/edition-94-swirly-candles.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "",
-        "text_block": "<p><strong>Your favourite Hotel\/Restaurant?<br\/><\/strong>Vila Santa Teresa, in Rio De Janeiro that I mentioned before is hard to beat. The interiors are incredible but the views are unbelievable.<\/p><p><strong>Do you have a brand you particularly like at the moment? <\/strong><br\/>I love all the lighting pieces designed by Beata Heuman and the bedding by Trove by Studio Duggan<\/p><p><strong>In what way do you think this pandemic will influence the way people see their homes?<\/strong><br\/>I think people are seeing their homes as their personal sanctuaries away from everything that is going on. Therefore people are really looking at ways to make their homes a really special place not only for themselves but also to have friends and family round to when they are allowed. We have really noticed how important the art of entertaining has become even when people are just having 4 or 6 people round for an evening they want it to make it memorable.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
       }
     },
     "main": {
@@ -157,8 +157,8 @@
     "e1ecd4c6-2af5-4714-8a1e-e4b5e903fc66",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "12f8dc28-a227-44f3-8421-5193f5a2c8bf",
-    "2277c011-7dbe-42c6-bb8b-f47f14534283",
     "20fa1a1d-0b48-4e1e-99d2-da5f020ecb6c",
+    "2277c011-7dbe-42c6-bb8b-f47f14534283",
     "main",
     "blog-posts"
   ]
