@@ -108,6 +108,23 @@
         "button_label": ""
       }
     },
+    "80a0b090-d419-4a77-909c-e00ce6a4b0e8": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Copy-of-MGK-181-Malaika-SN-078-_-Malak-Kabbani-2021-1024x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Can you tell us about the 2021 designs?<\/strong><\/p><p>There are two main inspirations for this Spring Summer Collections.<strong> The first one is called the Sacred Nile Capsule Collection. <\/strong><\/p><p>For thousands of years, the Nile has been Egypt’s lifeline. The shores along the Nile are incredibly fertile explosions of palm groves leading to dramatic sand dunes. It is in this verdant corridor that villages such as Sohag and Assyut flourished and communities got busy making textiles since ancient times. This collection is inspired by the landscape along the Nile and partly crafted by women from these villages that continue to uphold these textile traditions. The other is <strong>Egyptomania.  <\/strong>The romance of the west with Egypt has endured for millennia – since the days of Julius Caesar and Mark Anthony when they fell under the spell of Egypt’s seductive queen, then im- mortalised countless times. This romance endured throughout the ages, but the 1920s saw an explosion of all things Egyptian, after the discovery of Tutankhamon’s tomb. It was the Roaring 20s, and Egyptian symbolism and aesthetics were everywhere – from fashion and jewellery to furniture and architecture. As we return to the 20s, we introduce our Egyptomania collection, bringing you the spirit of Ancient Egypt’s mysticism and romance, and some of the liveliness of the roaring 20s too.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -143,6 +160,7 @@
     "b07a08e7-e63d-41be-a0ce-99e20f8567cd",
     "327a7dcd-2855-430b-9663-b51a87acb688",
     "2d966b83-660e-4e3d-9360-aa8cbfe3046c",
+    "80a0b090-d419-4a77-909c-e00ce6a4b0e8",
     "main",
     "blog-posts"
   ]
