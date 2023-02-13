@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "2d966b83-660e-4e3d-9360-aa8cbfe3046c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/MGK-181-Malaika-Ardi-066-_-Malak-Kabbani-2021-copy-1024x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What does embroidery mean to you? <\/strong><\/p><p>Embroidery is storytelling, a medium that has been used for thousands of years to record important information, thread creativity and define cultural identity. For us the beauty of hand embroidery is that no two pieces will ever be identical and that the imperfections are part of the charm. At Threads of Hope, the embroidery school founded by Malaika, embroidery is also community building giving our students an opportunity to share their stories while sitting around an embroidery table. <\/p><p><strong>Where do you find your inspiration?<\/strong><\/p><p>The rich and layered heritage of Egypt is an infinite source of inspiration; from the sumptuous colours and pictorial traditions of Ancient Egypt and charming Coptic tapestries to the intricate patterns of the Fatimid and Mamlouk era, Egypt is a wealth of design resources.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "b07a08e7-e63d-41be-a0ce-99e20f8567cd",
     "327a7dcd-2855-430b-9663-b51a87acb688",
+    "2d966b83-660e-4e3d-9360-aa8cbfe3046c",
     "main",
     "blog-posts"
   ]
