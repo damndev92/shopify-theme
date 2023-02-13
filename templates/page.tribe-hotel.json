@@ -29,6 +29,29 @@
         "button_label": ""
       }
     },
+    "84d38e23-4d01-4e43-9b45-77682a5c89f5": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tribe_header.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "abb3abe2-b7c0-4a2a-9311-7466a6b23728": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "Nairobi, Kenya",
+        "page_title": "",
+        "title": "Tribe Hotel",
+        "text": "<p><br\/>Tribe Hotel, Nairobi’s coolest luxury boutique hotel, encapsulates the city’s African spirit and celebrates its creativity. Warm, earthy shades and traditional craft blends with contemporary design, creating a sense of understated luxury. We are incredibly proud to showcase Tribe hotel’s unique decor.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
       "type": "image--gallery",
       "blocks": {
@@ -363,6 +386,8 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
+    "84d38e23-4d01-4e43-9b45-77682a5c89f5",
+    "abb3abe2-b7c0-4a2a-9311-7466a6b23728",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "a05db212-652f-4271-8069-7ace459b4c2e",
     "6662f3b4-71a8-41be-b231-b0233686c9d0",
