@@ -55,16 +55,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/Edition-94-6-882x1024.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Have you ever wanted to bring back an object from a hotel or a restaurant? And if so which one?<\/strong><br\/>Probably every time I stay at a hotel – I have wanted to bring a piece of it home! I absolutely love Boutique Hotels and always choose to stay in small Boutiques if possible whenever I travel. We were in Rio de Janeiro a few years ago and stayed at Vila Santa Teresa! The design throughout the hotel was SO beautiful and I would have loved the teleport it all home! I especially loved their tableware – they had incredible bamboo napkin rings in their tiny dining room surrounded by gorgeous vintage and antique pieces.<\/p><p><strong>Who influenced your taste in terms of interiors? <\/strong><br\/>I probably didn’t appreciate it growing up, but my Grandma is a huge antique and vintage collector and her home resembles a mini antique centre! Every time I visit her home – I notice how much I have been influenced by the pieces she has collected over the years in terms of my taste and when buying for The Edition 94.<\/p><p><strong>How would you describe your style in interiors? <\/strong><br\/>A mixture of old and new! I really love to incorporate as many antiques and vintage pieces into my home as I can- I love that they each have a story and bring that with them into our home and the same can be said for The Edition 94.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
