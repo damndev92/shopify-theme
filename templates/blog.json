@@ -95,8 +95,8 @@
         "blog-sidebar-link": "",
         "blog_sidebar_title": "",
         "blog_sidebar_desc": "",
-        "show_blog_tags": true,
-        "show_recent_posts": true
+        "show_blog_tags": false,
+        "show_recent_posts": false
       }
     },
     "175d16b8-8f1f-4a9a-8422-7302b25d0f4b": {
