@@ -52,38 +52,6 @@
         "button_label": ""
       }
     },
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/53.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/58.png",
-            "link": "shopify:\/\/products\/parentesi-suspension-lamp",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0",
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1"
-      ],
-      "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
-      }
-    },
     "a05db212-652f-4271-8069-7ace459b4c2e": {
       "type": "text--image-with-text",
       "settings": {
@@ -388,7 +356,6 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "84d38e23-4d01-4e43-9b45-77682a5c89f5",
     "abb3abe2-b7c0-4a2a-9311-7466a6b23728",
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "a05db212-652f-4271-8069-7ace459b4c2e",
     "6662f3b4-71a8-41be-b231-b0233686c9d0",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
