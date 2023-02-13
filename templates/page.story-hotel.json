@@ -197,97 +197,26 @@
             "question": "Place your question or heading here",
             "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
+        },
+        "eee982bf-e186-4179-a367-76549ea48a1e": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
         }
       },
       "block_order": [
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2",
+        "eee982bf-e186-4179-a367-76549ea48a1e"
       ],
       "settings": {
         "background-color": "#e3e3e3",
         "text-color": "#000000",
         "title": "Frequently asked questions",
         "faq_icon": "plus_minus"
-      }
-    },
-    "f752c25e-ff65-466a-ba61-33848f1147fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/Interior_Designers-Hotels_5eddd8a3-edfe-4d90-8f81-fe783290c7f4.png",
-        "layout": "left",
-        "subheading": "Story Hotel",
-        "location": false,
-        "title": "Meet the Interior Designers",
-        "text_block": "<p><br\/>Story Hotel is a new hotel concept in Stockholm by Swedish architects and interior designers Koncept, part of the AFRY group. The hotel is a conversion of an existing building, which has been stripped back to a bare shell of raw concrete walls. Rooms were converted from former apartments, its reception was once a barber shop and the Ling Long restaurant a garage. Raw concrete walls and lots of velvet and cool illustrations cover the walls, adding a cosy and warm feel. The interior is decorated with a mixture of vintage and contemporary furniture and the original doors from the building have been reused as headboards for the beds.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
-      }
-    },
-    "63680a03-e85a-40a7-9084-4a83db4c7921": {
-      "type": "image--gallery",
-      "blocks": {
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/32_ce6ec23d-7b87-4f07-b6c4-cb33e6547667.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/33_69e401bf-ea45-4182-beb7-ba4fa7b3f386.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/31_5e6497a1-7096-42b9-a496-6fbd6f3f5f56.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092",
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9",
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03",
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62"
-      ],
-      "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
-      }
-    },
-    "af7cbd62-f66b-4a1d-ad22-7e95e10ce21e": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Backyard.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
@@ -396,9 +325,6 @@
     "eb531f23-4a6c-4a89-81ea-844b841eb4af",
     "3c3ad3d0-ccd6-4a3d-97ee-b9cff65bfe21",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "f752c25e-ff65-466a-ba61-33848f1147fc",
-    "63680a03-e85a-40a7-9084-4a83db4c7921",
-    "af7cbd62-f66b-4a1d-ad22-7e95e10ce21e",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
