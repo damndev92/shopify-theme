@@ -168,16 +168,6 @@
         "button_label": ""
       }
     },
-    "747daaf7-56b9-411a-a6ef-3627bbbd9b6a": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Pacai.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
-      }
-    },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -188,7 +178,7 @@
         "subheading": "meet the host",
         "location": false,
         "title": "Rūta Pulkauninkaitė-Macikė, General Manager",
-        "text_block": "<p><strong>Can you tell us three facts about Vilnius that people might not know about? <\/strong><\/p><ul><li>Vilnius is the only capital in Europe you can fly above with a hot air balloon. Views of the medieval old town from above are breathtaking.<\/li><li>Surrounded by forests and green hills, Vilnius is the greenest capital in Europe and the third in the world. <\/li><li>Inside the city exist the self-proclaimed ‘Republic’ of Užupis with its own president and constitution – the city’s Bohemian and artistic district. In the warmer months, festivals, music, art, and theatre fill the streets, theatres, and galleries of Vilnius.<\/li><\/ul><p>Come to the Hotel Pacai to discover more of it’s secrets :)<\/p>",
+        "text_block": "<p><strong>\"My favourite story (about Pacai) was when a guest who watched a TV show before going to sleep, met the main actor of the TV show as he arrived for breakfast.  He ran to reception asking if he had had a hallucination! One guest also begged us to sell the bed linen he slept in as he felt so cozy and just wanted to take that feeling back home. Money was not the case, he said, just tell the price. Very Maison Flâneur.\" <\/strong><\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -432,7 +422,6 @@
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "fc207bbe-372a-410a-9fd6-efb127b006be",
     "3e33914a-e927-4abd-a0bb-4265c3e5c2c6",
-    "747daaf7-56b9-411a-a6ef-3627bbbd9b6a",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "905968d0-1364-43ba-b6f9-c40d1387ff8b",
