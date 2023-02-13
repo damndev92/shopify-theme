@@ -1,0 +1,149 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/frenchie_featured-1024x683.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Meet Gregory Marchand, Chef and owner of the Frenchie, London.",
+        "title": "",
+        "text": "<p>Grégory Marchand, owner of the Frenchie restaurant, has a foot in Paris and one in London. The former Jamie Oliver Fifteen chef – where the kitchen nickname ‘Frenchie’ originated – cut his teeth at the Savoy in Knightsbridge and the Gramercy Tavern in New-York, before opening his first restaurant in the second arrondissement of Paris in 2009. The “alley” is now the world famous rue de Nil street, home to Frenchie restaurant, Frenchie Wine Bar, Frenchie to Go and The Frenchie Wine Shop. It is in February 2016 that Grégory and his wife Marie opened the Frenchie Covent Garden. Maison Flâneur discusses the story behind their own “little village” and his vision for London.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "05119ffd-f68a-4f0c-895c-98e4fda10958": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17980570009915__05119ffd-f68a-4f0c-895c-98e4fda10958-16762938456c274e37-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PORTRAIT_GREG_RUEDUNIL_01.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p><strong>Can you tell us about more about “rue du Nil”?<\/strong><br\/>I arrived in Paris in 2008 and I was looking for a place to open my restaurant. There was a certain charm to this street and Marie, my wife, was the only one who believed in me. Today I look at the street and I’m filled with emotion. At first, there was only us, Frenchie. Then the wine bar. Then came Terroirs d’Avenir and with it a fruit and vegetable retailer, a fish store, and a butchery. And more recently, a bakery. And Hippolyte Courty, the coffee roaster, and his Arbre à Café. And now Frenchie To Go and Frenchie Caviste wine shop. We all work together with the same determination to keep our identity, our ethics. Showing care for the products we use. The rue du Nil is a little village. Our little village. It has evolved with us. It is a part of us.<\/p><p><strong>When did you first think about London?<\/strong><br\/>London was a formative stage in my life. It was about being in my twenties, discovery, learning. It’s an amazing city to experience when you’re in your twenties. Everything is within reach. It’s an open place. Alive. Impetuous. London is home. Its mark was branded into me and it has become an integral part of who I am. It was so natural to open a restaurant in London, it’s a place where I can express myself in a different way. I don’t want to just copy and paste. I prefer to let these two cities express themselves in their own way.<\/p>"
+          }
+        },
+        "template--17980570009915__05119ffd-f68a-4f0c-895c-98e4fda10958-16762938456c274e37-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/frenchie_coventgarden_food_vgarnier-6-e1496938332336-683x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p><strong>Different city, different feel?<\/strong><br\/>London is a different source of inspiration, it’s also a refuge for Marie and me, to stay young<br\/>and free (in a way). My cuisine in London is evolving parallel to my cuisine in Paris. What fascinates me is that the same point of inspiration can lead to totally different results on either side of the channel. I don’t want to just copy and paste. I prefer to let these two cities express themselves in their own way.<\/p><p><strong>How do you think tableware influences your work?<\/strong><br\/>I think that our work influences the style of tableware we work with. I like to work with small, independent ceramists as much as possible keeping the material raw, textural and natural. Marion Graux in Paris for example.<\/p><p><strong>Favourite dish on the menu?<\/strong><br\/>Salsify tagliatelle, Keen’s cheddar, and vin jaune sauce, and smoked egg yolk. I love the keen’s cheddar and vin jaune sauce combination!<\/p><p><strong>Who would be your dream guest to have for dinner?<\/strong><br\/>Anthony Bourdain RIP<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17980570009915__05119ffd-f68a-4f0c-895c-98e4fda10958-16762938456c274e37-1",
+        "template--17980570009915__05119ffd-f68a-4f0c-895c-98e4fda10958-16762938456c274e37-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "26e53410-aaa3-47d8-a4c3-efc3f7d0c5fc": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17980570009915__26e53410-aaa3-47d8-a4c3-efc3f7d0c5fc-16762938456c274e37-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/navette-ebene.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Navette Ebene Knives, Set of 6<\/p><p>£425<\/p>"
+          }
+        },
+        "template--17980570009915__26e53410-aaa3-47d8-a4c3-efc3f7d0c5fc-16762938456c274e37-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zoza-table.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Zoza Ebene Table Knives, Set of 6<\/p><p>£419<\/p>"
+          }
+        },
+        "template--17980570009915__26e53410-aaa3-47d8-a4c3-efc3f7d0c5fc-16762938456c274e37-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ceccaldi-ZOZA-RAM_S-HORN-4_de7d4287-4ae6-4876-af27-120594034422.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Zoza Ram’s Horn Folding Knife<\/p><p>£125<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17980570009915__26e53410-aaa3-47d8-a4c3-efc3f7d0c5fc-16762938456c274e37-0",
+        "template--17980570009915__26e53410-aaa3-47d8-a4c3-efc3f7d0c5fc-16762938456c274e37-1",
+        "template--17980570009915__26e53410-aaa3-47d8-a4c3-efc3f7d0c5fc-16762938456c274e37-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "660da8c1-b37a-4abf-962a-4327a9ee2519": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/frenchie-covent-garden\/\">Read Maison Flâneur’s review of the Frenchie here.  <\/a><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/frenchie-covent-garden\/\">See the full collection here. <\/a><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "05119ffd-f68a-4f0c-895c-98e4fda10958",
+    "26e53410-aaa3-47d8-a4c3-efc3f7d0c5fc",
+    "660da8c1-b37a-4abf-962a-4327a9ee2519",
+    "main",
+    "blog-posts"
+  ]
+}

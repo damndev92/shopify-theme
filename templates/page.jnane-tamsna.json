@@ -39,142 +39,58 @@
         "text-over-image-width": "full-width"
       }
     },
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/45_930d41d3-0844-48d0-beee-a98864c29bae.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/46_677ac979-93fc-4f79-82ab-46dbf10ce153.png",
-            "link": "shopify:\/\/products\/parentesi-suspension-lamp",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0",
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1"
-      ],
-      "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
-      }
-    },
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
-      "type": "accordion",
-      "blocks": {
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        },
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        },
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
-      ],
-      "settings": {
-        "background-color": "#e3e3e3",
-        "text-color": "#000000",
-        "title": "Frequently asked questions",
-        "faq_icon": "plus_minus"
-      }
-    },
-    "f752c25e-ff65-466a-ba61-33848f1147fc": {
-      "type": "text--image-with-text",
+    "d35ad0e1-49a0-442f-a911-b2ef5af24e91": {
+      "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/Interior_Designers-Hotels_1.png",
-        "layout": "left",
-        "subheading": "Meet the host",
-        "location": false,
-        "title": "Meyanne Loum-Martin, Owner",
-        "text_block": "<p><br\/>Luxe meets Moroccan style in Jnane Tamsna, a boutique hotel with 24 rooms and private villas in Marrakech. Designed by renowned Meryanne Loum-Martin, with a serene garden by Gary Martin, there’s a Boho style to the colourful walls, hand-crafted textiles, and tiled furnishings by local artisans. An ethnic retreat in the heart of a vibrant capital city.<\/p>",
-        "page_description": false,
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><br\/>Moorish arches painted in a warm butterscotch frame views of bright blue skies and a verdant garden, where winding paths lead to five secluded villas housing deeply comfortable rooms styled in an easy fashion.<br\/><\/p>",
         "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
+        "button_label": ""
       }
     },
-    "63680a03-e85a-40a7-9084-4a83db4c7921": {
-      "type": "image--gallery",
+    "45f9421f-82f0-4a47-b570-7c6064ecd2d2": {
+      "type": "image--logo-list",
       "blocks": {
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
-          "type": "image",
+        "template--17824634896699__45f9421f-82f0-4a47-b570-7c6064ecd2d2-1676291575c0dd75a6-0": {
+          "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Shop_the_Look-Hotels_8fef1b66-1955-4e51-b715-033ceca0a10d.png",
-            "link": "",
-            "title": "",
-            "description": ""
+            "link": ""
           }
         },
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
-          "type": "image",
+        "template--17824634896699__45f9421f-82f0-4a47-b570-7c6064ecd2d2-1676291575c0dd75a6-1": {
+          "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/53_65bc7f12-e8f8-46be-aba7-0e95e9fd69e6.png",
-            "link": "",
-            "title": "",
-            "description": ""
+            "link": ""
           }
         },
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
-          "type": "image",
+        "template--17824634896699__45f9421f-82f0-4a47-b570-7c6064ecd2d2-1676291575c0dd75a6-2": {
+          "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Jnane.png",
-            "link": "",
-            "title": "",
-            "description": ""
+            "link": ""
           }
         },
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62": {
-          "type": "image",
-          "disabled": true,
+        "template--17824634896699__45f9421f-82f0-4a47-b570-7c6064ecd2d2-1676291575c0dd75a6-3": {
+          "type": "logo_image",
           "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
+            "link": ""
           }
         }
       },
       "block_order": [
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092",
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03",
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9",
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62"
+        "template--17824634896699__45f9421f-82f0-4a47-b570-7c6064ecd2d2-1676291575c0dd75a6-0",
+        "template--17824634896699__45f9421f-82f0-4a47-b570-7c6064ecd2d2-1676291575c0dd75a6-1",
+        "template--17824634896699__45f9421f-82f0-4a47-b570-7c6064ecd2d2-1676291575c0dd75a6-2",
+        "template--17824634896699__45f9421f-82f0-4a47-b570-7c6064ecd2d2-1676291575c0dd75a6-3"
       ],
       "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
+        "colors": "white",
+        "width": 150,
+        "subheading": "did you know?",
+        "title": "Facts"
       }
     },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
@@ -215,7 +131,7 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "JNANE TAMSNA",
+        "subheading": "Shop",
         "title": "Shop the look",
         "image": "shopify:\/\/shop_images\/47_2d584873-0427-45e1-9da4-686674347694.png",
         "image__position": "image--left",
@@ -227,64 +143,81 @@
         "button__text": "Shop the look"
       }
     },
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
-      "type": "product--shop-the-look",
+    "9201198d-52cd-4ad8-bbc8-6ae57ec226ff": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Jnane_c289a34f-26bc-4108-b07b-2814e9d025dd.png",
+        "subheading": "",
+        "title": "Take a tour",
+        "text": "Here's your chance to make a great first impression",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "f752c25e-ff65-466a-ba61-33848f1147fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/Interior_Designers-Hotels_1.png",
+        "layout": "left",
+        "subheading": "Meet the host",
+        "location": false,
+        "title": "Meyranne Loum-Martin, Owner",
+        "text_block": "<p><br\/>“Marrakech gave me the opportunity to develop my creativity with incredible freedom.\"<br\/><br\/>\"What I enjoy is that here, everything is possible: You draw sketches in the morning, and the next day the ironworker comes up with the model. There are infinite ways to be creative. Morrocan craft allows you to create unlimited bridge and bounds: freedom to create your own satellites.”<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
+      "type": "accordion",
       "blocks": {
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e": {
-          "type": "product",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
+          "type": "tab_content",
           "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
+            "question": "Describe Jnane tamsna",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
         },
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8": {
-          "type": "product",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
+          "type": "tab_content",
           "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
+            "question": "where to eat?",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
         },
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89": {
-          "type": "product",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
+          "type": "tab_content",
           "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
+            "question": "your favourite object in the hotel?",
+            "text": "<p>I like the lamps which I adorn with horn and leather bracelets, and I love the photophores. I find unique glass and work metal around it. The handmaid textile which I transform in plaids and shoes, and handbags and cushions, which I’ve sourced in West Africa.<\/p>"
+          }
+        },
+        "b00dd7ab-2374-47ba-a199-88f978fdba6d": {
+          "type": "tab_content",
+          "settings": {
+            "question": "something most people don't know about marrakech?",
+            "text": "<p>I think Marrakech is very different than the rest of Morocco. The impact of the expats is significant. As much as Rabat is linked to politics and Casablanca to business, the people chose Marrakech because they fell in love with the town. <\/p>"
           }
         }
       },
       "block_order": [
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e",
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8",
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89"
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2",
+        "b00dd7ab-2374-47ba-a199-88f978fdba6d"
       ],
       "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "",
-        "image": "shopify:\/\/shop_images\/44_4ff2f2ac-f5ab-4119-a795-fdefadfb129b.png",
-        "image__position": "image--right",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": ""
-      }
-    },
-    "421c7e07-6af9-44f0-aa81-d5b98faac719": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/jnane_tamsna_3.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
+        "background-color": "#e3e3e3",
+        "text-color": "#000000",
+        "title": "Tips from the hosts",
+        "faq_icon": "plus_minus"
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
@@ -387,13 +320,12 @@
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "302ff8da-82b7-4a84-bdc7-26a7e514e2be",
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "f752c25e-ff65-466a-ba61-33848f1147fc",
-    "63680a03-e85a-40a7-9084-4a83db4c7921",
+    "d35ad0e1-49a0-442f-a911-b2ef5af24e91",
+    "45f9421f-82f0-4a47-b570-7c6064ecd2d2",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0",
-    "421c7e07-6af9-44f0-aa81-d5b98faac719",
+    "9201198d-52cd-4ad8-bbc8-6ae57ec226ff",
+    "f752c25e-ff65-466a-ba61-33848f1147fc",
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",

@@ -29,157 +29,68 @@
         "button_label": ""
       }
     },
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/53.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/58.png",
-            "link": "shopify:\/\/products\/parentesi-suspension-lamp",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0",
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1"
-      ],
+    "84d38e23-4d01-4e43-9b45-77682a5c89f5": {
+      "type": "image--image",
       "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
+        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_1_d39dff25-5ac1-47c8-ada1-287a156a34cf.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
       }
     },
-    "a05db212-652f-4271-8069-7ace459b4c2e": {
-      "type": "text--image-with-text",
+    "abb3abe2-b7c0-4a2a-9311-7466a6b23728": {
+      "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
-        "layout": "left",
-        "subheading": "Meet",
-        "location": false,
-        "title": "Owner",
-        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-        "page_description": false,
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><br\/>Tribe Hotel, Nairobi’s coolest luxury boutique hotel, encapsulates the city’s African spirit and celebrates its creativity. Warm, earthy shades and traditional craft blends with contemporary design, creating a sense of understated luxury. We are incredibly proud to showcase Tribe hotel’s unique decor.<\/p>",
         "button_link": "",
-        "hotel_page_url": false,
         "button_label": ""
       }
     },
-    "6662f3b4-71a8-41be-b231-b0233686c9d0": {
-      "type": "text--image-with-text",
+    "ddd0bffa-458a-45f9-8004-7d856470b57f": {
+      "type": "image--logo-list",
+      "blocks": {
+        "template--17824588923195__ddd0bffa-458a-45f9-8004-7d856470b57f-1676291575c0dd75a6-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824588923195__ddd0bffa-458a-45f9-8004-7d856470b57f-1676291575c0dd75a6-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824588923195__ddd0bffa-458a-45f9-8004-7d856470b57f-1676291575c0dd75a6-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824588923195__ddd0bffa-458a-45f9-8004-7d856470b57f-1676291575c0dd75a6-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17824588923195__ddd0bffa-458a-45f9-8004-7d856470b57f-1676291575c0dd75a6-0",
+        "template--17824588923195__ddd0bffa-458a-45f9-8004-7d856470b57f-1676291575c0dd75a6-1",
+        "template--17824588923195__ddd0bffa-458a-45f9-8004-7d856470b57f-1676291575c0dd75a6-2",
+        "template--17824588923195__ddd0bffa-458a-45f9-8004-7d856470b57f-1676291575c0dd75a6-3"
+      ],
       "settings": {
         "colors": "white",
-        "image-width": "medium",
-        "layout": "left",
-        "subheading": "Meet",
-        "location": false,
-        "title": "Interior Designer",
-        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
-      "type": "accordion",
-      "blocks": {
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        },
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        },
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
-      ],
-      "settings": {
-        "background-color": "#e3e3e3",
-        "text-color": "#000000",
-        "title": "Frequently asked questions",
-        "faq_icon": "plus_minus"
-      }
-    },
-    "63680a03-e85a-40a7-9084-4a83db4c7921": {
-      "type": "image--gallery",
-      "blocks": {
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/54.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle",
-            "title": "",
-            "description": ""
-          }
-        },
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/55.png",
-            "link": "shopify:\/\/products\/wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
-            "title": "",
-            "description": ""
-          }
-        },
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/59.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
-            "title": "",
-            "description": ""
-          }
-        },
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092",
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9",
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03",
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62"
-      ],
-      "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
+        "width": 150,
+        "subheading": "Did you know?",
+        "title": "Facts"
       }
     },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
@@ -220,7 +131,7 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "tribe",
+        "subheading": "shop",
         "title": "Shop the look",
         "image": "shopify:\/\/shop_images\/52.png",
         "image__position": "image--left",
@@ -232,36 +143,81 @@
         "button__text": "Shop the look"
       }
     },
-    "9299a3ef-12a1-48f6-abe6-a54f93478d0b": {
-      "type": "image--gallery",
+    "8b38bcfa-ead6-4545-ad7b-1e55330a1cb6": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_2_542b610e-5f28-467d-abaf-cf9373d83c90.png",
+        "subheading": "",
+        "title": "Take a tour",
+        "text": "Here's your chance to make a great first impression",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "a05db212-652f-4271-8069-7ace459b4c2e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_3c6230dc-c4b2-4cb8-b05f-9f8ac3d2fcfc.png",
+        "layout": "left",
+        "subheading": "Meet the host",
+        "location": false,
+        "title": "Meet Shamim Ehsani",
+        "text_block": "<p>\"Tribe was built to reflect the creativity and sophistication of Kenya and its people. Our intention was to break away from the colonial-era inspired design and service culture, and to introduce a more contemporary offering, which would appeal to the global creative community and travelers in our own demographic\".<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
+      "type": "accordion",
       "blocks": {
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0": {
-          "type": "image",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
+          "type": "tab_content",
           "settings": {
-            "image": "shopify:\/\/shop_images\/33_8c7aca8a-1f94-44a5-b557-0ba28fdc7fd0.png",
-            "link": "",
-            "title": "",
-            "description": ""
+            "question": "tribe hotel in one word?",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
         },
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1": {
-          "type": "image",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
+          "type": "tab_content",
           "settings": {
-            "image": "shopify:\/\/shop_images\/34_22d46ca1-f5d1-4b9e-9ac7-64f138ed0298.png",
-            "link": "",
-            "title": "",
-            "description": ""
+            "question": "where to eat?",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
+          "type": "tab_content",
+          "settings": {
+            "question": "your favourite object in the hotel?",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "2bb04ae8-7730-4b73-9713-9868fd729f06": {
+          "type": "tab_content",
+          "settings": {
+            "question": "something most people don't know about nairobi?",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0",
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1"
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2",
+        "2bb04ae8-7730-4b73-9713-9868fd729f06"
       ],
       "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
+        "background-color": "#e3e3e3",
+        "text-color": "#000000",
+        "title": "Tips from the hosts",
+        "faq_icon": "plus_minus"
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
@@ -363,13 +319,13 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
-    "a05db212-652f-4271-8069-7ace459b4c2e",
-    "6662f3b4-71a8-41be-b231-b0233686c9d0",
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "63680a03-e85a-40a7-9084-4a83db4c7921",
+    "84d38e23-4d01-4e43-9b45-77682a5c89f5",
+    "abb3abe2-b7c0-4a2a-9311-7466a6b23728",
+    "ddd0bffa-458a-45f9-8004-7d856470b57f",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
-    "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
+    "8b38bcfa-ead6-4545-ad7b-1e55330a1cb6",
+    "a05db212-652f-4271-8069-7ace459b4c2e",
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",

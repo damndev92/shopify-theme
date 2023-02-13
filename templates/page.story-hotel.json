@@ -39,159 +39,58 @@
         "text-over-image-width": "full-width"
       }
     },
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/34_8098d0ac-ac09-4124-8513-40ba7d9a3760.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/36_21c9afe3-109e-44c9-a7ef-d60c86d832b1.png",
-            "link": "shopify:\/\/products\/parentesi-suspension-lamp",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0",
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1"
-      ],
-      "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
-      }
-    },
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
-      "type": "accordion",
-      "blocks": {
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        },
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        },
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
-      ],
-      "settings": {
-        "background-color": "#e3e3e3",
-        "text-color": "#000000",
-        "title": "Frequently asked questions",
-        "faq_icon": "plus_minus"
-      }
-    },
-    "3c3ad3d0-ccd6-4a3d-97ee-b9cff65bfe21": {
-      "type": "text--image-with-text",
+    "da4f3bce-a546-4f2b-b010-3f4efa52fd35": {
+      "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_4.png",
-        "layout": "left",
-        "subheading": "Meet",
-        "location": false,
-        "title": "Staffan Åkerlind, CEO, Story Hotels",
-        "text_block": "<p><br\/>Story Hotel is a new hotel concept located at the heart of Stockholm and celebrates the unique neighborhood in which the property resides. With modern, Scandinavian design that reflects the edgy nature of the city, the hotel offers amenities for both business and leisure travelers.<\/p>",
-        "page_description": false,
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><br\/>The Story Hotel Stockholm is an urban haven where stunningly coiffed Stockholmers and trendy travellers converge normally over cocktails inside the bustling lobby bar which has been inspired by the interiors of Parisian salons and dark, moody jazz bars.<\/p>",
         "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
+        "button_label": ""
       }
     },
-    "f752c25e-ff65-466a-ba61-33848f1147fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/Interior_Designers-Hotels_5eddd8a3-edfe-4d90-8f81-fe783290c7f4.png",
-        "layout": "left",
-        "subheading": "Story Hotel",
-        "location": false,
-        "title": "Meet the Interior Designers",
-        "text_block": "<p><br\/>Story Hotel is a new hotel concept in Stockholm by Swedish architects and interior designers Koncept, part of the AFRY group. The hotel is a conversion of an existing building, which has been stripped back to a bare shell of raw concrete walls. Rooms were converted from former apartments, its reception was once a barber shop and the Ling Long restaurant a garage. Raw concrete walls and lots of velvet and cool illustrations cover the walls, adding a cosy and warm feel. The interior is decorated with a mixture of vintage and contemporary furniture and the original doors from the building have been reused as headboards for the beds.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
-      }
-    },
-    "63680a03-e85a-40a7-9084-4a83db4c7921": {
-      "type": "image--gallery",
+    "fa27e928-71d7-4dc8-b0a9-357789a2e8e1": {
+      "type": "image--logo-list",
       "blocks": {
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
-          "type": "image",
+        "template--17824629162299__fa27e928-71d7-4dc8-b0a9-357789a2e8e1-1676291575c0dd75a6-0": {
+          "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/32_ce6ec23d-7b87-4f07-b6c4-cb33e6547667.png",
-            "link": "",
-            "title": "",
-            "description": ""
+            "link": ""
           }
         },
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
-          "type": "image",
+        "template--17824629162299__fa27e928-71d7-4dc8-b0a9-357789a2e8e1-1676291575c0dd75a6-1": {
+          "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/33_69e401bf-ea45-4182-beb7-ba4fa7b3f386.png",
-            "link": "",
-            "title": "",
-            "description": ""
+            "link": ""
           }
         },
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
-          "type": "image",
+        "template--17824629162299__fa27e928-71d7-4dc8-b0a9-357789a2e8e1-1676291575c0dd75a6-2": {
+          "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/31_5e6497a1-7096-42b9-a496-6fbd6f3f5f56.png",
-            "link": "",
-            "title": "",
-            "description": ""
+            "link": ""
           }
         },
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62": {
-          "type": "image",
-          "disabled": true,
+        "template--17824629162299__fa27e928-71d7-4dc8-b0a9-357789a2e8e1-1676291575c0dd75a6-3": {
+          "type": "logo_image",
           "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
+            "link": ""
           }
         }
       },
       "block_order": [
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092",
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9",
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03",
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62"
+        "template--17824629162299__fa27e928-71d7-4dc8-b0a9-357789a2e8e1-1676291575c0dd75a6-0",
+        "template--17824629162299__fa27e928-71d7-4dc8-b0a9-357789a2e8e1-1676291575c0dd75a6-1",
+        "template--17824629162299__fa27e928-71d7-4dc8-b0a9-357789a2e8e1-1676291575c0dd75a6-2",
+        "template--17824629162299__fa27e928-71d7-4dc8-b0a9-357789a2e8e1-1676291575c0dd75a6-3"
       ],
       "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
+        "colors": "white",
+        "width": 150,
+        "subheading": "Did you know?",
+        "title": "Facts"
       }
     },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
@@ -244,64 +143,81 @@
         "button__text": "Shop the look"
       }
     },
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
-      "type": "product--shop-the-look",
+    "eb531f23-4a6c-4a89-81ea-844b841eb4af": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Story_2.png",
+        "subheading": "",
+        "title": "Take a tour",
+        "text": "Here's your chance to make a great first impression",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "3c3ad3d0-ccd6-4a3d-97ee-b9cff65bfe21": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_4.png",
+        "layout": "left",
+        "subheading": "Meet the host",
+        "location": false,
+        "title": "Staffan Åkerlind, CEO, Story Hotels",
+        "text_block": "<p><br\/>Story Hotel is a new hotel concept located at the heart of Stockholm and celebrates the unique neighborhood in which the property resides. With modern, Scandinavian design that reflects the edgy nature of the city, the hotel offers amenities for both business and leisure travelers.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
+      "type": "accordion",
       "blocks": {
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e": {
-          "type": "product",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
+          "type": "tab_content",
           "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
+            "question": "Story Hotel in one word?",
+            "text": "<p>Hygge with a huge difference: it’s been given an industrial injection, through artsy ripped wallpaper, brick, and cool original features like exposed beams and pipes. Along with plenty of art – everywhere.<\/p>"
           }
         },
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8": {
-          "type": "product",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
+          "type": "tab_content",
           "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
+            "question": "where to eat?",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
         },
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89": {
-          "type": "product",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
+          "type": "tab_content",
           "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
+            "question": "your favourite object in the hotel?",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "eee982bf-e186-4179-a367-76549ea48a1e": {
+          "type": "tab_content",
+          "settings": {
+            "question": "something most people don't know about stockholm?",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
         }
       },
       "block_order": [
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e",
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8",
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89"
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2",
+        "eee982bf-e186-4179-a367-76549ea48a1e"
       ],
       "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "",
-        "image": "shopify:\/\/shop_images\/Shop_the_Look-Hotels_1.png",
-        "image__position": "image--right",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": ""
-      }
-    },
-    "af7cbd62-f66b-4a1d-ad22-7e95e10ce21e": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Backyard.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
+        "background-color": "#e3e3e3",
+        "text-color": "#000000",
+        "title": "Tips from the hosts",
+        "faq_icon": "plus_minus"
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
@@ -404,14 +320,12 @@
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "8fbd4d37-f5a9-4f6d-ac8a-aaa42a79403d",
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "3c3ad3d0-ccd6-4a3d-97ee-b9cff65bfe21",
-    "f752c25e-ff65-466a-ba61-33848f1147fc",
-    "63680a03-e85a-40a7-9084-4a83db4c7921",
+    "da4f3bce-a546-4f2b-b010-3f4efa52fd35",
+    "fa27e928-71d7-4dc8-b0a9-357789a2e8e1",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0",
-    "af7cbd62-f66b-4a1d-ad22-7e95e10ce21e",
+    "eb531f23-4a6c-4a89-81ea-844b841eb4af",
+    "3c3ad3d0-ccd6-4a3d-97ee-b9cff65bfe21",
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",

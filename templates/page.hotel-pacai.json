@@ -29,14 +29,68 @@
         "button_label": ""
       }
     },
-    "5988eaab-4539-4c15-8296-624e8fa52534": {
+    "ce2de4fb-18f2-48a0-b7c4-343144d2d838": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Pacai_2.png",
+        "image": "shopify:\/\/shop_images\/Hotel_Pacai_3.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
         "text-over-image-width": "full-width"
+      }
+    },
+    "958d30b5-2fdc-4798-8791-f31e636b2673": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p>With the majority of the mansion dating back centuries, the goal was to keep the history visible in a direct way. Thus, all the existing frescoes and unique textures of the walls are emphasized through lighting, while the main features of the hotel strive for elegance and classical purity, both through materials and details.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "31d7a52e-5433-4c6f-a4b3-3b5b1726ce51": {
+      "type": "image--logo-list",
+      "blocks": {
+        "template--17824551338299__31d7a52e-5433-4c6f-a4b3-3b5b1726ce51-1676291575c0dd75a6-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824551338299__31d7a52e-5433-4c6f-a4b3-3b5b1726ce51-1676291575c0dd75a6-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824551338299__31d7a52e-5433-4c6f-a4b3-3b5b1726ce51-1676291575c0dd75a6-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824551338299__31d7a52e-5433-4c6f-a4b3-3b5b1726ce51-1676291575c0dd75a6-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17824551338299__31d7a52e-5433-4c6f-a4b3-3b5b1726ce51-1676291575c0dd75a6-0",
+        "template--17824551338299__31d7a52e-5433-4c6f-a4b3-3b5b1726ce51-1676291575c0dd75a6-1",
+        "template--17824551338299__31d7a52e-5433-4c6f-a4b3-3b5b1726ce51-1676291575c0dd75a6-2",
+        "template--17824551338299__31d7a52e-5433-4c6f-a4b3-3b5b1726ce51-1676291575c0dd75a6-3"
+      ],
+      "settings": {
+        "colors": "white",
+        "width": 150,
+        "subheading": "Did you know?",
+        "title": "Facts"
       }
     },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
@@ -78,7 +132,7 @@
       "settings": {
         "colors": "white",
         "subheading": "Shop",
-        "title": "The look",
+        "title": "Shop The look",
         "image": "shopify:\/\/shop_images\/3_f221a499-5514-4db4-a012-87e5017a950e.png",
         "image__position": "image--left",
         "hotspot__color": "#ffffff",
@@ -94,19 +148,25 @@
       "settings": {
         "btn": "Discover",
         "url": "",
+        "link": "",
         "bg_color": "#656565",
         "padding_top": 15,
         "padding_bottom": 20
       }
     },
-    "747daaf7-56b9-411a-a6ef-3627bbbd9b6a": {
-      "type": "image--image",
+    "3e33914a-e927-4abd-a0bb-4265c3e5c2c6": {
+      "type": "image--image-with-text-overlay",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Pacai.png",
+        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_bd59a0f9-c862-4956-b8cc-d3eb82c653f0.png",
+        "subheading": "",
+        "title": "Take a tour",
+        "text": "Here's your chance to make a great first impression",
         "parallax": true,
         "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
       }
     },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
@@ -119,21 +179,11 @@
         "subheading": "meet the host",
         "location": false,
         "title": "Rūta Pulkauninkaitė-Macikė, General Manager",
-        "text_block": "<p><strong>Can you tell us three facts about Vilnius that people might not know about? <\/strong><\/p><ul><li>Vilnius is the only capital in Europe you can fly above with a hot air balloon. Views of the medieval old town from above are breathtaking.<\/li><li>Surrounded by forests and green hills, Vilnius is the greenest capital in Europe and the third in the world. <\/li><li>Inside the city exist the self-proclaimed ‘Republic’ of Užupis with its own president and constitution – the city’s Bohemian and artistic district. In the warmer months, festivals, music, art, and theatre fill the streets, theatres, and galleries of Vilnius.<\/li><\/ul><p>Come to the Hotel Pacai to discover more of it’s secrets :)<\/p>",
+        "text_block": "<p><strong>\"My favourite story (about Pacai) was when a guest who watched a TV show before going to sleep, met the main actor of the TV show as he arrived for breakfast.  He ran to reception asking if he had had a hallucination! One guest also begged us to sell the bed linen he slept in as he felt so cozy and just wanted to take that feeling back home. Money was not the case, he said, just tell the price. Very Maison Flâneur.\" <\/strong><\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
         "button_label": "Read More"
-      }
-    },
-    "ce2de4fb-18f2-48a0-b7c4-343144d2d838": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Pacai_3.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
       }
     },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
@@ -142,45 +192,43 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "question": "A little bit about Hotel Pacai",
+            "text": "<p>The hotel is set in the heart of Vilnius’s old town. It is one of the best-preserved in Northern Europe and was inscribed on the World Heritage List in 1994, It is an exceptional illustration of a medieval Central European town that evolved over a period of five centuries.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "question": "Dining at Pacai",
+            "text": "<p>For a long time (Chef Matas Paulinas) worked in Japanese cuisine restaurants in Denmark, he has also worked at a “Michelin” star lever restaurant in Monaco. Later, while living in Copenhagen, he worked in “Noma” where he became a fan of Scandinavian kitchen philosophy. His food style is<em>a<\/em>contemporary interpretation of ethnographic themes from recent history, Matas is extremely creative inside the plate.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "question": "Your favourite object in the hotel?",
+            "text": "<p>Athena – a sculpture of 17th century greets you on the second floor. The sculpture was found during renovation without a head, the head was cut and placed next to the feet. Reborn Athena is as important as a reborn mansion.<\/p>"
+          }
+        },
+        "a049c1b6-1c64-4181-b314-be15481ed5df": {
+          "type": "tab_content",
+          "settings": {
+            "question": "something most people don't know about vilnius?",
+            "text": "<p>Vilnius is the only capital in Europe you can fly above with a hot air balloon. Views of the medieval old town from above are breathtaking.<\/p>"
           }
         }
       },
       "block_order": [
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2",
+        "a049c1b6-1c64-4181-b314-be15481ed5df"
       ],
       "settings": {
         "background-color": "#e3e3e3",
         "text-color": "#000000",
-        "title": "Get to know Hotel Pacai",
+        "title": "Tips from the hosts",
         "faq_icon": "plus_minus"
-      }
-    },
-    "905968d0-1364-43ba-b6f9-c40d1387ff8b": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Pacai_6.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
@@ -236,33 +284,6 @@
         "colors": "white",
         "subheading": "",
         "title": ""
-      }
-    },
-    "d65530bf-d321-40a6-9274-d539d93227d2": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_93dd7338-bfa1-46e6-a514-a86d4981b849.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
-      }
-    },
-    "6b633d33-85b6-43bb-b397-1a5037f77912": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "accent",
-        "image-width": "large",
-        "image": "shopify:\/\/shop_images\/interior_designers.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "Meet the Interior Designers",
-        "text_block": "<p><br\/>Set in the heart of Vilnius’ Old Town—Yes Design Studio envisaged Hotel PACAI to perfectly echo this quarter’s 17th-century Baroque grandeur, yet augmenting it with a contemporary twist.<\/p>",
-        "page_description": false,
-        "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
       }
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
@@ -367,18 +388,16 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
-    "5988eaab-4539-4c15-8296-624e8fa52534",
+    "ce2de4fb-18f2-48a0-b7c4-343144d2d838",
+    "958d30b5-2fdc-4798-8791-f31e636b2673",
+    "31d7a52e-5433-4c6f-a4b3-3b5b1726ce51",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "fc207bbe-372a-410a-9fd6-efb127b006be",
-    "747daaf7-56b9-411a-a6ef-3627bbbd9b6a",
+    "3e33914a-e927-4abd-a0bb-4265c3e5c2c6",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
-    "ce2de4fb-18f2-48a0-b7c4-343144d2d838",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "905968d0-1364-43ba-b6f9-c40d1387ff8b",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
-    "d65530bf-d321-40a6-9274-d539d93227d2",
-    "6b633d33-85b6-43bb-b397-1a5037f77912",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "63680a03-e85a-40a7-9084-4a83db4c7921"
