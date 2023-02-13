@@ -211,118 +211,6 @@
         "faq_icon": "plus_minus"
       }
     },
-    "63680a03-e85a-40a7-9084-4a83db4c7921": {
-      "type": "image--gallery",
-      "blocks": {
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Shop_the_Look-Hotels_8fef1b66-1955-4e51-b715-033ceca0a10d.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/53_65bc7f12-e8f8-46be-aba7-0e95e9fd69e6.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Jnane.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092",
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03",
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9",
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62"
-      ],
-      "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
-      }
-    },
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
-      "type": "product--shop-the-look",
-      "blocks": {
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e": {
-          "type": "product",
-          "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        },
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
-          }
-        },
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
-          }
-        }
-      },
-      "block_order": [
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e",
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8",
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "",
-        "image": "shopify:\/\/shop_images\/44_4ff2f2ac-f5ab-4119-a795-fdefadfb129b.png",
-        "image__position": "image--right",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": ""
-      }
-    },
-    "421c7e07-6af9-44f0-aa81-d5b98faac719": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/jnane_tamsna_3.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
-      }
-    },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
       "type": "text--rich-text",
       "settings": {
@@ -429,9 +317,6 @@
     "9201198d-52cd-4ad8-bbc8-6ae57ec226ff",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "63680a03-e85a-40a7-9084-4a83db4c7921",
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0",
-    "421c7e07-6af9-44f0-aa81-d5b98faac719",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
