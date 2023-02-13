@@ -143,6 +143,20 @@
         "button__text": "Shop the look"
       }
     },
+    "47ab3baa-f892-4c53-96b2-c6303ad07e77": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "subheading": "",
+        "title": "Share your story",
+        "text": "Here's your chance to make a great first impression",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -379,6 +393,7 @@
     "ae557e2a-c35e-4b18-b42a-dccdacbe4282",
     "12b7373c-3fa3-4f63-b532-f6a3e58197c3",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
+    "47ab3baa-f892-4c53-96b2-c6303ad07e77",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "0456563e-ab53-463c-9173-4d83f7c2495f",
