@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/210310_IssyGranger1524_1080x-683x1024.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Can you tell us how you discovered the Egyptian glass blowers you work with? <\/strong><\/p><p>I have always been fascinated by glassblowing. I remember as a child being taken to watch glassblowers work near where I grew up in Yorkshire and this sparked an early interest in the art. On the hunt for glassblowers last year, I began to learn about the history of glass and discovered its origins in Egypt. I instantly fell in love with the delicate Egyptian style and the techniques that have been passed down generation after generation for many hundred years. It is such a pleasure working with these talented makers and I feel very fortunate to have them bring my designs to life.<\/p><p><strong>Where do you find your inspiration? <\/strong><\/p><p>Growing up with artists I have always been very aware of colour and the world around me. I take inspiration from my surroundings, be it the English countryside, further afield or from conversations with people that I meet along the way. Inspiration is all around us. <\/p><p>Since all the wonderful London galleries and museums have been shut for most of this last year, I have spent many days wandering around the streets and looking up at the incredible architecture all over the city. I love the variety of style that there is to be found across London. Whilst the doors remain closed to so many great buildings, I think this offers the perfect opportunity to take the time to be inspired by the beauty of the buildings themselves.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
