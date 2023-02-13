@@ -194,6 +194,13 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
           "type": "tab_content",
           "settings": {
+            "question": "your favourite object in the hotel?",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "00f40b83-215d-4d78-8010-ac555d453484": {
+          "type": "tab_content",
+          "settings": {
             "question": "Place your question or heading here",
             "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
@@ -202,7 +209,8 @@
       "block_order": [
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2",
+        "00f40b83-215d-4d78-8010-ac555d453484"
       ],
       "settings": {
         "background-color": "#e3e3e3",
