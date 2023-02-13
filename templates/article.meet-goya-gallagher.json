@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "b07a08e7-e63d-41be-a0ce-99e20f8567cd": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Copy-of-MGK-181-Malaika-SN-030-_-Malak-Kabbani-2021-1024x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Can you tell us about the work you do with women in Egypt?<\/strong><\/p><p>Malaika offered free embroidery tuition within our premises from the outset. We started with one room and women arrived by word of mouth and soon enough, we were looking for a bigger space. As we grew, so did the training program and in 2018 we decided to establish Threads of Hope as an independent embroidery school that could cater to more women.<\/p><p>At Threads of Hope, we teach hand embroidery to hundreds of talented Egyptian and refugee women. Regardless of their age, background, or literacy, here they receive a free two-month education in embroidery and are enabled to pursue and cultivate their individual talents. Once proficient, the women leave the centre and return to work from home. Enter Threads of Hope and you will find a colourful place where women from different countries bring their style and identity, where you will hear different languages and lots of chatter and laughter. These are women that are incredibly resilient and at Threads of Hope we want to offer them a haven, where they can learn a skill, feel respected and valued, where they can safely share their stories, and offer one another hope. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "b07a08e7-e63d-41be-a0ce-99e20f8567cd",
     "main",
     "blog-posts"
   ]

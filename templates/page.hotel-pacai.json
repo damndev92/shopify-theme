@@ -29,14 +29,27 @@
         "button_label": ""
       }
     },
-    "5988eaab-4539-4c15-8296-624e8fa52534": {
+    "ce2de4fb-18f2-48a0-b7c4-343144d2d838": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Pacai_2.png",
+        "image": "shopify:\/\/shop_images\/Hotel_Pacai_3.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
         "text-over-image-width": "full-width"
+      }
+    },
+    "958d30b5-2fdc-4798-8791-f31e636b2673": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p>With the majority of the mansion dating back centuries, the goal was to keep the history visible in a direct way. Thus, all the existing frescoes and unique textures of the walls are emphasized through lighting, while the main features of the hotel strive for elegance and classical purity, both through materials and details.<\/p>",
+        "button_link": "",
+        "button_label": ""
       }
     },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
@@ -94,6 +107,7 @@
       "settings": {
         "btn": "Discover",
         "url": "",
+        "link": "",
         "bg_color": "#656565",
         "padding_top": 15,
         "padding_bottom": 20
@@ -124,16 +138,6 @@
         "button_link": "",
         "hotel_page_url": false,
         "button_label": "Read More"
-      }
-    },
-    "ce2de4fb-18f2-48a0-b7c4-343144d2d838": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Pacai_3.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
       }
     },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
@@ -367,12 +371,12 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
-    "5988eaab-4539-4c15-8296-624e8fa52534",
+    "ce2de4fb-18f2-48a0-b7c4-343144d2d838",
+    "958d30b5-2fdc-4798-8791-f31e636b2673",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "fc207bbe-372a-410a-9fd6-efb127b006be",
     "747daaf7-56b9-411a-a6ef-3627bbbd9b6a",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
-    "ce2de4fb-18f2-48a0-b7c4-343144d2d838",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "905968d0-1364-43ba-b6f9-c40d1387ff8b",
     "889d2c25-4140-44f5-af7a-2c8599551986",
