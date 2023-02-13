@@ -67,6 +67,23 @@
         "button_label": ""
       }
     },
+    "12f8dc28-a227-44f3-8421-5193f5a2c8bf": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Edition-94-3-826x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><\/p><p><strong>How would you define good taste in interiors?<\/strong><br\/>I think good taste is very difficult to define – there are so many different ways to put together an interior. Ultimately for me, it comes down to colours and tones. You can really have a lot of fun with pattern, texture, and shapes in your home, as long as you are careful when mixing the tones and colours within these it should (hopefully) be done in good taste!<\/p><p><strong>How would you define bad taste in interiors? <\/strong><br\/>Garish mixtures of colour and anything referred to as LUX’?<\/p><p><strong>You favourite object at home? <\/strong><br\/>A set of 4 Vintage Leopard print cushions I found 5 years ago which have moved home with me multiple times and always work perfectly!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -100,6 +117,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "e1ecd4c6-2af5-4714-8a1e-e4b5e903fc66",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "12f8dc28-a227-44f3-8421-5193f5a2c8bf",
     "main",
     "blog-posts"
   ]
