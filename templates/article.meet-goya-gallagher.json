@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/Copy-of-MGK-181-Malaika-SN-065-_-Malak-Kabbani-2021-1024x1024.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>From Ecuador to Egypt, how did the Malaika adventure start?<\/strong> <\/p><p>It all started with a holiday in 1992  and falling in love with Egypt. The vibrancy of Cairo, the infinite layers of history, the magic of the desert and the welcoming nature of Egyptians, were impossible to resist! Goya set up a magazine in Cairo and a few years later Margarita, her childhood friend, came to visit and also fell under the spell of Egypt. Malaika started a few years later when it became apparent that the producer of the best cotton in the world, was exporting most of its crops and had no homegrown brand.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
