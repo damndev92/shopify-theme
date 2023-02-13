@@ -313,3 +313,8 @@ h1, h2, h3, h4, h5, h6 {
 .gallery--hidden {
     display: none;
 }
+
+/* Navigation */
+.nav > li.mega-menu .dropdown-submenu.six_columns {
+  width: 16.6666666667%;
+}
