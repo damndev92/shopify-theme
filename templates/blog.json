@@ -58,7 +58,7 @@
         "3a996d82-d511-4e24-9c19-363a59ee2c03": {
           "type": "navigation_link",
           "settings": {
-            "link_url": "shopify:\/\/blogs\/the-flaneurs",
+            "link_url": "https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/the-flaneurs",
             "link_image": "shopify:\/\/shop_images\/The_Flaneurs.png",
             "link_text": "The Flâneurs"
           }
