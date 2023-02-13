@@ -222,16 +222,6 @@
         "faq_icon": "plus_minus"
       }
     },
-    "905968d0-1364-43ba-b6f9-c40d1387ff8b": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Pacai_6.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
-      }
-    },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
       "type": "text--rich-text",
       "settings": {
@@ -424,7 +414,6 @@
     "3e33914a-e927-4abd-a0bb-4265c3e5c2c6",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "905968d0-1364-43ba-b6f9-c40d1387ff8b",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "d65530bf-d321-40a6-9274-d539d93227d2",
