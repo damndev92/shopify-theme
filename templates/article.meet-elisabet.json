@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "1daf3bf3-12da-44ec-88f1-be6a2525f687": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/123116100_119675643250410_3570344161352560671_n-819x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What inspires your designs?<\/strong><br\/>I am inspired by what I see and by things that I like, regardless of what they are (colors, objects, shapes …) and then I try to capture it in my designs. I try not to think a lot and just start designing when I feel inspired by something, once it’s finished, I decide if I like it or not.<\/p><p><strong>Did you expect so much demand in so little time?<\/strong><br\/>Not at all! We are surprised and at the same time very excited. We do not sell anything that we are not passionate about, but we did not expect that others would like it as much as we do. What started as a hobby during lockdown has turned out a lot bigger than expected. <\/p><p><strong>Do you use Instagram a lot for inspiration?<\/strong><br\/>The truth is no. What makes the platera unique is that all the designs are inspired by things that surround me. I have my phone full of screenshots, but the funny thing is that none of them are dishes. Most inspo are of other things, like colored geometric images.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "1daf3bf3-12da-44ec-88f1-be6a2525f687",
     "main",
     "blog-posts"
   ]
