@@ -1,9 +1,9 @@
 {
   "sections": {
-    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
+    "85f6dbd8-9cb3-4313-ac71-dbacace8f3e9": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/s-inhabit-london-united-kingdom.jpg",
+        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_f73df551-c0ae-4185-acef-ac275e4cedf1.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -29,10 +29,10 @@
         "button_label": ""
       }
     },
-    "85f6dbd8-9cb3-4313-ac71-dbacace8f3e9": {
+    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_f73df551-c0ae-4185-acef-ac275e4cedf1.png",
+        "image": "shopify:\/\/shop_images\/s-inhabit-london-united-kingdom.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -316,10 +316,10 @@
     }
   },
   "order": [
-    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
+    "85f6dbd8-9cb3-4313-ac71-dbacace8f3e9",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
-    "85f6dbd8-9cb3-4313-ac71-dbacace8f3e9",
+    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "010e1187-c659-4cbb-a19c-cbb1a3cfabef",
     "ff10149a-4098-48c6-9420-2d9abafa1210",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
