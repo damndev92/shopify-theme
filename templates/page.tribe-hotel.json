@@ -143,31 +143,29 @@
         "button__text": "Shop the look"
       }
     },
+    "8b38bcfa-ead6-4545-ad7b-1e55330a1cb6": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "subheading": "",
+        "title": "Share your story",
+        "text": "Here's your chance to make a great first impression",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "a05db212-652f-4271-8069-7ace459b4c2e": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "medium",
         "layout": "left",
-        "subheading": "Meet",
+        "subheading": "Meet the host",
         "location": false,
-        "title": "Owner",
-        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "6662f3b4-71a8-41be-b231-b0233686c9d0": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "layout": "left",
-        "subheading": "Meet",
-        "location": false,
-        "title": "Interior Designer",
+        "title": "",
         "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
         "page_description": false,
         "button_link": "",
@@ -399,8 +397,8 @@
     "abb3abe2-b7c0-4a2a-9311-7466a6b23728",
     "ddd0bffa-458a-45f9-8004-7d856470b57f",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
+    "8b38bcfa-ead6-4545-ad7b-1e55330a1cb6",
     "a05db212-652f-4271-8069-7ace459b4c2e",
-    "6662f3b4-71a8-41be-b231-b0233686c9d0",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
