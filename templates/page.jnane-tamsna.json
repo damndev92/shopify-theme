@@ -52,6 +52,97 @@
         "button_label": ""
       }
     },
+    "45f9421f-82f0-4a47-b570-7c6064ecd2d2": {
+      "type": "image--logo-list",
+      "blocks": {
+        "template--17824634896699__45f9421f-82f0-4a47-b570-7c6064ecd2d2-1676291575c0dd75a6-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824634896699__45f9421f-82f0-4a47-b570-7c6064ecd2d2-1676291575c0dd75a6-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824634896699__45f9421f-82f0-4a47-b570-7c6064ecd2d2-1676291575c0dd75a6-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824634896699__45f9421f-82f0-4a47-b570-7c6064ecd2d2-1676291575c0dd75a6-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17824634896699__45f9421f-82f0-4a47-b570-7c6064ecd2d2-1676291575c0dd75a6-0",
+        "template--17824634896699__45f9421f-82f0-4a47-b570-7c6064ecd2d2-1676291575c0dd75a6-1",
+        "template--17824634896699__45f9421f-82f0-4a47-b570-7c6064ecd2d2-1676291575c0dd75a6-2",
+        "template--17824634896699__45f9421f-82f0-4a47-b570-7c6064ecd2d2-1676291575c0dd75a6-3"
+      ],
+      "settings": {
+        "colors": "white",
+        "width": 150,
+        "subheading": "",
+        "title": "As seen in"
+      }
+    },
+    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
+      "type": "product--shop-the-look",
+      "blocks": {
+        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
+          "type": "product",
+          "settings": {
+            "product": "beefbar-main-plate-knife-emoji",
+            "top": 63,
+            "left": 51,
+            "disable_spot": false
+          }
+        },
+        "61a17092-0b88-43c9-888c-ee6b50651501": {
+          "type": "product",
+          "settings": {
+            "product": "design-clock-solari-cifra-3-black",
+            "top": 0,
+            "left": 0,
+            "disable_spot": false
+          }
+        },
+        "2d0cd767-4992-4798-8a74-406d517d073e": {
+          "type": "product",
+          "settings": {
+            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
+            "top": 33,
+            "left": 0,
+            "disable_spot": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
+        "61a17092-0b88-43c9-888c-ee6b50651501",
+        "2d0cd767-4992-4798-8a74-406d517d073e"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "JNANE TAMSNA",
+        "title": "Shop the look",
+        "image": "shopify:\/\/shop_images\/47_2d584873-0427-45e1-9da4-686674347694.png",
+        "image__position": "image--left",
+        "hotspot__color": "#ffffff",
+        "stl__heading": "Heading",
+        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
+        "description__position": "hidden",
+        "link": "",
+        "button__text": "Shop the look"
+      }
+    },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -67,6 +158,20 @@
         "button_link": "",
         "hotel_page_url": false,
         "button_label": "Learn More"
+      }
+    },
+    "9201198d-52cd-4ad8-bbc8-6ae57ec226ff": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "subheading": "",
+        "title": "Share your story",
+        "text": "Here's your chance to make a great first impression",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
       }
     },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
@@ -156,56 +261,6 @@
         "colors": "light",
         "subheading": "",
         "title": ""
-      }
-    },
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
-      "type": "product--shop-the-look",
-      "blocks": {
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
-          "type": "product",
-          "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        },
-        "61a17092-0b88-43c9-888c-ee6b50651501": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
-          }
-        },
-        "2d0cd767-4992-4798-8a74-406d517d073e": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
-        "61a17092-0b88-43c9-888c-ee6b50651501",
-        "2d0cd767-4992-4798-8a74-406d517d073e"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "JNANE TAMSNA",
-        "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/47_2d584873-0427-45e1-9da4-686674347694.png",
-        "image__position": "image--left",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": "Shop the look"
       }
     },
     "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
@@ -369,10 +424,12 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "302ff8da-82b7-4a84-bdc7-26a7e514e2be",
     "d35ad0e1-49a0-442f-a911-b2ef5af24e91",
+    "45f9421f-82f0-4a47-b570-7c6064ecd2d2",
+    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
+    "9201198d-52cd-4ad8-bbc8-6ae57ec226ff",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
     "421c7e07-6af9-44f0-aa81-d5b98faac719",
     "889d2c25-4140-44f5-af7a-2c8599551986",
