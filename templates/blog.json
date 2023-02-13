@@ -17,6 +17,7 @@
     },
     "3d470d2e-dc91-4f3c-876e-8deacf3dc5b7": {
       "type": "template--blog-header",
+      "disabled": true,
       "settings": {
       }
     },
