@@ -52,6 +52,47 @@
         "button_label": ""
       }
     },
+    "fa27e928-71d7-4dc8-b0a9-357789a2e8e1": {
+      "type": "image--logo-list",
+      "blocks": {
+        "template--17824629162299__fa27e928-71d7-4dc8-b0a9-357789a2e8e1-1676291575c0dd75a6-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824629162299__fa27e928-71d7-4dc8-b0a9-357789a2e8e1-1676291575c0dd75a6-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824629162299__fa27e928-71d7-4dc8-b0a9-357789a2e8e1-1676291575c0dd75a6-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824629162299__fa27e928-71d7-4dc8-b0a9-357789a2e8e1-1676291575c0dd75a6-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17824629162299__fa27e928-71d7-4dc8-b0a9-357789a2e8e1-1676291575c0dd75a6-0",
+        "template--17824629162299__fa27e928-71d7-4dc8-b0a9-357789a2e8e1-1676291575c0dd75a6-1",
+        "template--17824629162299__fa27e928-71d7-4dc8-b0a9-357789a2e8e1-1676291575c0dd75a6-2",
+        "template--17824629162299__fa27e928-71d7-4dc8-b0a9-357789a2e8e1-1676291575c0dd75a6-3"
+      ],
+      "settings": {
+        "colors": "white",
+        "width": 150,
+        "subheading": "Did you know?",
+        "title": "Facts"
+      }
+    },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
       "type": "accordion",
       "blocks": {
@@ -386,6 +427,7 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "8fbd4d37-f5a9-4f6d-ac8a-aaa42a79403d",
     "da4f3bce-a546-4f2b-b010-3f4efa52fd35",
+    "fa27e928-71d7-4dc8-b0a9-357789a2e8e1",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "3c3ad3d0-ccd6-4a3d-97ee-b9cff65bfe21",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
