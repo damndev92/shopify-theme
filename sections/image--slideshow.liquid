@@ -289,6 +289,10 @@
                                     background-color: {{ block.settings.button-background }} !important;
                                     color: {{ block.settings.button-text }} !important;
                                 }
+
+                                .splitted-flex-slider > div:not(:nth-of-type({{ section.settings.slide_on_mobile }})) {
+                                    display: none;
+                                }
                             }
                         </style>
                     {% endfor %}
@@ -469,6 +473,13 @@
               "label": "Two images on one slide",
               "info": "Merge two images into one slide.",
               "default": false
+          },
+          {
+          "type": "number",
+          "id": "slide_on_mobile",
+          "label": "Which slide to show on mobile?",
+          "info": "This is optional for slide with splitted images. By default first slide will be shown on mobile.",
+          "default": 1
           },
         {
             "type": "radio",
