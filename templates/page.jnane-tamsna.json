@@ -39,36 +39,17 @@
         "text-over-image-width": "full-width"
       }
     },
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/45_930d41d3-0844-48d0-beee-a98864c29bae.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/46_677ac979-93fc-4f79-82ab-46dbf10ce153.png",
-            "link": "shopify:\/\/products\/parentesi-suspension-lamp",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0",
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1"
-      ],
+    "d35ad0e1-49a0-442f-a911-b2ef5af24e91": {
+      "type": "text--rich-text",
       "settings": {
-        "colors": "light",
+        "colors": "white",
+        "width": "medium",
         "subheading": "",
-        "title": ""
+        "page_title": "",
+        "title": "",
+        "text": "<p><br\/>Jnane Tamsna is a family-friendly hotel that benefits from a wonderful sense of space and light. A walk from bedroom to reception is likely to pass pools, covered pathways, and a discreetly located tennis court. It’s an extremely photogenic location, and as you walk around it’s easy to imagine yourself posed artfully in some shot accompanying an article entitled ‘The Wonder of Marrakech’.<br\/><\/p>",
+        "button_link": "",
+        "button_label": ""
       }
     },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
@@ -387,7 +368,7 @@
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "302ff8da-82b7-4a84-bdc7-26a7e514e2be",
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
+    "d35ad0e1-49a0-442f-a911-b2ef5af24e91",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
