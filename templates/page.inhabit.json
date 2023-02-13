@@ -115,75 +115,6 @@
         "button_label": "Learn More"
       }
     },
-    "ec227ab9-48fc-403c-82cd-b98c13fb3552": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/14_ab1400db-1c12-4b8b-a96b-3bf9ee141fff.png",
-        "layout": "left",
-        "subheading": "Inhabit",
-        "location": false,
-        "title": "Meet the Interior Designers",
-        "text_block": "<p>At Inhabit wellbeing and sustainable design was at the core of everything, with the aim for guests to leave feeling lighter, more free and inspired by taking the pace of life down, where time is luxury. Created by architecture firm Holland and Harvey with interiors by Peter Marino cohort Caitlin Henderson Design, Inhabit was designed with busy travellers in mind. The tables and chairs were created using materials honestly and in their natural state, all sealed with natural sealant to best showcase this feature. <\/p><p>Curated by Caitlin Henderson, furnishings by Hans Wegner, Austrian Design Collective EEOS for Carl Hansen & Son, and GamFratesi for Gubi, are placed side-by-side with sustainable pieces made by Burmese craftspeople. The fired earth foor is made to juxtapose with these touches.<\/p><p><\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
-      }
-    },
-    "63680a03-e85a-40a7-9084-4a83db4c7921": {
-      "type": "image--gallery",
-      "blocks": {
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/38.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle",
-            "title": "",
-            "description": ""
-          }
-        },
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/30.png",
-            "link": "shopify:\/\/products\/wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
-            "title": "",
-            "description": ""
-          }
-        },
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/35.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
-            "title": "",
-            "description": ""
-          }
-        },
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092",
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9",
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03",
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62"
-      ],
-      "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
-      }
-    },
     "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
       "type": "product--shop-the-look",
       "blocks": {
@@ -368,8 +299,6 @@
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
-    "ec227ab9-48fc-403c-82cd-b98c13fb3552",
-    "63680a03-e85a-40a7-9084-4a83db4c7921",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
     "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
     "889d2c25-4140-44f5-af7a-2c8599551986",
