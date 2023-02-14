@@ -24,7 +24,7 @@
         "subheading": "Crete, Greece",
         "page_title": "",
         "title": "Cretan Malia Park",
-        "text": "<p>A lush outside world perfect for families blends harmoniously within at this expansive retreat where traditional materials and textures offer a new take on Cretan luxury. Swaying palms, Indian figs, and banana trees are part of an exotic garden that serves as a strong reference point, and a dynamic architectural element that animates the property. The hotel’s modernist structures were constructed in the late 1980s by Antonis Stylianides, who once worked with Bauhaus legend Walter Gropius.<\/p>",
+        "text": "<p><br\/>Cretan Malia Park's traditional materials, textures, and colors of Crete, as well as curious indigenous objects combine to curate a warm atmosphere. Walnut, chestnut, and bamboo combine with rattan, ceramic, stone, and brass to create a palette of wood tones, mustard yellow, copper-red, blue, green, and orange that imparts a relaxed, boho mood in the bright, airy rooms. Murals artistically bring the nature of Crete inside the living spaces and serve as main focal points for the interior design.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -97,64 +97,40 @@
         "title": "Facts"
       }
     },
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
-      "type": "product--shop-the-look",
+    "6f3cde72-a98f-4df2-a8f5-725e2c5ede90": {
+      "type": "maison--shop-the-look",
       "blocks": {
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
+        "template--17824602128699__6f3cde72-a98f-4df2-a8f5-725e2c5ede90-1676391521c92cff8d-0": {
           "type": "product",
           "settings": {
+            "image": "shopify:\/\/shop_images\/CMP_SHOP_THE_LOOK.jpg",
+            "image__position": "image--left",
             "product": "alfonso-vase",
-            "top": 63,
-            "left": 51,
-            "disable_spot": true
+            "product-2": "alfonso-fruit-bowl-6",
+            "product-3": "arc-de-stool-53",
+            "product-4": "anthologist-pegasus-lover-bookmarks"
           }
         },
-        "61a17092-0b88-43c9-888c-ee6b50651501": {
+        "b35379ae-358d-449d-90b9-9573adf6976d": {
           "type": "product",
           "settings": {
-            "product": "arc-de-stool-53",
-            "top": 0,
-            "left": 0,
-            "disable_spot": true
-          }
-        },
-        "2d0cd767-4992-4798-8a74-406d517d073e": {
-          "type": "product",
-          "settings": {
-            "product": "backgammon-tea-towel-1",
-            "top": 33,
-            "left": 0,
-            "disable_spot": true
-          }
-        },
-        "5b9e5021-b2c1-4636-94f9-58b2164fc260": {
-          "type": "product",
-          "settings": {
-            "product": "bolero-floor-lamp",
-            "top": 0,
-            "left": 0,
-            "disable_spot": true
+            "image": "shopify:\/\/shop_images\/CMP_SHOP_THE_LOOK_1.jpg",
+            "image__position": "image--left",
+            "product": "1784-wooden-chair-with-polypropylene-fabric",
+            "product-2": "",
+            "product-3": "",
+            "product-4": ""
           }
         }
       },
       "block_order": [
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
-        "61a17092-0b88-43c9-888c-ee6b50651501",
-        "2d0cd767-4992-4798-8a74-406d517d073e",
-        "5b9e5021-b2c1-4636-94f9-58b2164fc260"
+        "template--17824602128699__6f3cde72-a98f-4df2-a8f5-725e2c5ede90-1676391521c92cff8d-0",
+        "b35379ae-358d-449d-90b9-9573adf6976d"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Shop",
-        "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/Cretan_Malia_4.png",
-        "image__position": "image--left",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": "Shop the look"
+        "subheading": "Subheading",
+        "title": "Shop the look"
       }
     },
     "dc673228-1f95-4ffc-887d-83a8a45785a5": {
@@ -357,7 +333,7 @@
     "1dc85c19-cbb0-4cf1-bc4a-3c743a1c5bd3",
     "e25422b6-ab6f-4892-939e-0f301e896c99",
     "59ecc3a2-e12e-4f43-a554-f9420936706d",
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
+    "6f3cde72-a98f-4df2-a8f5-725e2c5ede90",
     "dc673228-1f95-4ffc-887d-83a8a45785a5",
     "16287b18-538e-4971-9b07-365e6c3d0c5e",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
