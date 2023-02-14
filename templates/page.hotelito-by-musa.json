@@ -117,13 +117,34 @@
         "title": "Shop the look"
       }
     },
+    "c4d9e9f0-7392-4fce-b638-662dbc695f18": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Shop all products",
+        "url": "",
+        "link": "shopify:\/\/collections",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
+      }
+    },
     "247f1964-11e0-44fe-bee4-35b444e28737": {
       "type": "image--image-with-text-overlay",
+      "blocks": {
+        "65583e31-39ea-4683-9e66-9a47f187fe14": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "65583e31-39ea-4683-9e66-9a47f187fe14"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_f29d89c8-0427-4743-9445-2e0ee706b34b.png",
         "subheading": "",
         "title": "Take a tour",
-        "text": "Here's your chance to make a great first impression",
+        "text": "",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -139,10 +160,10 @@
         "image-width": "medium",
         "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_4575fbbc-58e2-426b-98c5-14de62c58814.png",
         "layout": "left",
-        "subheading": "meet the hosts",
+        "subheading": "meet the hosts - Andrés Saavedra & Tara Medina",
         "location": false,
-        "title": "Andrés Saavedra & Tara Medina",
-        "text_block": "<p><strong>“MUSA is a beautiful evolution of Andrés’ lifetime of design development, our experiences in community-building through LOOT, and our understanding that hospitality makes spaces come alive.” <\/strong><\/p>",
+        "title": "“MUSA is a beautiful evolution of Andrés’ lifetime of design development, our experiences in community-building through LOOT, and our understanding that hospitality makes spaces come alive.”",
+        "text_block": "",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -249,8 +270,33 @@
         "title": ""
       }
     },
+    "650f18c7-f550-47a8-856d-dd58f56806de": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Check availability",
+        "url": "https:\/\/www.stayatmusa.mx\/hotelito",
+        "link": "",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
+      }
+    },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
+      "blocks": {
+        "f3466d44-b6e6-40c4-9505-7d79c9af6e4a": {
+          "type": "article",
+          "settings": {
+            "blog_post_1": "",
+            "blog_post_2": "",
+            "blog_post_3": "",
+            "blog_post_4": ""
+          }
+        }
+      },
+      "block_order": [
+        "f3466d44-b6e6-40c4-9505-7d79c9af6e4a"
+      ],
       "settings": {
         "colors": "white",
         "subheading": "Read From",
@@ -260,32 +306,6 @@
         "show_dates": true,
         "show_blog_images": true,
         "imageSize": "portrait"
-      }
-    },
-    "f5f7b256-b511-4d25-9ec5-50568033693b": {
-      "type": "collection--collection-list",
-      "blocks": {
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-0",
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
       }
     }
   },
@@ -297,12 +317,13 @@
     "30842528-3ac7-4f2a-bbe8-fddbed1afe5b",
     "6e34689f-0653-41f3-abef-5eaf06c11841",
     "a2f71196-bd65-4ab2-957b-c36047007236",
+    "c4d9e9f0-7392-4fce-b638-662dbc695f18",
     "247f1964-11e0-44fe-bee4-35b444e28737",
     "c63a3c52-723b-4ea8-af80-bcdab2b58e04",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
-    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
-    "f5f7b256-b511-4d25-9ec5-50568033693b"
+    "650f18c7-f550-47a8-856d-dd58f56806de",
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
   ]
 }
