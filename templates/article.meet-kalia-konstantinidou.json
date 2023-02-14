@@ -114,6 +114,23 @@
         "button_label": ""
       }
     },
+    "4e792879-7d75-48e5-b861-fdcbef8dfa66": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/g-05-parilio-683x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What is your approach to hospitality? <\/strong><\/p><p>Through our properties we aspire to offer our guests the Greek essence of distinctive hospitality, wishing them to fully disconnect and create their own story, while embracing the authentic Cycladic lifestyle and carefree state of mind. We hope that they will carry home with them cherished memories and stories they can share with the people they love.<\/p><p><strong>What are you most proud of at the hotels? <\/strong><\/p><p>It is the calming ambiance we have been able to create so far in our hotels. We have been able to design an accommodation experience that seems to decelerate time. Every corner is imbued with a sense of intimacy, relaxation, and comfort, for a prevailing atmosphere that feels like a home away from home. As soon as one steps in, they can immediately enter a world of solace and serenity.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -137,6 +154,7 @@
     "main",
     "a03d6575-b737-4f5c-82e5-bc5f6109c4e8",
     "d610362f-c4a9-4f77-a785-b8210aff3000",
+    "4e792879-7d75-48e5-b861-fdcbef8dfa66",
     "blog-posts"
   ]
 }
