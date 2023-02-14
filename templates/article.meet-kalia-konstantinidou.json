@@ -131,6 +131,23 @@
         "button_label": ""
       }
     },
+    "22925169-3dc8-44a0-9e9f-c46468044188": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/SYKzHijI-683x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What inspired the design? <\/strong><\/p><p>For Istoria, we were profoundly influenced by the story of the house that used to lie on the grounds of the hotel. A deserted private residence neighboring a deep blue patch of the Aegean Sea that we transformed to a boutique hotel, aiming to form a new residential experience. The spaces are enhanced with an amalgamation of new and old materials and were intended to make guests feel as if they are living in an authentic Santorinian mansion, reminiscing the estate that once stood in its place.<\/p><p>For Parīlio, we were influenced by the traditional houses of Paros as well as the bright Cycladic sunlight and inspired by the local fortresses – like monasteries that one encounters on the island. The reception area, the first image that is captured by the visitor’s eye, a modern sanctuary with narrow windows and a large entrance that is distinguished by a series of impressive arches, offers an overwhelming feeling of complete calmness. These images create a sense of time travelling to past decades, when life on the Cycladic islands was as pure as light itself.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -155,6 +172,7 @@
     "a03d6575-b737-4f5c-82e5-bc5f6109c4e8",
     "d610362f-c4a9-4f77-a785-b8210aff3000",
     "4e792879-7d75-48e5-b861-fdcbef8dfa66",
+    "22925169-3dc8-44a0-9e9f-c46468044188",
     "blog-posts"
   ]
 }
