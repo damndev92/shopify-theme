@@ -3,7 +3,7 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/24_68ed213c-12f2-4963-ab3e-6abb2b800e5f.png",
+        "image": "shopify:\/\/shop_images\/VILLA_LENA.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -32,7 +32,7 @@
     "88f7ec75-97f2-443d-8281-abec602b3777": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/23_b2c68670-aa76-43be-9a9e-76ea5485d2a7.png",
+        "image": "shopify:\/\/shop_images\/Villa_Lena_1.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -145,11 +145,21 @@
     },
     "3a8f1126-35c8-4590-b632-0018214191aa": {
       "type": "image--image-with-text-overlay",
+      "blocks": {
+        "624553bc-eb92-466d-bca7-d0c9e102f0fc": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "624553bc-eb92-466d-bca7-d0c9e102f0fc"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_1_a3d4511f-7234-455e-9ffc-b4fd899b4def.png",
         "subheading": "",
         "title": "Take a tour",
-        "text": "Here's your chance to make a great first impression",
+        "text": "",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
