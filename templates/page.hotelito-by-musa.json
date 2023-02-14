@@ -39,6 +39,19 @@
         "text-over-image-width": "full-width"
       }
     },
+    "30842528-3ac7-4f2a-bbe8-fddbed1afe5b": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><br\/>Nestled between the cascading mountains of the Sierra Madres and Mexico’s glittering Pacific, and spanning 165 acres of Arcadian jungle and a one mile stretch of pristine, untouched coastline and a calm lagoon brimming with wildlife, the 11 bedroom boutique Hotelito by Musa is a new beachfront destination for the conscious traveler. A transcendental playground for the young at heart, Musa combines cutting-edge design, architecture, art, music, culinary experiences, relaxation and cultural explorations, conjure countless opportunities for pleasure and illumination.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "c63a3c52-723b-4ea8-af80-bcdab2b58e04": {
       "type": "text--image-with-text",
       "settings": {
@@ -251,6 +264,7 @@
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "9ffae660-13df-4a6b-8d76-7b4aacce707f",
+    "30842528-3ac7-4f2a-bbe8-fddbed1afe5b",
     "c63a3c52-723b-4ea8-af80-bcdab2b58e04",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
