@@ -23,53 +23,6 @@
         "button_label": ""
       }
     },
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "light",
-        "width": "small",
-        "subheading": "",
-        "page_title": "",
-        "title": "Date Night",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
-    "60bed94f-19d1-471f-9213-301734a4bab2": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/1-1.png",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "1. Kanishka",
-        "text_block": "<p>17-19 Maddox Street, W1S 2QH<\/p><p><br\/><strong>Head chef:<\/strong> Atul Kochhar<br\/><strong>Order the:<\/strong> Chicken tikka pie<\/p><p><\/p><p>Michelin Star chef Atul Kochhar’s contemporary Indian establishment not only offers tastebud-tantalising flavours, but this year sees a special five-course Valentine’s Day tasting menu designed especially for a night of romance. Expect traditional street food and mishti alongside aphrodisiacs like asparagus and figs. See the special V-day Menu <a href=\"https:\/\/kanishkarestaurant.co.uk\/wp-content\/uploads\/2023\/01\/Kanishka-Valentines-Menu-A5-2023.pdf\" target=\"_blank\">here<\/a>.<\/p>",
-        "page_description": false,
-        "button_link": "shopify:\/\/products\/beefbar-main-plate-piece-of-meat-emoji",
-        "hotel_page_url": false,
-        "button_label": "Book Now"
-      }
-    },
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
-        "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "hotel_page_url": false,
-        "button_label": "Book Now"
-      }
-    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -81,6 +34,38 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
+      }
+    },
+    "925deb6c-d8e0-41a9-a68a-362ccfc749f3": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17992903229755__925deb6c-d8e0-41a9-a68a-362ccfc749f3-16763800866a8296c1-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MeryanneLM-732x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p><strong>The Story behind the Moroccan inspiration<\/strong><\/p><p>“My husband and I (Dr. Gary Martin, an ethnobotanist and founder of the Global Diversity Foundation) bought land in the Palmeraie in 2000, and we opened the Jnane Tamsna in 2001. We built it from scratch; there was nothing there. I’ve done everything in the property, every inch, from the architecture to the interior design.” She continues with a smile.  “A few kilometers away from the center of Marrakech, the terrain expends over three hectares. We have an extraordinary garden: the 635-century-old palm trees are one of the main reason why we fell in love with the area. It’s not only an incredibly dense Palmeraie, but it also has a unique topography, as it’s not completely flat.”<\/p>"
+          }
+        },
+        "template--17992903229755__925deb6c-d8e0-41a9-a68a-362ccfc749f3-16763800866a8296c1-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/JnaneTamsna-1-731x1024.png",
+            "link": "",
+            "title": "",
+            "description": "<p><strong>How to achieve the Moroccan Interior look?<\/strong><\/p><p>“Morocco is a fascinating country. I am made of multiple origins myself (Meryanne was born in Cote’ d’Ivoire to a Senegalese diplomat father and West Indian lawyer mother. She spent her early childhood in Cote D’Ivoire, Ghana, London and Moscow before settling in Paris), and Morocco historically embodies the crossroad of influences. I think that’s the reason why foreigners feel so welcome here. The first house I did in Morocco was in 1986, and I’ve since then built strong relationships with local artisans. What I enjoy is that here, everything is possible: You draw sketches in the morning, and the next day the ironworker comes up with the model. There are infinite ways to be creative. Morrocan craft allows you to create unlimited bridge and bounds: freedom to create your own satellites.”<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17992903229755__925deb6c-d8e0-41a9-a68a-362ccfc749f3-16763800866a8296c1-1",
+        "template--17992903229755__925deb6c-d8e0-41a9-a68a-362ccfc749f3-16763800866a8296c1-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
       }
     },
     "blog-posts": {
@@ -100,10 +85,8 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
-    "60bed94f-19d1-471f-9213-301734a4bab2",
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "925deb6c-d8e0-41a9-a68a-362ccfc749f3",
     "blog-posts"
   ]
 }
