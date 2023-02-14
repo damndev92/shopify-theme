@@ -114,51 +114,6 @@
         "faq_icon": "plus_minus"
       }
     },
-    "9219f53d-ea1d-47cb-8fd2-aecfb82b5329": {
-      "type": "accordion",
-      "blocks": {
-        "560848d8-ed8a-45c4-a2a1-ec4674ade953": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        },
-        "a33584f1-2905-4f0e-8fe0-e2d0e9f3dae5": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        },
-        "7cfdd08b-79d3-4926-b251-8b7b76280243": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        },
-        "454cf478-9def-4652-beb0-a5fbc04b05ca": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "560848d8-ed8a-45c4-a2a1-ec4674ade953",
-        "a33584f1-2905-4f0e-8fe0-e2d0e9f3dae5",
-        "7cfdd08b-79d3-4926-b251-8b7b76280243",
-        "454cf478-9def-4652-beb0-a5fbc04b05ca"
-      ],
-      "settings": {
-        "background-color": "#e3e3e3",
-        "text-color": "#000000",
-        "title": "Tips from the hosts",
-        "faq_icon": "plus_minus"
-      }
-    },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
       "type": "product--shop-the-look",
       "blocks": {
@@ -322,7 +277,6 @@
     "3c6f013c-21c7-482d-9d33-5b7d2fbef2c1",
     "2cc5cfa5-ca39-4b74-a4e8-2786a39b922a",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "9219f53d-ea1d-47cb-8fd2-aecfb82b5329",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "68d33d91-cbd6-48de-bf58-17aae17bb37b",
     "889d2c25-4140-44f5-af7a-2c8599551986",
