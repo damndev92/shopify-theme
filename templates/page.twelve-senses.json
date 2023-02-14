@@ -16,6 +16,16 @@
       "settings": {
       }
     },
+    "50a290a4-c27f-483e-8288-25ac9e12e76a": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_11aba1c0-89b0-4218-907d-96cf47d4378b.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width"
+      }
+    },
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
       "type": "text--rich-text",
       "settings": {
@@ -397,6 +407,7 @@
   "order": [
     "f5bda6e8-dcdb-4f75-83f7-787ab9571b9e",
     "main",
+    "50a290a4-c27f-483e-8288-25ac9e12e76a",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
