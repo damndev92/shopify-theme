@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "8bf6c2a4-5b76-4df7-87e6-98a8b0f6059a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/wild-by-tart2.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Favourite hotel in London\/in the world?<\/strong><\/p><p>Last year, I went to Kalinaw on Siagaro island in the Philippines which was incredible<\/p><p><strong>Favourite address for decoration in London\/ in the world.<\/strong><\/p><p>Kempton Market, if you’re luck<\/p><p><strong>Is there an object you wish you had brought home from a hotel or a restaurant?<\/strong><\/p><p>There’s a hotel in Morocco called El Fenn, pretty much everything in there I wish I could have taken home.<\/p><p>(Lucy is in luck, you can bring some home thanks to Maison Flâneur <a href=\"https:\/\/www.maisonflaneur.com\/venues\/el-fenn\/products\/\">here<\/a>)<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "8bf6c2a4-5b76-4df7-87e6-98a8b0f6059a",
     "main",
     "blog-posts"
   ]
