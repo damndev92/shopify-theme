@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/Credit-Jade-Nina-Sarkhel-31-copy-683x1024.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Can you tell us what inspired your designs?<\/strong><\/p><p>My inspiration comes from so many sources, whether it is a piece from the 1950ies or from a forgotten past, that I can reinvent to give it a new life, whether it is the nature that surrounds us with all its organic shapes, whether it is an everyday object whose form I think I can transform to make a great light. <\/p><p>I remember during a trip on the island of Sumatra, I was lying on my bed in a modest hotel, overcome by the heat and the humidity typical of these tropical regions. Whilst I was daydreaming, excited about my excursion to the jungle the next day, my eyes were fixed on the mosquito net hanging over my head, it was not fully hanging but knotted halfway as they are usually kept during the day. I noticed it was in really bad state and I was pretty sure it wasn’t going to protect me against mosquitoes that night, but I thought, actually this could be a nice shape for a light. This is how I got the idea of the Meduse model.<\/p><p>This variety of inspirations explains the eclecticism of the Gong lighting collections which is, I believe, a uniqueness.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
