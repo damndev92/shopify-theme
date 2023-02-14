@@ -52,6 +52,20 @@
         "button_label": ""
       }
     },
+    "247f1964-11e0-44fe-bee4-35b444e28737": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "subheading": "",
+        "title": "Share your story",
+        "text": "Here's your chance to make a great first impression",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "c63a3c52-723b-4ea8-af80-bcdab2b58e04": {
       "type": "text--image-with-text",
       "settings": {
@@ -265,6 +279,7 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "9ffae660-13df-4a6b-8d76-7b4aacce707f",
     "30842528-3ac7-4f2a-bbe8-fddbed1afe5b",
+    "247f1964-11e0-44fe-bee4-35b444e28737",
     "c63a3c52-723b-4ea8-af80-bcdab2b58e04",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
