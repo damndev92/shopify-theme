@@ -93,63 +93,23 @@
         "title": "Facts"
       }
     },
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
-      "type": "product--shop-the-look",
+    "c7696e47-4593-46aa-ae27-e28dca9a5dad": {
+      "type": "image--image-with-text-overlay",
       "blocks": {
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
-          "type": "product",
+        "0c83d190-4f66-4ffd-8b8b-00e816375ec9": {
+          "type": "image",
           "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        },
-        "61a17092-0b88-43c9-888c-ee6b50651501": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
-          }
-        },
-        "2d0cd767-4992-4798-8a74-406d517d073e": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
           }
         }
       },
       "block_order": [
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
-        "61a17092-0b88-43c9-888c-ee6b50651501",
-        "2d0cd767-4992-4798-8a74-406d517d073e"
+        "0c83d190-4f66-4ffd-8b8b-00e816375ec9"
       ],
-      "settings": {
-        "colors": "white",
-        "subheading": "Shop",
-        "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/Untitled_design_00066cfb-72a6-48a6-8a65-689187267a2b.png",
-        "image__position": "image--left",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": "Shop the look"
-      }
-    },
-    "c7696e47-4593-46aa-ae27-e28dca9a5dad": {
-      "type": "image--image-with-text-overlay",
       "settings": {
         "image": "shopify:\/\/shop_images\/Rachael_smith-_hotel228834.jpg",
         "subheading": "",
         "title": "Take a tour",
-        "text": "Here's your chance to make a great first impression",
+        "text": "",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -162,13 +122,13 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/Fields-in-Fields-Thyme-Caryn-Hibbert-DSC5404.jpg",
         "layout": "left",
-        "subheading": "Meet the Host",
+        "subheading": "Meet the Host - Caryn Hibbert",
         "location": false,
-        "title": "Caryn Hibbert, Owner",
-        "text_block": "<p><strong>\"Thyme is an extension of our home and that familial feel inspires to our style of service. We want our guests to feel at home and at complete ease.\"<\/strong><\/p>",
+        "title": "\"Thyme is an extension of our home and that familial feel inspires to our style of service. We want our guests to feel at home and at complete ease.\"",
+        "text_block": "",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -322,7 +282,6 @@
     "fddaf64f-ef02-4124-a6da-30225eb3da6f",
     "6fc8ef13-e753-4d99-8c04-6b983828a3d5",
     "9f034a87-45c6-48b5-b5b7-ddd23ad89105",
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "c7696e47-4593-46aa-ae27-e28dca9a5dad",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
