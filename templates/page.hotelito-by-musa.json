@@ -97,25 +97,8 @@
       "settings": {
         "background-color": "#e3e3e3",
         "text-color": "#000000",
-        "title": "Frequently asked questions",
+        "title": "Tips from the hosts",
         "faq_icon": "plus_minus"
-      }
-    },
-    "f752c25e-ff65-466a-ba61-33848f1147fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/52c2beadcb236f210b2ea8634a0d3af6fcab07b3-1277x960.webp",
-        "layout": "left",
-        "subheading": "Hotelito by Musa",
-        "location": false,
-        "title": "Meet the Interior Designers",
-        "text_block": "<p><br\/>With over 17 years experience in architecture and design projects from around Ixtapa-Zihuatanejo region, ASD provides elevated, contemporary, and minimalist design concepts for structures, spaces, and branding in a now signature modernist style rooted in natural, and locally-sourced materials that hero a new era of Mexican tradition and craftsmanship. Designer Andrés Saavedra’s signature style seamlessly melds the Japanese aesthetic concept of Wabi Sabi with the new wave of Mexican Modernism.Opposing elements come together to create sensory experiences: Locally-sourced materials such as stone, palapa, and tropical wood; contemporary components like metal, concrete, and glass. Interiors showcase a curated blend of curiosities both familiar and unknown—artisanal fabrics, modern art, handmade furniture, intricately patterned tiles.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
       }
     },
     "63680a03-e85a-40a7-9084-4a83db4c7921": {
@@ -382,7 +365,6 @@
     "9ffae660-13df-4a6b-8d76-7b4aacce707f",
     "c63a3c52-723b-4ea8-af80-bcdab2b58e04",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "f752c25e-ff65-466a-ba61-33848f1147fc",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
