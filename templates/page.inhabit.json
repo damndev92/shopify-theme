@@ -283,41 +283,29 @@
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
+      "blocks": {
+        "74386de5-5792-4da4-9e52-b3263e31d4cb": {
+          "type": "article",
+          "settings": {
+            "blog_post_1": "flaneur-magazine\/meet-anne-rogers-culture-a-london",
+            "blog_post_2": "",
+            "blog_post_3": "",
+            "blog_post_4": ""
+          }
+        }
+      },
+      "block_order": [
+        "74386de5-5792-4da4-9e52-b3263e31d4cb"
+      ],
       "settings": {
         "colors": "white",
         "subheading": "Read From",
         "title": "Flâneur Magazine",
         "post_limit": 3,
         "show_author_name": false,
-        "show_dates": true,
+        "show_dates": false,
         "show_blog_images": true,
         "imageSize": "portrait"
-      }
-    },
-    "f5f7b256-b511-4d25-9ec5-50568033693b": {
-      "type": "collection--collection-list",
-      "blocks": {
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-0",
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
       }
     }
   },
@@ -336,7 +324,6 @@
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "be9f3fc5-3a81-4d6d-9e5c-b2efe4e69f7e",
-    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
-    "f5f7b256-b511-4d25-9ec5-50568033693b"
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
   ]
 }
