@@ -84,12 +84,20 @@
             "question": "Place your question or heading here",
             "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
+        },
+        "460b9f5b-9b0c-4c97-8584-e4495a0e2bc0": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
         }
       },
       "block_order": [
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2",
+        "460b9f5b-9b0c-4c97-8584-e4495a0e2bc0"
       ],
       "settings": {
         "background-color": "#e3e3e3",
