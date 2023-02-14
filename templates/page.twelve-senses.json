@@ -39,36 +39,17 @@
         "text-over-image-width": "full-width"
       }
     },
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/19_c8650fd9-625f-4c73-bc76-d88a6b59f6ad.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/27_5117a923-0761-47dc-95e6-1e5edcabe69c.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0",
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1"
-      ],
+    "71b67f9e-af4e-4b2e-9725-a44f13f376a1": {
+      "type": "text--rich-text",
       "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
+        "colors": "white",
+        "width": "medium",
+        "subheading": "California, USA",
+        "page_title": "",
+        "title": "Twelve Senses",
+        "text": "<p><br\/>Located in sunny Encinitas, this B&B is near beautiful coastlines, sandy beaches, and a thriving downtown. You can experience the rich local community, known for its meditation gardens, yoga, artisans and healers. Immerse yourself in some of the many activities that can connect your senses to nature – such as paddle boarding or surfing, sound bowl healing, or even walking with goats in the nearby canyons. For foodies, Encinitas boasts plenty of celebrity chef restaurants, vegan cuisine, micro Kombucha and beer breweries as well as wineries.<\/p>",
+        "button_link": "",
+        "button_label": ""
       }
     },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
@@ -111,12 +92,20 @@
             "question": "Place your question or heading here",
             "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
+        },
+        "0e8c99b1-2680-4148-875c-24328b2219ed": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
         }
       },
       "block_order": [
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2",
+        "0e8c99b1-2680-4148-875c-24328b2219ed"
       ],
       "settings": {
         "background-color": "#e3e3e3",
@@ -409,7 +398,7 @@
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "50a290a4-c27f-483e-8288-25ac9e12e76a",
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
+    "71b67f9e-af4e-4b2e-9725-a44f13f376a1",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
