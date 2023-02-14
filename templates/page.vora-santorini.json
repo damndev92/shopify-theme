@@ -29,10 +29,10 @@
         "button_label": ""
       }
     },
-    "c407d45e-3b0d-4fdd-834d-149353f5a9d1": {
+    "c29a0e93-b6e3-4f23-be91-1c932143c79c": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/33_8a0b3540-a6c3-450f-8f92-4e483c21a059.png",
+        "image": "shopify:\/\/shop_images\/vora_5.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -52,58 +52,45 @@
         "button_label": ""
       }
     },
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
-      "type": "accordion",
+    "cb4f91bf-2a61-4534-a4f1-ba87c880464a": {
+      "type": "image--logo-list",
       "blocks": {
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
-          "type": "tab_content",
+        "template--17824634863931__cb4f91bf-2a61-4534-a4f1-ba87c880464a-1676371018e31804d1-0": {
+          "type": "logo_image",
           "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "link": ""
           }
         },
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
-          "type": "tab_content",
+        "template--17824634863931__cb4f91bf-2a61-4534-a4f1-ba87c880464a-1676371018e31804d1-1": {
+          "type": "logo_image",
           "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "link": ""
           }
         },
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
-          "type": "tab_content",
+        "template--17824634863931__cb4f91bf-2a61-4534-a4f1-ba87c880464a-1676371018e31804d1-2": {
+          "type": "logo_image",
           "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "link": ""
+          }
+        },
+        "template--17824634863931__cb4f91bf-2a61-4534-a4f1-ba87c880464a-1676371018e31804d1-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
           }
         }
       },
       "block_order": [
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
+        "template--17824634863931__cb4f91bf-2a61-4534-a4f1-ba87c880464a-1676371018e31804d1-0",
+        "template--17824634863931__cb4f91bf-2a61-4534-a4f1-ba87c880464a-1676371018e31804d1-1",
+        "template--17824634863931__cb4f91bf-2a61-4534-a4f1-ba87c880464a-1676371018e31804d1-2",
+        "template--17824634863931__cb4f91bf-2a61-4534-a4f1-ba87c880464a-1676371018e31804d1-3"
       ],
       "settings": {
-        "background-color": "#e3e3e3",
-        "text-color": "#000000",
-        "title": "Frequently asked questions",
-        "faq_icon": "plus_minus"
-      }
-    },
-    "f752c25e-ff65-466a-ba61-33848f1147fc": {
-      "type": "text--image-with-text",
-      "settings": {
         "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/Interior_Designers-Hotels_11bf6830-07c5-43de-8532-1d85a791b3bd.png",
-        "layout": "left",
-        "subheading": "VòRA SANTORINI",
-        "location": false,
-        "title": "Meet the Interior Designers",
-        "text_block": "<p><br\/>K STUDIO, the Designers behind Vòra Santorini based the design concept on the the volcanic rock and the traditional local vernacular. They wanted to reveal and control the drama and thrill of the site whilst giving guests comforta and privacy. Guests experience a series of carefully choreographed contrasts – the wide open exposure to the sun and view against the cool darkness of the cave rock; black volcanic rock and burned finishes against cool white curves and calming pale textures – dark with light, sharp with soft, drama with total relaxation. The hotel is intense and complex, yet laid out with clarity and designed with authenticity.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
+        "width": 150,
+        "subheading": "",
+        "title": "As seen in"
       }
     },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
@@ -156,14 +143,66 @@
         "button__text": "Shop the look"
       }
     },
-    "c29a0e93-b6e3-4f23-be91-1c932143c79c": {
-      "type": "image--image",
+    "f752c25e-ff65-466a-ba61-33848f1147fc": {
+      "type": "text--image-with-text",
       "settings": {
-        "image": "shopify:\/\/shop_images\/vora_5.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/Interior_Designers-Hotels_11bf6830-07c5-43de-8532-1d85a791b3bd.png",
+        "layout": "left",
+        "subheading": "VòRA SANTORINI",
+        "location": false,
+        "title": "Meet the Interior Designers",
+        "text_block": "<p><br\/>K STUDIO, the Designers behind Vòra Santorini based the design concept on the the volcanic rock and the traditional local vernacular. They wanted to reveal and control the drama and thrill of the site whilst giving guests comforta and privacy. Guests experience a series of carefully choreographed contrasts – the wide open exposure to the sun and view against the cool darkness of the cave rock; black volcanic rock and burned finishes against cool white curves and calming pale textures – dark with light, sharp with soft, drama with total relaxation. The hotel is intense and complex, yet laid out with clarity and designed with authenticity.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
+      "type": "accordion",
+      "blocks": {
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "06dc1796-5253-4ec6-8061-039595d0328e": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2",
+        "06dc1796-5253-4ec6-8061-039595d0328e"
+      ],
+      "settings": {
+        "background-color": "#e3e3e3",
+        "text-color": "#000000",
+        "title": "Frequently asked questions",
+        "faq_icon": "plus_minus"
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
@@ -265,12 +304,12 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
-    "c407d45e-3b0d-4fdd-834d-149353f5a9d1",
-    "dbf2fa01-3fb1-4e95-90d8-3aa49b300503",
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "f752c25e-ff65-466a-ba61-33848f1147fc",
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "c29a0e93-b6e3-4f23-be91-1c932143c79c",
+    "dbf2fa01-3fb1-4e95-90d8-3aa49b300503",
+    "cb4f91bf-2a61-4534-a4f1-ba87c880464a",
+    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
+    "f752c25e-ff65-466a-ba61-33848f1147fc",
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
