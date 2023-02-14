@@ -223,7 +223,7 @@
         "subheading": "The rooms",
         "page_title": "",
         "title": "Take A Peek Inside",
-        "text": "<p><br\/>Parīlio's Rooms are inspired by literal Parilios (parelion): Bright, sunlike optical illusions, often on a luminous ring or halo.<\/p><p>Characterised by Paros’ distinctive architecture and vibe, the hotel’s 33 Suites are defined by a soothing, tonal colour palette and natural materials.<\/p>",
+        "text": "<p><br\/>Parīlio's Rooms are inspired by literal Parilios (parelion): Bright, sunlike optical illusions, often on a luminous ring or halo. Characterised by Paros’ distinctive architecture and vibe, the hotel’s 33 Suites are defined by a soothing, tonal colour palette and natural materials.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -268,6 +268,17 @@
         "colors": "white",
         "subheading": "",
         "title": ""
+      }
+    },
+    "186573cd-fe7b-4506-8957-e27d2f6d2711": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Check availability",
+        "url": "https:\/\/www.designhotels.com\/hotels\/greece\/paros\/parilio\/?&Rooms=1&Adult=2&Child=0&Childages=",
+        "link": "",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
       }
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
@@ -324,6 +335,7 @@
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
+    "186573cd-fe7b-4506-8957-e27d2f6d2711",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
     "f5f7b256-b511-4d25-9ec5-50568033693b"
   ]
