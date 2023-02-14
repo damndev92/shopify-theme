@@ -208,6 +208,7 @@
     "6ef10766-e00d-45e5-b405-600dc9f34f9b": {
       "type": "image--image-with-text-overlay",
       "settings": {
+        "image": "shopify:\/\/shop_images\/105.png",
         "subheading": "",
         "title": "Take a tour",
         "text": "Here's your chance to make a great first impression",
