@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "94f3aa02-5263-480a-acb3-53e0236258f1": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/007-istoria-destination-santorini-819x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How are the islands of Santorini and Paros different from each other? <\/strong><\/p><p>Santorini is our first and eternal love, while Paros is the island we used to spend our family vacation. Both islands boast exquisite natural beauty, rich culture, and gastronomy, and yet they are very unique and with a completely different vibe from each other. The volcanic landscape of Santorini on the one side is a major attraction because of its energy and mystery. A massive explosion that happened thousands of years ago at the Aegean sea, created the biggest Caldera in the world, now offering an amazingly beautiful scenery with breathtaking views – mostly famous for the sun-bleached houses hanging from the cliff, blue-domed churches, and legendary sunsets. On the other side, Paros is a place where unspoiled natural beauty and the slowed rhythms of Cycladic life prevail, the island embodies an authentic and organic Greek experience. The younger crowds come looking for a laidback holiday among its pristine sandy beaches and lively nightlife. Surfers come for its inviting waves, while families enjoy its many shallow, sheltered bays. Couples relish the picturesque villages and bougainvillea-lined alleyways. And nature lovers come to explore the island’s wildlife and stunning geological formations.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "94f3aa02-5263-480a-acb3-53e0236258f1",
     "main",
     "blog-posts"
   ]
