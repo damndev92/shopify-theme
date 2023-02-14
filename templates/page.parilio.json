@@ -39,6 +39,19 @@
         "text-over-image-width": "full-width"
       }
     },
+    "3c6f013c-21c7-482d-9d33-5b7d2fbef2c1": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><br\/>The rolling landscape of the Cycladic island of Paros — with its mountainous heaps, pine-fringed coves and white-washed fishing villages — casts a flawless frame around the timeless beauty that is Parīlio. Here, amongst 33 suites, the past, present and to an extent the future are seamlessly merged in a celebration of this fabled Greek escape.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
       "type": "image--gallery",
       "blocks": {
@@ -404,6 +417,7 @@
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "beb23a1d-cc68-4ce6-b14e-61aa94bcefca",
+    "3c6f013c-21c7-482d-9d33-5b7d2fbef2c1",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "2cc5cfa5-ca39-4b74-a4e8-2786a39b922a",
