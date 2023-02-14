@@ -32,7 +32,7 @@
     "66506f27-d47d-47ca-ac78-8d21bc6cab4b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/facade-circulo-mexicano-1466x1148-1-1024x802.jpg",
+        "image": "shopify:\/\/shop_images\/CIRCULO_BANNER_2.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -130,11 +130,22 @@
     },
     "b3719866-6b76-4281-8172-8fceffd46385": {
       "type": "image--image-with-text-overlay",
+      "blocks": {
+        "edb801fe-55f7-4605-93bb-45aee44ca3da": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/CIRCULO_BANNER_2.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "edb801fe-55f7-4605-93bb-45aee44ca3da"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Schermata-2021-06-01-alle-18.00.09-1024x683_22ddeca1-351b-47d5-9beb-861d9a590ca6.png",
         "subheading": "",
         "title": "Take a tour",
-        "text": "Here's your chance to make a great first impression",
+        "text": "",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -283,32 +294,6 @@
         "show_blog_images": true,
         "imageSize": "portrait"
       }
-    },
-    "f5f7b256-b511-4d25-9ec5-50568033693b": {
-      "type": "collection--collection-list",
-      "blocks": {
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-0",
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
     }
   },
   "order": [
@@ -326,7 +311,6 @@
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "8a4c743d-0714-49ec-a2b4-16b98104bae6",
-    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
-    "f5f7b256-b511-4d25-9ec5-50568033693b"
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
   ]
 }
