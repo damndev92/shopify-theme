@@ -157,7 +157,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "large",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_1_e2462119-27cc-4966-8940-7d35d331f5d4.png",
         "layout": "left",
         "subheading": "Meet the host - Lena Evstafieva",
@@ -283,13 +283,27 @@
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
+      "blocks": {
+        "514ed471-332a-4fe3-99be-e4372a71f5cc": {
+          "type": "article",
+          "settings": {
+            "blog_post_1": "flaneur-magazine\/meet-lena-evstafieva-hotelier-villa-lena-tuscany",
+            "blog_post_2": "flaneur-magazine\/make-yourself-at-home-villa-lena-tuscany-italy",
+            "blog_post_3": "",
+            "blog_post_4": ""
+          }
+        }
+      },
+      "block_order": [
+        "514ed471-332a-4fe3-99be-e4372a71f5cc"
+      ],
       "settings": {
         "colors": "white",
         "subheading": "Read From",
         "title": "Flâneur Magazine",
-        "post_limit": 3,
+        "post_limit": 2,
         "show_author_name": false,
-        "show_dates": true,
+        "show_dates": false,
         "show_blog_images": true,
         "imageSize": "portrait"
       }
