@@ -87,6 +87,48 @@
         "show_recent_posts": false
       }
     },
+    "3b638a6a-3f56-40fa-ae80-6ff3cfcb67ec": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17993371386171__3b638a6a-3f56-40fa-ae80-6ff3cfcb67ec-1676384571c4514e76-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6-Main-plates-set-3-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Beefbar Starter Plate Fire Emoji<\/p><p>€87<\/p>"
+          }
+        },
+        "template--17993371386171__3b638a6a-3f56-40fa-ae80-6ff3cfcb67ec-1676384571c4514e76-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6-starter-plates-set-2-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Beefbar Starter Plate Heart Emoji<\/p><p>€87<\/p>"
+          }
+        },
+        "template--17993371386171__3b638a6a-3f56-40fa-ae80-6ff3cfcb67ec-1676384571c4514e76-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6-Main-plates-set-2-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Beefbar Starter Plate Smiling Face with Hearteyes Emoji<\/p><p>€87<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17993371386171__3b638a6a-3f56-40fa-ae80-6ff3cfcb67ec-1676384571c4514e76-0",
+        "template--17993371386171__3b638a6a-3f56-40fa-ae80-6ff3cfcb67ec-1676384571c4514e76-1",
+        "template--17993371386171__3b638a6a-3f56-40fa-ae80-6ff3cfcb67ec-1676384571c4514e76-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -108,6 +150,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "524b6561-1acc-48e1-9031-63d5eda36130",
     "main",
+    "3b638a6a-3f56-40fa-ae80-6ff3cfcb67ec",
     "blog-posts"
   ]
 }
