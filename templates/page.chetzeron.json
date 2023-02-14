@@ -93,6 +93,41 @@
         "title": "Facts"
       }
     },
+    "8b0fe2c7-cfe8-4c3d-aec3-d732c1fe783e": {
+      "type": "maison--shop-the-look",
+      "blocks": {
+        "template--17824629096763__8b0fe2c7-cfe8-4c3d-aec3-d732c1fe783e-1676391521c92cff8d-0": {
+          "type": "product",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CHETZERON.jpg",
+            "image__position": "image--left",
+            "product": "ango-cascadence-table-light",
+            "product-2": "marmot",
+            "product-3": "bucherrong",
+            "product-4": "bokehheing-iii"
+          }
+        }
+      },
+      "block_order": [
+        "template--17824629096763__8b0fe2c7-cfe8-4c3d-aec3-d732c1fe783e-1676391521c92cff8d-0"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Subheading",
+        "title": "Shop the look"
+      }
+    },
+    "897508ba-7e25-4824-bb87-a78b8ce9f3b2": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Shop all products",
+        "url": "",
+        "link": "shopify:\/\/collections\/chetzeron",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
+      }
+    },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -153,56 +188,6 @@
         "text-color": "#000000",
         "title": "Tips from the host",
         "faq_icon": "plus_minus"
-      }
-    },
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
-      "type": "product--shop-the-look",
-      "blocks": {
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
-          "type": "product",
-          "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        },
-        "61a17092-0b88-43c9-888c-ee6b50651501": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
-          }
-        },
-        "2d0cd767-4992-4798-8a74-406d517d073e": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
-        "61a17092-0b88-43c9-888c-ee6b50651501",
-        "2d0cd767-4992-4798-8a74-406d517d073e"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "Shop",
-        "title": "Shop The Look",
-        "image": "shopify:\/\/shop_images\/chetzeron_animal.png",
-        "image__position": "image--left",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": "Shop the look"
       }
     },
     "6ef10766-e00d-45e5-b405-600dc9f34f9b": {
@@ -322,9 +307,10 @@
     "e565d602-bab2-4176-9c66-c7c716c5764b",
     "7fde1f3e-5591-467f-803f-f32e0ba5b443",
     "66c36f1d-a4ed-4f61-b09d-7dd58a3f7d89",
+    "8b0fe2c7-cfe8-4c3d-aec3-d732c1fe783e",
+    "897508ba-7e25-4824-bb87-a78b8ce9f3b2",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "6ef10766-e00d-45e5-b405-600dc9f34f9b",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
