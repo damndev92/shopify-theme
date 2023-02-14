@@ -110,6 +110,19 @@
         "title": ""
       }
     },
+    "bf6b13df-31d0-44a0-8171-56b4ffda50ba": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><strong>Meryanne Loum Martin, on creating unique piece of furniture.  <\/strong><\/p><p>“As I dreamed about the interiors, I started designing my own pieces of furniture and objects: Lights, photophores and a little bit of clothing and accessories, as well as renovating unique vintage furniture. I prefer creating objects that my guests can’t find in the souk: They don’t need me to find the classical Moroccan artisanal objects, but I can offer them things they couldn’t find anywhere else.”<\/p><p><\/p><p><strong>Why is it important to gather objects with a soul?<\/strong><\/p><p>“Having personal items in a space is essential. Then, the objects that are meant to be functional,  need to be beautiful but not the center of attention. Paintings and books are the most important. Personally, I cannot live without them because they ground me… Maybe its because I’m a nomad at heart. What makes me feel good are those personal objects inhabited by a story, with a soul. When I start a project, I always start by asking the owner what he values, and we build around that.”<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -130,6 +143,7 @@
     "main",
     "925deb6c-d8e0-41a9-a68a-362ccfc749f3",
     "6f762497-bc9d-493c-b614-40cfa4ec93e2",
+    "bf6b13df-31d0-44a0-8171-56b4ffda50ba",
     "blog-posts"
   ]
 }
