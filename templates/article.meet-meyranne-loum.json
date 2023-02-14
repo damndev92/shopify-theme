@@ -185,6 +185,16 @@
         "button_label": ""
       }
     },
+    "7e4828d2-6212-454f-9b83-c84eccd5358c": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PartyJT-1024x576.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -209,6 +219,7 @@
     "545fab22-f904-4542-abd0-528459fdd437",
     "d0b542c4-4f76-446a-af17-dd9dbcc5ac6f",
     "8aa97077-3c4d-4a6d-a052-4f9651af6037",
+    "7e4828d2-6212-454f-9b83-c84eccd5358c",
     "blog-posts"
   ]
 }
