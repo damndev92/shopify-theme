@@ -123,6 +123,16 @@
         "button_label": ""
       }
     },
+    "6f44c1ba-69aa-4282-9436-0a8b767e92c7": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/p21w6kg47bziny1ftzga.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -147,6 +157,7 @@
     "main",
     "e937b6a6-865c-454f-b45b-16cb09f4d7b2",
     "28f9e77e-9857-4cd1-b59a-818a14b33a8f",
+    "6f44c1ba-69aa-4282-9436-0a8b767e92c7",
     "blog-posts"
   ]
 }

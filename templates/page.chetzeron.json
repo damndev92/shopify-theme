@@ -52,6 +52,47 @@
         "button_label": ""
       }
     },
+    "66c36f1d-a4ed-4f61-b09d-7dd58a3f7d89": {
+      "type": "image--logo-list",
+      "blocks": {
+        "template--17824629096763__66c36f1d-a4ed-4f61-b09d-7dd58a3f7d89-167637755026b4ebd1-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824629096763__66c36f1d-a4ed-4f61-b09d-7dd58a3f7d89-167637755026b4ebd1-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824629096763__66c36f1d-a4ed-4f61-b09d-7dd58a3f7d89-167637755026b4ebd1-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824629096763__66c36f1d-a4ed-4f61-b09d-7dd58a3f7d89-167637755026b4ebd1-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17824629096763__66c36f1d-a4ed-4f61-b09d-7dd58a3f7d89-167637755026b4ebd1-0",
+        "template--17824629096763__66c36f1d-a4ed-4f61-b09d-7dd58a3f7d89-167637755026b4ebd1-1",
+        "template--17824629096763__66c36f1d-a4ed-4f61-b09d-7dd58a3f7d89-167637755026b4ebd1-2",
+        "template--17824629096763__66c36f1d-a4ed-4f61-b09d-7dd58a3f7d89-167637755026b4ebd1-3"
+      ],
+      "settings": {
+        "colors": "white",
+        "width": 150,
+        "subheading": "Did you know?",
+        "title": "Facts"
+      }
+    },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -279,6 +320,7 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "e565d602-bab2-4176-9c66-c7c716c5764b",
     "7fde1f3e-5591-467f-803f-f32e0ba5b443",
+    "66c36f1d-a4ed-4f61-b09d-7dd58a3f7d89",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
