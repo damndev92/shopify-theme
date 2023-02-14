@@ -93,54 +93,39 @@
         "title": "Facts"
       }
     },
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
-      "type": "product--shop-the-look",
+    "b7d5c3fe-66fc-4740-86c2-64f8d90e61db": {
+      "type": "maison--shop-the-look",
       "blocks": {
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
+        "template--17824607928635__b7d5c3fe-66fc-4740-86c2-64f8d90e61db-1676391521c92cff8d-0": {
           "type": "product",
           "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        },
-        "61a17092-0b88-43c9-888c-ee6b50651501": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
-          }
-        },
-        "2d0cd767-4992-4798-8a74-406d517d073e": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
+            "image": "shopify:\/\/shop_images\/VILLA_LENA_SHOP_THE_LOOK.jpg",
+            "image__position": "image--left",
+            "product": "",
+            "product-2": "",
+            "product-3": "",
+            "product-4": ""
           }
         }
       },
       "block_order": [
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
-        "61a17092-0b88-43c9-888c-ee6b50651501",
-        "2d0cd767-4992-4798-8a74-406d517d073e"
+        "template--17824607928635__b7d5c3fe-66fc-4740-86c2-64f8d90e61db-1676391521c92cff8d-0"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "shop",
-        "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/Untitled_design_12.png",
-        "image__position": "image--left",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": "Shop the look"
+        "subheading": "VILLA LENA",
+        "title": "Shop the look"
+      }
+    },
+    "1d9812b2-fb5d-4628-8cff-3e68cae7ddc0": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Shop all products",
+        "url": "",
+        "link": "shopify:\/\/collections\/villa-lena",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
       }
     },
     "3a8f1126-35c8-4590-b632-0018214191aa": {
@@ -172,13 +157,13 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_1_e2462119-27cc-4966-8940-7d35d331f5d4.png",
         "layout": "left",
-        "subheading": "Meet the host",
+        "subheading": "Meet the host - Lena Evstafieva",
         "location": false,
-        "title": "Lena Evstafieva",
-        "text_block": "<p><br\/>Villa Lena was founded by Lena Evstafieva, her husband, musician Jerome Hadey and Lionel Bensemoun, owner of the famous Parisian nightclub Le Baron. Villa Lena is much more than a hotel;  A mix between an artist’s residence, a self-sufficient commune, and the cool kids hot-spot. We sit down with Lena to hear more about her incredible project.<\/p>",
+        "title": "illa Lena is much more than a hotel;  A mix between an artist’s residence, a self-sufficient commune, and the cool kids hot-spot.",
+        "text_block": "<p><br\/><\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -332,7 +317,8 @@
     "88f7ec75-97f2-443d-8281-abec602b3777",
     "96f6321d-269f-43f0-b600-5773990c1809",
     "985c28cf-d47d-4fb3-809f-7222e7ab75eb",
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
+    "b7d5c3fe-66fc-4740-86c2-64f8d90e61db",
+    "1d9812b2-fb5d-4628-8cff-3e68cae7ddc0",
     "3a8f1126-35c8-4590-b632-0018214191aa",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
