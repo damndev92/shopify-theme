@@ -108,6 +108,23 @@
         "button_label": ""
       }
     },
+    "a9dc19ab-70e0-40bf-9af6-540e78171b72": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Tart-Terracotta-Plate-in-Red-768x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Private: Tart Terracotta Plate in Red",
+        "text_block": "<p>€36<\/p><p>Made in Mallorca.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -143,6 +160,7 @@
     "8bf6c2a4-5b76-4df7-87e6-98a8b0f6059a",
     "6c8c972e-f856-4f46-9a87-3b85f0349fcc",
     "42576f2c-d3df-43f5-b88e-148f580c2322",
+    "a9dc19ab-70e0-40bf-9af6-540e78171b72",
     "main",
     "blog-posts"
   ]
