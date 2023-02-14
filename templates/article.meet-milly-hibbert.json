@@ -106,6 +106,23 @@
         "button_label": ""
       }
     },
+    "28f9e77e-9857-4cd1-b59a-818a14b33a8f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/178932042-1024x683.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Who would be your dream guest? <\/strong><\/p><p>All our guests are our dream guests! We have spent so much time, effort and love creating Thyme, and even still welcoming guests who are excited to experience what we have created and be a part of the story is so rewarding and wonderful.<\/p><p><strong>How do you think this crisis will impact the way we travel?<\/strong><\/p><p>It was a burgeoning trend before lockdown, but I do hope that travelling with purpose shifts to the forefront of customers decision making process. Offsetting carbon emissions, choosing to staycation over travelling abroad, and picking destinations that put sustainability and responsibility at the heart of their operations.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -129,6 +146,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "e937b6a6-865c-454f-b45b-16cb09f4d7b2",
+    "28f9e77e-9857-4cd1-b59a-818a14b33a8f",
     "blog-posts"
   ]
 }
