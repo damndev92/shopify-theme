@@ -31,44 +31,29 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "Paris, France",
+        "subheading": "",
         "page_title": "",
-        "title": "Le Pigalle",
+        "title": "",
         "text": "<p><br\/>Mythical and imposing, languid and frenetic, Pigalle is a neon light in the Parisian night. The neighbourhood has always attracted bad boys and artists, musicians and adventurers. With neither a monument nor a meeting point, it lacked a spot that really reflected its tawdry values, brazen spirit and musical energy. And so, Le Pigalle was born. An authentic neighbourhood hotel, whose history was shaped by the cultural mix that swirls on the southern slopes of Montmartre.<\/p>",
         "button_link": "",
         "button_label": ""
       }
     },
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1.png",
-            "link": "shopify:\/\/products\/white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2.png",
-            "link": "shopify:\/\/products\/parentesi-suspension-lamp",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0",
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1"
-      ],
+    "b195b8ee-f0b3-4c9c-b196-88e03135f2b9": {
+      "type": "text--image-with-text",
       "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/05-mbo-valery-grego-office.jpg",
+        "layout": "left",
+        "subheading": "Meet the host",
+        "location": false,
+        "title": "Valéry Grégo, Owner",
+        "text_block": "<p><\/p><p>Le Pigalle is part of Valéry Grégo's Perseus group—a collection of luxury hotels in Europe that focuses on mindful experiences for the local community, the guests, and the environment.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
       }
     },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
@@ -114,23 +99,6 @@
         "text-color": "#000000",
         "title": "Tips from the host",
         "faq_icon": "plus_minus"
-      }
-    },
-    "b195b8ee-f0b3-4c9c-b196-88e03135f2b9": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/05-mbo-valery-grego-office.jpg",
-        "layout": "left",
-        "subheading": "Meet the host",
-        "location": false,
-        "title": "Valéry Grégo, Owner",
-        "text_block": "<p><\/p><p>Le Pigalle is part of Valéry Grégo's Perseus group—a collection of luxury hotels in Europe that focuses on mindful experiences for the local community, the guests, and the environment.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
       }
     },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
@@ -315,9 +283,8 @@
     "main",
     "f4a7f6e9-8b98-43f8-985d-ce344c2bab63",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "b195b8ee-f0b3-4c9c-b196-88e03135f2b9",
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
     "889d2c25-4140-44f5-af7a-2c8599551986",
