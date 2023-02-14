@@ -148,6 +148,16 @@
         "button_label": ""
       }
     },
+    "942c8cee-08a2-49a9-9efd-a2e9a3b78f65": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/parilio-s-01-rrr-jpg-1024x601.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -173,6 +183,7 @@
     "d610362f-c4a9-4f77-a785-b8210aff3000",
     "4e792879-7d75-48e5-b861-fdcbef8dfa66",
     "22925169-3dc8-44a0-9e9f-c46468044188",
+    "942c8cee-08a2-49a9-9efd-a2e9a3b78f65",
     "blog-posts"
   ]
 }
