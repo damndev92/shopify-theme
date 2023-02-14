@@ -102,6 +102,20 @@
         "button__text": "Shop the look"
       }
     },
+    "c7696e47-4593-46aa-ae27-e28dca9a5dad": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "subheading": "",
+        "title": "Take a tour",
+        "text": "Here's your chance to make a great first impression",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -162,16 +176,6 @@
         "text-color": "#000000",
         "title": "Tips from the host",
         "faq_icon": "plus_minus"
-      }
-    },
-    "ad7b450e-b8bb-460b-bbdd-37d6ff049b7e": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_2_c1feaee6-deec-4004-b545-8ccbac7fb4a9.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
@@ -276,9 +280,9 @@
     "fddaf64f-ef02-4124-a6da-30225eb3da6f",
     "6fc8ef13-e753-4d99-8c04-6b983828a3d5",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
+    "c7696e47-4593-46aa-ae27-e28dca9a5dad",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "ad7b450e-b8bb-460b-bbdd-37d6ff049b7e",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
