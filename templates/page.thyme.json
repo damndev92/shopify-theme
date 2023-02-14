@@ -52,6 +52,23 @@
         "button_label": ""
       }
     },
+    "f752c25e-ff65-466a-ba61-33848f1147fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/Fields-in-Fields-Thyme-Caryn-Hibbert-DSC5404.jpg",
+        "layout": "left",
+        "subheading": "Meet",
+        "location": false,
+        "title": "Caryn Hibbert, Owner",
+        "text_block": "<p><br\/>Caryn Hibbert of Thyme became interested in hospitality during her time fundraising for a children’s hospice in Surrey whilst she was still a doctor. She discovered a world outside of hospitals and medicine, and was able to bring together some of my other interests when we put on events for the hospice. She became involved in the food and wine sector and was able to learn about other things, too, like fashion and art.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
       "type": "accordion",
       "blocks": {
@@ -95,23 +112,6 @@
         "text-color": "#000000",
         "title": "Tips from the host",
         "faq_icon": "plus_minus"
-      }
-    },
-    "f752c25e-ff65-466a-ba61-33848f1147fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/Fields-in-Fields-Thyme-Caryn-Hibbert-DSC5404.jpg",
-        "layout": "left",
-        "subheading": "Meet",
-        "location": false,
-        "title": "Caryn Hibbert, Owner",
-        "text_block": "<p><br\/>Caryn Hibbert of Thyme became interested in hospitality during her time fundraising for a children’s hospice in Surrey whilst she was still a doctor. She discovered a world outside of hospitals and medicine, and was able to bring together some of my other interests when we put on events for the hospice. She became involved in the food and wine sector and was able to learn about other things, too, like fashion and art.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
       }
     },
     "edecdabc-fd53-479e-80c3-b56525f80ea2": {
@@ -394,8 +394,8 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "fddaf64f-ef02-4124-a6da-30225eb3da6f",
     "6fc8ef13-e753-4d99-8c04-6b983828a3d5",
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "edecdabc-fd53-479e-80c3-b56525f80ea2",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
