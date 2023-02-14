@@ -39,6 +39,19 @@
         "text-over-image-width": "full-width"
       }
     },
+    "7fde1f3e-5591-467f-803f-f32e0ba5b443": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><br\/>Perched at 2112m above sea level, discover a stylish hotel with a pure design where alpine simplicity mingles with an authentic and warm welcome. Above the ski resort of Crans-Montana and facing the highest peaks of the Alps, a stay at Chetzeron lets you admire breathtaking landscapes which change with the seasons.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
       "type": "image--gallery",
       "blocks": {
@@ -434,6 +447,7 @@
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "e565d602-bab2-4176-9c66-c7c716c5764b",
+    "7fde1f3e-5591-467f-803f-f32e0ba5b443",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
