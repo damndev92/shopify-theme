@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "a40a2d4a-ac9e-4c10-bf24-765f6d532f7c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Gong-Office21158-682x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>In the history of design, which lights have inspired you?<\/strong><\/p><p>To name but a few, the Akari series by Isamu Nogushi, the Murano chandeliers by Carlo Nasson, the Uchiwa serie by Ingo Maurer, the Fuga sconces of Maija Liisa Komulainen, the Carciofo by Gianni Celada.<\/p><p><\/p><p><strong>Your favourite hotel, restaurant , and decoration addresses in the world?<\/strong><\/p><p><\/p><p>In no particular order I would say Velona’s Jungle hotel in Firenze, a modish and elegant guest house hidden in the heart of the city, Galerie Pierre Mahaux in Brussels, an antique dealer with an amazing taste, Eat Tokyo in Nothing Hill Gate, a very local and unpretentious restaurant where I often take my kids who love Japanese food as much as I do.<\/p><p> <\/p><p> <strong>Photo Credit: Jean Cazals<\/strong><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "5a835f13-6f9e-4b2c-a762-f014994ac622",
     "b968f94a-9558-42a8-8a5c-e5ea0b59580c",
+    "a40a2d4a-ac9e-4c10-bf24-765f6d532f7c",
     "main",
     "blog-posts"
   ]
