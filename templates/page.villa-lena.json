@@ -181,16 +181,6 @@
         "button__text": "Shop the look"
       }
     },
-    "686d64c5-d9ec-40b2-9aeb-63fa1861cf78": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_4.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
-      }
-    },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
       "type": "text--rich-text",
       "settings": {
@@ -296,7 +286,6 @@
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "49ebd31a-1a1d-4c6d-8267-69b27cda0a7d",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
-    "686d64c5-d9ec-40b2-9aeb-63fa1861cf78",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
