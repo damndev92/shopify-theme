@@ -123,6 +123,23 @@
         "button_label": ""
       }
     },
+    "545fab22-f904-4542-abd0-528459fdd437": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Lifestyle-at-Jnane-Tamsna-Credit-Jade-Nina-Sarkhel-1-860x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Meryanne Loum-Martins, What is your favourite object?  <\/strong><\/p><p>“I like the lamps which I adorn with horn and leather bracelets, and I love the photophores. I find unique glass and work metal around it. The handmaid textile which I transform in plaids and shoes, and handbags and cushions, which I’ve sourced in West Africa. I am obsessed with customization: I like transformings things. It characterizes most of what I do. Its finding things that inspire me in the middle of a chaotic souk – having a vision of sorts.”<\/p><p><strong>What advice do you have to those who want to incorporate Moroccan crafts in a home?  <\/strong><\/p><p>“Moroccan objects can integrate well in a house in Chelsea, an apartment in Paris or a flat in downtown New York. When objects are impressive on their own, autonomously, they can go anywhere. Some objects, outside of their original context can lose their interest, but it’s not what we do here. We want them ethnic and unique, but that can never be out of context.”  <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -144,6 +161,7 @@
     "925deb6c-d8e0-41a9-a68a-362ccfc749f3",
     "6f762497-bc9d-493c-b614-40cfa4ec93e2",
     "bf6b13df-31d0-44a0-8171-56b4ffda50ba",
+    "545fab22-f904-4542-abd0-528459fdd437",
     "blog-posts"
   ]
 }
