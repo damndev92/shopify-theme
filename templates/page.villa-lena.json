@@ -52,6 +52,47 @@
         "button_label": ""
       }
     },
+    "985c28cf-d47d-4fb3-809f-7222e7ab75eb": {
+      "type": "image--logo-list",
+      "blocks": {
+        "template--17824607928635__985c28cf-d47d-4fb3-809f-7222e7ab75eb-167637755026b4ebd1-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824607928635__985c28cf-d47d-4fb3-809f-7222e7ab75eb-167637755026b4ebd1-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824607928635__985c28cf-d47d-4fb3-809f-7222e7ab75eb-167637755026b4ebd1-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824607928635__985c28cf-d47d-4fb3-809f-7222e7ab75eb-167637755026b4ebd1-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17824607928635__985c28cf-d47d-4fb3-809f-7222e7ab75eb-167637755026b4ebd1-0",
+        "template--17824607928635__985c28cf-d47d-4fb3-809f-7222e7ab75eb-167637755026b4ebd1-1",
+        "template--17824607928635__985c28cf-d47d-4fb3-809f-7222e7ab75eb-167637755026b4ebd1-2",
+        "template--17824607928635__985c28cf-d47d-4fb3-809f-7222e7ab75eb-167637755026b4ebd1-3"
+      ],
+      "settings": {
+        "colors": "white",
+        "width": 150,
+        "subheading": "did you know?",
+        "title": "Facts"
+      }
+    },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
       "type": "product--shop-the-look",
       "blocks": {
@@ -265,6 +306,7 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "88f7ec75-97f2-443d-8281-abec602b3777",
     "96f6321d-269f-43f0-b600-5773990c1809",
+    "985c28cf-d47d-4fb3-809f-7222e7ab75eb",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
