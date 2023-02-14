@@ -75,21 +75,28 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
+            "question": "Parīlio in one word?",
             "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
+            "question": "where to eat?",
             "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
+            "question": "your favourite object in the hotel?",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "0abcec26-bcc0-4da5-ba3d-2081edfd6f0a": {
+          "type": "tab_content",
+          "settings": {
+            "question": "something most people don't know about paros?",
             "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
         }
@@ -97,7 +104,8 @@
       "block_order": [
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2",
+        "0abcec26-bcc0-4da5-ba3d-2081edfd6f0a"
       ],
       "settings": {
         "background-color": "#e3e3e3",
