@@ -1,9 +1,9 @@
 {
   "sections": {
-    "85f6dbd8-9cb3-4313-ac71-dbacace8f3e9": {
+    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_f73df551-c0ae-4185-acef-ac275e4cedf1.png",
+        "image": "shopify:\/\/shop_images\/s-inhabit-london-united-kingdom.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -29,10 +29,10 @@
         "button_label": ""
       }
     },
-    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
+    "85f6dbd8-9cb3-4313-ac71-dbacace8f3e9": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/s-inhabit-london-united-kingdom.jpg",
+        "image": "shopify:\/\/shop_images\/INHABIT.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -93,63 +93,58 @@
         "title": "Facts"
       }
     },
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
-      "type": "product--shop-the-look",
+    "33e39774-3069-4ab2-a382-8776410b10b3": {
+      "type": "maison--shop-the-look",
       "blocks": {
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e": {
+        "template--17824564838715__33e39774-3069-4ab2-a382-8776410b10b3-1676391521c92cff8d-0": {
           "type": "product",
           "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        },
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
-          }
-        },
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
+            "image": "shopify:\/\/shop_images\/INHABIT_SHOP_THE_LOOK.jpg",
+            "image__position": "image--left",
+            "product": "1784-wooden-chair-with-polypropylene-fabric",
+            "product-2": "almond-blossom-border-linen-table-cloth",
+            "product-3": "astoria-floor-lamp",
+            "product-4": ""
           }
         }
       },
       "block_order": [
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e",
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8",
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89"
+        "template--17824564838715__33e39774-3069-4ab2-a382-8776410b10b3-1676391521c92cff8d-0"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Shop",
-        "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/37.png",
-        "image__position": "image--left",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": ""
+        "subheading": "Subheading",
+        "title": "Shop the look"
+      }
+    },
+    "2588bb9f-0bce-48d3-9915-508cfccbb6ca": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Shop all products",
+        "url": "",
+        "link": "shopify:\/\/collections\/inhabit",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
       }
     },
     "1c5c5a3d-4290-4ec0-b81a-0789ef805b78": {
       "type": "image--image-with-text-overlay",
+      "blocks": {
+        "02c49b1b-a70c-469f-9183-77a61e5cdf79": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "02c49b1b-a70c-469f-9183-77a61e5cdf79"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_8ee35f95-5487-4778-89be-5e60bf79a451.png",
         "subheading": "",
         "title": "Take a tour",
-        "text": "Here's your chance to make a great first impression",
+        "text": "",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -165,10 +160,10 @@
         "image-width": "medium",
         "image": "shopify:\/\/shop_images\/13-mbo-inhabit-nadira-lalji.jpg",
         "layout": "left",
-        "subheading": "Meet the host",
+        "subheading": "Meet the host - Nadira Lalji",
         "location": false,
-        "title": "Nadira Lalji, Owner",
-        "text_block": "<p><strong>\" Fundamentally, at Inhabit, I have used design as a means to showcase life-improving, socially conscious homewares. If I were not a hotelier, I would most certainly be a social entrepreneur, so I seek to support these innovators as they support the disenfranchised, tackling big, challenging issues. \"<\/strong><\/p>",
+        "title": "\" Fundamentally, at Inhabit, I have used design as a means to showcase life-improving, socially conscious homewares. If I were not a hotelier, I would most certainly be a social entrepreneur, so I seek to support these innovators as they support the disenfranchised, tackling big, challenging issues. \"",
+        "text_block": "",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -316,13 +311,14 @@
     }
   },
   "order": [
-    "85f6dbd8-9cb3-4313-ac71-dbacace8f3e9",
+    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
-    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
+    "85f6dbd8-9cb3-4313-ac71-dbacace8f3e9",
     "010e1187-c659-4cbb-a19c-cbb1a3cfabef",
     "ff10149a-4098-48c6-9420-2d9abafa1210",
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0",
+    "33e39774-3069-4ab2-a382-8776410b10b3",
+    "2588bb9f-0bce-48d3-9915-508cfccbb6ca",
     "1c5c5a3d-4290-4ec0-b81a-0789ef805b78",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
