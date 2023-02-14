@@ -168,7 +168,7 @@
         "subheading": "Meet the host",
         "location": false,
         "title": "Anke Bodack, Owner",
-        "text_block": "<p>\"I started searching for a property to buy that I could turn into a hotel, but I could never find one. Still, I knew it was my dream. I meditate every day and this image of me as a hotelier began to crystalize in my mind, a voice saying, “This is what I must do!\"<\/p>",
+        "text_block": "<p><strong>\"I started searching for a property to buy that I could turn into a hotel, but I could never find one. Still, I knew it was my dream. I meditate every day and this image of me as a hotelier began to crystalize in my mind, a voice saying, “This is what I must do!\"<\/strong><\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -203,7 +203,7 @@
           "type": "tab_content",
           "settings": {
             "question": "Something most people don't know about Encinitas?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>Encinitas used to be a very sleepy and quiet beach town. But it has transformed in the last five years with new restaurants and pop-ups. Twelve Senses is close to downtown, and the beaches are close too.<\/p>"
           }
         }
       },
