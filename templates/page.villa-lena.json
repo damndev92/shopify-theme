@@ -114,23 +114,6 @@
         "faq_icon": "plus_minus"
       }
     },
-    "49ebd31a-1a1d-4c6d-8267-69b27cda0a7d": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/Untitled_design_11.png",
-        "layout": "left",
-        "subheading": "Villa Lena",
-        "location": false,
-        "title": "Meet the Interior Designers",
-        "text_block": "<p><br\/>During the 19th and early 20th-century Villa Lena was the home of an aristocratic Italian family, but in 2013 it re-opened as a hotel with For Villa Lena, architecture firm Hesselbrand designing and creating a series of rustic guest suites.<\/p>",
-        "page_description": false,
-        "button_link": "https:\/\/www.hesselbrand.com\/",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
-      }
-    },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
       "type": "product--shop-the-look",
       "blocks": {
@@ -284,7 +267,6 @@
     "96f6321d-269f-43f0-b600-5773990c1809",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "49ebd31a-1a1d-4c6d-8267-69b27cda0a7d",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
