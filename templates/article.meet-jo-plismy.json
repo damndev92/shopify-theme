@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "5a835f13-6f9e-4b2c-a762-f014994ac622": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Gong-Office21191-683x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How important is light in the room?<\/strong><\/p><p>Lighting can change the atmosphere of an entire room at the flick of a switch. There is of course the decorative aspect of the lamp with its shape, material, and texture that has an important role in “dressing up” a room or part of a room, whether it is a table lamp on a desk, a floor lamp next to a chair or a sofa, a wall lamp in a hallway or next to a bed, a ceiling lamp in a bedroom or in the living room.<\/p><p>But equally if not more important is the warmth of the light and how the light is diffused through the room. This is a very important factor in our creations. Some of our models will have a shade with a golden interior to provide this warm hue, some with have a design that allows beautiful reflections on the walls, some will use fabric which is particularly gorgeous to see through and whose colour will change colour when the light is lit.<\/p><p>That is really what I love about lighting, the whole combination of the shapes and materials to create atmospheres and emotions.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "5a835f13-6f9e-4b2c-a762-f014994ac622",
     "main",
     "blog-posts"
   ]
