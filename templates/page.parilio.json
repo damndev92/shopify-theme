@@ -3,7 +3,7 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/36_ba361869-dfe4-4c55-8419-7612b394e1ce.png",
+        "image": "shopify:\/\/shop_images\/PARILIO_COVER.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -32,7 +32,7 @@
     "beb23a1d-cc68-4ce6-b14e-61aa94bcefca": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/40_e0b373a6-68b5-48e1-b175-4b779171f6bf.png",
+        "image": "shopify:\/\/shop_images\/PARILIO_COVER_1.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -93,54 +93,28 @@
         "title": "Facts"
       }
     },
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
-      "type": "product--shop-the-look",
+    "9ddffc45-d823-4e4e-853f-f5a0933f6f11": {
+      "type": "maison--shop-the-look",
       "blocks": {
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
+        "template--17824597410107__9ddffc45-d823-4e4e-853f-f5a0933f6f11-1676391521c92cff8d-0": {
           "type": "product",
           "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        },
-        "61a17092-0b88-43c9-888c-ee6b50651501": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
-          }
-        },
-        "2d0cd767-4992-4798-8a74-406d517d073e": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
+            "image": "shopify:\/\/shop_images\/PARILIO_SHOP_a2433089-bf25-42f9-a644-62b33a0aaca4.jpg",
+            "image__position": "image--left",
+            "product": "parhelion",
+            "product-2": "snake-goddess-key-ring",
+            "product-3": "blue-sun",
+            "product-4": "ceramic-plate-psari"
           }
         }
       },
       "block_order": [
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
-        "61a17092-0b88-43c9-888c-ee6b50651501",
-        "2d0cd767-4992-4798-8a74-406d517d073e"
+        "template--17824597410107__9ddffc45-d823-4e4e-853f-f5a0933f6f11-1676391521c92cff8d-0"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Shop",
-        "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/70.png",
-        "image__position": "image--left",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": "Shop the look"
+        "subheading": "Parilio",
+        "title": "Shop the look"
       }
     },
     "7d50163a-b808-4c84-9b7e-98af8ea8f3c2": {
@@ -162,13 +136,13 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_3.png",
         "layout": "left",
-        "subheading": "Meet the hosts",
+        "subheading": "Meet the hosts - Kalia and Antonis Eliopoulos",
         "location": false,
-        "title": "Kalia and Antonis Eliopoulos, Owners",
-        "text_block": "<p>\"For us Parīlio, is a celebration of Cycladic simplicity—of brightness, calmness, warmth, and the island’s carefree spirit. And that is the exact state of mind that Antonis and I are in this stage of our lives!\"<\/p>",
+        "title": "\"For us Parīlio, is a celebration of Cycladic simplicity—of brightness, calmness, warmth, and the island’s carefree spirit. And that is the exact state of mind that Antonis and I are in this stage of our lives!\"",
+        "text_block": "",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -322,7 +296,7 @@
     "beb23a1d-cc68-4ce6-b14e-61aa94bcefca",
     "3c6f013c-21c7-482d-9d33-5b7d2fbef2c1",
     "a9f13497-3170-4255-bd6d-b42a2285354f",
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
+    "9ddffc45-d823-4e4e-853f-f5a0933f6f11",
     "7d50163a-b808-4c84-9b7e-98af8ea8f3c2",
     "2cc5cfa5-ca39-4b74-a4e8-2786a39b922a",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
