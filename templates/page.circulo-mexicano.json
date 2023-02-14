@@ -3,7 +3,7 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/circula.png",
+        "image": "shopify:\/\/shop_images\/CIRCULO_BANNER.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -93,62 +93,39 @@
         "title": "Facts"
       }
     },
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
-      "type": "product--shop-the-look",
+    "531141af-d88a-4ddc-a4a0-fbc9e984f5c7": {
+      "type": "maison--shop-the-look",
       "blocks": {
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e": {
+        "template--17824560611643__531141af-d88a-4ddc-a4a0-fbc9e984f5c7-1676391521c92cff8d-0": {
           "type": "product",
           "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        },
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
-          }
-        },
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
+            "image": "shopify:\/\/shop_images\/CM_SHOP_THE_LOOK.jpg",
+            "image__position": "image--left",
+            "product": "1784-collection-wooden-chair",
+            "product-2": "1784-collection-wooden-rocking-chair",
+            "product-3": "1784-collection-wooden-stool",
+            "product-4": ""
           }
         }
       },
       "block_order": [
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e",
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8",
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89"
+        "template--17824560611643__531141af-d88a-4ddc-a4a0-fbc9e984f5c7-1676391521c92cff8d-0"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Shop",
-        "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/27.png",
-        "image__position": "image--left",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": ""
+        "subheading": "Subheading",
+        "title": "Shop the look"
       }
     },
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
-      "type": "image--gallery",
+    "9b3572c9-c8d6-4a9a-8d22-c96b8790efc6": {
+      "type": "maison--btn",
       "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
+        "btn": "Shop all products",
+        "url": "",
+        "link": "shopify:\/\/collections\/circulo-mexicano",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
       }
     },
     "b3719866-6b76-4281-8172-8fceffd46385": {
@@ -173,10 +150,10 @@
         "image-width": "large",
         "image": "shopify:\/\/shop_images\/006-carlos-couturier-moises-micha-b.jpg",
         "layout": "left",
-        "subheading": "Meet the hosts",
+        "subheading": "Meet the hosts - Carlos Couturier & Moisés Micha",
         "location": false,
-        "title": "Carlos Couturier & Moisés Micha, Owners Grupo Habita",
-        "text_block": "<p><br\/>Known for creating Mexico’s trendiest boutique properties, the hotel developer Grupo Habita are a pioneer in this space.<\/p><p><\/p>",
+        "title": "Known for creating Mexico’s trendiest boutique properties, the hotel developer Grupo Habita are a pioneer in this space.",
+        "text_block": "<p><br\/><\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -330,8 +307,8 @@
     "66506f27-d47d-47ca-ac78-8d21bc6cab4b",
     "16feb9a7-146a-4bfd-8a5a-0fe5cda75b33",
     "a5262afe-3ca2-45ff-8371-f7a34b3bfbf0",
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0",
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
+    "531141af-d88a-4ddc-a4a0-fbc9e984f5c7",
+    "9b3572c9-c8d6-4a9a-8d22-c96b8790efc6",
     "b3719866-6b76-4281-8172-8fceffd46385",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
