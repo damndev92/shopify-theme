@@ -209,7 +209,7 @@
         "f32e45f9-824a-43ac-8dd8-f63c8fbb7947"
       ],
       "settings": {
-        "background-color": "#e3e3e3",
+        "background-color": "#f3f3f3",
         "text-color": "#000000",
         "title": "Tips from the host",
         "faq_icon": "plus_minus"
@@ -270,19 +270,6 @@
         "title": ""
       }
     },
-    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
-      "type": "blog--blog-posts",
-      "settings": {
-        "colors": "white",
-        "subheading": "Read From",
-        "title": "Flâneur Magazine",
-        "post_limit": 3,
-        "show_author_name": false,
-        "show_dates": true,
-        "show_blog_images": true,
-        "imageSize": "portrait"
-      }
-    },
     "1816c868-da66-4ff9-a480-d41bd814d46b": {
       "type": "maison--btn",
       "settings": {
@@ -292,6 +279,33 @@
         "bg_color": "#e28065",
         "padding_top": 25,
         "padding_bottom": 25
+      }
+    },
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
+      "type": "blog--blog-posts",
+      "blocks": {
+        "97c69fa7-df11-4a5b-b0af-e278720156cc": {
+          "type": "article",
+          "settings": {
+            "blog_post_1": "flaneur-magazine\/meet-milly-hibbert-head-of-brand-retail-development-thyme-the-costwolds",
+            "blog_post_2": "",
+            "blog_post_3": "",
+            "blog_post_4": ""
+          }
+        }
+      },
+      "block_order": [
+        "97c69fa7-df11-4a5b-b0af-e278720156cc"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Read From",
+        "title": "Flâneur Magazine",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": false,
+        "show_blog_images": true,
+        "imageSize": "portrait"
       }
     }
   },
@@ -309,7 +323,7 @@
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
-    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
-    "1816c868-da66-4ff9-a480-d41bd814d46b"
+    "1816c868-da66-4ff9-a480-d41bd814d46b",
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
   ]
 }
