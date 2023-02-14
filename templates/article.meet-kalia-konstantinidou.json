@@ -87,6 +87,16 @@
         "show_recent_posts": false
       }
     },
+    "a03d6575-b737-4f5c-82e5-bc5f6109c4e8": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/008-istoria-santorini-coast-1024x573.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -108,6 +118,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "94f3aa02-5263-480a-acb3-53e0236258f1",
     "main",
+    "a03d6575-b737-4f5c-82e5-bc5f6109c4e8",
     "blog-posts"
   ]
 }
