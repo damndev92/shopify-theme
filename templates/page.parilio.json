@@ -146,8 +146,9 @@
     "7d50163a-b808-4c84-9b7e-98af8ea8f3c2": {
       "type": "image--image-with-text-overlay",
       "settings": {
+        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_00945f0d-8bbd-40a1-8b6e-2916c649329d.png",
         "subheading": "",
-        "title": "Share your story",
+        "title": "Take a tour",
         "text": "Here's your chance to make a great first impression",
         "parallax": true,
         "alignment": "center",
