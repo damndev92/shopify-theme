@@ -158,6 +158,23 @@
         "text-over-image-width": "full-width"
       }
     },
+    "f9318ad4-3700-46d9-9f1e-ec17ab02925d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/4HuSJ3hm-719x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What is the most important element for you when thinking about a hotel? <\/strong><\/p><p>The islands’ singular aura, abundant nature, traditional architecture, indigenous culture, and the deep blue of the sea that meets a clear blue sky; all of these elements together inspire us and try to always incorporate them in our hotels.<\/p><p><strong>Do you have an object from either Istoria or Parilo that has a special place in your heart? <\/strong><\/p><p>It is a replica of ‘The Fat Lady of Saliagos’ that is exposed at the lobby of Parīlio. The actual historical relic held in Paros’ archaeological museum is the oldest ever found in the area and is at the heart of our hotel’s symbolism. The ancient marble figurine has served as inspiration to the creation of our logo and identity. Symbolizing female beauty and power, and paying homage to the Aegean light and sea, the unassuming model personifies the key components that interlace to create Parīlio’s unique brand of Cycladic simplicity.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -184,6 +201,7 @@
     "4e792879-7d75-48e5-b861-fdcbef8dfa66",
     "22925169-3dc8-44a0-9e9f-c46468044188",
     "942c8cee-08a2-49a9-9efd-a2e9a3b78f65",
+    "f9318ad4-3700-46d9-9f1e-ec17ab02925d",
     "blog-posts"
   ]
 }
