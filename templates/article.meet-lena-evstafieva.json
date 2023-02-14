@@ -40,6 +40,23 @@
         "button_label": ""
       }
     },
+    "2651060c-aaf6-42f9-8080-760c985c0b35": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2020-11-05-at-14.21.00-871x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How would you describe your taste in interior design?<\/strong><\/p><p>Every detail matters – it can be anything but it has to be perfect and the exact balance of things.<\/p><p><strong>How do you choose the resident artists?<\/strong><\/p><p>This is actually quite a long process. We start by reviewing the applications we have received internally. From there, we make a long list and conduct Skype interviews. Following that, we create a shortlist that goes to our advisory board. After they have issued their recommendations, we have our final list!<\/p><p><strong>Can you tell us more about the residency?<\/strong><\/p><p>The idea behind the residency was to create an open and democratic space, a place of exchange, and collaboration. This is why the residency is multi-disciplinary and we welcome anyone and from anywhere as long as they are committed deeply to their chosen discipline.<\/p><p><strong>Do you have a favourite spot at the hotel?<\/strong><\/p><p>I have quite a few. The Light & Rain Pavillion is a beautiful space, combining the old Roman tradition of oculus with Eastern asthetic of a zen garden, or the top of the mound in the medieval park of Toiano Vecchio with the best views of Tuscany.<\/p><p><strong>An object that you particularly love?<\/strong><\/p><p>Our striped pool umbrellas!<\/p><p><strong>A fun fact about VillaLena?<\/strong><\/p><p>Our truffle dog Igor is very bad at finding truffles but very good at stealing croissants from guests’ breakfast tables<\/p><p><strong>Who would be your ideal guest at VillaLena?<\/strong><\/p><p>Anyone and everyone.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -88,6 +105,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
+    "2651060c-aaf6-42f9-8080-760c985c0b35",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "blog-posts"
