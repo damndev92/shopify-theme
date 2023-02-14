@@ -44,10 +44,10 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "California, USA",
+        "subheading": "",
         "page_title": "",
-        "title": "Twelve Senses",
-        "text": "<p><br\/>Located in sunny Encinitas, this B&B is near beautiful coastlines, sandy beaches, and a thriving downtown. You can experience the rich local community, known for its meditation gardens, yoga, artisans and healers. Immerse yourself in some of the many activities that can connect your senses to nature – such as paddle boarding or surfing, sound bowl healing, or even walking with goats in the nearby canyons. For foodies, Encinitas boasts plenty of celebrity chef restaurants, vegan cuisine, micro Kombucha and beer breweries as well as wineries.<\/p>",
+        "title": "",
+        "text": "<p>Rebuilt and expanded in 2019, the 1958 structure is a living testament to natural, sustainable, and recycled materials. Luxury minimalism makes for warm and welcoming yet uncluttered spaces. Guestrooms feature designers Philippe Starck, Ethnicraft, Lagos del Mundo, and many others showcased. A cozy library boasts two Cappellini felt chairs and a Knoll marble coffee table, while a small pop-up shop offers local crafts and artisanal products.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -164,38 +164,6 @@
         "button__text": ""
       }
     },
-    "9299a3ef-12a1-48f6-abe6-a54f93478d0b": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_2b9f069e-91d0-4c2a-b81c-9ce89e602ef6.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4_7e2562c9-7d12-43cb-b821-ee52dc27b65f.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-1",
-        "template--17526727344443__9299a3ef-12a1-48f6-abe6-a54f93478d0b-16733517587c71d58c-0"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
       "type": "text--rich-text",
       "settings": {
@@ -300,7 +268,6 @@
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
-    "9299a3ef-12a1-48f6-abe6-a54f93478d0b",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
