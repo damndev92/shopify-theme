@@ -32,7 +32,7 @@
     "9ffae660-13df-4a6b-8d76-7b4aacce707f": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Hotelito_by_Musa_3.png",
+        "image": "shopify:\/\/shop_images\/HOTELITO2.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -93,54 +93,28 @@
         "title": "Facts"
       }
     },
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
-      "type": "product--shop-the-look",
+    "a2f71196-bd65-4ab2-957b-c36047007236": {
+      "type": "maison--shop-the-look",
       "blocks": {
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e": {
+        "template--17824636993851__a2f71196-bd65-4ab2-957b-c36047007236-1676391521c92cff8d-0": {
           "type": "product",
           "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        },
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
-          }
-        },
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
+            "image": "shopify:\/\/shop_images\/HOTELITO1.jpg",
+            "image__position": "image--left",
+            "product": "gemini-vase-2",
+            "product-2": "viso-jazz-porcelain-vase-navy",
+            "product-3": "viso-mohair-pillow-brown-white-and-black",
+            "product-4": "arion-dolphin-objet"
           }
         }
       },
       "block_order": [
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e",
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8",
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89"
+        "template--17824636993851__a2f71196-bd65-4ab2-957b-c36047007236-1676391521c92cff8d-0"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Shop",
-        "title": "Shop the Look",
-        "image": "shopify:\/\/shop_images\/musa_2_a0b21d78-2dd9-4639-95ce-a9fee107cc8a.png",
-        "image__position": "image--left",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": ""
+        "subheading": "Hotelito",
+        "title": "Shop the look"
       }
     },
     "247f1964-11e0-44fe-bee4-35b444e28737": {
@@ -322,7 +296,7 @@
     "9ffae660-13df-4a6b-8d76-7b4aacce707f",
     "30842528-3ac7-4f2a-bbe8-fddbed1afe5b",
     "6e34689f-0653-41f3-abef-5eaf06c11841",
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0",
+    "a2f71196-bd65-4ab2-957b-c36047007236",
     "247f1964-11e0-44fe-bee4-35b444e28737",
     "c63a3c52-723b-4ea8-af80-bcdab2b58e04",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
