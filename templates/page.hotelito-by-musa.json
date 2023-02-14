@@ -101,56 +101,6 @@
         "faq_icon": "plus_minus"
       }
     },
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
-      "type": "product--shop-the-look",
-      "blocks": {
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
-          "type": "product",
-          "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        },
-        "61a17092-0b88-43c9-888c-ee6b50651501": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
-          }
-        },
-        "2d0cd767-4992-4798-8a74-406d517d073e": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
-        "61a17092-0b88-43c9-888c-ee6b50651501",
-        "2d0cd767-4992-4798-8a74-406d517d073e"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "Hotelito by Musa",
-        "title": "Shop the look",
-        "image": "shopify:\/\/shop_images\/Hotelito_by_Musa_4_92a447cb-8497-47eb-b366-2746b2d65282.png",
-        "image__position": "image--left",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": "Shop the look"
-      }
-    },
     "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
       "type": "product--shop-the-look",
       "blocks": {
@@ -189,26 +139,16 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "",
-        "title": "",
+        "subheading": "Shop",
+        "title": "Shop the Look",
         "image": "shopify:\/\/shop_images\/musa_2_a0b21d78-2dd9-4639-95ce-a9fee107cc8a.png",
-        "image__position": "image--right",
+        "image__position": "image--left",
         "hotspot__color": "#ffffff",
         "stl__heading": "Heading",
         "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
         "description__position": "hidden",
         "link": "",
         "button__text": ""
-      }
-    },
-    "1507e4d0-fdc4-4482-8fa3-16265c3d5b80": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/MUSA_2.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width"
       }
     },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
@@ -313,9 +253,7 @@
     "9ffae660-13df-4a6b-8d76-7b4aacce707f",
     "c63a3c52-723b-4ea8-af80-bcdab2b58e04",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
-    "1507e4d0-fdc4-4482-8fa3-16265c3d5b80",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
