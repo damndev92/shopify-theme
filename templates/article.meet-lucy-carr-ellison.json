@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "42576f2c-d3df-43f5-b88e-148f580c2322": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Wild-Terracotta-Plate-in-Blue-768x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Private: Wild Terracotta Plate in Blue",
+        "text_block": "<p>€36<\/p><p>Made in Mallorca.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "8bf6c2a4-5b76-4df7-87e6-98a8b0f6059a",
     "6c8c972e-f856-4f46-9a87-3b85f0349fcc",
+    "42576f2c-d3df-43f5-b88e-148f580c2322",
     "main",
     "blog-posts"
   ]
