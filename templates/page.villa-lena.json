@@ -143,6 +143,20 @@
         "button__text": "Shop the look"
       }
     },
+    "3a8f1126-35c8-4590-b632-0018214191aa": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "subheading": "",
+        "title": "Take a tour",
+        "text": "Here's your chance to make a great first impression",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -308,6 +322,7 @@
     "96f6321d-269f-43f0-b600-5773990c1809",
     "985c28cf-d47d-4fb3-809f-7222e7ab75eb",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
+    "3a8f1126-35c8-4590-b632-0018214191aa",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
