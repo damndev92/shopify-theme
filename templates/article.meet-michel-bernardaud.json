@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/entreprise_et_decouverte_bernardaud_dessin-et-developpement-en-platre-collection-louvre-680x1024.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>What would be the most iconic piece of the Bernardaud collection? <\/strong><br\/>We have so many references that choosing one is impossible, and I would say that our iconic pieces are the one that stands out particularly all our collaborations with contemporary artists that are quite complex therefore spectacular.<\/p><p><strong>The best advice you were ever given to set the perfect table?<\/strong><br\/>I don’t know if there is a perfect table … but I am very sensitive to the efforts made to have a carefully dressed table where all the items mix and match perfectly. Flowers and candles add refinement. A well-dressed table makes you confident that the meal is going to be joyous and delicious. I have been told in my childhood that when seated around a table, the hosts and the guests are equally responsible for a successful moment, so I make sure to play my part.<\/p><p><strong>What is the craziest project Bernardaud has ever been a part of? <\/strong><br\/>Most of the collaborations we make with artists are quite complex and innovative and give us the opportunity to push back the technical limits of porcelain. Recently the Diamond (Red) made with Jeff Koons was quite a challenge. Our best reward is when we manage to reach the artist’s requirements and to see him happy with the result that fits his vision.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
