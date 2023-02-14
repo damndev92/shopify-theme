@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "524b6561-1acc-48e1-9031-63d5eda36130": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Copy-of-Green-and-Salmon-Text-Food-Influencer-Maximalism-Highlight-Cover-Set-7-731x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Do you think the pandemic has changed the way people see their homes and their tableware?  <\/strong><br\/>Indeed. We have noticed that when you spend most of your time at home, suddenly you feel an urge to upgrade a few things to improve the everyday’s little pleasures. Tableware plays an important role and we’ve seen it on our e-boutique with a significant boost of sales. The famous French art de Vivre is making every day a special occasion and a beautiful table, whether you’re a family, two or even one people!<\/p><p><strong>The collaboration with <\/strong><a href=\"https:\/\/www.maisonflaneur.com\/venues\/beefbar\/\"><strong>Beefbar<\/strong><\/a><strong> is very “digital”. How important do you think it is to mix the old and the new? <\/strong><br\/>Well, there’s no other way really if you want to be part of your times. At Bernardaud we add to know-how passed down from generation to generation high technology new devices which enable us to create unprecedented shapes and move forward. <\/p><p><strong>What’s your favourite emoticon? <\/strong><br\/>The happy face! just looking at it makes me smile !<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "524b6561-1acc-48e1-9031-63d5eda36130",
     "main",
     "blog-posts"
   ]
