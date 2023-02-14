@@ -128,6 +128,31 @@
         "padding_bottom": 25
       }
     },
+    "6ef10766-e00d-45e5-b405-600dc9f34f9b": {
+      "type": "image--image-with-text-overlay",
+      "blocks": {
+        "7f02e15f-c697-4c4c-a57b-a7ec33c272ee": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "7f02e15f-c697-4c4c-a57b-a7ec33c272ee"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/105.png",
+        "subheading": "",
+        "title": "Take a tour",
+        "text": "",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -190,31 +215,6 @@
         "faq_icon": "plus_minus"
       }
     },
-    "6ef10766-e00d-45e5-b405-600dc9f34f9b": {
-      "type": "image--image-with-text-overlay",
-      "blocks": {
-        "7f02e15f-c697-4c4c-a57b-a7ec33c272ee": {
-          "type": "image",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "7f02e15f-c697-4c4c-a57b-a7ec33c272ee"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/105.png",
-        "subheading": "",
-        "title": "Take a tour",
-        "text": "",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "889d2c25-4140-44f5-af7a-2c8599551986": {
       "type": "text--rich-text",
       "settings": {
@@ -270,43 +270,42 @@
         "title": ""
       }
     },
+    "6d3570c9-3dfb-4129-afbf-dd79294c3eca": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Check availability",
+        "url": "",
+        "link": "https:\/\/www.designhotels.com\/hotels\/switzerland\/crans-montana\/chetzeron\/?&Rooms=1&Adult=2&Child=0&Childages=",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
+      }
+    },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
+      "blocks": {
+        "6a25afc4-9ff7-422b-87fb-183e19684fe7": {
+          "type": "article",
+          "settings": {
+            "blog_post_1": "flaneur-magazine\/meet-sami-lamaa-owner-of-chetzeron",
+            "blog_post_2": "flaneur-magazine\/10-facts-about-chetzeron-switzerland",
+            "blog_post_3": "flaneur-magazine\/make-yourself-at-home-chetzeron-switzerland",
+            "blog_post_4": ""
+          }
+        }
+      },
+      "block_order": [
+        "6a25afc4-9ff7-422b-87fb-183e19684fe7"
+      ],
       "settings": {
         "colors": "white",
         "subheading": "Read From",
         "title": "Flâneur Magazine",
         "post_limit": 3,
         "show_author_name": false,
-        "show_dates": true,
+        "show_dates": false,
         "show_blog_images": true,
         "imageSize": "portrait"
-      }
-    },
-    "f5f7b256-b511-4d25-9ec5-50568033693b": {
-      "type": "collection--collection-list",
-      "blocks": {
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-0",
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
       }
     }
   },
@@ -319,12 +318,12 @@
     "66c36f1d-a4ed-4f61-b09d-7dd58a3f7d89",
     "8b0fe2c7-cfe8-4c3d-aec3-d732c1fe783e",
     "897508ba-7e25-4824-bb87-a78b8ce9f3b2",
+    "6ef10766-e00d-45e5-b405-600dc9f34f9b",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
-    "6ef10766-e00d-45e5-b405-600dc9f34f9b",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
-    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
-    "f5f7b256-b511-4d25-9ec5-50568033693b"
+    "6d3570c9-3dfb-4129-afbf-dd79294c3eca",
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
   ]
 }
