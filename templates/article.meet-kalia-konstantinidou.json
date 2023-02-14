@@ -175,6 +175,23 @@
         "button_label": ""
       }
     },
+    "bca866d9-117d-4d80-bd3c-e012f1fb65a1": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/istoria-hotel-architecture-k-01-x2-jpg-872x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What’s your favourite spot on Paros? and on Santorini? <\/strong><\/p><p>My favorite spot on Paros is the scenic village of Lefkes, characterized by the island’s distinct white windmills, craggy quarries, and whitewashed properties. Lefkes was the island’s first capital and the history there appears frozen in time, with rickety tavernas, leaning houses, and winding marble-paved streets and alleys all surviving and thriving centuries on.<\/p><p>My happy place in Santorini is Megalohori. This is where my family’s house is located. An unspoiled, traditional little village where life has changed very little throughout the years. It’s a carefree place where children can play in the streets and every neighbor is a friend. I also adore Perivolos beach. For Greeks, summer means lying on the beach, basking in the warm summer sun, and swimming in the cool waters of the Aegean. Perivolos beach, with its volcanic black sand and crystalline sea, is all that and more.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -202,6 +219,7 @@
     "22925169-3dc8-44a0-9e9f-c46468044188",
     "942c8cee-08a2-49a9-9efd-a2e9a3b78f65",
     "f9318ad4-3700-46d9-9f1e-ec17ab02925d",
+    "bca866d9-117d-4d80-bd3c-e012f1fb65a1",
     "blog-posts"
   ]
 }
