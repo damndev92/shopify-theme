@@ -146,11 +146,29 @@
     },
     "16287b18-538e-4971-9b07-365e6c3d0c5e": {
       "type": "image--image-with-text-overlay",
+      "blocks": {
+        "93f838ee-4b95-4391-86de-06efb18fb89b": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/CMP_SHOP_THE_LOOK.jpg"
+          }
+        },
+        "7f6ddbaf-918d-493c-baa9-d4dd1db99e28": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/CMP_SHOP_THE_LOOK_1.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "93f838ee-4b95-4391-86de-06efb18fb89b",
+        "7f6ddbaf-918d-493c-baa9-d4dd1db99e28"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/s-cretan-malia-park-crete-greece.jpg",
         "subheading": "",
         "title": "Take a tour",
-        "text": "Here's your chance to make a great first impression",
+        "text": "",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
