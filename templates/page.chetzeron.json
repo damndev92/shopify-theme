@@ -52,6 +52,23 @@
         "button_label": ""
       }
     },
+    "f752c25e-ff65-466a-ba61-33848f1147fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_1.png",
+        "layout": "left",
+        "subheading": "Meet the host",
+        "location": false,
+        "title": "Sami Lamaa, Hotelier",
+        "text_block": "<p><strong>So, tell us. What are three things people might not know about Chetzeron?<br\/><br\/><\/strong><\/p><ul><li>It is the only place in the world where you can see the Mont Blanc and the Matterhorn from your bed.<\/li><li>Above Chetzeron, there is a soaring wind that allows eagle and bearded vultures to swoop wonderfully through the air.<\/li><li>There’s a natural land depression behind the hotel where cows shelter during storms.<br\/><\/li><\/ul>",
+        "page_description": false,
+        "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
+        "hotel_page_url": false,
+        "button_label": "Learn More"
+      }
+    },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
       "type": "accordion",
       "blocks": {
@@ -95,40 +112,6 @@
         "text-color": "#000000",
         "title": "Tips from the host",
         "faq_icon": "plus_minus"
-      }
-    },
-    "f752c25e-ff65-466a-ba61-33848f1147fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_1.png",
-        "layout": "left",
-        "subheading": "Meet the host",
-        "location": false,
-        "title": "Sami Lamaa, Hotelier",
-        "text_block": "<p><strong>So, tell us. What are three things people might not know about Chetzeron?<br\/><br\/><\/strong><\/p><ul><li>It is the only place in the world where you can see the Mont Blanc and the Matterhorn from your bed.<\/li><li>Above Chetzeron, there is a soaring wind that allows eagle and bearded vultures to swoop wonderfully through the air.<\/li><li>There’s a natural land depression behind the hotel where cows shelter during storms.<br\/><\/li><\/ul>",
-        "page_description": false,
-        "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
-      }
-    },
-    "252d581f-2c61-4de0-9415-8d56fac7f13e": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/i1234_nterior_designers_BLOCK.png",
-        "layout": "left",
-        "subheading": "Chetzeron",
-        "location": false,
-        "title": "Meet the Interior Designers",
-        "text_block": "<p><br\/>At Chetzeron, every space was inspired by the mountains. The architecture of the building and its interior design is entirely conceived in a sensitive and minimalist manner, creating a comfy, welcoming space that manages to work in sublime harmony with its beautiful surroundings.<\/p><p>Chetzeron’s puristic design was created by the architect Ambroise Bonvin, his team at Actes Collectifs, Sami Lamaa, and his partner; the hotel was a finalist in the 2015 European Design Awards in the category “Architecture adaptive reuse”.<\/p><p>The luscious interiors juxtapose weathered materials like stone against sumptuous bedding and furniture, resulting in Alpine interiors perfectly in tune with the surroundings.<\/p><p>Ultimately with Chetzeron Sami Lamaa built a deluxe haven; a place to unwind, to recharge and to find inner peace, with the team looking to make each guest’s stay as unique as possible.<\/p>",
-        "page_description": false,
-        "button_link": "https:\/\/www.festenarchitecture.com\/contact.html",
-        "hotel_page_url": false,
-        "button_label": "Learn More"
       }
     },
     "63680a03-e85a-40a7-9084-4a83db4c7921": {
@@ -416,9 +399,8 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "e565d602-bab2-4176-9c66-c7c716c5764b",
     "7fde1f3e-5591-467f-803f-f32e0ba5b443",
-    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
-    "252d581f-2c61-4de0-9415-8d56fac7f13e",
+    "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
