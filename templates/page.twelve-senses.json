@@ -52,6 +52,47 @@
         "button_label": ""
       }
     },
+    "3ae0132f-a8d3-4418-beba-806e080a415c": {
+      "type": "image--logo-list",
+      "blocks": {
+        "template--17824622018875__3ae0132f-a8d3-4418-beba-806e080a415c-167637755026b4ebd1-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824622018875__3ae0132f-a8d3-4418-beba-806e080a415c-167637755026b4ebd1-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824622018875__3ae0132f-a8d3-4418-beba-806e080a415c-167637755026b4ebd1-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--17824622018875__3ae0132f-a8d3-4418-beba-806e080a415c-167637755026b4ebd1-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17824622018875__3ae0132f-a8d3-4418-beba-806e080a415c-167637755026b4ebd1-0",
+        "template--17824622018875__3ae0132f-a8d3-4418-beba-806e080a415c-167637755026b4ebd1-1",
+        "template--17824622018875__3ae0132f-a8d3-4418-beba-806e080a415c-167637755026b4ebd1-2",
+        "template--17824622018875__3ae0132f-a8d3-4418-beba-806e080a415c-167637755026b4ebd1-3"
+      ],
+      "settings": {
+        "colors": "white",
+        "width": 150,
+        "subheading": "Did you know?",
+        "title": "Facts"
+      }
+    },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -257,6 +298,20 @@
         "subheading": "",
         "title": ""
       }
+    },
+    "f479ee67-46d6-449c-8f4e-946f0c71958c": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "subheading": "",
+        "title": "Share your story",
+        "text": "Here's your chance to make a great first impression",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
+      }
     }
   },
   "order": [
@@ -265,12 +320,14 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "50a290a4-c27f-483e-8288-25ac9e12e76a",
     "71b67f9e-af4e-4b2e-9725-a44f13f376a1",
+    "3ae0132f-a8d3-4418-beba-806e080a415c",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
-    "f5f7b256-b511-4d25-9ec5-50568033693b"
+    "f5f7b256-b511-4d25-9ec5-50568033693b",
+    "f479ee67-46d6-449c-8f4e-946f0c71958c"
   ]
 }
