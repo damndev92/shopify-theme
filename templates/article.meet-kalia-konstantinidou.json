@@ -209,6 +209,23 @@
         "button_label": ""
       }
     },
+    "e041238a-8616-4a13-9cf3-911b12ad3c87": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/111-Parhelion_ProductPhoto-1024x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Parhelion – Iosif Foskolos Artwork",
+        "text_block": "<p>£1,329<\/p><p>Exclusively designed artwork by Iosif Foskolos. Hand-knitted golden thread on canvas. Framed in natural wood.   - In the “Parilio” project Iosif Foskolos was commissioned to work exclusively for the hotel artworks, working closely with the interior design studio. In those artworks the symbol of the sun plays a protagonist role. The name of the hotel is making both references to the combination of the words “Paros” and “Ilios” (Greek for sun), as also the atmospheric optical phenomenon of “Parhelion”, where two bright spots appears in both sides of the sun through refraction. Those references, as also mystical, abstract symbols, maths and numerology associated with sun served as Iosif’s main inspiration in most of the artworks. The use of gold coloured thread represents the sun rays, while the deep-blue colour is a homage to the Greek sea and the Greek islands. The symbol of the cross, found in some artworks, represents a Greek monastic aesthetic to come along with the minimalistic sanctuary interiors of the hotel.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -238,6 +255,7 @@
     "f9318ad4-3700-46d9-9f1e-ec17ab02925d",
     "bca866d9-117d-4d80-bd3c-e012f1fb65a1",
     "385ccfb4-ac4b-41cb-a161-290609f1587e",
+    "e041238a-8616-4a13-9cf3-911b12ad3c87",
     "blog-posts"
   ]
 }
