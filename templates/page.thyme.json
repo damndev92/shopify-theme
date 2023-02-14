@@ -195,14 +195,14 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
+            "question": "YOUR FAVOURITE OBJECT IN THE HOTEL?",
             "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
         },
         "f32e45f9-824a-43ac-8dd8-f63c8fbb7947": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
+            "question": "SOMETHING MOST PEOPLE DON'T KNOW ABOUT THE COTSWOLDS?",
             "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
         }
