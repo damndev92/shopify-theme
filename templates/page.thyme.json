@@ -164,56 +164,6 @@
         "button__text": "Shop the look"
       }
     },
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
-      "type": "product--shop-the-look",
-      "blocks": {
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e": {
-          "type": "product",
-          "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        },
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
-          }
-        },
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
-          }
-        }
-      },
-      "block_order": [
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e",
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8",
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "",
-        "image": "shopify:\/\/shop_images\/Untitled_design_6_62517e9e-c683-4a95-bc40-8e3bbf7da4e8.png",
-        "image__position": "image--right",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": ""
-      }
-    },
     "ad7b450e-b8bb-460b-bbdd-37d6ff049b7e": {
       "type": "image--image",
       "settings": {
@@ -328,7 +278,6 @@
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0",
     "ad7b450e-b8bb-460b-bbdd-37d6ff049b7e",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",

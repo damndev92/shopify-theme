@@ -140,6 +140,38 @@
         "button_label": ""
       }
     },
+    "d0b542c4-4f76-446a-af17-dd9dbcc5ac6f": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17992903229755__d0b542c4-4f76-446a-af17-dd9dbcc5ac6f-16763800866a8296c1-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bench_straight_featured.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Black and Gold Moroccan Bench<\/p><p>£1,815<\/p>"
+          }
+        },
+        "template--17992903229755__d0b542c4-4f76-446a-af17-dd9dbcc5ac6f-16763800866a8296c1-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/round_lamp_featured.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Black and Brass Industrial Lamp<\/p><p>£1,069<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17992903229755__d0b542c4-4f76-446a-af17-dd9dbcc5ac6f-16763800866a8296c1-0",
+        "template--17992903229755__d0b542c4-4f76-446a-af17-dd9dbcc5ac6f-16763800866a8296c1-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -162,6 +194,7 @@
     "6f762497-bc9d-493c-b614-40cfa4ec93e2",
     "bf6b13df-31d0-44a0-8171-56b4ffda50ba",
     "545fab22-f904-4542-abd0-528459fdd437",
+    "d0b542c4-4f76-446a-af17-dd9dbcc5ac6f",
     "blog-posts"
   ]
 }
