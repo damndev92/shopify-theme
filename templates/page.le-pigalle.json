@@ -143,6 +143,20 @@
         "button__text": "Shop the look"
       }
     },
+    "f4ca5f12-c5f7-40ae-a7d5-7945ab743d2b": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "subheading": "",
+        "title": "Take a tour",
+        "text": "Here's your chance to make a great first impression",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "b195b8ee-f0b3-4c9c-b196-88e03135f2b9": {
       "type": "text--image-with-text",
       "settings": {
@@ -298,20 +312,6 @@
         "subheading": "",
         "title": ""
       }
-    },
-    "f4ca5f12-c5f7-40ae-a7d5-7945ab743d2b": {
-      "type": "image--image-with-text-overlay",
-      "settings": {
-        "subheading": "",
-        "title": "Share your story",
-        "text": "Here's your chance to make a great first impression",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width",
-        "button_link": "",
-        "button_label": ""
-      }
     }
   },
   "order": [
@@ -322,12 +322,12 @@
     "ceed5bd5-4484-40ec-8bf2-29897809df9c",
     "190b3c22-aafc-46e6-9645-f02ac01866b5",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
+    "f4ca5f12-c5f7-40ae-a7d5-7945ab743d2b",
     "b195b8ee-f0b3-4c9c-b196-88e03135f2b9",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
-    "f5f7b256-b511-4d25-9ec5-50568033693b",
-    "f4ca5f12-c5f7-40ae-a7d5-7945ab743d2b"
+    "f5f7b256-b511-4d25-9ec5-50568033693b"
   ]
 }
