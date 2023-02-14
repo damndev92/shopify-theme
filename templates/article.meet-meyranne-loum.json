@@ -172,6 +172,19 @@
         "title": ""
       }
     },
+    "8aa97077-3c4d-4a6d-a052-4f9651af6037": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><strong>How to marry Art Deco design and Moroccan interiors?  <\/strong><\/p><p>“I like Art deco because it fits perfectly with the history of Morocco and harmoniously marries with vast spaces, old doors, and arches. The perfect fusion would be between big volumes, art deco furniture, and cement – simple.”  <\/p><p><strong>What is so different about the city of Marrakech?<\/strong><\/p><p>“I want to create experiences in ‘l’Art de Vivre’, which is a daily experience and refined research. I think Marrakech is very different than the rest of Morocco. The impact of the expats is significant. As much as Rabat is linked to politics and Casablanca to business, the people chose Marrakech because they fell in love with the town. <\/p><p>They want to build a home and leave a legacy. Recently, we’ve also seen the return of the Diaspora: A younger, creative generation, enriched by their foreign experience, is coming back and it’s terrific.”<\/p><p><strong>Who would be your Ideal Guest?  <\/strong><\/p><p>“Someone who loves Morocco and sees the richness of its culture. Who, even if he has done and seen everything, remains curious in life – Not blazé. We are always so happy to take them into our garden and share with them our experiences.”<\/p><p><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/jnane-tamsna\/\"><em>To view our full range of Moroccan-inspired products click here. <\/em><\/a><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/make-yourself-at-home-jnane-tamsna\/\"><em>To read more about the Jnane Tamsna click here. <\/em><\/a><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -195,6 +208,7 @@
     "bf6b13df-31d0-44a0-8171-56b4ffda50ba",
     "545fab22-f904-4542-abd0-528459fdd437",
     "d0b542c4-4f76-446a-af17-dd9dbcc5ac6f",
+    "8aa97077-3c4d-4a6d-a052-4f9651af6037",
     "blog-posts"
   ]
 }
