@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "6c8c972e-f856-4f46-9a87-3b85f0349fcc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Cook-Book-768x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Private: Cook Book",
+        "text_block": "<p>€35<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "8bf6c2a4-5b76-4df7-87e6-98a8b0f6059a",
+    "6c8c972e-f856-4f46-9a87-3b85f0349fcc",
     "main",
     "blog-posts"
   ]
