@@ -192,6 +192,23 @@
         "button_label": ""
       }
     },
+    "385ccfb4-ac4b-41cb-a161-290609f1587e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Parilio_Drone_2191-726x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Who would be your dream guest? <\/strong><\/p><p>My dream guest would fully unwind, immerse into our collection of the most curated experiences and embrace the true essence of the Cycladic way of life.<\/p><p><strong>How do you think this crisis will impact the way we travel? <\/strong><\/p><p>I believe we will travel more mindfully in the future, seeking for a true meaning in our voyage, wishing that in a way, it will play a transformative role in our existence. We will definitely spend more time in each destination, to fully immerse ourselves, while sustainability and the connection with the local communities will also play an important role to our travel choices.<\/p><p><strong>What is your favourite hotel, restaurant and design address in the world? <\/strong><\/p><p>Le Sirenuse in Positano, Maido in Lima and Bocci in Berlin.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -220,6 +237,7 @@
     "942c8cee-08a2-49a9-9efd-a2e9a3b78f65",
     "f9318ad4-3700-46d9-9f1e-ec17ab02925d",
     "bca866d9-117d-4d80-bd3c-e012f1fb65a1",
+    "385ccfb4-ac4b-41cb-a161-290609f1587e",
     "blog-posts"
   ]
 }
