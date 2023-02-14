@@ -93,63 +93,37 @@
         "title": "Facts"
       }
     },
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
-      "type": "product--shop-the-look",
+    "da038fa8-dce0-4874-a181-401f0a9895b1": {
+      "type": "maison--shop-the-look",
       "blocks": {
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
+        "template--17824551338299__da038fa8-dce0-4874-a181-401f0a9895b1-1676391521c92cff8d-0": {
           "type": "product",
           "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        },
-        "61a17092-0b88-43c9-888c-ee6b50651501": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0,
-            "disable_spot": false
-          }
-        },
-        "2d0cd767-4992-4798-8a74-406d517d073e": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0,
-            "disable_spot": false
+            "image": "shopify:\/\/shop_images\/HOTEL_PACAI_MAISONFLANEUR.jpg",
+            "image__position": "image--left",
+            "product": "hunter-desk-lamp",
+            "product-2": "alfonso-scented-candle",
+            "product-3": "abstract-4",
+            "product-4": ""
           }
         }
       },
       "block_order": [
-        "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
-        "61a17092-0b88-43c9-888c-ee6b50651501",
-        "2d0cd767-4992-4798-8a74-406d517d073e"
+        "template--17824551338299__da038fa8-dce0-4874-a181-401f0a9895b1-1676391521c92cff8d-0"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Shop",
-        "title": "Shop The look",
-        "image": "shopify:\/\/shop_images\/3_f221a499-5514-4db4-a012-87e5017a950e.png",
-        "image__position": "image--left",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": "Shop the look"
+        "subheading": "Subheading",
+        "title": "Shop the look"
       }
     },
     "fc207bbe-372a-410a-9fd6-efb127b006be": {
       "type": "maison--btn",
       "settings": {
-        "btn": "Discover",
+        "btn": "Shop the collection",
         "url": "",
-        "link": "",
-        "bg_color": "#656565",
+        "link": "shopify:\/\/collections\/hotel-pacai",
+        "bg_color": "#e28065",
         "padding_top": 15,
         "padding_bottom": 20
       }
@@ -174,12 +148,12 @@
       "settings": {
         "colors": "white",
         "image-width": "large",
-        "image": "shopify:\/\/shop_images\/Ruta-Macike_0050_1-scaled.jpg",
+        "image": "shopify:\/\/shop_images\/RUTA_MF.png",
         "layout": "left",
-        "subheading": "meet the host",
+        "subheading": "meet the host - Rūta Pulkauninkaitė-Macikė",
         "location": false,
-        "title": "Rūta Pulkauninkaitė-Macikė, General Manager",
-        "text_block": "<p><strong>\"My favourite story (about Pacai) was when a guest who watched a TV show before going to sleep, met the main actor of the TV show as he arrived for breakfast.  He ran to reception asking if he had had a hallucination! One guest also begged us to sell the bed linen he slept in as he felt so cozy and just wanted to take that feeling back home. Money was not the case, he said, just tell the price. Very Maison Flâneur.\" <\/strong><\/p>",
+        "title": "\"My favourite story (about Pacai) was when a guest who watched a TV show before going to sleep, met the main actor of the TV show as he arrived for breakfast.  He ran to reception asking if he had had a hallucination! ",
+        "text_block": "",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -284,6 +258,17 @@
         "colors": "white",
         "subheading": "",
         "title": ""
+      }
+    },
+    "deea3ece-1807-417b-bf36-8cea431fe6f7": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Check availability",
+        "url": "https:\/\/www.designhotels.com\/hotels\/lithuania\/vilnius\/hotel-pacai\/?&Rooms=1&Adult=2&Child=0&Childages=",
+        "link": "",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
       }
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
@@ -391,13 +376,14 @@
     "ce2de4fb-18f2-48a0-b7c4-343144d2d838",
     "958d30b5-2fdc-4798-8791-f31e636b2673",
     "31d7a52e-5433-4c6f-a4b3-3b5b1726ce51",
-    "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
+    "da038fa8-dce0-4874-a181-401f0a9895b1",
     "fc207bbe-372a-410a-9fd6-efb127b006be",
     "3e33914a-e927-4abd-a0bb-4265c3e5c2c6",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
+    "deea3ece-1807-417b-bf36-8cea431fe6f7",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "63680a03-e85a-40a7-9084-4a83db4c7921"
