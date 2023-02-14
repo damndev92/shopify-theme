@@ -22,6 +22,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "Santorini, Greece",
+        "page_title": "",
         "title": "Vòra Santorini",
         "text": "<p><br\/>Perched on the edge of the caldera in Santorini, Vòra is a handcrafted boutique hotel of three private villas carved into caves, cliffs and suspended high above the sea.Inspired by the volcanic environment and boasting minimalistic Cycladic design, custom-made furniture and a soothing palette of beiges and greys that are augmented by dark brown wood, Vòra truly is heaven on earth.The private plunge pool of each villa opens up to monumental views of the volcano and the Aegean sea. At this heavenly setting created by Vòra’s upscale aesthetics, one can live a more intimate hospitality experience. Vòra does not try to appeal to the masses, thus looks into the details, its elegance and the guests’ comfort and privacy.<\/p>",
         "button_link": "",
@@ -124,58 +125,6 @@
         "button_label": "Learn More"
       }
     },
-    "63680a03-e85a-40a7-9084-4a83db4c7921": {
-      "type": "image--gallery",
-      "blocks": {
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/58_010f80df-9452-4be3-8a08-27c9c5a4511b.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/57_5c91a3c6-70cc-485e-818c-54b8f17b5198.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/55_b9ec3557-13c7-4464-a3ff-b35facfdd14f.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "4a6acbfc-e3bf-4241-befe-d155af3a0092",
-        "c2c6cee0-74ca-4a08-a2fb-344ad7d32db9",
-        "a24f60ee-30f9-49a0-bc3e-a55a0b1a5c03",
-        "f28e3701-03ba-4ff9-a8f9-912d3945ff62"
-      ],
-      "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
-      }
-    },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
       "type": "product--shop-the-look",
       "blocks": {
@@ -184,7 +133,8 @@
           "settings": {
             "product": "beefbar-main-plate-knife-emoji",
             "top": 63,
-            "left": 51
+            "left": 51,
+            "disable_spot": false
           }
         },
         "61a17092-0b88-43c9-888c-ee6b50651501": {
@@ -192,7 +142,8 @@
           "settings": {
             "product": "design-clock-solari-cifra-3-black",
             "top": 0,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         },
         "2d0cd767-4992-4798-8a74-406d517d073e": {
@@ -200,7 +151,8 @@
           "settings": {
             "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
             "top": 33,
-            "left": 0
+            "left": 0,
+            "disable_spot": false
           }
         }
       },
@@ -223,53 +175,6 @@
         "button__text": "Shop the look"
       }
     },
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
-      "type": "product--shop-the-look",
-      "blocks": {
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e": {
-          "type": "product",
-          "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
-            "top": 63,
-            "left": 51
-          }
-        },
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8": {
-          "type": "product",
-          "settings": {
-            "product": "design-clock-solari-cifra-3-black",
-            "top": 0,
-            "left": 0
-          }
-        },
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89": {
-          "type": "product",
-          "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
-            "top": 33,
-            "left": 0
-          }
-        }
-      },
-      "block_order": [
-        "7ffbdd07-c76e-4465-9e5b-32f26115f01e",
-        "33f45241-76a7-44e8-98cf-425c6bb0bdc8",
-        "acc4f147-815a-42fe-a4b7-0c5e251efe89"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "",
-        "image": "shopify:\/\/shop_images\/Shop_the_Look-Hotels_8a29927c-3966-48df-acea-d102394e71c4.png",
-        "image__position": "image--right",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "Heading",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
-        "description__position": "hidden",
-        "link": "",
-        "button__text": ""
-      }
-    },
     "c29a0e93-b6e3-4f23-be91-1c932143c79c": {
       "type": "image--image",
       "settings": {
@@ -286,6 +191,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "The rooms",
+        "page_title": "",
         "title": "Take A Peek Inside",
         "text": "<p>The three private villas that make-up Vora Santorini are carved into the face of a Santorini cliff and are characterised by minimalistic Cycladic design, private plunge pools, and stunning sunset views. The first, at the top of the site, is a renovated authentic cave house, typical of the local vernacular. Entering the house from the cave opening the first space is light-filled with spectacular views of what remains of the original crater of Santorini’s volcano. The second space, further into the cave, is cooler and darker offering respite from the heat of the summer outside. The third space, pushed far back into the rock of the mountain is serenely cool and tranquil, a total retreat.<\/p>",
         "button_link": "",
@@ -382,9 +288,7 @@
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
-    "63680a03-e85a-40a7-9084-4a83db4c7921",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
-    "9fea23e4-4148-476e-8672-5ecd0222c1b0",
     "c29a0e93-b6e3-4f23-be91-1c932143c79c",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
