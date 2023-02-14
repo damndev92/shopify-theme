@@ -337,7 +337,7 @@
       "settings": {
         "btn": "Shop the Cretan Malia Collection",
         "url": "",
-        "link": "",
+        "link": "shopify:\/\/collections\/cretan-malia",
         "bg_color": "#e28065",
         "padding_top": 25,
         "padding_bottom": 25
