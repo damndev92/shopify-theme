@@ -39,6 +39,19 @@
         "text-over-image-width": "full-width"
       }
     },
+    "6fc8ef13-e753-4d99-8c04-6b983828a3d5": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><br\/>You’ll find The Ox Barn within a converted, former 19-Century oxen house – an architecturally impressive space with soaring ceilings. Which makes sense, because Thyme – the converted manor and farm in which it’s set – is driven by a passion for local heritage, beauty and conservation. Accordingly, The Ox Barn pays homage to its past – think a striking stone rubble facade and original beams overhead, made more modern with Scandi-inspired furniture in nature’s best tones. Making it even more contemporary still are a contemporary bar and seven-and-a-half metre Charvet open kitchen, where Head Chef Charlie Hibbert puts this historic building to work.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
       "type": "image--gallery",
       "blocks": {
@@ -404,6 +417,7 @@
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "fddaf64f-ef02-4124-a6da-30225eb3da6f",
+    "6fc8ef13-e753-4d99-8c04-6b983828a3d5",
     "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
