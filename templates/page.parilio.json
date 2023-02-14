@@ -117,6 +117,17 @@
         "title": "Shop the look"
       }
     },
+    "9ba991cb-730f-44bb-a92f-8c4fd357dfd7": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Shop all products",
+        "url": "",
+        "link": "shopify:\/\/collections\/parilio",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
+      }
+    },
     "7d50163a-b808-4c84-9b7e-98af8ea8f3c2": {
       "type": "image--image-with-text-overlay",
       "blocks": {
@@ -198,7 +209,7 @@
         "0abcec26-bcc0-4da5-ba3d-2081edfd6f0a"
       ],
       "settings": {
-        "background-color": "#e3e3e3",
+        "background-color": "#F3F3F3",
         "text-color": "#000000",
         "title": "Tips from the hosts",
         "faq_icon": "plus_minus"
@@ -307,6 +318,7 @@
     "3c6f013c-21c7-482d-9d33-5b7d2fbef2c1",
     "a9f13497-3170-4255-bd6d-b42a2285354f",
     "9ddffc45-d823-4e4e-853f-f5a0933f6f11",
+    "9ba991cb-730f-44bb-a92f-8c4fd357dfd7",
     "7d50163a-b808-4c84-9b7e-98af8ea8f3c2",
     "2cc5cfa5-ca39-4b74-a4e8-2786a39b922a",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
