@@ -52,38 +52,6 @@
         "button_label": ""
       }
     },
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Shop_the_Look-Hotels_c04b2307-0f55-4fc9-b5f4-60921a059c56.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Shop_the_Look-Hotels_1_93d719dd-f428-4cb7-bb25-f4f0f558372d.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-1",
-        "template--17526727344443__7322c4e1-3560-42f9-a9c6-6ee0710b286b-16733517587c71d58c-0"
-      ],
-      "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": ""
-      }
-    },
     "f752c25e-ff65-466a-ba61-33848f1147fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -124,17 +92,25 @@
             "question": "Place your question or heading here",
             "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
           }
+        },
+        "cbf8cc1f-e932-4ee8-8365-efd1ba25591d": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
         }
       },
       "block_order": [
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0",
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1",
-        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2"
+        "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2",
+        "cbf8cc1f-e932-4ee8-8365-efd1ba25591d"
       ],
       "settings": {
         "background-color": "#e3e3e3",
         "text-color": "#000000",
-        "title": "Frequently asked questions",
+        "title": "Tips from the host",
         "faq_icon": "plus_minus"
       }
     },
@@ -418,7 +394,6 @@
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
     "88f7ec75-97f2-443d-8281-abec602b3777",
     "96f6321d-269f-43f0-b600-5773990c1809",
-    "7322c4e1-3560-42f9-a9c6-6ee0710b286b",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "49ebd31a-1a1d-4c6d-8267-69b27cda0a7d",
