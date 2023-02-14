@@ -192,11 +192,21 @@
     },
     "6ef10766-e00d-45e5-b405-600dc9f34f9b": {
       "type": "image--image-with-text-overlay",
+      "blocks": {
+        "7f02e15f-c697-4c4c-a57b-a7ec33c272ee": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "7f02e15f-c697-4c4c-a57b-a7ec33c272ee"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/105.png",
         "subheading": "",
         "title": "Take a tour",
-        "text": "Here's your chance to make a great first impression",
+        "text": "",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
