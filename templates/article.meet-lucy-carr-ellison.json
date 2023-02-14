@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/wild-by-tart2.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>When hosting at home, what makes a good dinner?<\/strong><\/p><p>What makes a great dinner party; make sure to start with a killer cocktail, we love a spicy margarita, make sure you’ve got a good playlist and always finish up with a cheeseboard.<\/p><p><strong>Who would be your dream guest to have for dinner?<\/strong><\/p><p>90s Leonardo di Caprio and Johnny Depp !<\/p><p><strong>What are you home interiors like?<\/strong><\/p><p>We both love to travel and our homes are filled with items we’ve picked up along our travels, light is important to us and we love having that indoor\/outdoor feel.<\/p><p><strong>Favourite restaurant in London\/in the world?<\/strong><\/p><p>In London, we’re both big fans of the Towpath Cafe and also, the River Cafe, you simply can’t beat their pasta<\/p><p><strong>How would you define both of your tastes in design?<\/strong><\/p><p>Light-filled, indoor oasis-style, sun-drenched, how you’d expect to feel in Morocco.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
