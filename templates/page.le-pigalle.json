@@ -16,6 +16,19 @@
       "settings": {
       }
     },
+    "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><br\/>Mythical and imposing, languid and frenetic, Pigalle is a neon light in the Parisian night. The neighbourhood has always attracted bad boys and artists, musicians and adventurers. With neither a monument nor a meeting point, it lacked a spot that really reflected its tawdry values, brazen spirit and musical energy. And so, Le Pigalle was born. An authentic neighbourhood hotel, whose history was shaped by the cultural mix that swirls on the southern slopes of Montmartre.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "f4a7f6e9-8b98-43f8-985d-ce344c2bab63": {
       "type": "image--image",
       "settings": {
@@ -26,7 +39,7 @@
         "text-over-image-width": "full-width"
       }
     },
-    "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
+    "ceed5bd5-4484-40ec-8bf2-29897809df9c": {
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
@@ -249,8 +262,9 @@
   "order": [
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "main",
-    "f4a7f6e9-8b98-43f8-985d-ce344c2bab63",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
+    "f4a7f6e9-8b98-43f8-985d-ce344c2bab63",
+    "ceed5bd5-4484-40ec-8bf2-29897809df9c",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "b195b8ee-f0b3-4c9c-b196-88e03135f2b9",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
