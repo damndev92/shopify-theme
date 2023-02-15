@@ -35,8 +35,8 @@
             "button-text": "#ffffff",
             "button-background": "#000000",
             "button-background-hover": "#797979",
-            "horizontal-alignment": "left",
-            "vertical-alignment": "middle"
+            "horizontal-alignment": "right",
+            "vertical-alignment": "bottom"
           }
         }
       },
