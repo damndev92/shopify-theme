@@ -17,6 +17,19 @@
         width: {{ section.settings.width }}px;
     }
 
+    {% if section.settings.mobile_image != blank %}
+        @media screen and (max-width: 767px) {
+            .logo-bar {
+                display: none;
+            }
+        }
+
+        @media screen and (min-width: 768px) {
+            .logo-bar-mobile {
+                display: none;
+            }
+        }
+    {% endif %}
     </style>
 
     <div class="container logo-bar-section--{{ section.id }}">
@@ -34,7 +47,7 @@
                 </div>
                 {% endif %}
 
-                {% if section.settings.mobile_image %}
+                {% if section.settings.mobile_image != blank %}
                     <div class="logo-bar-mobile">
                         {% render 'responsive-image' with section.settings.mobile_image, alt: section.settings.mobile_image.alt, class: 'logo-bar-mobile__image' %}
                     </div>

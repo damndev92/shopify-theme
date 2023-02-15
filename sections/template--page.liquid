@@ -1,3 +1,28 @@
+{% style %}
+	{% if section.settings.hide_header == true %}
+		#shopify-section-announcement-bar,
+		.header-wrapper .header-menu-wrapper {
+			display: none !important;
+		}
+
+		.header-wrapper .header-icons.cart-link ul li:not(:last-of-type) {
+			display: none !important;
+		}
+	{% endif %}
+	{% if section.settings.hide_default_content == true %}
+		article#{{ page.handle }} {
+			display: none !important;
+		}
+	{% endif %}
+	{% if section.settings.background_image != blank %}
+		main#main {
+			background-image: url("{{ section.settings.background_image | img_url: "1920x1080" }}");
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+	{% endif %}
+{% endstyle %}
+
 <article id="{{page.handle}}" class="page entry container">
 	<header>
 		<div class="title-bar custom-font">
@@ -8,3 +33,53 @@
 		{{ page.content }}
 	</section>
 </article>
+
+{% if section.settings.logo != blank %}
+<style>
+	.site-header__logo .site-header__logo-image img {
+		display: none;
+	}
+</style>
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		const logoWrappers = document.querySelectorAll('.site-header__logo');
+		logoWrappers.forEach((logoWrapper) => {
+			logoWrapper.querySelector('.site-header__logo-image img').remove()
+
+			let img = document.createElement('img');
+			img.src = '{{ section.settings.logo | img_url: '500x' }}';
+			logoWrapper.querySelector('.site-header__logo-image').appendChild(img);
+			logoWrapper.querySelector('.site-header__logo-image img').style.display = 'block'
+		});
+	})
+</script>
+{% endif %}
+
+
+{% schema %}
+{
+	"settings": [
+		{
+			"type": "checkbox",
+			"id": "hide_header",
+			"label": "Hide header",
+			"info": "Hide site logo, navigation, search and my account icon"
+		},
+		{
+		"type": "checkbox",
+		"id": "hide_default_content",
+		"label": "Hide default content"
+		},
+		{
+			"type": "image_picker",
+			"id": "background_image",
+			"label": "Background image"
+		},
+		{
+		"type": "image_picker",
+		"id": "logo",
+		"label": "Logo"
+		}
+	]
+}
+{% endschema %}
