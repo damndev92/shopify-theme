@@ -283,13 +283,27 @@
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
+      "blocks": {
+        "fa3a8b69-b66e-4f46-8be8-7e50286be548": {
+          "type": "article",
+          "settings": {
+            "blog_post_1": "flaneur-magazine\/make-yourself-at-home-review-of-le-pigalle-paris",
+            "blog_post_2": "flaneur-magazine\/object-of-desire-anissa-kermiche-le-pigalle-paris",
+            "blog_post_3": "",
+            "blog_post_4": ""
+          }
+        }
+      },
+      "block_order": [
+        "fa3a8b69-b66e-4f46-8be8-7e50286be548"
+      ],
       "settings": {
         "colors": "white",
         "subheading": "Read From",
         "title": "Flâneur Magazine",
         "post_limit": 3,
         "show_author_name": false,
-        "show_dates": true,
+        "show_dates": false,
         "show_blog_images": true,
         "imageSize": "portrait"
       }
