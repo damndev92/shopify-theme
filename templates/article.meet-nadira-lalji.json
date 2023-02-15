@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "948d99fa-6077-44d9-91d1-8e663910b900": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/g-12-inhabit-hotel-723x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What is the most important element when thinking about a hotel? <\/strong><\/p><p>Hospitality is fundamentally about <em>people<\/em>: connection and the human touch are at its core. It is a service business. As a youthful brand, we deliberately adopted service standards that are less formal, more peer-to-peer and relaxed, in line with the residential feel of our kitchen, communal dining and library spaces. <\/p><p>When thinking about what really mattered to us as travellers, we wanted to feel restored. So creating a restorative experience became key. While our hosts at Inhabit seek to offer our guests great service, Inhabit has the principal aim of offering a pause from the frenetic everyday. Our aim is to nourish the senses, the body and the mind. We wanted to demonstrate consistency and thoughtfulness at every touchpoint.<\/p><p><strong>How do you source the art and the furniture? <\/strong><\/p><p>Over a number of years, I have actively sought out local fabricators, artists and social enterprises working to upcycle, reuse wasted materials and offcuts and redistribute goods. It has been a journey; there’s no centralised platform that I have found yet that organises and curates such enterprises. <\/p><p>MF is a platform (as well as our own online retail platform) to do so for others, and really spotlight these incredible individuals, non-profits and businesses. We have put out calls to action for artists at a range of institutions (Ravensbourne, Somerset House Studios and Makerversity, for example) for a number of our hotel projects, and will continue to build on these creative collaborations.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "f1a9385c-03cd-4a96-a167-0c1e106b714a",
+    "948d99fa-6077-44d9-91d1-8e663910b900",
     "main",
     "blog-posts"
   ]
