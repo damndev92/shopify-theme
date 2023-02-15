@@ -23,17 +23,14 @@
         "button_label": ""
       }
     },
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
-      "type": "text--rich-text",
+    "da800729-3bef-4ef8-81b8-ff922c30ed45": {
+      "type": "image--image",
       "settings": {
-        "colors": "light",
-        "width": "small",
-        "subheading": "",
-        "page_title": "",
-        "title": "Date Night",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
+        "image": "shopify:\/\/shop_images\/vora-santorini-exterior-terrace-ocean-view-q-02-1024x410.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
       }
     },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
@@ -100,7 +97,7 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
+    "da800729-3bef-4ef8-81b8-ff922c30ed45",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
