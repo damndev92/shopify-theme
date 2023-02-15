@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "49f543b9-4993-49a4-a82b-553156a8031c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/4-1024x1024_7221cabf-4ff0-475f-9479-40a1ad5687c3.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What does embroidery mean to you? <\/strong><\/p><p>Embroidery involves patience and passion, it’s precious. It is the transmission of a daily know-how, from family to family, from hand to hand. There’s a slightly old-fashioned side to it that I really enjoy! It’s like a piece of family memory I keep alive. <\/p><p><strong>You create objects for the table. What does “l’Art de la Table” mean to you? <\/strong><\/p><p>It is the desire to create a beautiful table to receive and invite people we cherish, to share a pleasant moment. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "49f543b9-4993-49a4-a82b-553156a8031c",
     "main",
     "blog-posts"
   ]
