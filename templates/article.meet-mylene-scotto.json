@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "2c9ff2f6-fab2-44ad-a30e-ceeb617737d7": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/petal-lamp_89b9ce14-1d98-4073-a205-521b0977a149.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "The Precious Petal Lamp – Medium",
+        "text_block": "<p>From£357<\/p><p>The \"jewel\" combination of brass and fabric in a floral and airy suspension. With the simplicity of a drop-shaped petal, Pale adds a tribute to the retro ceiling fans of louvred bedrooms. This pendant light plays subtly with light, diffusing a soft light in the room and delicate play of shadows on the ceiling. Its brass hoops give it a full diameter (the petals won't fall in time) and can be adjustable for a more contemporary version. Rod lengths are also available in 150cm, 200cm, 250cm. Please enquire about this by emailing us at <a href=\"mailto:hello@maisonflaneur.com\"><strong>hello@maisonflaneur.com<\/strong><\/a>.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "15e81650-46f7-4a7e-b6e8-f8b2435b9bfd",
     "e085d0b2-fa67-48a1-9d82-0488fbe15651",
+    "2c9ff2f6-fab2-44ad-a30e-ceeb617737d7",
     "main",
     "blog-posts"
   ]
