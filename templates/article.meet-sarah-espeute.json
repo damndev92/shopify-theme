@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "a4efec5c-9be9-4a9c-85ce-7a457cac1cbf": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/5-1024x1024_84fcca0e-843f-4bf8-8236-653cda7f35b7.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Do you think the confinement has changed the way people see their homes\/tables? <\/strong><\/p><p>I think people are very keen on objects that make them travel, escape from confinement. They want poetry, objects that inspire them, reassure them. <\/p><p><strong>What are your tips for the perfect table setting? <\/strong><\/p><p>A rather simple and not fancy table! Nice old plates, napkins, a vase, a bouquet, family heirlooms. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "49f543b9-4993-49a4-a82b-553156a8031c",
+    "a4efec5c-9be9-4a9c-85ce-7a457cac1cbf",
     "main",
     "blog-posts"
   ]
