@@ -84,6 +84,23 @@
         "button_label": ""
       }
     },
+    "c2bda5f1-0c72-44a7-886a-d44531912de5": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/vora-rooms-and-suites-a-01-x2.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How would you define a “luxury” hotel?<\/strong><br\/>For me what defines a “luxury” hotel is its service and that is the most important thing I try to pass on to my team. I always say to my team that a luxury hotel with bad service is a bad hotel but an average hotel with first-class service is a great hotel. <\/p><p><strong>If you weren’t in the hospitality business, what would you have done?<\/strong><br\/>I’ve always felt I would fit better in a business environment, but life led me to the hospitality industry and our family business. However, I grew a passion for design and architect that has also become my hobby. So maybe something in that field. <\/p><p><strong>Your favourite design addresses? <\/strong><br\/>K-studio! Dimitris & Konstantinos Karambatakis – along with their amazing team – and special mention to Marianna Stavridou. It is for me the most significant design address in Greece. They allow you to bring your ideas to life, with an improved result. I also have great respect for all the local workers and constructors who transform our designs into reality…<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -118,6 +135,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "1be7d0b4-4465-4ef8-b4b8-1d094fc0651c",
+    "c2bda5f1-0c72-44a7-886a-d44531912de5",
     "main",
     "blog-posts"
   ]
