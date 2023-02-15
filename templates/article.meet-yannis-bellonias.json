@@ -67,6 +67,23 @@
         "button_label": ""
       }
     },
+    "1be7d0b4-4465-4ef8-b4b8-1d094fc0651c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/vora-santorini-guestroom-cave-view-furniture-interior-design-k-02-x2.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Do you have a favourite piece of design?<\/strong><br\/>Yes, the Myrto Zirini Ceramics. They are all hand made for us. Myrto is an amazing artist and the original shapes and colours that made for us in cooperation with Marianna Stavridou – The project architect at K-Studio. <\/p><p><strong>Your favourite spot at Vora?<\/strong><br\/>All the verandas: Unique and uninterrupted views of the cliffs of the caldera, the volcano and the famous sunsets. They are magical places with so much energy. <\/p><p><strong>If someone would ask you why they should choose Santorini over other islands, What would you say?<\/strong><br\/>Definitely the energy and the uniqueness. This island is unique and cannot be compared! <\/p><p><strong>Who would be your dream guests (Historical or present)?<\/strong><br\/>We never make a distinction between our guests from favourite ones to less preferred. We love to interact with new people: There are no good or bad guests but only guests with different needs. Vora is the youngest member of our hotel group but our two other properties have already grown a devoted clientele which in most cases can also be considered as friends.<br\/>But if I had to choose only one person, then, it would be my father. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -100,6 +117,7 @@
     "da800729-3bef-4ef8-81b8-ff922c30ed45",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "1be7d0b4-4465-4ef8-b4b8-1d094fc0651c",
     "main",
     "blog-posts"
   ]
