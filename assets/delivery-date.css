@@ -1,5 +1,47 @@
 .delivery-date {
-	margin-bottom: 2rem;
+	display: flex;
+	align-items: baseline;
+}
+
+.delivery-date .fa {
+	color: var(--active-link-color);
+	margin-left: 10px;
+	cursor: pointer;
+}
+
+.delivery-date tooltip {
+	position: relative;
+}
+
+.delivery-date tooltip .tooltip-text {
+	visibility: hidden;
+	width: 215px;
+	background-color: #aeaeae;
+	color: #fff;
+	text-align: center;
+	border-radius: 6px;
+	padding: 10px 0;
+	position: absolute;
+	z-index: 1;
+	bottom: 35px;
+	left: -90px;
+}
+
+.delivery-date tooltip .fa:hover + .tooltip-text {
+	visibility: visible;
+}
+
+.delivery-date tooltip .tooltip-text:after {
+	content: "";
+	position: absolute;
+	left: 101px;
+	top: 65px;
+	width: 0;
+	height: 0;
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-top: 5px solid #aeaeae;
+	/* clear: both; */
 }
 
 delivery-date {

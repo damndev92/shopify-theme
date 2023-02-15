@@ -54,6 +54,7 @@ We highly recommend labelling changes, or App installs, so these can also be upd
 
 button#cancel {
     width: 100%;
+    cursor: not-allowed;
 }
 
 /* Country selector */

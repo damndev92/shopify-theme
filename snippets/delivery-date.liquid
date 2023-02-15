@@ -16,15 +16,22 @@
     assign days_to_deliver = default_number_of_days
   endif
 
-  assign international_days_to_deliver = days_to_deliver | plus: 5
-
-  assign gap = days_to_deliver | plus: 4 | jsonify
-  assign international_gap = international_days_to_deliver | plus: 4 | jsonify
+  assign gap = days_to_deliver | jsonify
+  assign international_gap = days_to_deliver | plus: 5 | jsonify
 %}
 
 <div class="delivery-date">
-  <delivery-date label="Estimated domestic delivery by" todate="{{ gap }}"></delivery-date>
-  <delivery-date label="Estimated international delivery by" todate="{{ international_gap }}"></delivery-date>
+  {% if localization.country.name == product.metafields.custom.country_of_origin %}
+    <delivery-date label="Estimated delivery by" todate="{{ gap }}"></delivery-date>
+  {% else %}
+    <delivery-date label="Estimated delivery by" todate="{{ international_gap }}"></delivery-date>
+  {% endif %}
+  <tooltip>
+    <i class="fa fa-info-circle"></i>
+    <div class="tooltip-text">
+      {{ 'Make sure you have selected your shipping country.' }}
+    </div>
+  </tooltip>
 </div>
 
 <script id="secondary-modules" type="module" defer>
