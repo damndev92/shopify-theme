@@ -87,6 +87,28 @@
         "show_recent_posts": false
       }
     },
+    "a58230ed-2ee0-488d-b29b-c051c9270f95": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18005318631739__a58230ed-2ee0-488d-b29b-c051c9270f95-1676469101acd723aa-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pietro-Nolita-merch11-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Pink as F*** Hoodie<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18005318631739__a58230ed-2ee0-488d-b29b-c051c9270f95-1676469101acd723aa-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Riccardo’s Selection"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -108,6 +130,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "f587f513-e080-480d-ac38-05a3f1327707",
     "main",
+    "a58230ed-2ee0-488d-b29b-c051c9270f95",
     "blog-posts"
   ]
 }
