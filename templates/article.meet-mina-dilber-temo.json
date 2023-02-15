@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "14457dce-f6e1-4cfc-ae62-beec0b1f85e6": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Aman-Tokyo-10-1024x682.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What is your favourite hotel in the world? <\/strong><br\/>Aman Tokyo and Borgo Egnazia in Puglia.<\/p><p><strong>Have you ever wanted to bring back an object from a hotel, restaurant? If so do you remember what it was? <\/strong><br\/>Almost always! I really get attracted to unique pieces at hotels. Ceramic vases in the rooms of Aman Tokyo were really amazing, I really wanted to bring them back home. And the colorful cushions of El Fenn in Morocco were quite unique, I fell in love with them.<\/p><p><strong>In what way do you think this pandemic will influence the way people see their homes?<\/strong><br\/>I really hope this post pandemic period will make people see their houses as real ‘homes’. Being able to spend more time than ever at our homes, it seems that we will all realize what really matters and hopefully appreciate our living spaces more.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "9e402c4c-9c91-453e-a546-2bb814bac75b",
+    "14457dce-f6e1-4cfc-ae62-beec0b1f85e6",
     "main",
     "blog-posts"
   ]
