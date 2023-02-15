@@ -117,6 +117,17 @@
         "title": "Shop the look"
       }
     },
+    "05248de3-0fbe-4a2a-a497-ffe7e9650364": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Shop all products",
+        "url": "",
+        "link": "shopify:\/\/collections\/tribe-hotel",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
+      }
+    },
     "8b38bcfa-ead6-4545-ad7b-1e55330a1cb6": {
       "type": "image--image-with-text-overlay",
       "blocks": {
@@ -259,6 +270,17 @@
         "title": ""
       }
     },
+    "4571bd19-1e3e-450c-b5be-c8514b8669e2": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Check availability",
+        "url": "https:\/\/www.designhotels.com\/hotels\/kenya\/nairobi\/tribe-hotel\/?&Rooms=1&Adult=2&Child=0&Childages=",
+        "link": "",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
+      }
+    },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
       "settings": {
@@ -281,11 +303,13 @@
     "abb3abe2-b7c0-4a2a-9311-7466a6b23728",
     "ddd0bffa-458a-45f9-8004-7d856470b57f",
     "10caa287-4a89-49d9-8925-6c29a96cf928",
+    "05248de3-0fbe-4a2a-a497-ffe7e9650364",
     "8b38bcfa-ead6-4545-ad7b-1e55330a1cb6",
     "a05db212-652f-4271-8069-7ace459b4c2e",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
+    "4571bd19-1e3e-450c-b5be-c8514b8669e2",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
   ]
 }
