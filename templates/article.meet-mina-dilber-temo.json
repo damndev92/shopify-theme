@@ -125,6 +125,23 @@
         "button_label": ""
       }
     },
+    "9e64596e-9966-40b6-90b3-1e9207fdea9d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/RETRO-THEIA-PLACEMAT-1024x682.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Retro Theia Placemat",
+        "text_block": "<p>£59<\/p><p>For the first summer collection, Anim dreams of a heartwarming journey: Under The Sun. The colorful stripes, golden twisted sun forms and modern echo of historic jugs all explore different facets of summer living. The collection steps up its homeware game, with outstanding table linens and towel bundles with a combination of natural cotton and linen blends as well as with Ceramics pieces where each Anim Ceramic is handmade by talented artisans of Istanbul.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -161,6 +178,7 @@
     "14457dce-f6e1-4cfc-ae62-beec0b1f85e6",
     "2033c123-2a43-4d7f-9db5-982fbf6d8086",
     "be65eec5-e992-4ddd-adb5-04965fd0c591",
+    "9e64596e-9966-40b6-90b3-1e9207fdea9d",
     "main",
     "blog-posts"
   ]
