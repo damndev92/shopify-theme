@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
+        "image": "shopify:\/\/shop_images\/article-sensible-1024x1024.png",
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>You are both an artist and a designer, how do you approach your work? <\/strong><\/p><p>I approach the everyday object in the same way as an art object, a painting or a sculpture. To design them, I like to have an artistic approach by experimenting with the material myself while developing its function. <\/p><p><strong>Do you remember how you first thought about these designs? <\/strong><\/p><p>Two years ago when I started embroidering trompe l’oeil objects for my home, I really liked their presence in the interior space. I was sensitive to both the decorative aspect and the story they told me. It made me want to explore it on several furniture supports, like I do with the table clothes right now. <\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
