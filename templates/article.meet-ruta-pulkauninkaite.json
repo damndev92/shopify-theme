@@ -138,6 +138,19 @@
         "show_recent_posts": false
       }
     },
+    "e06c4c16-c190-4717-a471-17b3eb964f21": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><strong>Can you tell us more about the restaurant and chef Matas Paulinas? <\/strong><\/p><p>For a long time Matas worked in Japanese cuisine restaurants in Denmark, he has also worked at a “Michelin” star lever restaurant in Monaco. Later, while living in Copenhagen, he worked in “Noma” where he became a fan of Scandinavian kitchen philosophy. His food style is <em>a<\/em> contemporary interpretation of ethnographic themes from recent history, Matas is extremely creative inside the plate.<\/p><p><strong>Your favourite address for design in Vilnius\/in the world?<\/strong><\/p><p>MO museum and Galerija Vartai are my favourite places to visit in Vilnius for art and design.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -162,6 +175,7 @@
     "2d145c21-5509-4efd-bd0f-586b2e2f29cc",
     "08e2c895-4e43-4813-933d-a4ac2d4895a4",
     "main",
+    "e06c4c16-c190-4717-a471-17b3eb964f21",
     "blog-posts"
   ]
 }
