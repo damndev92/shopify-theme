@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "2033c123-2a43-4d7f-9db5-982fbf6d8086": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/EMBROIDERED-VITANGE-LINEN-CUSHION-YELLOW-1024x682.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Yellow Embroidered Vintage Linen Cushion",
+        "text_block": "<p>£49<\/p><p>Aiming to bring  a cool and optimistic ease to your living space, Embroidered Vintage Linen Cushions feature Under The Sun’s exclusive embroideries on Anim’s 100 year old vintage linens.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "9e402c4c-9c91-453e-a546-2bb814bac75b",
     "14457dce-f6e1-4cfc-ae62-beec0b1f85e6",
+    "2033c123-2a43-4d7f-9db5-982fbf6d8086",
     "main",
     "blog-posts"
   ]
