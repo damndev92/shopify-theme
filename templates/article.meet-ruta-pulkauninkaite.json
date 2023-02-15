@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "2d145c21-5509-4efd-bd0f-586b2e2f29cc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/g-28-hotel-pacai-683x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Can you tell us about your vision in terms of interior design? <\/strong><\/p><p>Hotel PACAI’s design is the synthesis of multiple creative visions coming together in a historical building. It celebrates the region’s tradition as well as the present uniqueness of Lithuanian and Baltic culture. With the majority of the mansion’s spaces dating back centuries, the designers’ goal was to keep the history visible in a direct way. Thus, all the existing frescoes and unique textures of the walls are emphasized through lighting. While the main features of the hotel strive for elegance and classical purity, both through materials and details. A cozy, artistic atmosphere includes soft, deep tones in the public areas and artwork in the rooms.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "1bffddc1-28b7-4c23-a1c5-76fee816425d",
     "4333c709-5a30-487e-9e02-502f0cd584ac",
+    "2d145c21-5509-4efd-bd0f-586b2e2f29cc",
     "main",
     "blog-posts"
   ]
