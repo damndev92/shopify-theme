@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
+        "image": "shopify:\/\/shop_images\/beef-bar-monaco.meat_.full-resolution-4-1024x682.jpg",
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Does each country have a different relation to meat?<\/strong><br\/>They all believe their meat is the best !!!<\/p><p><strong>What is your favourite type of meat?<\/strong><br\/>The most important quality of any meat should be consistency. People tend to forget that.<\/p><p><strong>Can you tell us about your partnership with Bernardaud?<\/strong><br\/>I always loved to play around with Emojis and I loved contrasting these funny characters with luxury.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
