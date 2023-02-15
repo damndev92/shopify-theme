@@ -111,6 +111,7 @@
     },
     "shop_the_look": {
       "type": "product--shop-the-look",
+      "disabled": true,
       "blocks": {
         "product--shop-the-look-0": {
           "type": "product",
@@ -259,48 +260,6 @@
         "button_label": "Join our trade program"
       }
     },
-    "c94d79d4-bbe0-4f33-a57f-335300f24f32": {
-      "type": "text--text-adverts",
-      "blocks": {
-        "template--17456700391739__c94d79d4-bbe0-4f33-a57f-335300f24f32-1673176379b2355835-0": {
-          "type": "text",
-          "settings": {
-            "icon": "compass",
-            "heading": "Our curation",
-            "subheading": "",
-            "link": ""
-          }
-        },
-        "template--17456700391739__c94d79d4-bbe0-4f33-a57f-335300f24f32-1673176379b2355835-1": {
-          "type": "text",
-          "settings": {
-            "icon": "trending-up",
-            "heading": "Hassle free returns",
-            "subheading": "Shout about your unique selling points",
-            "link": ""
-          }
-        },
-        "template--17456700391739__c94d79d4-bbe0-4f33-a57f-335300f24f32-1673176379b2355835-2": {
-          "type": "text",
-          "settings": {
-            "icon": "smile",
-            "heading": "Eco friendly packaging",
-            "subheading": "Shout about your unique selling points",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17456700391739__c94d79d4-bbe0-4f33-a57f-335300f24f32-1673176379b2355835-0",
-        "template--17456700391739__c94d79d4-bbe0-4f33-a57f-335300f24f32-1673176379b2355835-1",
-        "template--17456700391739__c94d79d4-bbe0-4f33-a57f-335300f24f32-1673176379b2355835-2"
-      ],
-      "settings": {
-        "colors": "dark",
-        "alignment": "center",
-        "icon-size": "text-adverts__icon-size--medium"
-      }
-    },
     "logo-list": {
       "type": "image--logo-list",
       "blocks": {
@@ -360,6 +319,48 @@
         "width": 150,
         "subheading": "",
         "title": "As seen in"
+      }
+    },
+    "c94d79d4-bbe0-4f33-a57f-335300f24f32": {
+      "type": "text--text-adverts",
+      "blocks": {
+        "template--17456700391739__c94d79d4-bbe0-4f33-a57f-335300f24f32-1673176379b2355835-0": {
+          "type": "text",
+          "settings": {
+            "icon": "compass",
+            "heading": "Our curation",
+            "subheading": "",
+            "link": ""
+          }
+        },
+        "template--17456700391739__c94d79d4-bbe0-4f33-a57f-335300f24f32-1673176379b2355835-1": {
+          "type": "text",
+          "settings": {
+            "icon": "trending-up",
+            "heading": "Hassle free returns",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        },
+        "template--17456700391739__c94d79d4-bbe0-4f33-a57f-335300f24f32-1673176379b2355835-2": {
+          "type": "text",
+          "settings": {
+            "icon": "smile",
+            "heading": "Eco friendly packaging",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17456700391739__c94d79d4-bbe0-4f33-a57f-335300f24f32-1673176379b2355835-0",
+        "template--17456700391739__c94d79d4-bbe0-4f33-a57f-335300f24f32-1673176379b2355835-1",
+        "template--17456700391739__c94d79d4-bbe0-4f33-a57f-335300f24f32-1673176379b2355835-2"
+      ],
+      "settings": {
+        "colors": "dark",
+        "alignment": "center",
+        "icon-size": "text-adverts__icon-size--medium"
       }
     },
     "0c78a5c1-7d9a-4374-9d3b-e76f80ed41b3": {
@@ -432,8 +433,8 @@
     "cab7e0c8-ccb0-41e9-8fcb-49ec92305af0",
     "blog_blog_posts",
     "965c199b-916f-4301-a1cc-ef4095be5f72",
-    "c94d79d4-bbe0-4f33-a57f-335300f24f32",
     "logo-list",
+    "c94d79d4-bbe0-4f33-a57f-335300f24f32",
     "0c78a5c1-7d9a-4374-9d3b-e76f80ed41b3"
   ]
 }
