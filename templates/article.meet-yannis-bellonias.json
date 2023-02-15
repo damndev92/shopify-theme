@@ -1,0 +1,153 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/vora-santorini-architecture-coast-ocean-view-q-01-1024x410.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Meet Yannis Bellonias, Hotelier, Vora, Santorini",
+        "title": "",
+        "text": "<p>Meet Yannis Bellonias, founder of Vora, as a Santorini native, he vows to create an authentic experience of the island for his guests. We ask him a few questions about his relationship to the island, Greek hospitality, and his favourite pieces of design.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "da800729-3bef-4ef8-81b8-ff922c30ed45": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/vora-santorini-exterior-terrace-ocean-view-q-02-1024x410.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/VoraCover.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Do you remember your first memory of Santorini?<\/strong><br\/>Of course! I still have all the memories from my childhood in Santorini. Specifically at my grandmother’s house, with all my relatives eating together and playing with my cousins… It’s still all here in my mind!<\/p><p><strong>Hospitality is very much in your veins. Can you tell us a little bit about your family history here on Santorini?<\/strong><br\/>My parents owned a tourist office and also built and rented bungalows in the 1980s. One of those bungalows was our home, so I practically grew up in a hotel. In a way, I was trained in all roles in hospitality without knowing it. And at this time, you could still find a pure kind of Greek hospitality. After my father got sick and died, I took over the family business, started changing it, and slowly growing my own companies on the island, all of them related to hospitality, and all promoting the island in its best light. My grandfather taught me that if you love and respect Santorini, then Santorini will be generous to you. That’s why I promote local cuisine and products, as well as the culture, architecture, and the local ways of doing things.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/vora-santorini-exterior-terrace-ocena-view-k-01-x2.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Do you remember something that your parents did that inspires you in the way you run your hotel?<\/strong><br\/>I remember my mother treating our guests like family members: cooking for them, talking with them all day, having the door to our house always open. This is still my number one priority, to offer a great hospitality experience because I believe that makes our business to stand out. Each guest for us is unique and therefore we create a tailor-made experience… A feel for the Santorini I love and know. I want our guests to experience the island far from the masses and commercial stuff that is offered elsewhere. I want our guests to know the Santorini that my parents showed me, the still-secret locations, the smells, the food; I want them to get to know the island as I know it, so that they will love it forever.<\/p><p><strong>How did you think about the design of the hotel, what inspired you?<\/strong><br\/>I am driven by the local ways and the nature of Santorini, but I also feel strongly that the past should be blended with the present. So, with all my projects, the main thing I try to do is find the perfect balance between the island’s tradition and contemporary design.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "1be7d0b4-4465-4ef8-b4b8-1d094fc0651c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/vora-santorini-guestroom-cave-view-furniture-interior-design-k-02-x2.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Do you have a favourite piece of design?<\/strong><br\/>Yes, the Myrto Zirini Ceramics. They are all hand made for us. Myrto is an amazing artist and the original shapes and colours that made for us in cooperation with Marianna Stavridou – The project architect at K-Studio. <\/p><p><strong>Your favourite spot at Vora?<\/strong><br\/>All the verandas: Unique and uninterrupted views of the cliffs of the caldera, the volcano and the famous sunsets. They are magical places with so much energy. <\/p><p><strong>If someone would ask you why they should choose Santorini over other islands, What would you say?<\/strong><br\/>Definitely the energy and the uniqueness. This island is unique and cannot be compared! <\/p><p><strong>Who would be your dream guests (Historical or present)?<\/strong><br\/>We never make a distinction between our guests from favourite ones to less preferred. We love to interact with new people: There are no good or bad guests but only guests with different needs. Vora is the youngest member of our hotel group but our two other properties have already grown a devoted clientele which in most cases can also be considered as friends.<br\/>But if I had to choose only one person, then, it would be my father. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "c2bda5f1-0c72-44a7-886a-d44531912de5": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/vora-rooms-and-suites-a-01-x2.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How would you define a “luxury” hotel?<\/strong><br\/>For me what defines a “luxury” hotel is its service and that is the most important thing I try to pass on to my team. I always say to my team that a luxury hotel with bad service is a bad hotel but an average hotel with first-class service is a great hotel. <\/p><p><strong>If you weren’t in the hospitality business, what would you have done?<\/strong><br\/>I’ve always felt I would fit better in a business environment, but life led me to the hospitality industry and our family business. However, I grew a passion for design and architect that has also become my hobby. So maybe something in that field. <\/p><p><strong>Your favourite design addresses? <\/strong><br\/>K-studio! Dimitris & Konstantinos Karambatakis – along with their amazing team – and special mention to Marianna Stavridou. It is for me the most significant design address in Greece. They allow you to bring your ideas to life, with an improved result. I also have great respect for all the local workers and constructors who transform our designs into reality…<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "5e7570c0-9729-440c-ad67-0830fb26a081": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WebSize_041-DS-Vora.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "da800729-3bef-4ef8-81b8-ff922c30ed45",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "1be7d0b4-4465-4ef8-b4b8-1d094fc0651c",
+    "c2bda5f1-0c72-44a7-886a-d44531912de5",
+    "main",
+    "5e7570c0-9729-440c-ad67-0830fb26a081",
+    "blog-posts"
+  ]
+}
