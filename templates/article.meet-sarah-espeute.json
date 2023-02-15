@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "f0c8c725-38a0-462f-9959-dbb4dfb51d86": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/6-1024x1024_4b9b4557-6c2e-4700-93a6-b1c2fa196c82.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Where do you shop your interior pieces? <\/strong><\/p><p>Only on second-hand sites and by strolling around on flea markets. I don’t buy a lot of new items, which I often find to be of poor quality.<\/p><p><strong>Any wishes for the rest of the year? <\/strong><\/p><p>Lots of beautiful things and objects to realize! 😉 <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "49f543b9-4993-49a4-a82b-553156a8031c",
     "a4efec5c-9be9-4a9c-85ce-7a457cac1cbf",
+    "f0c8c725-38a0-462f-9959-dbb4dfb51d86",
     "main",
     "blog-posts"
   ]
