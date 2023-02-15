@@ -114,6 +114,16 @@
         "show_recent_posts": false
       }
     },
+    "5e7570c0-9729-440c-ad67-0830fb26a081": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WebSize_041-DS-Vora.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -137,6 +147,7 @@
     "1be7d0b4-4465-4ef8-b4b8-1d094fc0651c",
     "c2bda5f1-0c72-44a7-886a-d44531912de5",
     "main",
+    "5e7570c0-9729-440c-ad67-0830fb26a081",
     "blog-posts"
   ]
 }
