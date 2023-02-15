@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "1bffddc1-28b7-4c23-a1c5-76fee816425d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/g-31-hotel-pacai-872x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Can you tell us about the history of the building of the Hotel Pacai? <\/strong><\/p><p>It was famous for being the most magnificent mansion in the Grand Duchy of Lithuania in the 17th century. The stately building has been reborn thanks to the inspired efforts of a passionate team of local architects and designers. The ornate baroque mansion lived through the Polish-Lithuanian Commonwealth, the rule of Russian czars, Napoleon’s entrance to Vilnius, and the Soviet before it was reborn in 2018 as the Hotel PACAI.  Rich historic elements are masterfully blended with present-day design to showcase soft, deep tones and elegant materials that heighten the structure’s classical style. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "1bffddc1-28b7-4c23-a1c5-76fee816425d",
     "main",
     "blog-posts"
   ]
