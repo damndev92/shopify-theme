@@ -108,6 +108,23 @@
         "button_label": ""
       }
     },
+    "94961644-895d-489e-9d27-264a3e289dde": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Copy-of-Green-and-Salmon-Text-Food-Influencer-Maximalism-Highlight-Cover-Set-16-731x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Do you have an object that has a special place in your heart?  <\/strong><\/p><p>A book called <em>Wisdom<\/em>, given to me at the age of eighteen; I return to it time and time again. It is filled with timeless wisdom from Indian masters. I have passed on many of my cherished books to the Inhabit library, but this one remains with me. I also treasure some simple sandalwood prayer beads made from my time living in India as a child. <\/p><p><strong>Can you tell us about Yeotown? <\/strong><\/p><p>Yeotown is an innovative, plant-centric kitchen and health retreat. It’s a place that inspires healthy habits (one of Inhabit’s goals). When I met Yeotown’s founders, Simon and Mercedes, several years ago in Devon, I was drawn to them both. I did not want wellness to be perfunctory or in any way an afterthought at Inhabit, and their deep and holistic experience in the wellness industry made them the ideal partners. <\/p><p><strong>What has this year changed for Inhabit? <\/strong><br\/><br\/>Inhabit has been closed; and, at the same time, so much has changed. This has also given us time to breathe and focus on our next Inhabit project (a site in Queens Garden) as well as our Montcalm hotel group. Our London portfolio encompasses 20 hotels, and only having two stay open through the pandemic has enabled us to reconsider the portfolio in totality. While the hotels have been shut, we have also had the chance to look beyond the day-to-day to our strategy and to explore important issues such as the consumption of energy, waste and water management across our portfolio. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -143,6 +160,7 @@
     "f1a9385c-03cd-4a96-a167-0c1e106b714a",
     "948d99fa-6077-44d9-91d1-8e663910b900",
     "4496600a-66e0-4c07-a4ea-7cb9d3d63a75",
+    "94961644-895d-489e-9d27-264a3e289dde",
     "main",
     "blog-posts"
   ]
