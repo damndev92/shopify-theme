@@ -108,6 +108,23 @@
         "button_label": ""
       }
     },
+    "08e2c895-4e43-4813-933d-a4ac2d4895a4": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/g-30-hotel-pacai-683x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Do you have a favourite suite?<\/strong><\/p><p>The Pacai Suite is my favorite as it holds beautiful history: three different layers of frescoes, a palatial 4.5 meters ceiling, a dark green marble bathroom, and a famous balcony. A balcony where back in 17th century Napoleon stood and addressed his army. All this makes the room special and different.<\/p><p><strong>Is there an object in the hotel that has a special meaning for you? <\/strong><\/p><p>Athena – a sculpture of 17th century greets you on the second floor. The sculpture was found during renovation without a head, the head was cut and placed next to the feet. Reborn Athena is as important as a reborn mansion.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -143,6 +160,7 @@
     "1bffddc1-28b7-4c23-a1c5-76fee816425d",
     "4333c709-5a30-487e-9e02-502f0cd584ac",
     "2d145c21-5509-4efd-bd0f-586b2e2f29cc",
+    "08e2c895-4e43-4813-933d-a4ac2d4895a4",
     "main",
     "blog-posts"
   ]
