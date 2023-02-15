@@ -46,7 +46,7 @@
         "colors": "white",
         "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/beef-bar-monaco.meat_.full-resolution-4-1024x682.jpg",
-        "layout": "right",
+        "layout": "left",
         "subheading": "",
         "location": false,
         "title": "",
