@@ -61,6 +61,7 @@
     },
     "33a06374-03e2-4038-a1e9-c76e05be77e3": {
       "type": "image--image",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/234_Homepage_1800_x_1200px.png",
         "parallax": false,
