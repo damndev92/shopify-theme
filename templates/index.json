@@ -7,11 +7,10 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/le-pigalle-parisian-hotel-double-room_a7ba58f6-f809-4e4a-87aa-b1c83a6808a7.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/PIGALLE_SHOP_THE_LOOK.jpg",
-            "subheading": "Discover",
-            "title": "Le Pigalle",
-            "text": "Here's your chance to make a great first impression",
-            "button_text": "Visit",
+            "subheading": "New",
+            "title": "Take a peek",
+            "text": "At our fresh new arrivals",
+            "button_text": "Shop Now",
             "link": "shopify:\/\/collections\/all",
             "caption-background": "rgba(0,0,0,0)",
             "caption-text": "#ffffff",
@@ -96,9 +95,9 @@
         "subheading": "Shop",
         "title": "New in",
         "collection": "new-in",
-        "grid": 4,
+        "grid": 6,
         "rows": 1,
-        "show_view_all": true
+        "show_view_all": false
       }
     },
     "newsletter": {
@@ -243,94 +242,6 @@
         "imageSize": "portrait"
       }
     },
-    "e8f7b553-ba62-46d4-9539-039f8ee7892e": {
-      "type": "collection--featured-collection",
-      "blocks": {
-        "template--17643497783611__e8f7b553-ba62-46d4-9539-039f8ee7892e-16746481874bb3eef8-0": {
-          "type": "grid-card-title",
-          "settings": {
-          }
-        },
-        "template--17643497783611__e8f7b553-ba62-46d4-9539-039f8ee7892e-16746481874bb3eef8-1": {
-          "type": "grid-card-price",
-          "settings": {
-          }
-        },
-        "template--17643497783611__e8f7b553-ba62-46d4-9539-039f8ee7892e-16746481874bb3eef8-2": {
-          "type": "grid-card-swatches",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--17643497783611__e8f7b553-ba62-46d4-9539-039f8ee7892e-16746481874bb3eef8-0",
-        "template--17643497783611__e8f7b553-ba62-46d4-9539-039f8ee7892e-16746481874bb3eef8-1",
-        "template--17643497783611__e8f7b553-ba62-46d4-9539-039f8ee7892e-16746481874bb3eef8-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "Featured Brand",
-        "title": "{{ section.settings.collection.title }}",
-        "collection": "viso-project",
-        "grid": 4,
-        "rows": 1,
-        "show_view_all": true
-      }
-    },
-    "collection-list": {
-      "type": "collection--collection-list",
-      "blocks": {
-        "collection-list-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "product-art"
-          }
-        },
-        "collection-list-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bed-linens"
-          }
-        },
-        "collection-list-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "budget-friendy"
-          }
-        },
-        "collection-list-3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "living-room-candles"
-          }
-        },
-        "699f8889-3b9b-45df-8674-86bed3444c14": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "b25b29a1-4272-4fff-8ba4-9b7bf27a546b": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-list-1",
-        "collection-list-0",
-        "collection-list-2",
-        "collection-list-3",
-        "699f8889-3b9b-45df-8674-86bed3444c14",
-        "b25b29a1-4272-4fff-8ba4-9b7bf27a546b"
-      ],
-      "settings": {
-        "colors": "light",
-        "subheading": "",
-        "title": "Discover"
-      }
-    },
     "965c199b-916f-4301-a1cc-ef4095be5f72": {
       "type": "text--image-with-text",
       "settings": {
@@ -452,6 +363,7 @@
     },
     "0c78a5c1-7d9a-4374-9d3b-e76f80ed41b3": {
       "type": "maison--shop-the-look",
+      "disabled": true,
       "blocks": {
         "template--17643497783611__0c78a5c1-7d9a-4374-9d3b-e76f80ed41b3-1676111267fd38b487-0": {
           "type": "product",
@@ -518,8 +430,6 @@
     "shop_the_look",
     "cab7e0c8-ccb0-41e9-8fcb-49ec92305af0",
     "blog_blog_posts",
-    "e8f7b553-ba62-46d4-9539-039f8ee7892e",
-    "collection-list",
     "965c199b-916f-4301-a1cc-ef4095be5f72",
     "c94d79d4-bbe0-4f33-a57f-335300f24f32",
     "logo-list",

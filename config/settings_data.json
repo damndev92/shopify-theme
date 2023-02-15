@@ -188,12 +188,20 @@
               "menu_title": "Join our Mailing List",
               "footer_newsletter_description": ""
             }
+          },
+          "db09c3ad-0125-453a-89c2-6e561b8e3281": {
+            "type": "text",
+            "settings": {
+              "title": "Join our trade program",
+              "richtext": "<p>Maison Flâneur is here to support designers, architects and stylists across the interiors industry, providing you with access to a range of benefits.<\/p>"
+            }
           }
         },
         "block_order": [
           "c6b69709-8402-4e86-9ddf-f67ff3a4b2d5",
           "9db398fd-e695-4c47-a8df-2568af552c03",
-          "95391973-fb1c-46d7-b409-5802681c0651"
+          "95391973-fb1c-46d7-b409-5802681c0651",
+          "db09c3ad-0125-453a-89c2-6e561b8e3281"
         ],
         "settings": {
           "show_methods_of_payment": false,
