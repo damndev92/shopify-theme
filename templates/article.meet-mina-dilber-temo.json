@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "9e402c4c-9c91-453e-a546-2bb814bac75b": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/top-1-1024x614.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><\/p><p><strong>How would you describe your style in interiors? <\/strong><br\/>A contemporary take on mid century modern.<br\/>Blend of modern ease with a touch of traditional charm.<br\/>Most importantly refined yet relaxed.<\/p><p><strong>What are your favourite interior shops in Turkey\/in the world? <\/strong><br\/>Alaturca House and Sanayi 313 in Turkey. Graanmarket Antwerp, Alex Eagle London, Merci Paris, Roman and Williams Guild NY, Casica Tokyo, Totokaelo are some of my favorites.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "9e402c4c-9c91-453e-a546-2bb814bac75b",
     "main",
     "blog-posts"
   ]
