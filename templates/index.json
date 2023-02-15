@@ -344,6 +344,13 @@
             "image": "shopify:\/\/shop_images\/Country_Life__magazine__logo.png",
             "link": ""
           }
+        },
+        "0b1b7c6c-ed89-4294-9d2c-06d6915ffb24": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo.svg",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -352,7 +359,8 @@
         "logo-list-2",
         "logo-list-3",
         "logo-list-4",
-        "0ec635a0-8a25-4af1-990a-d91daa3c36a3"
+        "0ec635a0-8a25-4af1-990a-d91daa3c36a3",
+        "0b1b7c6c-ed89-4294-9d2c-06d6915ffb24"
       ],
       "settings": {
         "colors": "white",
