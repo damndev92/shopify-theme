@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "f1a9385c-03cd-4a96-a167-0c1e106b714a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/g-02-inhabit-hotel-858x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What inspired the design of the hotel?<\/strong><\/p><p>Our intention was to create a serene and soothing space, and we worked backwards from that end goal by interrogating our design, supply chains and build process. Moreover, we sought to achieve a peaceful environment for our guests by creating a sensory experience – one that impacts all of the senses. We incorporated textured, natural materials, soothing tones, and handmade objects, artworks and furniture. We showcase skilful, design-oriented, local craftsmanship throughout. And because we believe in wellness not only for the individual but also for the wider world, we decided to integrate social enterprise and like-minded businesses at every stage of the supply chain.<br\/><br\/>Our own travels have also influenced the design: in particular, staying at Ett Hem hotel in Stockholm. Few experiences I have had to date come close to rivalling Ilse Crawford’s design of the home, and the way it operates. I brought the idea – a vision for architecturally recreating Ett Hem’s casual kitchen concept, gathering around the table, to our team – and we fleshed it out to suit a city-centre hotel.<br\/><\/p><p>Fundamentally, at Inhabit, I have used design as a means to showcase life-improving, socially conscious homewares. If I were not a hotelier, I would most certainly be a social entrepreneur, so I seek to support these innovators as they support the disenfranchised, tackling big, challenging issues.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "f1a9385c-03cd-4a96-a167-0c1e106b714a",
     "main",
     "blog-posts"
   ]
