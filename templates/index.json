@@ -103,7 +103,7 @@
     "newsletter": {
       "type": "newsletter--newsletter",
       "settings": {
-        "colors": "light",
+        "colors": "dark",
         "subheading": "",
         "title": "Join the Flâneur family!",
         "newsletter_description": "<p>Get 10% off your first order <\/p><p><\/p>"
