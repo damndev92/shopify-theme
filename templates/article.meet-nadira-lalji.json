@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "4496600a-66e0-4c07-a4ea-7cb9d3d63a75": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/g-05-inhabit-hotel-683x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>We sought to bring the natural world into the building through biophilic art and design, natural materials and planting. In doing so, we wanted to soften the built environment with nature and blur the boundaries between our building’s interiors and Hyde Park outside. We also wanted to support sustainability. The word ‘honest’ describes our design: we favour natural materials and hues, original, biophilic artworks, heartfelt craftsmanship, a community ethos and sustainable production processes. We are excited about the partnership with MF, as we want to support our guests and people, in general, to create their own restorative spaces. <\/p><p><strong>What is your favourite book in the library? <\/strong><\/p><p>Our library showcases a curated collection of literature and objects presenting the topics of wellness, meditation, holistic health, style, contemporary art, philosophy, Scandinavian design, travel, London specialties and nature. The majority of the books were sourced through Hive, with proceeds supporting the South Kensington Bookshop, a local retailer in London.<\/p><p>A favourite is Jon Kabat-Zinn’s <em>Wherever You Go, There You Are<\/em>. This book is specifically designed for those that may be resistant to meditation and mindfulness, and it delivers a great introduction to these topics. It reinforces that the notion of mindfulness isn’t complex, it is actually very simple, with quotidian and easy applications. Jon Kabat-Zinn’s words, ‘You can’t stop the waves, but you can learn how to surf’ are an enduring inspiration, and I return to them time and time again. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "f1a9385c-03cd-4a96-a167-0c1e106b714a",
     "948d99fa-6077-44d9-91d1-8e663910b900",
+    "4496600a-66e0-4c07-a4ea-7cb9d3d63a75",
     "main",
     "blog-posts"
   ]
