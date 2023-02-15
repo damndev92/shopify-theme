@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "4333c709-5a30-487e-9e02-502f0cd584ac": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/g-27-hotel-pacai-658x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Could you share one of your favourite stories about something that might have happened at the Hotel Pacai?<\/strong><\/p><p>My favourite story was when a guest who watched a TV show before going to sleep, met the main actor of the TV show as he arrived for breakfast.  He ran to reception asking if he had had a hallucination! One guest also begged us to sell the bed linen he slept in as he felt so cozy and just wanted to take that feeling back home. Money was not the case, he said, just tell the price. Very Maison Flâneur. <\/p><p><strong>What makes a good hotel? <\/strong><\/p><p>Authentic experience (be it architecture, design, food, spa moments, details in the room, welcome note) and genuine hospitality – employees who do their work with passion.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "1bffddc1-28b7-4c23-a1c5-76fee816425d",
+    "4333c709-5a30-487e-9e02-502f0cd584ac",
     "main",
     "blog-posts"
   ]
