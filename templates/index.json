@@ -92,8 +92,8 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Shop",
-        "title": "New in",
+        "subheading": "Trending now",
+        "title": "Recommended for you",
         "collection": "new-in",
         "grid": 6,
         "rows": 1,
