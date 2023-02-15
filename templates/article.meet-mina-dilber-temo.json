@@ -108,6 +108,23 @@
         "button_label": ""
       }
     },
+    "be65eec5-e992-4ddd-adb5-04965fd0c591": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/ANIM-TOWEL-BUNDLE-PACK-SWEET-YELLOW--1024x682.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Sweet Yellow Anim Bundle Towel Pack",
+        "text_block": "<p>£43<\/p><p>The easiest and coziest way to cheer up your bathroom, while upgrading it with the finest quality of Turkish towels. The bundle includes 4 washcloth towels and a cotton pouch – which you can use for almost anything.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -143,6 +160,7 @@
     "9e402c4c-9c91-453e-a546-2bb814bac75b",
     "14457dce-f6e1-4cfc-ae62-beec0b1f85e6",
     "2033c123-2a43-4d7f-9db5-982fbf6d8086",
+    "be65eec5-e992-4ddd-adb5-04965fd0c591",
     "main",
     "blog-posts"
   ]
