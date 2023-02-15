@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "e085d0b2-fa67-48a1-9d82-0488fbe15651": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/pic-600x487-1.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How would you describe your lights in one word?<\/strong><\/p><p>Vegetal inspiration<\/p><p><strong>What is behind the inspiration of your first design?<\/strong><\/p><p>All that surround us outside. A curve, raw materials, atmospheres…<\/p><p><strong>Do you have a favourite one?<\/strong><\/p><p>I have a little crush on our carambole<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "15e81650-46f7-4a7e-b6e8-f8b2435b9bfd",
+    "e085d0b2-fa67-48a1-9d82-0488fbe15651",
     "main",
     "blog-posts"
   ]
