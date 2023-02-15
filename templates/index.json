@@ -224,7 +224,7 @@
           "type": "blog",
           "settings": {
             "blog": "flaneur-magazine",
-            "show_view_all": true
+            "show_view_all": false
           }
         }
       },
@@ -244,6 +244,7 @@
     },
     "965c199b-916f-4301-a1cc-ef4095be5f72": {
       "type": "text--image-with-text",
+      "disabled": true,
       "settings": {
         "colors": "white",
         "image-width": "medium",
