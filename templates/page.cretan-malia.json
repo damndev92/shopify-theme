@@ -313,7 +313,7 @@
           "settings": {
             "blog_post_1": "flaneur-magazine\/meet-agapi-and-costantza-sbokou-owners-of-cretan-malia-park-crete",
             "blog_post_2": "flaneur-magazine\/make-yourself-at-home-cretan-malia-park-crete",
-            "blog_post_3": "news\/make-yourself-at-home-cretan-malia-park-crete",
+            "blog_post_3": "",
             "blog_post_4": ""
           }
         }
@@ -325,7 +325,7 @@
         "colors": "white",
         "subheading": "Read From",
         "title": "Flâneur Magazine",
-        "post_limit": 3,
+        "post_limit": 2,
         "show_author_name": false,
         "show_dates": false,
         "show_blog_images": true,
