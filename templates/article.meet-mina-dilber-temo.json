@@ -23,34 +23,21 @@
         "button_label": ""
       }
     },
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "light",
-        "width": "small",
-        "subheading": "",
-        "page_title": "",
-        "title": "Date Night",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/1-1.png",
-        "layout": "left",
+        "image": "shopify:\/\/shop_images\/0x0-mina-dilber-temo-heyecanli-bir-surec-yasiyorum-1561022254723-810x1024.jpg",
+        "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "1. Kanishka",
-        "text_block": "<p>17-19 Maddox Street, W1S 2QH<\/p><p><br\/><strong>Head chef:<\/strong> Atul Kochhar<br\/><strong>Order the:<\/strong> Chicken tikka pie<\/p><p><\/p><p>Michelin Star chef Atul Kochhar’s contemporary Indian establishment not only offers tastebud-tantalising flavours, but this year sees a special five-course Valentine’s Day tasting menu designed especially for a night of romance. Expect traditional street food and mishti alongside aphrodisiacs like asparagus and figs. See the special V-day Menu <a href=\"https:\/\/kanishkarestaurant.co.uk\/wp-content\/uploads\/2023\/01\/Kanishka-Valentines-Menu-A5-2023.pdf\" target=\"_blank\">here<\/a>.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Can you tell us a little bit about your background?<\/strong><br\/>Born and raised in Istanbul, Turkey, I spent half a decade in Los Angeles where I attended the University of Southern California and studied political science and communications. Living in London in between and returning back to Istanbul, I worked as a journalist for CNN Turkey. Being passionate about storytelling and cross-cultural relationships, I worked in the fields of news, marketing in communications before launching Anim – a lifestyle brand with a focus on home textiles.<\/p><p><strong>How did you start Anim Living?<\/strong><br\/>It really was about sticking back to my roots I would say. I really wanted to create a new generation lifestyle brand with a main focus on home textiles. I come from a family of textile origins, both from my mother’s and my father’s side. While I had no intention of working at textiles when I was a child, I started realizing there wasn’t much of a home textiles brand with a young and cool spirit, that would actually excite people. I really wanted to create something that would make people happy and excited, while staying true to such values of being rooted in quality, cultural responsibility, and sustainability. Design and craftsmanship with beautiful fabrics and items made to last a lifetime at the core of Anim, it really is an exciting journey to create. Home is all we have, and the confinement period during COVID has proved this as well. I truly believe in the unique approach of Anim towards home textiles – and more.<\/p>",
         "page_description": false,
-        "button_link": "shopify:\/\/products\/beefbar-main-plate-piece-of-meat-emoji",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
@@ -100,7 +87,6 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
