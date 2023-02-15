@@ -2,11 +2,122 @@
   "sections": {
     "main": {
       "type": "template--page",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "b2e7a996-9e06-46c2-a3d8-7522bbc9997a": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cretan-malia-park-rooms_ff5a5325-be7a-4032-a2b6-6ecf500252de.jpg",
+        "subheading": "",
+        "title": "Share your story",
+        "text": "Here's your chance to make a great first impression",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "fixed",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "b5841813-5b90-4732-801f-6390a80bbdde": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "Welcome to our store",
+        "text": "<p>Cretan Malia uses traditional materials, textures, and colors of Crete, as well as curious indigenous objects to curate a warm atmosphere. Walnut, chestnut, and bamboo combine with rattan, ceramic, stone, and brass to create a palette of wood tones, mustard yellow, copper-red, blue, green, and orange that imparts a relaxed, boho mood in the bright, airy rooms. Murals artistically bring the nature of Crete inside the living spaces and serve as main focal points for the interior design.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "3564d05b-cb96-434f-b236-40e2ef691990": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "Welcome to our store",
+        "text": "<p>Use this text block to show store announcements, advertise products and collections, or simply welcome visitors to your store.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "2db02d1c-7e79-4596-bd62-7ee3d91740cf": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17986797338939__2db02d1c-7e79-4596-bd62-7ee3d91740cf-1676466076019aa533-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17986797338939__2db02d1c-7e79-4596-bd62-7ee3d91740cf-1676466076019aa533-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17986797338939__2db02d1c-7e79-4596-bd62-7ee3d91740cf-1676466076019aa533-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17986797338939__2db02d1c-7e79-4596-bd62-7ee3d91740cf-1676466076019aa533-0",
+        "template--17986797338939__2db02d1c-7e79-4596-bd62-7ee3d91740cf-1676466076019aa533-1",
+        "template--17986797338939__2db02d1c-7e79-4596-bd62-7ee3d91740cf-1676466076019aa533-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "",
+        "collection": "cretan-malia",
+        "grid": 4,
+        "rows": 3,
+        "show_view_all": true
+      }
+    },
+    "c9a61d13-2c42-4997-a4a0-1a2a7a2999f8": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Share brand or product details",
+        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "0bdc3bf9-fccc-4d0e-9ae0-84983c2e9c46": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "From the blog",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "portrait"
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "b2e7a996-9e06-46c2-a3d8-7522bbc9997a",
+    "b5841813-5b90-4732-801f-6390a80bbdde",
+    "3564d05b-cb96-434f-b236-40e2ef691990",
+    "2db02d1c-7e79-4596-bd62-7ee3d91740cf",
+    "c9a61d13-2c42-4997-a4a0-1a2a7a2999f8",
+    "0bdc3bf9-fccc-4d0e-9ae0-84983c2e9c46"
   ]
 }
