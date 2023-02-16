@@ -67,16 +67,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/IMG_7148-768x1024.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p>Slice the potatoes about 0.25cm thick.  Put the slices into a large bowl, cover with the oil and add the thyme and grated garlic.  Liberally season with salt and pepper, and carefully mix everything together.  Leave for 5 minutes to allow the potato to soften.  Take a baking tray, ideally something at least 10cm deep, and line it with parchment.  Gently layer the potatoes (like you’re making a dauphinoise), carefully overlapping each potato slice, to ensure a rigid lattice-like structure.  Cover with a sheet of baking paper and cook it for 35 minutes until it’s soft (there should be no resistance when you pierce it with a knife).  Remove the pavé from the oven and put a weight on top of it – another roasting tray – or anything else that’s nice and heavy.  Allow it to cool completely, ideally leave it overnight.<\/p><p>Preheat the oven to 200°C (normal) | 180°C (fan) | gas mark 6. <\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
