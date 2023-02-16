@@ -142,6 +142,23 @@
         "button_label": ""
       }
     },
+    "6b0e4bb5-8ba7-4704-b4e5-c4cd436fc6da": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/masseria-spina-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "8. Masseria Spina",
+        "text_block": "<p>Masseria Spina is close to the popular city of Monopoli. This impressive red castle has authenticity written all over her.The ancient architectural elements of this building give a special impression of the history of Puglia. If you are a history and food lover, this place is made for you. They host pasta, olive oil, wine and other food tours to experience the Apulian kitchen like a local would.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -179,6 +196,7 @@
     "5f5bad09-5ced-4a7b-9f19-45ad641b627d",
     "343b1384-4ba1-4d81-a8a3-81ec24f41205",
     "012b6b51-0962-4369-a150-7a9cd9547986",
+    "6b0e4bb5-8ba7-4704-b4e5-c4cd436fc6da",
     "main",
     "blog-posts"
   ]
