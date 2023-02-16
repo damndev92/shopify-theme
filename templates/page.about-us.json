@@ -33,19 +33,6 @@
         "button_label": ""
       }
     },
-    "684132da-32f6-48bb-a2a5-193317cf476b": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "",
-        "title": "Our Collection",
-        "text": "<p>Maison Flâneur seeks out exquisite, design-centric hotels and restaurants, with which we<br\/>partner to curate beautifully designed homeware objects. Each suggesting a lifetime of travel,<br\/>it’s this that makes our collection unconventional and unique. Each object evokes its own soulful<br\/>and eclectic story; you may very well find a hand-woven Berber rug set beside a Barcelona<br\/>chair. Tableware, textiles, accessories, art pieces, and furniture – icons of our experiences –<br\/>delivered to your door. International, curious and enthusiastic, we are always in search of<br\/>unique interiors and in-depth stories that will tickle the fancy of our creative minds.<\/p>",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "ee04ac75-aa4d-46e9-a2df-38f736ec7c60": {
       "type": "image--gallery",
       "blocks": {
@@ -54,8 +41,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/dionas.jpg",
             "link": "shopify:\/\/collections\/new-in",
-            "title": "",
-            "description": ""
+            "title": "Dionas Sotiriou - FOUNDER",
+            "description": "<p>Greek born in Brussels, Dionas has spent the past ten years living in London working in finance. As an avid traveler, he started Maison Flâneur in 2018 to allow his fellow “Flâneurs” to bring<br\/>their own worldly experiences and memories back home.<\/p>"
           }
         },
         "template--18019757850939__ee04ac75-aa4d-46e9-a2df-38f736ec7c60-1676564864eb37761e-1": {
@@ -77,13 +64,26 @@
         "subheading": "",
         "title": ""
       }
+    },
+    "684132da-32f6-48bb-a2a5-193317cf476b": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "Our Collection",
+        "text": "<p>Maison Flâneur seeks out exquisite, design-centric hotels and restaurants, with which we<br\/>partner to curate beautifully designed homeware objects. Each suggesting a lifetime of travel,<br\/>it’s this that makes our collection unconventional and unique. Each object evokes its own soulful<br\/>and eclectic story; you may very well find a hand-woven Berber rug set beside a Barcelona<br\/>chair. Tableware, textiles, accessories, art pieces, and furniture – icons of our experiences –<br\/>delivered to your door. International, curious and enthusiastic, we are always in search of<br\/>unique interiors and in-depth stories that will tickle the fancy of our creative minds.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
     }
   },
   "order": [
     "main",
     "7ea02b15-29ff-4f86-bc85-3c147796ccf0",
     "863777fe-8108-4759-b7c3-326c19c0254c",
-    "684132da-32f6-48bb-a2a5-193317cf476b",
-    "ee04ac75-aa4d-46e9-a2df-38f736ec7c60"
+    "ee04ac75-aa4d-46e9-a2df-38f736ec7c60",
+    "684132da-32f6-48bb-a2a5-193317cf476b"
   ]
 }
