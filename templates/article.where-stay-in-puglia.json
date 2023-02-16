@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "5f5bad09-5ced-4a7b-9f19-45ad641b627d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/masseria-montebapoleone-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "5. Masseria Montenapoleone",
+        "text_block": "<p>Masseria Montenapoleone is full of colours, scents and flavours. Flowers are growing everywhere, the kitchen is filled with fresh ingredients and the land is full of citrus trees. The owners created suites for all types of guests. Check into the romantic suite, family suite or the deluxe rustic rooms for a traditional stay. The masseria has a lot of ways to let you experience the southern lifestyle: cooking classes, olive oil tastings and dinners in the vineyard are available to make your stay a memorable one.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "5291b0d7-854e-4338-a8fb-2dc041dc04ac",
     "fe554157-6960-47f1-ab6d-7702a7566190",
+    "5f5bad09-5ced-4a7b-9f19-45ad641b627d",
     "main",
     "blog-posts"
   ]
