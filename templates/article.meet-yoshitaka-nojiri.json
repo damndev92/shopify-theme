@@ -108,6 +108,23 @@
         "button_label": ""
       }
     },
+    "bbf7c71d-eb75-414f-a70b-c9924cb05644": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-5-724x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Do you have an object from the Trunk Hotel that has a special place in your heart? <\/strong><\/p><p>There are lots of elements in TRUNK(HOTEL) full of special emotion for me but to mention only one, I would say the Zelkova tree in the centre of the public terrace. Usually, hotels prefer to display evergreen trees but Zelkova is a deciduous tree. They require frequent sweepings to remove the fallen leaves and during wintertime, their naked silhouettes increase the feeling of coldness around. Nevertheless, as it is the symbol of Shibuya, we stuck to our decision to plant it. Actually, 3 years before the opening I launched this Zelkova project with my teammates and we selected that one among 100 candidate trees. The transport and transplantation were challenging but I will forever remember the emotion and excitement we felt when it was done. It dresses up in different colours following the seasonality, showing a different appearance and I think it amazingly expresses the 4 seasons of Japan. It keeps growing in a very wealthy way and I guess it is always watching over the hotel.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -143,6 +160,7 @@
     "f25e9991-f9c7-4ac8-8ac8-fc3d2352aac5",
     "37b963ca-65c1-4e64-a894-6b853a2f68dc",
     "aeb6a608-6821-4154-9c05-0650e816bad5",
+    "bbf7c71d-eb75-414f-a70b-c9924cb05644",
     "main",
     "blog-posts"
   ]
