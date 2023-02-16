@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "fe554157-6960-47f1-ab6d-7702a7566190": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/borgo-san-marco-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "4. Borgo San Marco",
+        "text_block": "<p>Borgo San Marco is located in Fasano which means you will get the best of both worlds: the beauty of the countryside and the cooling air coming from the sea. Borgo San Marco has 18 suites stylishly furnished, respecting Apulian traditions. The masseria also has a pool, and an elegant Mediterranean garden with citrus trees and ancient pillars. There even is a little church with frescoes dating back to the XVIII century. Stepping foot in Borgo San Marco is like stepping back in time.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "5291b0d7-854e-4338-a8fb-2dc041dc04ac",
+    "fe554157-6960-47f1-ab6d-7702a7566190",
     "main",
     "blog-posts"
   ]
