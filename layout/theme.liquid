@@ -112,7 +112,8 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css">
     <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
-  </head>
+  {% include 'sca-quick-view-init' %}
+ </head>
 
   <body
     id="{{ page_title | handle }}"
@@ -192,5 +193,6 @@
     <script defer type="module" src="{{ 'theme.min.js' | asset_url }}"></script>
     <script defer nomodule src="{{ 'theme.legacy.min.js' | asset_url }}"></script>
     <script src="{{ 'simple-lightbox.js' | asset_url }}"></script>
-  </body>
+  {% include 'sca-quick-view-template' %} 
+ </body>
 </html>

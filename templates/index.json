@@ -6,10 +6,10 @@
         "image--slideshow-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/le-pigalle-parisian-hotel-double-room_a7ba58f6-f809-4e4a-87aa-b1c83a6808a7.jpg",
-            "subheading": "New",
-            "title": "Take a peek",
-            "text": "At our fresh new arrivals",
+            "image": "shopify:\/\/shop_images\/platera_Homepage.png",
+            "subheading": "",
+            "title": "The great outdoors",
+            "text": "Bringing the outdoors indoors with our latest edit",
             "button_text": "Shop Now",
             "link": "shopify:\/\/collections\/all",
             "caption-background": "rgba(0,0,0,0)",
@@ -104,9 +104,9 @@
       "settings": {
         "colors": "white",
         "subheading": "Trending now",
-        "title": "Recommended for you",
-        "collection": "new-in",
-        "grid": 6,
+        "title": "Get to know our latest arrival",
+        "collection": "project-213a",
+        "grid": 4,
         "rows": 1,
         "show_view_all": false
       }
@@ -115,9 +115,9 @@
       "type": "newsletter--newsletter",
       "settings": {
         "colors": "dark",
-        "subheading": "",
-        "title": "Join the Flâneur family!",
-        "newsletter_description": "<p>Get 10% off your first order <\/p><p><\/p>"
+        "subheading": "sign up",
+        "title": "For the love of design",
+        "newsletter_description": "<p>Sign up for early access to our latest collaborations, far-flung and under-the-radar travel inspo. We haven't convinced you yet... get 10% off your first order. <\/p>"
       }
     },
     "shop_the_look": {
@@ -339,9 +339,9 @@
           "type": "text",
           "settings": {
             "icon": "compass",
-            "heading": "Our curation",
+            "heading": "Unique curation",
             "subheading": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/new-in"
           }
         },
         "template--17456700391739__c94d79d4-bbe0-4f33-a57f-335300f24f32-1673176379b2355835-1": {

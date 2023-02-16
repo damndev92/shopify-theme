@@ -1,0 +1,275 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/TRUNKLOUNGE-1024x558-1024x558_852794f7-f972-4774-a0e8-0312bba8f31b.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Meet Yoshitaka Nojiri, The Master of Ceremonies, Trunk (Hotel), Tokyo",
+        "title": "",
+        "text": "<p>Heard the phrase ‘a lifestyle, not a destination’? It could be Trunk (Hotel)’s unofficial mantra. we are so proud of introducing you to Yoshitaka Nojiri, master of ceremonies at the coolest hotel of Shibuya. We discuss with “lifestyle connoisseur”, the impact of a hotel on a citylandscape, and his favourite addresses.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/009_trunk-hotel-yoshitaka-nojiri-terrace-city-view-819x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Can you tell us a little bit about yourself and your career?<\/strong><\/p><p>I’m Yoshitaka Nojiri, TRUNK co., ltd Founder Hotelier<br\/>My worldwide journey around hotels has brought me to stay in more than 2,000 places. The two boutique hotels, TRUNK(HOTEL) and TRUNK(HOUSE) that I opened are extremely highly praised all over the world and have received numerous international awards. And this is only the beginning: I’m currently planning new venue openings in Tokyo.<br\/>I’m also the founder of Take and Give Needs, the bridal company that has developed and broadened the concept of “House Wedding” in Japan. According to this success, the company is listed on the Tokyo Stock Exchange First Section since 2006. <br\/>People often mention me as one of the leading entrepreneurs of Japan, and it makes me extremely glad.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/g-03-trunk-hotel-1-1024x601.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Shibuya means a lot to you as you grew up there. In what way has it changed over the years?<\/strong><\/p><p>Shibuya is a ‘town’ both adults and kids cheerfully enjoy. I actually had lots of fun in Shibuya when I was a child myself and I can still nicely hang out there as an adult.<br\/>I think it is because Shibuya is a place that can embrace and echoes to an incredible infinity of things, from underground to luxury. It’s chaos. There is such a diversity of persons, identities in Shibuya that you can really feel excited just by crossing the path of someone. This is probably the reason why yesterday as today new cultures emerge from Shibuya.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "f25e9991-f9c7-4ac8-8ac8-fc3d2352aac5": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/1_8p5RgBk77iwvT7dlVWG4Gw_2x-768x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What is your approach to hospitality? <\/strong><\/p><p>First of all, I believe offering a fully reliable service that fit to anybody, no matter age or gender, is a must since you ask money for it. On the other hand, global customers are becoming more and more diverse, and it is true that this booming diversity of demands is challenging the services we shall deliver.<br\/>In this context, I’m convinced it is essential to precisely identify your target and focus on it. Rather than trying to provide a bunch of services that can satisfy all customers, I’d better concentrate on designing a service that matches your core target. (it implies of course that the quality of hospitality responds fundamentally to all our guests).<br\/>I believe the variety of means, types, and shapes of hospitality should evolve with the evolving demands of today’s customers, and that what I’m exploring every day.<br\/>TRUNK targets people that are ‘lifestyle connoisseurs’, with a high receptivity to experience and <em>bon goût<\/em>. I assume those people will not be satisfied with a preconditioned package of services. That’s why I do not bound my employees with a staff handbook and encourage them to think and act by themselves.<br\/>For instance, they can organize spontaneously some activities following one guest request by activating their personal network; they can enjoy karaoke with guests; leave the front desk and accompany them into the deep town bar areas; go surfing on (guest) demand. With this open-minded and flexible TRUNK likely customer relationship, we ensure each of our guests complete satisfaction.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "37b963ca-65c1-4e64-a894-6b853a2f68dc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-4-724x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What are you most proud of at the Trunk Hotel? <\/strong><\/p><p>First, the existence of this hotel has dramatically changed the city landscape. Overseas also, there are various examples of towns and districts metamorphosis due to the birth of one hotel. In the early 2000, think about Soho House NY in Meatpacking, New York, or Shoreditch House that has completely transformed Shoreditch neighbourhood in London.<br\/>Initially, this location suffered from a pretty bad reputation but with the opening of TRUNK(HOTEL), attractive restaurants, cafés, and offices blossomed, and the area is now perceived as an epicenter of creativity. Where’s next? Japanese major real estate developers are keeping their eyes fixed on us.<br\/>In addition, we score very high regarding employee satisfaction. Despite being still a young company founded only 4 years ago, we reach amazingly great scores in employee satisfaction surveys compared to other companies. Especially when you look at the categories of vision and mission understanding and engagement the rates are extremely high. Having every single employee delivering the best to achieve our same goal, this is a fact I’m so proud of.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "aeb6a608-6821-4154-9c05-0650e816bad5": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/g-01-trunk-hotel-1024x601.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What is the most important element for you when thinking about a hotel?<\/strong><\/p><p>I believe the most important element is to have all your employees endorse the company (Hotel) Vision and Mission.<br\/>It is fundamental to keep always an environment in which everybody looks at the same goal. <br\/>Furthermore, I consider that the key success of the hotel business is to find and approach the right customer with whom we deeply share the same values and thoughts with.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "bbf7c71d-eb75-414f-a70b-c9924cb05644": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-5-724x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Do you have an object from the Trunk Hotel that has a special place in your heart? <\/strong><\/p><p>There are lots of elements in TRUNK(HOTEL) full of special emotion for me but to mention only one, I would say the Zelkova tree in the centre of the public terrace. Usually, hotels prefer to display evergreen trees but Zelkova is a deciduous tree. They require frequent sweepings to remove the fallen leaves and during wintertime, their naked silhouettes increase the feeling of coldness around. Nevertheless, as it is the symbol of Shibuya, we stuck to our decision to plant it. Actually, 3 years before the opening I launched this Zelkova project with my teammates and we selected that one among 100 candidate trees. The transport and transplantation were challenging but I will forever remember the emotion and excitement we felt when it was done. It dresses up in different colours following the seasonality, showing a different appearance and I think it amazingly expresses the 4 seasons of Japan. It keeps growing in a very wealthy way and I guess it is always watching over the hotel.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "367cd87f-d8b1-4868-a99b-05579288eea3": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-9-724x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Can you tell us about the concept of “Socializing” and the new style of social contribution? <\/strong><\/p><p>Socializing is TRUNK proposal for a new style of social contribution that consists of ‘live true to yourself, without undue pressure, but with a life-sized social purpose. Socializing is built up on 5 pillars we focus on, ‘ENVIRONMENT’, ‘LOCAL FIRST’, ‘DIVERSITY’, ‘HEALTH’, ‘CULTURE’.  <\/p><p><strong>ENVIRONMENT <\/strong>stands for sustainability and environmental conservation, through providing products based on the 3R.<strong><br\/>LOCAL FIRST <\/strong>strengthens on ‘Made in Japan’, ‘Made in Tokyo’, ‘Made in Shibuya’ and we actively incorporate locally available technologies and products we can be proud of, and in this way, we contribute to the increase of domestic consumption.<strong>s<\/strong><br\/><strong>DIVERSITY<\/strong> focuses on supporting LGBTQ promoting events, collaborative product development with welfare associations.<br\/>From interior decoration to the take-out coffee, we have arranged many touchpoints inside the hotel to experience socializing.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "bc090f3c-ce67-4e10-8fb4-d7c221f4027f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Trunk-Mug-Lifestyle-1024x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>The socializing flower market (a project to reduce the waist of ornamental fresh flowers that are usually thrown away after a wedding party or an event by selling them as bouquets for gift or home).<br\/>The socializing bike rental service (An unique rental service of originally reassembled bikes made of abandoned bikes spare parts)<br\/>We also achieve to spread the concept of Company donation to NPO as a new style of social contribution.<br\/>At TRUNK, the employees select every year, through the perspective of socializing, a list of NPOs they would like to donate to. A total amount of 5,000,000 JPY from our total sales is then donated to 5 NPOs per annum. I heard that our action has to be inspiring and that other companies are now doing the same. <br\/>A growing number of people are feeling concerned by social contribution though lots found it hard to turn it into action. In that context, we provided a new style of social contribution without undue pressure and by being true to yourself, and many companies have shown interest in us. This makes me convinced that, even if our influence remains still limited, socializing has created an entry point to social contribution.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "866946f0-fdb7-454e-bd75-ba9d16189473": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/640x640_rect_109973571.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><\/p><p><strong>What’s your favourite spot in Shibuya? <\/strong><\/p><p>○Bar Piano（A Piano bar in the Shibuya ‘drunkards alley’）<br\/>○Yoyogi Park and Meiji Jingu Shrine<br\/>○For tasty food experiences, I love the areas of Okushibu, Shinsen<\/p><p><strong>Who would be your dream guest? <\/strong><\/p><p>TRUNK targets people who have a very highly conscious lifestyle, who are international frequent travellers, and who are always fully living every single day with excitement and emotion. I dream to have many of these people coming.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "84984a06-a11f-4b27-a573-184f9985666f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Trunk-Flip-Flops-4-1024x834.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How do you think this crisis will impact the way we travel? <\/strong><\/p><p>I think that Destination travellers, saying people who set up their travel with a clear willing to go motivation, will significantly increase more than ever. I’m sure that for many people around the world, me included, the STAY HOME period has been a moment for intense self-introspection. Among them, some may have explored what they really look for, others seek for what every little thing remained unknown in the world. More, I’m convinced that we are going through a moment when travelling is simply not easy by itself and lots of people should be dreaming of setting out for exciting destinations in a post Covid-19 world. Journeys to countries never visited before, stays to much desired hotels, tasty experiences in must-go restaurants..<br\/>I believe many people travelled without having any precise landing goals and were more likely to consider the travel itself as a purpose. But in the era of post Covid-19, the style of travelling that I could define as motivated destination travel will significantly grow.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "0b50271f-d320-4409-9618-920c9c6d2e62": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-8-724x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What is your favourite hotel, restaurant, and design address in the world? <\/strong><\/p><p>It’s hard to make a short selection since I stayed in more than 2,000 hotels but as a non-exhaustive list, let’s mention <br\/>○Petit Ermitage (it’s an amazingly unique hotel in Los Angeles, where a majority of staff are also professional actors.)<br\/>○La Granja (a member and friends only, word-to-mouth hotel in Ibiza produced by Design Hotels CEO)<br\/>○Macakizi (A resort hotel on the Aegean Sea, near Bordrum in Turkey)<br\/>○Ett Hem (a private townhouse in Stockholm that has been fully renovated and turned into a hotel by the owners)<\/p><p>For restaurants: <\/p><p>○Etxebarri (an internationally highly praised Spanish traditional restaurant in the Basque region)<br\/>○Ultraviolet (Creative and innovative French cuisine-based restaurant in Shanghai. The visual performance of the staging is extremely appreciated)<br\/>○Sushi Saito (a Sushi restaurant in Tokyo you can only access on referral – for happy fews)<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "c8c47600-afda-44ee-83a2-64aee506543d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Pocketable-Tote-Bag-Trunk-Logo-1024x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Pocketable Trunk Logo Tote Bag",
+        "text_block": "<p>From£15<\/p><p>TRUNK(HOTEL) original pocketable light cotton tote bag.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "f25e9991-f9c7-4ac8-8ac8-fc3d2352aac5",
+    "37b963ca-65c1-4e64-a894-6b853a2f68dc",
+    "aeb6a608-6821-4154-9c05-0650e816bad5",
+    "bbf7c71d-eb75-414f-a70b-c9924cb05644",
+    "367cd87f-d8b1-4868-a99b-05579288eea3",
+    "bc090f3c-ce67-4e10-8fb4-d7c221f4027f",
+    "866946f0-fdb7-454e-bd75-ba9d16189473",
+    "84984a06-a11f-4b27-a573-184f9985666f",
+    "0b50271f-d320-4409-9618-920c9c6d2e62",
+    "c8c47600-afda-44ee-83a2-64aee506543d",
+    "main",
+    "blog-posts"
+  ]
+}

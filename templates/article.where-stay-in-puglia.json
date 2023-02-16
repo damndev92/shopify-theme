@@ -1,0 +1,246 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Article-header-image-3-1024x341.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Where To Stay In Puglia, Italy",
+        "title": "",
+        "text": "<p>Discover <a href=\"https:\/\/www.maisonflaneur.com\/brand\/tre-gioie\/products\/\">Tre Gioie<\/a>, one of our favourite local Italian brands, who have curated a list of beautiful hotels that you should visit whatever the season. Whether you’re looking for a romantic getaway or just travelling Europe, Puglia is often forgotten about when exploring. But let us tell you, if you are looking for a beautiful Italian holiday with authentic food and welcoming locals, this region of Italy is a must-visit.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/palazzo-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "1. Palazzo Daniele",
+        "text_block": "<p>Palazzo Daniele has the power to take your breath away. The 19th century architecture is combined with modern design in the best possible way. The suites are so beautiful you will be tempted to stay in bed all day and look at the 19th century frescoes on the ceiling. Luckily the rest of the palazzo is worth getting out of bed for. Discover the beautiful pool, spa and kitchen with the best authentic Apulian food.The Palazzo is located in Gagliano Del Capo, Salento in the south of Puglia. This is the most pure and beautiful part of Puglia if you ask us.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/borgo-silento-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "2. Borgo Silentio",
+        "text_block": "<p>At Borgo Silentio has two beautiful properties to spend your days in Puglia: the masseria and the trulli. During Summer and Spring you can enjoy the swimming pool and relaxing outside the lounge area behind the linen curtains. And when it gets a bit colder, there is an authentic open fireplace waiting for you in the cosy living room. Borgo Silentio is located in Ostuni. This beautiful city close to the sea has so much to offer. The perfect place to discover the beautiful south.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "5291b0d7-854e-4338-a8fb-2dc041dc04ac": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/masseria-potenti-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "3. Masseria Potenti",
+        "text_block": "<p>Masseria Potenti is a renovated farmhouse from the 16th century. The masseria has 18 rooms and 2 apartments and is surrounded by an estate of 30 hectares in the middle of olive trees, vineyards and all kinds of fruit trees. The owners wanted to share their love of rural life with their guests and they certainly succeeded. The southern Italian lifestyle can be found everywhere in the masseria: from the figs drying in the sun to the pasta made by hand in the kitchen.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "fe554157-6960-47f1-ab6d-7702a7566190": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/borgo-san-marco-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "4. Borgo San Marco",
+        "text_block": "<p>Borgo San Marco is located in Fasano which means you will get the best of both worlds: the beauty of the countryside and the cooling air coming from the sea. Borgo San Marco has 18 suites stylishly furnished, respecting Apulian traditions. The masseria also has a pool, and an elegant Mediterranean garden with citrus trees and ancient pillars. There even is a little church with frescoes dating back to the XVIII century. Stepping foot in Borgo San Marco is like stepping back in time.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "5f5bad09-5ced-4a7b-9f19-45ad641b627d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/masseria-montebapoleone-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "5. Masseria Montenapoleone",
+        "text_block": "<p>Masseria Montenapoleone is full of colours, scents and flavours. Flowers are growing everywhere, the kitchen is filled with fresh ingredients and the land is full of citrus trees. The owners created suites for all types of guests. Check into the romantic suite, family suite or the deluxe rustic rooms for a traditional stay. The masseria has a lot of ways to let you experience the southern lifestyle: cooking classes, olive oil tastings and dinners in the vineyard are available to make your stay a memorable one.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "343b1384-4ba1-4d81-a8a3-81ec24f41205": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/galeta-masseria-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "6. Galeta Masseria",
+        "text_block": "<p>The mission of Galeta Masseria is to make you feel at home. With their delicious homemade breakfast and the cosy rooms, that is something they have become good at. The beautiful farm is located in Nardò: a beautiful town with nice Sunday markets. Galeta Masseria is the perfect place to rest after discovering the beauty of Puglia. Fall in love with the design, the food and the building itself.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "012b6b51-0962-4369-a150-7a9cd9547986": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/masseria-moroseta-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "7. Masseria Moroseta",
+        "text_block": "<p>If you have been thinking about going on a trip to Puglia before, you have probably spotted MasseriaMorosetabefore. Moroseta is a super stylish Masseria in Ostuni with a contemporary and elegant design that is influenced by the Masserie of the past. The beautiful pool, olive grove and vegetable garden are all about the simple beauties of life. If you want to be inspired, this is the place to be. The moroseta kitchen is also definitely something you should discover. The unique dishes are made with ingredients from the land. So the kitchen works with what the season has to offer. Slow food at its best.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "6b0e4bb5-8ba7-4704-b4e5-c4cd436fc6da": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/masseria-spina-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "8. Masseria Spina",
+        "text_block": "<p>Masseria Spina is close to the popular city of Monopoli. This impressive red castle has authenticity written all over her.The ancient architectural elements of this building give a special impression of the history of Puglia. If you are a history and food lover, this place is made for you. They host pasta, olive oil, wine and other food tours to experience the Apulian kitchen like a local would.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "26a94ef7-72b3-4a61-bae6-c2b34a45e435": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18015688720699__26a94ef7-72b3-4a61-bae6-c2b34a45e435-167654090408693e15-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Napkin_mughetto_bianco-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Mughetto Bianco Napkins<\/p><p>£12<\/p>"
+          }
+        },
+        "template--18015688720699__26a94ef7-72b3-4a61-bae6-c2b34a45e435-167654090408693e15-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tablecloth_mughetto_grigio-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Mughetto Grigio Tablecloth<\/p><p>From £134<\/p>"
+          }
+        },
+        "template--18015688720699__26a94ef7-72b3-4a61-bae6-c2b34a45e435-167654090408693e15-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Placemat_fiori_marrone_full-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Fiori Marrone Placemat<\/p><p>£11<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18015688720699__26a94ef7-72b3-4a61-bae6-c2b34a45e435-167654090408693e15-0",
+        "template--18015688720699__26a94ef7-72b3-4a61-bae6-c2b34a45e435-167654090408693e15-1",
+        "template--18015688720699__26a94ef7-72b3-4a61-bae6-c2b34a45e435-167654090408693e15-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Shop local from Puglia"
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "5291b0d7-854e-4338-a8fb-2dc041dc04ac",
+    "fe554157-6960-47f1-ab6d-7702a7566190",
+    "5f5bad09-5ced-4a7b-9f19-45ad641b627d",
+    "343b1384-4ba1-4d81-a8a3-81ec24f41205",
+    "012b6b51-0962-4369-a150-7a9cd9547986",
+    "6b0e4bb5-8ba7-4704-b4e5-c4cd436fc6da",
+    "main",
+    "26a94ef7-72b3-4a61-bae6-c2b34a45e435",
+    "blog-posts"
+  ]
+}

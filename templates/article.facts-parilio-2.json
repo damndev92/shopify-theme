@@ -1,0 +1,181 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/parilio-s-01-rrr-jpg-1024x601_2e43086a-bbd6-4869-8e9f-ef20fc951e13.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "10 Facts about Parīlio and Istoria",
+        "title": "",
+        "text": "<p>We’ve gathered our 10 favourite facts from Parilio and Istoria Hotels in Greece.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "b4a02f80-5cf0-4ec0-9935-8303a6539733": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18017430929723__b4a02f80-5cf0-4ec0-9935-8303a6539733-16765537308e9aa3e3-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-6-1024x1024_9a003a5b-68fc-4488-bec4-3965e8a81c25.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18017430929723__b4a02f80-5cf0-4ec0-9935-8303a6539733-16765537308e9aa3e3-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4-4-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18017430929723__b4a02f80-5cf0-4ec0-9935-8303a6539733-16765537308e9aa3e3-1",
+        "template--18017430929723__b4a02f80-5cf0-4ec0-9935-8303a6539733-16765537308e9aa3e3-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "626f8d63-8e17-42f4-90b8-4cc5d8c22a75": {
+      "type": "image--gallery",
+      "blocks": {
+        "3e0409a5-67bd-4f11-89c0-deb3c9669cb3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5-4-1024x1024_adbc1144-6723-4f36-b75a-3b73acbccc41.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "2b9be7bd-3e8f-423b-b504-7266951f24b8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2-6-1024x1024_793291a5-9518-4b25-9e02-8059b2697dbc.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "3e0409a5-67bd-4f11-89c0-deb3c9669cb3",
+        "2b9be7bd-3e8f-423b-b504-7266951f24b8"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "ce325246-4880-464b-935e-66367127deab": {
+      "type": "image--gallery",
+      "blocks": {
+        "c0c19258-0744-4970-8b8b-678b4912f3f4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3-5-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "f35ad3e9-b6ae-46d3-a896-a6dfe912105a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6-4-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "c0c19258-0744-4970-8b8b-678b4912f3f4",
+        "f35ad3e9-b6ae-46d3-a896-a6dfe912105a"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "29715330-48d2-4207-ab9b-a2b26c3a3670": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18017430929723__29715330-48d2-4207-ab9b-a2b26c3a3670-16765537308e9aa3e3-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/443-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Breeze – Iosif Foskolos Artwork<\/p><p>€317<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18017430929723__29715330-48d2-4207-ab9b-a2b26c3a3670-16765537308e9aa3e3-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "b4a02f80-5cf0-4ec0-9935-8303a6539733",
+    "626f8d63-8e17-42f4-90b8-4cc5d8c22a75",
+    "ce325246-4880-464b-935e-66367127deab",
+    "main",
+    "29715330-48d2-4207-ab9b-a2b26c3a3670",
+    "blog-posts"
+  ]
+}
