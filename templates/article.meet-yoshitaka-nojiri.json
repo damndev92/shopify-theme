@@ -193,6 +193,23 @@
         "button_label": ""
       }
     },
+    "0b50271f-d320-4409-9618-920c9c6d2e62": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-8-724x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What is your favourite hotel, restaurant, and design address in the world? <\/strong><\/p><p>It’s hard to make a short selection since I stayed in more than 2,000 hotels but as a non-exhaustive list, let’s mention <br\/>○Petit Ermitage (it’s an amazingly unique hotel in Los Angeles, where a majority of staff are also professional actors.)<br\/>○La Granja (a member and friends only, word-to-mouth hotel in Ibiza produced by Design Hotels CEO)<br\/>○Macakizi (A resort hotel on the Aegean Sea, near Bordrum in Turkey)<br\/>○Ett Hem (a private townhouse in Stockholm that has been fully renovated and turned into a hotel by the owners)<\/p><p>For restaurants: <\/p><p>○Etxebarri (an internationally highly praised Spanish traditional restaurant in the Basque region)<br\/>○Ultraviolet (Creative and innovative French cuisine-based restaurant in Shanghai. The visual performance of the staging is extremely appreciated)<br\/>○Sushi Saito (a Sushi restaurant in Tokyo you can only access on referral – for happy fews)<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -233,6 +250,7 @@
     "bc090f3c-ce67-4e10-8fb4-d7c221f4027f",
     "866946f0-fdb7-454e-bd75-ba9d16189473",
     "84984a06-a11f-4b27-a573-184f9985666f",
+    "0b50271f-d320-4409-9618-920c9c6d2e62",
     "main",
     "blog-posts"
   ]
