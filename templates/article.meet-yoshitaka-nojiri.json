@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "f25e9991-f9c7-4ac8-8ac8-fc3d2352aac5": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/1_8p5RgBk77iwvT7dlVWG4Gw_2x-768x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What is your approach to hospitality? <\/strong><\/p><p>First of all, I believe offering a fully reliable service that fit to anybody, no matter age or gender, is a must since you ask money for it. On the other hand, global customers are becoming more and more diverse, and it is true that this booming diversity of demands is challenging the services we shall deliver.<br\/>In this context, I’m convinced it is essential to precisely identify your target and focus on it. Rather than trying to provide a bunch of services that can satisfy all customers, I’d better concentrate on designing a service that matches your core target. (it implies of course that the quality of hospitality responds fundamentally to all our guests).<br\/>I believe the variety of means, types, and shapes of hospitality should evolve with the evolving demands of today’s customers, and that what I’m exploring every day.<br\/>TRUNK targets people that are ‘lifestyle connoisseurs’, with a high receptivity to experience and <em>bon goût<\/em>. I assume those people will not be satisfied with a preconditioned package of services. That’s why I do not bound my employees with a staff handbook and encourage them to think and act by themselves.<br\/>For instance, they can organize spontaneously some activities following one guest request by activating their personal network; they can enjoy karaoke with guests; leave the front desk and accompany them into the deep town bar areas; go surfing on (guest) demand. With this open-minded and flexible TRUNK likely customer relationship, we ensure each of our guests complete satisfaction.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "f25e9991-f9c7-4ac8-8ac8-fc3d2352aac5",
     "main",
     "blog-posts"
   ]
