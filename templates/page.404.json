@@ -52,7 +52,8 @@
         "template--18019757850939__ee04ac75-aa4d-46e9-a2df-38f736ec7c60-1676564864eb37761e-1": {
           "type": "image",
           "settings": {
-            "link": "",
+            "image": "shopify:\/\/shop_images\/4-1.png",
+            "link": "shopify:\/\/pages\/shop-by-destination",
             "title": "",
             "description": ""
           }
