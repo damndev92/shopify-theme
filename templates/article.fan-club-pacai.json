@@ -63,6 +63,38 @@
         "show_recent_posts": false
       }
     },
+    "ae0ec657-a4e3-4d59-a7f3-ed8f0bf7f51f": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18015591694651__ae0ec657-a4e3-4d59-a7f3-ed8f0bf7f51f-1676539299a0292d35-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image67.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18015591694651__ae0ec657-a4e3-4d59-a7f3-ed8f0bf7f51f-1676539299a0292d35-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Phototre2.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18015591694651__ae0ec657-a4e3-4d59-a7f3-ed8f0bf7f51f-1676539299a0292d35-0",
+        "template--18015591694651__ae0ec657-a4e3-4d59-a7f3-ed8f0bf7f51f-1676539299a0292d35-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -83,6 +115,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "9700143a-e7fc-4ee8-a1eb-811366c1adff",
     "main",
+    "ae0ec657-a4e3-4d59-a7f3-ed8f0bf7f51f",
     "blog-posts"
   ]
 }
