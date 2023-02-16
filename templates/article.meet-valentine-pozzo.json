@@ -1,0 +1,149 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/sensibles-1-1024x512.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Meet Sarah Espeute, Designer, Œuvres Sensibles",
+        "title": "",
+        "text": "<p>Sarah Espeute is a French Artist-Designer who uses everyday imagery to tell familiar stories through functional yet aesthetically charming textiles. Along with her repurposing of timeless imagery, she sustains traditional methods of embroidery passed down through families for generations. Through this, her work emulates and explores the tender relationship between dining and cherished moments with family and friends. We had the pleasure of speaking with Espeute to learn more about the origins and inspiration for her brand, Oeuvres Sensibles.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/2-3-1024x1024_7794787d-157b-41d8-b6e1-6c0539e6a502.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Could you tell us three things about you? <\/strong><\/p><p>My name is Sarah, I’m an artist-designer living in Marseille. <\/p><p><strong>What is the story behind Oeuvres Sensibles? <\/strong><\/p><p>Oeuvres Sensibles is a strong desire to express my sensitivity in a self-taught way by freeing myself from the usual codes, by calling only on my creativity and my emotions. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/article-sensible-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>You are both an artist and a designer, how do you approach your work? <\/strong><\/p><p>I approach the everyday object in the same way as an art object, a painting or a sculpture. To design them, I like to have an artistic approach by experimenting with the material myself while developing its function. <\/p><p><strong>Do you remember how you first thought about these designs? <\/strong><\/p><p>Two years ago when I started embroidering trompe l’oeil objects for my home, I really liked their presence in the interior space. I was sensitive to both the decorative aspect and the story they told me. It made me want to explore it on several furniture supports, like I do with the table clothes right now. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "49f543b9-4993-49a4-a82b-553156a8031c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/4-1024x1024_7221cabf-4ff0-475f-9479-40a1ad5687c3.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What does embroidery mean to you? <\/strong><\/p><p>Embroidery involves patience and passion, it’s precious. It is the transmission of a daily know-how, from family to family, from hand to hand. There’s a slightly old-fashioned side to it that I really enjoy! It’s like a piece of family memory I keep alive. <\/p><p><strong>You create objects for the table. What does “l’Art de la Table” mean to you? <\/strong><\/p><p>It is the desire to create a beautiful table to receive and invite people we cherish, to share a pleasant moment. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "a4efec5c-9be9-4a9c-85ce-7a457cac1cbf": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/5-1024x1024_84fcca0e-843f-4bf8-8236-653cda7f35b7.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Do you think the confinement has changed the way people see their homes\/tables? <\/strong><\/p><p>I think people are very keen on objects that make them travel, escape from confinement. They want poetry, objects that inspire them, reassure them. <\/p><p><strong>What are your tips for the perfect table setting? <\/strong><\/p><p>A rather simple and not fancy table! Nice old plates, napkins, a vase, a bouquet, family heirlooms. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "f0c8c725-38a0-462f-9959-dbb4dfb51d86": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/6-1024x1024_4b9b4557-6c2e-4700-93a6-b1c2fa196c82.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Where do you shop your interior pieces? <\/strong><\/p><p>Only on second-hand sites and by strolling around on flea markets. I don’t buy a lot of new items, which I often find to be of poor quality.<\/p><p><strong>Any wishes for the rest of the year? <\/strong><\/p><p>Lots of beautiful things and objects to realize! 😉 <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "49f543b9-4993-49a4-a82b-553156a8031c",
+    "a4efec5c-9be9-4a9c-85ce-7a457cac1cbf",
+    "f0c8c725-38a0-462f-9959-dbb4dfb51d86",
+    "main",
+    "blog-posts"
+  ]
+}
