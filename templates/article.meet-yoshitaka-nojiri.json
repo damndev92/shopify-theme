@@ -142,6 +142,23 @@
         "button_label": ""
       }
     },
+    "bc090f3c-ce67-4e10-8fb4-d7c221f4027f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Trunk-Mug-Lifestyle-1024x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>The socializing flower market (a project to reduce the waist of ornamental fresh flowers that are usually thrown away after a wedding party or an event by selling them as bouquets for gift or home).<br\/>The socializing bike rental service (An unique rental service of originally reassembled bikes made of abandoned bikes spare parts)<br\/>We also achieve to spread the concept of Company donation to NPO as a new style of social contribution.<br\/>At TRUNK, the employees select every year, through the perspective of socializing, a list of NPOs they would like to donate to. A total amount of 5,000,000 JPY from our total sales is then donated to 5 NPOs per annum. I heard that our action has to be inspiring and that other companies are now doing the same. <br\/>A growing number of people are feeling concerned by social contribution though lots found it hard to turn it into action. In that context, we provided a new style of social contribution without undue pressure and by being true to yourself, and many companies have shown interest in us. This makes me convinced that, even if our influence remains still limited, socializing has created an entry point to social contribution.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -179,6 +196,7 @@
     "aeb6a608-6821-4154-9c05-0650e816bad5",
     "bbf7c71d-eb75-414f-a70b-c9924cb05644",
     "367cd87f-d8b1-4868-a99b-05579288eea3",
+    "bc090f3c-ce67-4e10-8fb4-d7c221f4027f",
     "main",
     "blog-posts"
   ]
