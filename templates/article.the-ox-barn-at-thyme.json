@@ -187,7 +187,7 @@
         "subheading": "",
         "page_title": "",
         "title": "",
-        "text": "<p><strong>Your favourite object in your home?<br\/><br\/><\/strong>The first antique vitrine that I bought. It’s a collection of all my memories from my travels. It’s the first piece that I bought when I first started living alone. It was expensive for me at the time but I felt so drawn to it.<br\/><br\/><strong>Your favourite hotel in the world?<br\/><br\/><\/strong>The Fife Arms – no matter the company you’re with! Family, friends, it is all-around gorgeous.<br\/><br\/><strong>Your favourite restaurant in the world?<br\/><br\/><\/strong>The Noma in Copenhagen. 7 hours later and I can honestly say it was the best dining-experience I’ve ever had!<\/p>",
+        "text": "",
         "button_link": "",
         "button_label": ""
       }
@@ -195,24 +195,6 @@
     "77e8486b-7c59-4fb8-81a6-0396e5cdb474": {
       "type": "image--gallery",
       "blocks": {
-        "8160d6d7-3e78-41e4-b9c8-547393676ea4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3_ad2d83dc-230f-4399-b66c-c43fd61a16d4.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "359144ee-4c47-4623-a7ca-1b310a8939e5": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
         "21bb5fd6-0919-4012-b0ec-6233a306aff8": {
           "type": "image",
           "disabled": true,
@@ -225,8 +207,6 @@
         }
       },
       "block_order": [
-        "8160d6d7-3e78-41e4-b9c8-547393676ea4",
-        "359144ee-4c47-4623-a7ca-1b310a8939e5",
         "21bb5fd6-0919-4012-b0ec-6233a306aff8"
       ],
       "settings": {
