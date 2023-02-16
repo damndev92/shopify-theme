@@ -105,27 +105,6 @@
         "button_label": ""
       }
     },
-    "465bd8cf-0b90-4509-995b-c07aeefbe031": {
-      "type": "image--gallery",
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
-    "e7d2425a-53d5-4163-bc76-529e5c087a1f": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "",
-        "title": "",
-        "text": "<p><strong>Where do you think your interest in interior design came from?<\/strong><\/p><p>I would say mostly from my life experiences and education through traveling. Each visited place taught and inspired me in a unique way, that allowed me to be inspired by so much of the world.<\/p><p><strong><br\/>Where do you find your inspiration for interior design?<\/strong><\/p><p>History and culture.<\/p>",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "bdff20fa-c207-4cf0-a079-74d145bb8535": {
       "type": "image--gallery",
       "blocks": {
@@ -173,20 +152,6 @@
     },
     "626a439a-fc95-4c91-a74c-e344e3072f09": {
       "type": "image--gallery",
-      "blocks": {
-        "090c2e2f-e157-425a-b7ec-6b43859f50b3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5_3fa8de79-8419-4fdc-913c-e1273c930c60.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "090c2e2f-e157-425a-b7ec-6b43859f50b3"
-      ],
       "settings": {
         "colors": "white",
         "subheading": "",
@@ -201,47 +166,13 @@
         "subheading": "",
         "page_title": "",
         "title": "",
-        "text": "<p><strong>How did you incorporate Maison Flaneur in your project? <br\/><br\/><\/strong>I love taking Maison Flaneur’s strong silhouettes and existing styles and crafting it into our own. They have a great range of products from around the world so its great to work from this and match to project locations.<br\/><br\/><strong>How different is the approach to a restaurant\/ hotel project rather than a home?<br\/><br\/><\/strong>Not very different – the main differentiating element is the capacity which influences the materials and durability of most items. You have to think of every person and nationality and satisfy a whole panel of people – from the owner, to the journalist, the traveller, and the staff working there. Other than that, I believe a hotel should feel like an extension of a home, of course you incorporate more luxury amenities, but I believe the idea, in both, is to feel encapsulated by the country and its culture.<\/p>",
+        "text": "",
         "button_link": "",
         "button_label": ""
       }
     },
     "eb0a2d64-a73f-4709-b77c-ee311d27cdaf": {
       "type": "image--gallery",
-      "blocks": {
-        "afb003b3-cd64-4917-89df-f5804e63e96b": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3_ad2d83dc-230f-4399-b66c-c43fd61a16d4.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "9eafbdd0-52a3-4119-9eb3-f1c0d50b0186": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "576a4fae-8e01-466b-8405-7d5bc85d7e23": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4_e73313ac-604f-4abd-a08c-c5ca46d29575.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "afb003b3-cd64-4917-89df-f5804e63e96b",
-        "9eafbdd0-52a3-4119-9eb3-f1c0d50b0186",
-        "576a4fae-8e01-466b-8405-7d5bc85d7e23"
-      ],
       "settings": {
         "colors": "white",
         "subheading": "",
@@ -351,8 +282,6 @@
     "0788dc1d-738e-4e0f-a9e5-dfbb365fd695",
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "465bd8cf-0b90-4509-995b-c07aeefbe031",
-    "e7d2425a-53d5-4163-bc76-529e5c087a1f",
     "bdff20fa-c207-4cf0-a079-74d145bb8535",
     "4933d240-dcc6-43c6-980b-024b1a8684a4",
     "626a439a-fc95-4c91-a74c-e344e3072f09",
