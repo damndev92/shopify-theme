@@ -126,7 +126,7 @@
         "parallax": false,
         "alignment": "top",
         "hero_size": "x-small",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "featured_collection": {
