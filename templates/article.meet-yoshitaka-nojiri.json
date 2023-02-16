@@ -210,6 +210,23 @@
         "button_label": ""
       }
     },
+    "c8c47600-afda-44ee-83a2-64aee506543d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Pocketable-Tote-Bag-Trunk-Logo-1024x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Pocketable Trunk Logo Tote Bag",
+        "text_block": "<p>From£15<\/p><p>TRUNK(HOTEL) original pocketable light cotton tote bag.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -251,6 +268,7 @@
     "866946f0-fdb7-454e-bd75-ba9d16189473",
     "84984a06-a11f-4b27-a573-184f9985666f",
     "0b50271f-d320-4409-9618-920c9c6d2e62",
+    "c8c47600-afda-44ee-83a2-64aee506543d",
     "main",
     "blog-posts"
   ]
