@@ -168,6 +168,13 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "d652c15f-411e-4498-a4aa-651c4fcbab73": {
+            "type": "menu",
+            "settings": {
+              "menu_title": "About us",
+              "footer_linklist": "footer"
+            }
+          },
           "c6b69709-8402-4e86-9ddf-f67ff3a4b2d5": {
             "type": "menu",
             "settings": {
@@ -175,11 +182,11 @@
               "footer_linklist": "mega-menu"
             }
           },
-          "9db398fd-e695-4c47-a8df-2568af552c03": {
-            "type": "text",
+          "a926702d-a713-4e33-b2ec-9649bc1b855e": {
+            "type": "menu",
             "settings": {
-              "title": "Contact us",
-              "richtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
+              "menu_title": "Browse",
+              "footer_linklist": "footer"
             }
           },
           "95391973-fb1c-46d7-b409-5802681c0651": {
@@ -188,20 +195,13 @@
               "menu_title": "Join our Mailing List",
               "footer_newsletter_description": ""
             }
-          },
-          "b3a341f7-e812-4856-a66b-adeddb85ec2a": {
-            "type": "menu",
-            "settings": {
-              "menu_title": "Links",
-              "footer_linklist": "main-menu"
-            }
           }
         },
         "block_order": [
+          "d652c15f-411e-4498-a4aa-651c4fcbab73",
           "c6b69709-8402-4e86-9ddf-f67ff3a4b2d5",
-          "9db398fd-e695-4c47-a8df-2568af552c03",
-          "95391973-fb1c-46d7-b409-5802681c0651",
-          "b3a341f7-e812-4856-a66b-adeddb85ec2a"
+          "a926702d-a713-4e33-b2ec-9649bc1b855e",
+          "95391973-fb1c-46d7-b409-5802681c0651"
         ],
         "settings": {
           "show_methods_of_payment": false,
