@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "5291b0d7-854e-4338-a8fb-2dc041dc04ac": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/masseria-potenti-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "3. Masseria Potenti",
+        "text_block": "<p>Masseria Potenti is a renovated farmhouse from the 16th century. The masseria has 18 rooms and 2 apartments and is surrounded by an estate of 30 hectares in the middle of olive trees, vineyards and all kinds of fruit trees. The owners wanted to share their love of rural life with their guests and they certainly succeeded. The southern Italian lifestyle can be found everywhere in the masseria: from the figs drying in the sun to the pasta made by hand in the kitchen.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "5291b0d7-854e-4338-a8fb-2dc041dc04ac",
     "main",
     "blog-posts"
   ]
