@@ -113,7 +113,9 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css">
     <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
   {% include 'sca-quick-view-init' %}
- </head>
+ 
+  {% render 'qikify-apps' %}
+</head>
 
   <body
     id="{{ page_title | handle }}"
