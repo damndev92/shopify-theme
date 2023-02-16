@@ -4,8 +4,7 @@
       "type": "template--page",
       "settings": {
         "hide_header": true,
-        "hide_default_content": true,
-        "background_image": "shopify:\/\/shop_images\/Untitled-design-8-724x1024.png"
+        "hide_default_content": true
       }
     },
     "b2e7a996-9e06-46c2-a3d8-7522bbc9997a": {
@@ -18,7 +17,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
-        "text-over-image-width": "fixed",
+        "text-over-image-width": "full-width",
         "button_link": "",
         "button_label": ""
       }
@@ -36,7 +35,30 @@
         "button_label": ""
       }
     },
-    "3564d05b-cb96-434f-b236-40e2ef691990": {
+    "394e0521-3550-45eb-a9b6-b925d8183804": {
+      "type": "maison--shop-the-look",
+      "blocks": {
+        "template--17986797338939__394e0521-3550-45eb-a9b6-b925d8183804-16765500200c0c335e-0": {
+          "type": "product",
+          "settings": {
+            "image__position": "image--left",
+            "product": "",
+            "product-2": "",
+            "product-3": "",
+            "product-4": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17986797338939__394e0521-3550-45eb-a9b6-b925d8183804-16765500200c0c335e-0"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Subheading",
+        "title": "Shop the look"
+      }
+    },
+    "90b33bab-9985-46f3-9a43-07ace85fbd08": {
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
@@ -44,7 +66,7 @@
         "subheading": "",
         "page_title": "",
         "title": "Welcome to our store",
-        "text": "<p>Use this text block to show store announcements, advertise products and collections, or simply welcome visitors to your store.<\/p>",
+        "text": "<p>Cretan Malia uses traditional materials, textures, and colors of Crete, as well as curious indigenous objects to curate a warm atmosphere. Walnut, chestnut, and bamboo combine with rattan, ceramic, stone, and brass to create a palette of wood tones, mustard yellow, copper-red, blue, green, and orange that imparts a relaxed, boho mood in the bright, airy rooms. Murals artistically bring the nature of Crete inside the living spaces and serve as main focal points for the interior design.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -117,7 +139,8 @@
     "main",
     "b2e7a996-9e06-46c2-a3d8-7522bbc9997a",
     "b5841813-5b90-4732-801f-6390a80bbdde",
-    "3564d05b-cb96-434f-b236-40e2ef691990",
+    "394e0521-3550-45eb-a9b6-b925d8183804",
+    "90b33bab-9985-46f3-9a43-07ace85fbd08",
     "2db02d1c-7e79-4596-bd62-7ee3d91740cf",
     "c9a61d13-2c42-4997-a4a0-1a2a7a2999f8",
     "0bdc3bf9-fccc-4d0e-9ae0-84983c2e9c46"
