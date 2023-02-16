@@ -132,6 +132,28 @@
         "show_recent_posts": false
       }
     },
+    "29715330-48d2-4207-ab9b-a2b26c3a3670": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18017430929723__29715330-48d2-4207-ab9b-a2b26c3a3670-16765537308e9aa3e3-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/443-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Breeze – Iosif Foskolos Artwork<\/p><p>€317<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18017430929723__29715330-48d2-4207-ab9b-a2b26c3a3670-16765537308e9aa3e3-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -153,6 +175,7 @@
     "626f8d63-8e17-42f4-90b8-4cc5d8c22a75",
     "ce325246-4880-464b-935e-66367127deab",
     "main",
+    "29715330-48d2-4207-ab9b-a2b26c3a3670",
     "blog-posts"
   ]
 }
