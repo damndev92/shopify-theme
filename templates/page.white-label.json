@@ -4,7 +4,8 @@
       "type": "template--page",
       "settings": {
         "hide_header": true,
-        "hide_default_content": true
+        "hide_default_content": true,
+        "background_image": "shopify:\/\/shop_images\/Untitled-design-8-724x1024.png"
       }
     },
     "b2e7a996-9e06-46c2-a3d8-7522bbc9997a": {
