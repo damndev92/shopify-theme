@@ -6,10 +6,10 @@
         "image--slideshow-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/le-pigalle-parisian-hotel-double-room_a7ba58f6-f809-4e4a-87aa-b1c83a6808a7.jpg",
+            "image": "shopify:\/\/shop_images\/platera_Homepage.png",
             "subheading": "New",
-            "title": "Take a peek",
-            "text": "At our fresh new arrivals",
+            "title": "The great outdoors",
+            "text": "Bringing the outdoors indoors with our latest edit",
             "button_text": "Shop Now",
             "link": "shopify:\/\/collections\/all",
             "caption-background": "rgba(0,0,0,0)",
