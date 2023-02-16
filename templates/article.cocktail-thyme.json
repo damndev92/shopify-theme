@@ -23,6 +23,23 @@
         "button_label": ""
       }
     },
+    "f711b8ff-8a6a-4e4f-9f1d-04b4da0352f4": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Thymes-rude-bob-cocktail-pictured-by-Kirstie-Young-683x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><em>Serves 2<br\/><\/em><strong>For the rhubarb syrup<\/strong><br\/>6 rhubarb<br\/>2 thumbs of ginger, grated<br\/>300g caster sugar<\/p><p>70ml gin30ml Aperol30ml blood orange juice30ml rhubarb syrupEnglish Sparkling \/ Champagne\/prosecco to top up<\/p><p>Chop the rhubarb and mix together in a sterilized container with a lid and refrigerate for 3 days, make sure the rhubarb is in an even layer.  Strain the liquid through a fine sieve and put back into the re-sterilized jar. This will keep in the fridge for a couple of weeks.  For the cocktail, put ice into a cocktail shaker (or large jar if you don’t have a shaker) and add all the ingredients except the sparkles.  Shake vigorously and pour into a couple of high ball glasses (with ice already added).  Top up with fizz (and a splash of soda) and serve.<\/p><p>You can blend together the leftover rhubarb and ginger along with 100ml of water, 50g of sugar, the juice of two oranges, and a lemon to make a sorbet for desert. Pass the liquid through a fine-mesh sieve and churn (or pop in the freezer and stir every 30 mins).<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6": {
       "type": "image--gallery",
       "blocks": {
@@ -354,6 +371,7 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
+    "f711b8ff-8a6a-4e4f-9f1d-04b4da0352f4",
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
