@@ -2,8 +2,10 @@
   "sections": {
     "main": {
       "type": "template--page",
-      "disabled": true,
       "settings": {
+        "hide_header": true,
+        "hide_default_content": true,
+        "logo": "shopify:\/\/shop_images\/CMP_logo_Rgb_Black_HR.png"
       }
     },
     "b2e7a996-9e06-46c2-a3d8-7522bbc9997a": {
