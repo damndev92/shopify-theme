@@ -176,6 +176,23 @@
         "button_label": ""
       }
     },
+    "84984a06-a11f-4b27-a573-184f9985666f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Trunk-Flip-Flops-4-1024x834.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How do you think this crisis will impact the way we travel? <\/strong><\/p><p>I think that Destination travellers, saying people who set up their travel with a clear willing to go motivation, will significantly increase more than ever. I’m sure that for many people around the world, me included, the STAY HOME period has been a moment for intense self-introspection. Among them, some may have explored what they really look for, others seek for what every little thing remained unknown in the world. More, I’m convinced that we are going through a moment when travelling is simply not easy by itself and lots of people should be dreaming of setting out for exciting destinations in a post Covid-19 world. Journeys to countries never visited before, stays to much desired hotels, tasty experiences in must-go restaurants..<br\/>I believe many people travelled without having any precise landing goals and were more likely to consider the travel itself as a purpose. But in the era of post Covid-19, the style of travelling that I could define as motivated destination travel will significantly grow.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -215,6 +232,7 @@
     "367cd87f-d8b1-4868-a99b-05579288eea3",
     "bc090f3c-ce67-4e10-8fb4-d7c221f4027f",
     "866946f0-fdb7-454e-bd75-ba9d16189473",
+    "84984a06-a11f-4b27-a573-184f9985666f",
     "main",
     "blog-posts"
   ]
