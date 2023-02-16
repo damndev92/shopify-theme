@@ -7,7 +7,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/platera_Homepage.png",
-            "subheading": "New",
+            "subheading": "",
             "title": "The great outdoors",
             "text": "Bringing the outdoors indoors with our latest edit",
             "button_text": "Shop Now",
@@ -106,7 +106,7 @@
         "subheading": "Trending now",
         "title": "Get to know our latest arrival",
         "collection": "project-213a",
-        "grid": 6,
+        "grid": 4,
         "rows": 1,
         "show_view_all": false
       }
