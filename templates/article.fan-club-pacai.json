@@ -23,51 +23,31 @@
         "button_label": ""
       }
     },
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "light",
-        "width": "small",
-        "subheading": "",
-        "page_title": "",
-        "title": "Date Night",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/1-1.png",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "1. Kanishka",
-        "text_block": "<p>17-19 Maddox Street, W1S 2QH<\/p><p><br\/><strong>Head chef:<\/strong> Atul Kochhar<br\/><strong>Order the:<\/strong> Chicken tikka pie<\/p><p><\/p><p>Michelin Star chef Atul Kochhar’s contemporary Indian establishment not only offers tastebud-tantalising flavours, but this year sees a special five-course Valentine’s Day tasting menu designed especially for a night of romance. Expect traditional street food and mishti alongside aphrodisiacs like asparagus and figs. See the special V-day Menu <a href=\"https:\/\/kanishkarestaurant.co.uk\/wp-content\/uploads\/2023\/01\/Kanishka-Valentines-Menu-A5-2023.pdf\" target=\"_blank\">here<\/a>.<\/p>",
-        "page_description": false,
-        "button_link": "shopify:\/\/products\/beefbar-main-plate-piece-of-meat-emoji",
-        "hotel_page_url": false,
-        "button_label": "Book Now"
-      }
-    },
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "Hotel pacai",
+        "text_block": "<p>The Hotel Pacai is set in the heart of Vilnius’ Old Town. It is home to a university, a presidential palace, and an abundance of museums, bookshops, and the city’s coolest spots for dining and drinking. The hotel echoes the quarter’s 17th-century Baroque influence with a contemporary twist.<\/p><p>The <a href=\"https:\/\/www.maisonflaneur.com\/venues\/hotel-pacai\/\">Hotel Pacai<\/a> is based around a large central courtyard. What naturally stands out is the way the building’s history sits alongside modern fittings. Rooms all feature original features: exposed original brickwork, cracking plaster, historic frescos, and grand marble walls mixed with a contemporary feel.<\/p><p>“It was famous for being the most magnificent mansion in the Grand Duchy of Lithuania in the 17th century. The stately building has been reborn thanks to the inspired efforts of a passionate team of local architects and designers. The ornate baroque mansion lived through the Polish-Lithuanian Commonwealth, the rule of Russian czars, Napoleon’s entrance to Vilnius, and the Soviet before it was reborn in 2018 as the Hotel PACAI.” Explains Rūta Pulkauninkaitė-Macikė the general manager of the hotel. <\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/hotel-pacai-general-manager\/\">Read more about her insights on the hotel here.<\/a><\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
+      }
+    },
+    "9700143a-e7fc-4ee8-a1eb-811366c1adff": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/https___hypebeast.com_image_2018_08_hotel-pacai-lithuania-6-1024x683.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
       }
     },
     "main": {
@@ -100,9 +80,8 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
     "60bed94f-19d1-471f-9213-301734a4bab2",
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "9700143a-e7fc-4ee8-a1eb-811366c1adff",
     "main",
     "blog-posts"
   ]
