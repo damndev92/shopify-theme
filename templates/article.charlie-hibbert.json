@@ -23,17 +23,26 @@
         "button_label": ""
       }
     },
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
-      "type": "text--rich-text",
+    "606edeb2-25aa-4bbe-a4c9-07ab99b3a9d2": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18017587626299__606edeb2-25aa-4bbe-a4c9-07ab99b3a9d2-1676554490519b4a0e-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/xrij96Ew-1-1024x683.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18017587626299__606edeb2-25aa-4bbe-a4c9-07ab99b3a9d2-1676554490519b4a0e-2"
+      ],
       "settings": {
-        "colors": "light",
-        "width": "small",
+        "colors": "white",
         "subheading": "",
-        "page_title": "",
-        "title": "Date Night",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
+        "title": ""
       }
     },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
@@ -100,7 +109,7 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
+    "606edeb2-25aa-4bbe-a4c9-07ab99b3a9d2",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
