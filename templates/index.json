@@ -144,8 +144,8 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/3_8580bcab-ff8b-4ff8-8235-6608eff70811.png",
-            "link": "",
-            "title": "",
+            "link": "shopify:\/\/pages\/shop-by-destination",
+            "title": "Shop By Destinations",
             "description": ""
           }
         },
