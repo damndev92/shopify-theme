@@ -1,0 +1,71 @@
+{
+  "sections": {
+    "main": {
+      "type": "template--page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "779b9f58-5858-495b-b8be-2cd39a1c86a2": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "subheading": "Discover our",
+        "title": "Trade  Program",
+        "text": "",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "863777fe-8108-4759-b7c3-326c19c0254c": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p>Our trade Program is here to support designers, architects and stylists across the interiors industry, providing you with access to a range of benefits, including:<br\/><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "8123eb1d-4f48-4e0e-81d6-d6d0489129f5": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "layout": "left",
+        "subheading": "",
+        "title": "Join our Trade Program",
+        "text_block": "<p>Our trade Program is here to support designers, architects and stylists across the interiors industry, providing you with access to a range of benefits, including: <\/p><ul><li>20% trade discount<\/li><li>Exclusive preview of new collections<\/li><li>Invites to tailored trade events<\/li><li>Direct sales support<\/li><\/ul><p><\/p><p><\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/pages\/contact",
+        "button_label": "Apply Here"
+      }
+    },
+    "aec851ab-a157-4b61-a518-88c95053678e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "layout": "right",
+        "subheading": "",
+        "title": "Need help on a project?",
+        "text_block": "<p>For hospitality, commercial and residential businesses looking to use the Maison Flaneur expertise visit Studio F to get the best advice and sourcing on your project<\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/pages\/contact",
+        "button_label": "Studio F"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "779b9f58-5858-495b-b8be-2cd39a1c86a2",
+    "863777fe-8108-4759-b7c3-326c19c0254c",
+    "8123eb1d-4f48-4e0e-81d6-d6d0489129f5",
+    "aec851ab-a157-4b61-a518-88c95053678e"
+  ]
+}
