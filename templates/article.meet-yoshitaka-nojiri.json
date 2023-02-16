@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "aeb6a608-6821-4154-9c05-0650e816bad5": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/g-01-trunk-hotel-1024x601.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What is the most important element for you when thinking about a hotel?<\/strong><\/p><p>I believe the most important element is to have all your employees endorse the company (Hotel) Vision and Mission.<br\/>It is fundamental to keep always an environment in which everybody looks at the same goal. <br\/>Furthermore, I consider that the key success of the hotel business is to find and approach the right customer with whom we deeply share the same values and thoughts with.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "f25e9991-f9c7-4ac8-8ac8-fc3d2352aac5",
     "37b963ca-65c1-4e64-a894-6b853a2f68dc",
+    "aeb6a608-6821-4154-9c05-0650e816bad5",
     "main",
     "blog-posts"
   ]
