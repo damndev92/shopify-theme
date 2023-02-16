@@ -107,30 +107,6 @@
     },
     "bdff20fa-c207-4cf0-a079-74d145bb8535": {
       "type": "image--gallery",
-      "blocks": {
-        "cd08665a-75a0-464e-863c-c1e371db8af1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5_3fa8de79-8419-4fdc-913c-e1273c930c60.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "94e06691-e8a6-4988-b689-8e299631380a": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Magazine_Header_-_1800_X1200_abfee000-4b6c-44e9-a11a-852f1351282a.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "cd08665a-75a0-464e-863c-c1e371db8af1",
-        "94e06691-e8a6-4988-b689-8e299631380a"
-      ],
       "settings": {
         "colors": "white",
         "subheading": "",
