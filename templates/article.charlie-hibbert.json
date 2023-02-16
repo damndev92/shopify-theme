@@ -143,6 +143,37 @@
         "show_recent_posts": false
       }
     },
+    "b1b905a0-1b60-4674-8044-d046eeb9b14b": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18017587626299__b1b905a0-1b60-4674-8044-d046eeb9b14b-1676554490519b4a0e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hellebore-Linen-Table-Cloth.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Hellebore Linen Table Cloth<\/p><p>From £260<\/p>"
+          }
+        },
+        "template--18017587626299__b1b905a0-1b60-4674-8044-d046eeb9b14b-1676554490519b4a0e-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18017587626299__b1b905a0-1b60-4674-8044-d046eeb9b14b-1676554490519b4a0e-0",
+        "template--18017587626299__b1b905a0-1b60-4674-8044-d046eeb9b14b-1676554490519b4a0e-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -167,6 +198,7 @@
     "ecea8299-9e3f-45e1-8a9b-b66d2062614b",
     "e686a9f6-0990-4a10-8b95-ec5be37f317b",
     "main",
+    "b1b905a0-1b60-4674-8044-d046eeb9b14b",
     "blog-posts"
   ]
 }
