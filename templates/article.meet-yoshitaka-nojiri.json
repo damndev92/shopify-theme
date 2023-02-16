@@ -159,6 +159,23 @@
         "button_label": ""
       }
     },
+    "866946f0-fdb7-454e-bd75-ba9d16189473": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/640x640_rect_109973571.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><\/p><p><strong>What’s your favourite spot in Shibuya? <\/strong><\/p><p>○Bar Piano（A Piano bar in the Shibuya ‘drunkards alley’）<br\/>○Yoyogi Park and Meiji Jingu Shrine<br\/>○For tasty food experiences, I love the areas of Okushibu, Shinsen<\/p><p><strong>Who would be your dream guest? <\/strong><\/p><p>TRUNK targets people who have a very highly conscious lifestyle, who are international frequent travellers, and who are always fully living every single day with excitement and emotion. I dream to have many of these people coming.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -197,6 +214,7 @@
     "bbf7c71d-eb75-414f-a70b-c9924cb05644",
     "367cd87f-d8b1-4868-a99b-05579288eea3",
     "bc090f3c-ce67-4e10-8fb4-d7c221f4027f",
+    "866946f0-fdb7-454e-bd75-ba9d16189473",
     "main",
     "blog-posts"
   ]
