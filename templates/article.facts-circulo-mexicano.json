@@ -55,6 +55,38 @@
         "title": ""
       }
     },
+    "ef77d9d9-bfa1-42f1-9824-c1ab510d6433": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18018772451643__ef77d9d9-bfa1-42f1-9824-c1ab510d6433-1676562208ddac322b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5-1-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18018772451643__ef77d9d9-bfa1-42f1-9824-c1ab510d6433-1676562208ddac322b-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2-1-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18018772451643__ef77d9d9-bfa1-42f1-9824-c1ab510d6433-1676562208ddac322b-0",
+        "template--18018772451643__ef77d9d9-bfa1-42f1-9824-c1ab510d6433-1676562208ddac322b-1"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
@@ -120,6 +152,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "2f40afd0-0682-4cac-a6c7-62cb28caf5cb",
+    "ef77d9d9-bfa1-42f1-9824-c1ab510d6433",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
