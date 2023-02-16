@@ -79,6 +79,23 @@
         "button_label": ""
       }
     },
+    "2911cb60-becd-4483-892b-111a5dbf9f3c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/IMG_7153-768x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Cut the onions into halves, skin still on.  Slice the pumpkin (or squash) in half – skin on, scoop out and discard the seeds, then placing it cut side down on the chopping board, cut into 6 half-moons for each half pumpkin.  Put the vegetables onto a roasting tray, drizzle over a little oil, season with salt, pepper and a pinch of chilli flakes, mix well and cook for 10 minutes.  Turn the vegetables over and cook for a further 10 minutes.  The pumpkin and onion should be soft to the touch of a sharp knife, so if not quite, cook for a little longer.  Once cooked, remove the onion skins.  Cut the radicchio head into 6 pieces, brush with a little oil and grill so that it’s gently charred on both sides.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -112,6 +129,7 @@
     "606edeb2-25aa-4bbe-a4c9-07ab99b3a9d2",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "2911cb60-becd-4483-892b-111a5dbf9f3c",
     "main",
     "blog-posts"
   ]
