@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/VdefQNhw-1024x683.jpg",
+        "image": "shopify:\/\/shop_images\/Tribe-Hotel-Nairobi2.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -106,40 +106,6 @@
         "button_label": ""
       }
     },
-    "ecea8299-9e3f-45e1-8a9b-b66d2062614b": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Tribe_Hotel_Nairobi_4.png",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "",
-        "text_block": "<p><strong>In what way do you think this pandemic will influence the way people travel?<\/strong><\/p><p>People are yearning to see the world, now more than ever; I anticipate travelers will be looking to cross off their once-in-a-lifetime trips sooner rather than later.<\/p><p><strong>What’s your biggest wish for Tribe Hotel in 2021?<\/strong><\/p><p>We are using this time to renovate the entire property, my biggest wish is that the new designs are as impactful and inspiring as the hotel’s original design.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "e686a9f6-0990-4a10-8b95-ec5be37f317b": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/41A1477B-E34E-4572-BD9D-B25E26DE1BDE_1_105_c.jpg",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "",
-        "text_block": "<p>Put a spoonful of the goat’s curd onto each plate and stack a piece of the pave against it.  Then place the roast onion on the plate and add place two spears of pumpkin against the stack, as well as a piece of radicchio.  Scatter over the sage and serve.<\/p><p>Enjoy!<\/p><p> <\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/youve-been-served-the-ox-barn-cotswolds\/\">Discover more about Thyme <\/a><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/the-ox-barn\/\">Discover the full collection <\/a><\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -206,8 +172,6 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "2911cb60-becd-4483-892b-111a5dbf9f3c",
-    "ecea8299-9e3f-45e1-8a9b-b66d2062614b",
-    "e686a9f6-0990-4a10-8b95-ec5be37f317b",
     "main",
     "b1b905a0-1b60-4674-8044-d046eeb9b14b",
     "blog-posts"
