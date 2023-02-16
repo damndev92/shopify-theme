@@ -96,6 +96,23 @@
         "button_label": ""
       }
     },
+    "ecea8299-9e3f-45e1-8a9b-b66d2062614b": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/IMG_7151-1024x768.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>When the pavé is completely cool, turn it out onto a chopping board and slice it into 4cm x 10cm pieces.  Place a large frying pan on a medium heat and add a good glug of oil.  Carefully shallow fry the potato pieces in the oil, sliced layer-side down.  Try not to push the potato pieces about in the pan to minimise any chance of collapse or breakage.  Fry for about 3 minutes until crisp, then carefully turn and fry on the other sides.  Remove from the pan onto some kitchen roll to absorb any excess oil.  Then quickly fry the sage leaves in the remainder of the oil.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -130,6 +147,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "2911cb60-becd-4483-892b-111a5dbf9f3c",
+    "ecea8299-9e3f-45e1-8a9b-b66d2062614b",
     "main",
     "blog-posts"
   ]
