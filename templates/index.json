@@ -135,8 +135,8 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/2_8902c3b6-2fef-4f49-b7b0-ec3ac0b46ab0.png",
-            "link": "",
-            "title": "",
+            "link": "shopify:\/\/pages\/our-brands",
+            "title": "Shop by Brands",
             "description": ""
           }
         },
