@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/g-03-trunk-hotel-1-1024x601.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Shibuya means a lot to you as you grew up there. In what way has it changed over the years?<\/strong><\/p><p>Shibuya is a ‘town’ both adults and kids cheerfully enjoy. I actually had lots of fun in Shibuya when I was a child myself and I can still nicely hang out there as an adult.<br\/>I think it is because Shibuya is a place that can embrace and echoes to an incredible infinity of things, from underground to luxury. It’s chaos. There is such a diversity of persons, identities in Shibuya that you can really feel excited just by crossing the path of someone. This is probably the reason why yesterday as today new cultures emerge from Shibuya.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
