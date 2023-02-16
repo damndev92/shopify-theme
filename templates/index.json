@@ -126,17 +126,8 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/1_1579e893-c078-4edb-9bb7-f82f2f596988.png",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17643497783611__96b97083-6b8b-479e-a943-5eb7568e145a-1676564864eb37761e-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_8902c3b6-2fef-4f49-b7b0-ec3ac0b46ab0.png",
-            "link": "shopify:\/\/pages\/our-brands",
-            "title": "Shop by Brands",
+            "link": "shopify:\/\/collections\/new-in",
+            "title": "New In",
             "description": ""
           }
         },
@@ -146,6 +137,15 @@
             "image": "shopify:\/\/shop_images\/3_8580bcab-ff8b-4ff8-8235-6608eff70811.png",
             "link": "shopify:\/\/pages\/shop-by-destination",
             "title": "Shop By Destinations",
+            "description": ""
+          }
+        },
+        "template--17643497783611__96b97083-6b8b-479e-a943-5eb7568e145a-1676564864eb37761e-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_8902c3b6-2fef-4f49-b7b0-ec3ac0b46ab0.png",
+            "link": "shopify:\/\/pages\/our-brands",
+            "title": "Shop by Brands",
             "description": ""
           }
         },
@@ -161,8 +161,8 @@
       },
       "block_order": [
         "template--17643497783611__96b97083-6b8b-479e-a943-5eb7568e145a-1676564864eb37761e-0",
-        "template--17643497783611__96b97083-6b8b-479e-a943-5eb7568e145a-1676564864eb37761e-1",
         "template--17643497783611__96b97083-6b8b-479e-a943-5eb7568e145a-1676564864eb37761e-2",
+        "template--17643497783611__96b97083-6b8b-479e-a943-5eb7568e145a-1676564864eb37761e-1",
         "8c1084ab-5ecd-45d7-ae8e-826aac9ca339"
       ],
       "settings": {
