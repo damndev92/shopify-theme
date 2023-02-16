@@ -113,6 +113,23 @@
         "button_label": ""
       }
     },
+    "e686a9f6-0990-4a10-8b95-ec5be37f317b": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/IMG_7151-1024x768.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Put a spoonful of the goat’s curd onto each plate and stack a piece of the pave against it.  Then place the roast onion on the plate and add place two spears of pumpkin against the stack, as well as a piece of radicchio.  Scatter over the sage and serve.<\/p><p>Enjoy!<\/p><p> <\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/youve-been-served-the-ox-barn-cotswolds\/\">Discover more about Thyme <\/a><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/the-ox-barn\/\">Discover the full collection <\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -148,6 +165,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "2911cb60-becd-4483-892b-111a5dbf9f3c",
     "ecea8299-9e3f-45e1-8a9b-b66d2062614b",
+    "e686a9f6-0990-4a10-8b95-ec5be37f317b",
     "main",
     "blog-posts"
   ]
