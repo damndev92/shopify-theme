@@ -70,7 +70,8 @@
         "a82f3fa4-7dcb-41a1-a731-5535bda1ac9a": {
           "type": "image",
           "settings": {
-            "link": "",
+            "image": "shopify:\/\/shop_images\/automation-email-cats.png",
+            "link": "shopify:\/\/blogs\/flaneur-magazine",
             "title": "",
             "description": ""
           }
