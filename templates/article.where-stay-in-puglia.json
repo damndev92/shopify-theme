@@ -125,6 +125,23 @@
         "button_label": ""
       }
     },
+    "012b6b51-0962-4369-a150-7a9cd9547986": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/masseria-moroseta-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "7. Masseria Moroseta",
+        "text_block": "<p>If you have been thinking about going on a trip to Puglia before, you have probably spotted MasseriaMorosetabefore. Moroseta is a super stylish Masseria in Ostuni with a contemporary and elegant design that is influenced by the Masserie of the past. The beautiful pool, olive grove and vegetable garden are all about the simple beauties of life. If you want to be inspired, this is the place to be. The moroseta kitchen is also definitely something you should discover. The unique dishes are made with ingredients from the land. So the kitchen works with what the season has to offer. Slow food at its best.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -161,6 +178,7 @@
     "fe554157-6960-47f1-ab6d-7702a7566190",
     "5f5bad09-5ced-4a7b-9f19-45ad641b627d",
     "343b1384-4ba1-4d81-a8a3-81ec24f41205",
+    "012b6b51-0962-4369-a150-7a9cd9547986",
     "main",
     "blog-posts"
   ]
