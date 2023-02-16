@@ -70,9 +70,9 @@
         "slider-width": "full-width",
         "show-slide-full-screen": true,
         "slider-slide-time": 8,
-        "caption-heading-size": 44,
+        "caption-heading-size": 52,
         "show-slide-dots": true,
-        "show-slide-arrows": false,
+        "show-slide-arrows": true,
         "show-slide-controls": false,
         "slider-navigation--color": "#ffffff",
         "overlay": false
