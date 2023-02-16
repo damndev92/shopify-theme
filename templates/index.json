@@ -121,7 +121,6 @@
     },
     "33a06374-03e2-4038-a1e9-c76e05be77e3": {
       "type": "image--image",
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/234_Homepage_1800_x_1200px.png",
         "parallax": false,
@@ -169,15 +168,6 @@
         "grid": 4,
         "rows": 1,
         "show_view_all": false
-      }
-    },
-    "newsletter": {
-      "type": "newsletter--newsletter",
-      "settings": {
-        "colors": "dark",
-        "subheading": "sign up",
-        "title": "For the love of design",
-        "newsletter_description": "<p>Sign up for early access to our latest collaborations, far-flung and under-the-radar travel inspo and if we haven't convinced you yet... get 10% off your first order!<\/p>"
       }
     },
     "shop_the_look": {
@@ -240,6 +230,15 @@
         "description__position": "below-image",
         "link": "shopify:\/\/collections\/all",
         "button__text": "Discover"
+      }
+    },
+    "newsletter": {
+      "type": "newsletter--newsletter",
+      "settings": {
+        "colors": "dark",
+        "subheading": "sign up",
+        "title": "For the love of design",
+        "newsletter_description": "<p>Sign up for early access to our latest collaborations, far-flung and under-the-radar travel inspo and if we haven't convinced you yet... get 10% off your first order!<\/p>"
       }
     },
     "blog_blog_posts": {
@@ -501,8 +500,8 @@
     "f21aec68-c4b1-48a7-8d5a-d35447a882c5",
     "33a06374-03e2-4038-a1e9-c76e05be77e3",
     "featured_collection",
-    "newsletter",
     "shop_the_look",
+    "newsletter",
     "blog_blog_posts",
     "965c199b-916f-4301-a1cc-ef4095be5f72",
     "cab7e0c8-ccb0-41e9-8fcb-49ec92305af0",
