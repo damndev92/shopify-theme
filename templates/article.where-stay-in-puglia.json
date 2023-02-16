@@ -108,6 +108,23 @@
         "button_label": ""
       }
     },
+    "343b1384-4ba1-4d81-a8a3-81ec24f41205": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/galeta-masseria-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "6. Galeta Masseria",
+        "text_block": "<p>The mission of Galeta Masseria is to make you feel at home. With their delicious homemade breakfast and the cosy rooms, that is something they have become good at. The beautiful farm is located in Nardò: a beautiful town with nice Sunday markets. Galeta Masseria is the perfect place to rest after discovering the beauty of Puglia. Fall in love with the design, the food and the building itself.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -143,6 +160,7 @@
     "5291b0d7-854e-4338-a8fb-2dc041dc04ac",
     "fe554157-6960-47f1-ab6d-7702a7566190",
     "5f5bad09-5ced-4a7b-9f19-45ad641b627d",
+    "343b1384-4ba1-4d81-a8a3-81ec24f41205",
     "main",
     "blog-posts"
   ]
