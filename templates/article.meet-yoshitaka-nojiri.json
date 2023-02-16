@@ -125,6 +125,23 @@
         "button_label": ""
       }
     },
+    "367cd87f-d8b1-4868-a99b-05579288eea3": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-9-724x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Can you tell us about the concept of “Socializing” and the new style of social contribution? <\/strong><\/p><p>Socializing is TRUNK proposal for a new style of social contribution that consists of ‘live true to yourself, without undue pressure, but with a life-sized social purpose. Socializing is built up on 5 pillars we focus on, ‘ENVIRONMENT’, ‘LOCAL FIRST’, ‘DIVERSITY’, ‘HEALTH’, ‘CULTURE’.  <\/p><p><strong>ENVIRONMENT <\/strong>stands for sustainability and environmental conservation, through providing products based on the 3R.<strong><br\/>LOCAL FIRST <\/strong>strengthens on ‘Made in Japan’, ‘Made in Tokyo’, ‘Made in Shibuya’ and we actively incorporate locally available technologies and products we can be proud of, and in this way, we contribute to the increase of domestic consumption.<strong>s<\/strong><br\/><strong>DIVERSITY<\/strong> focuses on supporting LGBTQ promoting events, collaborative product development with welfare associations.<br\/>From interior decoration to the take-out coffee, we have arranged many touchpoints inside the hotel to experience socializing.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -161,6 +178,7 @@
     "37b963ca-65c1-4e64-a894-6b853a2f68dc",
     "aeb6a608-6821-4154-9c05-0650e816bad5",
     "bbf7c71d-eb75-414f-a70b-c9924cb05644",
+    "367cd87f-d8b1-4868-a99b-05579288eea3",
     "main",
     "blog-posts"
   ]
