@@ -95,6 +95,16 @@
         "title": ""
       }
     },
+    "8a472bfe-f624-45cb-8ae8-b7288ba482dd": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/https___hypebeast.com_image_2018_08_hotel-pacai-lithuania-4-1024x683.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -116,6 +126,7 @@
     "9700143a-e7fc-4ee8-a1eb-811366c1adff",
     "main",
     "ae0ec657-a4e3-4d59-a7f3-ed8f0bf7f51f",
+    "8a472bfe-f624-45cb-8ae8-b7288ba482dd",
     "blog-posts"
   ]
 }
