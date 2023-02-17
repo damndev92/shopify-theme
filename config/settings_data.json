@@ -213,7 +213,42 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "3838990611052461119": {
+        "type": "shopify:\/\/apps\/customerhub\/blocks\/app-embed\/0fb3ba0b-4c65-4919-a85a-48bc2d368e9c",
+        "disabled": false,
+        "settings": {
+          "account_primary_page": "",
+          "main_element": "",
+          "custom_element": "",
+          "page_element": "",
+          "proxy_element": "",
+          "mount_json_code": ""
+        }
+      },
+      "15773640700261759505": {
+        "type": "shopify:\/\/apps\/customerhub\/blocks\/mini-hub\/0fb3ba0b-4c65-4919-a85a-48bc2d368e9c",
+        "disabled": true,
+        "settings": {
+          "primary_color": "#3ed1c2",
+          "secondary_color": "#2b5a7e",
+          "text_color": "#2b5a7e",
+          "background_color": "#FFFFFF",
+          "minihub_position": "right",
+          "minihub_load_from": "always_visible",
+          "show_recently_viewed": "yes",
+          "show_reorder": "yes",
+          "reorder_action": "checkout",
+          "hide_minihub_on_mobile": "show",
+          "hide_minihub_in_account": "show",
+          "show_paynow_button": "show",
+          "start_shopping_link": "",
+          "custom_css": "",
+          "url_override": ""
+        }
+      }
+    }
   },
   "presets": {
     "Oslo": {
