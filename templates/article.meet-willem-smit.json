@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/WS-1024x576.jpg",
+        "image": "shopify:\/\/shop_images\/4C9A9096-1536x1024.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -93,30 +93,17 @@
         "show_recent_posts": false
       }
     },
-    "e937b6a6-865c-454f-b45b-16cb09f4d7b2": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "",
-        "title": "",
-        "text": "<p><strong>Do you have an object from Thyme that has a special place in your heart? <\/strong><\/p><p>It is the individual features and characteristics of the building that I adore the most. For example, in the Piggery, our shop, there are three small doorways, about a metre high, which once were the entrances for the pigs. There are these quirks and nods to the buildings past throughout Thyme which spark stories and smiles.Most wonderful of all, atop of the archway of the Ox Barn is a stone ox head. Above the keystone just behind this ox head, hides a bottle of whiskey built into the wall, placed there by the original stone mason that constructed the archway in 1843, intended to be enjoyed by the stone mason who one day will take the arch down, hopefully in many years to come.<\/p><p><strong>Can you tell us what to expect from the food at the Ox Barn? <\/strong><\/p><p>Food has been at the heart of Thyme since inception. The cookery school, our founding ingredient, opened in 2008 right at the beginning of the slow food movement. People were beginning to ask where their food was coming from and what went into its production. Through our own gardens as well as a portfolio of carefully chosen, like minded suppliers, our ambition was to connect people with that process, championing locally and responsibly farmed food.This ambition still rings true in the Ox Barn restaurant today. Charlie’s dishes are clever and unfussy, with produce picked that morning, and elegant dishes that truly allow the ingredients to sing.<\/p>",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "28f9e77e-9857-4cd1-b59a-818a14b33a8f": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/178932042-1024x683.jpg",
+        "image": "shopify:\/\/shop_images\/Product-Morocco.jpg",
         "layout": "right",
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Who would be your dream guest? <\/strong><\/p><p>All our guests are our dream guests! We have spent so much time, effort and love creating Thyme, and even still welcoming guests who are excited to experience what we have created and be a part of the story is so rewarding and wonderful.<\/p><p><strong>How do you think this crisis will impact the way we travel?<\/strong><\/p><p>It was a burgeoning trend before lockdown, but I do hope that travelling with purpose shifts to the forefront of customers decision making process. Offsetting carbon emissions, choosing to staycation over travelling abroad, and picking destinations that put sustainability and responsibility at the heart of their operations.<\/p>",
+        "text_block": "<p><strong>What can you find at the El Fenn’s unique boutique?<\/strong><\/p><p>“Two and a half years ago the shop consisted of a three shelves arrangement in the reception area where I would sell the bread basket and the pool towels. We then decided to turn a space is the restaurant are in a  unique boutique. We co-curate an eclectic selection with Paul Rowland (One of the biggest names in model making and fashion, and ex-Ford Models). The store stocks a range of carefully sourced items including vintage-style clothes in a variety of print and patterns, plus bags, accessories, jewelry, coffee table books, perfumes, and home accessories. Adorning the walls currently are works from Marrakech-based Galerie 127. Another crucial influence is Madeline Weinrib who is our fifth collaborator. She is a big influencer in the curation of the shop. She is the granddaughter of the iconic owner of ABC Carpet in New York. She selects unique and beautiful carpets as well as designing her own collection of homeware, and the inventory of her adventure finds.”<\/p><p><strong>Who would be your dream guest?  <\/strong><\/p><p>“Lounging on a sofa, with a book and a glass of wine next to them. Now that’s the dream guest.”  <\/p><p> <\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/welcome-to-riad-el-fenn\/\">To read more on the location of the El Fenn, click here. <\/a><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/el-fenn\/\">Discover the full collection specially curated by Willem Smit here.<\/a><\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -126,7 +113,7 @@
     "6f44c1ba-69aa-4282-9436-0a8b767e92c7": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/p21w6kg47bziny1ftzga.jpg",
+        "image": "shopify:\/\/shop_images\/4C9A9096-1536x1024.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -155,7 +142,6 @@
     "35f35aa8-b8b6-4b51-b041-f883f65a5869",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
-    "e937b6a6-865c-454f-b45b-16cb09f4d7b2",
     "28f9e77e-9857-4cd1-b59a-818a14b33a8f",
     "6f44c1ba-69aa-4282-9436-0a8b767e92c7",
     "blog-posts"
