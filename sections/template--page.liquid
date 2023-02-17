@@ -1,29 +1,29 @@
-{% style %}
+<style>
 	.site-header__logo .site-header__logo-image img {
 		display: none;
 	}
 
 	{% if section.settings.hide_header == true %}
-		#shopify-section-announcement-bar,
-		.header-wrapper .header-menu-wrapper {
-			display: none !important;
-		}
+	#shopify-section-announcement-bar,
+	.header-wrapper .header-menu-wrapper {
+		display: none !important;
+	}
 
-		.header-wrapper .header-icons.cart-link ul li:not(:last-of-type) {
-			display: none !important;
-		}
+	.header-wrapper .header-icons.cart-link ul li:not(:last-of-type) {
+		display: none !important;
+	}
 	{% endif %}
 	{% if section.settings.hide_default_content == true %}
-		article#{{ page.handle }} {
-			display: none !important;
-		}
+	article#{{ page.handle }} {
+		display: none !important;
+	}
 	{% endif %}
 	{% if section.settings.background_image != blank %}
-		main#main {
-			background-image: url("{{ section.settings.background_image | img_url: "1920x1080" }}");
-			background-repeat: no-repeat;
-			background-size: cover;
-		}
+	main#main {
+		background-image: url("{{ section.settings.background_image | img_url: "1920x1080" }}");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
 	{% endif %}
 
 	.partners-logo {
@@ -39,7 +39,44 @@
 		align-items: center;
 		justify-content: {{ section.settings.alignment }};
 	}
-{% endstyle %}
+
+	.qview-button-wrapper .qview-button {
+		width: 100% !important;
+		height: 100% !important;
+		left: 0 !important;
+		top: 0 !important;
+		background-color: transparent !important;;
+		background: transparent !important;
+		border-radius: 0 !important;
+	}
+
+	.qview-button-wrapper .qview-button:active,
+	.qview-button-wrapper .qview-button:focus,
+	.qview-button-wrapper .qview-button:hover {
+		background: transparent !important;
+	}
+
+	.qview-button-wrapper .qview-button:active .qview-button-idle,
+	.qview-button-wrapper .qview-button:focus .qview-button-idle,
+	.qview-button-wrapper .qview-button:hover .qview-button-idle {
+		display: flex;
+	}
+
+	.qview-button-wrapper .qview-button .qview-button-idle {
+		display: none;
+		background: #000;
+		width: 36px;
+		height: 36px;
+		border-radius: 5px;
+	}
+
+	.qview-button-wrapper .qview-button .qview-button-openning {
+		background: #000;
+		width: 36px;
+		height: 36px;
+		border-radius: 5px;
+	}
+</style>
 {% if section.settings.logo != blank %}
 	{% assign logo = section.settings.logo | img_url: '250x100' %}
 	<a style="margin-bottom: {{ logo.height }}px" href="{{ section.settings.url }}" class="partners-logo"><img style="width: auto; height: 50px" src="{{ logo }}" height="50" width="250"></a>
