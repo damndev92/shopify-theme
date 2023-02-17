@@ -4,7 +4,10 @@
       "type": "template--page",
       "settings": {
         "hide_header": true,
-        "hide_default_content": true
+        "hide_default_content": true,
+        "logo": "shopify:\/\/shop_images\/Seagreencushioncover_1024x1024_2x-1024x999.jpg",
+        "alignment": "start",
+        "url": "https:\/\/google.com\/"
       }
     },
     "b2e7a996-9e06-46c2-a3d8-7522bbc9997a": {
