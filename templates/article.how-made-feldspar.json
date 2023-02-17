@@ -70,6 +70,48 @@
         "show_recent_posts": false
       }
     },
+    "23b46059-ca4c-46aa-9d88-059ecc274003": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18030511685947__23b46059-ca4c-46aa-9d88-059ecc274003-1676646878eea4f872-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cobalt-Butter-Dish.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Cobalt Butter Dish<\/p><p>£65<\/p>"
+          }
+        },
+        "template--18030511685947__23b46059-ca4c-46aa-9d88-059ecc274003-1676646878eea4f872-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cobalt-Cafetiere_9729a961-f043-45a9-bc49-8c587d802cd1.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Cobalt Cafetiere Large<\/p><p>£175<\/p>"
+          }
+        },
+        "template--18030511685947__23b46059-ca4c-46aa-9d88-059ecc274003-1676646878eea4f872-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gold-Stem-Vase.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Gold Stem Vase<\/p><p>£150<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18030511685947__23b46059-ca4c-46aa-9d88-059ecc274003-1676646878eea4f872-0",
+        "template--18030511685947__23b46059-ca4c-46aa-9d88-059ecc274003-1676646878eea4f872-1",
+        "template--18030511685947__23b46059-ca4c-46aa-9d88-059ecc274003-1676646878eea4f872-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -90,6 +132,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "23b46059-ca4c-46aa-9d88-059ecc274003",
     "blog-posts"
   ]
 }
