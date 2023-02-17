@@ -70,6 +70,23 @@
         "show_recent_posts": false
       }
     },
+    "58c1d66b-eca6-4843-a038-d5a44ceaba9f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/5-2-1024x1024_3437abc4-e479-4e93-b180-3a55f63b458f.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Designs",
+        "text_block": "<p>When she and her design partner begin dreaming up a new piece – spending hours discussing colours, patterns and more – they collaborate with their amazing production team on the design. The Jore production team is incredibly skilled with deep knowledge of their craft, so they are able to take those dreams and make them a reality. Josephine does the themes and design process. Then, the production team takes it from there, ensuring that every detail is thoughtfully implemented. This collaboration works particularly well when it comes to Jore Copenhagen’s signature lamps. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -90,6 +107,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "58c1d66b-eca6-4843-a038-d5a44ceaba9f",
     "blog-posts"
   ]
 }
