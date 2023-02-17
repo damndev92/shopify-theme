@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/4-2-1024x1024_3cedf2d5-ffa4-425f-bec1-90f0fe37428c.png",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "Vintage",
+        "text_block": "<p>Vintage décor is Josephine’s richest source of inspiration. At the moment, Josephine can’t get enough of Italian interiors from the 70s and 80s, as well as the playful accent colours of Danish design from the 60s. Josephine adores classic stripes in unconventional colours, so you’ll often see them in the Jore pieces. But interior design isn’t her only inspiration. Inspiration strikes Josephine wherever she goes: the people around her, the clothes her friends are wearing, the hotels she visits on vacation.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
