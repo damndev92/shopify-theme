@@ -104,6 +104,23 @@
         "button_label": ""
       }
     },
+    "7b1ce40c-781f-4993-b334-56aa280a319a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/ORNA-Delicate-Porcelain-Flower-Hand-Painted-Candle-2.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Ok, last one. Any secret design sources to share?<\/strong><\/p><p>I don’t really have one source. For me, it’s about what inspires me at that time of designing.  It could be people, cultures, travel, the sea  or literally a simple, beautiful wild flower.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -126,6 +143,7 @@
     "main",
     "1e7f4567-b73e-4982-82d5-58fd63c33783",
     "d93cae5f-129c-45ef-af93-3d95e2531e26",
+    "7b1ce40c-781f-4993-b334-56aa280a319a",
     "blog-posts"
   ]
 }
