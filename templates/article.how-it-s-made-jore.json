@@ -120,6 +120,23 @@
         "button_label": ""
       }
     },
+    "37a7004c-b526-4394-a5d8-dc94b470d4be": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Mailchimp-Products-41-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Jore, J’adore",
+        "text_block": "<p>For Josephine, creating her pieces, puzzling out the perfect design is not just a job but a joy. She finds figuring out all those little details to be the most fun part of the process, as it allows her to think creatively. So whether she’s working on the next lamp drop or trying to move beyond the <a href=\"https:\/\/www.maisonflaneur.com\/product\/pinot-wine-glass-pink-set-of-6\/\">dining room <\/a>to the living room or bedroom, she loves it all from start to finish. And that love shows in every piece from <a href=\"https:\/\/www.instagram.com\/jorecopenhagen\/\">Jore Copenhagen<\/a>.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -143,6 +160,7 @@
     "58c1d66b-eca6-4843-a038-d5a44ceaba9f",
     "ff7abe03-f81b-4ffd-85df-ccdd4e7bac00",
     "21f1250b-957a-44ab-80d1-fa4caac1843d",
+    "37a7004c-b526-4394-a5d8-dc94b470d4be",
     "blog-posts"
   ]
 }
