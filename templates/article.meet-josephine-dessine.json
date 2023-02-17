@@ -104,6 +104,23 @@
         "button_label": ""
       }
     },
+    "2a3fb5e4-254f-4f36-ba87-41be4f70476b": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/2-2-1024x1024_6eccaf37-fa43-4174-92c7-3a32774332c7.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Is there something about your drawings\/ceramics that people might not know about?<\/strong><\/p><p>I was taught by my mother, I grew up in a home where the plates and the tiles were painted by her. When she was pregnant with me she was painting a lot even though people told her not to because of the solvents. I like to think that I have porcelain painting in my blood.<\/p><p><strong>Do you think confinement has changed the way people see their homes\/tables? <\/strong><\/p><p>Definitely! I think people have remembered that Home is a place as well as a feeling. Being forced to stay home has highlighted the importance of being comfortable and enjoying our surroundings. I think there has been a shift away from outwards appearance and image simply through being starved of opportunity during the lockdowns. This has created a cozy little space for people to realize that their homes can be an expression of self just as much as their clothing.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -126,6 +143,7 @@
     "main",
     "05f33b1f-0096-47dd-aa32-de47ae2994f9",
     "60e22be1-f2bb-4ad8-8f27-494a3d15cd2f",
+    "2a3fb5e4-254f-4f36-ba87-41be4f70476b",
     "blog-posts"
   ]
 }
