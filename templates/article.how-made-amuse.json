@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/Win-a-Bundle-12-1024x1024.png",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "Inspirations",
+        "text_block": "<p>Colour really inspires her. Colour field artists such as Helen Frankenthaler, Mark Rothko and Georgia O’Keefe get her wheels going as she takes to the drawing board. With a real affinity for natural fabrics, Georgie refused to compromise and use man-made fibres so 100% linen was a true no-brainer. Luckily, it just so happens to be the perfect fabric for her products. Talk about a win-win!<\/p><p>Finding the right suppliers for her gorgeous linen was a lengthy process. She eventually landed on a fantastic linen producer in Belgium who upheld her desire for sustainability for ALB. She sourced eco-friendly dyes and found a team of highly skilled artisans in India who produce each piece by hand in small batches to ensure there’s as little waste as possible.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
