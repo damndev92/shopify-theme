@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
+        "image": "shopify:\/\/shop_images\/2-2-1024x1024_1330ca2d-33f5-472f-a976-86979a186e49.png",
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "What is the story behind JORE Copenhagen?",
+        "text_block": "<p><br\/>Here is the short story of Jore: it all started as a side project a hobby I would do outside of my work. I sewed pillows that I sold at my small homemade webshop. But I got the urge to design more interiors. I quit my job in August 2020. It was time to go all-in with JORE and design more items. I always design with the heart.<\/p><p>The most important thing is that I love the items – and then I hope that others like them too. My passion is to make products you will love and own for a long time. I want the JORE universe not to be perfect, but that the imperfect becomes perfect.  My motto is: Be yourself!<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
