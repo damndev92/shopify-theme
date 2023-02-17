@@ -23,16 +23,20 @@
         "button_label": ""
       }
     },
-    "caa04637-6009-4065-89c7-931d3e44b826": {
-      "type": "text--rich-text",
+    "343e7dc7-c870-47ba-b2a1-c6f1950704e2": {
+      "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/64014801-a7a8-4cce-adb5-4cb98387c80b-683x1024.jpg",
+        "layout": "right",
         "subheading": "",
-        "page_title": "",
+        "location": false,
         "title": "",
-        "text": "<p><strong>Tell us three things people might not know about you? <br\/><br\/><\/strong>I never studied design! My career began by naturally gravitating towards my passion and curiosity of the world.<\/p><p>I never go to the same restaurant in London more than once (even if it was a favourite!) This keeps my taste buds and curiosity heightened.<\/p><p>My best piece of advice: Nothing is a given in life. You have to work hard to get to where you want to be, and design is no different.<br\/><br\/><strong>What makes a home in one word?<\/strong><\/p><p>Memories<\/p><p> <\/p><p><strong>How would you describe your style in one word?<\/strong><\/p><p>Contextual<\/p><p><\/p>",
+        "text_block": "<p>Luke Edward Hall’s colourful aesthetic is informed by a love of history, an appreciation of beauty, and a sense of playfulness. Luke established his studio in the autumn of 2015 after graduating from Central Saint Martins. Since then, he has worked on a broad range of art and design commissions and interior design projects. He creates his own ceramics, fabrics, furniture, and accessories.<\/p><p>In January 2019, Luke, in collaboration with <a href=\"https:\/\/www.semaine.com\/\">online magazine Semaine<\/a>, transformed hotel Le Pigalle’s lobby during a two-week Parisian residence into a flâneur’s dream. Pink tablecloths with scalloped green stitching, whimsical calligraphy and limited edition art prints evoke a medley of tasteful modernity and the dreamy nostalgia of bygone days. Designed as a throwback to the old world charm of café society, Café de la Semaine creates a space to embody the flâneur’s creative mindset—if only for a moment. Bring the spirit back home today.<\/p>",
+        "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -312,7 +316,7 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
-    "caa04637-6009-4065-89c7-931d3e44b826",
+    "343e7dc7-c870-47ba-b2a1-c6f1950704e2",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
     "e7d2425a-53d5-4163-bc76-529e5c087a1f",
     "bdff20fa-c207-4cf0-a079-74d145bb8535",
