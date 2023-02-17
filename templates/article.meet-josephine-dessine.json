@@ -87,6 +87,23 @@
         "button_label": ""
       }
     },
+    "60e22be1-f2bb-4ad8-8f27-494a3d15cd2f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/4-3-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What does the word “Flâneur” mean to you? <\/strong><\/p><p>It reminds me of my first love. We dated when I was an art student, him a working artist.  We drew and danced and ate and read and talked. It was a beautiful, rich time in which he taught me to soak up life around us. Most of the days were spent in Soho where he had his studio in the basement of a tailor’s and we would wander around all day every day, finding things to draw. When I think of Flâneur I think of him.<\/p><p><strong>Do you have a favourite design? <\/strong><\/p><p>I think my very first plates in many ways are my favourite, before I even knew what I was doing. There is a freedom and boldness in them which I have found difficult to regain as my work became more refined. There is one in particular of Francoise Sagan holding a really poorly drawn cat. I love it.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -108,6 +125,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "05f33b1f-0096-47dd-aa32-de47ae2994f9",
+    "60e22be1-f2bb-4ad8-8f27-494a3d15cd2f",
     "blog-posts"
   ]
 }
