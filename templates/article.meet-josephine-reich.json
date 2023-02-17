@@ -87,6 +87,23 @@
         "button_label": ""
       }
     },
+    "c42446e6-aee0-42c5-b5c9-ade2d5036596": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/4-4-1024x1024_ca386af1-70af-4e57-a03a-d05cf68154d7.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Could you tell us a little more about the artisans who create these objects?",
+        "text_block": "<p>The lamps are made in India, by a manufacturer who is very skilled. He specialises in making lamps. <\/p><p>The glassware is also made in India and is produced by a glassblower who makes everything from re-cycle glass. <\/p><p>The ceramics are produced in Italy by an Italian family dating back to 1650 who started producing clay pots. Today, the craft tradition is continued and renewed through skilled young workers, the production is processed and decorated by hand.<\/p><p>The placemats and textiles are produced in collaboration with an Indian organization that fights for women’s rights in India and helps them enter the workforce to ultimately support their families.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -108,6 +125,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "62b0f83b-aff0-48c8-b9a8-6e9d716edebb",
+    "c42446e6-aee0-42c5-b5c9-ade2d5036596",
     "blog-posts"
   ]
 }
