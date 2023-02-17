@@ -121,6 +121,23 @@
         "button_label": ""
       }
     },
+    "5d47dada-f3f9-4577-ae55-8169d5959448": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/5-1-1024x1024_ecb490ca-2c87-4af0-860c-c2109979bb13.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What are your tips for the perfect table setting? <\/strong><\/p><p>Joy. Joy. joy. Find what makes you tick and roll with it. Maybe you’re a linen person, maybe you like gingham. My mum had a big “put fake grass on the table” phase. You do you. If something makes you smile, then toss it on the table it will probably work. Authenticity is beautiful. A “perfect” table setting will only ever truly reflect the people around it, so surround yourself with people you love, who make you laugh and it will be great. Also: candles.<\/p><p><strong>Any wishes for 2021?<\/strong><\/p><p>To maintain joyfulness and a sense of humor.<\/p><p> <a href=\"https:\/\/www.maisonflaneur.com\/product\/set-of-2-snogger-small-plates-boy-and-girl\/\">Discover her creations. <\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -144,6 +161,7 @@
     "05f33b1f-0096-47dd-aa32-de47ae2994f9",
     "60e22be1-f2bb-4ad8-8f27-494a3d15cd2f",
     "2a3fb5e4-254f-4f36-ba87-41be4f70476b",
+    "5d47dada-f3f9-4577-ae55-8169d5959448",
     "blog-posts"
   ]
 }
