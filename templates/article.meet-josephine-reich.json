@@ -70,6 +70,23 @@
         "show_recent_posts": false
       }
     },
+    "62b0f83b-aff0-48c8-b9a8-6e9d716edebb": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/3-4-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "How do you go about creating a new product?",
+        "text_block": "<p>Inspiration for new products come to me from all sort of place: vintage interior, movies, and materials… I never just make something for the sake of making something, I only design items I feel that I want to have in my apartment. It comes quite naturally. When I get new ideas for products. I am working right now on exciting new <a href=\"https:\/\/jorecopenhagen.com\/\">Jore <\/a>products coming in the fall of 2022.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -90,6 +107,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "62b0f83b-aff0-48c8-b9a8-6e9d716edebb",
     "blog-posts"
   ]
 }
