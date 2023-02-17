@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
+        "image": "shopify:\/\/shop_images\/8-1-1024x1024_64d279be-bc87-4442-b690-ca647ae41c08.png",
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>What was your other career? <\/strong><\/p><p>I designed and made costumes for TV, Theatre and Film. It was very full on!<\/p><p><strong>Your drawings are somehow quite ‘political’ or ‘engagé’ as you would say in French. Is that intentional? <\/strong><\/p><p>My work doesn’t intentionally set out with a political agenda but I am told that portraying women as in charge of their own nudity and sexuality is political. So I choose to hold a sense of humor about it all. I am curious about how women are portrayed, how they celebrate one another, how they exist outside of the male gaze. I like this idea of employing a hyper-feminine style to explore empowerment.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
