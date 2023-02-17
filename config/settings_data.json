@@ -213,21 +213,7 @@
     },
     "content_for_index": [
 
-    ],
-    "blocks": {
-      "3838990611052461119": {
-        "type": "shopify:\/\/apps\/customerhub\/blocks\/app-embed\/0fb3ba0b-4c65-4919-a85a-48bc2d368e9c",
-        "disabled": false,
-        "settings": {
-          "account_primary_page": "",
-          "main_element": "",
-          "custom_element": "",
-          "page_element": "",
-          "proxy_element": "",
-          "mount_json_code": ""
-        }
-      }
-    }
+    ]
   },
   "presets": {
     "Oslo": {
