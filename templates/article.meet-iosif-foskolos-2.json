@@ -87,6 +87,23 @@
         "button_label": ""
       }
     },
+    "b81bdd16-39b6-4461-911a-ab6c48e3f74b": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/IMG_3106-1-1000x1000-1.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "How it’s Made",
+        "text_block": "<p>After lots of reading and thorough research, he’ll begin sketching out his ideas. Usually, this will be your typical analog paper-and-pencil sort of deal, but occasionally, he’ll toy with things further on the computer. He makes precise calculations in a vector program to achieve the accuracy he needs for execution. Pre-treatment comes next, where Iosif carefully marks his canvas, readying it for sewing. <\/p><p>Finally, he takes needle to thread, and his pieces are born.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -108,6 +125,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "76b3c4d2-06fa-400e-8833-3718c11827b1",
+    "b81bdd16-39b6-4461-911a-ab6c48e3f74b",
     "blog-posts"
   ]
 }
