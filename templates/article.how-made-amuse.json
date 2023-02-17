@@ -104,6 +104,48 @@
         "button_label": ""
       }
     },
+    "197e9db6-97e3-41a7-9a0c-370618621167": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18029909049659__197e9db6-97e3-41a7-9a0c-370618621167-1676643946f5a68e6d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Seagreencushioncover_1024x1024_2x-1024x999.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Sea Green Extra Wide Stripe Cushion Cover<\/p><p>£65<\/p>"
+          }
+        },
+        "template--18029909049659__197e9db6-97e3-41a7-9a0c-370618621167-1676643946f5a68e6d-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Product-Picture-Template-600-x-600-8.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Aperitif Tea Towel<\/p><p>£28<\/p>"
+          }
+        },
+        "template--18029909049659__197e9db6-97e3-41a7-9a0c-370618621167-1676643946f5a68e6d-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AzureCandyStripeCushion.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Folkstone Blue Candy Stripe Cushion Cover<\/p><p>£65<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18029909049659__197e9db6-97e3-41a7-9a0c-370618621167-1676643946f5a68e6d-0",
+        "template--18029909049659__197e9db6-97e3-41a7-9a0c-370618621167-1676643946f5a68e6d-1",
+        "template--18029909049659__197e9db6-97e3-41a7-9a0c-370618621167-1676643946f5a68e6d-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -126,6 +168,7 @@
     "main",
     "3ed41afc-fc06-477c-8300-7f785e345332",
     "c81c08af-612c-4251-b4c7-776efc8316a4",
+    "197e9db6-97e3-41a7-9a0c-370618621167",
     "blog-posts"
   ]
 }
