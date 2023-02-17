@@ -121,6 +121,23 @@
         "button_label": ""
       }
     },
+    "2d4db3ad-f88a-4660-aad5-d5b55c6896c8": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/triplecane_brick_720x_086162c4-d63a-4c67-b5f5-dc8daa0f8dbd.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Triple Cane Brick Pendant Lamp",
+        "text_block": "<p>€365<\/p><p>The pendel Triple Cane provides a nice combination of both cosiness and a more sophisticated look. The lamp works well across the dining table or in the middle of the room in the living room or bedroom, among other places. The pendel Triple Cane is made of raffia, also called bast in Danish, which originates from Africa, where the bast \/ raffia has been used for baskets etc. Most of the screen is made of French wicker.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -144,6 +161,7 @@
     "62b0f83b-aff0-48c8-b9a8-6e9d716edebb",
     "c42446e6-aee0-42c5-b5c9-ade2d5036596",
     "632ea9d6-7300-4008-ad2e-af35ae66de7b",
+    "2d4db3ad-f88a-4660-aad5-d5b55c6896c8",
     "blog-posts"
   ]
 }
