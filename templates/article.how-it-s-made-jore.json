@@ -92,6 +92,7 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/6-1-1024x1024_a2503abe-f811-4985-bd31-89cd89b8de33.png",
         "layout": "left",
         "subheading": "",
         "location": false,
