@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/hotel-pacai-public-3-1024x625.jpg",
+        "image": "shopify:\/\/shop_images\/SINNER_Lobby.webp",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -23,17 +23,27 @@
         "button_label": ""
       }
     },
+    "8a472bfe-f624-45cb-8ae8-b7288ba482dd": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/10-SINNER_Restaurant_16___Guillaume_de_Laubier-1024x683.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/1-1.png",
+        "image": "shopify:\/\/shop_images\/IMG_2117-826x1024.jpg",
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "Hotel pacai",
-        "text_block": "<p>The Hotel Pacai is set in the heart of Vilnius’ Old Town. It is home to a university, a presidential palace, and an abundance of museums, bookshops, and the city’s coolest spots for dining and drinking. The hotel echoes the quarter’s 17th-century Baroque influence with a contemporary twist.<\/p><p>The <a href=\"https:\/\/www.maisonflaneur.com\/venues\/hotel-pacai\/\">Hotel Pacai<\/a> is based around a large central courtyard. What naturally stands out is the way the building’s history sits alongside modern fittings. Rooms all feature original features: exposed original brickwork, cracking plaster, historic frescos, and grand marble walls mixed with a contemporary feel.<\/p><p>“It was famous for being the most magnificent mansion in the Grand Duchy of Lithuania in the 17th century. The stately building has been reborn thanks to the inspired efforts of a passionate team of local architects and designers. The ornate baroque mansion lived through the Polish-Lithuanian Commonwealth, the rule of Russian czars, Napoleon’s entrance to Vilnius, and the Soviet before it was reborn in 2018 as the Hotel PACAI.” Explains Rūta Pulkauninkaitė-Macikė the general manager of the hotel. <\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/hotel-pacai-general-manager\/\">Read more about her insights on the hotel here.<\/a><\/p>",
+        "title": "",
+        "text_block": "<p>“We were attracted to his eclectic style, first and foremost,” says Sauvage of tapping Tristan Auer to design the space. “He knows how to navigate through different eras and create a custom result. That was the challenge of this project: to take guests through the eras of the religious Marais to the vibrant and carefree Marais of the ’70s, and to the present day, where leading names in design, literature, and art come together.”  Words from Timothy Latterner for<a href=\"https:\/\/www.architecturaldigest.com\/story\/sinner-paris-hotel\">AD Magazine<\/a>.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -43,7 +53,7 @@
     "9700143a-e7fc-4ee8-a1eb-811366c1adff": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/https___hypebeast.com_image_2018_08_hotel-pacai-lithuania-6-1024x683.jpg",
+        "image": "shopify:\/\/shop_images\/SINNER_room-1024x683.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -63,58 +73,6 @@
         "show_recent_posts": false
       }
     },
-    "ae0ec657-a4e3-4d59-a7f3-ed8f0bf7f51f": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--18015591694651__ae0ec657-a4e3-4d59-a7f3-ed8f0bf7f51f-1676539299a0292d35-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Image67.jpg",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--18015591694651__ae0ec657-a4e3-4d59-a7f3-ed8f0bf7f51f-1676539299a0292d35-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Phototre2.jpg",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18015591694651__ae0ec657-a4e3-4d59-a7f3-ed8f0bf7f51f-1676539299a0292d35-0",
-        "template--18015591694651__ae0ec657-a4e3-4d59-a7f3-ed8f0bf7f51f-1676539299a0292d35-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
-    "8a472bfe-f624-45cb-8ae8-b7288ba482dd": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/https___hypebeast.com_image_2018_08_hotel-pacai-lithuania-4-1024x683.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
-      }
-    },
-    "353d78d9-3311-4905-82a3-a65e40f3fc6a": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/https___hypebeast.com_image_2018_08_hotel-pacai-lithuania-5-1-1024x683.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
-      }
-    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -132,12 +90,10 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
+    "8a472bfe-f624-45cb-8ae8-b7288ba482dd",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "9700143a-e7fc-4ee8-a1eb-811366c1adff",
     "main",
-    "ae0ec657-a4e3-4d59-a7f3-ed8f0bf7f51f",
-    "8a472bfe-f624-45cb-8ae8-b7288ba482dd",
-    "353d78d9-3311-4905-82a3-a65e40f3fc6a",
     "blog-posts"
   ]
 }
