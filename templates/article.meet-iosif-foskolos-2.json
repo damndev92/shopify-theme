@@ -104,6 +104,48 @@
         "button_label": ""
       }
     },
+    "77a84ac1-bdde-4edf-b5e6-e2dbf9b5d83d": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18027230888251__77a84ac1-bdde-4edf-b5e6-e2dbf9b5d83d-167662246844a0078c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/443-1024x1024_570adb27-bae5-4bb2-a461-85a3adbde0ce.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Breeze – Iosif Foskolos Artwork<\/p><p>£271<\/p>"
+          }
+        },
+        "template--18027230888251__77a84ac1-bdde-4edf-b5e6-e2dbf9b5d83d-167662246844a0078c-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/441-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Helios – Iosif Foskolos Artwork<\/p><p>£271<\/p>"
+          }
+        },
+        "template--18027230888251__77a84ac1-bdde-4edf-b5e6-e2dbf9b5d83d-167662246844a0078c-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/331-Calm_Product-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Calm – Iosif Foskolos Artwork<\/p><p>£168<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18027230888251__77a84ac1-bdde-4edf-b5e6-e2dbf9b5d83d-167662246844a0078c-0",
+        "template--18027230888251__77a84ac1-bdde-4edf-b5e6-e2dbf9b5d83d-167662246844a0078c-1",
+        "template--18027230888251__77a84ac1-bdde-4edf-b5e6-e2dbf9b5d83d-167662246844a0078c-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -126,6 +168,7 @@
     "main",
     "76b3c4d2-06fa-400e-8833-3718c11827b1",
     "b81bdd16-39b6-4461-911a-ab6c48e3f74b",
+    "77a84ac1-bdde-4edf-b5e6-e2dbf9b5d83d",
     "blog-posts"
   ]
 }
