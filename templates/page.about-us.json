@@ -1,0 +1,176 @@
+{
+  "sections": {
+    "main": {
+      "type": "template--page",
+      "disabled": true,
+      "settings": {
+        "hide_header": false,
+        "hide_default_content": false,
+        "alignment": "center",
+        "url": ""
+      }
+    },
+    "7ea02b15-29ff-4f86-bc85-3c147796ccf0": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PARILIO_COVER_1.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "863777fe-8108-4759-b7c3-326c19c0254c": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Our Vision",
+        "title": "",
+        "text": "<p>Flâneur in French translates as ‘wanderer’. We feel we are part of a new generation of Flâneurs.<br\/>As travelers, we strive to find authentic locations, as consumers, we want to create meaningful<br\/>relationships with the things we buy. We want to put homeware back in the context of the<br\/>cultures and trends that shape the world we live in. Maison Flâneur is the destination of choice<br\/>for travelers and home enthusiasts looking for a unique and ever-evolving collection of<br\/>homeware products curated from the best hotels, restaurants and hospitality experiences<br\/>across the world with a view to curating a collection of uniquely timeless pieces. Our virtual<br\/>marketplace enables the shopper to view our retail space from anywhere in the world.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "f6a3cad9-346d-48ef-9b6a-3953133fbabb": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18019873751355__f6a3cad9-346d-48ef-9b6a-3953133fbabb-1676564864eb37761e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_1579e893-c078-4edb-9bb7-f82f2f596988.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18019873751355__f6a3cad9-346d-48ef-9b6a-3953133fbabb-1676564864eb37761e-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_8580bcab-ff8b-4ff8-8235-6608eff70811.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18019873751355__f6a3cad9-346d-48ef-9b6a-3953133fbabb-1676564864eb37761e-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_1b41610f-5367-47a5-b108-ad6360fd4544.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18019873751355__f6a3cad9-346d-48ef-9b6a-3953133fbabb-1676564864eb37761e-0",
+        "template--18019873751355__f6a3cad9-346d-48ef-9b6a-3953133fbabb-1676564864eb37761e-1",
+        "template--18019873751355__f6a3cad9-346d-48ef-9b6a-3953133fbabb-1676564864eb37761e-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "ee04ac75-aa4d-46e9-a2df-38f736ec7c60": {
+      "type": "image--gallery",
+      "disabled": true,
+      "blocks": {
+        "template--18019757850939__ee04ac75-aa4d-46e9-a2df-38f736ec7c60-1676564864eb37761e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dionas.jpg",
+            "link": "shopify:\/\/collections\/new-in",
+            "title": "Dionas Sotiriou - FOUNDER",
+            "description": "<p>Greek born in Brussels, Dionas has spent the past ten years living in London working in finance. As an avid traveler, he started Maison Flâneur in 2018 to allow his fellow “Flâneurs” to bring<br\/>their own worldly experiences and memories back home.<\/p>"
+          }
+        },
+        "template--18019757850939__ee04ac75-aa4d-46e9-a2df-38f736ec7c60-1676564864eb37761e-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/marie.jpg",
+            "link": "shopify:\/\/pages\/shop-by-destination",
+            "title": "Marie Winckler CO-FOUNDER",
+            "description": "<p>Marie worked as a journalist before entering the world of start-ups. A Belgian émigré of French heritage, she attended the Sorbonne before writing for the Guardian, the Independent and the Evening Standard – amongst others. Passionate about storytelling, <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18019757850939__ee04ac75-aa4d-46e9-a2df-38f736ec7c60-1676564864eb37761e-0",
+        "template--18019757850939__ee04ac75-aa4d-46e9-a2df-38f736ec7c60-1676564864eb37761e-1"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "684132da-32f6-48bb-a2a5-193317cf476b": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "Our Collection",
+        "text": "<p>Maison Flâneur seeks out exquisite, design-centric hotels and restaurants, with which we<br\/>partner to curate beautifully designed homeware objects. Each suggesting a lifetime of travel,<br\/>it’s this that makes our collection unconventional and unique. Each object evokes its own soulful<br\/>and eclectic story; you may very well find a hand-woven Berber rug set beside a Barcelona<br\/>chair. Tableware, textiles, accessories, art pieces, and furniture – icons of our experiences –<br\/>delivered to your door. International, curious and enthusiastic, we are always in search of<br\/>unique interiors and in-depth stories that will tickle the fancy of our creative minds.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18019873751355__9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0-1676564864eb37761e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_8902c3b6-2fef-4f49-b7b0-ec3ac0b46ab0.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18019873751355__9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0-1676564864eb37761e-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_8580bcab-ff8b-4ff8-8235-6608eff70811.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18019873751355__9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0-1676564864eb37761e-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_1b41610f-5367-47a5-b108-ad6360fd4544.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18019873751355__9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0-1676564864eb37761e-0",
+        "template--18019873751355__9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0-1676564864eb37761e-1",
+        "template--18019873751355__9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0-1676564864eb37761e-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "7ea02b15-29ff-4f86-bc85-3c147796ccf0",
+    "863777fe-8108-4759-b7c3-326c19c0254c",
+    "f6a3cad9-346d-48ef-9b6a-3953133fbabb",
+    "ee04ac75-aa4d-46e9-a2df-38f736ec7c60",
+    "684132da-32f6-48bb-a2a5-193317cf476b",
+    "9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0"
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2022-03-22-at-16.27.55-1024x691.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Meet Josephine Reich, Founder of JORE, Copenhagen",
+        "title": "",
+        "text": "<p>Meet designer Josephine Reich. She is the founder of JORE, Copenhagen. We love her work and cannot wait for you to discover<a href=\"https:\/\/www.maisonflaneur.com\/brand\/jore-copenhagen\/\"> her collection<\/a>.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2022-03-22-at-16.04.13-861x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Could you tell us three things about you?",
+        "text_block": "<p>I am 30 years old, from Copenhagen. And I LOVE vintage jackets.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/2-2-1024x1024_1330ca2d-33f5-472f-a976-86979a186e49.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "What is the story behind JORE Copenhagen?",
+        "text_block": "<p><br\/>Here is the short story of Jore: it all started as a side project a hobby I would do outside of my work. I sewed pillows that I sold at my small homemade webshop. But I got the urge to design more interiors. I quit my job in August 2020. It was time to go all-in with JORE and design more items. I always design with the heart.<\/p><p>The most important thing is that I love the items – and then I hope that others like them too. My passion is to make products you will love and own for a long time. I want the JORE universe not to be perfect, but that the imperfect becomes perfect.  My motto is: Be yourself!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "62b0f83b-aff0-48c8-b9a8-6e9d716edebb": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/3-4-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "How do you go about creating a new product?",
+        "text_block": "<p>Inspiration for new products come to me from all sort of place: vintage interior, movies, and materials… I never just make something for the sake of making something, I only design items I feel that I want to have in my apartment. It comes quite naturally. When I get new ideas for products. I am working right now on exciting new <a href=\"https:\/\/jorecopenhagen.com\/\">Jore <\/a>products coming in the fall of 2022.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "c42446e6-aee0-42c5-b5c9-ade2d5036596": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/4-4-1024x1024_ca386af1-70af-4e57-a03a-d05cf68154d7.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Could you tell us a little more about the artisans who create these objects?",
+        "text_block": "<p>The lamps are made in India, by a manufacturer who is very skilled. He specialises in making lamps. <\/p><p>The glassware is also made in India and is produced by a glassblower who makes everything from re-cycle glass. <\/p><p>The ceramics are produced in Italy by an Italian family dating back to 1650 who started producing clay pots. Today, the craft tradition is continued and renewed through skilled young workers, the production is processed and decorated by hand.<\/p><p>The placemats and textiles are produced in collaboration with an Indian organization that fights for women’s rights in India and helps them enter the workforce to ultimately support their families.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "632ea9d6-7300-4008-ad2e-af35ae66de7b": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/5-3-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Is there a Danish way of hosting? <\/strong><\/p><p>I actually do not know but there is never a shortage of wine and snacks, haha..<\/p><p><strong>What are your tips for the perfect table setting? <\/strong><\/p><p>Rather too much than too little. Remember flowers and candles. And I think placemats or a tablecloth can always make a boring day more festive.<\/p><p><strong>Any wishes for 2022?<\/strong><\/p><p>No war – only peace!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "2d4db3ad-f88a-4660-aad5-d5b55c6896c8": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/triplecane_brick_720x_086162c4-d63a-4c67-b5f5-dc8daa0f8dbd.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Triple Cane Brick Pendant Lamp",
+        "text_block": "<p>€365<\/p><p>The pendel Triple Cane provides a nice combination of both cosiness and a more sophisticated look. The lamp works well across the dining table or in the middle of the room in the living room or bedroom, among other places. The pendel Triple Cane is made of raffia, also called bast in Danish, which originates from Africa, where the bast \/ raffia has been used for baskets etc. Most of the screen is made of French wicker.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "2f3f018f-aaee-4d7c-a16e-6abc2aa42ee2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Job_10055_900x_4f3aa7c6-f62a-4eac-ae77-84d04a904d95.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Green Bistro Striped Cup",
+        "text_block": "<p>€20<\/p><p>The striped emerald cup is a part of Jore Copenhagen's Italian handpainted ceramic collection. The striped emerald cup is ideal to be mixed with the different saucers from the collection.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "main",
+    "62b0f83b-aff0-48c8-b9a8-6e9d716edebb",
+    "c42446e6-aee0-42c5-b5c9-ade2d5036596",
+    "632ea9d6-7300-4008-ad2e-af35ae66de7b",
+    "2d4db3ad-f88a-4660-aad5-d5b55c6896c8",
+    "2f3f018f-aaee-4d7c-a16e-6abc2aa42ee2",
+    "blog-posts"
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Tribe-Hotel-Nairobi2.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Meet Shamim Ehsani, Tribe Hotel, Nairobi",
+        "title": "",
+        "text": "<p>Shamim Ehsani is the all-around visionary, co-founder and marketing director of Tribe hotel, the five-star hotel in Nairobi, Kenya. After traveling around the world, Shamim and his brother wanted to build a hotel that encapsulated the city’s African spirit, whilst offering a fresh and creative vision. Tribe hotel is in his image: original, singular and relatable. We sit down with Shamim to discuss his favorite Kenyan recipe, Nairobi’s best-kept secret, and his biggest wish for Tribe Hotel in 2021<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "7e435e53-9397-466d-a24e-efcf0e3cf260": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18018726871355__7e435e53-9397-466d-a24e-efcf0e3cf260-167656171318b893d2-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New-n-2-724x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18018726871355__7e435e53-9397-466d-a24e-efcf0e3cf260-167656171318b893d2-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tribe_Hotel_Nairobi.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18018726871355__7e435e53-9397-466d-a24e-efcf0e3cf260-167656171318b893d2-0",
+        "template--18018726871355__7e435e53-9397-466d-a24e-efcf0e3cf260-167656171318b893d2-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Tribe_Hotel_Nairobi_1.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Can you tell us the story behind Tribe Hotel?<\/strong><\/p><p>Tribe was built to reflect the creativity and sophistication of Kenya and its people. Our intention was to break away from the colonial-era inspired design and service culture, and to introduce a more contemporary offering, which would appeal to the global creative community and travelers in our own demographic. We achieved this through a beautifully curated collection of art and a radically different approah to service, showcasing true African talent and benchmarking ourselves against the best examples of hospitality globally.<\/p><p><\/p><p><strong>Can you tell us something about Tribe that people might not know about?<\/strong><\/p><p>Our collection of over 900 art pieces took 5 years to collect and curate.<\/p><p><\/p><p><strong>Can you tell us something about Nairobi that people might not know about?<\/strong><\/p><p>Nairobi is the only capital city in the world with a national park in its city limits and is also home to Karura Forest, one of largest urban forests in the world.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Tribe_Hotel_Nairobi_2.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Can you tell us about the interiors? What influenced your taste?<\/strong><\/p><p>Our interiors were inspired by the overall experience we wanted to create for our guests; where they would arrive through a seemingly unassuming entrance into a beautifully designed space that looked as though it was once the center of an ancient, but very advanced, civilization which valued art, culture, design and technology.<\/p><p><strong>You speak about the ‘African Spirit’. Can you define it for us? <\/strong><\/p><p>Africa in general and Kenya specifically are defined by their warmth, hospitality and sense of community – these are elements we wanted to incorporate into the design of the building and our approach to service.<\/p><p><strong>What is Nairobi’s best-kept secret?<\/strong><\/p><p>Karura Forest, one of the largest urban forests in the world, is rarely visited by tourists; it has walking and running trails along beautiful waterfalls and hidden caves with original cave drawings.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "2911cb60-becd-4483-892b-111a5dbf9f3c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Tribe_Hotel_Nairobi_3.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Can you share your favourite Kenyan recipe?<\/strong><\/p><p>Kachumbari, a very easy-to-prepare salad, with red onions, tomato, green chili, coriander, freshly squeezed lemon juice, salt and pepper. It pairs perfectly with grilled meat, or one can add avocado and cucumbers to be enjoyed on its own.<\/p><p><strong>Have you ever wanted to bring back an object from a hotel or a restaurant? And if so which one?<\/strong><\/p><p>The extra soft and decadent lamb skins from Ett Hem, in Stockholm – one of my all-time favorite hotels.<\/p><p><strong>Is there any object in the hotel that you are particularly fond of?<\/strong><\/p><p>The art pieces in our presidential suite are particularly special; they include an ancient bronze rider and horseman from Benin and two large Namji fertility wood-carved statues from Cameroon, as well as a painting by Salah-Amar – a prolific artist from Sudan.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "e8296e29-c925-4780-a196-ea4ee3e07e39": {
+      "type": "maison-collection-list",
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "",
+        "collection_type": "hotel"
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "7e435e53-9397-466d-a24e-efcf0e3cf260",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "2911cb60-becd-4483-892b-111a5dbf9f3c",
+    "main",
+    "e8296e29-c925-4780-a196-ea4ee3e07e39",
+    "blog-posts"
+  ]
+}

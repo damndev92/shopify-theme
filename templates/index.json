@@ -38,11 +38,30 @@
             "horizontal-alignment": "right",
             "vertical-alignment": "bottom"
           }
+        },
+        "cd4f87e5-3cdb-4efb-9f75-b6c82c8f4364": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "subheading": "",
+            "title": "Share your story",
+            "text": "Here's your chance to make a great first impression",
+            "button_text": "",
+            "link": "",
+            "caption-background": "rgba(0,0,0,0)",
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#000000",
+            "button-background-hover": "#797979",
+            "horizontal-alignment": "left",
+            "vertical-alignment": "middle"
+          }
         }
       },
       "block_order": [
         "image--slideshow-0",
-        "8c2ca3b1-ed75-4dd0-9b32-15c97f5a1ffe"
+        "8c2ca3b1-ed75-4dd0-9b32-15c97f5a1ffe",
+        "cd4f87e5-3cdb-4efb-9f75-b6c82c8f4364"
       ],
       "settings": {
         "split-images": true,
@@ -51,23 +70,105 @@
         "slider-width": "full-width",
         "show-slide-full-screen": true,
         "slider-slide-time": 8,
-        "caption-heading-size": 44,
+        "caption-heading-size": 52,
         "show-slide-dots": true,
-        "show-slide-arrows": false,
+        "show-slide-arrows": true,
         "show-slide-controls": false,
         "slider-navigation--color": "#ffffff",
         "overlay": false
       }
     },
-    "33a06374-03e2-4038-a1e9-c76e05be77e3": {
-      "type": "image--image",
+    "f21aec68-c4b1-48a7-8d5a-d35447a882c5": {
+      "type": "image--slideshow",
       "disabled": true,
+      "blocks": {
+        "template--17643497783611__f21aec68-c4b1-48a7-8d5a-d35447a882c5-16765598192b495422-0": {
+          "type": "slide",
+          "settings": {
+            "mobile_image": "shopify:\/\/shop_images\/platera_Homepage.png",
+            "subheading": "",
+            "title": "Share your story",
+            "text": "Here's your chance to make a great first impression",
+            "button_text": "",
+            "link": "",
+            "caption-background": "rgba(0,0,0,0)",
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#000000",
+            "button-background-hover": "#797979",
+            "horizontal-alignment": "left",
+            "vertical-alignment": "middle"
+          }
+        }
+      },
+      "block_order": [
+        "template--17643497783611__f21aec68-c4b1-48a7-8d5a-d35447a882c5-16765598192b495422-0"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/234_Homepage_1800_x_1200px.png",
-        "parallax": false,
-        "alignment": "top",
-        "hero_size": "x-small",
-        "text-over-image-width": "full-width"
+        "split-images": false,
+        "slide_on_mobile": 1,
+        "slider-animation": "slide",
+        "slider-width": "full-width",
+        "show-slide-full-screen": true,
+        "slider-slide-time": 5,
+        "caption-heading-size": 50,
+        "show-slide-dots": false,
+        "show-slide-arrows": true,
+        "show-slide-controls": true,
+        "slider-navigation--color": "#ffffff",
+        "overlay": true
+      }
+    },
+    "96b97083-6b8b-479e-a943-5eb7568e145a": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17643497783611__96b97083-6b8b-479e-a943-5eb7568e145a-1676564864eb37761e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_1579e893-c078-4edb-9bb7-f82f2f596988.png",
+            "link": "shopify:\/\/collections\/new-in",
+            "title": "New In",
+            "description": ""
+          }
+        },
+        "template--17643497783611__96b97083-6b8b-479e-a943-5eb7568e145a-1676564864eb37761e-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_8580bcab-ff8b-4ff8-8235-6608eff70811.png",
+            "link": "shopify:\/\/pages\/shop-by-destination",
+            "title": "Shop By Destinations",
+            "description": ""
+          }
+        },
+        "template--17643497783611__96b97083-6b8b-479e-a943-5eb7568e145a-1676564864eb37761e-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_8902c3b6-2fef-4f49-b7b0-ec3ac0b46ab0.png",
+            "link": "shopify:\/\/pages\/our-brands",
+            "title": "Shop by Brands",
+            "description": ""
+          }
+        },
+        "8c1084ab-5ecd-45d7-ae8e-826aac9ca339": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_1b41610f-5367-47a5-b108-ad6360fd4544.png",
+            "link": "shopify:\/\/blogs\/flaneur-magazine",
+            "title": "Flaneur Magazine",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17643497783611__96b97083-6b8b-479e-a943-5eb7568e145a-1676564864eb37761e-0",
+        "template--17643497783611__96b97083-6b8b-479e-a943-5eb7568e145a-1676564864eb37761e-2",
+        "template--17643497783611__96b97083-6b8b-479e-a943-5eb7568e145a-1676564864eb37761e-1",
+        "8c1084ab-5ecd-45d7-ae8e-826aac9ca339"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
       }
     },
     "featured_collection": {
@@ -109,15 +210,6 @@
         "grid": 4,
         "rows": 1,
         "show_view_all": false
-      }
-    },
-    "newsletter": {
-      "type": "newsletter--newsletter",
-      "settings": {
-        "colors": "dark",
-        "subheading": "sign up",
-        "title": "For the love of design",
-        "newsletter_description": "<p>Sign up for early access to our latest collaborations, far-flung and under-the-radar travel inspo. We haven't convinced you yet... get 10% off your first order. <\/p>"
       }
     },
     "shop_the_look": {
@@ -182,6 +274,57 @@
         "button__text": "Discover"
       }
     },
+    "newsletter": {
+      "type": "newsletter--newsletter",
+      "settings": {
+        "colors": "dark",
+        "subheading": "sign up",
+        "title": "For the love of design",
+        "newsletter_description": "<p>Sign up for early access to our latest collaborations, far-flung and under-the-radar travel inspo and if we haven't convinced you yet... get 10% off your first order!<\/p>"
+      }
+    },
+    "blog_blog_posts": {
+      "type": "blog--blog-posts",
+      "blocks": {
+        "7a313341-6907-41f3-9690-276a9793e8ee": {
+          "type": "blog",
+          "settings": {
+            "blog": "flaneur-magazine",
+            "show_view_all": false
+          }
+        }
+      },
+      "block_order": [
+        "7a313341-6907-41f3-9690-276a9793e8ee"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Read",
+        "title": "Flâneur Magazine",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": false,
+        "show_blog_images": true,
+        "imageSize": "portrait"
+      }
+    },
+    "965c199b-916f-4301-a1cc-ef4095be5f72": {
+      "type": "text--image-with-text",
+      "disabled": true,
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "layout": "left",
+        "subheading": "Join our",
+        "location": false,
+        "title": "Trade Program",
+        "text_block": "<p>Maison Flâneur is here to support designers, architects and stylists across the interiors industry, providing you with access to a range of benefits<\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/pages\/trade-program",
+        "hotel_page_url": false,
+        "button_label": "Join our trade program"
+      }
+    },
     "cab7e0c8-ccb0-41e9-8fcb-49ec92305af0": {
       "type": "text--testimonials",
       "blocks": {
@@ -227,48 +370,6 @@
         "show-slide-dots": true,
         "show-slide-arrows": false,
         "show-slide-controls": false
-      }
-    },
-    "blog_blog_posts": {
-      "type": "blog--blog-posts",
-      "blocks": {
-        "7a313341-6907-41f3-9690-276a9793e8ee": {
-          "type": "blog",
-          "settings": {
-            "blog": "flaneur-magazine",
-            "show_view_all": false
-          }
-        }
-      },
-      "block_order": [
-        "7a313341-6907-41f3-9690-276a9793e8ee"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "Read",
-        "title": "Flâneur Magazine",
-        "post_limit": 3,
-        "show_author_name": false,
-        "show_dates": false,
-        "show_blog_images": true,
-        "imageSize": "portrait"
-      }
-    },
-    "965c199b-916f-4301-a1cc-ef4095be5f72": {
-      "type": "text--image-with-text",
-      "disabled": true,
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "layout": "left",
-        "subheading": "Join our",
-        "location": false,
-        "title": "Trade Program",
-        "text_block": "<p>Maison Flâneur is here to support designers, architects and stylists across the interiors industry, providing you with access to a range of benefits<\/p>",
-        "page_description": false,
-        "button_link": "shopify:\/\/pages\/trade-program",
-        "hotel_page_url": false,
-        "button_label": "Join our trade program"
       }
     },
     "logo-list": {
@@ -438,13 +539,14 @@
   },
   "order": [
     "image_slideshow",
-    "33a06374-03e2-4038-a1e9-c76e05be77e3",
+    "f21aec68-c4b1-48a7-8d5a-d35447a882c5",
+    "96b97083-6b8b-479e-a943-5eb7568e145a",
     "featured_collection",
-    "newsletter",
     "shop_the_look",
-    "cab7e0c8-ccb0-41e9-8fcb-49ec92305af0",
+    "newsletter",
     "blog_blog_posts",
     "965c199b-916f-4301-a1cc-ef4095be5f72",
+    "cab7e0c8-ccb0-41e9-8fcb-49ec92305af0",
     "logo-list",
     "c94d79d4-bbe0-4f33-a57f-335300f24f32",
     "0c78a5c1-7d9a-4374-9d3b-e76f80ed41b3"

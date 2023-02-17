@@ -67,7 +67,7 @@
         "type": "announcement-bar",
         "settings": {
           "enable": true,
-          "message_text": "Subscribe to our newsletter and get 10% off your first order",
+          "message_text": "Free delivery from £150 - Returns within 14 days - Pay in 3 months interest free",
           "message_link": "",
           "notification-bar--background-color": "#fab7a4",
           "notification-bar--text-color": "#ffffff",
@@ -168,18 +168,25 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "d652c15f-411e-4498-a4aa-651c4fcbab73": {
+            "type": "menu",
+            "settings": {
+              "menu_title": "About us",
+              "footer_linklist": "footer"
+            }
+          },
+          "a926702d-a713-4e33-b2ec-9649bc1b855e": {
+            "type": "menu",
+            "settings": {
+              "menu_title": "how we can help",
+              "footer_linklist": "footer-menu-how-can-we-help"
+            }
+          },
           "c6b69709-8402-4e86-9ddf-f67ff3a4b2d5": {
             "type": "menu",
             "settings": {
-              "menu_title": "Browse",
+              "menu_title": "Shop",
               "footer_linklist": "mega-menu"
-            }
-          },
-          "9db398fd-e695-4c47-a8df-2568af552c03": {
-            "type": "text",
-            "settings": {
-              "title": "Contact us",
-              "richtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
             }
           },
           "95391973-fb1c-46d7-b409-5802681c0651": {
@@ -188,20 +195,13 @@
               "menu_title": "Join our Mailing List",
               "footer_newsletter_description": ""
             }
-          },
-          "db09c3ad-0125-453a-89c2-6e561b8e3281": {
-            "type": "text",
-            "settings": {
-              "title": "Join our trade program",
-              "richtext": "<p>Maison Flâneur is here to support designers, architects and stylists across the interiors industry, providing you with access to a range of benefits.<\/p><p><a href=\"\/pages\/trade-program\" title=\"Trade Program\">Join now<\/a><\/p>"
-            }
           }
         },
         "block_order": [
+          "d652c15f-411e-4498-a4aa-651c4fcbab73",
+          "a926702d-a713-4e33-b2ec-9649bc1b855e",
           "c6b69709-8402-4e86-9ddf-f67ff3a4b2d5",
-          "9db398fd-e695-4c47-a8df-2568af552c03",
-          "95391973-fb1c-46d7-b409-5802681c0651",
-          "db09c3ad-0125-453a-89c2-6e561b8e3281"
+          "95391973-fb1c-46d7-b409-5802681c0651"
         ],
         "settings": {
           "show_methods_of_payment": false,

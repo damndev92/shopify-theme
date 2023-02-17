@@ -1,0 +1,149 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/quintessence-paris.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Meet Valentine Pozzo di Borgo, Founder of Quintessence, Paris",
+        "title": "",
+        "text": "<p>We couldn’t wait for you to meet Valentine Pozzo di Borgo. The Parisian perfumer and dynamic entrepreneur inherited her love of perfume. Xavier Givaudan, her grandfather was a chemist from Lyon living in Switzerland, engraved his name in 1895 in the history of world perfumery by founding the homonymous group and by discovering many molecules, such as Lila 7. Her childhood memories are all associated with a perfume: the flasks in the office-laboratory, the long walks in the Swiss mountains and the Corsican maquis, the hours spent in perfumeries smelling new things … By composing olfactory universes, she perpetuates the family tradition while giving it a touch of femininity and modernity. We are so proud to showcase some of her creation and for you to discover more of her universe.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/ValentinePozzodiBorgo.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Can you tell us more about the history of Quintessence? <\/strong><br\/>Quintessence was born in 2008. But, I always knew I wanted to create my own company. First, I decided to dedicate myself to BtoB clients: creating olfactive identity for customers that had no access to the perfume world. This activity is called Quintessence Lab. I wanted to pursue a family tradition as my family has been in the perfume industry for almost 5 generations. Perfume was somehow in my blood. <br\/>Then 2 years later, Quintessence Paris was launched as I wanted to open to a new clientele.<\/p><p><strong>There is a history of perfume in your family?<\/strong><br\/>Yes! I a descendant of the Givaudan family. They were chemists who created the first synthetic smells. They invented Lilac for example. The company that they created is still operational today. They sold it in the ’60s but <em>Givaudan<\/em> still develops tastes and scents that delight consumers all over the world.<\/p><p><strong>Do you remember your first memory of a scent? <\/strong><br\/>My first memory is associated with a place. The perfume of this moment is not describable as it is a mix of fragrance. It was vials in her grandfather’s laboratory.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2020-11-16-at-13.23.39-1024x1019.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Can you tell us about the story behind the Hotel Particulier?  <\/strong>I grew up in the Saint-Germain-des-Prés neighborhood in Paris. I was always inspired by these amazing doors and what was behind, what was the story of all these amazing Hotel Particulier. I created an olfactory stroll through a Parisian Hôtel Particulier. It’s a way to celebrate the French “art de vivre” knowing that all French made scents symbolize panache and distinction. The atmosphere of each room is illustrated by two scents.<\/p><p><strong>Can you tell us about the process of the creation of a scent?<\/strong> <strong>Where would one start to create their own scent? <\/strong><br\/>To create a smell, there are a few rules to know :<\/p><ul><li>Remember that we all have different noses so it is a personal process. Try not to involve too many people in the process. <\/li><li>Know exactly what you don’t like. It seems strange but it is the most important part! <\/li><li>You have to let go of all your barriers and have a clean mind to smell the proposal we are going to suggest to you. <\/li><\/ul><p>Then, we need a mood board to start creating. The mood board can be visual. It can be words, sounds, colors. Whatever you feel like sharing. That is when the magic can start. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "49f543b9-4993-49a4-a82b-553156a8031c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2020-11-16-at-13.13.00-1022x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Can you tell us three things people don’t necessarily know about perfumes? <\/strong><\/p><p>Some flowers like Lily of the valley cannot produce a natural flavour that can be used in perfume. The flower smells amazing but in the fragrance business, we have to use synthetic smells.<\/p><p>Grasse, the town known to be the “capital of perfume” was before known for its tanners.<\/p><p>To create a perfume, the perfumer uses a perfume organ, which has between 2 to 3000 components that they can use.<\/p><p><strong>How would you describe your style in interiors? <\/strong><br\/>I guess I have no definite style. My home cosy and warm. It is full of objects that I love. I guess that is how you create a place where you feel good. It would be a mix between traditional and bohemian with a lot of color! <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "a4efec5c-9be9-4a9c-85ce-7a457cac1cbf": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2020-11-16-at-13.16.25-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Have you ever wanted to bring back an object from a hotel or a restaurant? And if so which one?<\/strong><br\/>The one thing I love is a chair from a hotel in Kenya. It is just the perfect chair to rest and read a book. To bring it back would be a very long journey! Maison Flâneur? <\/p><p><strong>What is your favourite smell?<\/strong> <br\/>The smell of the Corsican Maquis. It reminds me of holidays and it’s a smell that changes according to the season! <\/p><p><strong>Your favourite object at home? <\/strong><br\/>I am a big fan of rugs. I bring some back from all my trips. My favorite object is a rug that I brought back from Iran.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "f0c8c725-38a0-462f-9959-dbb4dfb51d86": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/unnamed-1-1024x683.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Can you tell us three facts about you? <\/strong><\/p><p>I have an other life next to Quintessence. I have jumping stables. <\/p><p>I love travelling <\/p><p>I am always followed by Lulu my dog.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "49f543b9-4993-49a4-a82b-553156a8031c",
+    "a4efec5c-9be9-4a9c-85ce-7a457cac1cbf",
+    "f0c8c725-38a0-462f-9959-dbb4dfb51d86",
+    "main",
+    "blog-posts"
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Schermata-2021-09-14-alle-17.53.48-1024x489.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Meet Josephine Dessine, Artist and illustrator, London",
+        "title": "",
+        "text": "<p>Josephine’s drawings have taken <a href=\"https:\/\/www.instagram.com\/josephinedessine\/\">Instagram <\/a>by storm. Her witty, joyful, often cheeky, always thought-provoking illustrations echos her incredibly lively personality. Josephine graduated from Central St Martins before working on sets as a costumier. Like many, the pandemic was a pivotal moment, that allowed her to dive deep into her craft. Meet the coolest illustrator in Dalston.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/10-1-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Could you tell us three things about you? <\/strong><\/p><p>I am never without ink on my hands.<\/p><p>I get angry in French but count only in English.<\/p><p>One can never feed me too much cheese.<\/p><p><strong>What is the story behind Josephine Dessine?<\/strong><\/p><p>I found myself jobless, with chronic illness, during a global pandemic. Delightful. I had a bit of a panic and my mother handed me a stack of plates and told me to just draw. I drew from the moment I got up to the moment I went to bed. Dessine means draw, every time someone would ask for me, my family would go: “Josephine Dessine” meaning Josephine’s Drawing. My mother sat next to me and she taught me what she knew. Then people saw what I was doing and started wanting some, so I kept going. Here we are!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/8-1-1024x1024_64d279be-bc87-4442-b690-ca647ae41c08.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What was your other career? <\/strong><\/p><p>I designed and made costumes for TV, Theatre and Film. It was very full on!<\/p><p><strong>Your drawings are somehow quite ‘political’ or ‘engagé’ as you would say in French. Is that intentional? <\/strong><\/p><p>My work doesn’t intentionally set out with a political agenda but I am told that portraying women as in charge of their own nudity and sexuality is political. So I choose to hold a sense of humor about it all. I am curious about how women are portrayed, how they celebrate one another, how they exist outside of the male gaze. I like this idea of employing a hyper-feminine style to explore empowerment.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "05f33b1f-0096-47dd-aa32-de47ae2994f9": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/1-1-1024x1024_3ca31f62-cea6-4fdf-837e-6ab4bda9aa4b.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What is your dream commission?<\/strong><\/p><p>Fortum and Masons! I fantasize about that shop regularly. If I could eat my favourite shortbread from a tin I designed then I think I may just explode with happiness.<\/p><p><strong>Can you tell us a little bit about the snoggers? <\/strong><\/p><p>If there was one thing I really missed in lockdown, it was having a great big snog. The collection celebrates that. It started as me thinking about iconic moments in history and I came across the photo of the sailor kiss from 1945. Taken at the end of WW2 as they celebrated their return,  I thought to myself what greater joy than the snog the person you love after such a terrifying time. I think there are some parallels with today’s Covid crisis, I look forward to a time where we can once again snog freely!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "60e22be1-f2bb-4ad8-8f27-494a3d15cd2f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/4-3-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What does the word “Flâneur” mean to you? <\/strong><\/p><p>It reminds me of my first love. We dated when I was an art student, him a working artist.  We drew and danced and ate and read and talked. It was a beautiful, rich time in which he taught me to soak up life around us. Most of the days were spent in Soho where he had his studio in the basement of a tailor’s and we would wander around all day every day, finding things to draw. When I think of Flâneur I think of him.<\/p><p><strong>Do you have a favourite design? <\/strong><\/p><p>I think my very first plates in many ways are my favourite, before I even knew what I was doing. There is a freedom and boldness in them which I have found difficult to regain as my work became more refined. There is one in particular of Francoise Sagan holding a really poorly drawn cat. I love it.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "2a3fb5e4-254f-4f36-ba87-41be4f70476b": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/2-2-1024x1024_6eccaf37-fa43-4174-92c7-3a32774332c7.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Is there something about your drawings\/ceramics that people might not know about?<\/strong><\/p><p>I was taught by my mother, I grew up in a home where the plates and the tiles were painted by her. When she was pregnant with me she was painting a lot even though people told her not to because of the solvents. I like to think that I have porcelain painting in my blood.<\/p><p><strong>Do you think confinement has changed the way people see their homes\/tables? <\/strong><\/p><p>Definitely! I think people have remembered that Home is a place as well as a feeling. Being forced to stay home has highlighted the importance of being comfortable and enjoying our surroundings. I think there has been a shift away from outwards appearance and image simply through being starved of opportunity during the lockdowns. This has created a cozy little space for people to realize that their homes can be an expression of self just as much as their clothing.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "5d47dada-f3f9-4577-ae55-8169d5959448": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/5-1-1024x1024_ecb490ca-2c87-4af0-860c-c2109979bb13.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What are your tips for the perfect table setting? <\/strong><\/p><p>Joy. Joy. joy. Find what makes you tick and roll with it. Maybe you’re a linen person, maybe you like gingham. My mum had a big “put fake grass on the table” phase. You do you. If something makes you smile, then toss it on the table it will probably work. Authenticity is beautiful. A “perfect” table setting will only ever truly reflect the people around it, so surround yourself with people you love, who make you laugh and it will be great. Also: candles.<\/p><p><strong>Any wishes for 2021?<\/strong><\/p><p>To maintain joyfulness and a sense of humor.<\/p><p> <a href=\"https:\/\/www.maisonflaneur.com\/product\/set-of-2-snogger-small-plates-boy-and-girl\/\">Discover her creations. <\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "dc157e00-33bb-430e-99de-ea744bdb5665": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/1-4-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Snogger Dinner Plates, Set of 4",
+        "text_block": "<p>£210<\/p><p>Three cheers for dirty great big snogs! This set of four hand painted dinner plates was created out of a celebration of one of humanity's favourite and much missed pastimes. In keeping with Maison Flaneur's tres chic, tres french look, these are the perfect addition to bring some joy and freshness to the table. Keep them for your main course or stack them up with the small plates for a more complete mix and match Look. Designed and made in Dalston by Josephine Dessine. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "07f7cb54-6ffa-4831-8407-1b54bdcce0ed": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/2-5-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Snogger Small Plates, Set of 4",
+        "text_block": "<p>£180<\/p><p>Three cheers for dirty great big snogs! This set of four hand painted dessert plates was created to celebrate one of humanity's favourite and much missed pastimes. In keeping with Maison Flaneur's tres chic, tres french look, these are the perfect addition to bring some joy and freshness to the table. Keep them for sweetness or stack them up with the Dinner plates for a more complete mix and match Look. Designed and made in Dalston by Josephine Dessine. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "main",
+    "05f33b1f-0096-47dd-aa32-de47ae2994f9",
+    "60e22be1-f2bb-4ad8-8f27-494a3d15cd2f",
+    "2a3fb5e4-254f-4f36-ba87-41be4f70476b",
+    "5d47dada-f3f9-4577-ae55-8169d5959448",
+    "dc157e00-33bb-430e-99de-ea744bdb5665",
+    "07f7cb54-6ffa-4831-8407-1b54bdcce0ed",
+    "blog-posts"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/facade-circulo-mexicano-1466x1148-1-1024x802_7efac2e7-473e-4085-83bf-08b0f9ecefe7.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "10 facts about Cìrculo Mexicano, Mexico City",
+        "title": "",
+        "text": "<p>We’ve gathered our 10 favourite facts from Cìrculo Mexicano in Mexico<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "2f40afd0-0682-4cac-a6c7-62cb28caf5cb": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18018772451643__2f40afd0-0682-4cac-a6c7-62cb28caf5cb-1676562208ddac322b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-1-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18018772451643__2f40afd0-0682-4cac-a6c7-62cb28caf5cb-1676562208ddac322b-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6-1-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18018772451643__2f40afd0-0682-4cac-a6c7-62cb28caf5cb-1676562208ddac322b-0",
+        "template--18018772451643__2f40afd0-0682-4cac-a6c7-62cb28caf5cb-1676562208ddac322b-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "ef77d9d9-bfa1-42f1-9824-c1ab510d6433": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18018772451643__ef77d9d9-bfa1-42f1-9824-c1ab510d6433-1676562208ddac322b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5-1-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18018772451643__ef77d9d9-bfa1-42f1-9824-c1ab510d6433-1676562208ddac322b-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2-1-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18018772451643__ef77d9d9-bfa1-42f1-9824-c1ab510d6433-1676562208ddac322b-0",
+        "template--18018772451643__ef77d9d9-bfa1-42f1-9824-c1ab510d6433-1676562208ddac322b-1"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "b3f0e6dc-7382-4f25-bc56-b8c863f2681f": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18018772451643__b3f0e6dc-7382-4f25-bc56-b8c863f2681f-1676562208ddac322b-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3-2-1024x1024_de869757-86b4-49ab-9f5a-9ade00cc64e8.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18018772451643__b3f0e6dc-7382-4f25-bc56-b8c863f2681f-1676562208ddac322b-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4-1-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18018772451643__b3f0e6dc-7382-4f25-bc56-b8c863f2681f-1676562208ddac322b-1",
+        "template--18018772451643__b3f0e6dc-7382-4f25-bc56-b8c863f2681f-1676562208ddac322b-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "c5aa7661-b048-424f-b319-93983a809cdb": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18018772451643__c5aa7661-b048-424f-b319-93983a809cdb-1676562208ddac322b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1784-Collection-Wooden-Rocking-Chair-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>1784 Collection Wooden Rocking Chair<\/p><p>£1,633<\/p>"
+          }
+        },
+        "template--18018772451643__c5aa7661-b048-424f-b319-93983a809cdb-1676562208ddac322b-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wooden-Chair-C-Collection-Without-Armrest-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Wooden Chair C Collection Without Armrest<\/p><p>£479<\/p>"
+          }
+        },
+        "template--18018772451643__c5aa7661-b048-424f-b319-93983a809cdb-1676562208ddac322b-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1784-Collection-Wooden-Coffee-Table-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>1784 Collection Wooden Coffee Table<\/p><p>£528<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18018772451643__c5aa7661-b048-424f-b319-93983a809cdb-1676562208ddac322b-0",
+        "template--18018772451643__c5aa7661-b048-424f-b319-93983a809cdb-1676562208ddac322b-1",
+        "template--18018772451643__c5aa7661-b048-424f-b319-93983a809cdb-1676562208ddac322b-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "2f40afd0-0682-4cac-a6c7-62cb28caf5cb",
+    "ef77d9d9-bfa1-42f1-9824-c1ab510d6433",
+    "b3f0e6dc-7382-4f25-bc56-b8c863f2681f",
+    "c5aa7661-b048-424f-b319-93983a809cdb",
+    "main",
+    "blog-posts"
+  ]
+}
