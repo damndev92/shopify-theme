@@ -155,6 +155,23 @@
         "button_label": ""
       }
     },
+    "07f7cb54-6ffa-4831-8407-1b54bdcce0ed": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/2-5-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Snogger Small Plates, Set of 4",
+        "text_block": "<p>£180<\/p><p>Three cheers for dirty great big snogs! This set of four hand painted dessert plates was created to celebrate one of humanity's favourite and much missed pastimes. In keeping with Maison Flaneur's tres chic, tres french look, these are the perfect addition to bring some joy and freshness to the table. Keep them for sweetness or stack them up with the Dinner plates for a more complete mix and match Look. Designed and made in Dalston by Josephine Dessine. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -180,6 +197,7 @@
     "2a3fb5e4-254f-4f36-ba87-41be4f70476b",
     "5d47dada-f3f9-4577-ae55-8169d5959448",
     "dc157e00-33bb-430e-99de-ea744bdb5665",
+    "07f7cb54-6ffa-4831-8407-1b54bdcce0ed",
     "blog-posts"
   ]
 }
