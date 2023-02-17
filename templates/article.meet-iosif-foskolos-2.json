@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/g-05-parilio-683x1024_4eb38079-4d1c-41ac-a8e8-7a31e0a97bd1.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "At Parilio",
+        "text_block": "<p>In his “<a href=\"https:\/\/www.maisonflaneur.com\/venues\/parilio\/\">Parilio<\/a>” series, created exclusively for the hotel, Iosif drew inspiration from its interior design as well as its name (Paros + Ilios = sun in Greek). This idea of sun fit very neatly with the research Iosif had been conducting over the years: the perception of the seven planets in the ancient world, their mystical symbolism. He homed in on the idea of numerology in relation to the so-called Planetary Magic Squares; symbolic numbers like 6 and 111 began to emerge, and he knew he must incorporate them into his work. The gold thread featured in pieces like <a href=\"https:\/\/www.maisonflaneur.com\/product\/parhelion\/\"><em>Parhelion <\/em><\/a>was also symbolic – of the warm, golden glow of the sun’s rays.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
