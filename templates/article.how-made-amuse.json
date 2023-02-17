@@ -70,6 +70,23 @@
         "show_recent_posts": false
       }
     },
+    "3ed41afc-fc06-477c-8300-7f785e345332": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/bluechecknapkin_1024x1024_2x-1024x999.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "The Team",
+        "text_block": "<p>While Georgie collaborates with talented craftsmen in the UK and in India, every design, each idea is dreamt up at her home in London. Quick to recognise those who support her, Georgie gives credit where credit is due. She unfailingly touts the talents of her makers in India, as well as her publicist, Amelia from Passaro Publicity, who helps bring her creative universe to the rest of us.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -90,6 +107,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "3ed41afc-fc06-477c-8300-7f785e345332",
     "blog-posts"
   ]
 }
