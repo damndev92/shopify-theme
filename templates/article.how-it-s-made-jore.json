@@ -103,6 +103,23 @@
         "button_label": ""
       }
     },
+    "21f1250b-957a-44ab-80d1-fa4caac1843d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/4-2-1024x1024_28b09c30-2bdf-489b-bc6b-9e8a8af0542a.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Materials",
+        "text_block": "<p>Josephine and the team carefully select each and every material for the purpose of the specific product. Jore Copenhagen is constantly improving their use of materials, often drawing inspiration from interior history to create something modern. Many materials are upcycled and all are long-lasting; Josephine and her partner want their pieces to bring joy and beauty to their clients’ homes for decades to come. Forget IKEA –<a href=\"https:\/\/www.maisonflaneur.com\/josephine-reich-founder-of-jore-copenhagen\/\">Jore Copenhagen<\/a>is the new standard of Scandinavian design!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -125,6 +142,7 @@
     "main",
     "58c1d66b-eca6-4843-a038-d5a44ceaba9f",
     "ff7abe03-f81b-4ffd-85df-ccdd4e7bac00",
+    "21f1250b-957a-44ab-80d1-fa4caac1843d",
     "blog-posts"
   ]
 }
