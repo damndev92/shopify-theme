@@ -138,6 +138,23 @@
         "button_label": ""
       }
     },
+    "2f3f018f-aaee-4d7c-a16e-6abc2aa42ee2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Job_10055_900x_4f3aa7c6-f62a-4eac-ae77-84d04a904d95.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Green Bistro Striped Cup",
+        "text_block": "<p>€20<\/p><p>The striped emerald cup is a part of Jore Copenhagen's Italian handpainted ceramic collection. The striped emerald cup is ideal to be mixed with the different saucers from the collection.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -162,6 +179,7 @@
     "c42446e6-aee0-42c5-b5c9-ade2d5036596",
     "632ea9d6-7300-4008-ad2e-af35ae66de7b",
     "2d4db3ad-f88a-4660-aad5-d5b55c6896c8",
+    "2f3f018f-aaee-4d7c-a16e-6abc2aa42ee2",
     "blog-posts"
   ]
 }
