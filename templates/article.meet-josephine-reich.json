@@ -104,6 +104,23 @@
         "button_label": ""
       }
     },
+    "632ea9d6-7300-4008-ad2e-af35ae66de7b": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/5-3-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Is there a Danish way of hosting? <\/strong><\/p><p>I actually do not know but there is never a shortage of wine and snacks, haha..<\/p><p><strong>What are your tips for the perfect table setting? <\/strong><\/p><p>Rather too much than too little. Remember flowers and candles. And I think placemats or a tablecloth can always make a boring day more festive.<\/p><p><strong>Any wishes for 2022?<\/strong><\/p><p>No war – only peace!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -126,6 +143,7 @@
     "main",
     "62b0f83b-aff0-48c8-b9a8-6e9d716edebb",
     "c42446e6-aee0-42c5-b5c9-ade2d5036596",
+    "632ea9d6-7300-4008-ad2e-af35ae66de7b",
     "blog-posts"
   ]
 }
