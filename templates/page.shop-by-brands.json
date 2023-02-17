@@ -3,6 +3,10 @@
     "main": {
       "type": "template--page",
       "settings": {
+        "hide_header": false,
+        "hide_default_content": false,
+        "alignment": "center",
+        "url": ""
       }
     },
     "6ebef4dd-8039-42d7-a989-ad9a5df05aa0": {
@@ -20,25 +24,17 @@
             "collection": "la-veste"
           }
         },
-        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-2": {
+        "4c86cf43-ff78-4bf8-b92b-764f36ace332": {
           "type": "featured_collection",
           "settings": {
             "collection": "georges"
-          }
-        },
-        "7de43337-22b4-47d2-b8a3-1c46e966d1b2": {
-          "type": "featured_collection",
-          "disabled": true,
-          "settings": {
-            "collection": ""
           }
         }
       },
       "block_order": [
         "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-0",
         "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-1",
-        "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-2",
-        "7de43337-22b4-47d2-b8a3-1c46e966d1b2"
+        "4c86cf43-ff78-4bf8-b92b-764f36ace332"
       ],
       "settings": {
         "colors": "white",
@@ -97,7 +93,7 @@
         "template--17643498701115__10bdf396-dbda-4947-b9e6-a3575a52ccca-167465174538dd7db8-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "alice-palmer-co"
           }
         }
       },
