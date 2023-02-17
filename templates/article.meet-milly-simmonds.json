@@ -70,6 +70,23 @@
         "show_recent_posts": false
       }
     },
+    "1e7f4567-b73e-4982-82d5-58fd63c33783": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2022-08-10-at-7.26.18-AM-758x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Where do you get your inspiration?<\/p><p>Most of our inspiration comes from nature and the seasons. Travel and culture also hugely inspires me.<\/p><p>What’s your favourite piece at home?<\/p><p>I do love our huge farmhouse  kitchen table, which I struggle to fit any linen on! It’s a little rugged, as we’ve been so relaxed with kids drawing on it and the odd glass of red spilling on it, but it does tell a few stories! I like unfussy things that I don’t have to be precious about. I also love our boucle cream chair from <a href=\"https:\/\/www.sohohome.com\/\">Soho Home<\/a>. It’s the perfect spot for reading by the fire.<\/p><p>You can only stay in one hotel for the rest of your life. Where are you checking in?<\/p><p>Baglio Occhipinti in Sicily. Understated, rustic, and with the most amazing food, wine, staff sunken bath. No flashy things. Just simple Italian everything. It’s perfect.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -90,6 +107,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "1e7f4567-b73e-4982-82d5-58fd63c33783",
     "blog-posts"
   ]
 }
