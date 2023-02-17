@@ -28,7 +28,7 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/MF_ElFenn_Lifestlye-8-1-1024x836_1.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-02-17_at_13.53.06.png",
         "layout": "right",
         "subheading": "",
         "location": false,
@@ -43,7 +43,7 @@
     "cb131cd6-342a-4b0b-a859-4778b0fb4032": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/MF_ElFenn_Lifestlye-11-1024x455.jpg",
+        "image": "shopify:\/\/shop_images\/homtastics-Riad-El-Fenn-Marrakesch-Innenhof.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -113,7 +113,7 @@
     "6f44c1ba-69aa-4282-9436-0a8b767e92c7": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/4C9A9096-1536x1024.jpg",
+        "image": "shopify:\/\/shop_images\/homtastics-El-Fenn-Marrakesch-Hotel-Pool.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
