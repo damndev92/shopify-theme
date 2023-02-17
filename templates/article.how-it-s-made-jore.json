@@ -87,6 +87,22 @@
         "button_label": ""
       }
     },
+    "ff7abe03-f81b-4ffd-85df-ccdd4e7bac00": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Craftmanship",
+        "text_block": "<p>Though Josephine initially sewed some of the pillows by hand in their studio, production now happens in a few different spots, with the top craftsmen creating each piece. Jore Copenhagen’s <a href=\"https:\/\/www.maisonflaneur.com\/product\/red-bistro-dinner-plate\/\">ceramics<\/a> come to life in the south of Italy. The lamps and textiles are made in India. With a very timely eye toward sustainability, Josephine and her team are in the process of shifting production a little closer to home for the newer pieces.<\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -108,6 +124,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "58c1d66b-eca6-4843-a038-d5a44ceaba9f",
+    "ff7abe03-f81b-4ffd-85df-ccdd4e7bac00",
     "blog-posts"
   ]
 }
