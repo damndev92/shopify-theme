@@ -70,6 +70,23 @@
         "show_recent_posts": false
       }
     },
+    "76b3c4d2-06fa-400e-8833-3718c11827b1": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/10-Facts-about-Parilio-Hotel-2-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Materials",
+        "text_block": "<p>Iosif chooses his materials carefully. While they’re certainly beautiful, there’s often more to them than simple aesthetics. His materials – delicate thread, gentle cotton – take on a symbolic character, helping transmit his ideas from the canvas to his viewers. Never wanting to limit his work, Iosif constantly hunts for new materials to bring his visions to life.<\/p><p>Each work is created by Iosif by hand in his home in Greece. There’s no team behind what he does; it’s just Iosif, engaging in creation, getting closer to himself. For him, it’s a kind of personal meditation<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -90,6 +107,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "76b3c4d2-06fa-400e-8833-3718c11827b1",
     "blog-posts"
   ]
 }
