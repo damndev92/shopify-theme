@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/21-1-1024x1024-1.png",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p>Give us your top tips for creating a beautiful table.<\/p><p>I always love to find in-season flowers to work with. I then use the style and colours of the flowers to flow through the rest of the table.<\/p><p>I always think using a linen completes a tablescape. I do love the “naked” table look, but there are so many amazing linens out there that really add a fun element to your table!<\/p><p>Create different heights of candlelight by using tea <a href=\"https:\/\/www.maisonflaneur.com\/product\/issy-granger-x-olive-co-the-dotty-glass-candlestick\/\">lights<\/a>, church candles and tapered or twist candles. This will bring lots of atmosphere into the room. Also, light lanterns or hurricane vases around the room.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
