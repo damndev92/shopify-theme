@@ -87,6 +87,23 @@
         "button_label": ""
       }
     },
+    "d93cae5f-129c-45ef-af93-3d95e2531e26": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Penny-Morrison-Mustard-Ribbed-Vase-Ceramic-Lamp-Base-Quirky-Unique-Colourful-Hand-Painted-Bespoke-Artisanal_700x_2bf4dbe5-2b42-426f-a494-7c507607c689.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What are the similarities between the fashion world and the design world?<\/strong><\/p><p>The fashion world and the design world influence one another. You see the same details on clothes that you do in homes. Think about detailed embroidery or the use of materials like leather and silk. Fashion designers are working with design brands more than ever right now. Fashion and design follow a very similar creative process. They are both influenced by travel, culture and what’s happening in the world.<\/p><p><strong>As a ‘maker’ what is good taste for you? How about bad?<\/strong><\/p><p>Good: a nice mix of materials, a flowing colour palette to create the right mood, comfortable yet stylish furniture and GOOD LIGHTING! Lots of table lamps and no overhead lights unless they’re on a dimmer. Special pieces from travels always go a long way, as does natural flooring like solid wood or sea grass. Ambience is everything!<\/p><p>Bad: bright overhead lights are a massive no-no. Uninteresting colours are lacklustre; think all grey everything…  grey walls, grey furniture, grey linens. A room needs to be interesting and inviting when you walk in.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -108,6 +125,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "1e7f4567-b73e-4982-82d5-58fd63c33783",
+    "d93cae5f-129c-45ef-af93-3d95e2531e26",
     "blog-posts"
   ]
 }
