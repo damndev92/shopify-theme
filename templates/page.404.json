@@ -17,7 +17,7 @@
         "image": "shopify:\/\/shop_images\/PARILIO_COVER.jpg",
         "parallax": false,
         "alignment": "center",
-        "hero_size": "medium",
+        "hero_size": "large",
         "text-over-image-width": "fixed"
       }
     },
