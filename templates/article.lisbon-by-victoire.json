@@ -1,0 +1,167 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Schermata-2021-06-15-alle-19.28.05-1024x683.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Lisbon by Victoire de Lencquesaing",
+        "title": "",
+        "text": "<p>Discover the ultimate insider guide to Lisbon. Let Victoire de Lencquesaing from main.edition take you on a tour of her favourite spots in the city.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/cafe-sao-1024x1024-1.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "1. Morning Coffee at:",
+        "text_block": "<p><a href=\"https:\/\/www.instagram.com\/cafesao_lisboa\/\">Café São<\/a><\/p><p>Rua de São Bento 102, 1200-816 Lisbon<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/bbb-1024x1024-1.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "2. Lunch Break at:",
+        "text_block": "<p><a href=\"https:\/\/www.bbbtaste.club\/\">BBB Taste<\/a><\/p><p>Rua das Esperança 44, 1200-658 Lisbon<br\/><br\/><\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "5fcf0138-c49e-4d25-a665-de44e166423e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/13-1024x1024-1.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "3. Sunset Drink at:",
+        "text_block": "<p><a href=\"https:\/\/java.superbexperience.com\/\">Javá<\/a><\/p><p>Praça Dom Luis I 30, 1200-225 Lisbon<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "3e820763-99e9-41b8-9f48-a7826db3d94d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/centa-lisbona-1024x1024-1.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "4. Date Night at:",
+        "text_block": "<p><a href=\"https:\/\/www.instagram.com\/centa.lisbon\/?hl=en\">Centá<\/a><\/p><p>Rua Santos-o-Velho 114, 1200-690 Lisbon<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "d4376ad9-02eb-4c84-8b3d-246448063145": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Prado-1024x1024-1.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "5. With Friends at:",
+        "text_block": "<p><a href=\"https:\/\/pradorestaurante.com\/\">Prado<\/a><\/p><p>Pedras Negras 2, 1100-404 Lisbon<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "1f916df3-075c-4c2c-8e70-cdb17d7654be": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Lisbon-guide-1024x1024-1.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "6. Secret Spot:",
+        "text_block": "<p><a href=\"https:\/\/www.dearbreakfast.com\/\">Dear Breakfast Rooftop<\/a><\/p><p>Calçada Ribeiro Santos 37, 1200-690 Lisbon<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "main",
+    "5fcf0138-c49e-4d25-a665-de44e166423e",
+    "3e820763-99e9-41b8-9f48-a7826db3d94d",
+    "d4376ad9-02eb-4c84-8b3d-246448063145",
+    "1f916df3-075c-4c2c-8e70-cdb17d7654be",
+    "blog-posts"
+  ]
+}

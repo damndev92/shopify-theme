@@ -1,0 +1,95 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Cream-and-Brown-Delicate-Organic-Essentials-Marketing-Presentation-22-1024x576.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "On Brand: Edition 94, London",
+        "text": "<p>Edition 94 is a homeware treasure trove located in South Kensington. Thanks to its owner’s impeccable taste, India Whalley, it is filled with everything you need to add lovely touches to your home, from cool accessories to unique retro furniture.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2020-11-30-at-18.10.47-865x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>An interior designer by trade, Whalley began her career decorating other people’s houses. Her next project, the Dot Project showcased young and talented artists. A step sideways from the London well-known galleries, India’s gallery was a breath of fresh air on London’s historic Fulham road. <\/p><p>The last weekend of her Kensington gallery’s rent, India went to Paris where she visited an antique market and fell in love with a set of Murano glass vases.<br\/>Back in London, the art having moved locations, she decided to display the vases in the window. The vases sold out in less than a week. <\/p><p>Edition 94 was born. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/IMG_5826-904x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Since then India spends her time traveling the world for vintage treasures.  Her collection now includes ceramics, hand-blown glasses, candles, vintage furniture, and all sorts of wonderful tableware items. She also started to collaborate with artists to design bespoke pieces for her shop. She noticed that people love table settings and in particular her quirky placemats.<\/p><p>When India sells out she is never in a rush to restock as a lot of her homeware is made by small artisans and work on a different timeline from the big producers. Her aim remains the same: to support artists and champion a certain idea of sustainability with timeless decoration. She is passionate about finding and recycling vintage pieces; “Each piece has a unique story to tell” she told us with a smile. <\/p><p>India also explains that the extraordinary thing about homeware is that you don’t have to just buy expensive and luxury items but that there is beauty as well in the smallest pieces.  <\/p><p>God is in the detail as they say.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "main",
+    "blog-posts"
+  ]
+}

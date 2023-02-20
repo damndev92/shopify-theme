@@ -1,0 +1,88 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Amour_Sexe_7_copy.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Limited Edition, Amour & Sexe, André Saraiva, Hotel Amour",
+        "title": "",
+        "text": "<p>We really wanted this Valentine’s to be extra-special. Maison Flaneur, in partnership with Andre Saraiva, Hotel Amour, and Semaine, came up with something unique.  <strong>Like the perfect lover, it likes wine, it’s lovely, a bit naughty, and French.<\/strong>Our limited edition Amour et Sexe glasses are THE Valentine’s day present you’ve been looking for. <\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/DSCF1482-683x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Designed exclusively for Maison Flaneur, it has a short stem and an elongated bowl and it looks a bit like a port glass—you know, the kind that feels good in your hand and implores you to sip long, slow, delish nips of something complex but not too demanding, and savor the aroma of a languid evening like Semaine describes it. <\/p><p>As a natural bon vivant, Andre Saraiva, renowned graffiti artist, fashion editor, film director, transatlantic nightclub owner, and hotelier, can be trusted to design the perfect party accessory. Choose between the iconic ‘Amour’ or the friskier ‘Sexe’ glass – Show em’ Romance is not dead.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "97e113d6-49e9-4533-a87a-a828d995dc19": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Amour_Sexe_2_copy.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "x-large",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "97e113d6-49e9-4533-a87a-a828d995dc19",
+    "main",
+    "blog-posts"
+  ]
+}

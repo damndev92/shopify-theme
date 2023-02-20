@@ -1,0 +1,185 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Assouline-OGimage-1-1024x538.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "Meet Alexandre Assouline, Assouline Publishing, New-York",
+        "text": "<p>Alexandre Assouline, 28, is a creative library designer at his family’s luxury publishing company: Assouline. The aim of their travel books is to show the essence of a  destination, evoking emotions, and providing insider informations. We sit down with the young fogey to hear more about his perfect library, his favourite object, his interior design taste, and why he never thought of bringing something home from a hotel.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/AssoulineCover-731x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How would you define Assouline’s sensibility?<br\/><\/strong>Having always proudly stood for luxury and culture, we are dedicated to inspiring through the pages of our titles while evoking emotions and providing information. In essence, we fully embrace the importance of a lifestyle devoted to the celebration of the very best in culture.<\/p><p><strong>How does a location make it on the Assouline Travel list?<br\/><\/strong>As a company today, we carefully select each location based on what we know and love. Familiarity to the subject is always a must. We travel to the places we cover and in turn, our goal is to make our audience discover it through our lens. To further enhance our works, we make it a priority to select some of the best, most notable authors for whichever specialized area we have at hand.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Ces-livres-qui-font-voyager-819x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Could you define luxury for us?<br\/><\/strong>To me, luxury is representing culture as an essential element of true and unparalleled style. <\/p><p><strong>What would be your three Assouline must haves?<\/strong><\/p><p><em>Paris Chic<\/em><\/p><p><em>Frida Kahlo: Fashion As The Art Of Being<\/em><\/p><p><em>Versailles: From Louis XIV To Jeff Koons (Fall 2020)<\/em><\/p><p><strong>Could you tell us about the process of curating the perfect library?<br\/><\/strong>I personally and carefully select books and objects that capture the essence of the neighborhood, the building, and the people who will enjoy it when curating a library.  I always want to create beautiful and sophisticated spaces that allow people to unplug and simply enjoy the moment. To add, I get the opportunity to work with incredible developers and talented interior designers who trust me in creating a fantastic library within their space. An Assouline space is very different than the traditional idea of a library – throughout the process, I always incorporate our signature eye into each project. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "91c94ed6-3a42-4d8e-921c-77fc25a10241": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/MaisonAssouline_InteriorsandTea052_2048x-1024x683.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How did you think about Assouline shops?<\/strong><\/p><p>All of our boutiques worldwide are designed and presented as a concept store that celebrates culture. We’ve implemented Assouline’s signature feel and style within each space, to create a distinct ambiance – from the lighting, music, rare specialty objects, and more. Because each one of our books not only tells a story but are also intricately made, we decided to convey that same attention-to-detail into our boutiques. Our goal is to welcome each customer with the unique Assouline experience, every time they visit.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "cc0afe7e-d551-4d29-9a9e-22c0aebc3ba2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/grid_ED_CH_v2.18_COLOMBEDOR_room_46091575-c789-4c2e-8ebb-88ef76e8ee80.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Where would be your favourite hotels in the world? Favourite restaurant?<br\/><\/strong>I hardly go back to the same places because I like to continue discovering new things over time, but here are some of my favorites:<\/p><p>· The Jade Mountain in St Lucia, the view is exceptional.<\/p><p>· La Colombe d’Or in France, as it holds a lot of wonderful childhood memories and it is the subject of our very first book.<\/p><p>· The Bemelmans Bar at the Carlyle Hotel in NY.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "c028d11c-2aff-49c2-ab8a-a25bc8203c16": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-3-1-700x1000-1.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Share brand or product details",
+        "text_block": "<p><strong>How would you define your style in interior design?<br\/><\/strong>Conceptual, post-modern with a lot of ethnic influences.<\/p><p><strong>An object that holds a particular place in your heart in your home?<br\/><\/strong>My collection of lion statues. My parents have been gifting me these small statues by a variety of different artists every birthday, since I was very young (my birthday is in late July). I even have an original sculpture made by Jean Cocteau and Jean Marais which was featured in Beauty and the Beast.<\/p><p><strong>Have you ever wanted to steal something in a hotel\/restaurant you’ve visited?<br\/><\/strong>Aside from the usual singular ashtrays in hotels, no. I like to leave things where they are, so it gives me an incentive to come back to see them.<\/p><p><strong>Favourite interior design address?<br\/><\/strong>The Marché Paul Bert Serpette at the Puces de Paris Saint-Ouen in Paris – it’s full of inspiration.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "ba76f9a6-306f-40ac-a89c-370e82db8d7f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/capri_flatA_Updated_4.23.19_2048x-1024x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Capri Dolce Vita",
+        "text_block": "<p>£70<\/p><p>Capri, a resort island dating back to the height of the Roman Empire, has long been an extraordinary destination full of ancient charm. Cherished by everyone from physician Axel Munthe, who recommended its clean air to his patients as a cure for bronchitis; to film director Jean-Luc Godard as the setting for his 1963 film Contempt; to literary icons, celebrities, poets, and the jet set, Capri boasts a rich Mediterranean spirit and style that encompasses a wealth of beauty, from gardens to villas to caves to the people walking in the lively Piazzetta, where cars are prohibited and the island’s playful attitude runs rampant. <em>Capri Dolce Vita<\/em> is a look at this fabled corner of the world through the ages and a celebration of paradise on earth.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "0b355ace-a82b-4802-afaf-47954eb4937c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Maison-Flaneur-Assouline6-1024x1022.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "The Assouline Travel Collection",
+        "text_block": "<p>£450<\/p><p>The ultimate collection of coffee table books - includes:<\/p><ul><li>Mykonos Muse<\/li><li>Athens Riviera<\/li><li>Palm Beach<\/li><li>Tulum Gypset<\/li><li>Capri Dolce Vita<\/li><li>St. Tropez Soleil<\/li><li>Turquoise Coast<\/li><\/ul>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "main",
+    "91c94ed6-3a42-4d8e-921c-77fc25a10241",
+    "cc0afe7e-d551-4d29-9a9e-22c0aebc3ba2",
+    "c028d11c-2aff-49c2-ab8a-a25bc8203c16",
+    "ba76f9a6-306f-40ac-a89c-370e82db8d7f",
+    "0b355ace-a82b-4802-afaf-47954eb4937c",
+    "blog-posts"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/paris-montmartre-sacre-coeur-flower-1440x961.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "large",
+        "subheading": "",
+        "page_title": "A 5 step guide on how to be a Flâneur x Semaine",
+        "title": "",
+        "text": "<p>As we previously mentioned in our article: <a href=\"https:\/\/www.maisonflaneur.com\/what-is-a-flaneur\/\">“But tell me what is a Flaneur?”<\/a> Charles Baudelaire first describes this attentive wanderer in his poetry collection Les Fleurs du mal, followed by a more concrete definition in his 1863 essay “The Painter of Modern Life”. Like famous flâneurs Jean Rhys or George Sand, you too can take to the streets. Unsure of how to start? Semaine thought about you and came up with a five-step guide.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/1fa16013-48aa-48be-8c9e-270b34539469-683x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><a href=\"https:\/\/www.semaine.com\/stories\/cafe-de-la-semaine\">Lauren Sarazen for Semaine<\/a> adds some fascinating insights: “We credit Walter Benjamin for the word’s lasting impact thanks to his analysis in The Arcades Project. In the 19th century, parting the crowds, flâneurs took to the city streets with leashed turtles and let their slow-moving pets set the pace. The Parisian “street becomes a dwelling place for the flâneur; he is as much at home among the facades of the houses as a citizen within his four walls,” Benjamin wrote. In the context of the Industrial Revolution, the figure of the flâneur and his leashed turtle was a radical act of defiance against a rapidly shifting world—a refusal to engage with society’s dictates.” Now that’s very very chic.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/27679e70-886c-48f0-9dd1-5d0a1ded185e-683x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>1. Idle Hours<\/strong><\/p><p>Set off without a set purpose. See what the city streets will reveal to you when you walk them with no set agenda.<\/p><p><strong>2. Airplane Mode <\/strong><\/p><p>Keep your phone in your pocket and your eyes on the horizon. If you must record your stroll, bring along a sketchbook instead.<\/p><p><strong>3. Opt for the Uncharted<\/strong><\/p><p>Move past the edges of your known territory. Take the winding street you’ve never walked before and walk freely through “the other side of town”.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "2911cb60-becd-4483-892b-111a5dbf9f3c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/8895a231-0bf2-4975-99a3-b6a6240bfd12-683x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>4. Go your own way <\/strong><\/p><p>Resist the urge to travel in packs; In order to tune into the secrets of the streets, you should leave your gang at home. But of course, there is no harm in penciling in a  group Apéro later to share your discoveries.<\/p><p><strong>5. Embrace the unusual <\/strong><\/p><p>Every budding Flâneur should learn to lean into the unexpected. Discover what piques your interest and follow it into the unknown.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "2911cb60-becd-4483-892b-111a5dbf9f3c",
+    "main",
+    "blog-posts"
+  ]
+}
