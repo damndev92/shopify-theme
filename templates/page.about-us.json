@@ -122,6 +122,28 @@
         "button_label": ""
       }
     },
+    "d5f4210d-71b3-4c43-b243-754b83431924": {
+      "type": "image--image",
+      "settings": {
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "26ce085c-2ac8-4c7d-8870-803dd5e42f03": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "International, curious and enthusiastic, we are always in search of unique interiors and in-depth stories that will tickle the fancy of our creative minds.",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0": {
       "type": "image--gallery",
       "blocks": {
@@ -172,6 +194,8 @@
     "f6a3cad9-346d-48ef-9b6a-3953133fbabb",
     "ee04ac75-aa4d-46e9-a2df-38f736ec7c60",
     "684132da-32f6-48bb-a2a5-193317cf476b",
+    "d5f4210d-71b3-4c43-b243-754b83431924",
+    "26ce085c-2ac8-4c7d-8870-803dd5e42f03",
     "9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0"
   ]
 }
