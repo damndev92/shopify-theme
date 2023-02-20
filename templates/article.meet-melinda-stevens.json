@@ -102,6 +102,19 @@
         "title": ""
       }
     },
+    "7d875765-0176-4899-9636-e400b18fd7e3": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><a href=\"https:\/\/www.maisonflaneur.com\/condenast-traveller-and-maison-flaneur\/\">Discover the Traveller’s shop. A unique partnership between Maison Flâneur and Conde Nast traveller here. <\/a><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -123,6 +136,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "a48bd472-7141-496a-ba39-f7a63cd7ada6",
+    "7d875765-0176-4899-9636-e400b18fd7e3",
     "blog-posts"
   ]
 }
