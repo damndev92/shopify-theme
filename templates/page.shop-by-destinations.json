@@ -155,6 +155,23 @@
         "hotel_page_url": false,
         "button_label": "Shop now"
       }
+    },
+    "d621fb73-de1a-4a9f-b7c4-4bca9038dca9": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/trunk.png",
+        "layout": "left",
+        "subheading": "Tokyo, japan",
+        "location": false,
+        "title": "Trunk Hotel",
+        "text_block": "<p>Japanese craftsmanship abounds inside this hip Tokyo hotel, where “Shibuya soul food” is served alongside upcycled furnishings and contemporary artworks.<\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/collections\/trunk-hotel",
+        "hotel_page_url": false,
+        "button_label": "Shop now"
+      }
     }
   },
   "order": [
@@ -167,6 +184,7 @@
     "cf80c04d-1851-411c-80b5-7558eafa7bcd",
     "384183d8-0673-4118-b673-86efa8667bc3",
     "0fcf515a-db78-489b-ae64-a8d30387f016",
-    "4ef94675-0a72-4759-9309-9c53bdf87c00"
+    "4ef94675-0a72-4759-9309-9c53bdf87c00",
+    "d621fb73-de1a-4a9f-b7c4-4bca9038dca9"
   ]
 }
