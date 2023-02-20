@@ -66,6 +66,10 @@
     "predictive_search_show_price": true,
     "animations_enabled": true,
     "checkout_logo_image": "shopify:\/\/shop_images\/master_secondary_RGB_983e04e2-3db9-415b-addf-4e99c6b760ba.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "small",
+    "checkout_accent_color": "#e28065",
+    "checkout_button_color": "#e28065",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
