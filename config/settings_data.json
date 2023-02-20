@@ -214,7 +214,7 @@
         "settings": {
           "show_methods_of_payment": true,
           "alignment": "center",
-          "enable_country_selector": false,
+          "enable_country_selector": true,
           "enable_locale_selector": false
         }
       }
