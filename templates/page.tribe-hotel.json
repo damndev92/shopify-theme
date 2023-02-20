@@ -189,6 +189,30 @@
           "settings": {
             "gallery_image": "shopify:\/\/shop_images\/g-11-tribe-hotel-min.jpg"
           }
+        },
+        "547796d1-2be1-4a68-a1d1-ad7fcf24b3d3": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-07-tribe-hotel.jpg"
+          }
+        },
+        "9a847fb6-adee-4a8c-9977-3693e4927f4c": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-09-tribe-hotel.jpg"
+          }
+        },
+        "c0df5842-d212-4af7-b3c4-85d8002af0cb": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-16-tribe-hotel.jpg"
+          }
+        },
+        "3b980a6a-30d1-4be0-9dc4-21590102af69": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-26-tribe-hotel.jpg"
+          }
         }
       },
       "block_order": [
@@ -200,7 +224,11 @@
         "f2d025c5-e266-4073-8029-f79070c185d6",
         "9a98c71a-96bd-4164-a8d6-3177ecad93ec",
         "fcf4e000-f5b6-4d80-a21b-116a37aea5d6",
-        "180d8c03-a298-4c7e-9f24-c6187ba2dead"
+        "180d8c03-a298-4c7e-9f24-c6187ba2dead",
+        "547796d1-2be1-4a68-a1d1-ad7fcf24b3d3",
+        "9a847fb6-adee-4a8c-9977-3693e4927f4c",
+        "c0df5842-d212-4af7-b3c4-85d8002af0cb",
+        "3b980a6a-30d1-4be0-9dc4-21590102af69"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_2_542b610e-5f28-467d-abaf-cf9373d83c90.png",
