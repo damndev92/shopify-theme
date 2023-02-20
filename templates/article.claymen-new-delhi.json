@@ -121,6 +121,23 @@
         "button_label": ""
       }
     },
+    "b8c9d5a4-164c-46f6-8fe0-90441ae032d0": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Right-angle-mug-Earth-1024x819.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Right-Angle Mug: Earth",
+        "text_block": "<p>£28<\/p><p>Single piece sculpture<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -144,6 +161,7 @@
     "18a9c5e3-b1c6-44f5-b4c4-430dc9ca86b7",
     "8efeaf7d-73c9-48e9-861a-dcfc22bada54",
     "251b9029-1991-4384-a2a0-4bc99b88ff6d",
+    "b8c9d5a4-164c-46f6-8fe0-90441ae032d0",
     "blog-posts"
   ]
 }
