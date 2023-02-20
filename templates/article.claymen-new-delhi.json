@@ -87,6 +87,23 @@
         "button_label": ""
       }
     },
+    "8efeaf7d-73c9-48e9-861a-dcfc22bada54": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Highbrow-planter-1024x819_a726e438-fea4-433b-b96f-2370b1f95c3f.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Highbrow Planter III",
+        "text_block": "<p>£212<\/p><p>Single piece sculpture<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -108,6 +125,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "18a9c5e3-b1c6-44f5-b4c4-430dc9ca86b7",
+    "8efeaf7d-73c9-48e9-861a-dcfc22bada54",
     "blog-posts"
   ]
 }
