@@ -44,7 +44,7 @@
     "buttons--font": "body",
     "buttons--capitalize": false,
     "cart-type": "drawer",
-    "cart-action": "cart",
+    "cart-action": "drawer",
     "allow_note": true,
     "enable_terms_conditions": false,
     "enable_store_pickup": false,
