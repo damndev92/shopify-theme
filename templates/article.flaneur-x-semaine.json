@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/8-benefits-of-traveling.webp",
+        "image": "shopify:\/\/shop_images\/paris-montmartre-sacre-coeur-flower-1440x961.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,11 +14,11 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "",
-        "page_title": "10 Instagram accounts you should be following",
+        "page_title": "A 5 step guide on how to be a Flâneur x Semaine",
         "title": "",
-        "text": "<p>In the vast world of Instagram we can find heaps of inspiration for interior design and home décor. Ever wondered who was behind Instagram’s most ethereal and aesthetically pleasing pages? Whether they’re artists, designers, art directors or photographers, these people manage some of the most well-curated profiles around. In no particular order, here are 10 Instagram accounts you should be following, let’s dive in!<\/p>",
+        "text": "<p>As we previously mentioned in our article: <a href=\"https:\/\/www.maisonflaneur.com\/what-is-a-flaneur\/\">“But tell me what is a Flaneur?”<\/a> Charles Baudelaire first describes this attentive wanderer in his poetry collection Les Fleurs du mal, followed by a more concrete definition in his 1863 essay “The Painter of Modern Life”. Like famous flâneurs Jean Rhys or George Sand, you too can take to the streets. Unsure of how to start? Semaine thought about you and came up with a five-step guide.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -28,12 +28,12 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/visual_vacay_cropped-819x1024.jpg",
+        "image": "shopify:\/\/shop_images\/1fa16013-48aa-48be-8c9e-270b34539469-683x1024.jpg",
         "layout": "right",
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>1. Visual Vacay (<\/strong><a href=\"https:\/\/www.instagram.com\/visual_vacay\/\"><strong>@visual_vacay<\/strong><\/a><strong>)<\/strong><\/p><p><a href=\"https:\/\/www.instagram.com\/michawissen\/\">Michaella Wissen<\/a>, 28, from Sweden but raised between the U.S. and Sweden. She works as a travel, lifestyle and fashion photographer.<\/p><p>“The best part about my job is meeting new people and experiencing new places. I was thrown into photography when I was 18. I was working at a production company and one day I was handed a camera and told to go shoot Rihanna’s concert in Stockholm. I had no idea what I was doing, but then and there I discovered I had an eye for capturing moments. A year later I moved to LA with my two girlfriends, we would pack our car full of clothes, drive up and down PCH and photograph each other, to then post on our blogs and Instagram. And from there it turned into a career, so it really was a passion that turned into a career.”<\/p><p><strong>How would you describe your aesthetic?<\/strong><\/p><p>The eclectic meets the minimalist. I’m inspired by so many different styles. I love collecting random vintage pieces, but I also really appreciate a clean space.<\/p>",
+        "text_block": "<p><a href=\"https:\/\/www.semaine.com\/stories\/cafe-de-la-semaine\">Lauren Sarazen for Semaine<\/a> adds some fascinating insights: “We credit Walter Benjamin for the word’s lasting impact thanks to his analysis in The Arcades Project. In the 19th century, parting the crowds, flâneurs took to the city streets with leashed turtles and let their slow-moving pets set the pace. The Parisian “street becomes a dwelling place for the flâneur; he is as much at home among the facades of the houses as a citizen within his four walls,” Benjamin wrote. In the context of the Industrial Revolution, the figure of the flâneur and his leashed turtle was a radical act of defiance against a rapidly shifting world—a refusal to engage with society’s dictates.” Now that’s very very chic.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -45,12 +45,12 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/bianca_nardo_cropped.png",
+        "image": "shopify:\/\/shop_images\/27679e70-886c-48f0-9dd1-5d0a1ded185e-683x1024.jpg",
         "layout": "left",
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>2. Bianca Nardo (<\/strong><a href=\"https:\/\/www.instagram.com\/biancanardo\/\"><strong>@biancanardo<\/strong><\/a><strong>)<\/strong><\/p><p>Bianca Nardo, 33, lives in Melbourne, Australia. She’s an Art Director at <a href=\"https:\/\/dateofbirth.com.au\/\">Date of Birth<\/a>, the design agency she owns with her fiancé John.<\/p><p> <\/p><p><strong>How would you describe your aesthetic?<\/strong><\/p><p>I think my aesthetic hangs heavy with the scent of nostalgia — timeless architecture, art, design and of course appreciation of the female form.<\/p>",
+        "text_block": "<p><strong>1. Idle Hours<\/strong><\/p><p>Set off without a set purpose. See what the city streets will reveal to you when you walk them with no set agenda.<\/p><p><strong>2. Airplane Mode <\/strong><\/p><p>Keep your phone in your pocket and your eyes on the horizon. If you must record your stroll, bring along a sketchbook instead.<\/p><p><strong>3. Opt for the Uncharted<\/strong><\/p><p>Move past the edges of your known territory. Take the winding street you’ve never walked before and walk freely through “the other side of town”.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -62,131 +62,12 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/pas_coe_cropped_instagram_article_list-820x1024.jpg",
+        "image": "shopify:\/\/shop_images\/8895a231-0bf2-4975-99a3-b6a6240bfd12-683x1024.jpg",
         "layout": "right",
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>3. PAS.COE (<\/strong><a href=\"https:\/\/www.instagram.com\/pas_coe\/\"><strong>@pas_coe<\/strong><\/a><strong>)<\/strong><\/p><p>Emma Pascoe is the London based creative behind PAS.COE. Her professional career spans across set design, styling, window displays, pop ups, events and interiors. The PAS.COE Instagram feed showcases the interiors, architects and designers that inspire and influence Emma.<\/p><p> <\/p><p><strong>How would you describe your aesthetic?<\/strong><\/p><p>PAS.COE’s aesthetic is understated, timeless and authentic. With a focus on mid-century modern and Belgian influences.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "ecea8299-9e3f-45e1-8a9b-b66d2062614b": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/mouse_interiors-819x1024.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "",
-        "text_block": "<p><strong>4. Mouse Interiors (<\/strong><a href=\"https:\/\/www.instagram.com\/mouse_interiors\/\"><strong>@mouse_interiors<\/strong><\/a><strong>)<\/strong><\/p><p>Tanya Chancellor, works as an accessory designer, after having worked in fashion for over 10 years for brands such as Paul Smith, Coach, Rag & Bone, and Globe-Trotter to name a few. This year she decided to explore her passion in interior design further and enrolled in an online course from KLC School in Chelsea, London. As it’s very in-depth and technical Tanya started <a href=\"https:\/\/www.instagram.com\/mouse_interiors\/\">Mouse Interiors<\/a> as a way to keep her inspired and figure out her style.<\/p><p>“It’s a visual reference library of all the designers, styles, craftsmen, furniture, antique stores and artists that I’m learning about and love. Every single image sparks some sort of excitement in me!”<\/p><p><strong>How would you describe your aesthetic?<\/strong><\/p><p>I’m still developing my aesthetic, and it’s fun to see how Mouse evolves. Right now, it’s Californian, Mid Century mixed with some European quirkiness. I love interiors to be a perfect blend of natural textures and materials, but with playful elements whether that be pops of colour, a fun chair or giant oversized art.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "e686a9f6-0990-4a10-8b95-ec5be37f317b": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/95561348_327584451539832_2431292597883612655_n-819x1024.jpg",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "",
-        "text_block": "<p><strong>5. Patria Maree Design (<\/strong><a href=\"https:\/\/www.instagram.com\/patriamareedesign\/\"><strong>@patriamareedesign<\/strong><\/a><strong>)<\/strong><\/p><p>Patria Maree, 26, Interior and Furniture Designer.<\/p><p> <\/p><p><strong>How would you describe your aesthetic?<\/strong><\/p><p>Simple designs detailed by natural elements and textures.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "b34c487e-d34e-4607-80cc-ab4a78d9a78a": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/charlotte-rey-732x1024.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "",
-        "text_block": "<p><strong>6. Charlotte Rey (<\/strong><a href=\"https:\/\/www.instagram.com\/charlotterey\/\"><strong>@charlotterey<\/strong><\/a><strong>)<\/strong><\/p><p>Charlotte Rey, Swedish designer and creative director, co-founder of interior and design studio <a href=\"http:\/\/campbell-rey.com\/\">Campbell Rey<\/a> that she runs with her creative partner Duncan Campbell out of London. <\/p><p><\/p><p><strong>How would you describe your aesthetic?<\/strong><\/p><p>On the one hand, I am a terrible romantic, and would nostalgically hang a hand-loomed, powder peach, Florentine damask next to a Gustavian pale walnut burr chest, but on the other hand, I’m also a little punk at heart, who loves a juxtaposition. So I’d pair that with something conceptual and futuristic, like a Sabine Marcelis candy cube or a neon artwork by Dan Flavin. (…) There are things that I love such as how Mexican architect Luis Barragán informs his stark architectural forms with an exuberant fuchsia palette or (…) an eccentric great style of L’Oeil magazine editor Rosamond Bernier. I appreciate the craftsmanship combined with the irreverence of (…) jeweller Joel Arthur Rosenthal, who makes a diamond brooch that looks like a twisted orange peel. (…) I also love the verdant and lush atmosphere of Palacío de Monserrate in Sintra, and the proud but doomed splendour of a film like Visconti’s <em>Il Gattopardo<\/em>. All that amalgamated with the playfulness and surrealism of Carsten Höller’s Upside Down Mushroom Room artwork at the Prada Fondazione and my aesthetic probably lands somewhere bang in the middle. <\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "4eeadd32-9530-4f63-a3d0-456b3fc14d15": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/main.edition-819x1024.jpg",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "",
-        "text_block": "<p><strong>7. Main Edition (<\/strong><a href=\"https:\/\/www.instagram.com\/main.edition\/\"><strong>@main.edition<\/strong><\/a><strong>)<\/strong><\/p><p>Victoire, founded Main Edition in 2016 when moving from Paris to Lisbon.<\/p><p>“I focus on everything hand-made ‘fait-main’. I am a ceramist myself, creating objects, dishes and unique ceramic hands. I am also an art director working on private houses and hospitality projects.”<\/p><p><strong>How would you describe your aesthetic?<\/strong><\/p><p>My aesthetic comes from everything that catches my eyes. I would say eclectic with a bit of mystic : I give symbolic meaning to everything I make. An object is made to shine, to provide luck, to give hope, to share love.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "040e1bd2-08ad-4b4e-ba72-2e573d8c4d67": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/white_sage_croppped_instagram_list_xanthea-819x1024.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "",
-        "text_block": "<p><strong>8. White Sage (<\/strong><a href=\"https:\/\/www.instagram.com\/white__sage\/\"><strong>@white__sage<\/strong><\/a><strong>)<\/strong><\/p><p>Xanthea Riordan, lives in Melbourne, Australia. She has a background in Interior Design and is currently focusing on making her project White Sage through a website and smaller explorations.<\/p><p><strong>How would you describe your aesthetic?<\/strong><\/p><p>My aesthetic is calm and purposeful. White walls with sun streaming in, a timber accent somewhere in the room (be it chair or window sill), and something curved to add a quirk.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "155e9198-2bde-4750-aafb-758d422ad632": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/hermust_cropped_instagram_article_interior-819x1024.jpg",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "",
-        "text_block": "<p><strong>9. Her Must (<\/strong><a href=\"https:\/\/www.instagram.com\/her.must\/\"><strong>@her.must<\/strong><\/a><strong>)<\/strong><\/p><p>Jessica Metni, 30, Artist and Photographer. Her passions are photography, Interior Design and Vintage finds. She couldn’t live without her Frenchies, beautiful decor or her camera.<\/p><p><\/p><p><strong>How would you describe your aesthetic?<\/strong><\/p><p>\"I would probably define my aesthetic as a mix of French European classics with a soft touch of a unique and artistic Italian design. I love furniture, textures and shapes, accents and the details of great architecture, making my love for Visual spaces ever so strong. My heartfelt devotions for any form of Art forces me to add sculptures, paintings or any details to my decor in order to feel visually satisfied when decorating.  I love to keep my aesthetics simple, elegant but effortless. I don’t use too many colours usually. I keep things rather neutral but use colours seasonally depending on my mood to structure my emotions.  One thing I would say that defines me the most is my ongoing need to move furniture around and redecorate to recreate my inner space. I love redesigning the angles, relocating my energy and giving a new mood to my rooms.\"<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "142d5424-4d19-4b19-8e8e-84cb3cf0f9d2": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/all-the-rest-cropped-820x1024.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "",
-        "text_block": "<p><strong>10. All The Rest (<\/strong><a href=\"https:\/\/www.instagram.com\/alltherest_\/\"><strong>@alltherest_<\/strong><\/a><strong>)<\/strong><\/p><p>Hannah Covacic, works as an apparel designer and has been in the industry for over 13 years. She has worked both in London and in the U.S. for brands such as Nike, Gap and New Balance.<\/p><p>“A big part of design is creating the ‘mood’ and as Instagram is like a giant mood board, I started ‘<a href=\"https:\/\/www.instagram.com\/alltherest_\/\">All The Rest<\/a>‘ to build a dream ‘R&R’ lifestyle and to inspire others with what we have to look forward to when we get back outside”<\/p><p><strong>How would you describe your aesthetic?<\/strong><\/p><p>My time on the West Coast and especially in California has definitely influenced me. I love outdoors, indoors vibes, being near the sea, the sunshine and being warm. I like things to feel luxurious but comfy. My husband and I are huge collectors of old stuff and have lots of vintage industrial furniture, old wooden pieces and vintage blankets and textiles. So I seem to seek out big, clean spaces that are light and airy, perfect for filling with things! I’d say my aesthetic is Relaxed, Vintage, California Cool.<\/p>",
+        "text_block": "<p><strong>4. Go your own way <\/strong><\/p><p>Resist the urge to travel in packs; In order to tune into the secrets of the streets, you should leave your gang at home. But of course, there is no harm in penciling in a  group Apéro later to share your discoveries.<\/p><p><strong>5. Embrace the unusual <\/strong><\/p><p>Every budding Flâneur should learn to lean into the unexpected. Discover what piques your interest and follow it into the unknown.<\/p><p><\/p><p><\/p><p><\/p><p><\/p><p>.<\/p><p><a href=\"https:\/\/www.semaine.com\/stories\/cafe-de-la-semaine\">To read more about the café, visit their Semaine here.<\/a><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/cafe-de-la-semaine\/\">To see the full Semaine collection click here.<\/a><\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -226,13 +107,6 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "2911cb60-becd-4483-892b-111a5dbf9f3c",
-    "ecea8299-9e3f-45e1-8a9b-b66d2062614b",
-    "e686a9f6-0990-4a10-8b95-ec5be37f317b",
-    "b34c487e-d34e-4607-80cc-ab4a78d9a78a",
-    "4eeadd32-9530-4f63-a3d0-456b3fc14d15",
-    "040e1bd2-08ad-4b4e-ba72-2e573d8c4d67",
-    "155e9198-2bde-4750-aafb-758d422ad632",
-    "142d5424-4d19-4b19-8e8e-84cb3cf0f9d2",
     "main",
     "blog-posts"
   ]
