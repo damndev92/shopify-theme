@@ -138,6 +138,23 @@
         "button_label": ""
       }
     },
+    "0b355ace-a82b-4802-afaf-47954eb4937c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Maison-Flaneur-Assouline6-1024x1022.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "The Assouline Travel Collection",
+        "text_block": "<p>£450<\/p><p>The ultimate collection of coffee table books - includes:<\/p><ul><li>Mykonos Muse<\/li><li>Athens Riviera<\/li><li>Palm Beach<\/li><li>Tulum Gypset<\/li><li>Capri Dolce Vita<\/li><li>St. Tropez Soleil<\/li><li>Turquoise Coast<\/li><\/ul>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -162,6 +179,7 @@
     "cc0afe7e-d551-4d29-9a9e-22c0aebc3ba2",
     "c028d11c-2aff-49c2-ab8a-a25bc8203c16",
     "ba76f9a6-306f-40ac-a89c-370e82db8d7f",
+    "0b355ace-a82b-4802-afaf-47954eb4937c",
     "blog-posts"
   ]
 }
