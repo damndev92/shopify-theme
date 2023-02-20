@@ -189,6 +189,12 @@
           "settings": {
             "gallery_image": "shopify:\/\/shop_images\/g-16-hotel-pacai_1.jpg"
           }
+        },
+        "81424041-613c-4f8e-9129-42d12f610612": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-23-hotel-pacai_1.jpg"
+          }
         }
       },
       "block_order": [
@@ -200,7 +206,8 @@
         "034bb762-070c-4543-92ee-52d10d8954e6",
         "7630e07b-4920-4941-b521-9b735bedf9bc",
         "6ecc118a-1fae-4d6c-819e-9ff1d59dc37b",
-        "2662ef95-463b-4c40-9a96-a6a2c2c7e56b"
+        "2662ef95-463b-4c40-9a96-a6a2c2c7e56b",
+        "81424041-613c-4f8e-9129-42d12f610612"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_bd59a0f9-c862-4956-b8cc-d3eb82c653f0.png",
