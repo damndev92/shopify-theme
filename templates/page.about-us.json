@@ -27,11 +27,11 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
-        "page_title": "Our Vision",
+        "page_title": "Our vision",
         "title": "",
         "text": "<p>At Maison Flâneur we leverage the minds of world-class architects, interior designers, hoteliers and their local communities to bring our audience a unique and personal approach to homeware. <br\/><br\/>We pride ourselves in showcasing the very best homeware from all over the world including far-flung and off-the-radar destinations.<\/p><p><br\/>As travellers, we strive to find authentic locations, and as consumers, we want to create meaningful relationships with the things we buy. We want to put homeware back in the context of the cultures and trends that shape the world we live in. <\/p>",
-        "button_link": "shopify:\/\/collections\/new-in",
-        "button_label": "Shop now"
+        "button_link": "",
+        "button_label": ""
       }
     },
     "f6a3cad9-346d-48ef-9b6a-3953133fbabb": {
@@ -117,7 +117,7 @@
         "subheading": "",
         "page_title": "",
         "title": "Our Collection",
-        "text": "<p>There are two parts to building our Maison Flaâneur collection.<\/p><p><br\/>The first is seeking out exquisite, design-centric hotels and restaurants, with which we partner to curate beautifully designed homeware objects. <br\/><\/p><p>The second is bringing together a unique collection of independent brands from a global network of resources. <br\/><br\/><\/p><p>Each suggests a lifetime of travel, it’s this that makes our collection unconventional and unique. We are the first marketplace to give our audience the possibility of curating their home based on the country's unique interior style, this is brought to life with our shop-by-destination feature. Every object evokes its own soulful and eclectic story; you may very well find a hand-woven Berber rug set beside a Barcelona chair. <\/p>",
+        "text": "<p>There are two parts to building our Maison Flaâneur collection.<\/p><p><br\/>The first is seeking out exquisite, design-centric hotels and restaurants, with which we partner to curate beautifully designed homeware objects. <br\/><br\/><\/p><p>The second is bringing together a unique collection of independent brands from a global network of resources. <br\/><br\/><\/p><p>Each suggests a lifetime of travel, it’s this that makes our collection unconventional and unique. We are the first marketplace to give our audience the possibility of curating their home based on the country's unique interior style, this is brought to life with our shop-by-destination feature. <br\/><br\/>Every object evokes its own soulful and eclectic story; you may very well find a hand-woven Berber rug set beside a Barcelona chair. <\/p>",
         "button_link": "",
         "button_label": ""
       }
