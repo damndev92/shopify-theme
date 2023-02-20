@@ -6,10 +6,10 @@
         "image--slideshow-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/platera_Homepage.png",
+            "image": "shopify:\/\/shop_images\/2_eba0952a-e7bb-4f09-870e-ed48b4f03b8d.png",
             "subheading": "",
-            "title": "The great outdoors",
-            "text": "Bringing the outdoors indoors with our latest edit",
+            "title": "",
+            "text": "",
             "button_text": "Shop Now",
             "link": "shopify:\/\/collections\/all",
             "caption-background": "rgba(0,0,0,0)",
@@ -24,12 +24,12 @@
         "8c2ca3b1-ed75-4dd0-9b32-15c97f5a1ffe": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/GeorgestoreTheShop-14-1-686x1024.jpg",
-            "subheading": "TEST",
-            "title": "Share your story",
-            "text": "Here's your chance to make a great first impression",
-            "button_text": "TEST",
-            "link": "shopify:\/\/collections\/amuse-la-bouche",
+            "image": "shopify:\/\/shop_images\/1_d86e698a-0611-4e18-a1e6-e3fbc559d5ca.png",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_text": "",
+            "link": "shopify:\/\/pages\/villa-lena",
             "caption-background": "rgba(0,0,0,0)",
             "caption-text": "#ffffff",
             "button-text": "#ffffff",
