@@ -339,6 +339,39 @@
         "subheading": "",
         "title": ""
       }
+    },
+    "765a6418-71e8-40ec-a23e-03b3f74afff9": {
+      "type": "collection--collection-list",
+      "blocks": {
+        "template--17643498701115__765a6418-71e8-40ec-a23e-03b3f74afff9-167692483338ec4965-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "viso-project"
+          }
+        },
+        "template--17643498701115__765a6418-71e8-40ec-a23e-03b3f74afff9-167692483338ec4965-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--17643498701115__765a6418-71e8-40ec-a23e-03b3f74afff9-167692483338ec4965-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17643498701115__765a6418-71e8-40ec-a23e-03b3f74afff9-167692483338ec4965-0",
+        "template--17643498701115__765a6418-71e8-40ec-a23e-03b3f74afff9-167692483338ec4965-1",
+        "template--17643498701115__765a6418-71e8-40ec-a23e-03b3f74afff9-167692483338ec4965-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
     }
   },
   "order": [
@@ -352,6 +385,7 @@
     "92bf33bb-8d3c-4421-bf59-bddff90673e7",
     "2759f9df-e928-482a-9ee7-9d043712e2ed",
     "015211d4-fcc1-4375-8265-fcab3d08c9ec",
-    "b4db70d9-3f6f-4792-b4d5-b1d0294923dd"
+    "b4db70d9-3f6f-4792-b4d5-b1d0294923dd",
+    "765a6418-71e8-40ec-a23e-03b3f74afff9"
   ]
 }
