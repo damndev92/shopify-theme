@@ -70,6 +70,23 @@
         "show_recent_posts": false
       }
     },
+    "5fcf0138-c49e-4d25-a665-de44e166423e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/13-1024x1024-1.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "3. Sunset Drink at:",
+        "text_block": "<p><a href=\"https:\/\/java.superbexperience.com\/\">Javá<\/a><\/p><p>Praça Dom Luis I 30, 1200-225 Lisbon<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -90,6 +107,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "5fcf0138-c49e-4d25-a665-de44e166423e",
     "blog-posts"
   ]
 }
