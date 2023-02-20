@@ -104,6 +104,23 @@
         "button_label": ""
       }
     },
+    "d4376ad9-02eb-4c84-8b3d-246448063145": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Prado-1024x1024-1.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "5. With Friends at:",
+        "text_block": "<p><a href=\"https:\/\/pradorestaurante.com\/\">Prado<\/a><\/p><p>Pedras Negras 2, 1100-404 Lisbon<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -126,6 +143,7 @@
     "main",
     "5fcf0138-c49e-4d25-a665-de44e166423e",
     "3e820763-99e9-41b8-9f48-a7826db3d94d",
+    "d4376ad9-02eb-4c84-8b3d-246448063145",
     "blog-posts"
   ]
 }
