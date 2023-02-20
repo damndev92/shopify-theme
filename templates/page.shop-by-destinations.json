@@ -99,18 +99,53 @@
         "title": ""
       }
     },
-    "ead30b73-2c78-4aae-bdff-a922e308b09b": {
-      "type": "image--image-with-text-block",
-      "disabled": true,
+    "384183d8-0673-4118-b673-86efa8667bc3": {
+      "type": "text--image-with-text",
       "settings": {
-        "parallax": true,
-        "text-color": "#000000",
-        "background-color": "#ffffff",
-        "horizontal-alignment": "center",
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2018-11-14-at-17.28.28-copy-1024x576.png",
+        "layout": "left",
+        "subheading": "Crete, Greece",
+        "location": false,
+        "title": "Cretan Malia Park",
+        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/collections\/cretan-malia",
+        "hotel_page_url": false,
+        "button_label": "Shop now"
+      }
+    },
+    "d0ee3d2e-32cd-489e-8669-759b0620388e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/10-SINNER_Restaurant_16___Guillaume_de_Laubier-1024x683.jpg",
+        "layout": "left",
         "subheading": "",
-        "title": "Share your story",
-        "text": "Here's your chance to make a great first impression",
+        "location": false,
+        "title": "Share brand or product details",
+        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "7a78f485-7b56-4c85-87d4-899c958e904d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Share brand or product details",
+        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     }
@@ -120,6 +155,8 @@
     "main",
     "6bb64512-b0f4-470f-a831-da34d529ebce",
     "07d9e5bd-58c8-4fd8-9347-02901b98324b",
-    "ead30b73-2c78-4aae-bdff-a922e308b09b"
+    "384183d8-0673-4118-b673-86efa8667bc3",
+    "d0ee3d2e-32cd-489e-8669-759b0620388e",
+    "7a78f485-7b56-4c85-87d4-899c958e904d"
   ]
 }
