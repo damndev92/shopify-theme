@@ -90,26 +90,14 @@
         "text-over-image-width": "full-width"
       }
     },
-    "4f970f7b-9499-4198-a098-f1a3f90c13f4": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--18061253345595__4f970f7b-9499-4198-a098-f1a3f90c13f4-16769017829e199dab-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Maison-Flaneur-Twelve-Senses2.png",
-            "link": "",
-            "title": "",
-            "description": "<p><strong>Six unique home furnishing ideas from the Twelve Senses Retreat, Encinitas, that Maison Flâneur recommends: <\/strong><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18061253345595__4f970f7b-9499-4198-a098-f1a3f90c13f4-16769017829e199dab-2"
-      ],
+    "7d332de4-3721-4369-9553-48a2eb68cd4f": {
+      "type": "image--image",
       "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
+        "image": "shopify:\/\/shop_images\/Maison-Flaneur-Twelve-Senses2.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
       }
     },
     "ef8e1850-a3ae-4317-bb72-98e46ce63fe3": {
@@ -176,7 +164,7 @@
     "main",
     "5a211e97-af85-4303-9c9a-4255a6c15c17",
     "51204105-063d-4432-93f3-5fa77486b62b",
-    "4f970f7b-9499-4198-a098-f1a3f90c13f4",
+    "7d332de4-3721-4369-9553-48a2eb68cd4f",
     "ef8e1850-a3ae-4317-bb72-98e46ce63fe3",
     "blog-posts"
   ]
