@@ -80,6 +80,23 @@
         "show_recent_posts": false
       }
     },
+    "0c0fb625-22ce-47d5-ac23-865fa0a1ae75": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Navy-Ric-Rac-1-1024x1024_1ea5215d-c836-4377-8080-b68aeb32fb97.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Navy Ric Rac Lampshade",
+        "text_block": "<p>From£120<\/p><p><\/p><p>A box pleat calico lampshade with a double navy ric rac trim and navy ric rac heading. sizes refer to the bottom diameter of the shade - see product dimensions for more details.<\/p><p>*Lampbase is not included<\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -101,6 +118,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "0c0fb625-22ce-47d5-ac23-865fa0a1ae75",
     "blog-posts"
   ]
 }
