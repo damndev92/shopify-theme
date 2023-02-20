@@ -46,15 +46,15 @@
         "colors": "white",
         "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>If you could stay in one hotel in the world today?<\/strong><br\/>Villa Feltrinelli, anywhere in Tulum, a tent in the Masai Mara……<\/p><p><strong>If you could eat at one restaurant in the world today?<\/strong><br\/>I’d quite like to go to my local pub, frankly, the Angelsea in Shepherds Bush, out on the pavement with the sun shining and a pint of cider<\/p><p><strong>Favourite address for decoration in London\/ in the world?<\/strong><br\/>All the shops along the Goldborne Road\/Creel and Gow in Manhattan<\/p><p><strong>How do you think this pandemic will influence the way we travel?<\/strong><br\/>Hopefully, more thoughtfully, more meaningfully…<\/p><p><strong>A message for people at home?<\/strong><br\/>Relish the small<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
