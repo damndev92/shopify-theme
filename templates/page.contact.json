@@ -1,17 +1,12 @@
 {
   "sections": {
-    "image-with-text-block": {
-      "type": "image--image-with-text-block",
+    "1cf18c03-e081-4840-9a84-89b107b28b4e": {
+      "type": "image--image",
       "settings": {
         "parallax": true,
-        "text-color": "#656565",
-        "background-color": "#f3f3f3",
-        "horizontal-alignment": "center",
-        "subheading": "",
-        "title": "CONTACT US",
-        "text": "We would love to hear from you",
-        "button_link": "",
-        "button_label": ""
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
       }
     },
     "main": {
@@ -96,14 +91,28 @@
         "title": "Join our Mailing List",
         "newsletter_description": ""
       }
+    },
+    "4d452cd3-0491-4a79-99e3-cd85b8a7c528": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "Press enquiries",
+        "text": "<p>Please email brands@maisonflanuer.com<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
     }
   },
   "order": [
-    "image-with-text-block",
+    "1cf18c03-e081-4840-9a84-89b107b28b4e",
     "main",
     "accordion",
     "rich-text",
     "social-media-icons",
-    "newsletter"
+    "newsletter",
+    "4d452cd3-0491-4a79-99e3-cd85b8a7c528"
   ]
 }
