@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/rustic-vegan-1561507-unsplash-1024x674.jpg",
+        "image": "shopify:\/\/shop_images\/in-the-study-of-this-stunning-modern-cabin-by-murdough-design-corner-windows-give-the-home-office-a-tree-house-feel-with-views-of-the-lush-surrounding-canopy-and-lake.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,119 +14,81 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "",
-        "page_title": "How to get the most out of your open plan kitchen?",
+        "page_title": "How to add home accessories to your home office?",
         "title": "",
-        "text": "<p>Open plan kitchens are a homeowner’s dream – they’re great spaces to cook, entertain and welcome guests in, whether combined with a dining room or living room. But when it comes to open plan room ideas, it can be hard to strike the right balance between looking good and being functional. To help you get the most out of your open plan kitchen, we’ve compiled our best design ideas below.<\/p>",
+        "text": "<p><a href=\"https:\/\/www.maisonflaneur.com\/how-to-design-the-perfect-home-office\/\">Home offices <\/a>are a great idea for anyone needing a designated room from which to work–whether you run a business from home, or like to take days out of the office. But getting the right home accessories in your office space can be tricky. Too many, and your home office might become a distraction. But too few runs the risk of leaving you with a stark, uninviting room that makes getting down to business lose its appeal. If you’re looking for home office ideas, here’s our advice for how to add home accessories to your home office, whatever your end goal.<\/p>",
         "button_link": "",
         "button_label": ""
       }
     },
-    "c127f11a-1e80-483f-b89c-599a11dcb46c": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17851487387963__c127f11a-1e80-483f-b89c-599a11dcb46c-1675342370c1451a6a-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/OpenKitchen3.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p><strong>1. Zone your spaces<\/strong><\/p><p>Even in an intentionally open-plan space, subtly zoning your room into specific areas can make living easier. After all, you don’t want guests to feel like they’re only ever stood in your kitchen. An easy and affordable open plan room idea is to use home accessories to do the dividing for you, like rugs and strategically placed lights. Pendant lights above a breakfast bar or dining table will create a barely-there barrier between one space and the next, making each area feel cozier and more inviting. <a href=\"https:\/\/www.maisonflaneur.com\/product\/jam-jar-pendant-light-antique-silver\/\">Jamjar pendant lights<\/a>, or a <a href=\"https:\/\/www.maisonflaneur.com\/product\/navy-ric-rac\/\">triple navy ric rac pendant light<\/a>, will stand out without overpowering your look. While a <a href=\"https:\/\/www.maisonflaneur.com\/product\/multicolored-beni-ourain-rug-ayat\/\">large handwoven rug<\/a> under your dining table, or <a href=\"https:\/\/www.maisonflaneur.com\/product\/palmeras-table-runner\/\">long, handmade runner<\/a> in your kitchen, will have the same effect.<\/p><p><strong>2. Get your seating right<\/strong><\/p><p>Having seating options in each area of your open plan kitchen will make sure that there’s space to linger, ensuring that all the different elements of your room are inviting and useable. In your dining space, pick comfy, chic dining chairs, like these <a href=\"https:\/\/www.maisonflaneur.com\/product\/bentwood-bistro-chair-218-p\/\">bentwood dining chairs<\/a> or <a href=\"https:\/\/www.maisonflaneur.com\/product\/bentwood-chair-209m\/\">white wooden dining chairs<\/a> – sticking to subtler shades will be less distracting to the eye. And for your breakfast bar or kitchen island, pick higher seats, like on-trend <a href=\"https:\/\/www.maisonflaneur.com\/product\/pelleossa-stool\/\">wooden bar stools<\/a>.<\/p>"
-          }
-        },
-        "template--17851487387963__c127f11a-1e80-483f-b89c-599a11dcb46c-1675342370c1451a6a-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/OpenKitchen2.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p><strong>3. Keep it neat<\/strong><\/p><p>When mapping out your open plan room ideas, remember: you can never have enough storage. An open plan kitchen dining room will be a space to welcome guests and relax with family, and visible clutter and mess can ruin the ambience. Invest in stylish storage pieces – they’ll add form to your room, as well as function. A <a href=\"https:\/\/www.maisonflaneur.com\/product\/sandra-woven-palm-bowl\/\">porcelain serving platter <\/a>makes great open plan kitchen addition, while a well-positioned <a href=\"https:\/\/www.maisonflaneur.com\/product\/t-square-shelf-marble\/\">marble shelf<\/a> will give you extra space for storing trinkets that’s out of your immediate eye line. <\/p><p><strong>4. Make it personal<\/strong><\/p><p>Just because an open plan kitchen is a grand space, doesn’t mean you should keep it like a show home. A lived-in look is much more appealing, and will make your room one that you want to spend time in. Achieve a welcoming look, without creating clutter, by adding a few finishing touches that showcase your style and personality. Try unusual storage containers, or decorate plain walls and surfaces with objets d’art. A <a href=\"https:\/\/www.maisonflaneur.com\/product\/eku-elephant-plate\/\">decorative wall plate<\/a> or <a href=\"https:\/\/www.maisonflaneur.com\/product\/blown-away\/\">indian head ornament<\/a> are a tasteful touch.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17851487387963__c127f11a-1e80-483f-b89c-599a11dcb46c-1675342370c1451a6a-1",
-        "template--17851487387963__c127f11a-1e80-483f-b89c-599a11dcb46c-1675342370c1451a6a-2"
-      ],
+    "b2d6713f-e6eb-4df2-b091-3263690aa324": {
+      "type": "text--image-with-text",
       "settings": {
         "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/1-731x1024.png",
+        "layout": "left",
         "subheading": "",
-        "title": ""
+        "location": false,
+        "title": "Choose home office accessories with a purpose",
+        "text_block": "<p>The easiest way to avoid cluttering your home office is to pick home accessories that add function as well as form. And anything that will increase your productivity is a good home office idea, from a <a href=\"https:\/\/www.maisonflaneur.com\/product\/tivoli-clock-radio-one-cherry-silver\/\">designer clock radio<\/a>, to a <a href=\"https:\/\/www.maisonflaneur.com\/product\/grey-peggy-table-lamp\/\">statement table lamp<\/a> that will brighten darker evenings. But think outside of the typical, too. If you’re likely to head to meetings straight from your home office, a <a href=\"https:\/\/www.maisonflaneur.com\/product\/large-hammered-brass-metal-wall-mirror\/\">large brass wall mirror<\/a> will keep your office space feeling light and bright, while also providing somewhere to check your hair before you leave.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
       }
     },
-    "55d56975-1ef9-459d-ae27-5ece34aaa6bd": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Navy-Ric-Rac-1-1024x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Navy Ric Rac Lampshade<\/p><p>From £120<\/p>"
-          }
-        },
-        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/iconic-chairs-article-pics-6-1024x1024.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Palmeras Table Runner<\/p><p>£63<\/p>"
-          }
-        },
-        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/iconic-chairs-article-pics-2-1024x1024.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Pelleossa Stool – Oak<\/p><p>From £731<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-0",
-        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-1",
-        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-2"
-      ],
+    "2bf882bb-9f15-4e1c-a48e-82a6153ce14e": {
+      "type": "text--image-with-text",
       "settings": {
         "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/2-731x1024.png",
+        "layout": "right",
         "subheading": "",
-        "title": ""
+        "location": false,
+        "title": "Pick home accessories that help you work smarter",
+        "text_block": "<p>Obviously, your home office design needs to support your day-to-day work needs. So another practical home office idea is to choose home accessories with organisation in mind. A pen pot is a must – opt for a traditional style, or switch it up and choose a <a href=\"https:\/\/www.maisonflaneur.com\/product\/blue-handblown-murrine-italian-glass\/\">murrine glass tumbler<\/a> for a look that’s unique yet chic. Trays and <a href=\"https:\/\/www.maisonflaneur.com\/product\/forest-green-alchemille-leaf-plate-stoneware\/\">unusual stoneware plates<\/a> work well for keeping desk keys, sharpeners and paperclips tidy. Or choose a <a href=\"https:\/\/www.maisonflaneur.com\/product\/large-tiled-vintage-moroccan-cabinet\/\">statement tiled cabinet<\/a>, with plenty of drawers, if you need extra storage space.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
       }
     },
-    "7e7a6d4e-dd49-49e0-8269-b59b345cfb8a": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17851487387963__7e7a6d4e-dd49-49e0-8269-b59b345cfb8a-1675342370c1451a6a-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/OPenKitchen5.jpg",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17851487387963__7e7a6d4e-dd49-49e0-8269-b59b345cfb8a-1675342370c1451a6a-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/OpenKitchen7.jpg",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17851487387963__7e7a6d4e-dd49-49e0-8269-b59b345cfb8a-1675342370c1451a6a-1",
-        "template--17851487387963__7e7a6d4e-dd49-49e0-8269-b59b345cfb8a-1675342370c1451a6a-2"
-      ],
+    "2471b72c-81ef-430f-86b7-d348f1ea0bcf": {
+      "type": "text--image-with-text",
       "settings": {
         "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/4-731x1024.png",
+        "layout": "left",
         "subheading": "",
-        "title": ""
+        "location": false,
+        "title": "Use home accessories to add warmth",
+        "text_block": "<p>While most home accessories will help turn your home office into a room you want to spend time in, cosier pieces like <a href=\"https:\/\/www.maisonflaneur.com\/product\/multicolored-boucherouite-rug-maryam\/\">handmade rugs<\/a> and throws add an inviting warmth, creating a space that’s easier to work from. For added zen, a <a href=\"https:\/\/www.maisonflaneur.com\/product\/glass-and-brass-moroccan-vase-candle-holder\/\">candle holder vase<\/a> or <a href=\"https:\/\/www.maisonflaneur.com\/product\/maison-la-bougie-cactus-scented-candle\/\">calming scented candle<\/a> will help hone your home office’s ambience as well as its aesthetic.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "bdec1485-55b5-4574-a110-585260cdf1ff": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/3-731x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Add home accessories in motivational colours",
+        "text_block": "<p>As every good interior designer, and psychologist, knows– when it comes to setting the mood, colour is key.Blue’s the colour of efficiency and communication, so a well-chosen<a href=\"https:\/\/www.maisonflaneur.com\/product\/charcoal-moor-blanket\/\">blue wool throw<\/a>is sure to keep your productivity on track. And green is a colour that provides balance, so a<a href=\"https:\/\/www.maisonflaneur.com\/product\/green-handwoven-cotton-moroccan-throw\/\">handwoven green throw<\/a>will keep your mind mellow during the working day. If you’re not sure which colour to hero, all brighter colours will serve to lift your spirits after a few hours at your desk– so this<a href=\"https:\/\/www.maisonflaneur.com\/product\/multicolored-boucherouite-rug-amelle\/\">pink and blue rug<\/a>, or any brightly patterned piece, is sure to keep you motivated.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
       }
     },
     "main": {
@@ -159,9 +121,10 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "c127f11a-1e80-483f-b89c-599a11dcb46c",
-    "55d56975-1ef9-459d-ae27-5ece34aaa6bd",
-    "7e7a6d4e-dd49-49e0-8269-b59b345cfb8a",
+    "b2d6713f-e6eb-4df2-b091-3263690aa324",
+    "2bf882bb-9f15-4e1c-a48e-82a6153ce14e",
+    "2471b72c-81ef-430f-86b7-d348f1ea0bcf",
+    "bdec1485-55b5-4574-a110-585260cdf1ff",
     "main",
     "blog-posts"
   ]
