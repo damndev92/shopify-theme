@@ -186,6 +186,17 @@
         "subheading": "",
         "title": ""
       }
+    },
+    "6fc4d213-a936-40bb-9aff-0f040a7b8076": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Shop Now",
+        "url": "",
+        "link": "shopify:\/\/collections\/new-in",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
+      }
     }
   },
   "order": [
@@ -197,6 +208,7 @@
     "684132da-32f6-48bb-a2a5-193317cf476b",
     "d5f4210d-71b3-4c43-b243-754b83431924",
     "26ce085c-2ac8-4c7d-8870-803dd5e42f03",
-    "9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0"
+    "9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0",
+    "6fc4d213-a936-40bb-9aff-0f040a7b8076"
   ]
 }
