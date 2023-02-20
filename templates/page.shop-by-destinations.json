@@ -240,6 +240,23 @@
         "hotel_page_url": false,
         "button_label": "Shop now"
       }
+    },
+    "7f797c51-95d1-424c-acd0-9b48445b8a13": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/vora_65ed5ba2-d416-451e-ae7f-17cca143318b.png",
+        "layout": "left",
+        "subheading": "Santorini, Greece",
+        "location": false,
+        "title": "Vora",
+        "text_block": "<p>Carved into the face of a cliff on one of the world’s most beautiful islands, Vora offers views, privacy, and luxury that are worthy of the gods.<\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/collections\/vora-santorini",
+        "hotel_page_url": false,
+        "button_label": "Shop now"
+      }
     }
   },
   "order": [
@@ -257,6 +274,7 @@
     "3a77aa98-7541-4b03-b228-27f42672f5da",
     "bc923b27-541d-4091-8bc4-ca411b524773",
     "24c6cfa0-a77c-4818-a5f4-de5eccd7ee66",
-    "d4f655a9-419c-473d-8e8b-d321a9146487"
+    "d4f655a9-419c-473d-8e8b-d321a9146487",
+    "7f797c51-95d1-424c-acd0-9b48445b8a13"
   ]
 }
