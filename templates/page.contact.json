@@ -104,6 +104,19 @@
         "button_label": "Shop now"
       }
     },
+    "e0c21d68-bba0-4833-97c4-3c0fa1e7e9bc": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "Partner with us",
+        "text": "<p>We are always on the lookout for  exciting brands to join our community, if you are interested in joining  Maison Flaâneur please get in touch at <strong>brands@maisonflaneur.com<\/strong><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "social-media-icons": {
       "type": "social-media--social-media-icons",
       "settings": {
@@ -121,6 +134,7 @@
     "4d452cd3-0491-4a79-99e3-cd85b8a7c528",
     "accordion",
     "rich-text",
+    "e0c21d68-bba0-4833-97c4-3c0fa1e7e9bc",
     "social-media-icons"
   ]
 }
