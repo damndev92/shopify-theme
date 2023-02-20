@@ -3,6 +3,7 @@
     "1cf18c03-e081-4840-9a84-89b107b28b4e": {
       "type": "image--image",
       "settings": {
+        "image": "shopify:\/\/shop_images\/about_usBrand_Feature_Image_-_Collection.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
