@@ -138,6 +138,23 @@
         "hotel_page_url": false,
         "button_label": "Shop now"
       }
+    },
+    "4ef94675-0a72-4759-9309-9c53bdf87c00": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/thyme.png",
+        "layout": "left",
+        "subheading": "Gloucestershire, UK",
+        "location": false,
+        "title": "Thyme",
+        "text_block": "<p>A restored Cotswold manor and farm, a family story where a passion for the land, food and entertaining merges with a love of local heritage, beauty and conservation.<\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/collections\/thyme",
+        "hotel_page_url": false,
+        "button_label": "Shop now"
+      }
     }
   },
   "order": [
@@ -149,6 +166,7 @@
     "40773a30-8e72-4eb6-ae29-6ab2347fbe09",
     "cf80c04d-1851-411c-80b5-7558eafa7bcd",
     "384183d8-0673-4118-b673-86efa8667bc3",
-    "0fcf515a-db78-489b-ae64-a8d30387f016"
+    "0fcf515a-db78-489b-ae64-a8d30387f016",
+    "4ef94675-0a72-4759-9309-9c53bdf87c00"
   ]
 }
