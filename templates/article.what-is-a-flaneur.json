@@ -23,53 +23,6 @@
         "button_label": ""
       }
     },
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "light",
-        "width": "small",
-        "subheading": "",
-        "page_title": "",
-        "title": "Date Night",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
-    "60bed94f-19d1-471f-9213-301734a4bab2": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/1-1.png",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "1. Kanishka",
-        "text_block": "<p>17-19 Maddox Street, W1S 2QH<\/p><p><br\/><strong>Head chef:<\/strong> Atul Kochhar<br\/><strong>Order the:<\/strong> Chicken tikka pie<\/p><p><\/p><p>Michelin Star chef Atul Kochhar’s contemporary Indian establishment not only offers tastebud-tantalising flavours, but this year sees a special five-course Valentine’s Day tasting menu designed especially for a night of romance. Expect traditional street food and mishti alongside aphrodisiacs like asparagus and figs. See the special V-day Menu <a href=\"https:\/\/kanishkarestaurant.co.uk\/wp-content\/uploads\/2023\/01\/Kanishka-Valentines-Menu-A5-2023.pdf\" target=\"_blank\">here<\/a>.<\/p>",
-        "page_description": false,
-        "button_link": "shopify:\/\/products\/beefbar-main-plate-piece-of-meat-emoji",
-        "hotel_page_url": false,
-        "button_label": "Book Now"
-      }
-    },
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
-        "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "hotel_page_url": false,
-        "button_label": "Book Now"
-      }
-    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -81,6 +34,19 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
+      }
+    },
+    "1c05f6a0-87ee-4208-95f6-5a517699c579": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><strong>What is a Flâneur? <\/strong><\/p><p>A term from the French Flanerie meaning the act of strolling or sauntering, the poet Charles Baudelaire wrote that the term could be associated with “a gentleman stroller of city streets”. Indeed it came to represent a certain class of person in 19th century Paris, often political, traversing the streets and leaving the solitude of la Maison, viewing its life and drawing on it for observations and theories. A certain detachment was suggested as if the person was slightly set back from what they saw around them, taking in and analysing all that was going on along the city streets.<\/p><p><strong>Who are the Flâneurs? <\/strong><\/p><p>Although it has its origins in a notion of decadence the beauty of a Flaneur is that actually anyone can be one. With tourism and travel having become increasingly available to most and not just the preserve of the very wealthy, the chance to stroll the cities of the world at your own pace, to explore the markets, to observe different cultures and idle the day away has never been more accessible. Wiling away time exploring city life in all its capacity is an entirely acceptable and sought after way to spend our valued leisure time. Seeking out the hospitality of a city and offering the best hospitality that your own city has to give are very much in vogue.<\/p><p><strong>Not just a man’s world <\/strong><\/p><p>Back in the 19th century flânerie would have been almost exclusively viewed as a male pursuit, this not being seen perhaps as the occupation of a respectable woman. Yet of course women have also always had a similar fascination to walk, to observe, to view life as it happens around them.<\/p><p><strong>What does it mean to be a Flâneur today? <\/strong><\/p><p>What matters most for the stroller in today’s bustling cities where the world seems to rush on by is to keep loyal to the ideal. Saunter along at your own pace, do not get embroiled in the hustle and bustle of others. In a world where schedules and itineraries can dominate leave some time for some true flanerie when holidaying in a city you have never visited before. By all means do the sightseeing and the famed tourist spots, but just keep a bit of time back to relax and wander the streets to get a taste of a city’s true self. Imagine you are one of those original 19th century pioneers if need be and similar to Maison Flaneur be inspired by Charles Baudelaire’s concept of city strolling.<\/p>",
+        "button_link": "",
+        "button_label": ""
       }
     },
     "blog-posts": {
@@ -100,10 +66,8 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
-    "60bed94f-19d1-471f-9213-301734a4bab2",
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "1c05f6a0-87ee-4208-95f6-5a517699c579",
     "blog-posts"
   ]
 }
