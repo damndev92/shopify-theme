@@ -17,7 +17,7 @@
         "subheading": "",
         "page_title": "",
         "title": "",
-        "text": "<p>We would love to hear from you, please reach out if you have any questions about your order or need help placing an order or pLease check out our <a href=\"https:\/\/maisonflaneur.myshopify.com\/pages\/faqs\" title=\"https:\/\/maisonflaneur.myshopify.com\/pages\/faqs\">FAQs<\/a>.<\/p>",
+        "text": "<p>We would love to hear from you, please reach out if you have any questions or please check out our <a href=\"https:\/\/maisonflaneur.myshopify.com\/pages\/faqs\" title=\"https:\/\/maisonflaneur.myshopify.com\/pages\/faqs\">FAQs<\/a>.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -105,7 +105,7 @@
       "settings": {
         "colors": "light",
         "subheading": "",
-        "title": "Follow us",
+        "title": "",
         "icon-colors": "blackandwhite"
       }
     },
