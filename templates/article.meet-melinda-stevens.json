@@ -70,6 +70,38 @@
         "show_recent_posts": false
       }
     },
+    "a48bd472-7141-496a-ba39-f7a63cd7ada6": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18060440666427__a48bd472-7141-496a-ba39-f7a63cd7ada6-167689598164009885-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MF_DO_AmourGlasses_Silo-1_4e3b5547-aad8-4c67-95c0-5aa6e8954847.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Verres Amour, Set of 4<\/p><p>€56<\/p>"
+          }
+        },
+        "template--18060440666427__a48bd472-7141-496a-ba39-f7a63cd7ada6-167689598164009885-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Box-Marly-knives1.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Black and White Beaumarly Round Tip Knives, Set of 6<\/p><p>From €304<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18060440666427__a48bd472-7141-496a-ba39-f7a63cd7ada6-167689598164009885-0",
+        "template--18060440666427__a48bd472-7141-496a-ba39-f7a63cd7ada6-167689598164009885-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -90,6 +122,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "a48bd472-7141-496a-ba39-f7a63cd7ada6",
     "blog-posts"
   ]
 }
