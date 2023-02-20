@@ -138,6 +138,23 @@
         "button_label": ""
       }
     },
+    "0485ff9c-df96-4ced-b133-7f1f90f8421f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Medium-Grey-Plate-1024x814.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Medium Plate",
+        "text_block": "<p>£58<\/p><p>Single piece sculpture<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -162,6 +179,7 @@
     "8efeaf7d-73c9-48e9-861a-dcfc22bada54",
     "251b9029-1991-4384-a2a0-4bc99b88ff6d",
     "b8c9d5a4-164c-46f6-8fe0-90441ae032d0",
+    "0485ff9c-df96-4ced-b133-7f1f90f8421f",
     "blog-posts"
   ]
 }
