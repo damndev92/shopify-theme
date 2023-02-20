@@ -257,6 +257,23 @@
         "hotel_page_url": false,
         "button_label": "Shop now"
       }
+    },
+    "f0e99813-ab7b-48a5-8bf2-b924d79f9e1d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/jnane_tamsna_1.png",
+        "layout": "left",
+        "subheading": "Marrakesh, Morocco",
+        "location": false,
+        "title": "Jnane Tamsna",
+        "text_block": "<p>Boho themes within the colourful walls and hand-crafted textiles. Tiled furnishings by local artisans. An ethnic retreat in the heart of a vibrant capital city.<\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/collections\/jnane-tamsna",
+        "hotel_page_url": false,
+        "button_label": "Shop now"
+      }
     }
   },
   "order": [
@@ -275,6 +292,7 @@
     "bc923b27-541d-4091-8bc4-ca411b524773",
     "24c6cfa0-a77c-4818-a5f4-de5eccd7ee66",
     "d4f655a9-419c-473d-8e8b-d321a9146487",
-    "7f797c51-95d1-424c-acd0-9b48445b8a13"
+    "7f797c51-95d1-424c-acd0-9b48445b8a13",
+    "f0e99813-ab7b-48a5-8bf2-b924d79f9e1d"
   ]
 }
