@@ -70,6 +70,40 @@
         "hotel_page_url": false,
         "button_label": "Shop now"
       }
+    },
+    "a39961e1-0610-40bc-8408-a75193b96566": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/inhabit_22f4860e-0ee3-4abc-8e6a-6ae2796cbd51.png",
+        "layout": "right",
+        "subheading": "London, UK",
+        "location": false,
+        "title": "Inhabit Hotel",
+        "text_block": "<p>A commitment to wellbeing can be seen around every corner, from the Scandinavian inspired design to the Californian menu at Yeotown restaurant.<\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/collections\/inhabit",
+        "hotel_page_url": false,
+        "button_label": "Shop now"
+      }
+    },
+    "40773a30-8e72-4eb6-ae29-6ab2347fbe09": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/tribe_hotel.png",
+        "layout": "left",
+        "subheading": "Nairobi, Kenya",
+        "location": false,
+        "title": "Tribe Hotel",
+        "text_block": "<p>Warm, earthy shades and a collection of tribal crafts infuse Nairobi’s Tribe Hotel with rich African culture and rare luxury.<\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/collections\/tribe-hotel",
+        "hotel_page_url": false,
+        "button_label": "Shop now"
+      }
     }
   },
   "order": [
@@ -77,6 +111,8 @@
     "main",
     "f6c881ac-dc87-4e8e-9805-112024559187",
     "384183d8-0673-4118-b673-86efa8667bc3",
-    "e9d5d500-d14c-42d6-a3b2-b65e5bebe1c2"
+    "e9d5d500-d14c-42d6-a3b2-b65e5bebe1c2",
+    "a39961e1-0610-40bc-8408-a75193b96566",
+    "40773a30-8e72-4eb6-ae29-6ab2347fbe09"
   ]
 }
