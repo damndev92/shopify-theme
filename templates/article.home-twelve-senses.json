@@ -112,6 +112,48 @@
         "title": ""
       }
     },
+    "ef8e1850-a3ae-4317-bb72-98e46ce63fe3": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18061253345595__ef8e1850-a3ae-4317-bb72-98e46ce63fe3-16769017829e199dab-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pour-over-1-L-Lagoon.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Pour Over 1l jug in Lagoon<\/p><p>£74<\/p><p><\/p>"
+          }
+        },
+        "template--18061253345595__ef8e1850-a3ae-4317-bb72-98e46ce63fe3-16769017829e199dab-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/small-cup-lagoon.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Small Cup in Lagoon, Set of 4<\/p><p>£20<\/p>"
+          }
+        },
+        "template--18061253345595__ef8e1850-a3ae-4317-bb72-98e46ce63fe3-16769017829e199dab-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Infusor-Lagoon.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Infusor diffuser in Lagoon<\/p><p>£34<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18061253345595__ef8e1850-a3ae-4317-bb72-98e46ce63fe3-16769017829e199dab-0",
+        "template--18061253345595__ef8e1850-a3ae-4317-bb72-98e46ce63fe3-16769017829e199dab-1",
+        "template--18061253345595__ef8e1850-a3ae-4317-bb72-98e46ce63fe3-16769017829e199dab-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -135,6 +177,7 @@
     "5a211e97-af85-4303-9c9a-4255a6c15c17",
     "51204105-063d-4432-93f3-5fa77486b62b",
     "4f970f7b-9499-4198-a098-f1a3f90c13f4",
+    "ef8e1850-a3ae-4317-bb72-98e46ce63fe3",
     "blog-posts"
   ]
 }
