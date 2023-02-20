@@ -153,6 +153,7 @@
     },
     "684132da-32f6-48bb-a2a5-193317cf476b": {
       "type": "text--rich-text",
+      "disabled": true,
       "settings": {
         "colors": "white",
         "width": "medium",
@@ -164,18 +165,9 @@
         "button_label": ""
       }
     },
-    "d5f4210d-71b3-4c43-b243-754b83431924": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/g-14-circulo-mexicano.webp",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
-      }
-    },
     "26ce085c-2ac8-4c7d-8870-803dd5e42f03": {
       "type": "text--rich-text",
+      "disabled": true,
       "settings": {
         "colors": "white",
         "width": "medium",
@@ -207,7 +199,6 @@
     "9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0",
     "ee04ac75-aa4d-46e9-a2df-38f736ec7c60",
     "684132da-32f6-48bb-a2a5-193317cf476b",
-    "d5f4210d-71b3-4c43-b243-754b83431924",
     "26ce085c-2ac8-4c7d-8870-803dd5e42f03",
     "6fc4d213-a936-40bb-9aff-0f040a7b8076"
   ]
