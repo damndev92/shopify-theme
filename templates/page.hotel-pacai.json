@@ -142,6 +142,12 @@
             "gallery_image": "shopify:\/\/shop_images\/hotel-pacai-s-01-r-4-jpg_1_1.jpg"
           }
         },
+        "18339fe6-0b99-49b4-b2fe-6fbf27ff0315": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-01-hotel-pacai_1_1.jpg"
+          }
+        },
         "8fcf77c8-84b0-42cd-a538-b45583bd6593": {
           "type": "image",
           "settings": {
@@ -154,15 +160,10 @@
             "gallery_image": "shopify:\/\/shop_images\/HOTEL_PACAI_MAISONFLANEUR.jpg"
           }
         },
-        "18339fe6-0b99-49b4-b2fe-6fbf27ff0315": {
-          "type": "image",
-          "settings": {
-            "gallery_image": "shopify:\/\/shop_images\/g-01-hotel-pacai_1_1.jpg"
-          }
-        },
         "aa041db8-f03e-42ba-b100-e87134a65df4": {
           "type": "image",
           "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-02-hotel-pacai_1.jpg"
           }
         },
         "034bb762-070c-4543-92ee-52d10d8954e6": {
@@ -183,9 +184,9 @@
       },
       "block_order": [
         "4f296eda-7c65-41a0-8614-0001f445a639",
+        "18339fe6-0b99-49b4-b2fe-6fbf27ff0315",
         "8fcf77c8-84b0-42cd-a538-b45583bd6593",
         "752e1da0-5481-4bd3-bebb-c4a490786dcf",
-        "18339fe6-0b99-49b4-b2fe-6fbf27ff0315",
         "aa041db8-f03e-42ba-b100-e87134a65df4",
         "034bb762-070c-4543-92ee-52d10d8954e6",
         "7630e07b-4920-4941-b521-9b735bedf9bc",
