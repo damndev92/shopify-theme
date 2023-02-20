@@ -53,12 +53,30 @@
         "hotel_page_url": false,
         "button_label": "Shop now"
       }
+    },
+    "e9d5d500-d14c-42d6-a3b2-b65e5bebe1c2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/circulo_mexicano.png",
+        "layout": "left",
+        "subheading": "Mexico City, Mexico",
+        "location": false,
+        "title": "Círculo Mexicano",
+        "text_block": "<p>A storied building with an eye to the future, Círculo Mexicano captures the essence of its neighborhood through design while contributing greatly to its social scene.<\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/collections\/circulo-mexicano",
+        "hotel_page_url": false,
+        "button_label": "Shop now"
+      }
     }
   },
   "order": [
     "d5277379-ae02-4eb1-ac45-a58c58641551",
     "main",
     "f6c881ac-dc87-4e8e-9805-112024559187",
-    "384183d8-0673-4118-b673-86efa8667bc3"
+    "384183d8-0673-4118-b673-86efa8667bc3",
+    "e9d5d500-d14c-42d6-a3b2-b65e5bebe1c2"
   ]
 }
