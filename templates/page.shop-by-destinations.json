@@ -189,6 +189,23 @@
         "hotel_page_url": false,
         "button_label": "Shop now"
       }
+    },
+    "bc923b27-541d-4091-8bc4-ca411b524773": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/chetzeron.png",
+        "layout": "left",
+        "subheading": "Crans-Montana, Switzerland",
+        "location": false,
+        "title": "Chetzeron",
+        "text_block": "<p>In this ski-in, ski-out resort high up in the mountains, powdered slopes and sublime silence are your best companions.<\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/collections\/chetzeron",
+        "hotel_page_url": false,
+        "button_label": "Shop now"
+      }
     }
   },
   "order": [
@@ -203,6 +220,7 @@
     "0fcf515a-db78-489b-ae64-a8d30387f016",
     "4ef94675-0a72-4759-9309-9c53bdf87c00",
     "d621fb73-de1a-4a9f-b7c4-4bca9038dca9",
-    "3a77aa98-7541-4b03-b228-27f42672f5da"
+    "3a77aa98-7541-4b03-b228-27f42672f5da",
+    "bc923b27-541d-4091-8bc4-ca411b524773"
   ]
 }
