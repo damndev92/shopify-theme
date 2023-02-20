@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/Ces-livres-qui-font-voyager-819x1024.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Could you define luxury for us?<br\/><\/strong>To me, luxury is representing culture as an essential element of true and unparalleled style. <\/p><p><strong>What would be your three Assouline must haves?<\/strong><\/p><p><em>Paris Chic<\/em><\/p><p><em>Frida Kahlo: Fashion As The Art Of Being<\/em><\/p><p><em>Versailles: From Louis XIV To Jeff Koons (Fall 2020)<\/em><\/p><p><strong>Could you tell us about the process of curating the perfect library?<br\/><\/strong>I personally and carefully select books and objects that capture the essence of the neighborhood, the building, and the people who will enjoy it when curating a library.  I always want to create beautiful and sophisticated spaces that allow people to unplug and simply enjoy the moment. To add, I get the opportunity to work with incredible developers and talented interior designers who trust me in creating a fantastic library within their space. An Assouline space is very different than the traditional idea of a library – throughout the process, I always incorporate our signature eye into each project. <\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
