@@ -3,6 +3,7 @@
     "main": {
       "type": "template--page",
       "settings": {
+        "white_label": false,
         "hide_header": false,
         "hide_default_content": false,
         "alignment": "center",
@@ -15,19 +16,19 @@
         "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "rubn"
+            "collection": "alice-palmer-co"
           }
         },
         "template--17575028982075__6ebef4dd-8039-42d7-a989-ad9a5df05aa0-1673624216d6844b68-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "la-veste"
+            "collection": "amuse-la-bouche"
           }
         },
         "4c86cf43-ff78-4bf8-b92b-764f36ace332": {
           "type": "featured_collection",
           "settings": {
-            "collection": "georges"
+            "collection": "ango-world"
           }
         }
       },
@@ -48,19 +49,19 @@
         "template--17643498701115__cfa6f2f4-4140-4b9d-8f1b-cc8829904856-167465174538dd7db8-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "sew-bella"
+            "collection": "anissa-kermiche"
           }
         },
         "template--17643498701115__cfa6f2f4-4140-4b9d-8f1b-cc8829904856-167465174538dd7db8-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "viso-project"
+            "collection": "anthologist"
           }
         },
         "template--17643498701115__cfa6f2f4-4140-4b9d-8f1b-cc8829904856-167465174538dd7db8-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "beefbar"
+            "collection": "atelier-pyrite"
           }
         }
       },
@@ -81,19 +82,19 @@
         "template--17643498701115__10bdf396-dbda-4947-b9e6-a3575a52ccca-167465174538dd7db8-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "guayaba-studio"
+            "collection": "beefbar"
           }
         },
         "template--17643498701115__10bdf396-dbda-4947-b9e6-a3575a52ccca-167465174538dd7db8-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "ango-world"
+            "collection": "thyme"
           }
         },
         "template--17643498701115__10bdf396-dbda-4947-b9e6-a3575a52ccca-167465174538dd7db8-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "alice-palmer-co"
+            "collection": "culture-a"
           }
         }
       },
@@ -107,12 +108,182 @@
         "subheading": "",
         "title": ""
       }
+    },
+    "1d5bede9-b343-4f1b-a140-a7186ec46665": {
+      "type": "collection--collection-list",
+      "blocks": {
+        "template--17643498701115__1d5bede9-b343-4f1b-a140-a7186ec46665-167692483338ec4965-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "feldspar"
+          }
+        },
+        "template--17643498701115__1d5bede9-b343-4f1b-a140-a7186ec46665-167692483338ec4965-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "georges"
+          }
+        },
+        "template--17643498701115__1d5bede9-b343-4f1b-a140-a7186ec46665-167692483338ec4965-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gong"
+          }
+        }
+      },
+      "block_order": [
+        "template--17643498701115__1d5bede9-b343-4f1b-a140-a7186ec46665-167692483338ec4965-0",
+        "template--17643498701115__1d5bede9-b343-4f1b-a140-a7186ec46665-167692483338ec4965-1",
+        "template--17643498701115__1d5bede9-b343-4f1b-a140-a7186ec46665-167692483338ec4965-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "b74241c2-cabc-487a-9b12-80be6fa185d9": {
+      "type": "collection--collection-list",
+      "blocks": {
+        "template--17643498701115__b74241c2-cabc-487a-9b12-80be6fa185d9-167692483338ec4965-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "guayaba-studio"
+          }
+        },
+        "template--17643498701115__b74241c2-cabc-487a-9b12-80be6fa185d9-167692483338ec4965-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "issy-granger"
+          }
+        },
+        "template--17643498701115__b74241c2-cabc-487a-9b12-80be6fa185d9-167692483338ec4965-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "joseph-foskolos"
+          }
+        }
+      },
+      "block_order": [
+        "template--17643498701115__b74241c2-cabc-487a-9b12-80be6fa185d9-167692483338ec4965-0",
+        "template--17643498701115__b74241c2-cabc-487a-9b12-80be6fa185d9-167692483338ec4965-1",
+        "template--17643498701115__b74241c2-cabc-487a-9b12-80be6fa185d9-167692483338ec4965-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "0b58a7ea-52b9-48ea-80c0-ef9079655090": {
+      "type": "collection--collection-list",
+      "blocks": {
+        "template--17643498701115__0b58a7ea-52b9-48ea-80c0-ef9079655090-167692483338ec4965-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "josephine-dessine"
+          }
+        },
+        "template--17643498701115__0b58a7ea-52b9-48ea-80c0-ef9079655090-167692483338ec4965-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "la-metropolitana"
+          }
+        },
+        "template--17643498701115__0b58a7ea-52b9-48ea-80c0-ef9079655090-167692483338ec4965-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "la-veste"
+          }
+        }
+      },
+      "block_order": [
+        "template--17643498701115__0b58a7ea-52b9-48ea-80c0-ef9079655090-167692483338ec4965-0",
+        "template--17643498701115__0b58a7ea-52b9-48ea-80c0-ef9079655090-167692483338ec4965-1",
+        "template--17643498701115__0b58a7ea-52b9-48ea-80c0-ef9079655090-167692483338ec4965-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "92bf33bb-8d3c-4421-bf59-bddff90673e7": {
+      "type": "collection--collection-list",
+      "blocks": {
+        "template--17643498701115__92bf33bb-8d3c-4421-bf59-bddff90673e7-167692483338ec4965-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "le-pigalle"
+          }
+        },
+        "template--17643498701115__92bf33bb-8d3c-4421-bf59-bddff90673e7-167692483338ec4965-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--17643498701115__92bf33bb-8d3c-4421-bf59-bddff90673e7-167692483338ec4965-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17643498701115__92bf33bb-8d3c-4421-bf59-bddff90673e7-167692483338ec4965-0",
+        "template--17643498701115__92bf33bb-8d3c-4421-bf59-bddff90673e7-167692483338ec4965-1",
+        "template--17643498701115__92bf33bb-8d3c-4421-bf59-bddff90673e7-167692483338ec4965-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "2759f9df-e928-482a-9ee7-9d043712e2ed": {
+      "type": "collection--collection-list",
+      "blocks": {
+        "template--17643498701115__2759f9df-e928-482a-9ee7-9d043712e2ed-167692483338ec4965-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--17643498701115__2759f9df-e928-482a-9ee7-9d043712e2ed-167692483338ec4965-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--17643498701115__2759f9df-e928-482a-9ee7-9d043712e2ed-167692483338ec4965-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17643498701115__2759f9df-e928-482a-9ee7-9d043712e2ed-167692483338ec4965-0",
+        "template--17643498701115__2759f9df-e928-482a-9ee7-9d043712e2ed-167692483338ec4965-1",
+        "template--17643498701115__2759f9df-e928-482a-9ee7-9d043712e2ed-167692483338ec4965-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
     }
   },
   "order": [
     "main",
     "6ebef4dd-8039-42d7-a989-ad9a5df05aa0",
     "cfa6f2f4-4140-4b9d-8f1b-cc8829904856",
-    "10bdf396-dbda-4947-b9e6-a3575a52ccca"
+    "10bdf396-dbda-4947-b9e6-a3575a52ccca",
+    "1d5bede9-b343-4f1b-a140-a7186ec46665",
+    "b74241c2-cabc-487a-9b12-80be6fa185d9",
+    "0b58a7ea-52b9-48ea-80c0-ef9079655090",
+    "92bf33bb-8d3c-4421-bf59-bddff90673e7",
+    "2759f9df-e928-482a-9ee7-9d043712e2ed"
   ]
 }
