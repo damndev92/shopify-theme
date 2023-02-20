@@ -92,7 +92,7 @@
         "collection-list-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "books-office-accessories"
+            "collection": "books"
           }
         }
       },
