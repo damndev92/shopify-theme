@@ -31,6 +31,19 @@
       "settings": {
       }
     },
+    "0632a73f-e9ae-4ee1-b0b5-d3e03656ad34": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "Partner with us",
+        "text": "<p>We are always on the lookout for  exciting brands to join our community, if you are interested in joining  Maison Flâneur please get in touch at brands@maisonflaneur.com<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "4d452cd3-0491-4a79-99e3-cd85b8a7c528": {
       "type": "text--rich-text",
       "settings": {
@@ -114,7 +127,7 @@
         "horizontal-alignment": "center",
         "subheading": "",
         "title": "Partner with us",
-        "text": "We are always on the lookout for  exciting brands to join our community, if you are interested in joining  Maison Flaâneur please get in touch at brands@maisonflaneur.com",
+        "text": "",
         "button_link": "",
         "button_label": ""
       }
@@ -133,6 +146,7 @@
     "1cf18c03-e081-4840-9a84-89b107b28b4e",
     "4fe8ba71-635b-4962-9c90-f65ef2de153d",
     "main",
+    "0632a73f-e9ae-4ee1-b0b5-d3e03656ad34",
     "4d452cd3-0491-4a79-99e3-cd85b8a7c528",
     "accordion",
     "rich-text",
