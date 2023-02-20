@@ -90,6 +90,16 @@
         "text-over-image-width": "full-width"
       }
     },
+    "82134298-469f-4314-abac-5d21b3361c33": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Maison-Flaneur-Twelve-Senses2.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -112,6 +122,7 @@
     "main",
     "5a211e97-af85-4303-9c9a-4255a6c15c17",
     "51204105-063d-4432-93f3-5fa77486b62b",
+    "82134298-469f-4314-abac-5d21b3361c33",
     "blog-posts"
   ]
 }
