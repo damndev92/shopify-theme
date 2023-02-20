@@ -1,0 +1,131 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/LukeEdwardHall_960_3.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "e59ec62f-07b5-46d9-921d-cba01b9aebad": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Meet Luke Edward Hall, Artist and designer, London",
+        "title": "",
+        "text": "<p>“Everyone wants a piece of Luke Edward Hall. Take your pick: his ceramics with Alex Eagle, his recent collection for the Royal Academy, his campaign with Burberry,” says Jonathan Mahon-Heap for Semaine. Our personal favourite (Some bias here) will forever be his collaboration with <a href=\"https:\/\/www.maisonflaneur.com\/venues\/cafe-de-la-semaine\/\">Café de la Semaine <\/a>at the <a href=\"https:\/\/www.maisonflaneur.com\/venues\/le-pigalle\/\">Pigalle hotel <\/a>in January of this year.<\/p><p><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "343e7dc7-c870-47ba-b2a1-c6f1950704e2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/64014801-a7a8-4cce-adb5-4cb98387c80b-683x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Luke Edward Hall’s colourful aesthetic is informed by a love of history, an appreciation of beauty, and a sense of playfulness. Luke established his studio in the autumn of 2015 after graduating from Central Saint Martins. Since then, he has worked on a broad range of art and design commissions and interior design projects. He creates his own ceramics, fabrics, furniture, and accessories.<\/p><p>In January 2019, Luke, in collaboration with <a href=\"https:\/\/www.semaine.com\/\">online magazine Semaine<\/a>, transformed hotel Le Pigalle’s lobby during a two-week Parisian residence into a flâneur’s dream. Pink tablecloths with scalloped green stitching, whimsical calligraphy and limited edition art prints evoke a medley of tasteful modernity and the dreamy nostalgia of bygone days. Designed as a throwback to the old world charm of café society, Café de la Semaine creates a space to embody the flâneur’s creative mindset—if only for a moment. Bring the spirit back home today.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "465bd8cf-0b90-4509-995b-c07aeefbe031": {
+      "type": "image--gallery",
+      "blocks": {
+        "19b22b12-2937-4e55-8afc-81ba466b6abd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Semaine-x-Luke-Edward-Hall-Cafe-de-la-Semaine-signed-artist-print-Tobias-the-Tortoise.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Semaine x Luke Edward Hall – Café de la Semaine signed artist print bright green, Tobias the Tortoise<\/p><p>£76<\/p>"
+          }
+        },
+        "8d574722-6f06-4dd7-9abd-1c88ac4ed944": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CDLS_POSTER_5_grande_06e5b905-291d-495e-ae7b-759dd60705bb.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Semaine x Luke Edward Hall signed artist print pink, Edition of 50<\/p><p>£76<\/p>"
+          }
+        },
+        "065fb4fa-51af-44ff-869e-a5abeb0cdb9a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Semaine-x-Luke-Edward-Hall-Cafe-de-la-Semaine-signed-artist-green-print-Eiffel-Tower.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Semaine x Luke Edward Hall – Café de la Semaine signed artist print, Eiffel Tower<\/p><p>£76<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "19b22b12-2937-4e55-8afc-81ba466b6abd",
+        "8d574722-6f06-4dd7-9abd-1c88ac4ed944",
+        "065fb4fa-51af-44ff-869e-a5abeb0cdb9a"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "b9e0ba2a-b393-42bc-958d-7287b7f96db3": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2019-10-22-at-11.19.34-1024x485.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "portrait"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "e59ec62f-07b5-46d9-921d-cba01b9aebad",
+    "343e7dc7-c870-47ba-b2a1-c6f1950704e2",
+    "465bd8cf-0b90-4509-995b-c07aeefbe031",
+    "main",
+    "b9e0ba2a-b393-42bc-958d-7287b7f96db3",
+    "blog-posts"
+  ]
+}

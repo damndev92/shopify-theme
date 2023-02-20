@@ -13,283 +13,68 @@
     "main": {
       "type": "template--page",
       "settings": {
-      }
-    },
-    "6bb64512-b0f4-470f-a831-da34d529ebce": {
-      "type": "collection--collection-list",
-      "blocks": {
-        "template--17647682617659__6bb64512-b0f4-470f-a831-da34d529ebce-167406554123d40f23-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "hotel-pacai"
-          }
-        },
-        "template--17647682617659__6bb64512-b0f4-470f-a831-da34d529ebce-167406554123d40f23-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "circulo-mexicano"
-          }
-        },
-        "template--17647682617659__6bb64512-b0f4-470f-a831-da34d529ebce-167406554123d40f23-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "inhabit"
-          }
-        },
-        "39593429-47d6-49c7-b381-a829420c0c93": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "tribe-hotel"
-          }
-        }
-      },
-      "block_order": [
-        "template--17647682617659__6bb64512-b0f4-470f-a831-da34d529ebce-167406554123d40f23-0",
-        "template--17647682617659__6bb64512-b0f4-470f-a831-da34d529ebce-167406554123d40f23-1",
-        "template--17647682617659__6bb64512-b0f4-470f-a831-da34d529ebce-167406554123d40f23-2",
-        "39593429-47d6-49c7-b381-a829420c0c93"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
-    "07d9e5bd-58c8-4fd8-9347-02901b98324b": {
-      "type": "collection--collection-list",
-      "blocks": {
-        "890dc6ec-285f-437f-a1e7-ed582320c07a": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "parilio"
-          }
-        },
-        "8ef26979-6992-4773-8df4-fdbc7ed30dcf": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cretan-malia"
-          }
-        },
-        "ea3f4d3e-745b-4f16-821b-cf6219a93584": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "villa-lena"
-          }
-        },
-        "735493ee-91bc-4a21-8540-205c97881100": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "thyme"
-          }
-        }
-      },
-      "block_order": [
-        "890dc6ec-285f-437f-a1e7-ed582320c07a",
-        "8ef26979-6992-4773-8df4-fdbc7ed30dcf",
-        "ea3f4d3e-745b-4f16-821b-cf6219a93584",
-        "735493ee-91bc-4a21-8540-205c97881100"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
-    "1171aa9d-339a-4ce4-8468-5b3208ca4ad3": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17647682617659__1171aa9d-339a-4ce4-8468-5b3208ca4ad3-1675858103a8476972-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Photo3-819x1024.jpg",
-            "link": "shopify:\/\/collections\/chetzeron",
-            "title": "Chetzeron",
-            "description": ""
-          }
-        },
-        "template--17647682617659__1171aa9d-339a-4ce4-8468-5b3208ca4ad3-1675858103a8476972-1": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17647682617659__1171aa9d-339a-4ce4-8468-5b3208ca4ad3-1675858103a8476972-2": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17647682617659__1171aa9d-339a-4ce4-8468-5b3208ca4ad3-1675858103a8476972-0",
-        "template--17647682617659__1171aa9d-339a-4ce4-8468-5b3208ca4ad3-1675858103a8476972-1",
-        "template--17647682617659__1171aa9d-339a-4ce4-8468-5b3208ca4ad3-1675858103a8476972-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
-    "2750303b-b826-4366-ae63-1b7568c4fd2b": {
-      "type": "product--shop-the-look",
-      "blocks": {
-        "template--17647682617659__2750303b-b826-4366-ae63-1b7568c4fd2b-16760537067805bf44-0": {
-          "type": "product",
-          "settings": {
-            "product": "6x6",
-            "top": 46,
-            "left": 30,
-            "disable_spot": false
-          }
-        },
-        "template--17647682617659__2750303b-b826-4366-ae63-1b7568c4fd2b-16760537067805bf44-1": {
-          "type": "product",
-          "settings": {
-            "product": "alfonso-vase",
-            "top": 63,
-            "left": 51,
-            "disable_spot": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17647682617659__2750303b-b826-4366-ae63-1b7568c4fd2b-16760537067805bf44-0",
-        "template--17647682617659__2750303b-b826-4366-ae63-1b7568c4fd2b-16760537067805bf44-1"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "Creet, greece",
-        "title": "Cretan Malia Park",
-        "image": "shopify:\/\/shop_images\/cretan-malia-park-reception-desk-extraordinary-lamp-interior-design-k-02-x2-jpg-872x1024.jpg",
-        "image__position": "image--left",
-        "hotspot__color": "#ffffff",
-        "stl__heading": "",
-        "stl__description": "<p> Walnut, chestnut, and bamboo combine with rattan, ceramic, stone, and brass to create a palette of wood tones, mustard yellow, copper-red, blue, green, and orange that imparts a relaxed, boho mood in the bright, airy rooms. <\/p>",
-        "description__position": "below-products",
-        "link": "shopify:\/\/collections\/all",
-        "button__text": "Shop Cretan Malia"
-      }
-    },
-    "eada9471-525f-4376-8e4f-3493ed49a28f": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/hotelpacai-vilnus-lithuania-europe-rooms-jpg.jpg",
-        "parallax": true,
+        "hide_header": false,
+        "hide_default_content": false,
         "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "fixed"
+        "url": ""
       }
     },
-    "8d4f41f4-185b-4e23-809b-f3f6292c552c": {
-      "type": "collection--featured-collection",
-      "blocks": {
-        "template--17647682617659__8d4f41f4-185b-4e23-809b-f3f6292c552c-1676052933b7629c32-0": {
-          "type": "grid-card-title",
-          "settings": {
-          }
-        },
-        "template--17647682617659__8d4f41f4-185b-4e23-809b-f3f6292c552c-1676052933b7629c32-1": {
-          "type": "grid-card-price",
-          "settings": {
-          }
-        },
-        "template--17647682617659__8d4f41f4-185b-4e23-809b-f3f6292c552c-1676052933b7629c32-2": {
-          "type": "grid-card-swatches",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--17647682617659__8d4f41f4-185b-4e23-809b-f3f6292c552c-1676052933b7629c32-0",
-        "template--17647682617659__8d4f41f4-185b-4e23-809b-f3f6292c552c-1676052933b7629c32-1",
-        "template--17647682617659__8d4f41f4-185b-4e23-809b-f3f6292c552c-1676052933b7629c32-2"
-      ],
+    "384183d8-0673-4118-b673-86efa8667bc3": {
+      "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "subheading": "VILNIUS, LITHUANIA",
-        "title": "Hotel Pacai",
-        "collection": "hotel-pacai",
-        "grid": 4,
-        "rows": 1,
-        "show_view_all": false
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2018-11-14-at-17.28.28-copy-1024x576.png",
+        "layout": "left",
+        "subheading": "Crete, Greece",
+        "location": false,
+        "title": "Cretan Malia Park",
+        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/collections\/cretan-malia",
+        "hotel_page_url": false,
+        "button_label": "Shop now"
       }
     },
-    "ead30b73-2c78-4aae-bdff-a922e308b09b": {
-      "type": "image--image-with-text-block",
-      "disabled": true,
+    "d0ee3d2e-32cd-489e-8669-759b0620388e": {
+      "type": "text--image-with-text",
       "settings": {
-        "parallax": true,
-        "text-color": "#000000",
-        "background-color": "#ffffff",
-        "horizontal-alignment": "center",
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/10-SINNER_Restaurant_16___Guillaume_de_Laubier-1024x683.jpg",
+        "layout": "left",
         "subheading": "",
-        "title": "Share your story",
-        "text": "Here's your chance to make a great first impression",
+        "location": false,
+        "title": "Share brand or product details",
+        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
-    "a965ba19-f5d2-4018-8c3b-431c38087d46": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/36_ba361869-dfe4-4c55-8419-7612b394e1ce.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "fixed"
-      }
-    },
-    "f6b4dbc5-a83f-4562-9194-2b36ef0895e3": {
-      "type": "collection--featured-collection",
-      "blocks": {
-        "template--17647682617659__f6b4dbc5-a83f-4562-9194-2b36ef0895e3-1676052933b7629c32-0": {
-          "type": "grid-card-title",
-          "settings": {
-          }
-        },
-        "template--17647682617659__f6b4dbc5-a83f-4562-9194-2b36ef0895e3-1676052933b7629c32-1": {
-          "type": "grid-card-price",
-          "settings": {
-          }
-        },
-        "template--17647682617659__f6b4dbc5-a83f-4562-9194-2b36ef0895e3-1676052933b7629c32-2": {
-          "type": "grid-card-swatches",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--17647682617659__f6b4dbc5-a83f-4562-9194-2b36ef0895e3-1676052933b7629c32-0",
-        "template--17647682617659__f6b4dbc5-a83f-4562-9194-2b36ef0895e3-1676052933b7629c32-1",
-        "template--17647682617659__f6b4dbc5-a83f-4562-9194-2b36ef0895e3-1676052933b7629c32-2"
-      ],
+    "7a78f485-7b56-4c85-87d4-899c958e904d": {
+      "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "subheading": "Paros, Greece",
-        "title": "Parīlio",
-        "collection": "parilio",
-        "grid": 4,
-        "rows": 1,
-        "show_view_all": false
+        "image-width": "medium",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Share brand or product details",
+        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
       }
     }
   },
   "order": [
     "d5277379-ae02-4eb1-ac45-a58c58641551",
     "main",
-    "6bb64512-b0f4-470f-a831-da34d529ebce",
-    "07d9e5bd-58c8-4fd8-9347-02901b98324b",
-    "1171aa9d-339a-4ce4-8468-5b3208ca4ad3",
-    "2750303b-b826-4366-ae63-1b7568c4fd2b",
-    "eada9471-525f-4376-8e4f-3493ed49a28f",
-    "8d4f41f4-185b-4e23-809b-f3f6292c552c",
-    "ead30b73-2c78-4aae-bdff-a922e308b09b",
-    "a965ba19-f5d2-4018-8c3b-431c38087d46",
-    "f6b4dbc5-a83f-4562-9194-2b36ef0895e3"
+    "384183d8-0673-4118-b673-86efa8667bc3",
+    "d0ee3d2e-32cd-489e-8669-759b0620388e",
+    "7a78f485-7b56-4c85-87d4-899c958e904d"
   ]
 }

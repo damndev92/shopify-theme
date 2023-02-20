@@ -1,0 +1,127 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2018-11-14-at-17.28.28-copy-1024x576.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "But tell me, what is a Flâneur ?",
+        "title": "",
+        "text": "<p>If you enjoy strolling the streets of your home town or exploring a new city while taking in the atmosphere and feel of the place and its inhabitants, you may be something you hadn’t realised you were, which is a Flaneur.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "1c05f6a0-87ee-4208-95f6-5a517699c579": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><strong>What is a Flâneur? <\/strong><\/p><p>A term from the French Flanerie meaning the act of strolling or sauntering, the poet Charles Baudelaire wrote that the term could be associated with “a gentleman stroller of city streets”. Indeed it came to represent a certain class of person in 19th century Paris, often political, traversing the streets and leaving the solitude of la Maison, viewing its life and drawing on it for observations and theories. A certain detachment was suggested as if the person was slightly set back from what they saw around them, taking in and analysing all that was going on along the city streets.<\/p><p><strong>Who are the Flâneurs? <\/strong><\/p><p>Although it has its origins in a notion of decadence the beauty of a Flaneur is that actually anyone can be one. With tourism and travel having become increasingly available to most and not just the preserve of the very wealthy, the chance to stroll the cities of the world at your own pace, to explore the markets, to observe different cultures and idle the day away has never been more accessible. Wiling away time exploring city life in all its capacity is an entirely acceptable and sought after way to spend our valued leisure time. Seeking out the hospitality of a city and offering the best hospitality that your own city has to give are very much in vogue.<\/p><p><strong>Not just a man’s world <\/strong><\/p><p>Back in the 19th century flânerie would have been almost exclusively viewed as a male pursuit, this not being seen perhaps as the occupation of a respectable woman. Yet of course women have also always had a similar fascination to walk, to observe, to view life as it happens around them.<\/p><p><strong>What does it mean to be a Flâneur today? <\/strong><\/p><p>What matters most for the stroller in today’s bustling cities where the world seems to rush on by is to keep loyal to the ideal. Saunter along at your own pace, do not get embroiled in the hustle and bustle of others. In a world where schedules and itineraries can dominate leave some time for some true flanerie when holidaying in a city you have never visited before. By all means do the sightseeing and the famed tourist spots, but just keep a bit of time back to relax and wander the streets to get a taste of a city’s true self. Imagine you are one of those original 19th century pioneers if need be and similar to Maison Flaneur be inspired by Charles Baudelaire’s concept of city strolling.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "b35862d2-1899-44a6-a9bc-50d1a4da7536": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18059785666875__b35862d2-1899-44a6-a9bc-50d1a4da7536-1676890172196b52ee-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Flaneur-Semaine-x-Hades-Wool-Pink-Green-Scarf-1-899x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Flâneur Semaine x Hades Wool Pink & Green Scarf<\/p><p>£105<\/p>"
+          }
+        },
+        "template--18059785666875__b35862d2-1899-44a6-a9bc-50d1a4da7536-1676890172196b52ee-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CDLS_POSTER_5_grande_290d8145-13cd-433f-971f-33139b216af7.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Semaine x Luke Edward Hall signed artist print pink, Edition of 50<\/p><p>£76<\/p>"
+          }
+        },
+        "template--18059785666875__b35862d2-1899-44a6-a9bc-50d1a4da7536-1676890172196b52ee-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Semaine-x-Luke-Edward-Hall-Cafe-de-la-Semaine-signed-artist-green-print-Eiffel-Tower_8f824ccf-52b4-463b-95e9-0e29526f8367.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Semaine x Luke Edward Hall – Café de la Semaine signed artist print, Eiffel Tower<\/p><p>£76<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18059785666875__b35862d2-1899-44a6-a9bc-50d1a4da7536-1676890172196b52ee-0",
+        "template--18059785666875__b35862d2-1899-44a6-a9bc-50d1a4da7536-1676890172196b52ee-1",
+        "template--18059785666875__b35862d2-1899-44a6-a9bc-50d1a4da7536-1676890172196b52ee-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "f3c0ddb6-ca2e-4468-8ce6-1a9e0d95919a": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2018-11-14-at-17.28.28-copy-1024x576_04940e5a-7c16-44a3-b268-fec061ca8515.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "main",
+    "1c05f6a0-87ee-4208-95f6-5a517699c579",
+    "b35862d2-1899-44a6-a9bc-50d1a4da7536",
+    "f3c0ddb6-ca2e-4468-8ce6-1a9e0d95919a",
+    "blog-posts"
+  ]
+}

@@ -1,1 +1,109 @@
-{"sections":{"image-with-text-block":{"type":"image--image-with-text-block","settings":{"text-color":"#656565","background-color":"#F3F3F3","title":"CONTACT US","text":"We would love to hear from you"}},"accordion":{"type":"accordion","blocks":{"accordion-0":{"type":"tab_content","settings":{}},"accordion-1":{"type":"tab_content","settings":{}},"accordion-2":{"type":"tab_content","settings":{}},"accordion-3":{"type":"tab_content","settings":{}}},"block_order":["accordion-0","accordion-1","accordion-2","accordion-3"],"settings":{"text-color":"#656565"}},"rich-text":{"type":"text--rich-text","settings":{"title":"","button_link":"shopify:\/\/collections\/all","button_label":"Shop now"}},"social-media-icons":{"type":"social-media--social-media-icons","settings":{"colors":"light","icon-colors":"blackandwhite"}},"main":{"type":"template--page-contact","settings":{}},"newsletter":{"type":"newsletter--newsletter","settings":{"newsletter_description":""}}},"order":["image-with-text-block","accordion","rich-text","social-media-icons","main","newsletter"]}
+{
+  "sections": {
+    "image-with-text-block": {
+      "type": "image--image-with-text-block",
+      "settings": {
+        "parallax": true,
+        "text-color": "#656565",
+        "background-color": "#f3f3f3",
+        "horizontal-alignment": "center",
+        "subheading": "",
+        "title": "CONTACT US",
+        "text": "We would love to hear from you",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--page-contact",
+      "settings": {
+      }
+    },
+    "accordion": {
+      "type": "accordion",
+      "disabled": true,
+      "blocks": {
+        "accordion-0": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "accordion-1": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "accordion-2": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "accordion-3": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "accordion-0",
+        "accordion-1",
+        "accordion-2",
+        "accordion-3"
+      ],
+      "settings": {
+        "background-color": "#ffffff",
+        "text-color": "#656565",
+        "title": "Frequently asked questions",
+        "faq_icon": "plus_minus"
+      }
+    },
+    "rich-text": {
+      "type": "text--rich-text",
+      "disabled": true,
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p>Use this text block to show store announcements, advertise products and collections, or simply welcome visitors to your store.<\/p>",
+        "button_link": "shopify:\/\/collections\/all",
+        "button_label": "Shop now"
+      }
+    },
+    "social-media-icons": {
+      "type": "social-media--social-media-icons",
+      "settings": {
+        "colors": "light",
+        "subheading": "",
+        "title": "Follow us",
+        "icon-colors": "blackandwhite"
+      }
+    },
+    "newsletter": {
+      "type": "newsletter--newsletter",
+      "settings": {
+        "colors": "light",
+        "subheading": "",
+        "title": "Join our Mailing List",
+        "newsletter_description": ""
+      }
+    }
+  },
+  "order": [
+    "image-with-text-block",
+    "main",
+    "accordion",
+    "rich-text",
+    "social-media-icons",
+    "newsletter"
+  ]
+}

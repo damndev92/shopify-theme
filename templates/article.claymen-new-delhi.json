@@ -1,0 +1,203 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Claymen_Venue_Slider_Clay_India_Sculpture_New_Delhi3-1024x441.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Object of Desire: Claymen, New Delhi, India",
+        "title": "",
+        "text": "<p>Claymen is one of the most exciting and interesting brands to emerge from Delhi’s urban village Hauz Khaus. Their projects range from the Limited Edition Bowls for Le Mill inspired from the Indian holy city of Banaras to the Special Cups created for Uniqlo’s launch in India. Each creation is extensively meaningful, a principle that is reflected in the thoughtfulness and subtlety of each piece.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Hyperventilating-vase-1024x814.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>In New Delhi’s Dhan Mill compound is a luminous studio-store where you’ll find a selection of endearing figurines sculpted with deliberate imperfections, these are made from sun dried clay and are half-baked in an open fire. Aman Khanna, founder of Claymen is a sculptor and a visual storyteller who was trained as a graphic artist and illustrator.<\/p><p>The Claymen figure sculptures he creates emerge from a careful observation of the common man or woman and his or her dilemmas. Aman Khanna attests that “Claymen figures come in peace and maintain silence. Although going through their own existential crises at all times they are mere spectators or observers to the notion that “man is losing his humanity and becoming a thing amongst the things he produces.”<\/p><p> <\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/claymen\/\">Discover the full collection here.<\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Highbrow-Planter-I-1024x819.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Highbrow Planter I",
+        "text_block": "<p>£206<\/p><p>Single piece sculpture<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "18a9c5e3-b1c6-44f5-b4c4-430dc9ca86b7": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Highbrow-planter-1024x819.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Highbrow Planter II",
+        "text_block": "<p>£224<\/p><p>Single piece sculpture<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "8efeaf7d-73c9-48e9-861a-dcfc22bada54": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Highbrow-planter-1024x819_a726e438-fea4-433b-b96f-2370b1f95c3f.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Highbrow Planter III",
+        "text_block": "<p>£212<\/p><p>Single piece sculpture<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "251b9029-1991-4384-a2a0-4bc99b88ff6d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Visarjan-Vase-1024x819.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Visarjan Vase I",
+        "text_block": "<p>£116<\/p><p>Single piece sculpture<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "b8c9d5a4-164c-46f6-8fe0-90441ae032d0": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Right-angle-mug-Earth-1024x819.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Right-Angle Mug: Earth",
+        "text_block": "<p>£28<\/p><p>Single piece sculpture<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "0485ff9c-df96-4ced-b133-7f1f90f8421f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Medium-Grey-Plate-1024x814.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Medium Plate",
+        "text_block": "<p>£58<\/p><p>Single piece sculpture<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "390fca6b-01a9-4dd9-afb9-f5222f2d762a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Ripple-light-1024x819.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Ripple Light",
+        "text_block": "<p>£120<\/p><p>Single piece sculpture<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "main",
+    "18a9c5e3-b1c6-44f5-b4c4-430dc9ca86b7",
+    "8efeaf7d-73c9-48e9-861a-dcfc22bada54",
+    "251b9029-1991-4384-a2a0-4bc99b88ff6d",
+    "b8c9d5a4-164c-46f6-8fe0-90441ae032d0",
+    "0485ff9c-df96-4ced-b133-7f1f90f8421f",
+    "390fca6b-01a9-4dd9-afb9-f5222f2d762a",
+    "blog-posts"
+  ]
+}

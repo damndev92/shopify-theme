@@ -1,0 +1,128 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/iStock_000023378936_Double-1024x683.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Flân Club: Meet Melinda Stevens, Editor-in-Chief of Conde Nast Traveller",
+        "title": "",
+        "text": "<p>To say Melinda Stevens is well-travelled would be an understatement. As global editor in chief of Condé Nast Traveler, it’s fair to say she’s a travel expert – having won awards for her role as editor and columnist. Before taking up the position she worked at esteemed publications like The Sunday Times and Tatler. And when she isn’t at her desk with a pen in her hand, she counts night-diving and Vespa riding as some of her favourite things to do. We sat down with Melinda to talk all things travel.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Melinda-Cover-731x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How would you describe your home in one word?<\/strong><br\/>Cabinet-of-curiosities-tropical-den<\/p><p><strong>What makes a home in one word?<\/strong><br\/>Cosy-delight<\/p><p><strong>How would you describe your taste in hotels in one word?<\/strong><br\/>Contrary<\/p><p><strong>What made you first want to travel?<\/strong><br\/>Smell<\/p><p><strong>Describe your traveling philosophy?<\/strong><br\/>Delight in the other.<\/p><p><strong>Something you’ve never told anybody about your travels?<\/strong><br\/>I can’t sleep the night before I fly<\/p><p><strong>Your favourite souvenir in your home?<\/strong><br\/>The shells collected in jam jars by my 3 daughters (but also mostly me) from every place they’ve been to with little coloured in place names<\/p><p><strong>Your best travel memory?<\/strong><br\/>Anywhere on a motorbike, with no agenda, passing through – Bali, Guatamala…<\/p><p><strong>Your worst travel memory?<\/strong><br\/>The train from Moscow to St Petersburg, the stench of the meatballs and with no meat and black tobacco and disinfectant, years before it opened up to tourism. Although, of course, I would suck that up in a second that now…<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/18-05_VillaFeltrinelli-188-1024x682.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>If you could stay in one hotel in the world today?<\/strong><br\/>Villa Feltrinelli, anywhere in Tulum, a tent in the Masai Mara……<\/p><p><strong>If you could eat at one restaurant in the world today?<\/strong><br\/>I’d quite like to go to my local pub, frankly, the Angelsea in Shepherds Bush, out on the pavement with the sun shining and a pint of cider<\/p><p><strong>Favourite address for decoration in London\/ in the world?<\/strong><br\/>All the shops along the Goldborne Road\/Creel and Gow in Manhattan<\/p><p><strong>How do you think this pandemic will influence the way we travel?<\/strong><br\/>Hopefully, more thoughtfully, more meaningfully…<\/p><p><strong>A message for people at home?<\/strong><br\/>Relish the small<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "a48bd472-7141-496a-ba39-f7a63cd7ada6": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18060440666427__a48bd472-7141-496a-ba39-f7a63cd7ada6-167689598164009885-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MF_DO_AmourGlasses_Silo-1_4e3b5547-aad8-4c67-95c0-5aa6e8954847.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Verres Amour, Set of 4<\/p><p>€56<\/p>"
+          }
+        },
+        "template--18060440666427__a48bd472-7141-496a-ba39-f7a63cd7ada6-167689598164009885-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Box-Marly-knives1.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Black and White Beaumarly Round Tip Knives, Set of 6<\/p><p>From €304<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18060440666427__a48bd472-7141-496a-ba39-f7a63cd7ada6-167689598164009885-0",
+        "template--18060440666427__a48bd472-7141-496a-ba39-f7a63cd7ada6-167689598164009885-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "main",
+    "a48bd472-7141-496a-ba39-f7a63cd7ada6",
+    "blog-posts"
+  ]
+}

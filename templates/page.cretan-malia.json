@@ -14,6 +14,10 @@
       "type": "template--page",
       "disabled": true,
       "settings": {
+        "hide_header": false,
+        "hide_default_content": false,
+        "alignment": "center",
+        "url": ""
       }
     },
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
@@ -140,7 +144,7 @@
         "url": "",
         "link": "shopify:\/\/collections\/cretan-malia",
         "bg_color": "#e28065",
-        "padding_top": 25,
+        "padding_top": 5,
         "padding_bottom": 25
       }
     },

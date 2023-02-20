@@ -1,0 +1,174 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1-1-1024x577.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "How It’s Made: Amuse la Bouche",
+        "title": "",
+        "text": "<p>Creativity pretty much runs through Georgie’s veins. Long before she ever conceived of the whimsical shapes and joyous patterns of <a href=\"https:\/\/www.amuselabouche.com\/\">Amuse la Bouche<\/a>, she was channeling inspiration into her surroundings. A childhood bedroom in constant state of feng shui (at one point even boasting custard yellow walls!) is testament.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Win-a-Bundle-11-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "The Beginning",
+        "text_block": "<p>Though she had been crafting her whimsical pieces for years, university and a full-time job left Georgie without the time to really dedicate herself to her creative impulses. All of that changed, however, back in 2020. A global pandemic hit and life slowed down. Suddenly, she was able to turn a period of stasis into something incredible: the very first <a href=\"https:\/\/www.maisonflaneur.com\/product\/amuse-la-bouche-baby-blue-gift-box\/\">Amuse la Bouche napkins<\/a> were sewn.<\/p><p>Creativity often emerges from chaos, and Georgie’s process is no different. Her approach to creation is ever-shifting. She’s still responsible for everything from setting up the business to manning the orders, and seeing the cycle through from start to finish. But, no matter the current approach, it all starts with a drawing.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Win-a-Bundle-12-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Inspirations",
+        "text_block": "<p>Colour really inspires her. Colour field artists such as Helen Frankenthaler, Mark Rothko and Georgia O’Keefe get her wheels going as she takes to the drawing board. With a real affinity for natural fabrics, Georgie refused to compromise and use man-made fibres so 100% linen was a true no-brainer. Luckily, it just so happens to be the perfect fabric for her products. Talk about a win-win!<\/p><p>Finding the right suppliers for her gorgeous linen was a lengthy process. She eventually landed on a fantastic linen producer in Belgium who upheld her desire for sustainability for ALB. She sourced eco-friendly dyes and found a team of highly skilled artisans in India who produce each piece by hand in small batches to ensure there’s as little waste as possible.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "3ed41afc-fc06-477c-8300-7f785e345332": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/bluechecknapkin_1024x1024_2x-1024x999.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "The Team",
+        "text_block": "<p>While Georgie collaborates with talented craftsmen in the UK and in India, every design, each idea is dreamt up at her home in London. Quick to recognise those who support her, Georgie gives credit where credit is due. She unfailingly touts the talents of her makers in India, as well as her publicist, Amelia from Passaro Publicity, who helps bring her creative universe to the rest of us.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "c81c08af-612c-4251-b4c7-776efc8316a4": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Win-a-Bundle-13-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Today",
+        "text_block": "<p>These days, Amuse la Bouche looks quite different from that first hand-sewn, corona-created napkin. Collaborations abound, fonts evolve, new products enter the roster and pipe dreams of garden offices become firmer possibilities. But the playful heart of the brand remains.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "197e9db6-97e3-41a7-9a0c-370618621167": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18029909049659__197e9db6-97e3-41a7-9a0c-370618621167-1676643946f5a68e6d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Seagreencushioncover_1024x1024_2x-1024x999.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Sea Green Extra Wide Stripe Cushion Cover<\/p><p>£65<\/p>"
+          }
+        },
+        "template--18029909049659__197e9db6-97e3-41a7-9a0c-370618621167-1676643946f5a68e6d-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Product-Picture-Template-600-x-600-8.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Aperitif Tea Towel<\/p><p>£28<\/p>"
+          }
+        },
+        "template--18029909049659__197e9db6-97e3-41a7-9a0c-370618621167-1676643946f5a68e6d-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AzureCandyStripeCushion.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Folkstone Blue Candy Stripe Cushion Cover<\/p><p>£65<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18029909049659__197e9db6-97e3-41a7-9a0c-370618621167-1676643946f5a68e6d-0",
+        "template--18029909049659__197e9db6-97e3-41a7-9a0c-370618621167-1676643946f5a68e6d-1",
+        "template--18029909049659__197e9db6-97e3-41a7-9a0c-370618621167-1676643946f5a68e6d-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "main",
+    "3ed41afc-fc06-477c-8300-7f785e345332",
+    "c81c08af-612c-4251-b4c7-776efc8316a4",
+    "197e9db6-97e3-41a7-9a0c-370618621167",
+    "blog-posts"
+  ]
+}

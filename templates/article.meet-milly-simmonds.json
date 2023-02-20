@@ -1,0 +1,149 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Milly-1000-x-300px.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Meet Milly Simmonds, Olive & Co",
+        "title": "",
+        "text": "<p>Some things just seem to come naturally for some people. Good taste is one of those things for the brilliant maker behind <a href=\"https:\/\/www.maisonflaneur.com\/product\/issy-granger-x-olive-co-the-dolly-glass-candlestick\/\">Olive & Co<\/a>, Milly Simmonds. Years in the fashion industry honed Milly’s eye, but really, she’s always known what works and, more importantly, what doesn’t. We sat down with her to chat all things interiors, inspiration and everything in between.<\/p><p>Get ready to meet the maker!<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2022-08-09-at-3.56.17-PM-1-1024x986.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Tell us a little bit about yourself (personally and as a maker!) and how you dreamt up Olive & Co.<\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/product\/issy-granger-x-olive-co-the-dolly-glass-candlestick\/\">Olive & Co<\/a> has been coming together as an idea for many years now. As a small child, I would always ask my mum if I could lay the table and make it “extra special”. I would dig out her pretty linens, pick flowers from the garden and make little floral displays along the table, tie ribbons around napkins and design name cards and menus! I loved it. This started at the age of 6!<\/p><p>The business organically grew into a shop, as lots of our clients were asking if they could purchase products we were using for styling. I had always dreamt of having a shop and designing one-of-a-kind pieces that are special to keep forever.<\/p><p>Describe your aesthetic in three words.<\/p><p>Natural, effortless & elegant.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/21-1-1024x1024-1.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Give us your top tips for creating a beautiful table.<\/strong><\/p><p>I always love to find in-season flowers to work with. I then use the style and colours of the flowers to flow through the rest of the table.<\/p><p>I always think using a linen completes a tablescape. I do love the “naked” table look, but there are so many amazing linens out there that really add a fun element to your table!<\/p><p>Create different heights of candlelight by using tea <a href=\"https:\/\/www.maisonflaneur.com\/product\/issy-granger-x-olive-co-the-dotty-glass-candlestick\/\">lights<\/a>, church candles and tapered or twist candles. This will bring lots of atmosphere into the room. Also, light lanterns or hurricane vases around the room.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "1e7f4567-b73e-4982-82d5-58fd63c33783": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2022-08-10-at-7.26.18-AM-758x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Where do you get your inspiration?<\/p><p>Most of our inspiration comes from nature and the seasons. Travel and culture also hugely inspires me.<\/p><p>What’s your favourite piece at home?<\/p><p>I do love our huge farmhouse  kitchen table, which I struggle to fit any linen on! It’s a little rugged, as we’ve been so relaxed with kids drawing on it and the odd glass of red spilling on it, but it does tell a few stories! I like unfussy things that I don’t have to be precious about. I also love our boucle cream chair from <a href=\"https:\/\/www.sohohome.com\/\">Soho Home<\/a>. It’s the perfect spot for reading by the fire.<\/p><p>You can only stay in one hotel for the rest of your life. Where are you checking in?<\/p><p>Baglio Occhipinti in Sicily. Understated, rustic, and with the most amazing food, wine, staff sunken bath. No flashy things. Just simple Italian everything. It’s perfect.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "d93cae5f-129c-45ef-af93-3d95e2531e26": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Penny-Morrison-Mustard-Ribbed-Vase-Ceramic-Lamp-Base-Quirky-Unique-Colourful-Hand-Painted-Bespoke-Artisanal_700x_2bf4dbe5-2b42-426f-a494-7c507607c689.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What are the similarities between the fashion world and the design world?<\/strong><\/p><p>The fashion world and the design world influence one another. You see the same details on clothes that you do in homes. Think about detailed embroidery or the use of materials like leather and silk. Fashion designers are working with design brands more than ever right now. Fashion and design follow a very similar creative process. They are both influenced by travel, culture and what’s happening in the world.<\/p><p><strong>As a ‘maker’ what is good taste for you? How about bad?<\/strong><\/p><p>Good: a nice mix of materials, a flowing colour palette to create the right mood, comfortable yet stylish furniture and GOOD LIGHTING! Lots of table lamps and no overhead lights unless they’re on a dimmer. Special pieces from travels always go a long way, as does natural flooring like solid wood or sea grass. Ambience is everything!<\/p><p>Bad: bright overhead lights are a massive no-no. Uninteresting colours are lacklustre; think all grey everything…  grey walls, grey furniture, grey linens. A room needs to be interesting and inviting when you walk in.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "7b1ce40c-781f-4993-b334-56aa280a319a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/ORNA-Delicate-Porcelain-Flower-Hand-Painted-Candle-2.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Ok, last one. Any secret design sources to share?<\/strong><\/p><p>I don’t really have one source. For me, it’s about what inspires me at that time of designing.  It could be people, cultures, travel, the sea  or literally a simple, beautiful wild flower.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "main",
+    "1e7f4567-b73e-4982-82d5-58fd63c33783",
+    "d93cae5f-129c-45ef-af93-3d95e2531e26",
+    "7b1ce40c-781f-4993-b334-56aa280a319a",
+    "blog-posts"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SINNER_Lobby.webp",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Flân’ Club: Sinner Hotel, Paris, France",
+        "title": "",
+        "text": "<p>In the Haut-Marais Paris, Evok Hotel has raised the bar on Parisian luxury. The latest addition to the group’s collection, <a href=\"https:\/\/www.sinnerparis.com\/?gclid=EAIaIQobChMI0Z7S27K64wIVBl8NCh1ecgWUEAAYASAAEgKQkvD_BwE\" target=\"_blank\">Sinner Paris<\/a>, opened in the summer of 2019. The sexy 43-room hotel is a Flâneur’s delight.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "8a472bfe-f624-45cb-8ae8-b7288ba482dd": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/10-SINNER_Restaurant_16___Guillaume_de_Laubier-1024x683.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/IMG_2117-826x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>“We were attracted to his eclectic style, first and foremost,” says Sauvage of tapping Tristan Auer to design the space. “He knows how to navigate through different eras and create a custom result. That was the challenge of this project: to take guests through the eras of the religious Marais to the vibrant and carefree Marais of the ’70s, and to the present day, where leading names in design, literature, and art come together.”  Words from Timothy Latterner for<a href=\"https:\/\/www.architecturaldigest.com\/story\/sinner-paris-hotel\">AD Magazine<\/a>.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "9700143a-e7fc-4ee8-a1eb-811366c1adff": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SINNER_room-1024x683.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "8a472bfe-f624-45cb-8ae8-b7288ba482dd",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "9700143a-e7fc-4ee8-a1eb-811366c1adff",
+    "main",
+    "blog-posts"
+  ]
+}
