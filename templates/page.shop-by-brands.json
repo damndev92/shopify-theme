@@ -351,12 +351,14 @@
         },
         "template--17643498701115__765a6418-71e8-40ec-a23e-03b3f74afff9-167692483338ec4965-1": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": ""
           }
         },
         "template--17643498701115__765a6418-71e8-40ec-a23e-03b3f74afff9-167692483338ec4965-2": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": ""
           }
