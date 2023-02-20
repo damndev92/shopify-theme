@@ -18,13 +18,16 @@
         "subheading": "",
         "page_title": "Get in touch",
         "title": "",
-        "text": "<p>We would love to hear from you, please reach out if you have any questions regarding your order, product help or just to say hello. In the meantime, you can check out our <a href=\"https:\/\/maisonflaneur.myshopify.com\/pages\/faqs\" title=\"https:\/\/maisonflaneur.myshopify.com\/pages\/faqs\">FAQs<\/a>.<\/p>",
+        "text": "<p>We would love to hear from you, please reach out if you have any questions regarding your order, product help or just to say hello. In the meantime, you can check out our <a href=\"https:\/\/maisonflaneur.myshopify.com\/pages\/faqs\" title=\"https:\/\/maisonflaneur.myshopify.com\/pages\/faqs\">FAQs here<\/a>.<\/p>",
         "button_link": "",
         "button_label": ""
       }
     },
     "main": {
       "type": "template--page-contact",
+      "custom_css": [
+
+      ],
       "settings": {
       }
     },
