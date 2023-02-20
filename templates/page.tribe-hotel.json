@@ -14,6 +14,11 @@
       "type": "template--page",
       "disabled": true,
       "settings": {
+        "white_label": false,
+        "hide_header": false,
+        "hide_default_content": false,
+        "alignment": "center",
+        "url": ""
       }
     },
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
@@ -134,11 +139,68 @@
         "fc4edb16-0d6f-4ecd-aa87-7167f0120940": {
           "type": "image",
           "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-20-tribe-hotel.jpg"
+          }
+        },
+        "584efbf5-0509-4ddb-b502-b57b88aead80": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-06-tribe-hotel.jpg"
+          }
+        },
+        "d34adaeb-b5d3-4e09-894d-d02dfcab1d28": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-08-tribe-hotel.jpg"
+          }
+        },
+        "32c841b9-e385-4a48-ad85-329c9f71e215": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-03-tribe-hotel.jpg"
+          }
+        },
+        "d6cbcf6e-eea9-4627-83ef-a31f9d02f951": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-22-tribe-hotel.jpg"
+          }
+        },
+        "f2d025c5-e266-4073-8029-f79070c185d6": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-25-tribe-hotel.jpg"
+          }
+        },
+        "9a98c71a-96bd-4164-a8d6-3177ecad93ec": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-23-tribe-hotel_1.jpg"
+          }
+        },
+        "fcf4e000-f5b6-4d80-a21b-116a37aea5d6": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-13-tribe-hotel.jpg"
+          }
+        },
+        "180d8c03-a298-4c7e-9f24-c6187ba2dead": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-11-tribe-hotel-min.jpg"
           }
         }
       },
       "block_order": [
-        "fc4edb16-0d6f-4ecd-aa87-7167f0120940"
+        "fc4edb16-0d6f-4ecd-aa87-7167f0120940",
+        "584efbf5-0509-4ddb-b502-b57b88aead80",
+        "d34adaeb-b5d3-4e09-894d-d02dfcab1d28",
+        "32c841b9-e385-4a48-ad85-329c9f71e215",
+        "d6cbcf6e-eea9-4627-83ef-a31f9d02f951",
+        "f2d025c5-e266-4073-8029-f79070c185d6",
+        "9a98c71a-96bd-4164-a8d6-3177ecad93ec",
+        "fcf4e000-f5b6-4d80-a21b-116a37aea5d6",
+        "180d8c03-a298-4c7e-9f24-c6187ba2dead"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_2_542b610e-5f28-467d-abaf-cf9373d83c90.png",
