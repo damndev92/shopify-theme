@@ -121,6 +121,23 @@
         "button_label": ""
       }
     },
+    "1f916df3-075c-4c2c-8e70-cdb17d7654be": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Lisbon-guide-1024x1024-1.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "6. Secret Spot:",
+        "text_block": "<p><a href=\"https:\/\/www.dearbreakfast.com\/\">Dear Breakfast Rooftop<\/a><\/p><p>Calçada Ribeiro Santos 37, 1200-690 Lisbon<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -144,6 +161,7 @@
     "5fcf0138-c49e-4d25-a665-de44e166423e",
     "3e820763-99e9-41b8-9f48-a7826db3d94d",
     "d4376ad9-02eb-4c84-8b3d-246448063145",
+    "1f916df3-075c-4c2c-8e70-cdb17d7654be",
     "blog-posts"
   ]
 }
