@@ -141,10 +141,73 @@
           "settings": {
             "gallery_image": "shopify:\/\/shop_images\/CIRCULO_BANNER_2.jpg"
           }
+        },
+        "ad87f79b-2668-4d5c-a8c8-ce045c7e0041": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-23-circulo-mexicano.webp"
+          }
+        },
+        "e429eac4-07bd-420a-8878-c2076cd6f6a0": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-08-circulo-mexicano.webp"
+          }
+        },
+        "59062a72-a8e7-4b2b-9e0a-137ca8657d9f": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-14-circulo-mexicano.webp"
+          }
+        },
+        "29c816ce-0d74-409c-ac2d-08bad037a12c": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-16-circulo-mexicano.webp"
+          }
+        },
+        "3ec3c069-4733-45e8-b86b-828a83b6de31": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-10-circulo-mexicano.webp"
+          }
+        },
+        "e835ca77-8930-427a-8776-cc596bb03cd8": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-05-circulo-mexicano.webp"
+          }
+        },
+        "fd141116-ca9c-413b-98fe-6199877312ff": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-04-circulo-mexicano.webp"
+          }
+        },
+        "99fdf805-9424-4d7d-8457-0117ea54d509": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-02-circulo-mexicano.webp"
+          }
+        },
+        "1e4f79eb-6144-4b6e-8737-c79bead65b05": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-12-circulo-mexicano.webp"
+          }
         }
       },
       "block_order": [
-        "edb801fe-55f7-4605-93bb-45aee44ca3da"
+        "edb801fe-55f7-4605-93bb-45aee44ca3da",
+        "ad87f79b-2668-4d5c-a8c8-ce045c7e0041",
+        "e429eac4-07bd-420a-8878-c2076cd6f6a0",
+        "59062a72-a8e7-4b2b-9e0a-137ca8657d9f",
+        "29c816ce-0d74-409c-ac2d-08bad037a12c",
+        "3ec3c069-4733-45e8-b86b-828a83b6de31",
+        "e835ca77-8930-427a-8776-cc596bb03cd8",
+        "fd141116-ca9c-413b-98fe-6199877312ff",
+        "99fdf805-9424-4d7d-8457-0117ea54d509",
+        "1e4f79eb-6144-4b6e-8737-c79bead65b05"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Schermata-2021-06-01-alle-18.00.09-1024x683_22ddeca1-351b-47d5-9beb-861d9a590ca6.png",
