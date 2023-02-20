@@ -13,6 +13,7 @@
     "main": {
       "type": "template--page",
       "settings": {
+        "white_label": false,
         "hide_header": false,
         "hide_default_content": false,
         "alignment": "center",
@@ -24,49 +25,33 @@
       "settings": {
         "colors": "white",
         "image-width": "large",
-        "image": "shopify:\/\/shop_images\/Screen-Shot-2018-11-14-at-17.28.28-copy-1024x576.png",
+        "image": "shopify:\/\/shop_images\/cretan_malia_144028ee-4050-4edb-8723-81351287f1e4.png",
         "layout": "left",
         "subheading": "Crete, Greece",
         "location": false,
         "title": "Cretan Malia Park",
-        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "text_block": "<p>A lush outside world perfect for families blends harmoniously within at this expansive retreat where traditional materials and textures offer a new take on Cretan luxury.<\/p>",
         "page_description": false,
         "button_link": "shopify:\/\/collections\/cretan-malia",
         "hotel_page_url": false,
         "button_label": "Shop now"
       }
     },
-    "d0ee3d2e-32cd-489e-8669-759b0620388e": {
+    "f6c881ac-dc87-4e8e-9805-112024559187": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/10-SINNER_Restaurant_16___Guillaume_de_Laubier-1024x683.jpg",
-        "layout": "left",
-        "subheading": "",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/hotel_pacai_a0fd9386-281a-40b9-976e-1d39846f0942.png",
+        "layout": "right",
+        "subheading": "Vilnius, Lithuania",
         "location": false,
-        "title": "Share brand or product details",
-        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "title": "Hotel Pacai",
+        "text_block": "<p>Set in the heart of Vilnius’ Old Town, Hotel Pacai perfectly echoes this quarter’s 17th-century Baroque grandeur, yet augments it with a contemporary twist.<\/p>",
         "page_description": false,
-        "button_link": "",
+        "button_link": "shopify:\/\/collections\/hotel-pacai",
         "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "7a78f485-7b56-4c85-87d4-899c958e904d": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "Share brand or product details",
-        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
+        "button_label": "Shop now"
       }
     }
   },
@@ -74,7 +59,6 @@
     "d5277379-ae02-4eb1-ac45-a58c58641551",
     "main",
     "384183d8-0673-4118-b673-86efa8667bc3",
-    "d0ee3d2e-32cd-489e-8669-759b0620388e",
-    "7a78f485-7b56-4c85-87d4-899c958e904d"
+    "f6c881ac-dc87-4e8e-9805-112024559187"
   ]
 }
