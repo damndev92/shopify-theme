@@ -29,7 +29,7 @@
         "subheading": "",
         "page_title": "Our Vision",
         "title": "",
-        "text": "<p>Flâneur in French translates as ‘wanderer’. We feel we are part of a new generation of Flâneurs.<br\/>As travelers, we strive to find authentic locations, as consumers, we want to create meaningful<br\/>relationships with the things we buy. We want to put homeware back in the context of the<br\/>cultures and trends that shape the world we live in. Maison Flâneur is the destination of choice<br\/>for travelers and home enthusiasts looking for a unique and ever-evolving collection of<br\/>homeware products curated from the best hotels, restaurants and hospitality experiences<br\/>across the world with a view to curating a collection of uniquely timeless pieces. Our virtual<br\/>marketplace enables the shopper to view our retail space from anywhere in the world.<\/p>",
+        "text": "<p>Flâneur in French translates as ‘wanderer’. We feel we are part of a new generation of Flâneurs.<br\/><br\/>As travellers, we strive to find authentic locations, and as consumers, we want to create meaningful relationships with the things we buy. We want to put homeware back in the context of the cultures and trends that shape the world we live in. <br\/><br\/>Maison Flâneur is the destination of choice for travellers and home enthusiasts looking for a unique and ever-evolving collection of homeware products curated from the best hotels, restaurants and hospitality experiences<br\/>across the world with a view to curating a collection of uniquely timeless pieces. <\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -125,6 +125,7 @@
     "d5f4210d-71b3-4c43-b243-754b83431924": {
       "type": "image--image",
       "settings": {
+        "image": "shopify:\/\/shop_images\/g-14-circulo-mexicano.webp",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
