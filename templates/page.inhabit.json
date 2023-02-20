@@ -139,11 +139,110 @@
         "02c49b1b-a70c-469f-9183-77a61e5cdf79": {
           "type": "image",
           "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-06-inhabit-hotel.jpg"
+          }
+        },
+        "17d368c3-ab57-4fbc-a4e5-a1ea41205317": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-10-inhabit-hotel.jpg"
+          }
+        },
+        "da481c70-e7b1-427d-9b43-3dc0463083c8": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-11-inhabit-hotel.jpg"
+          }
+        },
+        "b754c5d3-ed2f-48b0-acea-65332a24620a": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-04-inhabit-hotel.jpg"
+          }
+        },
+        "b2f6fc95-9f5c-459a-a467-2e5990f546e2": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-09-inhabit-hotel.jpg"
+          }
+        },
+        "25957b4a-0d67-41d0-bf69-7816674bd4c1": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-13-inhabit-hotel.jpg"
+          }
+        },
+        "a917d17d-f4eb-43cb-b512-68f1eec1af2a": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-15-inhabit-hotel.jpg"
+          }
+        },
+        "5796cfde-4033-486c-a1b3-509e8d2bd565": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-17-inhabit-hotel.jpg"
+          }
+        },
+        "832e7747-17f2-4510-bb38-dcf303f35c74": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-16-inhabit-hotel.jpg"
+          }
+        },
+        "d81fd26f-8f39-4336-adf3-78c03203fb18": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-18-inhabit-hotel.jpg"
+          }
+        },
+        "eb83e752-f82b-4ec7-89b1-7518c614afea": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-01-inhabit-hotel.jpg"
+          }
+        },
+        "0d717adc-3359-4bb2-b7bb-8c3bea5ffff8": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-12-inhabit-hotel.jpg"
+          }
+        },
+        "efde237d-a361-4db9-8f32-4ebf81ff8c78": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-07-inhabit-hotel.jpg"
+          }
+        },
+        "7efbff87-5266-4d5f-9faf-15bd24e93bbb": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-03-inhabit-hotel.jpg"
+          }
+        },
+        "ec8dd1ca-9cbf-449b-85c7-82966fc344ad": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-02-inhabit-hotel_1.jpg"
           }
         }
       },
       "block_order": [
-        "02c49b1b-a70c-469f-9183-77a61e5cdf79"
+        "02c49b1b-a70c-469f-9183-77a61e5cdf79",
+        "17d368c3-ab57-4fbc-a4e5-a1ea41205317",
+        "da481c70-e7b1-427d-9b43-3dc0463083c8",
+        "b754c5d3-ed2f-48b0-acea-65332a24620a",
+        "b2f6fc95-9f5c-459a-a467-2e5990f546e2",
+        "25957b4a-0d67-41d0-bf69-7816674bd4c1",
+        "a917d17d-f4eb-43cb-b512-68f1eec1af2a",
+        "5796cfde-4033-486c-a1b3-509e8d2bd565",
+        "832e7747-17f2-4510-bb38-dcf303f35c74",
+        "d81fd26f-8f39-4336-adf3-78c03203fb18",
+        "eb83e752-f82b-4ec7-89b1-7518c614afea",
+        "0d717adc-3359-4bb2-b7bb-8c3bea5ffff8",
+        "efde237d-a361-4db9-8f32-4ebf81ff8c78",
+        "7efbff87-5266-4d5f-9faf-15bd24e93bbb",
+        "ec8dd1ca-9cbf-449b-85c7-82966fc344ad"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_8ee35f95-5487-4778-89be-5e60bf79a451.png",
