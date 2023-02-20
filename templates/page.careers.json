@@ -35,6 +35,7 @@
     },
     "ee04ac75-aa4d-46e9-a2df-38f736ec7c60": {
       "type": "image--gallery",
+      "disabled": true,
       "blocks": {
         "template--18019757850939__ee04ac75-aa4d-46e9-a2df-38f736ec7c60-1676564864eb37761e-0": {
           "type": "image",
