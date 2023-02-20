@@ -14,6 +14,11 @@
       "type": "template--page",
       "disabled": true,
       "settings": {
+        "white_label": false,
+        "hide_header": false,
+        "hide_default_content": false,
+        "alignment": "center",
+        "url": ""
       }
     },
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
@@ -134,11 +139,96 @@
         "59544f1e-82fb-48ab-9652-cbc926874141": {
           "type": "image",
           "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/parilio-s-02-r-1-jpg.jpg"
+          }
+        },
+        "18a62340-8cd1-4b53-afae-508139bb6ffa": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-05-parilio.jpg"
+          }
+        },
+        "157a741a-aed5-46ea-a35c-0461b2f97a74": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/parilio-restaurant-dining-tables-interior-design-view-m-03-r-jpg.jpg"
+          }
+        },
+        "511bb4ea-8399-404e-95c7-571cb55158c0": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/parilio-guestroom-terrace-pool-view-m-12-r-jpg.jpg"
+          }
+        },
+        "c34a8274-bee5-4d82-963a-e2d1e0060c7a": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/parilio-guestroom-interior-design-m-09-r-jpg.jpg"
+          }
+        },
+        "d8e8820c-3558-41ef-97a8-efdf33941167": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/parilio-exterior-terrace-dining-tables-m-05-r-a-a.jpg"
+          }
+        },
+        "6f9b918a-156e-4842-8b55-bf85e4f9bb22": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/parilio-pool-sunlongers-landscape-view-m-07-r-jpg.jpg"
+          }
+        },
+        "733b31cc-a6cd-4857-a66c-a3f196dbd656": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/parilio-bedroom-terrace-view-m-10-r-jpg_1.jpg"
+          }
+        },
+        "000aca1e-2b24-46c3-9595-28e1b0bb7011": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-17-parilio.jpg"
+          }
+        },
+        "df7b5947-d31a-4493-aab9-dd389951fef0": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/parilio-guestroom-sofa-furniture-interior-design-m-11-r-jpg.jpg"
+          }
+        },
+        "6c64046e-1c22-475a-bd19-ddde5bdd7d5b": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/parilio-exterior-landscape-view-m-01-r-jpg.jpg"
+          }
+        },
+        "86db1c9a-f2f8-400b-850b-205cfd76e590": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-08-parilio.jpg"
+          }
+        },
+        "3fdbdb41-2692-4110-967a-757da34c987d": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/parilio-s-01-rrr-jpg.jpg"
           }
         }
       },
       "block_order": [
-        "59544f1e-82fb-48ab-9652-cbc926874141"
+        "59544f1e-82fb-48ab-9652-cbc926874141",
+        "18a62340-8cd1-4b53-afae-508139bb6ffa",
+        "157a741a-aed5-46ea-a35c-0461b2f97a74",
+        "511bb4ea-8399-404e-95c7-571cb55158c0",
+        "c34a8274-bee5-4d82-963a-e2d1e0060c7a",
+        "d8e8820c-3558-41ef-97a8-efdf33941167",
+        "6f9b918a-156e-4842-8b55-bf85e4f9bb22",
+        "733b31cc-a6cd-4857-a66c-a3f196dbd656",
+        "000aca1e-2b24-46c3-9595-28e1b0bb7011",
+        "df7b5947-d31a-4493-aab9-dd389951fef0",
+        "6c64046e-1c22-475a-bd19-ddde5bdd7d5b",
+        "86db1c9a-f2f8-400b-850b-205cfd76e590",
+        "3fdbdb41-2692-4110-967a-757da34c987d"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/PARILIO_COVER_1.jpg",
@@ -209,7 +299,7 @@
         "0abcec26-bcc0-4da5-ba3d-2081edfd6f0a"
       ],
       "settings": {
-        "background-color": "#F3F3F3",
+        "background-color": "#f3f3f3",
         "text-color": "#000000",
         "title": "Tips from the hosts",
         "faq_icon": "plus_minus"
