@@ -14,6 +14,11 @@
       "type": "template--page",
       "disabled": true,
       "settings": {
+        "white_label": false,
+        "hide_header": false,
+        "hide_default_content": false,
+        "alignment": "center",
+        "url": ""
       }
     },
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
@@ -131,6 +136,18 @@
     "3e33914a-e927-4abd-a0bb-4265c3e5c2c6": {
       "type": "image--image-with-text-overlay",
       "blocks": {
+        "3e60e050-202a-43ac-9bf8-7c88956158f6": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/hotel-pacai-s-01-r-4-jpg_1.jpg"
+          }
+        },
+        "4f296eda-7c65-41a0-8614-0001f445a639": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/hotel-pacai-s-01-r-4-jpg_1_1.jpg"
+          }
+        },
         "8fcf77c8-84b0-42cd-a538-b45583bd6593": {
           "type": "image",
           "settings": {
@@ -145,6 +162,8 @@
         }
       },
       "block_order": [
+        "3e60e050-202a-43ac-9bf8-7c88956158f6",
+        "4f296eda-7c65-41a0-8614-0001f445a639",
         "8fcf77c8-84b0-42cd-a538-b45583bd6593",
         "752e1da0-5481-4bd3-bebb-c4a490786dcf"
       ],
