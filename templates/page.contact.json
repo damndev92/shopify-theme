@@ -104,15 +104,17 @@
         "button_label": "Shop now"
       }
     },
-    "e0c21d68-bba0-4833-97c4-3c0fa1e7e9bc": {
-      "type": "text--rich-text",
+    "4cdac9e0-e008-4499-97a3-7b5e271bae47": {
+      "type": "image--image-with-text-block",
       "settings": {
-        "colors": "white",
-        "width": "medium",
+        "desktop_image": "shopify:\/\/shop_images\/option_Brand_Feature_Image_-_Collection.png",
+        "parallax": false,
+        "text-color": "#000000",
+        "background-color": "#ffffff",
+        "horizontal-alignment": "center",
         "subheading": "",
-        "page_title": "",
         "title": "Partner with us",
-        "text": "<p>We are always on the lookout for  exciting brands to join our community, if you are interested in joining  Maison Flaâneur please get in touch at <strong>brands@maisonflaneur.com<\/strong><\/p>",
+        "text": "We are always on the lookout for  exciting brands to join our community, if you are interested in joining  Maison Flaâneur please get in touch at brands@maisonflaneur.com",
         "button_link": "",
         "button_label": ""
       }
@@ -134,7 +136,7 @@
     "4d452cd3-0491-4a79-99e3-cd85b8a7c528",
     "accordion",
     "rich-text",
-    "e0c21d68-bba0-4833-97c4-3c0fa1e7e9bc",
+    "4cdac9e0-e008-4499-97a3-7b5e271bae47",
     "social-media-icons"
   ]
 }
