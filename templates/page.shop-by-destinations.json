@@ -20,6 +20,23 @@
         "url": ""
       }
     },
+    "f6c881ac-dc87-4e8e-9805-112024559187": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/hotel_pacai_a0fd9386-281a-40b9-976e-1d39846f0942.png",
+        "layout": "left",
+        "subheading": "Vilnius, Lithuania",
+        "location": false,
+        "title": "Hotel Pacai",
+        "text_block": "<p>Set in the heart of Vilnius’ Old Town, Hotel Pacai perfectly echoes this quarter’s 17th-century Baroque grandeur, yet augments it with a contemporary twist.<\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/collections\/hotel-pacai",
+        "hotel_page_url": false,
+        "button_label": "Shop now"
+      }
+    },
     "384183d8-0673-4118-b673-86efa8667bc3": {
       "type": "text--image-with-text",
       "settings": {
@@ -36,29 +53,12 @@
         "hotel_page_url": false,
         "button_label": "Shop now"
       }
-    },
-    "f6c881ac-dc87-4e8e-9805-112024559187": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "large",
-        "image": "shopify:\/\/shop_images\/hotel_pacai_a0fd9386-281a-40b9-976e-1d39846f0942.png",
-        "layout": "right",
-        "subheading": "Vilnius, Lithuania",
-        "location": false,
-        "title": "Hotel Pacai",
-        "text_block": "<p>Set in the heart of Vilnius’ Old Town, Hotel Pacai perfectly echoes this quarter’s 17th-century Baroque grandeur, yet augments it with a contemporary twist.<\/p>",
-        "page_description": false,
-        "button_link": "shopify:\/\/collections\/hotel-pacai",
-        "hotel_page_url": false,
-        "button_label": "Shop now"
-      }
     }
   },
   "order": [
     "d5277379-ae02-4eb1-ac45-a58c58641551",
     "main",
-    "384183d8-0673-4118-b673-86efa8667bc3",
-    "f6c881ac-dc87-4e8e-9805-112024559187"
+    "f6c881ac-dc87-4e8e-9805-112024559187",
+    "384183d8-0673-4118-b673-86efa8667bc3"
   ]
 }
