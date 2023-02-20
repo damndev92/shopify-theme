@@ -172,6 +172,23 @@
         "hotel_page_url": false,
         "button_label": "Shop now"
       }
+    },
+    "3a77aa98-7541-4b03-b228-27f42672f5da": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/twelve_senses.png",
+        "layout": "left",
+        "subheading": "California, USA",
+        "location": false,
+        "title": "Twelve Senses Retreat",
+        "text_block": "<p>Behold a holistic retreat with rooms designed on the philosophy of the four elements of nature: earth, water, air, and fire.<\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/collections\/twelve-senses",
+        "hotel_page_url": false,
+        "button_label": "Shop now"
+      }
     }
   },
   "order": [
@@ -185,6 +202,7 @@
     "384183d8-0673-4118-b673-86efa8667bc3",
     "0fcf515a-db78-489b-ae64-a8d30387f016",
     "4ef94675-0a72-4759-9309-9c53bdf87c00",
-    "d621fb73-de1a-4a9f-b7c4-4bca9038dca9"
+    "d621fb73-de1a-4a9f-b7c4-4bca9038dca9",
+    "3a77aa98-7541-4b03-b228-27f42672f5da"
   ]
 }
