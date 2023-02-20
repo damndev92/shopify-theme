@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
+        "image": "shopify:\/\/shop_images\/Maison-Flaneur-Twelve-Senses5.png",
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>Maison Flâneur Recommends<\/strong><br\/>The 12 Senses Retreat is a place that will do good for your body and soul. <br\/>Whether you want to spend the day engaging in mindful classes with locals or being at one with the ocean (this spot is known to be surfers` par­adise), reconnecting with yourself and nature is encouraged. <br\/>Not too far from local artisanal shops, don’t miss out on getting a taste of Encinitas’ mindful and sustainable culture. The farmers market is a foodie’s dream where one can explore endless culinary innovation, including vegan cuisine. Book a private chef for an in-depth exploration of local taste! <\/p><p> <\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/twelve-senses\/\">Discover their full collection here <\/a><\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
