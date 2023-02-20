@@ -18,6 +18,12 @@
 		justify-content: {{ section.settings.alignment }};
 	}
 
+	@media screen and (max-width: 767px) {
+		.partners-logo {
+			top: 10px;
+			left: 15px;
+		}
+	}
 	.qview-button-wrapper .qview-button {
 		width: 100% !important;
 		height: 100% !important;
@@ -75,9 +81,18 @@
 		display: none !important;
 	}
 
-	.header-wrapper .header-icons.cart-link ul li:not(:last-of-type) {
+	.header-wrapper .header-icons.cart-link ul li:not(:last-of-type),
+	.header-wrapper .sticky-header-icons div.sticky-header-icon:not(:last-of-type){
 		display: none !important;
 	}
+
+	@media screen and (max-width: 767px) {
+		.mobile-side-column.mobile-header-wrap--icons:not(:last-of-type),
+		.sticky-header-wrapper.sticky {
+			display: none;
+		}
+	}
+
 	{% endif %}
 	{% if section.settings.hide_default_content == true %}
 	article#{{ page.handle }} {
