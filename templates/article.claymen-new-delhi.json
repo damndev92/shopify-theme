@@ -155,6 +155,23 @@
         "button_label": ""
       }
     },
+    "390fca6b-01a9-4dd9-afb9-f5222f2d762a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Ripple-light-1024x819.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Ripple Light",
+        "text_block": "<p>£120<\/p><p>Single piece sculpture<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -180,6 +197,7 @@
     "251b9029-1991-4384-a2a0-4bc99b88ff6d",
     "b8c9d5a4-164c-46f6-8fe0-90441ae032d0",
     "0485ff9c-df96-4ced-b133-7f1f90f8421f",
+    "390fca6b-01a9-4dd9-afb9-f5222f2d762a",
     "blog-posts"
   ]
 }
