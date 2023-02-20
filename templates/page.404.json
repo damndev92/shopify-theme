@@ -4,6 +4,7 @@
       "type": "template--page",
       "disabled": true,
       "settings": {
+        "white_label": false,
         "hide_header": false,
         "hide_default_content": false,
         "alignment": "center",
@@ -14,10 +15,10 @@
       "type": "image--image",
       "settings": {
         "image": "shopify:\/\/shop_images\/PARILIO_COVER.jpg",
-        "parallax": true,
+        "parallax": false,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "863777fe-8108-4759-b7c3-326c19c0254c": {
