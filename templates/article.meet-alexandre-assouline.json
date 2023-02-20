@@ -87,6 +87,22 @@
         "button_label": ""
       }
     },
+    "cc0afe7e-d551-4d29-9a9e-22c0aebc3ba2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Where would be your favourite hotels in the world? Favourite restaurant?<br\/><\/strong>I hardly go back to the same places because I like to continue discovering new things over time, but here are some of my favorites:<\/p><p>· The Jade Mountain in St Lucia, the view is exceptional.<\/p><p>· La Colombe d’Or in France, as it holds a lot of wonderful childhood memories and it is the subject of our very first book.<\/p><p>· The Bemelmans Bar at the Carlyle Hotel in NY.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -108,6 +124,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "91c94ed6-3a42-4d8e-921c-77fc25a10241",
+    "cc0afe7e-d551-4d29-9a9e-22c0aebc3ba2",
     "blog-posts"
   ]
 }
