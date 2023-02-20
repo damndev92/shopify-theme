@@ -125,7 +125,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/capri_flatA_Updated_4.23.19_2048x-1024x1024.jpg",
         "layout": "left",
         "subheading": "",
