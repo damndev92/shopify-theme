@@ -101,11 +101,13 @@
             "type": "content",
             "settings": {
               "mega-menu": "Shop by Brands",
-              "mega_image_header_1": "",
-              "mega_image_subheader_1": "",
+              "mega_image_1": "shopify:\/\/shop_images\/g-21-cretan-malia-park_1.jpg",
+              "mega_image_header_1": "Jore",
+              "mega_image_subheader_1": "Featured Brand",
               "mega_image_link_1": "",
-              "mega_image_header_2": "",
-              "mega_image_subheader_2": "",
+              "mega_image_2": "shopify:\/\/shop_images\/baskets1.jpg",
+              "mega_image_header_2": "Georges",
+              "mega_image_subheader_2": "New Brand",
               "mega_image_link_2": ""
             }
           },
