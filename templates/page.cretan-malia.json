@@ -14,6 +14,7 @@
       "type": "template--page",
       "disabled": true,
       "settings": {
+        "white_label": false,
         "hide_header": false,
         "hide_default_content": false,
         "alignment": "center",
@@ -151,22 +152,176 @@
     "16287b18-538e-4971-9b07-365e6c3d0c5e": {
       "type": "image--image-with-text-overlay",
       "blocks": {
-        "93f838ee-4b95-4391-86de-06efb18fb89b": {
+        "d8ed6980-dc34-4731-a450-2ae8db8387ee": {
           "type": "image",
           "settings": {
-            "gallery_image": "shopify:\/\/shop_images\/CMP_SHOP_THE_LOOK.jpg"
+            "gallery_image": "shopify:\/\/shop_images\/s-cretan-malia-park-crete-greece_f89b783b-6520-4099-ae71-6f4ae773e793.jpg"
           }
         },
-        "7f6ddbaf-918d-493c-baa9-d4dd1db99e28": {
+        "336a0a1e-2016-4572-a14d-75822ba2789a": {
           "type": "image",
           "settings": {
-            "gallery_image": "shopify:\/\/shop_images\/CMP_SHOP_THE_LOOK_1.jpg"
+            "gallery_image": "shopify:\/\/shop_images\/g-27-cretan-malia-park_1.jpg"
+          }
+        },
+        "099abda0-22e8-4d4e-b8a9-f2e2ee5a7a96": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-31-cretan-malia-park_1.jpg"
+          }
+        },
+        "7866d5e4-6734-4407-a9b9-7ea14d8d737b": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-18-cretan-malia-park.jpg"
+          }
+        },
+        "108f8e18-9fc7-4155-b684-397f7802ed7c": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-09-cretan-malia-park.jpg"
+          }
+        },
+        "ac9d3b61-070a-4ce7-90d7-a373ad2a6bd0": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-29-cretan-malia-park_1.jpg"
+          }
+        },
+        "4a0d9c18-c12b-4b11-8e94-70e62ed32ee7": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-32-cretan-malia-park_1.jpg"
+          }
+        },
+        "b65a433d-d128-44b5-96f7-54f7ceb8dbcb": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-11-cretan-malia-park.jpg"
+          }
+        },
+        "d741b393-1948-44db-b229-90f90b77c849": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-21-cretan-malia-park_1.jpg"
+          }
+        },
+        "501fbe3c-a49e-49f4-a2a1-5a371c3e6cbd": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-13-cretan-malia-park.jpg"
+          }
+        },
+        "05a5972c-4e43-4cb2-bcf2-8245c50332e7": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-19-cretan-malia-park.jpg"
+          }
+        },
+        "5571aa3e-8a61-4079-8a80-194b0410f242": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-20-cretan-malia-park.jpg"
+          }
+        },
+        "180195b8-5638-4907-821d-c895fc46dd1f": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-17-cretan-malia-park.jpg"
+          }
+        },
+        "c5329bc9-1b24-4d28-97a0-4a284d4f1728": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-02-cretan-malia-park.jpg"
+          }
+        },
+        "38677569-5825-41ec-9dcc-c738bb820568": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-26-cretan-malia-park.jpg"
+          }
+        },
+        "e6b5027d-8765-430c-bf65-45befbae1031": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-24-cretan-malia-park.jpg"
+          }
+        },
+        "7dd7e79a-dbea-4ab4-93bf-a7bbad4f5049": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-05-cretan-malia-park.jpg"
+          }
+        },
+        "77f8b267-0488-44ce-afa3-b1cfdb6dbbf3": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-04-cretan-malia-park.jpg"
+          }
+        },
+        "b3496ab9-b6a8-4e38-86d0-43d2b9b17e44": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-22-cretan-malia-park_1.jpg"
+          }
+        },
+        "bda1c280-b5c6-476c-a368-6b0710d0a0ab": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-01-cretan-malia-park_e5514f52-9884-4a40-a71c-584be677c7ba.jpg"
+          }
+        },
+        "90b71e70-8ef6-4be2-8a88-65eca1443672": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-07-cretan-malia-park.jpg"
+          }
+        },
+        "877e2be4-d02b-45cb-97a2-4c0c8ad88dba": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-25-cretan-malia-park.jpg"
+          }
+        },
+        "6ed2d7f8-cf72-4d89-a711-2f522313b7c9": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-06-cretan-malia-park.jpg"
+          }
+        },
+        "cc1c825d-a216-4dee-9ff1-742216739310": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-23-cretan-malia-park.jpg"
           }
         }
       },
       "block_order": [
-        "93f838ee-4b95-4391-86de-06efb18fb89b",
-        "7f6ddbaf-918d-493c-baa9-d4dd1db99e28"
+        "d8ed6980-dc34-4731-a450-2ae8db8387ee",
+        "336a0a1e-2016-4572-a14d-75822ba2789a",
+        "099abda0-22e8-4d4e-b8a9-f2e2ee5a7a96",
+        "7866d5e4-6734-4407-a9b9-7ea14d8d737b",
+        "108f8e18-9fc7-4155-b684-397f7802ed7c",
+        "ac9d3b61-070a-4ce7-90d7-a373ad2a6bd0",
+        "4a0d9c18-c12b-4b11-8e94-70e62ed32ee7",
+        "b65a433d-d128-44b5-96f7-54f7ceb8dbcb",
+        "d741b393-1948-44db-b229-90f90b77c849",
+        "501fbe3c-a49e-49f4-a2a1-5a371c3e6cbd",
+        "05a5972c-4e43-4cb2-bcf2-8245c50332e7",
+        "5571aa3e-8a61-4079-8a80-194b0410f242",
+        "180195b8-5638-4907-821d-c895fc46dd1f",
+        "c5329bc9-1b24-4d28-97a0-4a284d4f1728",
+        "38677569-5825-41ec-9dcc-c738bb820568",
+        "e6b5027d-8765-430c-bf65-45befbae1031",
+        "7dd7e79a-dbea-4ab4-93bf-a7bbad4f5049",
+        "77f8b267-0488-44ce-afa3-b1cfdb6dbbf3",
+        "b3496ab9-b6a8-4e38-86d0-43d2b9b17e44",
+        "bda1c280-b5c6-476c-a368-6b0710d0a0ab",
+        "90b71e70-8ef6-4be2-8a88-65eca1443672",
+        "877e2be4-d02b-45cb-97a2-4c0c8ad88dba",
+        "6ed2d7f8-cf72-4d89-a711-2f522313b7c9",
+        "cc1c825d-a216-4dee-9ff1-742216739310"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/s-cretan-malia-park-crete-greece.jpg",
