@@ -70,6 +70,23 @@
         "show_recent_posts": false
       }
     },
+    "91c94ed6-3a42-4d8e-921c-77fc25a10241": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/MaisonAssouline_InteriorsandTea052_2048x-1024x683.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How did you think about Assouline shops?<\/strong><\/p><p>All of our boutiques worldwide are designed and presented as a concept store that celebrates culture. We’ve implemented Assouline’s signature feel and style within each space, to create a distinct ambiance – from the lighting, music, rare specialty objects, and more. Because each one of our books not only tells a story but are also intricately made, we decided to convey that same attention-to-detail into our boutiques. Our goal is to welcome each customer with the unique Assouline experience, every time they visit.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -90,6 +107,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "91c94ed6-3a42-4d8e-921c-77fc25a10241",
     "blog-posts"
   ]
 }
