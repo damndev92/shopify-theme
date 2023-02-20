@@ -223,6 +223,23 @@
         "hotel_page_url": false,
         "button_label": "Shop now"
       }
+    },
+    "d4f655a9-419c-473d-8e8b-d321a9146487": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/le_pigalle.png",
+        "layout": "left",
+        "subheading": "Paris, France",
+        "location": false,
+        "title": "Le Pigalle",
+        "text_block": "<p>True to its Parisian neighborhood’s neon-lit, highly creative past, Le Pigalle has deep local roots with talented residents adding to its unique symphony.<\/p>",
+        "page_description": false,
+        "button_link": "shopify:\/\/collections\/le-pigalle",
+        "hotel_page_url": false,
+        "button_label": "Shop now"
+      }
     }
   },
   "order": [
@@ -239,6 +256,7 @@
     "d621fb73-de1a-4a9f-b7c4-4bca9038dca9",
     "3a77aa98-7541-4b03-b228-27f42672f5da",
     "bc923b27-541d-4091-8bc4-ca411b524773",
-    "24c6cfa0-a77c-4818-a5f4-de5eccd7ee66"
+    "24c6cfa0-a77c-4818-a5f4-de5eccd7ee66",
+    "d4f655a9-419c-473d-8e8b-d321a9146487"
   ]
 }
