@@ -104,6 +104,23 @@
         "button_label": ""
       }
     },
+    "251b9029-1991-4384-a2a0-4bc99b88ff6d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Visarjan-Vase-1024x819.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Visarjan Vase I",
+        "text_block": "<p>£116<\/p><p>Single piece sculpture<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -126,6 +143,7 @@
     "main",
     "18a9c5e3-b1c6-44f5-b4c4-430dc9ca86b7",
     "8efeaf7d-73c9-48e9-861a-dcfc22bada54",
+    "251b9029-1991-4384-a2a0-4bc99b88ff6d",
     "blog-posts"
   ]
 }
