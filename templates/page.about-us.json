@@ -4,6 +4,7 @@
       "type": "template--page",
       "disabled": true,
       "settings": {
+        "white_label": false,
         "hide_header": false,
         "hide_default_content": false,
         "alignment": "center",
@@ -116,7 +117,7 @@
         "subheading": "",
         "page_title": "",
         "title": "Our Collection",
-        "text": "<p>Maison Flâneur seeks out exquisite, design-centric hotels and restaurants, with which we<br\/>partner to curate beautifully designed homeware objects. Each suggesting a lifetime of travel,<br\/>it’s this that makes our collection unconventional and unique. Each object evokes its own soulful<br\/>and eclectic story; you may very well find a hand-woven Berber rug set beside a Barcelona<br\/>chair. Tableware, textiles, accessories, art pieces, and furniture – icons of our experiences –<br\/>delivered to your door. International, curious and enthusiastic, we are always in search of<br\/>unique interiors and in-depth stories that will tickle the fancy of our creative minds.<\/p>",
+        "text": "<p>Maison Flâneur seeks out exquisite, design-centric hotels and restaurants, with which we partner to curate beautifully designed homeware objects. Each suggests a lifetime of travel, it’s this that makes our collection unconventional and unique.<\/p><p><\/p><p><br\/><\/p><p>Every object evokes its own soulful and eclectic story; you may very well find a hand-woven Berber rug set beside a Barcelona chair. Tableware, textiles, accessories, art pieces, and furniture – icons of our experiences – are delivered to your door. <\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -127,25 +128,25 @@
         "template--18019873751355__9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0-1676564864eb37761e-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_8902c3b6-2fef-4f49-b7b0-ec3ac0b46ab0.png",
+            "image": "shopify:\/\/shop_images\/6_0202e6fc-e3bd-4036-991a-ec684afb4a1b.png",
             "link": "",
             "title": "",
             "description": ""
           }
         },
-        "template--18019873751355__9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0-1676564864eb37761e-1": {
+        "f2b088c9-c3e2-46c2-b4d7-fc033a267154": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_8580bcab-ff8b-4ff8-8235-6608eff70811.png",
+            "image": "shopify:\/\/shop_images\/8_cc5fd1b9-b7da-41c3-9d34-a21e48570354.png",
             "link": "",
             "title": "",
             "description": ""
           }
         },
-        "template--18019873751355__9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0-1676564864eb37761e-2": {
+        "e780ed9c-fb29-417f-a7e6-5b74c51ff38d": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_1b41610f-5367-47a5-b108-ad6360fd4544.png",
+            "image": "shopify:\/\/shop_images\/7_45c39689-be15-48fe-b614-159bb39f0d0c.png",
             "link": "",
             "title": "",
             "description": ""
@@ -154,8 +155,8 @@
       },
       "block_order": [
         "template--18019873751355__9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0-1676564864eb37761e-0",
-        "template--18019873751355__9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0-1676564864eb37761e-1",
-        "template--18019873751355__9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0-1676564864eb37761e-2"
+        "f2b088c9-c3e2-46c2-b4d7-fc033a267154",
+        "e780ed9c-fb29-417f-a7e6-5b74c51ff38d"
       ],
       "settings": {
         "colors": "white",
