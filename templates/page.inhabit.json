@@ -14,6 +14,11 @@
       "type": "template--page",
       "disabled": true,
       "settings": {
+        "white_label": false,
+        "hide_header": false,
+        "hide_default_content": false,
+        "alignment": "center",
+        "url": ""
       }
     },
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
@@ -23,7 +28,7 @@
         "width": "medium",
         "subheading": "London, UK",
         "page_title": "",
-        "title": "Inhabit",
+        "title": "Inhabit Hotel",
         "text": "<p><br\/>Nestled in a leafy corner of historic Paddington, you’ll find some respite from the city at Inhabit. Staying at Inhabit is a truly restorative experience, from which guests emerge nourished, rested, and inspired. Inhabit is much more than a hotel; it’s a community that will welcome you back, time and time again.<\/p>",
         "button_link": "",
         "button_label": ""
