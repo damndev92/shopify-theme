@@ -117,21 +117,6 @@
         "button_label": "Shop now"
       }
     },
-    "4cdac9e0-e008-4499-97a3-7b5e271bae47": {
-      "type": "image--image-with-text-block",
-      "settings": {
-        "desktop_image": "shopify:\/\/shop_images\/option_Brand_Feature_Image_-_Collection.png",
-        "parallax": false,
-        "text-color": "#000000",
-        "background-color": "#ffffff",
-        "horizontal-alignment": "center",
-        "subheading": "",
-        "title": "Partner with us",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "social-media-icons": {
       "type": "social-media--social-media-icons",
       "settings": {
@@ -150,7 +135,6 @@
     "4d452cd3-0491-4a79-99e3-cd85b8a7c528",
     "accordion",
     "rich-text",
-    "4cdac9e0-e008-4499-97a3-7b5e271bae47",
     "social-media-icons"
   ]
 }
