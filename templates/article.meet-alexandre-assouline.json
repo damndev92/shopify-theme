@@ -104,6 +104,23 @@
         "button_label": ""
       }
     },
+    "c028d11c-2aff-49c2-ab8a-a25bc8203c16": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-3-1-700x1000-1.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Share brand or product details",
+        "text_block": "<p><strong>How would you define your style in interior design?<br\/><\/strong>Conceptual, post-modern with a lot of ethnic influences.<\/p><p><strong>An object that holds a particular place in your heart in your home?<br\/><\/strong>My collection of lion statues. My parents have been gifting me these small statues by a variety of different artists every birthday, since I was very young (my birthday is in late July). I even have an original sculpture made by Jean Cocteau and Jean Marais which was featured in Beauty and the Beast.<\/p><p><strong>Have you ever wanted to steal something in a hotel\/restaurant you’ve visited?<br\/><\/strong>Aside from the usual singular ashtrays in hotels, no. I like to leave things where they are, so it gives me an incentive to come back to see them.<\/p><p><strong>Favourite interior design address?<br\/><\/strong>The Marché Paul Bert Serpette at the Puces de Paris Saint-Ouen in Paris – it’s full of inspiration.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -126,6 +143,7 @@
     "main",
     "91c94ed6-3a42-4d8e-921c-77fc25a10241",
     "cc0afe7e-d551-4d29-9a9e-22c0aebc3ba2",
+    "c028d11c-2aff-49c2-ab8a-a25bc8203c16",
     "blog-posts"
   ]
 }
