@@ -215,6 +215,23 @@
         "show_recent_posts": false
       }
     },
+    "adf9ecaf-2caf-4459-8590-64262ad5dec4": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T180802.352-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "10. 14 Hills",
+        "text_block": "<p>14th floor, 120 Fenchurch St, EC3M 5AL<br\/><strong>Head chef:<\/strong> Thomas Piat<br\/><strong>Order the:<\/strong> Halibut<\/p><p>An indoor forest with over 1000 plants and awe-inspiring views over the City, 14 Hills certainly delivers on the ‘wow factor’. Once on the 14th floor, you’ll be met with a menu highlighting the best of British cuisine with a hint of French influence and an extensive cocktail list, not to mention lunch and brunch options, a DJ from Thursday to Saturday and an exclusive <a href=\"https:\/\/14hills.co.uk\/wp-content\/uploads\/sites\/83\/2023\/01\/Valentine-Menu-2023.pdf\" target=\"_blank\">Valentine’s menu<\/a>.<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/14hills.co.uk\/",
+        "hotel_page_url": false,
+        "button_label": "Book Now"
+      }
+    },
     "4db223bc-8729-4b63-a9af-c3c4a54e996b": {
       "type": "text--rich-text",
       "settings": {
@@ -234,13 +251,13 @@
         "colors": "white",
         "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T175016.436-1024x1024.png",
-        "layout": "left",
+        "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "8. Bacchanalia",
-        "text_block": "<p>1 Mount Street, W1K 3NA<br\/><strong>Head chef:<\/strong> Athinagoras Kostakos<br\/><strong>Order the:<\/strong> Grilled octopus<\/p><p>Damien Hirst statues, selfie-inducing bathrooms, and, of course, a menu showcasing the best of Mediterranean cuisine, recent opening Bacchanalia is not to be missed. Inspired by historic Greco-Roman feasts, the Mayfair hotspot serves up sharing dishes such as lobster paccheri and rib-eye steak with inventive cocktails to match and an atmosphere that inspires hedonism.<\/p>",
+        "title": "11. Bao",
+        "text_block": "<p>Various locations<br\/><strong>Head chef:<\/strong> Leigh Hartnett<br\/><strong>Order the:<\/strong> Pork bao<\/p><p>Each of Bao’s five branches offers a different take on Taiwanese culture, from the original Michelin-awarded Soho location to the Shoreditch noodle shop. Take a seat at the bar and indulge in an authentic array of cloud-like buns, decadent fried rice and a classic Negroni; if you still have room, don’t leave without trying the Horlicks fried ice cream.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/bacchanalia.co.uk\/",
+        "button_link": "https:\/\/baolondon.com\/",
         "hotel_page_url": false,
         "button_label": "Book Now"
       }
@@ -274,6 +291,7 @@
     "b81b9c0d-5b65-4990-8694-305fec273b20",
     "b40a5978-e6c5-4ed2-a3f7-69f4878179e3",
     "main",
+    "adf9ecaf-2caf-4459-8590-64262ad5dec4",
     "4db223bc-8729-4b63-a9af-c3c4a54e996b",
     "31dac674-f6ed-471e-a3da-c0c64c42a388",
     "blog-posts"
