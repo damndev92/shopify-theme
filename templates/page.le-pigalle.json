@@ -14,6 +14,11 @@
       "type": "template--page",
       "disabled": true,
       "settings": {
+        "white_label": false,
+        "hide_header": false,
+        "hide_default_content": false,
+        "alignment": "center",
+        "url": ""
       }
     },
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
@@ -134,11 +139,103 @@
         "8fcde2e6-7dea-4ca8-b6f4-abca56d0dcc2": {
           "type": "image",
           "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-14-le-pigalle.webp"
+          }
+        },
+        "3e5b0c26-1f87-4149-a5ec-2d785c3344f0": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/le-pigalle-interior-design-view-m-13-r-d.webp"
+          }
+        },
+        "b7e68d6f-9750-437e-b3e8-3c06afadfa64": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/le-pigalle-interior-design-bathroom-m-09-r-a.webp"
+          }
+        },
+        "70c6e178-0eb5-4b0b-b0e1-cd1c218748be": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-09-le-pigalle.webp"
+          }
+        },
+        "bf8a4f8e-529e-4b25-8ccb-19c864cd4f0c": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-01-le-pigallle.webp"
+          }
+        },
+        "635614f2-731d-4868-b66f-85d01cb5ed96": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-21-le-pigalle.webp"
+          }
+        },
+        "3f84231b-12ae-475d-96a9-b0fa7b5a61bf": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/le-pigalle-guestroom-interior-design-m-02-r-jpg.webp"
+          }
+        },
+        "7a9d38c7-3f27-40cf-8990-bb872ae0f9d6": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/le-pigalle-v01-s-01-jpg.webp"
+          }
+        },
+        "a653054c-216e-4e73-a2fa-d5211bf42111": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-05-le-pigalle.webp"
+          }
+        },
+        "96c3c1d9-81a0-4efb-b741-970ebd39a29e": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-11-le-pigalle.webp"
+          }
+        },
+        "6393deb2-d748-482d-bee9-6d4741eaed46": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/HOME-001montage-04.jpg"
+          }
+        },
+        "2340e0e9-5aaa-489b-870f-91f0f422f4e1": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/le-pigalle-interior-design-guestroom-m-08-r-jpg.webp"
+          }
+        },
+        "a354864f-c9a3-47f0-9cc9-89fb204fbba6": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/le-pigalle-restaurant-interior-design-m-01-r-1-jpg.webp"
+          }
+        },
+        "30e4afd4-1a9e-4333-ab5c-573d508491e8": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-19-le-pigalle.webp"
           }
         }
       },
       "block_order": [
-        "8fcde2e6-7dea-4ca8-b6f4-abca56d0dcc2"
+        "8fcde2e6-7dea-4ca8-b6f4-abca56d0dcc2",
+        "3e5b0c26-1f87-4149-a5ec-2d785c3344f0",
+        "b7e68d6f-9750-437e-b3e8-3c06afadfa64",
+        "70c6e178-0eb5-4b0b-b0e1-cd1c218748be",
+        "bf8a4f8e-529e-4b25-8ccb-19c864cd4f0c",
+        "635614f2-731d-4868-b66f-85d01cb5ed96",
+        "3f84231b-12ae-475d-96a9-b0fa7b5a61bf",
+        "7a9d38c7-3f27-40cf-8990-bb872ae0f9d6",
+        "a653054c-216e-4e73-a2fa-d5211bf42111",
+        "96c3c1d9-81a0-4efb-b741-970ebd39a29e",
+        "6393deb2-d748-482d-bee9-6d4741eaed46",
+        "2340e0e9-5aaa-489b-870f-91f0f422f4e1",
+        "a354864f-c9a3-47f0-9cc9-89fb204fbba6",
+        "30e4afd4-1a9e-4333-ab5c-573d508491e8"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/PIGALLE_TAKE_A_TOUR.jpg",
@@ -209,7 +306,7 @@
         "b74d99cb-9b19-4b39-930c-93e2960aace0"
       ],
       "settings": {
-        "background-color": "#F3F3F3",
+        "background-color": "#f3f3f3",
         "text-color": "#000000",
         "title": "Tips from the host",
         "faq_icon": "plus_minus"
