@@ -460,16 +460,16 @@
           "settings": {
             "icon": "compass",
             "heading": "Unique curation",
-            "subheading": "",
+            "subheading": "Supporting emerging brands around the world",
             "link": "shopify:\/\/collections\/new-in"
           }
         },
         "template--17456700391739__c94d79d4-bbe0-4f33-a57f-335300f24f32-1673176379b2355835-1": {
           "type": "text",
           "settings": {
-            "icon": "trending-up",
-            "heading": "Hassle free returns",
-            "subheading": "Shout about your unique selling points",
+            "icon": "truck",
+            "heading": "Hassle free shipping\/returns",
+            "subheading": "Our brands  use best in class carriers",
             "link": ""
           }
         },
@@ -477,8 +477,8 @@
           "type": "text",
           "settings": {
             "icon": "smile",
-            "heading": "Eco friendly packaging",
-            "subheading": "Shout about your unique selling points",
+            "heading": "We're here to help",
+            "subheading": "We are a small & human size company! Get in touch hello@maisonflaneur.com",
             "link": ""
           }
         }
