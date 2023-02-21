@@ -70,6 +70,23 @@
         "show_recent_posts": false
       }
     },
+    "2787d0a6-174d-48a4-8ac2-9f603635c358": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/beefbarbutchershop_03-1024x628.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Then, the <em>great meats<\/em>. Discover the best cuts & origins specially selected by Giraudi: Black Angus from Argentina & USA, Australian wagyu, Japanese Kobe… Beefbar developed its own patented method of cooking in order to achieve a crispy meat seal and tender juicy heart. To accompany each cut, over fifteen insane house purees cooked with butter with a selection of spices & condiments.<br\/>Finally, the <em>incredible dishes <\/em>include fresh and delicious fish, risotto & pasta.<\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/product\/beefbarf-espresso-cups-saucers\/\"><strong>And don’t forget the really cool Emoticon plates and cups (Each are exclusive to one location!)<\/strong><\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -90,6 +107,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "2787d0a6-174d-48a4-8ac2-9f603635c358",
     "blog-posts"
   ]
 }
