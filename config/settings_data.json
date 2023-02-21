@@ -218,9 +218,9 @@
           "95391973-fb1c-46d7-b409-5802681c0651"
         ],
         "settings": {
-          "show_methods_of_payment": false,
+          "show_methods_of_payment": true,
           "alignment": "center",
-          "enable_country_selector": false,
+          "enable_country_selector": true,
           "enable_locale_selector": false
         }
       }
