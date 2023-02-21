@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Meet Misha Andersen, London, UK",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet Misha Andersen, Interior Designer, London",
         "title": "",
         "text": "<p>“It should be fun experiences that seamlessly integrate initial client desires with bold expert solutions to achieve exquisite design, together we can create!” says Misha Andersen about her work as an interior designer. Misha runs her eponymous studio: a high-end design company for both residential and commercial projects in the UK and abroad. Previously running a VIP customer event, you can expect good taste, truly innovative vision, and a lot of positive energy from her work. Welcome to Misha’s world.<\/p>",
         "button_link": "",
@@ -33,7 +33,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>How would you describe your apartment in one word?  <\/strong><\/p><p>Blissful… completely happy as I am.<\/p><p><br\/><\/p><p><strong>What makes a home in one word? <\/strong><\/p><p>A daydreaming hub<\/p><p><br\/><\/p><p><strong>How would you describe your taste in one word?<\/strong><\/p><p>Playful<\/p><p><br\/><\/p><p><strong>Define bad taste in interiors?<\/strong><\/p><p>Indulgence<\/p><p><br\/><\/p><p><strong>Where do you find your inspiration for interior design?<\/strong><\/p><p>I’m a world traveler with more than 90 countries visited, that gave me the sensibility to capture colours, shapes, textures, cultural perceptions and experiment with materials. I’m convinced that ‘every interior is a story to be told, every space brings memories, and that uniqueness of great design is to be an inspiration for the ones who enjoy it. Life is full of challenges so why shouldn’t everyone be surrounded by beauty that brings the best of us?  For me it’s Sailing, nature walks, music festivals, Biennale, Art Basel, PAD, Antique exhibitions… Those would be my escapes to recharge and find a new direction.<\/p>",
+        "text_block": "<p><strong>How would you describe your apartment in one word?  <\/strong><\/p><p>Blissful… completely happy as I am.<\/p><p><br\/><\/p><p><strong>What makes a home in one word? <\/strong><\/p><p>A daydreaming hub.<\/p><p><br\/><\/p><p><strong>How would you describe your taste in one word?<\/strong><\/p><p>Playful.<\/p><p><br\/><\/p><p><strong>Define bad taste in interiors?<\/strong><\/p><p>Indulgence.<\/p><p><br\/><\/p><p><strong>Where do you find your inspiration for interior design?<\/strong><\/p><p>I’m a world traveler with more than 90 countries visited, that gave me the sensibility to capture colours, shapes, textures, cultural perceptions and experiment with materials. I’m convinced that ‘every interior is a story to be told, every space brings memories, and that uniqueness of great design is to be an inspiration for the ones who enjoy it. Life is full of challenges so why shouldn’t everyone be surrounded by beauty that brings the best of us?  For me it’s Sailing, nature walks, music festivals, Biennale, Art Basel, PAD, Antique exhibitions… Those would be my escapes to recharge and find a new direction.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -72,70 +72,6 @@
         "button_link": "",
         "hotel_page_url": false,
         "button_label": ""
-      }
-    },
-    "a5297c03-ccac-45bf-a5a4-d2b89a7e78de": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17912024367419__a5297c03-ccac-45bf-a5a4-d2b89a7e78de-1675779576f426f684-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Copy-of-Black-Malawi-Loveseat-2.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Black Bamboo and Rattan Loveseat<\/p>"
-          }
-        },
-        "template--17912024367419__a5297c03-ccac-45bf-a5a4-d2b89a7e78de-1675779576f426f684-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/GC-021-PEGGY-UP-DOWN-TWIN-WALL-LAMP-BLACK-1.jpg",
-            "link": "shopify:\/\/products\/beige-peggy-twin-wall-lamp-small",
-            "title": "",
-            "description": "<p>Peggy Black Twin Up & Down Wall Lamp<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17912024367419__a5297c03-ccac-45bf-a5a4-d2b89a7e78de-1675779576f426f684-0",
-        "template--17912024367419__a5297c03-ccac-45bf-a5a4-d2b89a7e78de-1675779576f426f684-1"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "Misha’s Selection:"
-      }
-    },
-    "f3c643e3-19e1-4c12-b839-df74d9c37c90": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17912024367419__f3c643e3-19e1-4c12-b839-df74d9c37c90-1675779576f426f684-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MH3-732x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17912024367419__f3c643e3-19e1-4c12-b839-df74d9c37c90-1675779576f426f684-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MH4-732x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17912024367419__f3c643e3-19e1-4c12-b839-df74d9c37c90-1675779576f426f684-0",
-        "template--17912024367419__f3c643e3-19e1-4c12-b839-df74d9c37c90-1675779576f426f684-1"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
       }
     },
     "main": {
@@ -181,8 +117,6 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "962808f5-7975-4f7d-9f63-af45e0b5f8ba",
     "e7d18b69-8349-483c-824a-595fe169d1f6",
-    "a5297c03-ccac-45bf-a5a4-d2b89a7e78de",
-    "f3c643e3-19e1-4c12-b839-df74d9c37c90",
     "main",
     "c0bd4e03-df3b-4c04-9b1a-b1c6b4c6c03a",
     "blog-posts"
