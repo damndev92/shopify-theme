@@ -4,7 +4,7 @@
       "type": "image--image",
       "settings": {
         "image": "shopify:\/\/shop_images\/Lifestyle-at-Jnane-Tamsna-Credit-Jade-Nina-Sarkhel-18-1024x455.jpg",
-        "parallax": false,
+        "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
         "text-over-image-width": "full-width"
