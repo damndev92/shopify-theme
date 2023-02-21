@@ -14,6 +14,11 @@
       "type": "template--page",
       "disabled": true,
       "settings": {
+        "white_label": false,
+        "hide_header": false,
+        "hide_default_content": false,
+        "alignment": "center",
+        "url": ""
       }
     },
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
@@ -134,11 +139,96 @@
         "7f02e15f-c697-4c4c-a57b-a7ec33c272ee": {
           "type": "image",
           "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-02-chetzeron.jpg"
+          }
+        },
+        "1170747f-d445-4397-aa02-6787501f692e": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-11-chetzeron.webp"
+          }
+        },
+        "57b31a98-ad5d-437e-84c7-cee7e716932d": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-16-chetzeron.jpg"
+          }
+        },
+        "2744279d-2edc-44e2-a8bc-671130bc5290": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-07-chetzeron.jpg"
+          }
+        },
+        "cb63c5e8-d212-4a6b-8d4e-34e88f180a47": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-23-chetzeron.webp"
+          }
+        },
+        "d759bb5b-4a7d-4ff6-b8cf-560d6a2e254d": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-15-chetzeron.webp"
+          }
+        },
+        "397e8515-14f0-49c5-aa23-a48fd311faa2": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-14-chetzeron.webp"
+          }
+        },
+        "f3862862-2bae-421c-855e-192245f405db": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-24-chetzeron.webp"
+          }
+        },
+        "0951e589-5bac-466f-bc94-9980bddd2740": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/s-chetzeron-crans-montana-switzerland.webp"
+          }
+        },
+        "bf91a6a7-2e93-43f9-8e86-9031303ec2a9": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-12-chetzeron.webp"
+          }
+        },
+        "e8a458f1-9486-49c5-879c-360d6b634545": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-18-chetzeron.jpg"
+          }
+        },
+        "cbb52f20-153e-4565-9d70-31dae015d3aa": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-10-chetzeron.jpg"
+          }
+        },
+        "132b250c-37fb-4dc6-b71d-ea9f228ad364": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-08-chetzeron.webp"
           }
         }
       },
       "block_order": [
-        "7f02e15f-c697-4c4c-a57b-a7ec33c272ee"
+        "7f02e15f-c697-4c4c-a57b-a7ec33c272ee",
+        "1170747f-d445-4397-aa02-6787501f692e",
+        "57b31a98-ad5d-437e-84c7-cee7e716932d",
+        "2744279d-2edc-44e2-a8bc-671130bc5290",
+        "cb63c5e8-d212-4a6b-8d4e-34e88f180a47",
+        "d759bb5b-4a7d-4ff6-b8cf-560d6a2e254d",
+        "397e8515-14f0-49c5-aa23-a48fd311faa2",
+        "f3862862-2bae-421c-855e-192245f405db",
+        "0951e589-5bac-466f-bc94-9980bddd2740",
+        "bf91a6a7-2e93-43f9-8e86-9031303ec2a9",
+        "e8a458f1-9486-49c5-879c-360d6b634545",
+        "cbb52f20-153e-4565-9d70-31dae015d3aa",
+        "132b250c-37fb-4dc6-b71d-ea9f228ad364"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/105.png",
