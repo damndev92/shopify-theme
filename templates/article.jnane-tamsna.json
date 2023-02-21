@@ -46,6 +46,48 @@
         "button_label": ""
       }
     },
+    "a2941d46-be95-46bc-9842-19c57674b21c": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18071067558203__a2941d46-be95-46bc-9842-19c57674b21c-167696670245e6c58b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bench_straight_featured_f51c654a-d462-43ae-800c-7f7efe35a995.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Black and Gold Moroccan Bench<\/p><p>£1,815<\/p>"
+          }
+        },
+        "template--18071067558203__a2941d46-be95-46bc-9842-19c57674b21c-167696670245e6c58b-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/side_table_moroccan_straight_featured.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Carved Wood with Inlays Syrian Side Tables, Set of 2<\/p><p>£4,105<\/p>"
+          }
+        },
+        "template--18071067558203__a2941d46-be95-46bc-9842-19c57674b21c-167696670245e6c58b-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/side_table_featured_87e091e1-9337-41eb-b317-3e7317cf5a5d.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Mother-of-Pearl Inlaid Wooden Syrian Tables, Set of 2<\/p><p>£1,985<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18071067558203__a2941d46-be95-46bc-9842-19c57674b21c-167696670245e6c58b-0",
+        "template--18071067558203__a2941d46-be95-46bc-9842-19c57674b21c-167696670245e6c58b-1",
+        "template--18071067558203__a2941d46-be95-46bc-9842-19c57674b21c-167696670245e6c58b-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6": {
       "type": "image--gallery",
       "blocks": {
@@ -379,6 +421,7 @@
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "e591fb1d-1032-4941-878c-e05b98399484",
     "cc649ca1-0e22-4c5d-8bb9-c506fe258f74",
+    "a2941d46-be95-46bc-9842-19c57674b21c",
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
