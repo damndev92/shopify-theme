@@ -52,9 +52,9 @@
         "title": "2. Lunch Break at:",
         "text_block": "<p><a href=\"https:\/\/www.bbbtaste.club\/\">BBB Taste<\/a><\/p><p>Rua das Esperança 44, 1200-658 Lisbon<br\/><br\/><\/p><p><\/p>",
         "page_description": false,
-        "button_link": "",
+        "button_link": "https:\/\/www.bbbtaste.club\/",
         "hotel_page_url": false,
-        "button_label": ""
+        "button_label": "Book Now"
       }
     },
     "main": {
