@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Maison-Flaneur-Twelve-Senses4.png",
+        "image": "shopify:\/\/shop_images\/Maison-Flaneur-Twelve-Senses4-1.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -49,8 +49,8 @@
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "Maison Flâneur Recommends",
-        "text_block": "<p>The 12 Senses Retreat is a place that will do good for your body and soul. <br\/>Whether you want to spend the day engaging in mindful classes with locals or being at one with the ocean (this spot is known to be surfers` par­adise), reconnecting with yourself and nature is encouraged. <br\/>Not too far from local artisanal shops, don’t miss out on getting a taste of Encinitas’ mindful and sustainable culture. The farmers market is a foodie’s dream where one can explore endless culinary innovation, including vegan cuisine. Book a private chef for an in-depth exploration of local taste! <\/p>",
+        "title": "",
+        "text_block": "<p><strong>Maison Flâneur Recommends<br\/><br\/><\/strong><\/p><p>The 12 Senses Retreat is a place that will do good for your body and soul. <br\/>Whether you want to spend the day engaging in mindful classes with locals or being at one with the ocean (this spot is known to be surfers` par­adise), reconnecting with yourself and nature is encouraged. <br\/>Not too far from local artisanal shops, don’t miss out on getting a taste of Encinitas’ mindful and sustainable culture. The farmers market is a foodie’s dream where one can explore endless culinary innovation, including vegan cuisine. Book a private chef for an in-depth exploration of local taste! <\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
