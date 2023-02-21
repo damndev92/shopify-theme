@@ -14,6 +14,11 @@
       "type": "template--page",
       "disabled": true,
       "settings": {
+        "white_label": false,
+        "hide_header": false,
+        "hide_default_content": false,
+        "alignment": "center",
+        "url": ""
       }
     },
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
@@ -145,6 +150,73 @@
     },
     "47ab3baa-f892-4c53-96b2-c6303ad07e77": {
       "type": "image--image-with-text-overlay",
+      "blocks": {
+        "fe0cf8ab-892c-4e1a-813d-a2c71fc101c5": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-01-trunk-hotel_aef094c0-176b-46ac-97ff-6b5756f897e4.jpg"
+          }
+        },
+        "89b6113a-c9fa-4cac-93a3-1c4d9d965813": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-08-trunk-hotel_7f18d6ae-2dbe-458e-839a-8fd1ca6d7336.jpg"
+          }
+        },
+        "2dd82a02-c7f1-42cc-80cd-1d6737bfad2f": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-10-trunk-hotel_a0d97c77-5188-4dd6-ac1d-9b3dca7b2737.jpg"
+          }
+        },
+        "413d6d41-4925-4b98-8143-37df2fa27e5f": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-04-trunk-hotel.webp"
+          }
+        },
+        "18b3f721-96af-45db-9612-a4a33c02e6c3": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-13-trunk-hotel.webp"
+          }
+        },
+        "0beabcda-f5bf-424f-8115-172d10cf4a55": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-14-trunk-hotel.webp"
+          }
+        },
+        "03aa3cdc-5b54-4272-a811-a5bcf833194c": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-11-trunk-hotel.webp"
+          }
+        },
+        "477cb26c-bc4a-43af-9f59-a2edaad674c6": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-03-trunk-hotel.webp"
+          }
+        },
+        "158dbfcf-4a58-425b-898d-aea2bb45caeb": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/g-12-trunk-hotel.webp"
+          }
+        }
+      },
+      "block_order": [
+        "fe0cf8ab-892c-4e1a-813d-a2c71fc101c5",
+        "89b6113a-c9fa-4cac-93a3-1c4d9d965813",
+        "2dd82a02-c7f1-42cc-80cd-1d6737bfad2f",
+        "413d6d41-4925-4b98-8143-37df2fa27e5f",
+        "18b3f721-96af-45db-9612-a4a33c02e6c3",
+        "0beabcda-f5bf-424f-8115-172d10cf4a55",
+        "03aa3cdc-5b54-4272-a811-a5bcf833194c",
+        "477cb26c-bc4a-43af-9f59-a2edaad674c6",
+        "158dbfcf-4a58-425b-898d-aea2bb45caeb"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_8cff22b6-56b9-4834-af01-8b061e52cd57.png",
         "subheading": "",
