@@ -65,6 +65,23 @@
         "title": ""
       }
     },
+    "019563da-bc4c-4bef-bb41-929a56057136": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Serenity-Beige-on-White-Dessert-Plate_Themis-2.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What makes Themis Z so special?<\/strong><\/p><p>THEMIS Z is a lifestyle brand guided by the aesthetic, design sensibility and international lifestyle of founder Themis Zouganeli. Inspired by her Greek heritage, minimal and clean lines adorn her creations. By using repetitive geometric patterns applied on sophisticated accessories and luxurious homeware, her collection is both incredibly modern yet timeless. “They symbolize positive energy and harmonious emotions”, she adds.<\/p><p><strong>What to expect at Themis Z Mykonos?<\/strong><\/p><p>The Themis boutiques, both in Gstaad and Mykonos, offer elegant beauty and relaxed glamour inspired by the Greek Islands. This summer, if you are planning a trip to the paradisiac like island of Mykonos, do not forget to stop by. Nestled at the center of the picturesque town, her shop, and coffee bar, is set in one of the oldest houses in the area. Once owned by a sea merchant, it still stands as gracefully as it did back in the 1800s. It immerses her clients for a unique and authentic experience where to enjoy a refreshing drink while listening to the sounds of jazz being played out in the courtyard – a unique oasis right at the heart of Mykonos’s bustling town center.<\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/themis-z\/products\/\">Bring a piece of the cyclade back home today thanks to Maison Flaneur.<\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6": {
       "type": "image--gallery",
       "blocks": {
@@ -397,6 +414,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "50659868-dc40-4d0e-8422-94d262aef56f",
+    "019563da-bc4c-4bef-bb41-929a56057136",
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
