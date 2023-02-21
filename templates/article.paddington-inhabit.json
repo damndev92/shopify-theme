@@ -183,6 +183,38 @@
         "title": ""
       }
     },
+    "18474dc7-f3c9-48c3-994b-102fc68b0655": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18072825102651__18474dc7-f3c9-48c3-994b-102fc68b0655-1676978187cc3c8486-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Prado-1-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18072825102651__18474dc7-f3c9-48c3-994b-102fc68b0655-1676978187cc3c8486-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6-1-1024x1024_8a0ac3e9-1778-4e0d-8f42-0a365c821b4d.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Halepi Restaurant – 18 Leinster Terrace, London W2 3ET<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18072825102651__18474dc7-f3c9-48c3-994b-102fc68b0655-1676978187cc3c8486-0",
+        "template--18072825102651__18474dc7-f3c9-48c3-994b-102fc68b0655-1676978187cc3c8486-1"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
@@ -252,6 +284,7 @@
     "36ffb694-b864-439c-b9d1-a6de31902c0a",
     "617a43d2-9fe9-4402-8685-fe366c17b75b",
     "8ba0b025-d50f-4dbf-8651-876e7d9fa564",
+    "18474dc7-f3c9-48c3-994b-102fc68b0655",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
