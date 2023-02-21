@@ -67,7 +67,7 @@
         "split-images": true,
         "slide_on_mobile": 1,
         "slider-animation": "slide",
-        "slider-width": "full-width",
+        "slider-width": "fixed",
         "show-slide-full-screen": true,
         "slider-slide-time": 8,
         "caption-heading-size": 52,
