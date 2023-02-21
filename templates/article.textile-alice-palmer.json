@@ -30,7 +30,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
@@ -131,6 +131,40 @@
         "button_label": ""
       }
     },
+    "594b5266-6c36-47f4-8988-0627a5fe8d8b": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18061711081787__594b5266-6c36-47f4-8988-0627a5fe8d8b-1676974880a8e8be66-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18061711081787__594b5266-6c36-47f4-8988-0627a5fe8d8b-1676974880a8e8be66-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18061711081787__594b5266-6c36-47f4-8988-0627a5fe8d8b-1676974880a8e8be66-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18061711081787__594b5266-6c36-47f4-8988-0627a5fe8d8b-1676974880a8e8be66-0",
+        "template--18061711081787__594b5266-6c36-47f4-8988-0627a5fe8d8b-1676974880a8e8be66-1",
+        "template--18061711081787__594b5266-6c36-47f4-8988-0627a5fe8d8b-1676974880a8e8be66-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Discover Alice Palmer",
+        "collection": "alice-palmer-co",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -155,6 +189,7 @@
     "0c0fb625-22ce-47d5-ac23-865fa0a1ae75",
     "88a2a408-6e9d-4edd-a561-fb50e904fec3",
     "f6c0c1fe-817f-4d2e-bddf-92ca3e93c9a0",
+    "594b5266-6c36-47f4-8988-0627a5fe8d8b",
     "blog-posts"
   ]
 }
