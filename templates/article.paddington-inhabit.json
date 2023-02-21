@@ -119,6 +119,38 @@
         "title": ""
       }
     },
+    "617a43d2-9fe9-4402-8685-fe366c17b75b": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18072825102651__617a43d2-9fe9-4402-8685-fe366c17b75b-1676978187cc3c8486-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/centa-lisbona-1-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18072825102651__617a43d2-9fe9-4402-8685-fe366c17b75b-1676978187cc3c8486-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4-3-1024x1024_10609d4a-58b8-48dd-a93a-a00bda976494.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Pilgrm Hotel – 25 London St, Tyburnia, London W2 1HH<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18072825102651__617a43d2-9fe9-4402-8685-fe366c17b75b-1676978187cc3c8486-0",
+        "template--18072825102651__617a43d2-9fe9-4402-8685-fe366c17b75b-1676978187cc3c8486-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
@@ -186,6 +218,7 @@
     "fc665867-5e27-4167-b7d8-4e0394bd2c79",
     "cb46b3e0-61a7-4f22-b5b9-3e40aae1744d",
     "36ffb694-b864-439c-b9d1-a6de31902c0a",
+    "617a43d2-9fe9-4402-8685-fe366c17b75b",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
