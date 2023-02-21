@@ -70,7 +70,7 @@
         "template--17824551338299__31d7a52e-5433-4c6f-a4b3-3b5b1726ce51-1676291575c0dd75a6-1": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Location_4_040e58a6-9fd7-4028-a286-0e3a79222aa2.png",
+            "image": "shopify:\/\/shop_images\/FACT_BLOCKS.png",
             "link": ""
           }
         },
@@ -97,9 +97,9 @@
       ],
       "settings": {
         "colors": "white",
-        "width": 150,
-        "subheading": "get to know",
-        "title": "Details"
+        "width": 220,
+        "subheading": "details",
+        "title": "Get to know us"
       }
     },
     "da038fa8-dce0-4874-a181-401f0a9895b1": {
