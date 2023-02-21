@@ -31,7 +31,7 @@
         "subheading": "",
         "page_title": "",
         "title": "",
-        "text": "<p><strong>What to expect at Petersham Nurseries, Covent Garden<\/strong><\/p><p>The Boglione family knows a thing or two about unearthing the beauty in the ordinary. They moved into their Richmond home in 1997, and after discovering it overlooked a local plant nursery, they knew they’d stumbled upon something special. At the first opportunity, they restored the nursery, opening it to the public in 2004 to share their love of art, nature and food with its visitors. Now, they’ve got two destinations, the second a slow-living retreat in the centre of bustling Covent Garden. And you can expect plenty of flora, lots of light wood, and rustic, muted tones at every turn. A wholesome, nourishing space.<\/p><p><strong>What’s on the menu at La Goccia and The Petersham at Petersham Nurseries<\/strong><\/p><p>You’ll find two dining options at Petersham Nurseries Covent Garden, meaning there’s something for every appetite. At La Goccia, home of Italian ‘Cicchetti’ (small plates), the dishes are prepared in front of you, adding drama to the ambient setting. Their seasonal menu includes wood-fired mussels, and organic devilled chicken livers (from their son’s farm). While at à la carte restaurant The Petersham, you can enjoy dishes like salt-baked hake, as well as afternoon tea, in an elegant, grander setting.<\/p>",
+        "text": "<p><strong>What to expect at Petersham Nurseries, Covent Garden<br\/><br\/><\/strong><\/p><p>The Boglione family knows a thing or two about unearthing the beauty in the ordinary. They moved into their Richmond home in 1997, and after discovering it overlooked a local plant nursery, they knew they’d stumbled upon something special. At the first opportunity, they restored the nursery, opening it to the public in 2004 to share their love of art, nature and food with its visitors. Now, they’ve got two destinations, the second a slow-living retreat in the centre of bustling Covent Garden. And you can expect plenty of flora, lots of light wood, and rustic, muted tones at every turn. A wholesome, nourishing space.<br\/><br\/><\/p><p><strong>What’s on the menu at La Goccia and The Petersham at Petersham Nurseries<br\/><br\/><\/strong><\/p><p>You’ll find two dining options at Petersham Nurseries Covent Garden, meaning there’s something for every appetite. At La Goccia, home of Italian ‘Cicchetti’ (small plates), the dishes are prepared in front of you, adding drama to the ambient setting. Their seasonal menu includes wood-fired mussels, and organic devilled chicken livers (from their son’s farm). While at à la carte restaurant The Petersham, you can enjoy dishes like salt-baked hake, as well as afternoon tea, in an elegant, grander setting.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -43,7 +43,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6": {
@@ -95,7 +95,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "cf67a17c-4433-4234-b27f-f54d99925f1a": {
@@ -105,20 +105,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
-      }
-    },
-    "caa04637-6009-4065-89c7-931d3e44b826": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "",
-        "title": "",
-        "text": "<p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/petersham-nurseries\/\">Discover the full collection here <\/a><\/p>",
-        "button_link": "",
-        "button_label": ""
+        "text-over-image-width": "fixed"
       }
     },
     "main": {
@@ -156,7 +143,6 @@
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
     "8bc3e354-b627-42ed-aa89-874908737d29",
     "cf67a17c-4433-4234-b27f-f54d99925f1a",
-    "caa04637-6009-4065-89c7-931d3e44b826",
     "main",
     "blog-posts"
   ]
