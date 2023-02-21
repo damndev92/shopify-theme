@@ -121,6 +121,23 @@
         "button_label": ""
       }
     },
+    "baa6a45f-49a5-4724-a701-093b3af86a7b": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2022-02-03-at-19.37.24-836x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "6. Hotel Pacai recommends going With your Parents at:",
+        "text_block": "<p><a href=\"https:\/\/www.instagram.com\/ertlio_namas\/?hl=fr\">Ertlio Namas<\/a><\/p><p>Šv. Jono g. 7<\/p><p>Vilnius<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -144,6 +161,7 @@
     "5d8269ac-c782-4ea2-8be0-91bfa888050d",
     "18adc2fb-ed70-4bf5-b6b3-ecaa8761493f",
     "d13453fe-4964-403c-9c3c-20ae1c55d37d",
+    "baa6a45f-49a5-4724-a701-093b3af86a7b",
     "blog-posts"
   ]
 }
