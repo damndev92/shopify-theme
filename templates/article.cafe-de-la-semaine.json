@@ -33,6 +33,23 @@
         "text-over-image-width": "full-width"
       }
     },
+    "703e0c9e-1a0a-4fc7-8d5e-5edebf29f792": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/MichlG-731x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What is Café de la Semaine? <\/strong><\/p><p>In collaboration with the young British artist Luke Edward Hall, the “Café de la Semaine” not only propose a vast range of products from past tastemakers featured on their platform such as Alex Eagle, Desmond and Dempsey, Olivia von Halle, Wool, and the Gang and many more, but also their own unique collection. Ceramics,  clothing items, matches, Christmas cards, and posters have been specially designed for the occasion.  If you haven’t sent your Christmas list yet, it’s time to discover Luke Edward Hall’s playful illustrations and Semaine’s undeniably stylish gift guide. You can discover the products at the “Café de la Semaine” at the hotel Le Pigalle, on cafedelasemaine.com and also on Maison Flâneur from 1 December 2018.<\/p><p>Seems like Christmas came early.<\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/cafe-de-la-semaine\/\">To see the full Semaine collection click here.<\/a><\/p><p><a href=\"https:\/\/www.semaine.com\/stories\/cafe-de-la-semaine\">To read more about the girls behind Semaine, click here. <\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6": {
       "type": "image--gallery",
       "blocks": {
@@ -365,6 +382,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "c8a1fece-efad-4c6f-a5f6-d821230983f5",
+    "703e0c9e-1a0a-4fc7-8d5e-5edebf29f792",
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
