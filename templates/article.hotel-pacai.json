@@ -87,6 +87,23 @@
         "button_label": ""
       }
     },
+    "18adc2fb-ed70-4bf5-b6b3-ecaa8761493f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2022-02-03-at-19.31.08-811x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "4. Hotel Pacai recommends Date Night at:",
+        "text_block": "<p><a href=\"https:\/\/www.instagram.com\/dziaugsmas.restoranas\/?hl=fr\">Dziaugsmas<\/a><\/p><p>Vilniaus g. 28<\/p><p>Vilnius<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -108,6 +125,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "5d8269ac-c782-4ea2-8be0-91bfa888050d",
+    "18adc2fb-ed70-4bf5-b6b3-ecaa8761493f",
     "blog-posts"
   ]
 }
