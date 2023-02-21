@@ -104,6 +104,23 @@
         "button_label": ""
       }
     },
+    "d13453fe-4964-403c-9c3c-20ae1c55d37d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2022-02-03-at-19.35.30-821x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "5. Hotel Pacai recommends going With Friends at:",
+        "text_block": "<p><a href=\"https:\/\/www.instagram.com\/pachamamavilnius\/?hl=fr\">Pachamama<\/a><\/p><p>Gedimino pr. 9, 01105<\/p><p>Vilnius<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -126,6 +143,7 @@
     "main",
     "5d8269ac-c782-4ea2-8be0-91bfa888050d",
     "18adc2fb-ed70-4bf5-b6b3-ecaa8761493f",
+    "d13453fe-4964-403c-9c3c-20ae1c55d37d",
     "blog-posts"
   ]
 }
