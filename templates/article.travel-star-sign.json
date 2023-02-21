@@ -14,8 +14,8 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
+        "width": "large",
+        "subheading": "TRAVEL GUIDES",
         "page_title": "Our Astrological Travel Agent: Where to Go According to Your Sign",
         "title": "",
         "text": "<p>As flâneurs, we love exploring somewhere new, or even visiting a familiar favourite. But when it comes to actually picking a destination, we’re lost. We decided to consult the stars for a little guidance; we’re letting the cosmos decide where we’re going.<\/p>",
@@ -31,10 +31,12 @@
         "image": "shopify:\/\/shop_images\/PATIO_POOL-1024x683.jpg",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "Aries",
         "text_block": "<p>A vibrant fire sign, Aries thrive when their energy and passion for adventure are stimulated. Pack your sandals and get ready for some haggling because you’re heading to Morocco. The <strong>Riad Yasmine <\/strong>is the perfect jumping off point for exploring the wilds of Morocco. Hike the Atlas Mountains; wander through the gorgeous markets. Ignite your fire.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -46,10 +48,12 @@
         "image": "shopify:\/\/shop_images\/ScreenShot2020-01-30at09.06.16-800x532-1.jpg",
         "layout": "left",
         "subheading": "",
+        "location": false,
         "title": "Taurus",
         "text_block": "<p>Earthly pleasures are the name of the game for hedonistic Taurus. And where better to go for a taste of the good life than Italy. Indulge in a little countryside chic at <strong>Villa Lena <\/strong>in Palaia. You’ll be living your dreams – under the Tuscan sun.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -61,10 +65,12 @@
         "image": "shopify:\/\/shop_images\/Untitled-design-88.png",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "Gemini",
         "text_block": "<p>Multi-faceted and always social, Geminis get bored easily. Keep yourself on your toes in the ski season of the Swiss Alps. Spend mornings soaking in the views, afternoons on the slopes, and evenings of some much needed<em>après<\/em>–<em>ski<\/em>at <strong>Hotel Chetzeron<\/strong>. We promise you won’t even have time to yawn.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -76,10 +82,12 @@
         "image": "shopify:\/\/shop_images\/Maison-Flaneur-Vora-Santorini18-1024x755.jpg",
         "layout": "left",
         "subheading": "",
+        "location": false,
         "title": "Cancer",
         "text_block": "<p>Emotional, intense and romantic, Cancers would be most relaxed on an intimate, serene trip with family or a significant other. Bask in the tranquillity of <strong>Vora Santorini <\/strong>and take a moment to yourself. Breathe in the beauty of this magical place; exhale all the stress of your daily life.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -91,10 +99,12 @@
         "image": "shopify:\/\/shop_images\/Schermata-2021-04-29-alle-19.49.11-1024x627.png",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "Leo",
         "text_block": "<p>Like pleasure-seeking Taurus, Leos are also lovers of all things beautiful. Leos thrive when surrounded by art, culture and a little bit of luxury, so where better to go than inspiring Florence. Check in at <strong>Velona’s Jungle <\/strong>and spend a few days wandering the streets, visiting the Uffizi and finishing every meal with gelato.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -106,10 +116,12 @@
         "image": "shopify:\/\/shop_images\/Schermata-2021-04-29-alle-19.30.10-1024x676.png",
         "layout": "left",
         "subheading": "",
+        "location": false,
         "title": "Virgo",
         "text_block": "<p>Because Virgos are an earth sign it should come as no surprise that those born under this Mercury-ruled sign are often practical, methodical and down-to-earth. Scratch that orderly itch at the sleek, efficient <strong>Trunk Hotel <\/strong>in Tokyo. You’ve never seen a lovelier, more efficiently run operation.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -121,10 +133,12 @@
         "image": "shopify:\/\/shop_images\/Just-Large-King-1024x668.jpg",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "Libra",
         "text_block": "<p>Venus is in charge for balance-loving Librans, so love, art and beauty take precedence when it comes to travel. Pristine, gorgeous Stockholm is an ideal destination for harmonious Libras, and the <strong>Story Hotel <\/strong>is the perfect home-away-from-home when you’re there. Soak up every last dreamy detail.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -136,10 +150,12 @@
         "image": "shopify:\/\/shop_images\/34124495.jpg",
         "layout": "left",
         "subheading": "",
+        "location": false,
         "title": "Scorpio",
         "text_block": "<p>As a water sign, Scorpios are often fluid and a little mysterious. Though they love being around friends, Scorpios get great energy by being alone, recharging and checking in with themselves. So, where to go for that solo journey, Scorpio? <strong>Graanmarkt 13 <\/strong>in Antwerp. It’s the perfect place for a bit of introspection.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -151,10 +167,12 @@
         "image": "shopify:\/\/shop_images\/167321788.jpg",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "Sagittarius",
         "text_block": "<p>Though all signs like to travel, none are as inspired by wanderlust as much as Sagittarius. Pretty much any destination will make inquisitive Sagittarians happy, but dynamic, adventurous destinations are best. Luckily, California has it all. Book a room at Malibu’s <strong>The Surfrider <\/strong>and indulge your outdoorsy, foodie and chilled sides all at once.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -166,10 +184,12 @@
         "image": "shopify:\/\/shop_images\/2019-Hotel-Pigalle-01-copy-1-1024x683.jpg",
         "layout": "left",
         "subheading": "",
+        "location": false,
         "title": "Capricorn",
         "text_block": "<p>Yes, they can be workaholics, but earthy Capricorns also like to enjoy a little time off too. That being said, they’re often more at home on city trips, as they love having things to do 24\/7. Paris has a wonderful balance of energy for Capricorns. Explore the city from <strong>Le Pigalle<\/strong>.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -181,10 +201,12 @@
         "image": "shopify:\/\/shop_images\/Schermata-2021-04-29-alle-21.27.57-1024x680.png",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "Aquarius",
         "text_block": "<p>Aquarians are notably independent, bold and true to themselves. They love being free to explore both the world around them and who they are inside. The unique, minimal surroundings of <strong>Casa Mami <\/strong>are an inviting setting for self-discovery. Set just outside of Joshua Tree, this eco-friendly retreat is just what you need, Aquarius.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -196,10 +218,12 @@
         "image": "shopify:\/\/shop_images\/Schermata-2021-04-29-alle-21.19.43-1024x680.png",
         "layout": "left",
         "subheading": "",
+        "location": false,
         "title": "Pisces",
         "text_block": "<p>The most spiritual of all signs, Pisces love to connect to spaces, energy and people. <strong>Cretan Malia<\/strong> is awash in good vibes. The place is beautiful, and there’s a peaceful, holistic energy that blankets the entire property. To truly align your spiritual self, sign up for one of their yoga-centric retreats, Pisces. Get ready to find your Zen.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -231,10 +255,10 @@
         "template--17838327431483__8d58016d-7d8b-45b1-a3bf-b9726071fc89-16752609966dd72483-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled-design-6.png",
+            "image": "shopify:\/\/shop_images\/Product-Picture-Template-600-x-600-15-1.png",
             "link": "",
             "title": "",
-            "description": "<p>Colony Armchair<\/p><p>From £1,037<\/p>"
+            "description": "<p>Zodiac Dinner Plate<\/p><p>£58<\/p>"
           }
         },
         "template--17838327431483__8d58016d-7d8b-45b1-a3bf-b9726071fc89-16752609966dd72483-2": {
