@@ -6,7 +6,7 @@
         "image--slideshow-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_b61bdb23-aa69-49a9-8a06-cf1d23335414.png",
+            "image": "shopify:\/\/shop_images\/3_79f3b63f-e888-4fa6-ba77-9e212202b914.png",
             "subheading": "",
             "title": "",
             "text": "",
@@ -24,7 +24,7 @@
         "8c2ca3b1-ed75-4dd0-9b32-15c97f5a1ffe": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_a243545f-626c-4014-8df2-9dd8f618091f.png",
+            "image": "shopify:\/\/shop_images\/2_da5b20d5-9b8f-4a15-a639-1eafd27ed5c2.png",
             "subheading": "",
             "title": "",
             "text": "",
@@ -536,6 +536,24 @@
         "subheading": "Subheading",
         "title": "Shop the look"
       }
+    },
+    "ab24a27b-0737-410b-b2cb-3f65e5c9d489": {
+      "type": "video--video-with-text-overlay",
+      "settings": {
+        "url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "desktopHeight": "650",
+        "mobileHeight": "fullscreen",
+        "subheading": "Subheading",
+        "title": "Share your story",
+        "text": "Here's your chance to make a great first impression",
+        "textAlignment": "center",
+        "textColor": "#000000",
+        "textShadow": false,
+        "subheading--text-size": 14,
+        "heading--text-size": 50,
+        "button_link": "",
+        "button_label": ""
+      }
     }
   },
   "order": [
@@ -550,6 +568,7 @@
     "cab7e0c8-ccb0-41e9-8fcb-49ec92305af0",
     "logo-list",
     "c94d79d4-bbe0-4f33-a57f-335300f24f32",
-    "0c78a5c1-7d9a-4374-9d3b-e76f80ed41b3"
+    "0c78a5c1-7d9a-4374-9d3b-e76f80ed41b3",
+    "ab24a27b-0737-410b-b2cb-3f65e5c9d489"
   ]
 }
