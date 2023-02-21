@@ -46,15 +46,15 @@
         "colors": "white",
         "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "Mexican design:",
+        "text_block": "<p>Naturally, our curiosity was piqued and we tumbled down the rabbit hole, going on a deep dive of Mexican design and craft. And though we are by no means the first – we’re woefully late to the party, in fact – we want to share some of the things we love. Because on the 5th of May and every day, these artisans deserve to be celebrated.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
@@ -68,6 +68,23 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
+      }
+    },
+    "e313268a-6e29-4de4-bf6c-9fc377c1eedd": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Win-a-Bundle-33-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Doña Rosapottery:",
+        "text_block": "<p>We adore the traditional Oaxacan pottery crafted by Doña Rosa. Ceramicists and mass manufacturers across the country emulte Rosa’s signature barro negro, but her descendants carry on the craft with exceptional skill.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
       }
     },
     "blog-posts": {
@@ -90,6 +107,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "e313268a-6e29-4de4-bf6c-9fc377c1eedd",
     "blog-posts"
   ]
 }
