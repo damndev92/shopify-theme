@@ -14,6 +14,11 @@
       "type": "template--page",
       "disabled": true,
       "settings": {
+        "white_label": false,
+        "hide_header": false,
+        "hide_default_content": false,
+        "alignment": "center",
+        "url": ""
       }
     },
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
@@ -134,11 +139,74 @@
         "624553bc-eb92-466d-bca7-d0c9e102f0fc": {
           "type": "image",
           "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/IMG_2221.jpg"
+          }
+        },
+        "d795c23d-d880-40f9-ac2a-1ce8bde1db9f": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/VL7.jpg"
+          }
+        },
+        "5fc51b61-21f3-47d9-b168-e69491a7602d": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/VL1.jpg"
+          }
+        },
+        "af48226a-26ba-4666-8f32-7e4ef7261d12": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/VL.webp"
+          }
+        },
+        "31cff27e-b36c-41be-8d4a-1bb8ef12fbbd": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/VL3.webp"
+          }
+        },
+        "1ed0f900-f825-41ef-a6b6-fd0ca6edba10": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/VL2.webp"
+          }
+        },
+        "274438cc-fe63-44d9-99fe-29d4b4c1ad85": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/VL5.webp"
+          }
+        },
+        "39c9baec-2c28-4a6e-a0e8-58020d31948d": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/VL6.jpg"
+          }
+        },
+        "fc404ed0-070c-486f-a594-52b6c6b1e07c": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/VL4.webp"
+          }
+        },
+        "dc3e80a0-cbbd-4870-8f16-dfdcfa90868d": {
+          "type": "image",
+          "settings": {
           }
         }
       },
       "block_order": [
-        "624553bc-eb92-466d-bca7-d0c9e102f0fc"
+        "624553bc-eb92-466d-bca7-d0c9e102f0fc",
+        "d795c23d-d880-40f9-ac2a-1ce8bde1db9f",
+        "5fc51b61-21f3-47d9-b168-e69491a7602d",
+        "af48226a-26ba-4666-8f32-7e4ef7261d12",
+        "31cff27e-b36c-41be-8d4a-1bb8ef12fbbd",
+        "1ed0f900-f825-41ef-a6b6-fd0ca6edba10",
+        "274438cc-fe63-44d9-99fe-29d4b4c1ad85",
+        "39c9baec-2c28-4a6e-a0e8-58020d31948d",
+        "fc404ed0-070c-486f-a594-52b6c6b1e07c",
+        "dc3e80a0-cbbd-4870-8f16-dfdcfa90868d"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_1_a3d4511f-7234-455e-9ffc-b4fd899b4def.png",
@@ -209,7 +277,7 @@
         "cbf8cc1f-e932-4ee8-8365-efd1ba25591d"
       ],
       "settings": {
-        "background-color": "#F3F3F3",
+        "background-color": "#f3f3f3",
         "text-color": "#000000",
         "title": "Tips from the host",
         "faq_icon": "plus_minus"
