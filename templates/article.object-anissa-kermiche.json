@@ -10,63 +10,68 @@
         "text-over-image-width": "full-width"
       }
     },
-    "9ed1a0df-5728-4bfa-8003-347e49b121e5": {
-      "type": "image--image-with-text-block",
-      "disabled": true,
-      "settings": {
-        "parallax": true,
-        "text-color": "#000000",
-        "background-color": "#ffffff",
-        "horizontal-alignment": "center",
-        "subheading": "",
-        "title": "Share your story",
-        "text": "Here's your chance to make a great first impression",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "e59ec62f-07b5-46d9-921d-cba01b9aebad": {
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "title": "Object of Desire: Anissa Kermiche, Le Pigalle, Paris",
+        "width": "large",
+        "subheading": "DESIGN HUB",
+        "page_title": "",
+        "title": "The Ceramics of Anissa Kermiche, Le Pigalle, Paris",
         "text": "<p>Have you been looking for the perfect statement piece to brighten up your home this fall? Search no more; we have what you need.<br\/><\/p>",
         "button_link": "",
         "button_label": ""
       }
     },
-    "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6": {
-      "type": "image--gallery",
+    "d815be53-8ab8-45d5-b6da-c9914854e0f9": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/anissa-kermiche-vase-13.webp",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Anissa Kermiche’s passion for architecture and fine art transpires through her eponymous <a href=\"https:\/\/anissakermiche.com\/\">jewelry collection<\/a>. It is with great pleasure that we have seen her expand her creativity in a home collection. Her playful intelligence expresses itself in this cheeky and colorful collection of jugs. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "414572a7-4a44-4161-86e0-6c49baedc1bb": {
+      "type": "collection--featured-collection",
       "blocks": {
-        "111924f4-ecc9-41b5-8cc4-9d6921001931": {
-          "type": "image",
+        "template--17808312402235__414572a7-4a44-4161-86e0-6c49baedc1bb-16769947835c1c8017-0": {
+          "type": "grid-card-title",
           "settings": {
-            "image": "shopify:\/\/shop_images\/White-Ceramic-Jugs-Jug-Vase-2.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Anissa Kermiche’s passion for architecture and fine art transpires through her eponymous<a href=\"https:\/\/anissakermiche.com\/\">jewelry collection<\/a>. It is with great pleasure that we have seen her expand her creativity in a home collection. Her playful intelligence expresses itself in this cheeky and colorful collection of jugs. Discover her<a href=\"https:\/\/www.maisonflaneur.com\/venues\/anissa-kermiche\/\">full collection<\/a>today.<\/p>"
           }
         },
-        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-2": {
-          "type": "image",
-          "disabled": true,
+        "template--17808312402235__414572a7-4a44-4161-86e0-6c49baedc1bb-16769947835c1c8017-1": {
+          "type": "grid-card-price",
           "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
+          }
+        },
+        "template--17808312402235__414572a7-4a44-4161-86e0-6c49baedc1bb-16769947835c1c8017-2": {
+          "type": "grid-card-swatches",
+          "settings": {
           }
         }
       },
       "block_order": [
-        "111924f4-ecc9-41b5-8cc4-9d6921001931",
-        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-2"
+        "template--17808312402235__414572a7-4a44-4161-86e0-6c49baedc1bb-16769947835c1c8017-0",
+        "template--17808312402235__414572a7-4a44-4161-86e0-6c49baedc1bb-16769947835c1c8017-1",
+        "template--17808312402235__414572a7-4a44-4161-86e0-6c49baedc1bb-16769947835c1c8017-2"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "",
-        "title": ""
+        "subheading": "EXCLUSIVE COLLECTION",
+        "title": "ANISSA KERMICHE X MAISON FLÂNEUR",
+        "collection": "anissa-kermiche",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -85,9 +90,9 @@
   },
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
-    "9ed1a0df-5728-4bfa-8003-347e49b121e5",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
-    "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
+    "d815be53-8ab8-45d5-b6da-c9914854e0f9",
+    "414572a7-4a44-4161-86e0-6c49baedc1bb",
     "main"
   ]
 }
