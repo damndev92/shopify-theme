@@ -93,7 +93,7 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "The artisans let things unfold organically, creating things that seem as if they could have existed all along.",
         "page_title": "",
         "title": "",
@@ -129,7 +129,7 @@
         "subheading": "",
         "location": false,
         "title": "The Technique",
-        "text_block": "<p>Outsourcing is sacrilege at Georges. Mylene ensures that everything is as local as possible. Everything that can be done in-house is done in the castle. Why look elsewhere when you can do it better and more beautifully at home?<\/p><p>Once the team creates their paints and dyes from scratch, they prepare their fabrics for colouration. They carefully paint or dye the fabrics, leaving some in their unadulterated states, and then allow them to dry. After they’ve dried fully, the fabrics are ready for the next steps.<\/p><p>On the first floor of the castle, the artisans work with brass and wood. The end product dictates the technique used, but they are wide-ranging and require immense skill. The team presses, drills, wets, and soaks to tame the raw materials. This union of man and nature allows them to form the petals for the signature Georges petal fixtures.<\/p><p>Next comes cutting and gluing. Though they may sound simple, these techniques become deceptively precise when in the hands of Georges artisans. The team tackles each step meticulously. They spread out to ensure everything is exact. Proper scissors and a good brush are key.<\/p><p>Though it is a detailed and lengthy process of creation, the care and attention are worth it. The beauty and delicacy of <a href=\"https:\/\/www.pinterest.fr\/maison_flaneur\/georges-store-lighting\/\" target=\"_blank\">the Georges petals lamps are proof positive<\/a>.<\/p>",
+        "text_block": "<p>Outsourcing is sacrilege at Georges. Mylene ensures that everything is as local as possible. Everything that can be done in-house is done in the castle. Why look elsewhere when you can do it better and more beautifully at home?<\/p><p>Once the team creates their paints and dyes from scratch, they prepare their fabrics for colouration. They carefully paint or dye the fabrics, leaving some in their unadulterated states, and then allow them to dry. After they’ve dried fully, the fabrics are ready for the next steps.<\/p><p>On the first floor of the castle, the artisans work with brass and wood. The end product dictates the technique used, but they are wide-ranging and require immense skill. The team presses, drills, wets, and soaks to tame the raw materials. This union of man and nature allows them to form the petals for the signature Georges petal fixtures.<\/p><p>Next comes cutting and gluing. Though they may sound simple, these techniques become deceptively precise when in the hands of Georges artisans. The team tackles each step meticulously. They spread out to ensure everything is exact. Proper scissors and a good brush are key.<\/p><p>Though it is a detailed and lengthy process of creation, the care and attention are worth it. The beauty and delicacy of the Georges petals lamps are proof positive. <\/p>",
         "page_description": false,
         "button_link": "https:\/\/cornerstonehackney.com\/",
         "hotel_page_url": false,
@@ -175,13 +175,13 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/petal-lamp.png",
         "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "The Precious Petal Lamp – Medium",
-        "text_block": "<p>From£357<\/p><p><\/p><p>The \"jewel\" combination of brass and fabric in a floral and airy suspension. With the simplicity of a drop-shaped petal, Pale adds a tribute to the retro ceiling fans of louvred bedrooms. This pendant light plays subtly with light, diffusing a soft light in the room and delicate play of shadows on the ceiling. Its brass hoops give it a full diameter (the petals won't fall in time) and can be adjustable for a more contemporary version. Rod lengths are also available in 150cm, 200cm, 250cm. Please enquire about this by emailing us at <a href=\"mailto:hello@maisonflaneur.com\"><strong>hello@maisonflaneur.com<\/strong><\/a>.<\/p>",
+        "title": "The Precious Petal Lamp",
+        "text_block": "<p>From£357<\/p><p><\/p><p>.<\/p><p>The \"jewel\" combination of brass and fabric in a floral and airy suspension. With the simplicity of a drop-shaped petal, Pale adds a tribute to the retro ceiling fans of louvred bedrooms. This pendant light plays subtly with light, diffusing a soft light in the room and delicate play of shadows on the ceiling. Its brass hoops give it a full diameter (the petals won't fall in time) and can be adjustable for a more contemporary version. Rod lengths are also available in 150cm, 200cm, 250cm. Please enquire about this by emailing us at <a href=\"mailto:hello@maisonflaneur.com\"><strong>hello@maisonflaneur.com<\/strong><\/a>.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -192,17 +192,51 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/octobre-et-mai-_-instagram-suspension-george.png",
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "The Original Petal - Medium",
-        "text_block": "<p>From £218<\/p><p>Georges iconic light in its original format. The unexpected combination of brass, rattan and fabric in a floral and airy suspension. With the simplicity of a drop-shaped petal, Pale adds a tribute to the retro ceiling fans of louvered bedrooms. This pendant light plays subtly with light, diffusing a soft light in the room and delicate play of shadows on the ceiling. Its 8 adjustable petals allow you to compose your own play of lights and turn it into a unique luminaire. Rod lengths are also available in 150cm, 200cm, 250cm. Please enquire about this by emailing us at <a href=\"mailto:hello@maisonflaneur.com\"><strong>hello@maisonflaneur.com<\/strong><\/a>.  <\/p>",
+        "title": "The Original Petal",
+        "text_block": "<p>From £218<\/p><p><\/p><p>.<\/p><p>Georges iconic light in its original format. The unexpected combination of brass, rattan and fabric in a floral and airy suspension. With the simplicity of a drop-shaped petal, Pale adds a tribute to the retro ceiling fans of louvered bedrooms. This pendant light plays subtly with light, diffusing a soft light in the room and delicate play of shadows on the ceiling. Its 8 adjustable petals allow you to compose your own play of lights and turn it into a unique luminaire. Rod lengths are also available in 150cm, 200cm, 250cm. Please enquire about this by emailing us at <a href=\"mailto:hello@maisonflaneur.com\"><strong>hello@maisonflaneur.com<\/strong><\/a>.  <\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
         "button_label": "Shop Now"
+      }
+    },
+    "e88ffda6-77b0-4440-9e39-4fc4f1c1023f": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17809879793979__e88ffda6-77b0-4440-9e39-4fc4f1c1023f-1676985658b9ad470c-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17809879793979__e88ffda6-77b0-4440-9e39-4fc4f1c1023f-1676985658b9ad470c-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17809879793979__e88ffda6-77b0-4440-9e39-4fc4f1c1023f-1676985658b9ad470c-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17809879793979__e88ffda6-77b0-4440-9e39-4fc4f1c1023f-1676985658b9ad470c-0",
+        "template--17809879793979__e88ffda6-77b0-4440-9e39-4fc4f1c1023f-1676985658b9ad470c-1",
+        "template--17809879793979__e88ffda6-77b0-4440-9e39-4fc4f1c1023f-1676985658b9ad470c-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "COLLECTION",
+        "title": "",
+        "collection": "georges",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -245,6 +279,7 @@
     "3d7a4323-d397-4856-b51b-faee0b19a34d",
     "fca7c97c-1dd6-400f-bbbc-907ea89a48cc",
     "afb2d02b-0354-443d-a8f0-e2d359effe5c",
+    "e88ffda6-77b0-4440-9e39-4fc4f1c1023f",
     "main",
     "blog-posts"
   ]
