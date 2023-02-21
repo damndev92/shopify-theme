@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/MF_ElFenn_Lifestlye-9-1024x455.jpg",
+        "image": "shopify:\/\/shop_images\/orangecourtyardsaadalami.webp",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Make Yourself at Home: Review of The El Fenn, Marrakech",
+        "width": "large",
+        "subheading": "MAKE YOURSELF AT HOME",
+        "page_title": "The El Fenn, Marrakech",
         "title": "",
         "text": "<p>Located just a short walk from Marrakech’s famed Djemaa el Fna square and on the edge of the city’s bustling Medina, the hotel El Fenn, literally translating to “house of art,” comprises 28 eclectic suites and rooms. It is a decor enthusiast’s dream: a blend of contemporary fused with the elegant spirit of old Marrakech’s African, Arabic and European influences.<\/p>",
         "button_link": "",
@@ -63,10 +63,12 @@
         "image": "shopify:\/\/shop_images\/MF_ElFenn_Lifestlye-14-1024x836.jpg",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "",
         "text_block": "<p><strong>An on-going love story with Marrakech<\/strong><\/p><p>Owner Vanessa Branson (Sister of Richard) and Howell James were looking for a holiday home in 2002 when they stumbled upon the shambled courtyard of what was once upon a time a magnificent riad. The El-Fenn grew, over sixteen years, with utmost care for details and interest in local craftsmanship, from a charming private home to a luxurious hotel.<\/p><p><\/p><p><strong>What to expect when staying at the El Fenn?<\/strong><\/p><p><\/p><p>The riad is one of the few the medina with a pool, and it boasts not just one, but three. All are lined in Carrara marble. Colorful tiles adorn the walls and floors of the tree-lined courtyards, and the interiors are decorated with hand-carved cedar ceilings and intricate tile work. Local artisan products including leather poufs, hand-woven Berber rugs, pottery, and metal luminaries can be found throughout. Ms. Branson – an avid art collector who opened her first gallery in London in 1986 – curated an extensive art collection for El Fenn, and works by artists including William Kentridge, Fred Pollock and David Shrigley line the walls. An expansive rooftop terrace rests atop the building, offering panoramic views of the Atlas mountains and the city’s spectacular mosque, the Koutoubia.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -120,10 +122,12 @@
         "image": "shopify:\/\/shop_images\/MF_ElFenn_Lifestlye-8-1-1024x836.jpg",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "",
-        "text_block": "<p><strong>Three things Maison Flaneur recommends at the El Fenn:<\/strong><\/p><p>After a long day winding through the bustling maze of streets and alleyways that make up the souk, the terrace is the perfect way to cap off your day. Cool off with a dip in the pool, and then curl up in a daybed below the roof’s Berber tent and enjoy a cup of Moroccan tea or a glass of local wine.<\/p><p>The Spa also offers traditional Moroccan-style massage and beauty treatments. Yes, please.<\/p><p>The Hotel also has a family of tortoises in the garden.<\/p><p> <\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/el-fenn\/\"><em>To see the full El-Fenn collection, click here.<\/em><\/a><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/meet-the-maker-willem-smitt\/\"><em>How to achieve a home interior style like the El Fenn? Read our interview with interior decorator Willem Smit. <\/em><\/a><\/p>",
+        "text_block": "<p><strong>Three things Maison Flâneur recommends at the El Fenn:<\/strong><\/p><p>After a long day winding through the bustling maze of streets and alleyways that make up the souk, the terrace is the perfect way to cap off your day. Cool off with a dip in the pool, and then curl up in a daybed below the roof’s Berber tent and enjoy a cup of Moroccan tea or a glass of local wine.<\/p><p>The Spa also offers traditional Moroccan-style massage and beauty treatments. Yes, please.<\/p><p>The Hotel also has a family of tortoises in the garden.<\/p><p> <\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
