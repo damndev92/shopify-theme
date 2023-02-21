@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/35-1024x1024.png",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>White Cotton Graphic T-shirt, Le Pigalle<\/strong><\/p><p>You probably don’t think ‘uniform’ when you think of Pigalle – a neighbourhood in Paris that’s anything but. That was local designer Olivia’s challenge, when asked to design the ‘anti-uniform’ in collaboration with urban-cool boutique hotel Le Pigalle.<\/p><p>This white cotton, short-sleeved t-shirt forms part of the collaboration, worn by hotel staff at Le Pigalle. With its small heart-shaped logo and monochrome design, it’s perfectly Parisian, and perfectly Pigalle. Style it with your favourite jeans for easy, comfortable, city style.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
