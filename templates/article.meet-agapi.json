@@ -14,8 +14,8 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
+        "width": "full-width",
+        "subheading": "THE FLÂNEURS",
         "page_title": "Meet Agapi and Costantza Sbokou, Owners of Cretan Malia Park, Crete",
         "title": "",
         "text": "<p>Agapi and Costantza Sbokou the two sisters behind Cretan Malia Park in Crete were born with the hospitality bug. Passionate, ambitious, and fearless, we ask them about the story behind the hotel, their favourite locations, and their organic recipe for success.<\/p>",
@@ -168,11 +168,45 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Favourite restaurant in the world? <\/strong><br\/>On the South of Crete, on a remote beach accessible only by boat, <em>Chryssanthos, <\/em>makes the most delicious bread, salads, eggs, and meat cooked in Cretan style. Simple, yet the best. Looking forward to it every single summer.<\/p><p><strong>Favourite address for decoration?<\/strong><br\/>We love combining things. From the flee markets in Paris to Maison Flaneur’s curated selection to our favourite designers of the moment. <\/p>",
+        "text_block": "<p><strong>Favourite restaurant in the world? <\/strong><br\/>On the South of Crete, on a remote beach accessible only by boat, <em>Chryssanthos, <\/em>makes the most delicious bread, salads, eggs, and meat cooked in Cretan style. Simple, yet the best. Looking forward to it every single summer.<\/p><p><strong>Favourite address for decoration?<\/strong><br\/>We love combining things. From the flee markets in Paris to Maison Flâneur’s curated selection to our favourite designers of the moment. <\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
         "button_label": ""
+      }
+    },
+    "0961a1c8-e552-4c98-92b7-a064641055ac": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17926443925819__0961a1c8-e552-4c98-92b7-a064641055ac-1676985658b9ad470c-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17926443925819__0961a1c8-e552-4c98-92b7-a064641055ac-1676985658b9ad470c-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17926443925819__0961a1c8-e552-4c98-92b7-a064641055ac-1676985658b9ad470c-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17926443925819__0961a1c8-e552-4c98-92b7-a064641055ac-1676985658b9ad470c-0",
+        "template--17926443925819__0961a1c8-e552-4c98-92b7-a064641055ac-1676985658b9ad470c-1",
+        "template--17926443925819__0961a1c8-e552-4c98-92b7-a064641055ac-1676985658b9ad470c-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "COLLECTION",
+        "title": "CRETAN MALIA PARK",
+        "collection": "cretan-malia",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "blog-posts": {
@@ -202,6 +236,7 @@
     "f6ad3043-e2e9-4d1e-9926-744d90b46174",
     "d72a1862-0f17-4e2b-bb32-ebb4d31ff6a2",
     "1fe8e4d2-ab4b-486a-88bd-46c5fd832eb5",
+    "0961a1c8-e552-4c98-92b7-a064641055ac",
     "blog-posts"
   ]
 }
