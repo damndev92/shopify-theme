@@ -57,40 +57,6 @@
         "button_label": ""
       }
     },
-    "714f5b3e-35c7-404e-aada-b50036431350": {
-      "type": "collection--featured-collection",
-      "blocks": {
-        "template--18029057212731__714f5b3e-35c7-404e-aada-b50036431350-16769987716de6113f-0": {
-          "type": "grid-card-title",
-          "settings": {
-          }
-        },
-        "template--18029057212731__714f5b3e-35c7-404e-aada-b50036431350-16769987716de6113f-1": {
-          "type": "grid-card-price",
-          "settings": {
-          }
-        },
-        "template--18029057212731__714f5b3e-35c7-404e-aada-b50036431350-16769987716de6113f-2": {
-          "type": "grid-card-swatches",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--18029057212731__714f5b3e-35c7-404e-aada-b50036431350-16769987716de6113f-0",
-        "template--18029057212731__714f5b3e-35c7-404e-aada-b50036431350-16769987716de6113f-1",
-        "template--18029057212731__714f5b3e-35c7-404e-aada-b50036431350-16769987716de6113f-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "Jore Copenhagen",
-        "title": "Discover the Collection",
-        "collection": "jore-copenhagen",
-        "grid": 4,
-        "rows": 1,
-        "show_view_all": false
-      }
-    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -155,6 +121,40 @@
         "button_label": ""
       }
     },
+    "714f5b3e-35c7-404e-aada-b50036431350": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18029057212731__714f5b3e-35c7-404e-aada-b50036431350-16769987716de6113f-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18029057212731__714f5b3e-35c7-404e-aada-b50036431350-16769987716de6113f-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18029057212731__714f5b3e-35c7-404e-aada-b50036431350-16769987716de6113f-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18029057212731__714f5b3e-35c7-404e-aada-b50036431350-16769987716de6113f-0",
+        "template--18029057212731__714f5b3e-35c7-404e-aada-b50036431350-16769987716de6113f-1",
+        "template--18029057212731__714f5b3e-35c7-404e-aada-b50036431350-16769987716de6113f-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Jore Copenhagen",
+        "title": "Discover the Collection",
+        "collection": "jore-copenhagen",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -174,11 +174,11 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
-    "714f5b3e-35c7-404e-aada-b50036431350",
     "main",
     "62b0f83b-aff0-48c8-b9a8-6e9d716edebb",
     "c42446e6-aee0-42c5-b5c9-ade2d5036596",
     "632ea9d6-7300-4008-ad2e-af35ae66de7b",
+    "714f5b3e-35c7-404e-aada-b50036431350",
     "blog-posts"
   ]
 }
