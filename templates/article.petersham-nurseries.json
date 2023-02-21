@@ -23,6 +23,16 @@
         "button_label": ""
       }
     },
+    "03ab3d8a-ccea-4fcb-85ac-a4b1120bb0d8": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/LA-Gocchia-Maison-Flaneur-8-copy-1024x683.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "fixed"
+      }
+    },
     "8bcc3510-5cd3-456f-bd40-504182e768ae": {
       "type": "text--rich-text",
       "settings": {
@@ -34,16 +44,6 @@
         "text": "<p><strong>What to expect at Petersham Nurseries, Covent Garden<br\/><br\/><\/strong><\/p><p>The Boglione family knows a thing or two about unearthing the beauty in the ordinary. They moved into their Richmond home in 1997, and after discovering it overlooked a local plant nursery, they knew they’d stumbled upon something special. At the first opportunity, they restored the nursery, opening it to the public in 2004 to share their love of art, nature and food with its visitors. Now, they’ve got two destinations, the second a slow-living retreat in the centre of bustling Covent Garden. And you can expect plenty of flora, lots of light wood, and rustic, muted tones at every turn. A wholesome, nourishing space.<br\/><br\/><\/p><p><strong>What’s on the menu at La Goccia and The Petersham at Petersham Nurseries<br\/><br\/><\/strong><\/p><p>You’ll find two dining options at Petersham Nurseries Covent Garden, meaning there’s something for every appetite. At La Goccia, home of Italian ‘Cicchetti’ (small plates), the dishes are prepared in front of you, adding drama to the ambient setting. Their seasonal menu includes wood-fired mussels, and organic devilled chicken livers (from their son’s farm). While at à la carte restaurant The Petersham, you can enjoy dishes like salt-baked hake, as well as afternoon tea, in an elegant, grander setting.<\/p>",
         "button_link": "",
         "button_label": ""
-      }
-    },
-    "03ab3d8a-ccea-4fcb-85ac-a4b1120bb0d8": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/LA-Gocchia-Maison-Flaneur-8-copy-1024x683.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "fixed"
       }
     },
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6": {
@@ -98,16 +98,6 @@
         "text-over-image-width": "fixed"
       }
     },
-    "cf67a17c-4433-4234-b27f-f54d99925f1a": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Gocchia-Bar-Deco-Maison-Flaneur-5-copy-1024x683.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "fixed"
-      }
-    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -138,11 +128,10 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
-    "8bcc3510-5cd3-456f-bd40-504182e768ae",
     "03ab3d8a-ccea-4fcb-85ac-a4b1120bb0d8",
+    "8bcc3510-5cd3-456f-bd40-504182e768ae",
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
     "8bc3e354-b627-42ed-aa89-874908737d29",
-    "cf67a17c-4433-4234-b27f-f54d99925f1a",
     "main",
     "blog-posts"
   ]
