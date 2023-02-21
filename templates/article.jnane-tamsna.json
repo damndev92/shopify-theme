@@ -27,7 +27,7 @@
       "type": "image--image",
       "settings": {
         "image": "shopify:\/\/shop_images\/NJ2-1024x576.jpg",
-        "parallax": false,
+        "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
         "text-over-image-width": "fixed"
@@ -95,7 +95,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "main": {
