@@ -162,7 +162,7 @@
         "colors": "white",
         "subheading": "Jore Copenhagen",
         "title": "Discover the Collection",
-        "collection": "",
+        "collection": "jore-copenhagen",
         "grid": 4,
         "rows": 1,
         "show_view_all": false
