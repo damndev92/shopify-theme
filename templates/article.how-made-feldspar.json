@@ -15,7 +15,7 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "DESIGN HUB",
         "page_title": "How It’s Made: Feldspar",
         "title": "",
         "text": "<p>After moving to Devon seven years ago, Cath and Jeremy Brown did something unexpected – they bought a pottery wheel. Though the pair had always been incredibly choosey about what they bring into their home, picking only special pieces or items with sentimental value, they weren’t quite as selective when it came to their work.<\/p><p>Jeremy and Cath were frustrated in their careers. They had to make compromises they didn’t want to make and felt unfulfilled. But once they made that move down to Devon – and once that pottery wheel showed up – things started to change. Always preferring to make something rather than buy it, the pair started to really create, to fill their home with want would turn out to be the very first <a href=\"https:\/\/www.maisonflaneur.com\/brand\/feldspar\/\">Feldspar<\/a> pieces.<\/p>",
@@ -57,32 +57,6 @@
         "button_label": ""
       }
     },
-    "main": {
-      "type": "template--article",
-      "disabled": true,
-      "settings": {
-        "show_author_name": false,
-        "show_dates": true,
-        "blog-sidebar-link": "",
-        "blog_sidebar_title": "",
-        "blog_sidebar_desc": "",
-        "show_blog_tags": false,
-        "show_recent_posts": false
-      }
-    },
-    "blog-posts": {
-      "type": "blog--blog-posts",
-      "settings": {
-        "colors": "light",
-        "subheading": "BLOG",
-        "title": "Latest articles",
-        "post_limit": 3,
-        "show_author_name": false,
-        "show_dates": true,
-        "show_blog_images": true,
-        "imageSize": "square"
-      }
-    },
     "aaafd56c-b437-4c79-b0d2-c46abb917404": {
       "type": "collection--featured-collection",
       "blocks": {
@@ -116,6 +90,32 @@
         "rows": 1,
         "show_view_all": false
       }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
     }
   },
   "order": [
@@ -123,8 +123,8 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "aaafd56c-b437-4c79-b0d2-c46abb917404",
     "main",
-    "blog-posts",
-    "aaafd56c-b437-4c79-b0d2-c46abb917404"
+    "blog-posts"
   ]
 }
