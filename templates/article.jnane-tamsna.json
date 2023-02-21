@@ -88,6 +88,16 @@
         "title": ""
       }
     },
+    "c75429aa-9f69-4101-b9d1-0d9304562d24": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Jnane-1024x576_ae9fa822-9120-49c6-8521-6d2f9a89015a.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6": {
       "type": "image--gallery",
       "blocks": {
@@ -422,6 +432,7 @@
     "e591fb1d-1032-4941-878c-e05b98399484",
     "cc649ca1-0e22-4c5d-8bb9-c506fe258f74",
     "a2941d46-be95-46bc-9842-19c57674b21c",
+    "c75429aa-9f69-4101-b9d1-0d9304562d24",
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
