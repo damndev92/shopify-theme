@@ -14,7 +14,7 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "",
         "page_title": "Make Yourself at Home: Cretan Malia Park, Crete",
         "title": "",
@@ -31,10 +31,12 @@
         "image": "shopify:\/\/shop_images\/cretan-malia-park-reception-desk-extraordinary-lamp-interior-design-k-02-x2-jpg-872x1024_5.jpg",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "What makes Cretan Malia Park so Special?",
         "text_block": "<p><br\/>Key to Cretan Malia Park’s identity is its commitment to sustainability — a crucial philosophy that has been woven into the hotel’s DNA since its establishment a quarter century ago. Enveloped by lush greenery, this boutique style resort with its sleek design is tucked away within nature and caters to discerning and affluent travelers. Their commitment to environmental conservation sets this eco-friendly haven apart making it a truly unique destination.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": "Book Now"
       }
     },
@@ -46,10 +48,12 @@
         "image": "shopify:\/\/shop_images\/cretan-malia-park-farming-garden-kitchen-barbeque-m-06-r-a-a-872x1024.jpg",
         "layout": "left",
         "subheading": "",
+        "location": false,
         "title": "What to expect when staying at Cretan Malia Park?",
         "text_block": "<p><br\/>Fusing together calming seclusion with bohemian luxury and extraordinary surroundings, the accommodation options of Cretan Malia Park welcome guests to an invitation to relax and recharge. Retro yet refreshingly original, designed and furnished to reflect their sustainable,nature-inspired approach to holistic relaxation and effortless elegance, the rooms, bungalows and suites are created with a relaxed, earthy, slightly bohemian mood in mind. Aiming to bring inside the hues and joyous feel of the resort’s amazing gardens,blending harmoniously together with the exotic colors found on the murals and artworks of the Minoan Crete.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": "Book Now"
       }
     },
@@ -84,11 +88,47 @@
         "image": "shopify:\/\/shop_images\/cretan-malia-park-exterior-a-01-x2-jpg-872x1024.jpg",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "Maison Flâneur Recommends",
         "text_block": "<p>At Cretan Malia Park, you can indulge in long days in the sunshine and taste the simple yet sophisticated joys of a holiday on the coast and the outdoor life. Go on the adventure of a lifetime with an expansive roster of activities for every age, from exploring the wonders of Crete and snorkeling in crystal blue waters, hiking & biking to Crete’s magnificent scenery, to discovering the island’s culinary highlights via their Crete’s True Soul culinary experience, private cooking lessons or olive oil and wine tastings and revitalizing with private Yoga, Pilates and meditation sessions.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": "Book Now"
+      }
+    },
+    "ca112317-7a04-4fb2-ba67-ab41a25e4a93": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17821750853947__ca112317-7a04-4fb2-ba67-ab41a25e4a93-1676985658b9ad470c-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17821750853947__ca112317-7a04-4fb2-ba67-ab41a25e4a93-1676985658b9ad470c-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17821750853947__ca112317-7a04-4fb2-ba67-ab41a25e4a93-1676985658b9ad470c-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17821750853947__ca112317-7a04-4fb2-ba67-ab41a25e4a93-1676985658b9ad470c-0",
+        "template--17821750853947__ca112317-7a04-4fb2-ba67-ab41a25e4a93-1676985658b9ad470c-1",
+        "template--17821750853947__ca112317-7a04-4fb2-ba67-ab41a25e4a93-1676985658b9ad470c-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "COLLECTION",
+        "title": "",
+        "collection": "cretan-malia",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "56a5608c-a8ef-4095-ae97-0ffe8fcff71a": {
@@ -123,6 +163,7 @@
     "main",
     "a2a45379-af5e-4e4c-b567-6df696a6df68",
     "8202b7db-1a60-44fe-bc10-97319ac89dbe",
+    "ca112317-7a04-4fb2-ba67-ab41a25e4a93",
     "56a5608c-a8ef-4095-ae97-0ffe8fcff71a",
     "blog-posts"
   ]
