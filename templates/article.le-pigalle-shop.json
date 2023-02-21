@@ -70,6 +70,23 @@
         "show_recent_posts": false
       }
     },
+    "53d7bb0e-b784-42a0-8e5f-29e929f07111": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/37-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>White Cotton Graphic Backpack, Jean André x Le Pigalle<\/strong><\/p><p>The latest piece from the Le Pigalle X Jean André collaboration is the White Cotton Graphic Backpack. Perfect for everyday use with the ability to hold everything you need. It has a bold graphic lip print with a stylish backpack design.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -90,6 +107,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "53d7bb0e-b784-42a0-8e5f-29e929f07111",
     "blog-posts"
   ]
 }
