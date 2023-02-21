@@ -14,6 +14,11 @@
       "type": "template--page",
       "disabled": true,
       "settings": {
+        "white_label": false,
+        "hide_header": false,
+        "hide_default_content": false,
+        "alignment": "center",
+        "url": ""
       }
     },
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
@@ -131,14 +136,57 @@
     "c7696e47-4593-46aa-ae27-e28dca9a5dad": {
       "type": "image--image-with-text-overlay",
       "blocks": {
+        "331136f7-0c88-4f78-8661-af49e47b09d4": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/1.-Ox-Barn-Courtyard-Entrance-1140x760-1.jpg"
+          }
+        },
         "0c83d190-4f66-4ffd-8b8b-00e816375ec9": {
           "type": "image",
           "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/DSC2557-1140x760-1.jpg"
+          }
+        },
+        "a143ebca-e2e5-44cc-a9f6-a22d2656b7fa": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/Rivermint.jpg"
+          }
+        },
+        "6a019587-ccaf-4e07-91f0-4085e0aa6d8f": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/Thyme_-_Meadow_Spa_-_Interior6.jpg"
+          }
+        },
+        "5f364d81-78f7-4845-a9b9-d252aa22622f": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/2019_May_Thyme6785-1140x760-1.jpg"
+          }
+        },
+        "d983e6a1-05bd-4b57-a89c-c6f2ea753644": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/dsc2680.jpg"
+          }
+        },
+        "ede349e9-611c-4392-b429-ff4c0047b6f4": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/1Z2A1027.jpg"
           }
         }
       },
       "block_order": [
-        "0c83d190-4f66-4ffd-8b8b-00e816375ec9"
+        "331136f7-0c88-4f78-8661-af49e47b09d4",
+        "0c83d190-4f66-4ffd-8b8b-00e816375ec9",
+        "a143ebca-e2e5-44cc-a9f6-a22d2656b7fa",
+        "6a019587-ccaf-4e07-91f0-4085e0aa6d8f",
+        "5f364d81-78f7-4845-a9b9-d252aa22622f",
+        "d983e6a1-05bd-4b57-a89c-c6f2ea753644",
+        "ede349e9-611c-4392-b429-ff4c0047b6f4"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Rachael_smith-_hotel228834.jpg",
