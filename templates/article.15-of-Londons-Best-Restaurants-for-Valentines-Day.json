@@ -270,12 +270,12 @@
         "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "Share brand or product details",
-        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "title": "12. Kiln",
+        "text_block": "<p>58 Brewer Street, W1F 9TL<br\/><strong>Head chef:<\/strong> Ben Chapman<br\/><strong>Order the:<\/strong> Glass noodles with Tamworth belly and brown crab<\/p><p>An intimate setting perfect for a solo evening, Kiln offers seating around a long counter running around the open kitchen. Alongside the theatrics of watching the chefs at work, the Soho spot is lauded for its ever-changing menu of Thai and Burmese dishes cooked in clay pots on a charcoal range that are far too good to share.<\/p>",
         "page_description": false,
-        "button_link": "",
+        "button_link": "https:\/\/kilnsoho.com\/",
         "hotel_page_url": false,
-        "button_label": ""
+        "button_label": "Book Now"
       }
     },
     "blog-posts": {
