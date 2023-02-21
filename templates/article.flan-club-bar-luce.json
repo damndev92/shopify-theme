@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Flân’ Club: Bar Luce, Milan",
+        "width": "large",
+        "subheading": "DESTINATION",
+        "page_title": "Bar Luce, Milan",
         "title": "",
         "text": "<p>Designed by film director Wes Anderson, Bar Luce recreates the atmosphere of a typical Milanese cafè. Although his movies often favor symmetrical tableaux, Anderson feels: “that there is no ideal angle for this space. It is for real life, and ought to have numerous good spots for eating, drinking, talking, reading, etc. While I do think it would make a pretty good movie set, I think it would be an even better place to write a movie. I tried to make it a bar I would want to spend my own non-fictional afternoons in”.<\/p>",
         "button_link": "",
@@ -53,10 +53,29 @@
         "image": "shopify:\/\/shop_images\/fondazione-prada-bar-luce-flipper-1024x576.jpg",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "",
-        "text_block": "<p><strong>The Flân’ Club celebrates hospitality locations that inspire us and hopefully will inspire you too. <\/strong><\/p><p>Designed by film director Wes Anderson, the bar and café recreates the atmosphere of a typical Milanese café. Some architectural and decorative details from the original structure have been preserved, such as the arched ceiling, which recreates a ‘miniature’ version of the vaulted glass roof of the Galleria Vittorio Emanuele, one of Milan’s symbolic buildings. Other key elements of the Galleria are replicated inside, creating a sort of patterned decoration for the top half of the bar.<\/p><p>In keeping with the interior design, the seats, Formica furniture, floor, veneered wood wall panels and the range of colors employed are reminiscent of Italian popular culture and aesthetics from the 1950s and 1960s, echoing artistic decisions Anderson made years earlier for his short film <em>Castello Cavalcanti<\/em>. Other iconographic sources have been equally inspirational, notably two masterpieces of Italian Neorealism, both set in Milan: <em>Miracolo a Milano<\/em> (<em>Miracle in Milan<\/em>, 1951, by Vittorio De Sica) and <em>Rocco e i suoi fratelli<\/em> (<em>Rocco and His Brothers<\/em>, 1960, by Luchino Visconti). <\/p><p><a href=\"http:\/\/www.fondazioneprada.org\/barluce-en\/?lang=en\">By Fondazione Prada <\/a><\/p>",
+        "text_block": "<p><strong>The Flân’ Club celebrates hospitality locations that inspire us and hopefully will inspire you too. <\/strong><\/p><p>Designed by film director Wes Anderson, the bar and café recreates the atmosphere of a typical Milanese café. Some architectural and decorative details from the original structure have been preserved, such as the arched ceiling, which recreates a ‘miniature’ version of the vaulted glass roof of the Galleria Vittorio Emanuele, one of Milan’s symbolic buildings. Other key elements of the Galleria are replicated inside, creating a sort of patterned decoration for the top half of the bar.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "8e677e64-1035-4186-9cfa-439f969d2be3": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/bar-luce-fondazione-prada.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>In keeping with the interior design, the seats, Formica furniture, floor, veneered wood wall panels and the range of colors employed are reminiscent of Italian popular culture and aesthetics from the 1950s and 1960s, echoing artistic decisions Anderson made years earlier for his short film <em>Castello Cavalcanti<\/em>. Other iconographic sources have been equally inspirational, notably two masterpieces of Italian Neorealism, both set in Milan: <em>Miracolo a Milano<\/em> (<em>Miracle in Milan<\/em>, 1951, by Vittorio De Sica) and <em>Rocco e i suoi fratelli<\/em> (<em>Rocco and His Brothers<\/em>, 1960, by Luchino Visconti). <\/p><p><a href=\"http:\/\/www.fondazioneprada.org\/barluce-en\/?lang=en\">By Fondazione Prada <\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -114,6 +133,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "c72b96b1-552a-4bee-a096-e7130b052a0d",
     "60bed94f-19d1-471f-9213-301734a4bab2",
+    "8e677e64-1035-4186-9cfa-439f969d2be3",
     "e446cbdb-17d5-46ed-ac56-4a879eeb9366",
     "main",
     "blog-posts"
