@@ -98,6 +98,16 @@
         "text-over-image-width": "full-width"
       }
     },
+    "cf67a17c-4433-4234-b27f-f54d99925f1a": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Gocchia-Bar-Deco-Maison-Flaneur-5-copy-1024x683.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "caa04637-6009-4065-89c7-931d3e44b826": {
       "type": "text--rich-text",
       "settings": {
@@ -391,6 +401,7 @@
     "03ab3d8a-ccea-4fcb-85ac-a4b1120bb0d8",
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
     "8bc3e354-b627-42ed-aa89-874908737d29",
+    "cf67a17c-4433-4234-b27f-f54d99925f1a",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
     "e7d2425a-53d5-4163-bc76-529e5c087a1f",
