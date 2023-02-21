@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screen-Shot-2021-09-06-at-15.51.48-1024x601.png",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-02-21_at_20.07.08.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Destinations: Mexico City by Carlos Couturier from CÃ¬rculo Mexicano",
+        "width": "large",
+        "subheading": "TRAVEL GUIDES",
+        "page_title": "Mexico City by Carlos Couturier from Cìrculo Mexicano",
         "title": "",
         "text": "<p> Discover the ultimate insider guide to Mexico City. Let Carlos Couturier from Cìrculo Mexicano take you on a tour of his favourite spots in the city.<\/p>",
         "button_link": "",
@@ -183,6 +183,40 @@
         "title": ""
       }
     },
+    "cc443869-0857-4c71-b960-deddcb78c855": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17849485066555__cc443869-0857-4c71-b960-deddcb78c855-1677009039faa48c96-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17849485066555__cc443869-0857-4c71-b960-deddcb78c855-1677009039faa48c96-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17849485066555__cc443869-0857-4c71-b960-deddcb78c855-1677009039faa48c96-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17849485066555__cc443869-0857-4c71-b960-deddcb78c855-1677009039faa48c96-0",
+        "template--17849485066555__cc443869-0857-4c71-b960-deddcb78c855-1677009039faa48c96-1",
+        "template--17849485066555__cc443869-0857-4c71-b960-deddcb78c855-1677009039faa48c96-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHOP",
+        "title": "CÌRCULO MEXICANO'S COLLECTION",
+        "collection": "circulo-mexicano",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -218,6 +252,7 @@
     "6d1c6b78-73ec-4f7c-9bed-1d3b58e09af6",
     "bfabce82-07e6-4fa0-bb1d-2f9112ff4138",
     "9fe369c6-d742-494e-9c2d-20c7ba96f385",
+    "cc443869-0857-4c71-b960-deddcb78c855",
     "main",
     "blog-posts"
   ]
