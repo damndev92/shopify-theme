@@ -57,6 +57,40 @@
         "button_label": ""
       }
     },
+    "ab331060-533a-4ce8-be1b-eaf7b89cd2a8": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17824971948347__ab331060-533a-4ce8-be1b-eaf7b89cd2a8-1676997222878d166b-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17824971948347__ab331060-533a-4ce8-be1b-eaf7b89cd2a8-1676997222878d166b-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17824971948347__ab331060-533a-4ce8-be1b-eaf7b89cd2a8-1676997222878d166b-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17824971948347__ab331060-533a-4ce8-be1b-eaf7b89cd2a8-1676997222878d166b-0",
+        "template--17824971948347__ab331060-533a-4ce8-be1b-eaf7b89cd2a8-1676997222878d166b-1",
+        "template--17824971948347__ab331060-533a-4ce8-be1b-eaf7b89cd2a8-1676997222878d166b-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHOP",
+        "title": "THE COLLECTION",
+        "collection": "vora-santorini",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +123,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "ab331060-533a-4ce8-be1b-eaf7b89cd2a8",
     "main",
     "blog-posts"
   ]
