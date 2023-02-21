@@ -33,11 +33,11 @@
         "subheading": "",
         "location": false,
         "title": "1. Morning Coffee at:",
-        "text_block": "<p><a href=\"https:\/\/www.instagram.com\/cafesao_lisboa\/\">Café São<\/a><\/p><p>Rua de São Bento 102, 1200-816 Lisbon<\/p>",
+        "text_block": "<p>Café São<\/p><p>Rua de São Bento 102, 1200-816 Lisbon<\/p>",
         "page_description": false,
-        "button_link": "",
+        "button_link": "https:\/\/www.thefork.co.uk\/restaurant\/cafe-de-sao-bento-r64492",
         "hotel_page_url": false,
-        "button_label": ""
+        "button_label": "Book now"
       }
     },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
@@ -52,9 +52,9 @@
         "title": "2. Lunch Break at:",
         "text_block": "<p><a href=\"https:\/\/www.bbbtaste.club\/\">BBB Taste<\/a><\/p><p>Rua das Esperança 44, 1200-658 Lisbon<br\/><br\/><\/p><p><\/p>",
         "page_description": false,
-        "button_link": "",
+        "button_link": "https:\/\/www.bbbtaste.club\/",
         "hotel_page_url": false,
-        "button_label": ""
+        "button_label": "Book Now"
       }
     },
     "main": {
@@ -80,28 +80,11 @@
         "subheading": "",
         "location": false,
         "title": "3. Sunset Drink at:",
-        "text_block": "<p><a href=\"https:\/\/java.superbexperience.com\/\">Javá<\/a><\/p><p>Praça Dom Luis I 30, 1200-225 Lisbon<\/p>",
+        "text_block": "<p>Javá<\/p><p>Praça Dom Luis I 30, 1200-225 Lisbon<\/p>",
         "page_description": false,
-        "button_link": "",
+        "button_link": "https:\/\/letsumai.com\/widget\/Java-Rooftop",
         "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "3e820763-99e9-41b8-9f48-a7826db3d94d": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/centa-lisbona-1024x1024-1.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "4. Date Night at:",
-        "text_block": "<p><a href=\"https:\/\/www.instagram.com\/centa.lisbon\/?hl=en\">Centá<\/a><\/p><p>Rua Santos-o-Velho 114, 1200-690 Lisbon<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
+        "button_label": "Book Now"
       }
     },
     "d4376ad9-02eb-4c84-8b3d-246448063145": {
@@ -110,15 +93,15 @@
         "colors": "white",
         "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/Prado-1024x1024-1.png",
-        "layout": "left",
+        "layout": "right",
         "subheading": "",
         "location": false,
         "title": "5. With Friends at:",
-        "text_block": "<p><a href=\"https:\/\/pradorestaurante.com\/\">Prado<\/a><\/p><p>Pedras Negras 2, 1100-404 Lisbon<\/p>",
+        "text_block": "<p>Prado<\/p><p>Pedras Negras 2, 1100-404 Lisbon<\/p>",
         "page_description": false,
-        "button_link": "",
+        "button_link": "https:\/\/www.tripadvisor.co.uk\/Restaurant_Review-g189158-d13206964-Reviews-Prado_Restaurante-Lisbon_Lisbon_District_Central_Portugal.html",
         "hotel_page_url": false,
-        "button_label": ""
+        "button_label": "Book Now"
       }
     },
     "1f916df3-075c-4c2c-8e70-cdb17d7654be": {
@@ -127,15 +110,15 @@
         "colors": "white",
         "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/Lisbon-guide-1024x1024-1.png",
-        "layout": "right",
+        "layout": "left",
         "subheading": "",
         "location": false,
         "title": "6. Secret Spot:",
         "text_block": "<p><a href=\"https:\/\/www.dearbreakfast.com\/\">Dear Breakfast Rooftop<\/a><\/p><p>Calçada Ribeiro Santos 37, 1200-690 Lisbon<\/p>",
         "page_description": false,
-        "button_link": "",
+        "button_link": "https:\/\/www.dearbreakfast.com\/",
         "hotel_page_url": false,
-        "button_label": ""
+        "button_label": "Book Now"
       }
     },
     "blog-posts": {
@@ -159,7 +142,6 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "5fcf0138-c49e-4d25-a665-de44e166423e",
-    "3e820763-99e9-41b8-9f48-a7826db3d94d",
     "d4376ad9-02eb-4c84-8b3d-246448063145",
     "1f916df3-075c-4c2c-8e70-cdb17d7654be",
     "blog-posts"

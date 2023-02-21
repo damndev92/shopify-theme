@@ -185,6 +185,23 @@
         "button_label": "Book Now"
       }
     },
+    "b40a5978-e6c5-4ed2-a3f7-69f4878179e3": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T180051.366-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "9. Frenchie",
+        "text_block": "<p>16 Henrietta St, WC2E 8QH<br\/><strong>Head chef:<\/strong> Gregory Marchand<br\/><strong>Order the:<\/strong> Lamb ragu pappardelle<\/p><p>If a trip to Paris with your nearest and dearest is off the cards, Covent Garden’s Frenchie is the next best thing. A chic and contemporary take on classic French cuisine, the aptly named eatery is famed for its inventive but comforting dishes, but on February 14th, the five-course tasting menu, complete with petit fours and a wine pairing, will be on our hit list.<\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.frenchiecoventgarden.com\/",
+        "hotel_page_url": false,
+        "button_label": "Book Now"
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -255,6 +272,7 @@
     "1e52a36b-7da7-466b-8357-ed3834984f1f",
     "c32c3dae-5d1b-4734-a5f1-3546cd38761f",
     "b81b9c0d-5b65-4990-8694-305fec273b20",
+    "b40a5978-e6c5-4ed2-a3f7-69f4878179e3",
     "main",
     "4db223bc-8729-4b63-a9af-c3c4a54e996b",
     "31dac674-f6ed-471e-a3da-c0c64c42a388",
