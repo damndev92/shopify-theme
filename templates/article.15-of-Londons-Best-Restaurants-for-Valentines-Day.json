@@ -296,6 +296,74 @@
         "button_label": "Book Now"
       }
     },
+    "46e69b6a-79d5-4414-bb4f-97b25305b77a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T182721.386-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "14. Lina Stores",
+        "text_block": "<p>119 Queen’s Road, ​SE15 2EZ<br\/><strong>Head chef:<\/strong> Masha Rener<br\/><strong>Order the:<\/strong> Tagliolini al tartufo e parmigiano<\/p><p>Authentic Italian pasta, mouthwatering antipasti and people-watching galore – there’s a reason that Lina Stores consistently makes it onto lists of London’s best eateries. Take a seat at the counter tables at its Greek Street location, and watch the chefs artfully prepare dreamy dishes inspired by the original delicatessen. Finish with a digestivo and a dolci.<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.linastores.co.uk\/",
+        "hotel_page_url": false,
+        "button_label": "Book Now"
+      }
+    },
+    "7f5b6940-b080-4ebc-b89c-772e4269c281": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T183233.693-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "15. 40 Maltby Street",
+        "text_block": "<p>40 Maltby St, London SE1 3PA<br\/><strong>Head chef:<\/strong> Steve Williams<br\/><strong>Order the:<\/strong> Natural wine<\/p><p>The softly lit arches hidden in the hustle and bustle of the nearby market make 40 Maltby Street a welcome retreat for those seeking a cosy evening. Nestled at the back of Gergovie Wines’ warehouse, the tiny restaurant serves delectable modern European dishes that change on a weekly basis alongside a slew of natural wines. Don’t forget a bottle of vino to enjoy at home.<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.40maltbystreet.com\/",
+        "hotel_page_url": false,
+        "button_label": "Book Now"
+      }
+    },
+    "1a19ea1d-eee5-4b6e-97b3-338fd12ad554": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17769038709051__1a19ea1d-eee5-4b6e-97b3-338fd12ad554-1676974880a8e8be66-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17769038709051__1a19ea1d-eee5-4b6e-97b3-338fd12ad554-1676974880a8e8be66-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17769038709051__1a19ea1d-eee5-4b6e-97b3-338fd12ad554-1676974880a8e8be66-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17769038709051__1a19ea1d-eee5-4b6e-97b3-338fd12ad554-1676974880a8e8be66-0",
+        "template--17769038709051__1a19ea1d-eee5-4b6e-97b3-338fd12ad554-1676974880a8e8be66-1",
+        "template--17769038709051__1a19ea1d-eee5-4b6e-97b3-338fd12ad554-1676974880a8e8be66-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Last-minute gifts",
+        "title": "Forget the usual flowers and chocolates, these gifts are guaranteed to set the mood at home and win you some serious brownie points.",
+        "collection": "gifts-for-home",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -330,6 +398,9 @@
     "31dac674-f6ed-471e-a3da-c0c64c42a388",
     "580d33ab-3eac-4a9b-9e2d-934a28687c9c",
     "a18372f8-3f26-44c4-8d12-9694043170a2",
+    "46e69b6a-79d5-4414-bb4f-97b25305b77a",
+    "7f5b6940-b080-4ebc-b89c-772e4269c281",
+    "1a19ea1d-eee5-4b6e-97b3-338fd12ad554",
     "blog-posts"
   ]
 }
