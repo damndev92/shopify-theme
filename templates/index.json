@@ -540,12 +540,12 @@
     "ab24a27b-0737-410b-b2cb-3f65e5c9d489": {
       "type": "video--video-with-text-overlay",
       "settings": {
-        "url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "url": "https:\/\/youtu.be\/HD_8Ibc8tkQ",
         "desktopHeight": "650",
         "mobileHeight": "fullscreen",
-        "subheading": "Subheading",
-        "title": "Share your story",
-        "text": "Here's your chance to make a great first impression",
+        "subheading": "",
+        "title": "",
+        "text": "",
         "textAlignment": "center",
         "textColor": "#000000",
         "textShadow": false,
