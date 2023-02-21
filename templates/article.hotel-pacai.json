@@ -70,6 +70,23 @@
         "show_recent_posts": false
       }
     },
+    "5d8269ac-c782-4ea2-8be0-91bfa888050d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2022-02-03-at-19.25.04-816x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "3. Hotel Pacai recommends Sunset Drink at:",
+        "text_block": "<p><a href=\"https:\/\/www.instagram.com\/residencebarvilnius\/?hl=fr\">Residence Cocktail Bar<\/a><\/p><p>Užupio g. 40<\/p><p>Vilnius<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -90,6 +107,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "5d8269ac-c782-4ea2-8be0-91bfa888050d",
     "blog-posts"
   ]
 }
