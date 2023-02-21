@@ -16,9 +16,9 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
-        "page_title": "Flân’ Club: Nazifa Movsoumova, Founder of Modern Society, London",
+        "page_title": "Meet Nazifa Movsoumova, Founder of Modern Society, London, UK",
         "title": "",
-        "text": "<p>Modern Society was founded byNazifa Movsoumova in 2013. And though <a href=\"https:\/\/themodernsociety.com\/\">her store<\/a>is widely regarded as one of the freshest spots in fashion and design, she began her career in law and finance – which definitely isn’t bad for business. Nazifa’s well-curated designer edits and unique vision are what brings Modern Society to life – and what sees visitors heading straight to the store and its café the minute they set foot in Shoreditch. Meet our fellow Flâneur. <\/p>",
+        "text": "<p>Modern Society was founded by Nazifa Movsoumova in 2013. And though <a href=\"https:\/\/themodernsociety.com\/\">her store<\/a> is widely regarded as one of the freshest spots in fashion and design, she began her career in law and finance – which definitely isn’t bad for business. Nazifa’s well-curated designer edits and unique vision are what brings Modern Society to life – and what sees visitors heading straight to the store and its café the minute they set foot in Shoreditch. Meet our fellow Flâneur. <\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -33,7 +33,24 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>How would you describe your apartment in one word.<\/strong><br\/>Traditional<\/p><p><strong>What makes a home in one word?<\/strong><br\/>Myself<\/p><p><strong>How would you describe your taste in one word.<\/strong><br\/>Ever-changing<\/p><p><strong>Define bad taste in interiors.<\/strong><br\/>Animal print furniture<\/p><p><strong>Where do you find your inspiration for interior design?<\/strong><br\/>Instagram is incredible for this and so is Maison Flaneur’s weekly newsletter.<\/p><p><strong>Describe your philosophy when it comes to decoration.<\/strong><br\/>I think a lot depends on the space and location in question.<\/p><p><strong>Your favourite object in your home.<\/strong><br\/>My bed. Does that classify as an object…?<\/p><p><strong>Your favourite hotel in the world.<\/strong><br\/>Tiger Mountain Lodge in Pokhara, Nepal. Breathtaking.<\/p><p><strong>Your favourite restaurant in the world.<\/strong><br\/>This is a hard one as there are too many to list… However, top favourite in London over the last year has been 7 Saints.<\/p><p><strong>Favourite address for decoration in London\/ in the world.<\/strong><br\/>I got some amazing furniture for my home and store at Sunbury and Sandown.<\/p>",
+        "text_block": "<p><strong>How would you describe your apartment in one word.<\/strong><br\/>Traditional<\/p><p><strong><br\/>What makes a home in one word?<\/strong><br\/>Myself<\/p><p><strong><br\/>How would you describe your taste in one word.<\/strong><br\/>Ever-changing<\/p><p><strong><br\/>Define bad taste in interiors.<\/strong><br\/>Animal print furniture<\/p><p><strong><br\/>Where do you find your inspiration for interior design?<\/strong><br\/>Instagram is incredible for this and so is Maison Flaneur’s weekly newsletter.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "61287456-896b-41b4-a4b4-2173080abb9d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/ModernSocietyCover_fd9d570c-eeba-4c02-aef3-3e5f0d45113c.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Describe your philosophy when it comes to decoration.<\/strong><br\/>I think a lot depends on the space and location in question.<\/p><p><strong><br\/>Your favourite object in your home.<\/strong><br\/>My bed. Does that classify as an object…?<\/p><p><strong><br\/>Your favourite hotel in the world.<\/strong><br\/>Tiger Mountain Lodge in Pokhara, Nepal. Breathtaking.<\/p><p><strong><br\/>Your favourite restaurant in the world.<\/strong><br\/>This is a hard one as there are too many to list… However, top favourite in London over the last year has been 7 Saints.<\/p><p><strong><br\/>Favourite address for decoration in London\/ in the world.<\/strong><br\/>I got some amazing furniture for my home and store at Sunbury and Sandown.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -46,7 +63,7 @@
         "template--17912537940283__3512a28f-8294-4ade-9b3b-e7307dc54144-167578229562a48109-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ModernSocietyCover.jpg",
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-02-21T133120.141.png",
             "link": "",
             "title": "",
             "description": ""
@@ -113,6 +130,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
+    "61287456-896b-41b4-a4b4-2173080abb9d",
     "3512a28f-8294-4ade-9b3b-e7307dc54144",
     "f1e6b6a3-1c77-40c4-b6fb-fb50a12a3fe3",
     "main",
