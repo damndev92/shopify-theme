@@ -1,12 +1,12 @@
 {
   "current": {
     "font-color": "#3f494c",
-    "link-color": "#e79983",
-    "active-link-color": "#e79983",
+    "link-color": "#656565",
+    "active-link-color": "#3f494c",
     "bg_color": "#ffffff",
     "header-background-color": "#ffffff",
     "header-text-color": "#656565",
-    "header-overlay-text-color": "#ffffff",
+    "header-overlay-text-color": "#e79983",
     "sticky-header-background-color": "#ffffff",
     "sticky-header-text-color": "#3f494c",
     "sidebar-navigation--background-color": "#656565",
