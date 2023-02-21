@@ -90,29 +90,26 @@
             "title": "",
             "description": "<p>Black and White Beaumarly Round Tip Knives, Set of 6<\/p>"
           }
+        },
+        "27698919-3d35-4d8b-b89e-dee436bf33ea": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
         }
       },
       "block_order": [
         "template--18060440666427__a48bd472-7141-496a-ba39-f7a63cd7ada6-167689598164009885-0",
-        "template--18060440666427__a48bd472-7141-496a-ba39-f7a63cd7ada6-167689598164009885-2"
+        "template--18060440666427__a48bd472-7141-496a-ba39-f7a63cd7ada6-167689598164009885-2",
+        "27698919-3d35-4d8b-b89e-dee436bf33ea"
       ],
       "settings": {
         "colors": "white",
         "subheading": "",
         "title": ""
-      }
-    },
-    "7d875765-0176-4899-9636-e400b18fd7e3": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "",
-        "title": "",
-        "text": "<p><a href=\"https:\/\/www.maisonflaneur.com\/condenast-traveller-and-maison-flaneur\/\">Discover the Traveller’s shop. A unique partnership between Maison Flâneur and Conde Nast traveller here. <\/a><\/p>",
-        "button_link": "",
-        "button_label": ""
       }
     },
     "blog-posts": {
@@ -136,7 +133,6 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "a48bd472-7141-496a-ba39-f7a63cd7ada6",
-    "7d875765-0176-4899-9636-e400b18fd7e3",
     "blog-posts"
   ]
 }
