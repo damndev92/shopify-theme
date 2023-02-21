@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/quintessence-paris.jpg",
+        "image": "shopify:\/\/shop_images\/1_1.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,7 +14,7 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "",
         "page_title": "Meet Valentine Pozzo di Borgo, Founder of Quintessence, Paris",
         "title": "",
