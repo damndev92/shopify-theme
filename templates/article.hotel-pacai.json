@@ -138,6 +138,40 @@
         "button_label": "Book now"
       }
     },
+    "9958f23f-7a4e-4b0c-ad84-6d2aad436b07": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18073199083835__9958f23f-7a4e-4b0c-ad84-6d2aad436b07-16769849436ae2dd44-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18073199083835__9958f23f-7a4e-4b0c-ad84-6d2aad436b07-16769849436ae2dd44-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18073199083835__9958f23f-7a4e-4b0c-ad84-6d2aad436b07-16769849436ae2dd44-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18073199083835__9958f23f-7a4e-4b0c-ad84-6d2aad436b07-16769849436ae2dd44-0",
+        "template--18073199083835__9958f23f-7a4e-4b0c-ad84-6d2aad436b07-16769849436ae2dd44-1",
+        "template--18073199083835__9958f23f-7a4e-4b0c-ad84-6d2aad436b07-16769849436ae2dd44-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Hotel Pacai",
+        "title": "Shop the collection",
+        "collection": "hotel-pacai",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -162,6 +196,7 @@
     "18adc2fb-ed70-4bf5-b6b3-ecaa8761493f",
     "d13453fe-4964-403c-9c3c-20ae1c55d37d",
     "baa6a45f-49a5-4724-a701-093b3af86a7b",
+    "9958f23f-7a4e-4b0c-ad84-6d2aad436b07",
     "blog-posts"
   ]
 }
