@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Make Yourself at Home: Review of Vora, Santorini",
+        "width": "large",
+        "subheading": "MAKE YOURSELF AT HOME",
+        "page_title": "Vora, Santorini, Greece",
         "title": "",
         "text": "<p>Perched on the edge of the caldera in Santorini, Vora is a handcrafted boutique hotel of three private villas carved into caves, cliffs and suspended high above the sea.<\/p>",
         "button_link": "",
@@ -31,10 +31,12 @@
         "image": "shopify:\/\/shop_images\/article_photo1-731x1024.jpg",
         "layout": "left",
         "subheading": "",
+        "location": false,
         "title": "",
         "text_block": "<p><strong>What makes Vora Santorini so special?<\/strong><\/p><p>Vora is a handcrafted construction of private villas carved into caves and cliffs, suspended above the sea. Due to its difficulty for building – as construction machinery could not reach the hotel site – everything has been hand-built over a four year period. Inspired by the volcanic environment and boasting minimalistic Cycladic design, custom-made furniture and a soothing palette of beiges and greys that are augmented by dark brown wood, Vora truly is heaven on earth.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -46,10 +48,12 @@
         "image": "shopify:\/\/shop_images\/article_photo2-731x1024.jpg",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "",
         "text_block": "<p><strong>What to expect when staying at Vora Santorini?<\/strong><\/p><p>Expect to wake up to a view overlooking the volcano in a villa that perfectly balances the island’s traditional and contemporary design. In a setting of tranquillity and privacy, you can take a morning or afternoon dip in your villa’s personal plunge pool. Experience the island’s celebrated sunsets before dining under the moonlight of the Aegean sky in the most secluded location – Imerovigli, Santorini.<\/p><p><strong>Maison Flâneur recommends<\/strong><\/p><p>See the alluring black sand beaches of Kamari and Perivolos are just a short drive away. <\/p><p>A brief 5-minute walk takes you to the village of Firostefani, where you will find a great deal of cozy restaurants and dreamy views of the Caldera.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
