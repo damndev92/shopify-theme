@@ -49,48 +49,6 @@
         "button_label": ""
       }
     },
-    "b35862d2-1899-44a6-a9bc-50d1a4da7536": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--18059785666875__b35862d2-1899-44a6-a9bc-50d1a4da7536-1676890172196b52ee-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Flaneur-Semaine-x-Hades-Wool-Pink-Green-Scarf-1-899x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Flâneur Semaine x Hades Wool Pink & Green Scarf<\/p><p>£105<\/p>"
-          }
-        },
-        "template--18059785666875__b35862d2-1899-44a6-a9bc-50d1a4da7536-1676890172196b52ee-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/CDLS_POSTER_5_grande_290d8145-13cd-433f-971f-33139b216af7.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Semaine x Luke Edward Hall signed artist print pink, Edition of 50<\/p><p>£76<\/p>"
-          }
-        },
-        "template--18059785666875__b35862d2-1899-44a6-a9bc-50d1a4da7536-1676890172196b52ee-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Semaine-x-Luke-Edward-Hall-Cafe-de-la-Semaine-signed-artist-green-print-Eiffel-Tower_8f824ccf-52b4-463b-95e9-0e29526f8367.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Semaine x Luke Edward Hall – Café de la Semaine signed artist print, Eiffel Tower<\/p><p>£76<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18059785666875__b35862d2-1899-44a6-a9bc-50d1a4da7536-1676890172196b52ee-0",
-        "template--18059785666875__b35862d2-1899-44a6-a9bc-50d1a4da7536-1676890172196b52ee-1",
-        "template--18059785666875__b35862d2-1899-44a6-a9bc-50d1a4da7536-1676890172196b52ee-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
     "f3c0ddb6-ca2e-4468-8ce6-1a9e0d95919a": {
       "type": "image--image",
       "settings": {
@@ -120,7 +78,6 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "main",
     "1c05f6a0-87ee-4208-95f6-5a517699c579",
-    "b35862d2-1899-44a6-a9bc-50d1a4da7536",
     "f3c0ddb6-ca2e-4468-8ce6-1a9e0d95919a",
     "blog-posts"
   ]
