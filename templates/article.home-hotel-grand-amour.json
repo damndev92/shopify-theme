@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Make Yourself at Home: Review of the Hotel Grand Amour, Paris",
+        "width": "large",
+        "subheading": "MAKE YOURSELF AT HOME",
+        "page_title": "Hotel Grand Amour, Paris",
         "title": "",
         "text": "<p>Situated in the heart of the 10th arrondissement, between the Canal St Martin, the Gare de l’Est and les Grands Boulevards, Le Grand Amour is the perfect place for those who want to get away from the beaten path of St Germain-des-prés.<\/p>",
         "button_link": "",
@@ -41,10 +41,12 @@
         "image": "shopify:\/\/shop_images\/Amour-732x1024.jpg",
         "layout": "right",
         "subheading": "",
-        "title": "",
-        "text_block": "<p><strong>Discover Paris like a Parisian<\/strong><\/p><p><\/p><p>\"We found this beautiful building in the 10th district which was the perfect place to explore our new project” explains Andre Saraiva. Trust the creative team behind the hotel – Emmanuel Delavenne, Thierry Costes, and André Saraiva – to pinpoint the capitals newest hot spots. “The Grand Amour is part of a new generation of hotels, where chic and trendy become available to everybody. No need to sleep in palaces anymore” said Thierry Costes in an interview. <\/p><p>The hotel has 42 rooms, some done by André Saraiva, Olivier Zahm, Olivier Zahm, or an artist from the Galerie Perrotin: Claude Rutault. Some feature libraries curated by the famous fashion writer Glenn O’Brien. The kinky carpets, designed by André cover the corridors; on the walls, one can find a combination of contemporary art and erotic montages, from Pierre Molinier to Man Ray, Brassaï or Guy Bourdin, Keith Harring or Petra Collins. The restaurant revives the spirit of Parisian breweries. There’s also a café, which reminds of the typical French brasserie and a lounge inspired by the Ritz’s Bar Hemingway. <\/p><p><span style=\"text-decoration:underline\">See the Hotel Grand Amour’s full collection here<\/span><\/p>",
+        "location": false,
+        "title": "Discover Paris like a Parisian",
+        "text_block": "<p>\"We found this beautiful building in the 10th district which was the perfect place to explore our new project” explains Andre Saraiva. Trust the creative team behind the hotel – Emmanuel Delavenne, Thierry Costes, and André Saraiva – to pinpoint the capitals newest hot spots. “The Grand Amour is part of a new generation of hotels, where chic and trendy become available to everybody. No need to sleep in palaces anymore” said Thierry Costes in an interview. <\/p><p>The hotel has 42 rooms, some done by André Saraiva, Olivier Zahm, Olivier Zahm, or an artist from the Galerie Perrotin: Claude Rutault. Some feature libraries curated by the famous fashion writer Glenn O’Brien. The kinky carpets, designed by André cover the corridors; on the walls, one can find a combination of contemporary art and erotic montages, from Pierre Molinier to Man Ray, Brassaï or Guy Bourdin, Keith Harring or Petra Collins. The restaurant revives the spirit of Parisian breweries. There’s also a café, which reminds of the typical French brasserie and a lounge inspired by the Ritz’s Bar Hemingway. <\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -113,48 +115,6 @@
         "text-over-image-width": "full-width"
       }
     },
-    "cbc8474a-ea1a-4317-b5df-aa1a32cb6a64": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/HotelGrandAmour-hangar_clairedorn-4-1-1024x731.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
-      }
-    },
-    "96d945c8-b597-44aa-b3f4-cfddae2a40d0": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17822934106427__96d945c8-b597-44aa-b3f4-cfddae2a40d0-1675169348ebed0264-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/l_h__tel_grand_amour____paris_5413.jpeg_north_499x_white.jpg",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17822934106427__96d945c8-b597-44aa-b3f4-cfddae2a40d0-1675169348ebed0264-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/restaurant-HotelGrandAmour-Jean-Picon-1-731x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17822934106427__96d945c8-b597-44aa-b3f4-cfddae2a40d0-1675169348ebed0264-1",
-        "template--17822934106427__96d945c8-b597-44aa-b3f4-cfddae2a40d0-1675169348ebed0264-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -177,8 +137,6 @@
     "5b2b34f3-7445-4c65-9425-07392cfe0f99",
     "main",
     "453aeb34-4e7e-4630-bcad-11ca561141e4",
-    "cbc8474a-ea1a-4317-b5df-aa1a32cb6a64",
-    "96d945c8-b597-44aa-b3f4-cfddae2a40d0",
     "blog-posts"
   ]
 }
