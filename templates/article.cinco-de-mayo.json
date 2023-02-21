@@ -138,6 +138,23 @@
         "button_label": ""
       }
     },
+    "314b506b-5e56-406c-b1dd-5393525eb84a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Win-a-Bundle-37-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "The Palm Womenbaskets:",
+        "text_block": "<p>You can find sophisticated, hand-woven baskets in every state across Mexico. In fact, these woven palm pieces are one of Mexico’s oldest traditional creations. And while we love these traditional baskets, we’re huge fans of The Palm Women and their 21st century takes on a storied craft.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -162,6 +179,7 @@
     "1d29f150-6f40-4f76-9139-95ce5cc8ec8c",
     "4822c106-7887-4949-8b3f-f5fe48943d81",
     "8ebff8ef-8c66-45bd-b705-703c5159a925",
+    "314b506b-5e56-406c-b1dd-5393525eb84a",
     "blog-posts"
   ]
 }
