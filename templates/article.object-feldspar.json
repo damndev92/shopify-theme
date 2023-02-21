@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Object of Desire: Feldspar, Devon, UK",
+        "width": "large",
+        "subheading": "DESIGN HUB",
+        "page_title": "Slow Ceramic studio of Feldspar, Devon, UK",
         "title": "",
         "text": "<p>‘Objects for life, made to last’ – here’s why we can’t get enough of Feldspar’s handmade home and dinnerware collections. <\/p>",
         "button_link": "",
@@ -31,56 +31,47 @@
         "image": "shopify:\/\/shop_images\/Jeremy-Cath-Brown-Portrait_267170312_482122571-683x1024.jpg",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "",
         "text_block": "<p>From humble beginnings as a passion project – starting with a move to Devon and one pottery wheel – to international acclaim, including pieces in House and Garden and World of Interiors: Feldspar’s handmade ceramics and homeware are revolutionising an industry where fast production has become the norm. And it’s unsurprising, given founders Jeremy and Cath’s move to Devon – away from their successful careers in the UN and architecture respectively – was fuelled by a need to slow down. After experimenting at home with shapes, materials and styles (their first piece was a ‘wonky’ coffee mug designed to better fit the hand), and developing a love for hand-shaping practical pieces, Feldspar was born. The pair now run their globally sold brand from their own studio in Devon, where they live with their two children and dog Bernard.<br\/><br\/>They’re on a mission to create objects for life, made to last – fusing traditional techniques with modern life and style. And their craft – which is listed as critically endangered by the Heritage Crafts Association in the UK – has been honed to preserve an English skill while also providing high quality, handmade homeware. Each piece is made using the ‘slip casting’ method, and their bone china collections are minimal in aesthetic yet never perfect and polished – preferring asymmetrical shapes and imperfect silhouettes over identical, cookie cutter bowls and plates. Gold and richly coloured rims are their signature look, which makes for dinnerware and drinkware that’s ideal for elevating your next dinner party or date night at home.<br\/><\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
-      "type": "text--image-with-text",
+    "63f28508-973f-47c1-834d-826daa80067c": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17809450074427__63f28508-973f-47c1-834d-826daa80067c-1676995035b2bcd8f8-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17809450074427__63f28508-973f-47c1-834d-826daa80067c-1676995035b2bcd8f8-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17809450074427__63f28508-973f-47c1-834d-826daa80067c-1676995035b2bcd8f8-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17809450074427__63f28508-973f-47c1-834d-826daa80067c-1676995035b2bcd8f8-0",
+        "template--17809450074427__63f28508-973f-47c1-834d-826daa80067c-1676995035b2bcd8f8-1",
+        "template--17809450074427__63f28508-973f-47c1-834d-826daa80067c-1676995035b2bcd8f8-2"
+      ],
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Cobalt-Cafetiere.jpg",
-        "layout": "left",
-        "subheading": "",
-        "title": "Cobalt Cafetiere Large",
-        "text_block": "<p>£175<\/p><p><\/p><p>\"A Cafetière. Or French press. The French press was invented in 1933 (by an Italian, Calimani) to make it possible for anyone to make a good cup of coffee in their home.  We had wanted to make a ceramic one for a while - to take the idea of the ‘coffee pot’ (a teapot-like vessel used simply to serve previously brewed coffee in) and cross that with the Cafetière - to make a functional coffee pot for the table. Cutting out the coffee maker middleman and making the ritual of coffee for more than four a delight.<\/p><p>Handmade in our workshop in Devon using fine bone china from Cornwall, the cafetière has stainless steel parts made for us by Steve at his mill just down the road on the outskirts of Exeter. The steel we’ve used is medical-grade, because it’s the best you can get. The jug has an elongated spout to ensure a perfect pour, a large hand-painted handle and a dimpled lid with a fine bone china pull on top that’s a wonkily imperfect circle, to add a FUN-ctional element of sketch-like surprise.\" Feldspar potters & founders<\/p>",
-        "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "button_label": "Shop Now"
-      }
-    },
-    "27c13358-ac7a-4e88-8abc-32073672fb4f": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Cobalt-Egg-Cup-with-LID.jpg",
-        "layout": "right",
-        "subheading": "",
-        "title": "Cobalt Egg Cup & Cloche",
-        "text_block": "<p><\/p><p><\/p><p>£100<\/p><p>An Egg Cup with a lid to keep your egg warm at the table while you're buttering your soldiers. Designed with a large saucer surrounding it to host toasted goods. The Feldspar ethos has always been 'objects for life' - handcrafted items you can use daily that will last a lifetime. This is why we use fine bone china - the strongest ceramic - to make objects that are classic and modern at once, not subscribing to trends.<\/p>",
-        "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "button_label": "Shop Now"
-      }
-    },
-    "a4ed944f-c57f-4636-93e7-3acccd5c6baa": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Set-of-4-Cobalt-Ice-Cream-Bowls.jpg",
-        "layout": "left",
-        "subheading": "",
-        "title": "Cobalt Ice Cream Bowls, Set of 4",
-        "text_block": "<p>£120<\/p><p>A set of six hand-painted Cobalt ice cream bowls. They are small bowls, the perfect size for a helping of ice cream, a breakfast of yoghurt and fruit or a selection of radishes fresh from the garden. With a hand-painted deep cobalt blue banding, creating modern elegant place settings. The collection of plates and bowls are designed to sit together or alone. Each is handmade in Stoke-on-Trent with a dimpled, uneven profile to sit happily in the hands. Stackable and dishwasher safe, each is finished with hand painted banding in cobalt blue to contrast with the bright white of the fine bone china.<\/p>",
-        "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "button_label": "Shop Now"
+        "subheading": "COLLECTION",
+        "title": "FELDSPAR",
+        "collection": "feldspar",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -114,9 +105,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
-    "27c13358-ac7a-4e88-8abc-32073672fb4f",
-    "a4ed944f-c57f-4636-93e7-3acccd5c6baa",
+    "63f28508-973f-47c1-834d-826daa80067c",
     "main",
     "blog-posts"
   ]
