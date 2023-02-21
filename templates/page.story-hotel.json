@@ -14,6 +14,11 @@
       "type": "template--page",
       "disabled": true,
       "settings": {
+        "white_label": false,
+        "hide_header": false,
+        "hide_default_content": false,
+        "alignment": "center",
+        "url": ""
       }
     },
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
@@ -145,6 +150,59 @@
     },
     "eb531f23-4a6c-4a89-81ea-844b841eb4af": {
       "type": "image--image-with-text-overlay",
+      "blocks": {
+        "ead9c8c4-effb-47d3-8d96-25af985961d4": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/Attic_NEW_1380x900_d4c57194-7490-4bc0-b8b0-3fe0f6a76957.webp"
+          }
+        },
+        "a8ed8c2a-ca3f-4376-9032-69c9b8c2d700": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/LilyDam.webp"
+          }
+        },
+        "dd2fdba1-2ecf-410a-b8a6-73d869f8fc92": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/Chambre.webp"
+          }
+        },
+        "8eaea0e5-badf-467c-9944-20586dd9a757": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/Bluetooth.webp"
+          }
+        },
+        "39419109-43ff-4df7-a94f-c719da169d28": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/Large-Balcony_New_08.webp"
+          }
+        },
+        "20db319f-386c-417a-94d9-b08561be1e7b": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/JLK_NEW_1380x900_52f02913-ada4-4276-9663-277a0d0b9384.webp"
+          }
+        },
+        "53e567be-2024-436c-92ab-7b06a17b1137": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/Nybroviken.webp"
+          }
+        }
+      },
+      "block_order": [
+        "ead9c8c4-effb-47d3-8d96-25af985961d4",
+        "a8ed8c2a-ca3f-4376-9032-69c9b8c2d700",
+        "dd2fdba1-2ecf-410a-b8a6-73d869f8fc92",
+        "8eaea0e5-badf-467c-9944-20586dd9a757",
+        "39419109-43ff-4df7-a94f-c719da169d28",
+        "20db319f-386c-417a-94d9-b08561be1e7b",
+        "53e567be-2024-436c-92ab-7b06a17b1137"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Story_2.png",
         "subheading": "",
