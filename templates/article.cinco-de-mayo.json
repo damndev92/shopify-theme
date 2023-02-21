@@ -104,6 +104,23 @@
         "button_label": ""
       }
     },
+    "4822c106-7887-4949-8b3f-f5fe48943d81": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Win-a-Bundle-35-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Joel Escalona’s balancebowls:",
+        "text_block": "<p>Playful, captivating, covetable. Joel Escalona’s signature sculptural bowls are a beautiful example of top Mexican craftsmanship. Though they can be tough to lay your hands on, they are worth the wait. You’ll keep them forever.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -126,6 +143,7 @@
     "main",
     "e313268a-6e29-4de4-bf6c-9fc377c1eedd",
     "1d29f150-6f40-4f76-9139-95ce5cc8ec8c",
+    "4822c106-7887-4949-8b3f-f5fe48943d81",
     "blog-posts"
   ]
 }
