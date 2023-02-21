@@ -87,6 +87,23 @@
         "button_label": ""
       }
     },
+    "e17944b9-3a17-47df-a09a-9a900eea390d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/38-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Red Enamel Shoe Keyring, Jean André x Le Pigalle<\/strong><\/p><p>All the coolest Parisians love Jean André, the infamous illustrator with a passion for all things feminine and vintage. His posters hang in many indie-cool living rooms in Pigalle. And now you can take a piece of his art wherever you go, thanks to this enamel keyring in the shape of chic red high heels.<\/p><p>This piece is part of a collaboration between the artist and Le Pigalle.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -108,6 +125,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "53d7bb0e-b784-42a0-8e5f-29e929f07111",
+    "e17944b9-3a17-47df-a09a-9a900eea390d",
     "blog-posts"
   ]
 }
