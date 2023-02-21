@@ -94,16 +94,16 @@
             "image": "shopify:\/\/shop_images\/Copy-of-Black-Malawi-Loveseat-2.jpg",
             "link": "",
             "title": "",
-            "description": "<p>Black Bamboo and Rattan Loveseat<\/p><p>From £410<\/p>"
+            "description": "<p>Black Bamboo and Rattan Loveseat<\/p>"
           }
         },
         "template--17912024367419__a5297c03-ccac-45bf-a5a4-d2b89a7e78de-1675779576f426f684-1": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/GC-021-PEGGY-UP-DOWN-TWIN-WALL-LAMP-BLACK-1.jpg",
-            "link": "",
+            "link": "shopify:\/\/products\/beige-peggy-twin-wall-lamp-small",
             "title": "",
-            "description": "<p>Peggy Black Twin Up & Down Wall Lamp<\/p><p>From £589<\/p>"
+            "description": "<p>Peggy Black Twin Up & Down Wall Lamp<\/p>"
           }
         }
       },
