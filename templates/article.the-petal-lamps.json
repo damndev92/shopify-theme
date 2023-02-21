@@ -231,8 +231,8 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "COLLECTION",
-        "title": "",
+        "subheading": "SHOP",
+        "title": "THE COLLECTION",
         "collection": "georges",
         "grid": 4,
         "rows": 1,
