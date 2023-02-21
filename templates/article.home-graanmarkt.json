@@ -14,11 +14,11 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "Make Yourself at Home",
         "page_title": "Graanmarkt 13, Antwerp",
         "title": "",
-        "text": "<p><br\/>Graanmarkt 13 is the definition of an aesthet dream: an intriguing house in Antwerp, where every floor tells a story. It’s the brainchild of founders Ilse Cornelissens and Tim Van Geloven, and combines a concept store, restaurant, boutique, gallery and rental flat – everything you’d expect from this uber-cool Belgian city. But it’s an escape from the city too, designed with warm light and a calming character. A place to retreat from the city’s bustling streets, where every piece and design detail inside is lovingly chosen by Ilse and Tim themselves.<\/p>",
+        "text": "<p><br\/>Graanmarkt 13 is the definition of an aesthet dream: a unique house in Antwerp, where every floor tells a story. It’s the brainchild of founders Ilse Cornelissens and Tim Van Geloven, and combines a concept store, restaurant, boutique, gallery and rental flat – everything you’d expect from this uber-cool Belgian city. But it’s an escape from the city too, designed with warm light and a calming character. A place to retreat from the city’s bustling streets, where every piece and design detail inside is lovingly chosen by Ilse and Tim themselves.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -70,10 +70,10 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "",
         "page_title": "",
-        "title": "About Graanmarkt",
+        "title": "About Graanmarkt 13",
         "text": "<p>Since they first opened their townhouse-of-wonders in 2010, the couple has been at the forefront of architecture (employing one of Belgium’s most respected architect Vincent Van Duysen), design, fashion, and food. In the shop, you can find beautiful fashion pieces, rare beauty products, or design objects duly sourced by the couple: from Belgian designer Michaël Verheyden to the young Danish brand Frama. In the kitchen, award-winning chef Seppe Nobels celebrates vegetables in all their shapes and forms. The roof garden is providing herbs and honey for the restaurant while the upstairs apartment is a real haven of peace imagined by Van Duysen.<\/p>",
         "button_link": "https:\/\/www.graanmarkt13.com\/",
         "button_label": "Discover more"
