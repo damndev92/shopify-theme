@@ -121,6 +121,23 @@
         "button_label": ""
       }
     },
+    "8ebff8ef-8c66-45bd-b705-703c5159a925": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Win-a-Bundle-36-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Casa Viviana candles:",
+        "text_block": "<p>We certainly love our sweet hand-painted candles, but they’re naught but a memory after a few hours’ burning. When we’re looking for longevity in our candles (there’s no burning here), we opt for the delicate, intricate candles handmade by Doña Viviana Alávez and her family.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -144,6 +161,7 @@
     "e313268a-6e29-4de4-bf6c-9fc377c1eedd",
     "1d29f150-6f40-4f76-9139-95ce5cc8ec8c",
     "4822c106-7887-4949-8b3f-f5fe48943d81",
+    "8ebff8ef-8c66-45bd-b705-703c5159a925",
     "blog-posts"
   ]
 }
