@@ -1,8 +1,8 @@
 {
   "current": {
     "font-color": "#3f494c",
-    "link-color": "#656565",
-    "active-link-color": "#e3e3e3",
+    "link-color": "#e79983",
+    "active-link-color": "#e79983",
     "bg_color": "#ffffff",
     "header-background-color": "#ffffff",
     "header-text-color": "#656565",
