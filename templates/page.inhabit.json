@@ -63,24 +63,28 @@
         "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-0": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/15_b1c0e7ca-284a-4d8b-af0c-bbd232add315.png",
             "link": ""
           }
         },
         "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-1": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/16_3f26263f-781f-4103-b434-7d2102f9610d.png",
             "link": ""
           }
         },
         "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-2": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/17_165487b3-02da-4d53-86ff-89bb09ac784f.png",
             "link": ""
           }
         },
         "template--17824564838715__ff10149a-4098-48c6-9420-2d9abafa1210-1676291575c0dd75a6-3": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/18_f3c70fb2-1245-43df-99b3-c0a17e6e8549.png",
             "link": ""
           }
         }
@@ -93,9 +97,9 @@
       ],
       "settings": {
         "colors": "white",
-        "width": 150,
-        "subheading": "Did you know?",
-        "title": "Facts"
+        "width": 220,
+        "subheading": "",
+        "title": ""
       }
     },
     "33e39774-3069-4ab2-a382-8776410b10b3": {
