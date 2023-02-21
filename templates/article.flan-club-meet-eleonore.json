@@ -33,7 +33,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Define bad taste in interiors?<\/strong><\/p><p>I don’t judge interiors because someone has chosen it for a reason<\/p><p><strong>Can you tell us more about your new career as a chef? <\/strong><\/p><p>I moved to Los Angeles in September and with all these big changes happening in my life I thought might as well change careers and give it a shot at cooking. I’ve always loved hosting dinners for friends so it came naturally to start cooking professionally.<\/p><p>I started by cooking for some friend’s private events and the word kind of spread out from there. This year has been pretty great for me, I’m doing my dream job in my favorite city. I feel very lucky!<\/p>",
+        "text_block": "<p><strong>Define bad taste in interiors?<\/strong><\/p><p>I don’t judge interiors because someone has chosen it for a reason<br\/><br\/><\/p><p><strong>Can you tell us more about your new career as a chef? <\/strong><\/p><p>I moved to Los Angeles in September and with all these big changes happening in my life I thought might as well change careers and give it a shot at cooking. I’ve always loved hosting dinners for friends so it came naturally to start cooking professionally.<\/p><p>I started by cooking for some friend’s private events and the word kind of spread out from there. This year has been pretty great for me, I’m doing my dream job in my favorite city. I feel very lucky!<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -50,7 +50,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Describe your philosophy when it comes to food?<\/strong><\/p><p>I’m a fan of keeping it simple. I don’t go crazy transforming ingredients, when you have a beautiful and simple ingredient I believe you should respect it and beautify it.<\/p><p>I believe it’s important to source your ingredients locally, to support the people who make them and also, they also they just taste better!<\/p><p><strong>Do you remember your happiest\/best meal? <\/strong><\/p><p>When my family and I cooked our first dinner in our new house in Tuscany. It was very special preparing this meal all together.<\/p>",
+        "text_block": "<p><strong>Describe your philosophy when it comes to food?<\/strong><\/p><p>I’m a fan of keeping it simple. I don’t go crazy transforming ingredients, when you have a beautiful and simple ingredient I believe you should respect it and beautify it.<\/p><p>I believe it’s important to source your ingredients locally, to support the people who make them and also, they also they just taste better!<\/p><p><br\/><\/p><p><strong>Do you remember your happiest\/best meal? <\/strong><\/p><p>When my family and I cooked our first dinner in our new house in Tuscany. It was very special preparing this meal all together.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -67,7 +67,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>What’s the recipe for a perfect dinner?<\/strong><\/p><p>Good food and good people 🙂<\/p><p><strong>What’s the key to setting the perfect dinner table? <\/strong><\/p><p>I love dressing a table with the simplest things: old linen table cloth, vintage dinnerware, candles and flowers. The food served on the table. I like to make it feel like you are on a summer holiday somewhere near the Mediterranean Sea.<\/p>",
+        "text_block": "<p><strong>What’s the recipe for a perfect dinner?<\/strong><\/p><p>Good food and good people 🙂<br\/><br\/><\/p><p><strong>What’s the key to setting the perfect dinner table? <\/strong><\/p><p>I love dressing a table with the simplest things: old linen table cloth, vintage dinnerware, candles and flowers. The food served on the table. I like to make it feel like you are on a summer holiday somewhere near the Mediterranean Sea.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -84,7 +84,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Your favourite hotel in the world?<\/strong><\/p><p>Le Sirenuse in Positano<\/p><p><strong>Your favourite restaurant in the world?<\/strong><\/p><p>Osteria Del Vicolo in Lerici, Liguria<\/p>",
+        "text_block": "<p><strong>Your favourite hotel in the world?<\/strong><\/p><p>Le Sirenuse in Positano<\/p><p><br\/><\/p><p><strong>Your favourite restaurant in the world?<\/strong><\/p><p>Osteria Del Vicolo in Lerici, Liguria<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -101,7 +101,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Favourite chef? <\/strong><\/p><p>Thomas Keller<\/p><p><strong>Favourite address for decoration in LA\/Paris\/ in the world?<\/strong><\/p><p>Any flea market<\/p>",
+        "text_block": "<p><strong>Favourite chef? <\/strong><\/p><p>Thomas Keller<\/p><p><br\/><\/p><p><strong>Favourite address for decoration in LA\/Paris\/ in the world?<\/strong><\/p><p>Any flea market<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -130,7 +130,7 @@
             "image": "shopify:\/\/shop_images\/platera-bundles-2-1024x1024.png",
             "link": "",
             "title": "",
-            "description": "<p>Handpainted Fish Plate Bundle 1, Set of 4<\/p><p>€140<\/p>"
+            "description": "<p>Handpainted Fish Plate Bundle, Set of 4<\/p>"
           }
         },
         "template--17910137225531__6c22f18d-b43c-46b1-84fd-c66629835210-167576536505c530eb-1": {
@@ -139,7 +139,7 @@
             "image": "shopify:\/\/shop_images\/SHASHIKO-NAPKIN-blu-1024x927.jpg",
             "link": "",
             "title": "",
-            "description": "<p>Shashiko Napkin Navy Blue<\/p><p>€62<\/p>"
+            "description": "<p>Shashiko Napkin Navy Blue<\/p>"
           }
         },
         "template--17910137225531__6c22f18d-b43c-46b1-84fd-c66629835210-167576536505c530eb-2": {
@@ -148,7 +148,7 @@
             "image": "shopify:\/\/shop_images\/Untitled-design-55-1024x882.png",
             "link": "",
             "title": "",
-            "description": "<p>Blue Scarab Placemat<\/p><p>€25<\/p>"
+            "description": "<p>Blue Scarab Placemat<\/p>"
           }
         }
       },
