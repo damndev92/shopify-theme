@@ -266,7 +266,8 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T182042.199-1024x1024.png",
         "layout": "left",
         "subheading": "",
         "location": false,
@@ -274,6 +275,23 @@
         "text_block": "<p>58 Brewer Street, W1F 9TL<br\/><strong>Head chef:<\/strong> Ben Chapman<br\/><strong>Order the:<\/strong> Glass noodles with Tamworth belly and brown crab<\/p><p>An intimate setting perfect for a solo evening, Kiln offers seating around a long counter running around the open kitchen. Alongside the theatrics of watching the chefs at work, the Soho spot is lauded for its ever-changing menu of Thai and Burmese dishes cooked in clay pots on a charcoal range that are far too good to share.<\/p>",
         "page_description": false,
         "button_link": "https:\/\/kilnsoho.com\/",
+        "hotel_page_url": false,
+        "button_label": "Book Now"
+      }
+    },
+    "a18372f8-3f26-44c4-8d12-9694043170a2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T182337.349-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "13. Kudu",
+        "text_block": "<p>119 Queen’s Road, ​SE15 2EZ<br\/><strong>Head chef:<\/strong> Patrick Williams<br\/><strong>Order the:<\/strong> Kudu bread<\/p><p>With its dimly lit interiors and plush velvet furnishing, this cosy neighbourhood bolthole is the ideal place to spend a solitary evening. The menu boasts an ever-changing array of South African-inspired small plates, which you can see being made if you nab a seat opposite the bar. Once you’re satiated, hop across the road to Smokey Kudu for a nightcap (or two).<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.kuducollective.com\/",
         "hotel_page_url": false,
         "button_label": "Book Now"
       }
@@ -311,6 +329,7 @@
     "4db223bc-8729-4b63-a9af-c3c4a54e996b",
     "31dac674-f6ed-471e-a3da-c0c64c42a388",
     "580d33ab-3eac-4a9b-9e2d-934a28687c9c",
+    "a18372f8-3f26-44c4-8d12-9694043170a2",
     "blog-posts"
   ]
 }
