@@ -209,13 +209,20 @@
               "menu_title": "Join our Mailing List",
               "footer_newsletter_description": ""
             }
+          },
+          "9594d09b-b1e0-49d1-ae08-692b5538db3c": {
+            "type": "social",
+            "settings": {
+              "menu_title": "Get connected"
+            }
           }
         },
         "block_order": [
           "d652c15f-411e-4498-a4aa-651c4fcbab73",
           "a926702d-a713-4e33-b2ec-9649bc1b855e",
           "c6b69709-8402-4e86-9ddf-f67ff3a4b2d5",
-          "95391973-fb1c-46d7-b409-5802681c0651"
+          "95391973-fb1c-46d7-b409-5802681c0651",
+          "9594d09b-b1e0-49d1-ae08-692b5538db3c"
         ],
         "settings": {
           "show_methods_of_payment": true,
