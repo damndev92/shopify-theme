@@ -172,33 +172,20 @@
         "title": ""
       }
     },
-    "241bb830-0035-435c-8280-deda221b7495": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "accent",
-        "width": "medium",
-        "subheading": "NEW BRAND",
-        "page_title": "",
-        "title": "Jore Copenhagen",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "ab24a27b-0737-410b-b2cb-3f65e5c9d489": {
       "type": "video--video-with-text-overlay",
       "settings": {
         "url": "https:\/\/youtu.be\/HD_8Ibc8tkQ",
         "desktopHeight": "550",
         "mobileHeight": "fullscreen",
-        "subheading": "",
-        "title": "",
+        "subheading": "NEW BRAND",
+        "title": "JORE COPENHAGEN",
         "text": "",
         "textAlignment": "center",
-        "textColor": "#000000",
-        "textShadow": false,
-        "subheading--text-size": 14,
-        "heading--text-size": 50,
+        "textColor": "#ffffff",
+        "textShadow": true,
+        "subheading--text-size": 20,
+        "heading--text-size": 60,
         "button_link": "",
         "button_label": ""
       }
@@ -573,7 +560,6 @@
     "image_slideshow",
     "f21aec68-c4b1-48a7-8d5a-d35447a882c5",
     "96b97083-6b8b-479e-a943-5eb7568e145a",
-    "241bb830-0035-435c-8280-deda221b7495",
     "ab24a27b-0737-410b-b2cb-3f65e5c9d489",
     "featured_collection",
     "shop_the_look",
