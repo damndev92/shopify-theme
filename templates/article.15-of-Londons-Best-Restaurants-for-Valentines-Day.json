@@ -250,7 +250,7 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T175016.436-1024x1024.png",
+        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T181330.339-1024x1024_c81062ba-39bc-4f15-b139-bc2d16629fe0.png",
         "layout": "right",
         "subheading": "",
         "location": false,
@@ -260,6 +260,22 @@
         "button_link": "https:\/\/baolondon.com\/",
         "hotel_page_url": false,
         "button_label": "Book Now"
+      }
+    },
+    "580d33ab-3eac-4a9b-9e2d-934a28687c9c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Share brand or product details",
+        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
       }
     },
     "blog-posts": {
@@ -294,6 +310,7 @@
     "adf9ecaf-2caf-4459-8590-64262ad5dec4",
     "4db223bc-8729-4b63-a9af-c3c4a54e996b",
     "31dac674-f6ed-471e-a3da-c0c64c42a388",
+    "580d33ab-3eac-4a9b-9e2d-934a28687c9c",
     "blog-posts"
   ]
 }
