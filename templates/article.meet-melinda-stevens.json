@@ -15,8 +15,8 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
-        "page_title": "Flân Club: Meet Melinda Stevens, Editor-in-Chief of Conde Nast Traveller",
+        "subheading": "The Flâneurs",
+        "page_title": "Meet Melinda Stevens, Editor-in-Chief of Conde Nast Traveller",
         "title": "",
         "text": "<p>To say Melinda Stevens is well-travelled would be an understatement. As global editor in chief of Condé Nast Traveler, it’s fair to say she’s a travel expert – having won awards for her role as editor and columnist. Before taking up the position she worked at esteemed publications like The Sunday Times and Tatler. And when she isn’t at her desk with a pen in her hand, she counts night-diving and Vespa riding as some of her favourite things to do. We sat down with Melinda to talk all things travel.<\/p>",
         "button_link": "",
@@ -79,7 +79,7 @@
             "image": "shopify:\/\/shop_images\/MF_DO_AmourGlasses_Silo-1_4e3b5547-aad8-4c67-95c0-5aa6e8954847.jpg",
             "link": "",
             "title": "",
-            "description": "<p>Verres Amour, Set of 4<\/p><p>€56<\/p>"
+            "description": "<p>Verres Amour, Set of 4<\/p>"
           }
         },
         "template--18060440666427__a48bd472-7141-496a-ba39-f7a63cd7ada6-167689598164009885-2": {
@@ -88,7 +88,7 @@
             "image": "shopify:\/\/shop_images\/Box-Marly-knives1.png",
             "link": "",
             "title": "",
-            "description": "<p>Black and White Beaumarly Round Tip Knives, Set of 6<\/p><p>From €304<\/p>"
+            "description": "<p>Black and White Beaumarly Round Tip Knives, Set of 6<\/p>"
           }
         }
       },
