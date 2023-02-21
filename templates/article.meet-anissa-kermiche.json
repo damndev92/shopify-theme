@@ -3,8 +3,8 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Explore-1-1024x580.png",
-        "parallax": true,
+        "image": "shopify:\/\/shop_images\/LOVE-HANDLES-SOCIAL.jpg",
+        "parallax": false,
         "alignment": "center",
         "hero_size": "medium",
         "text-over-image-width": "full-width"
@@ -14,11 +14,11 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
         "page_title": "Meet Anissa Kermiche, Designer, London",
         "title": "",
-        "text": "<p>Ambitious London-based jewellery and ceramics designer <a href=\"https:\/\/www.maisonflaneur.com\/brand\/anissa-kermiche\/\">Anissa Kermiche <\/a>knows a thing or two about decorating – both bodies and homes. Her pretty pieces have been featured in Harper’s Bazaar and Forbes, but next on her press list? Maison Flâneur – to talk bad taste, French interior design TV shows, and how to find the best antiques.<\/p>",
+        "text": "<p>Ambitious London-based jewellery and ceramics designer Anissa Kermiche knows a thing or two about decorating – both bodies and homes. Her pretty pieces have been featured in Harper’s Bazaar and Forbes, but next on her press list? Maison Flâneur – to talk bad taste, French interior design TV shows, and how to find the best antiques.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -33,7 +33,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>How would you describe your apartment in one word.<\/strong><\/p><p>Eclectic<\/p><p><strong>What makes a home in one word?<\/strong><\/p><p>Warmth<\/p><p><strong>How would you describe your taste in one word.<\/strong><\/p><p>Peculiar <\/p><p><strong>Define bad taste in interiors.<\/strong><\/p><p>Bad taste is a difficult area to navigate because it is so dependent on people’s personal tastes. Your home is the only place in the world that you can truly be yourself and it should honour you and your personality. People will always have opinions and there is no point in mocking or lecturing about what constitutes as good or bad taste. I can share what I would personally find aesthetically displeasing, for example a wrong colour choice or an uncomfortable pattern combination, cheesy art, over the top furniture and ornaments, the list could go on forever! You can overload a room with too many stunning items which will constitute as ”bad taste”. Good taste to me is about finding a balanced medium within your home decor, being sure not to overload and not to be too minimalistic, investing in timeless pieces that will never go out of fashion. But again, it all is in the eye of the beholder!<\/p>",
+        "text_block": "<p><strong>How would you describe your apartment in one word.<\/strong><\/p><p>Eclectic.<\/p><p><strong>What makes a home in one word?<\/strong><\/p><p>Warmth.<\/p><p><strong>How would you describe your taste in one word?<\/strong><\/p><p>Peculiar. <\/p><p><strong>Define bad taste in interiors.<\/strong><\/p><p>Bad taste is a difficult area to navigate because it is so dependent on people’s personal tastes. Your home is the only place in the world that you can truly be yourself and it should honour you and your personality. People will always have opinions and there is no point in mocking or lecturing about what constitutes as good or bad taste. I can share what I would personally find aesthetically displeasing, for example a wrong colour choice or an uncomfortable pattern combination, cheesy art, over the top furniture and ornaments, the list could go on forever! You can overload a room with too many stunning items which will constitute as ”bad taste”. Good taste to me is about finding a balanced medium within your home decor, being sure not to overload and not to be too minimalistic, investing in timeless pieces that will never go out of fashion. But again, it all is in the eye of the beholder!<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -44,7 +44,7 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "",
         "page_title": "",
         "title": "",
@@ -80,7 +80,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Your favourite restaurant in the world.<\/strong><\/p><p>It is a restaurant that offers a genuine fine dining experience but in a wonderfully friendly place, it’s called <a href=\"https:\/\/enotecapinchiorri.it\/?lang=en\">Enoteca Pinchiorri in Florence<\/a>. What I love is that it is not the least bit stuffy despite it being a 3 Michelin star restaurant, how remarkable. I went two nights in a row when I was visiting Florence and it just blew me away! It was started by a lovely couple, a French sommelier and an Italian chef, who managed to give life to the most authentic and delicious food I’ve ever had in my life. Drawing a parallel between food and interior design, I would say that a successful and tasty recipe is about strict simplicity with just the right amount of audacity, nothing more nothing less. Every meal reminds you of something you had before but an improved version. You end up wanting more of everything. Absolutely fantastic in every way. Staff, food, service and atmosphere<\/p>",
+        "text_block": "<p><strong>Your favourite restaurant in the world.<\/strong><\/p><p>It is a restaurant that offers a genuine fine dining experience but in a wonderfully friendly place, it’s called <a href=\"https:\/\/enotecapinchiorri.it\/?lang=en\">Enoteca Pinchiorri in Florence<\/a>. What I love is that it is not the least bit stuffy despite it being a 3 Michelin star restaurant, how remarkable. I went two nights in a row when I was visiting Florence and it just blew me away! It was started by a lovely couple, a French sommelier and an Italian chef, who managed to give life to the most authentic and delicious food I’ve ever had in my life. Drawing a parallel between food and interior design, I would say that a successful and tasty recipe is about strict simplicity with just the right amount of audacity, nothing more nothing less. Every meal reminds you of something you had before but an improved version. You end up wanting more of everything. Absolutely fantastic in every way. Staff, food, service and atmosphere.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -97,28 +97,45 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Favourite address for decoration in London\/ in the world.<\/strong><\/p><p>Kempton market in Middlesex<\/p><p>Mint, shop in Brompton that sells the most exquisite contemporary furniture<\/p><p>Les puces de Saint Ouen in France, more pricey. <\/p><p>Online : Pamono, a lovely french website.<\/p>",
+        "text_block": "<p><strong>Favourite address for decoration in London\/ in the world.<\/strong><\/p><p>Kempton market in Middlesex.<\/p><p>Mint, shop in Brompton that sells the most exquisite contemporary furniture.<\/p><p>Les puces de Saint Ouen in France, more pricey. <\/p><p>Online : Pamono, a lovely french website.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
         "button_label": ""
       }
     },
-    "4520302f-5a9e-4d32-b429-d9aea7edd489": {
-      "type": "text--image-with-text",
+    "46ea9cfe-aad0-4c32-af3c-5fce3e8a0058": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17934164033851__46ea9cfe-aad0-4c32-af3c-5fce3e8a0058-1676985658b9ad470c-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17934164033851__46ea9cfe-aad0-4c32-af3c-5fce3e8a0058-1676985658b9ad470c-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17934164033851__46ea9cfe-aad0-4c32-af3c-5fce3e8a0058-1676985658b9ad470c-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17934164033851__46ea9cfe-aad0-4c32-af3c-5fce3e8a0058-1676985658b9ad470c-0",
+        "template--17934164033851__46ea9cfe-aad0-4c32-af3c-5fce3e8a0058-1676985658b9ad470c-1",
+        "template--17934164033851__46ea9cfe-aad0-4c32-af3c-5fce3e8a0058-1676985658b9ad470c-2"
+      ],
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/The-Popotin-Glass-_-Bundle-1024x1024.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "",
-        "text_block": "<p>Can’t pick a colour? This prismatic set of Anissa Kermiche x Maison Flaneur handblown glasses gives you one of each: rose, ochre, cerulean and classic clear.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
+        "subheading": "EXCLUSIVE COLLECTION",
+        "title": "ANISSA KERMICHE X MAISON FLÂNEUR",
+        "collection": "anissa-kermiche",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -156,7 +173,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "06c9eb8b-d2dc-4610-bd5b-6bff5c855e27",
     "9069903d-7f31-4ed9-b20c-3c4151ed0f11",
-    "4520302f-5a9e-4d32-b429-d9aea7edd489",
+    "46ea9cfe-aad0-4c32-af3c-5fce3e8a0058",
     "main",
     "blog-posts"
   ]
