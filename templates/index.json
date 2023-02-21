@@ -223,11 +223,11 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Trending now",
-        "title": "Get to know our latest arrival",
+        "subheading": "don't miss",
+        "title": "TRENDING NOW",
         "collection": "project-213a",
         "grid": 4,
-        "rows": 1,
+        "rows": 2,
         "show_view_all": false
       }
     },
