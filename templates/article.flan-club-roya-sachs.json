@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Flân’ Club: Roya Sachs, New-York, USA",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet Roya Sachs, Curator, New-York",
         "title": "",
         "text": "<p>Roya Sachs is an independent curator and artistic director living in America. She grew up in London before taking New York City by storm with her immersive art performances, experiential exhibitions, and her original creative productions. Her apartment in Manhattan’s Alphabet City is much like her own character: unique, bright and soulful. We ask her ten questions about interiors; Advice from one Flâneur to another.<\/p>",
         "button_link": "",
@@ -33,7 +33,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>How would you describe your apartment in one word?<\/strong><br\/>Objects objects objects<\/p><p><strong>What makes a home in one word?<\/strong><br\/>Art-books!<\/p><p><strong>How would you describe your taste in one word?<\/strong><br\/>Conceptual<\/p><p><strong>Define bad taste in interiors?<\/strong><br\/>Impersonal extravagance<\/p><p><strong>Where do you find your inspiration for interior design?<\/strong><br\/>Bauhaus school<\/p><p><strong>Describe your philosophy when it comes to decoration?<\/strong><br\/>“What you want to express is a much bigger thing than how you may go at it.” Donald Judd<\/p><p><strong>Your favourite object in your home?<\/strong><br\/>A small Oskar Schlemmer watercolour from 1935<\/p><p><strong>Your favourite hotel in the world?<\/strong><br\/><a href=\"https:\/\/www.aman.com\/resorts\/amankora\/lodges\/thimphu\">Amankora in Thimpu, Bhutan<\/a><\/p><p><strong>Your favourite restaurant in the world?<\/strong><br\/>Tatemichiya in Tokyo – an underground Izakaya spot with Yoshimoto Nara graffiti on the walls<\/p><p><strong>Favourite address for decoration in London\/ in the world<\/strong>?<br\/>Conran shop in London and my father’s studio !<\/p>",
+        "text_block": "<p><strong>How would you describe your apartment in one word?<\/strong><br\/>Objects objects objects.<\/p><p><strong>What makes a home in one word?<\/strong><br\/>Art-books!<\/p><p><strong>How would you describe your taste in one word?<\/strong><br\/>Conceptual.<\/p><p><strong>Define bad taste in interiors?<\/strong><br\/>Impersonal extravagance.<\/p><p><strong>Where do you find your inspiration for interior design?<\/strong><br\/>Bauhaus school.<\/p><p><strong>Describe your philosophy when it comes to decoration?<\/strong><br\/>“What you want to express is a much bigger thing than how you may go at it.” Donald Judd<\/p><p><strong>Your favourite object in your home?<\/strong><br\/>A small Oskar Schlemmer watercolour from 1935.<\/p><p><strong>Your favourite hotel in the world?<\/strong><br\/><a href=\"https:\/\/www.aman.com\/resorts\/amankora\/lodges\/thimphu\">Amankora in Thimpu, Bhutan.<\/a><\/p><p><strong>Your favourite restaurant in the world?<\/strong><br\/>Tatemichiya in Tokyo – an underground Izakaya spot with Yoshimoto Nara graffiti on the walls.<\/p><p><strong>Favourite address for decoration in London\/ in the world<\/strong>?<br\/>Conran shop in London and my father’s studio!<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -51,18 +51,6 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
-      }
-    },
-    "1e130f9d-4191-4d50-b24b-730902073615": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "title": "Roya’s selection:",
-        "text": "<p><a href=\"https:\/\/www.maisonflaneur.com\/shop\/\"><strong>Discover Maison Flaneur’s full collection here. <\/strong><\/a><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/flan-club-alexandra-van-houtte\/\"><strong>Read more Flân’ Club interviews here. <\/strong><\/a><\/p>",
-        "button_link": "",
-        "button_label": ""
       }
     },
     "blog-posts": {
@@ -84,7 +72,6 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "main",
-    "1e130f9d-4191-4d50-b24b-730902073615",
     "blog-posts"
   ]
 }
