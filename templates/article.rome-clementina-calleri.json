@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/183681160_4492198437474918_2113657407775032214_n-1024x890.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-02-21_at_20.01.41.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,8 +14,8 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
+        "width": "large",
+        "subheading": "TRAVEL GUIDES",
         "page_title": "Rome by Clementina Calleri, from The Palmist",
         "title": "",
         "text": "<p>Discover the ultimate insider guide to Rome. Let Clementina Calleri from The Palmist take you on a tour of her favourite spots in the city.<\/p>",
@@ -31,10 +31,12 @@
         "image": "shopify:\/\/shop_images\/bbb-1024x1024.png",
         "layout": "left",
         "subheading": "",
+        "location": false,
         "title": "1. Morning Coffee at:",
         "text_block": "<p><a href=\"https:\/\/fornomonteforte.com\/\">Forno Monteforte<\/a><\/p><p>Via del Pellegrino 129, Rome, Italy<\/p><p><\/p><p><\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -46,10 +48,12 @@
         "image": "shopify:\/\/shop_images\/bbb-3-1024x1024.png",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "2. Lunch break at:",
         "text_block": "<p><a href=\"https:\/\/www.pianostrada.it\/\">Pianostrada<\/a><\/p><p>Via delle Zoccolette 22, Rome, Italy<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -61,10 +65,12 @@
         "image": "shopify:\/\/shop_images\/centa-lisbona-1024x1024.png",
         "layout": "left",
         "subheading": "",
+        "location": false,
         "title": "3. Sunset drink at:",
         "text_block": "<p><a href=\"http:\/\/gatsby.cafe\/\">Gatsby Café<\/a><\/p><p>Piazza Vittorio Emanuele II 106, Rome, Italy<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -76,10 +82,12 @@
         "image": "shopify:\/\/shop_images\/Dear-Breakfast-1024x1024.png",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "4. Date night at:",
         "text_block": "<p><a href=\"https:\/\/www.instagram.com\/cantinaripagrande\/\" title=\"https:\/\/www.instagram.com\/cantinaripagrande\/\">Cantina <\/a><a href=\"https:\/\/www.instagram.com\/cantinaripagrande\/\">Ripagrande<\/a><\/p><p>Via di S. Francesco a Ripa 73, Rome, Italy<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -91,10 +99,12 @@
         "image": "shopify:\/\/shop_images\/Prado-1024x1024.png",
         "layout": "left",
         "subheading": "",
+        "location": false,
         "title": "5. With Friends at:",
         "text_block": "<p><a href=\"https:\/\/m.facebook.com\/aimarmi\/\">Pizzeria ai Marmi<\/a><\/p><p>Viale Trastevere 53, Rome, Italy<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -106,10 +116,12 @@
         "image": "shopify:\/\/shop_images\/Prado-2-1024x1024.png",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "6. Secret spot:",
         "text_block": "<p><a href=\"https:\/\/m.facebook.com\/AnticaLibreriaCascianelli\/\">Libreria Cascianelli<\/a><\/p><p>Largo Febo 15, Rome, Italy<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
