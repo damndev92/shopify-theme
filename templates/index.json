@@ -6,7 +6,7 @@
         "image--slideshow-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_eba0952a-e7bb-4f09-870e-ed48b4f03b8d.png",
+            "image": "shopify:\/\/shop_images\/2_ae0ebc6d-bb96-4dba-ae86-df7256d68d24.png",
             "subheading": "",
             "title": "",
             "text": "",
@@ -24,7 +24,7 @@
         "8c2ca3b1-ed75-4dd0-9b32-15c97f5a1ffe": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_d86e698a-0611-4e18-a1e6-e3fbc559d5ca.png",
+            "image": "shopify:\/\/shop_images\/1_3958084a-3841-4630-969d-aa6d4dafec33.png",
             "subheading": "",
             "title": "",
             "text": "",
@@ -151,6 +151,7 @@
         },
         "8c1084ab-5ecd-45d7-ae8e-826aac9ca339": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/4_1b41610f-5367-47a5-b108-ad6360fd4544.png",
             "link": "shopify:\/\/blogs\/flaneur-magazine",
