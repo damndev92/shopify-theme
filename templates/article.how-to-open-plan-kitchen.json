@@ -91,46 +91,38 @@
         "button_label": ""
       }
     },
-    "55d56975-1ef9-459d-ae27-5ece34aaa6bd": {
-      "type": "image--gallery",
+    "be7df7fc-56fd-46aa-828b-bc95530e37b7": {
+      "type": "collection--featured-collection",
       "blocks": {
-        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-0": {
-          "type": "image",
+        "template--17851487387963__be7df7fc-56fd-46aa-828b-bc95530e37b7-1676985658b9ad470c-0": {
+          "type": "grid-card-title",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Navy-Ric-Rac-1-1024x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Navy Ric Rac Lampshade<\/p><p>From £120<\/p>"
           }
         },
-        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-1": {
-          "type": "image",
+        "template--17851487387963__be7df7fc-56fd-46aa-828b-bc95530e37b7-1676985658b9ad470c-1": {
+          "type": "grid-card-price",
           "settings": {
-            "image": "shopify:\/\/shop_images\/iconic-chairs-article-pics-6-1024x1024.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Palmeras Table Runner<\/p><p>£63<\/p>"
           }
         },
-        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-2": {
-          "type": "image",
+        "template--17851487387963__be7df7fc-56fd-46aa-828b-bc95530e37b7-1676985658b9ad470c-2": {
+          "type": "grid-card-swatches",
           "settings": {
-            "image": "shopify:\/\/shop_images\/iconic-chairs-article-pics-2-1024x1024.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Pelleossa Stool – Oak<\/p><p>From £731<\/p>"
           }
         }
       },
       "block_order": [
-        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-0",
-        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-1",
-        "template--17851487387963__55d56975-1ef9-459d-ae27-5ece34aaa6bd-1675342370c1451a6a-2"
+        "template--17851487387963__be7df7fc-56fd-46aa-828b-bc95530e37b7-1676985658b9ad470c-0",
+        "template--17851487387963__be7df7fc-56fd-46aa-828b-bc95530e37b7-1676985658b9ad470c-1",
+        "template--17851487387963__be7df7fc-56fd-46aa-828b-bc95530e37b7-1676985658b9ad470c-2"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "",
-        "title": ""
+        "subheading": "COLLECTION",
+        "title": "",
+        "collection": "kitchen",
+        "grid": 3,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -167,7 +159,7 @@
     "e02307ea-3e43-4613-9853-7a8e6b3fe1fc",
     "6a6b9054-d989-4bf9-9edc-53975897a0f6",
     "dab387ac-2571-4ed7-a61a-5fd9e1127465",
-    "55d56975-1ef9-459d-ae27-5ece34aaa6bd",
+    "be7df7fc-56fd-46aa-828b-bc95530e37b7",
     "main",
     "blog-posts"
   ]
