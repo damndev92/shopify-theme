@@ -215,6 +215,23 @@
         "show_recent_posts": false
       }
     },
+    "adf9ecaf-2caf-4459-8590-64262ad5dec4": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T180802.352-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "10. 14 Hills",
+        "text_block": "<p>14th floor, 120 Fenchurch St, EC3M 5AL<br\/><strong>Head chef:<\/strong> Thomas Piat<br\/><strong>Order the:<\/strong> Halibut<\/p><p>An indoor forest with over 1000 plants and awe-inspiring views over the City, 14 Hills certainly delivers on the ‘wow factor’. Once on the 14th floor, you’ll be met with a menu highlighting the best of British cuisine with a hint of French influence and an extensive cocktail list, not to mention lunch and brunch options, a DJ from Thursday to Saturday and an exclusive <a href=\"https:\/\/14hills.co.uk\/wp-content\/uploads\/sites\/83\/2023\/01\/Valentine-Menu-2023.pdf\" target=\"_blank\">Valentine’s menu<\/a>.<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/14hills.co.uk\/",
+        "hotel_page_url": false,
+        "button_label": "Book Now"
+      }
+    },
     "4db223bc-8729-4b63-a9af-c3c4a54e996b": {
       "type": "text--rich-text",
       "settings": {
@@ -233,16 +250,118 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T175016.436-1024x1024.png",
+        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T181330.339-1024x1024_c81062ba-39bc-4f15-b139-bc2d16629fe0.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "11. Bao",
+        "text_block": "<p>Various locations<br\/><strong>Head chef:<\/strong> Leigh Hartnett<br\/><strong>Order the:<\/strong> Pork bao<\/p><p>Each of Bao’s five branches offers a different take on Taiwanese culture, from the original Michelin-awarded Soho location to the Shoreditch noodle shop. Take a seat at the bar and indulge in an authentic array of cloud-like buns, decadent fried rice and a classic Negroni; if you still have room, don’t leave without trying the Horlicks fried ice cream.<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/baolondon.com\/",
+        "hotel_page_url": false,
+        "button_label": "Book Now"
+      }
+    },
+    "580d33ab-3eac-4a9b-9e2d-934a28687c9c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T182042.199-1024x1024.png",
         "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "8. Bacchanalia",
-        "text_block": "<p>1 Mount Street, W1K 3NA<br\/><strong>Head chef:<\/strong> Athinagoras Kostakos<br\/><strong>Order the:<\/strong> Grilled octopus<\/p><p>Damien Hirst statues, selfie-inducing bathrooms, and, of course, a menu showcasing the best of Mediterranean cuisine, recent opening Bacchanalia is not to be missed. Inspired by historic Greco-Roman feasts, the Mayfair hotspot serves up sharing dishes such as lobster paccheri and rib-eye steak with inventive cocktails to match and an atmosphere that inspires hedonism.<\/p>",
+        "title": "12. Kiln",
+        "text_block": "<p>58 Brewer Street, W1F 9TL<br\/><strong>Head chef:<\/strong> Ben Chapman<br\/><strong>Order the:<\/strong> Glass noodles with Tamworth belly and brown crab<\/p><p>An intimate setting perfect for a solo evening, Kiln offers seating around a long counter running around the open kitchen. Alongside the theatrics of watching the chefs at work, the Soho spot is lauded for its ever-changing menu of Thai and Burmese dishes cooked in clay pots on a charcoal range that are far too good to share.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/bacchanalia.co.uk\/",
+        "button_link": "https:\/\/kilnsoho.com\/",
         "hotel_page_url": false,
         "button_label": "Book Now"
+      }
+    },
+    "a18372f8-3f26-44c4-8d12-9694043170a2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T182337.349-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "13. Kudu",
+        "text_block": "<p>119 Queen’s Road, ​SE15 2EZ<br\/><strong>Head chef:<\/strong> Patrick Williams<br\/><strong>Order the:<\/strong> Kudu bread<\/p><p>With its dimly lit interiors and plush velvet furnishing, this cosy neighbourhood bolthole is the ideal place to spend a solitary evening. The menu boasts an ever-changing array of South African-inspired small plates, which you can see being made if you nab a seat opposite the bar. Once you’re satiated, hop across the road to Smokey Kudu for a nightcap (or two).<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.kuducollective.com\/",
+        "hotel_page_url": false,
+        "button_label": "Book Now"
+      }
+    },
+    "46e69b6a-79d5-4414-bb4f-97b25305b77a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T182721.386-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "14. Lina Stores",
+        "text_block": "<p>119 Queen’s Road, ​SE15 2EZ<br\/><strong>Head chef:<\/strong> Masha Rener<br\/><strong>Order the:<\/strong> Tagliolini al tartufo e parmigiano<\/p><p>Authentic Italian pasta, mouthwatering antipasti and people-watching galore – there’s a reason that Lina Stores consistently makes it onto lists of London’s best eateries. Take a seat at the counter tables at its Greek Street location, and watch the chefs artfully prepare dreamy dishes inspired by the original delicatessen. Finish with a digestivo and a dolci.<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.linastores.co.uk\/",
+        "hotel_page_url": false,
+        "button_label": "Book Now"
+      }
+    },
+    "7f5b6940-b080-4ebc-b89c-772e4269c281": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-2023-01-25T183233.693-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "15. 40 Maltby Street",
+        "text_block": "<p>40 Maltby St, London SE1 3PA<br\/><strong>Head chef:<\/strong> Steve Williams<br\/><strong>Order the:<\/strong> Natural wine<\/p><p>The softly lit arches hidden in the hustle and bustle of the nearby market make 40 Maltby Street a welcome retreat for those seeking a cosy evening. Nestled at the back of Gergovie Wines’ warehouse, the tiny restaurant serves delectable modern European dishes that change on a weekly basis alongside a slew of natural wines. Don’t forget a bottle of vino to enjoy at home.<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.40maltbystreet.com\/",
+        "hotel_page_url": false,
+        "button_label": "Book Now"
+      }
+    },
+    "1a19ea1d-eee5-4b6e-97b3-338fd12ad554": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17769038709051__1a19ea1d-eee5-4b6e-97b3-338fd12ad554-1676974880a8e8be66-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17769038709051__1a19ea1d-eee5-4b6e-97b3-338fd12ad554-1676974880a8e8be66-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17769038709051__1a19ea1d-eee5-4b6e-97b3-338fd12ad554-1676974880a8e8be66-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17769038709051__1a19ea1d-eee5-4b6e-97b3-338fd12ad554-1676974880a8e8be66-0",
+        "template--17769038709051__1a19ea1d-eee5-4b6e-97b3-338fd12ad554-1676974880a8e8be66-1",
+        "template--17769038709051__1a19ea1d-eee5-4b6e-97b3-338fd12ad554-1676974880a8e8be66-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Last-minute gifts",
+        "title": "Forget the usual flowers and chocolates, these gifts are guaranteed to set the mood at home and win you some serious brownie points.",
+        "collection": "gifts-for-home",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "blog-posts": {
@@ -274,8 +393,14 @@
     "b81b9c0d-5b65-4990-8694-305fec273b20",
     "b40a5978-e6c5-4ed2-a3f7-69f4878179e3",
     "main",
+    "adf9ecaf-2caf-4459-8590-64262ad5dec4",
     "4db223bc-8729-4b63-a9af-c3c4a54e996b",
     "31dac674-f6ed-471e-a3da-c0c64c42a388",
+    "580d33ab-3eac-4a9b-9e2d-934a28687c9c",
+    "a18372f8-3f26-44c4-8d12-9694043170a2",
+    "46e69b6a-79d5-4414-bb4f-97b25305b77a",
+    "7f5b6940-b080-4ebc-b89c-772e4269c281",
+    "1a19ea1d-eee5-4b6e-97b3-338fd12ad554",
     "blog-posts"
   ]
 }

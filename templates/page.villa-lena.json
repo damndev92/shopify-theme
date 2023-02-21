@@ -142,6 +142,18 @@
             "gallery_image": "shopify:\/\/shop_images\/IMG_2221.jpg"
           }
         },
+        "893265a8-201e-4136-8781-ada5bacf2236": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/1_29bcb1fa-7701-4a04-ae52-011a2f0ee31c.png"
+          }
+        },
+        "515208b8-dfdc-4f9f-a821-0cc2f464979b": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/3_bda392b5-9390-4f22-8530-a153b50fcad8.png"
+          }
+        },
         "d795c23d-d880-40f9-ac2a-1ce8bde1db9f": {
           "type": "image",
           "settings": {
@@ -154,6 +166,12 @@
             "gallery_image": "shopify:\/\/shop_images\/VL1.jpg"
           }
         },
+        "7b44b9ee-a1f9-4a7b-96ca-f56cba8ab89b": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/4_a5676877-0896-4d48-92cc-39c46fa4c58a.png"
+          }
+        },
         "af48226a-26ba-4666-8f32-7e4ef7261d12": {
           "type": "image",
           "settings": {
@@ -164,6 +182,12 @@
           "type": "image",
           "settings": {
             "gallery_image": "shopify:\/\/shop_images\/VL3.webp"
+          }
+        },
+        "d303232b-18f7-4ca2-81c8-94bfbd0f3dd1": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/5_c44b93ad-4ce6-44ee-842a-3866116af8ce.png"
           }
         },
         "1ed0f900-f825-41ef-a6b6-fd0ca6edba10": {
@@ -193,15 +217,20 @@
         "dc3e80a0-cbbd-4870-8f16-dfdcfa90868d": {
           "type": "image",
           "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/2_3574e81f-06d6-4af5-a941-6686d7c24dea.png"
           }
         }
       },
       "block_order": [
         "624553bc-eb92-466d-bca7-d0c9e102f0fc",
+        "893265a8-201e-4136-8781-ada5bacf2236",
+        "515208b8-dfdc-4f9f-a821-0cc2f464979b",
         "d795c23d-d880-40f9-ac2a-1ce8bde1db9f",
         "5fc51b61-21f3-47d9-b168-e69491a7602d",
+        "7b44b9ee-a1f9-4a7b-96ca-f56cba8ab89b",
         "af48226a-26ba-4666-8f32-7e4ef7261d12",
         "31cff27e-b36c-41be-8d4a-1bb8ef12fbbd",
+        "d303232b-18f7-4ca2-81c8-94bfbd0f3dd1",
         "1ed0f900-f825-41ef-a6b6-fd0ca6edba10",
         "274438cc-fe63-44d9-99fe-29d4b4c1ad85",
         "39c9baec-2c28-4a6e-a0e8-58020d31948d",
