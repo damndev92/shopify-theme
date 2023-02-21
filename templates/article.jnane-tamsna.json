@@ -4,7 +4,7 @@
       "type": "image--image",
       "settings": {
         "image": "shopify:\/\/shop_images\/Lifestyle-at-Jnane-Tamsna-Credit-Jade-Nina-Sarkhel-18-1024x455.jpg",
-        "parallax": true,
+        "parallax": false,
         "alignment": "center",
         "hero_size": "medium",
         "text-over-image-width": "full-width"
@@ -27,10 +27,10 @@
       "type": "image--image",
       "settings": {
         "image": "shopify:\/\/shop_images\/NJ2-1024x576.jpg",
-        "parallax": true,
+        "parallax": false,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "cc649ca1-0e22-4c5d-8bb9-c506fe258f74": {
