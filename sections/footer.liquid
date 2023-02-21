@@ -8,6 +8,8 @@
 	{% assign footer_item_width = 'col-md-4 col-sm-12' %}
 {% when 4 %}
     {% assign footer_item_width = 'col-md-3 col-sm-12' %}
+{% when 5 %}
+    {% assign footer_item_width = 'col-12 col-md-2-5' %}
 {% endcase %}
 
 <footer data-wetheme-section-type="footer" data-wetheme-section-id="{{ section.id }}">
@@ -155,7 +157,7 @@
         "fr": "Pied de page",
         "pt-PT": "Rodapé"
     },
-    "max_blocks": 4,
+    "max_blocks": 5,
     "settings": [
         {
             "type": "checkbox",
