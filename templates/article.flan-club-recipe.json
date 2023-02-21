@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Flân’  Club: Alessandro Palazzi’s Martini Recipe, London, UK",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Alessandro Palazzi’s Martini Recipe, London, UK",
         "title": "",
         "text": "<p>Alessandro Palazzi’s Martinis are so unique they are actually referred to as the best Martini in the world. The maestro from the Dukes hotel answers our quick-fire questionnaire and reveals his exclusive recipe.<\/p>",
         "button_link": "",
@@ -31,10 +31,12 @@
         "image": "shopify:\/\/shop_images\/Martini1-819x1024.jpg",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "",
-        "text_block": "<p><strong>Sunrise or sunset? <\/strong>Sunrise.<br\/><strong>Winter or summer? <\/strong>Winter.<br\/><strong>City or countryside? <\/strong>City.<br\/><strong>Coffee or cocktail for a date?<\/strong>Don’t tell my wife but a cocktail. [laughter]<br\/><strong>Do you think we should have music or no music in a bar? <\/strong>No music.<br\/><strong>Lucio Battisti or Pavarotti? <\/strong>Lucio Battisti.<br\/><strong>Pub or Italian terrace? <\/strong>Italian terrace.<br\/><strong>Aperitivo or happy hour?<\/strong>Aperitivo. I’ve never been to a happy hour.<br\/><strong>Olives or nuts? <\/strong>Olive.<br\/><strong>Shaken or Stirred? <\/strong>Shaken with vodka. James Bond breaks all the rules.<\/p>",
+        "text_block": "<p><strong>Sunrise or sunset? <\/strong><\/p><p>Sunrise.<br\/><strong>Winter or summer? <\/strong><\/p><p>Winter.<br\/><strong>City or countryside? <\/strong><\/p><p>City.<br\/><strong>Coffee or cocktail for a date?<\/strong><\/p><p>Don’t tell my wife but a cocktail. [laughter]<br\/><strong>Do you think we should have music or no music in a bar? <\/strong><\/p><p>No music.<br\/><strong>Lucio Battisti or Pavarotti?<\/strong><\/p><p><strong> <\/strong>Lucio Battisti.<br\/><strong>Pub or Italian terrace? <\/strong><\/p><p>Italian terrace.<br\/><strong>Aperitivo or happy hour?<\/strong><\/p><p>Aperitivo. I’ve never been to a happy hour.<br\/><strong>Olives or nuts? <\/strong><\/p><p>Olive.<br\/><strong>Shaken or Stirred? <\/strong><\/p><p>Shaken with vodka. James Bond breaks all the rules.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -74,14 +76,16 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/Martini3-819x1024.jpg",
         "layout": "left",
         "subheading": "",
+        "location": false,
         "title": "",
         "text_block": "<p><strong>Martini Recipe<\/strong><\/p><p>A few drops white, dry vermouth<br\/>A few drops from an organic Amalfi Coast lemon<br\/>1 slice lemon rind from a lemon<br\/>5 shots of frozen gin or vodka<\/p><p>The recipe is simple. The first step is crucial, whatever Martini you like. The first thing you have to have in a glass as cold as possible. You can either keep it in a freezer or put some ice in for a few minutes before pouring.  Then it’s the vermouth. Here at the Duke’s, we create our own vermouth in partnership with a small British distillery called Sacred distillery, in Highgate. We actually created the first English vermouth about eight years ago. We put a few drops of vermouth in the frozen glass stir, and I usually discharge on the floor. But that’s just for the show. Then the gin or vodka; At the Duke’s we freeze it.  Next, I slice a big slice of a lemon (from Amalfi. That’s very important.) I squeeze the lemon oil very gently onto the top. Because the spirits are frozen, the viscosity is much thicker, so the oil stays on top. Freezing also numbs the smell of the spirits so you won’t smell the gin or of the vodka. This way, when you lift the glass to drink the martini, the first thing that comes to your nose is the aroma of the Amalfi lemon. When you drink, it’s the nose, the first organ that interacts.  Finally, well, enjoy. At the Duke’s we want you to take your time. Once you step in, we want you to forget about time. No rush.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
