@@ -183,6 +183,40 @@
         "title": ""
       }
     },
+    "1346dcb2-65bc-4bd9-85af-d12da1d1b4aa": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17850575552827__1346dcb2-65bc-4bd9-85af-d12da1d1b4aa-1677009039faa48c96-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17850575552827__1346dcb2-65bc-4bd9-85af-d12da1d1b4aa-1677009039faa48c96-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17850575552827__1346dcb2-65bc-4bd9-85af-d12da1d1b4aa-1677009039faa48c96-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17850575552827__1346dcb2-65bc-4bd9-85af-d12da1d1b4aa-1677009039faa48c96-0",
+        "template--17850575552827__1346dcb2-65bc-4bd9-85af-d12da1d1b4aa-1677009039faa48c96-1",
+        "template--17850575552827__1346dcb2-65bc-4bd9-85af-d12da1d1b4aa-1677009039faa48c96-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHOP",
+        "title": "PARILIO'S COLLECTION",
+        "collection": "parilio",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -218,6 +252,7 @@
     "5abde9ec-445b-43d3-97f6-8399a14b18c7",
     "def13028-5d4d-44f4-940f-cb9ed8c2d341",
     "418bd93c-c6bf-4750-85e8-445aed35c250",
+    "1346dcb2-65bc-4bd9-85af-d12da1d1b4aa",
     "main",
     "blog-posts"
   ]
