@@ -4,6 +4,10 @@
 		display: none;
 	}
 
+	.sticky-header-wrapper__inner {
+		position: initial;
+	}
+
 	.partners-logo {
 		max-width: 1140px;
 		width: 100%;
@@ -65,19 +69,31 @@
 		pointer-events: none;
 	}
 
-	.sticky-header-menu {
-		display: none !important;
-	}
-
 	.sticky-header-wrapper__inner {
 		justify-content: end;
+	}
+
+	@media screen and (max-width: 991px) {
+		.mobile-header--wrapper button[type="button"].search-show,
+		.mobile-header--wrapper button[type="button"].slide-menu-mobile {
+			display: none;
+		}
+
+		.partners-logo {
+			top: 12px;
+		}
+
+		.sticky-mobile-header .partners-logo {
+			top: 25px;
+		}
 	}
 	{% endif %}
 
 
 	{% if section.settings.hide_header == true %}
 	#shopify-section-announcement-bar,
-	.header-wrapper .header-menu-wrapper {
+	.header-wrapper .header-menu-wrapper,
+	.sticky-header-menu {
 		display: none !important;
 	}
 
@@ -87,8 +103,7 @@
 	}
 
 	@media screen and (max-width: 767px) {
-		.mobile-side-column.mobile-header-wrap--icons:not(:last-of-type),
-		.sticky-header-wrapper.sticky {
+		.mobile-side-column.mobile-header-wrap--icons:not(:last-of-type) {
 			display: none;
 		}
 	}
@@ -123,6 +138,21 @@
 		{{ page.content }}
 	</section>
 </article>
+
+{% if section.settings.white_label == true %}
+	<script>
+		document.addEventListener('DOMContentLoaded', (event) => {
+
+			const logo = document.querySelector('.partners-logo')
+			const logoClone = logo.cloneNode(true)
+			const logoClone2 = logo.cloneNode(true)
+
+			document.querySelector('.sticky-header-placer').appendChild(logoClone)
+			document.querySelector('.mobile-header--wrapper').appendChild(logoClone2)
+			document.querySelector('.sticky-header-wrapper__inner .sticky-header-placer').appendChild(logoClone)
+		});
+	</script>
+{% endif %}
 
 {% schema %}
 {
