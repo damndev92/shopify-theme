@@ -49,8 +49,8 @@
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "",
-        "text_block": "<p><strong>Maison Flâneur Recommends<\/strong><br\/>The 12 Senses Retreat is a place that will do good for your body and soul. <br\/>Whether you want to spend the day engaging in mindful classes with locals or being at one with the ocean (this spot is known to be surfers` par­adise), reconnecting with yourself and nature is encouraged. <br\/>Not too far from local artisanal shops, don’t miss out on getting a taste of Encinitas’ mindful and sustainable culture. The farmers market is a foodie’s dream where one can explore endless culinary innovation, including vegan cuisine. Book a private chef for an in-depth exploration of local taste! <\/p><p> <\/p><p><a href=\"\/collections\/twelve-senses\" title=\"Twelve Senses\">Discover their full collection here <\/a><\/p>",
+        "title": "Maison Flâneur Recommends",
+        "text_block": "<p>The 12 Senses Retreat is a place that will do good for your body and soul. <br\/>Whether you want to spend the day engaging in mindful classes with locals or being at one with the ocean (this spot is known to be surfers` par­adise), reconnecting with yourself and nature is encouraged. <br\/>Not too far from local artisanal shops, don’t miss out on getting a taste of Encinitas’ mindful and sustainable culture. The farmers market is a foodie’s dream where one can explore endless culinary innovation, including vegan cuisine. Book a private chef for an in-depth exploration of local taste! <\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -68,40 +68,6 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
-      }
-    },
-    "82a27568-23a0-406c-a4a5-ba452b040a44": {
-      "type": "collection--featured-collection",
-      "blocks": {
-        "template--18061253345595__82a27568-23a0-406c-a4a5-ba452b040a44-1677005384e8033912-0": {
-          "type": "grid-card-title",
-          "settings": {
-          }
-        },
-        "template--18061253345595__82a27568-23a0-406c-a4a5-ba452b040a44-1677005384e8033912-1": {
-          "type": "grid-card-price",
-          "settings": {
-          }
-        },
-        "template--18061253345595__82a27568-23a0-406c-a4a5-ba452b040a44-1677005384e8033912-2": {
-          "type": "grid-card-swatches",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--18061253345595__82a27568-23a0-406c-a4a5-ba452b040a44-1677005384e8033912-0",
-        "template--18061253345595__82a27568-23a0-406c-a4a5-ba452b040a44-1677005384e8033912-1",
-        "template--18061253345595__82a27568-23a0-406c-a4a5-ba452b040a44-1677005384e8033912-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "Twelve Senses ",
-        "title": "Discover the collection",
-        "collection": "twelve-senses",
-        "grid": 4,
-        "rows": 1,
-        "show_view_all": false
       }
     },
     "blog-posts": {
@@ -124,7 +90,6 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
-    "82a27568-23a0-406c-a4a5-ba452b040a44",
     "blog-posts"
   ]
 }
