@@ -28,12 +28,29 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/OP-photo-678x1024.png",
+        "image": "shopify:\/\/shop_images\/Tribe_Hotel_Nairobi_25.jpg",
         "layout": "right",
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Your apartment in one word:<\/strong><\/p><p>Life<\/p><p><strong>What makes a home in one word:<\/strong><\/p><p>Memories<\/p><p><strong>Your taste in one word:<\/strong><\/p><p>Eclectic<\/p><p><strong>Define bad taste in interiors:<\/strong><\/p><p>Too clean and un-personal<\/p><p><strong>Where do you find your inspiration for interior design:<\/strong><\/p><p>Traveling. My flat is a mix of pieces from Mexico, China, Brazil, Scotland, Italy, Portugal, Vienna. I find inspiration in films (most recently I watched ‘Only Lovers Left Alive’ and Tangier is probably my next shopping destination – I love their guru vibes)<\/p><p><strong>Your philosophy when it comes to decoration:<\/strong><\/p><p>If you’re not happy seeing it every day, don’t buy it.<\/p><p><strong>Your favourite hotel in the world:<\/strong><\/p><p><a href=\"http:\/\/ilsanpietro.it\/en\/index.php\">Il San Pietro<\/a> in Positano, Italy and the <a href=\"https:\/\/www.sixsenses.com\/resorts\/douro-valley\/destination\">Six Senses<\/a> in Douro, Portugal.<\/p><p><strong>Your favourite object in your home:<\/strong><\/p><p>That’s a difficult question. I would say my framed pictures  – I have original Brigitte Bardot images, a limited edition drawing by Luke Edward Hall, a collage from my friend Audrey Guttman, à war picture from Cambodia in 1973 by Penelope Chauvelot, a Peter Lindbergh photo of an angel on a beach, Herbarium pressed flowers –  it’s a real mix of a million things I love.<\/p><p><strong>Your favourite restaurant in the world:<\/strong><\/p><p>The simplest, most chilled yet delicious restaurant is O’Dinis Restaurant in Comporta, on the beach. Grilled sardines, fresh tomato salads, amazing Sangria. I wouldn’t trade this restaurant for anything else in the world. Its simplicity brings you back to basics. If I had to choose one in Paris it would be Le Bar des Prés, rue du Dragon.<\/p><p><strong>Your favourite address for decoration: <\/strong><\/p><p>Barracuda Comporta, based in Carvalhal in Portugal. It’s the coolest shop that has a mix of vintage pieces and their own designs. You always end up seeing Jacques Grange or Pierre Passebon over there, eyeing up the latest pieces.<\/p>",
+        "text_block": "<p><strong>Your apartment in one word:<\/strong><\/p><p>Life<\/p><p><strong>What makes a home in one word:<\/strong><\/p><p>Memories<\/p><p><strong>Your taste in one word:<\/strong><\/p><p>Eclectic<\/p><p><strong>Define bad taste in interiors:<\/strong><\/p><p>Too clean and un-personal<\/p><p><strong>Where do you find your inspiration for interior design:<\/strong><\/p><p>Traveling. My flat is a mix of pieces from Mexico, China, Brazil, Scotland, Italy, Portugal, Vienna. I find inspiration in films (most recently I watched ‘Only Lovers Left Alive’ and Tangier is probably my next shopping destination – I love their guru vibes)<\/p><p><strong>Your philosophy when it comes to decoration:<\/strong><\/p><p>If you’re not happy seeing it every day, don’t buy it.<\/p><p><strong>Your favourite hotel in the world:<\/strong><\/p><p><a href=\"http:\/\/ilsanpietro.it\/en\/index.php\">Il San Pietro<\/a> in Positano, Italy and the <a href=\"https:\/\/www.sixsenses.com\/resorts\/douro-valley\/destination\">Six Senses<\/a> in Douro, Portugal.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "d6ecb3c9-f113-4ca5-a7ec-e88ac3847ecc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/ALEXANDRA_VAN_HOUTTE-002-683x1024.webp",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Your favourite object in your home:<\/strong><\/p><p>That’s a difficult question. I would say my framed pictures  – I have original Brigitte Bardot images, a limited edition drawing by Luke Edward Hall, a collage from my friend Audrey Guttman, à war picture from Cambodia in 1973 by Penelope Chauvelot, a Peter Lindbergh photo of an angel on a beach, Herbarium pressed flowers –  it’s a real mix of a million things I love.<\/p><p><strong>Your favourite restaurant in the world:<\/strong><\/p><p>The simplest, most chilled yet delicious restaurant is O’Dinis Restaurant in Comporta, on the beach. Grilled sardines, fresh tomato salads, amazing Sangria. I wouldn’t trade this restaurant for anything else in the world. Its simplicity brings you back to basics. If I had to choose one in Paris it would be Le Bar des Prés, rue du Dragon.<\/p><p><strong>Your favourite address for decoration: <\/strong><\/p><p>Barracuda Comporta, based in Carvalhal in Portugal. It’s the coolest shop that has a mix of vintage pieces and their own designs. You always end up seeing Jacques Grange or Pierre Passebon over there, eyeing up the latest pieces.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -51,38 +68,6 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
-      }
-    },
-    "ee74da65-57b7-4ebb-ba90-c238c4be1f60": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17864534393147__ee74da65-57b7-4ebb-ba90-c238c4be1f60-1675430025018ef9cb-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ALEXANDRA_VAN_HOUTTE-004-682x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Photo Herbarium: Agathe Tissier<\/p>"
-          }
-        },
-        "template--17864534393147__ee74da65-57b7-4ebb-ba90-c238c4be1f60-1675430025018ef9cb-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ALEXANDRA_VAN_HOUTTE-002-683x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Photo Herbarium: Agathe Tissier<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17864534393147__ee74da65-57b7-4ebb-ba90-c238c4be1f60-1675430025018ef9cb-1",
-        "template--17864534393147__ee74da65-57b7-4ebb-ba90-c238c4be1f60-1675430025018ef9cb-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
       }
     },
     "blog-posts": {
@@ -103,8 +88,8 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
+    "d6ecb3c9-f113-4ca5-a7ec-e88ac3847ecc",
     "main",
-    "ee74da65-57b7-4ebb-ba90-c238c4be1f60",
     "blog-posts"
   ]
 }
