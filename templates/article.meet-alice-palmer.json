@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/f34dff66-9fc2-48dc-8db2-5bd5e47939ff.jpg",
+        "image": "shopify:\/\/shop_images\/D7C9968_a67e8729-8686-4d62-8aa4-14f035213cfa.webp",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,8 +14,8 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
         "page_title": "Meet Alice Palmer, Alice Palmer & Co, London",
         "title": "",
         "text": "<p>We love to present the work of young and talented creators. Alice Palmer is one of them. She made lampshades cool, which is in itself quite impressive. We seat down with her to discuss what inspired her to start her business, how she chooses her patterns. And why Maison Flâneur won’t be able to help her with the item she wishes she could bring home from a restaurant.<\/p>",
@@ -43,7 +43,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Can you tell us more about the history behind your lampshades? <\/strong><br\/>My idea started very organically, basically because I couldn’t find the perfect lamp shade for my home. There seemed to be a big gap in the market between extravagant, ornate, and vastly expensive lampshades and generic, manufactured shades with just not quite the right fabric. <br\/>I’ve always loved the softer light a loose lampshade cover brings to a room, so I gave it a go and started making them myself.  <\/p><p><strong>How would you describe them in one word? <\/strong><br\/>Timeless<\/p><p><strong>Do you have a favourite one? <\/strong><br\/>I don’t have a favourite but I always love making up a lampshade with a new fabric and seeing how it turns out.<\/p><p><strong>What’s the best way to style your lampshades at home?<\/strong><br\/>Everywhere and anywhere! Mismatched, paired, big, and small! <\/p><p><strong>How would you describe your style in interiors? <\/strong><br\/>A mismatch of modern countryside, bohemian, colonial, arts & craft with lots of greens and warm hues. As many fabrics, patterns, and textures as possible. My home is filled with vintage pieces, things I have collected from my travels, bespoke designed furniture, and lots of lampshades! <\/p>",
+        "text_block": "<p><strong>Can you tell us more about the history behind your lampshades? <\/strong><br\/>My idea started very organically, basically because I couldn’t find the perfect lamp shade for my home. There seemed to be a big gap in the market between extravagant, ornate, and vastly expensive lampshades and generic, manufactured shades with just not quite the right fabric. <br\/>I’ve always loved the softer light a loose lampshade cover brings to a room, so I gave it a go and started making them myself.  <\/p><p><strong>How would you describe them in one word? <\/strong><br\/>Timeless.<\/p><p><strong>Do you have a favourite one? <\/strong><br\/>I don’t have a favourite but I always love making up a lampshade with a new fabric and seeing how it turns out.<\/p><p><strong>What’s the best way to style your lampshades at home?<\/strong><br\/>Everywhere and anywhere! Mismatched, paired, big, and small! <\/p><p><strong>How would you describe your style in interiors? <\/strong><br\/>A mismatch of modern countryside, bohemian, colonial, arts & craft with lots of greens and warm hues. As many fabrics, patterns, and textures as possible. My home is filled with vintage pieces, things I have collected from my travels, bespoke designed furniture, and lots of lampshades! <\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -56,15 +56,49 @@
         "colors": "white",
         "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/damien-hirst-1.0.0.1412884150-1024x1024.jpg",
-        "layout": "right",
+        "layout": "left",
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Favourite Hotel for its decoration? <\/strong><br\/>Peter and Paul Hotel, New Orleans<\/p><p><strong>Favourite Restaurant for its decoration? <\/strong><br\/>Petersham Nurseries <\/p><p><strong>Your favourite address for decoration? <\/strong><br\/>I love to pick up fabrics and homewares whenever I travel but I can always find something to bring home from The Souks in Morocco. <\/p><p><strong>Have you ever wanted to bring back an object from a hotel or a restaurant? And if so which one?<\/strong><br\/>Probably Damien Hirst’s Cow and Chicken in the old Mark Hix restaurant Tramshed!<\/p><p><strong>Your favourite object at home? <\/strong><br\/>My plants<\/p>",
+        "text_block": "<p><strong>Favourite Hotel for its decoration? <\/strong><br\/>Peter and Paul Hotel, New Orleans.<\/p><p><strong>Favourite Restaurant for its decoration? <\/strong><br\/>Petersham Nurseries. <\/p><p><strong>Your favourite address for decoration? <\/strong><br\/>I love to pick up fabrics and homewares whenever I travel but I can always find something to bring home from The Souks in Morocco. <\/p><p><strong>Have you ever wanted to bring back an object from a hotel or a restaurant? And if so which one?<\/strong><br\/>Probably Damien Hirst’s Cow and Chicken in the old Mark Hix restaurant Tramshed!<\/p><p><strong>Your favourite object at home? <\/strong><br\/>My plants.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
         "button_label": ""
+      }
+    },
+    "bce5884d-e2ca-4a3b-9ba7-9f514677079f": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17926614516027__bce5884d-e2ca-4a3b-9ba7-9f514677079f-1676985658b9ad470c-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17926614516027__bce5884d-e2ca-4a3b-9ba7-9f514677079f-1676985658b9ad470c-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17926614516027__bce5884d-e2ca-4a3b-9ba7-9f514677079f-1676985658b9ad470c-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17926614516027__bce5884d-e2ca-4a3b-9ba7-9f514677079f-1676985658b9ad470c-0",
+        "template--17926614516027__bce5884d-e2ca-4a3b-9ba7-9f514677079f-1676985658b9ad470c-1",
+        "template--17926614516027__bce5884d-e2ca-4a3b-9ba7-9f514677079f-1676985658b9ad470c-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "COLLECTION",
+        "title": "",
+        "collection": "alice-palmer-co",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -78,19 +112,6 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
-      }
-    },
-    "958374a1-14d3-4615-bd90-c08df74f6e40": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "",
-        "title": "Alice’s Selection",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
       }
     },
     "blog-posts": {
@@ -113,8 +134,8 @@
     "5f85c013-3fc1-49ff-aa2e-95a1c73f1a10",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "a224a773-5af3-439b-9fad-4c02cbb32fc6",
+    "bce5884d-e2ca-4a3b-9ba7-9f514677079f",
     "main",
-    "958374a1-14d3-4615-bd90-c08df74f6e40",
     "blog-posts"
   ]
 }
