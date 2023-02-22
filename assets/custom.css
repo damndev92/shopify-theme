@@ -39,7 +39,7 @@ We highly recommend labelling changes, or App installs, so these can also be upd
 
     .homepage-section--text-and-image-wrapper a.btn {
         display: table;
-        margin: 0 auto;
+        margin: 25px auto 0;
     }
 }
 
