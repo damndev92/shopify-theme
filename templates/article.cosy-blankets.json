@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "281e60cb-1f4e-4e88-bc6e-00e4b549e01f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/49-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>It’s all black and white<\/strong><\/p><p>Cool and also warm? Sign us up! The Viso Mohair Blanket in an abstract black and white pattern is exquisitely handmade in a tradition dating all the way back to the 15th century.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "739f7993-7b74-465a-8aa7-fc8dcb6ffbe1",
+    "281e60cb-1f4e-4e88-bc6e-00e4b549e01f",
     "main",
     "blog-posts"
   ]
