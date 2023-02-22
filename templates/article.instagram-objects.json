@@ -272,6 +272,23 @@
         "text-over-image-width": "full-width"
       }
     },
+    "fbb75f33-6a13-431e-8067-2090889c794a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Maison-Flaneur_Woven-Rattan-Shade-Natural-London-Maison-Flaneur-2.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Rattan Woven Light Shade",
+        "text_block": "<p>£155<\/p><p>Intricately woven from natural rattan, our unique, parasol-shaped lightshade is inspired by Scandinavian style and will cast beautiful patterns across your room. Perfect for your lounge or dining room, this shade can be fitted to any pendant light fitting. <a href=\"http:\/\/3.9.65.88\/how-to-get-the-scandinavian-modern-style-with-vintage-furniture\/\">Read our guide on how to get the Scandinavian modern style.<\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -308,6 +325,7 @@
     "87792097-f73b-4d0e-a418-3db19ed95a4c",
     "c905fc5a-a061-4be7-857e-4fdd14249ce9",
     "a2e4bb34-aa3a-4548-acd8-3259e3018953",
+    "fbb75f33-6a13-431e-8067-2090889c794a",
     "blog-posts"
   ]
 }
