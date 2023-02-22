@@ -108,6 +108,23 @@
         "button_label": ""
       }
     },
+    "759cc9df-a8aa-45a7-97a1-4144b3952cc5": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/47-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Eye spy<\/strong><\/p><p>Cheeky and fun, Anya Hindmarch’s characterful eye-print blanket makes for excellent gifting (whether for you or a loved one). Woven from 100% merino wool, this blanket is a dream.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -143,6 +160,7 @@
     "739f7993-7b74-465a-8aa7-fc8dcb6ffbe1",
     "281e60cb-1f4e-4e88-bc6e-00e4b549e01f",
     "2970c277-88e6-4803-85b7-27a19b47287a",
+    "759cc9df-a8aa-45a7-97a1-4144b3952cc5",
     "main",
     "blog-posts"
   ]
