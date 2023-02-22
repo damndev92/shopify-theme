@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "43f4ec05-0bbd-4009-a832-d62154c8649d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2020-03-23-at-13.16.32-721x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>9.  Orientation<\/strong><\/p><p>Portrait (vertical) or landscape (horizontal) both work very well. Interior photography doesn’t mean wide landscape all the time.  It all depends on what you want to show. A large living room will work with the landscape (horizontal) and a corridor in portrait mode (vertical).Shoot a little wider than you intend, to give you more space for a square crop on Instagram.<\/p><p><strong>10.  Magic touch<\/strong><\/p><p>You will need to retouch, balance colours, take away the things you do not want in post-production afterward with Photoshop.If you do not have photoshop try to make your image as perfect as possible when you shoot or use various retouching apps.<\/p><p><strong>11. <\/strong><em>IF you are still not sure about all the above,  I WILL be happy to shoot it for you if you contact me mentioning Maison Flâneur’s promo.  I’ve been shooting food and interior for many years<\/em>for <em>interior magazines and books. I do style a lot myself as well and can help you to get thebest set of images of your cherished property and show you more tips to achieve the perfect interior photos.<\/em><strong>+44 7860.777.143     <\/strong><a href=\"mailto:info@jeancazals.net\" target=\"_blank\"><strong>info@jeancazals.net<\/strong><\/a><strong>Have Fun!<\/strong><a href=\"https:\/\/www.maisonflaneur.com\/flan-club-jean-cazals-photographer-london\/\"><strong>Read more about Jean Cazals and his passion for photography here. <\/strong><\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "43f4ec05-0bbd-4009-a832-d62154c8649d",
     "main",
     "blog-posts"
   ]
