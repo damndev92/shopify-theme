@@ -160,13 +160,14 @@
 
 
                 {% else %}
-                    <li class="splitted-flex-slider">
+
                     {% for block in section.blocks %}
                         {%- assign slide_is_link = false -%}
                         {% if block.settings.link != blank %}
                             {%- assign slide_is_link = true -%}
                         {% endif %}
-                        <div {{ block.shopify_attributes }} class="slider-block--{{ block.id }}">
+                        <div {{ block.shopify_attributes }} data-slide-index="{{ forloop.index0 }}" class="splitted-flex-slider slider-block--{{ block.id }}"
+                            style="display: block; float: left; width: {{ 100 | divided_by: number_of_slides_float }}%">
                             {% if block.settings.image == blank and block.settings.mobile_image == blank %}
                                 {% if slide_is_link %}
                                     <a
@@ -290,13 +291,16 @@
                                     color: {{ block.settings.button-text }} !important;
                                 }
 
-                                .splitted-flex-slider > div:not(:nth-of-type({{ section.settings.slide_on_mobile }})) {
-                                    display: none;
+                                .splitted-flex-slider {
+                                    width: 100% !important;
+                                }
+
+                                .splitted-flex-slider:not(:nth-of-type({{ section.settings.slide_on_mobile }})) {
+                                    display: none !important;
                                 }
                             }
                         </style>
                     {% endfor %}
-                    </li>
                 {% endif %}
 
 					      </ul>
