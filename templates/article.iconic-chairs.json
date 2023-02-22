@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/Pierre-Jeannerets-Chandigarh-Chair-1024x1024.png",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "Pierre Jeanneret’s Chandigarh Chair",
+        "text_block": "<p>This A-framed lounger has had a bit of a Renaissance over the past few years, spawning reproductions (both great and terrible) more prolific than a rabbit’s. Originally destined for Pierre Jeanneret’s government buildings in the city of Chandigarh, these chairs were made from beautiful raw materials (Burmese teak and rattan) that would jibe with the stifling climate of Punjab. Simple, yes, but oh so powerful, the Jeanneret chairs are infinitely covetable. They go with just about every style of interior and stand out amongst their mid-century counterparts for their stoic sturdiness.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
