@@ -42,24 +42,23 @@
       {% endif %}
 
       {% comment %} vvvvv START PLACEHOLDER vvvvv {% endcomment %}
-
       {% unless section.blocks.first %}
           <div class="row" {{ block.shopify_attributes}}>
-                {% for i in (1..post_limit) %}
-
-                <div class="{{ post_limit_grid }}
+                {% for article in blog.articles limit:3 %}
+                <div class="col-md-4
                   wow fadeInUp {% cycle '', 'delay-1', 'delay-2', 'delay-3' %} index-blog-item--wrapper index-blog-item--image---{{ section.settings.imageSize }}">
 
-                  {% if section.settings.show_blog_images %}
-                    <div class="placeholder-article-image">
-                      {% capture current %}{% cycle 1, 2, 1, 2 %}{% endcapture %}
-                      {{ 'lifestyle-' | append: current | placeholder_svg_tag: 'icon--placeholder' }}
+                  {% if article.image %}
+                    <div class="article-image">
+                      <a href="{{ article.url }}" tabindex="-1">
+                        {% render 'responsive-image' with article.image, alt: article.title %}
+                      </a>
                     </div>
                   {% endif %}
 
                     <div class="blog-title-wrapper homepage-blog-title-wrapper{% if article.image %} article-image-in-header{% endif %}">
 
-                      <h3 class="type-subheading type-subheading--1"><a href="#">{{ 'general.onboarding.blog_title' | t }}</a></h3>
+                      <h3 class="type-subheading type-subheading--1"><a href="#">{{ article.title }}</a></h3>
 
                       {% if section.settings.show_dates or section.settings.show_author_name %}
                         <div class="blog__date-author">
@@ -82,7 +81,7 @@
                     </div>
 
                     <div class="rte home-blog-excerpt">
-                      {{ 'general.onboarding.blog_excerpt' | t }}
+                      {{ article.content | strip_html | truncatewords: 25 }}
                     </div>
 
                 </div>
@@ -201,6 +200,7 @@
             {% assign selected_blog = blogs[block.settings.blog] %}
 
               <div class="row grid--blog" {{ block.shopify_attributes}}>
+
                 {% unless selected_blog == empty %}
 
                   {% for article in selected_blog.articles limit: post_limit %}

@@ -249,7 +249,11 @@
           aria-label="{{ 'cart.general.open_cart' | t }}"
           aria-controls="cartSlideoutAside"
         >
-          <i data-feather="{{ section.settings.cart-style }}"></i>
+          {% if section.settings.cart-style == 'shopping-suitcase' %}
+            {% render 'icon-suitcase' %}
+          {% else %}
+            <i data-feather="{{ section.settings.cart-style }}"></i>
+          {% endif %}
           {% case section.settings.cart-number %}
             {% when 'quantity' %}
                 <span class="header--supporting-text header--mobile-cart-quantity{% if template.name contains 'index' and section.settings.overlay_header %} is-index-overlay{% endif %}"><span class="cart-item-count-header cart-item-count-header--quantity">{{ cart.item_count }}</span></span>
@@ -259,7 +263,11 @@
         </button>
       {% else %}
         <a href="{{ routes.cart_url }}" class="alt-focus header-link slide-menu">
-          <i data-feather="{{ section.settings.cart-style }}"></i>
+          {% if section.settings.cart-style == 'shopping-suitcase' %}
+            {% render 'icon-suitcase' %}
+          {% else %}
+            <i data-feather="{{ section.settings.cart-style }}"></i>
+          {% endif %}
           {% case section.settings.cart-number %}
             {% when 'quantity' %}
                 <span class="header--supporting-text header--mobile-cart-quantity{% if template.name contains 'index' and section.settings.overlay_header %} is-index-overlay{% endif %}"><span class="cart-item-count-header cart-item-count-header--quantity">{{ cart.item_count }}</span></span>
@@ -358,7 +366,11 @@
                     aria-label="{{ 'cart.general.open_cart' | t }}"
                     aria-controls="cartSlideoutAside"
                   >
-                    <i data-feather="{{ section.settings.cart-style }}"></i>
+                    {% if section.settings.cart-style == 'shopping-suitcase' %}
+                      {% render 'icon-suitcase' %}
+                    {% else %}
+                      <i data-feather="{{ section.settings.cart-style }}"></i>
+                    {% endif %}
                     {% if section.settings.label-enable %}
                         <span class="header--supporting-text">{{ 'layout.header.your_cart' | t }}
                             {% case section.settings.cart-number %}
@@ -379,7 +391,11 @@
                   </button>
                 {% else %}
                   <a href="{{ routes.cart_url }}" class="icons--inline header-link slide-menu{% if settings.cart-type == 'drawer' %} slide-menu-cart{% endif %}" title="{{ 'layout.header.your_cart' | t }}">
+                    {% if section.settings.cart-style == 'shopping-suitcase' %}
+                      {% render 'icon-suitcase' %}
+                    {% else %}
                       <i data-feather="{{ section.settings.cart-style }}"></i>
+                    {% endif %}
                       {% if section.settings.label-enable %}
                           <span class="header--supporting-text">{{ 'layout.header.your_cart' | t }}
                               {% case section.settings.cart-number %}
@@ -889,6 +905,10 @@
                         "fr": "Panier d'achat",
                         "pt-PT": "Carrinho de Compras"
                     }
+                },
+                {
+                  "value": "shopping-suitcase",
+                  "label": "Suitcase"
                 }
             ],
             "default": "shopping-cart"

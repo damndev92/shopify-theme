@@ -227,8 +227,9 @@
               {% when 'quantity-selector' %}
 
                 <div class="quantity-controls__outer {% if settings.show_swatches %}swatches-wrapper{% else %}selector-wrapper{% endif %}" {{ block.shopify_attributes }}>
-                  <label for="quantity">{{ 'products.product.quantity' | t }}</label>
-                  <div class="quantity-controls">
+                  <div class="qunatity-controls--wrapper">
+                    <label for="quantity">{{ 'products.product.quantity' | t }}</label>
+                    <div class="quantity-controls">
                       <button
                         type="button"
                         class="qty-minus alt-focus"
@@ -247,7 +248,11 @@
                         class="qty-plus alt-focus"
                         aria-label="Increase item quantity by one"
                       >+</button>
+                    </div>
                   </div>
+                  <!-- Swym button on product pages -->
+                  <div class="swym-wishlist-button-bar"></div>
+                  <!-- Swym button on product pages -->
                 </div>
 
               {% when 'vendor-sku' %}
