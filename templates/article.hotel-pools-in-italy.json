@@ -73,6 +73,7 @@
         "template--18086052167995__b50543d2-4a9f-4ad0-ab78-c2e1f5d8efaf-1677074900987d213b-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/LeFay-3_f02fef84-ec35-4b36-9a80-ba99cf632ed8.jpg",
             "link": "",
             "title": "",
             "description": ""
@@ -85,6 +86,28 @@
       "settings": {
         "colors": "white",
         "subheading": "3. MONASTERO SANTA ROSA, AMALFI",
+        "title": ""
+      }
+    },
+    "f759ccb5-84f1-43a2-888a-a4674d6814ac": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18086052167995__f759ccb5-84f1-43a2-888a-a4674d6814ac-1677074900987d213b-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5-5-1024x576.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18086052167995__f759ccb5-84f1-43a2-888a-a4674d6814ac-1677074900987d213b-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "4. MONASTERO SANTA ROSA, AMALFI",
         "title": ""
       }
     },
@@ -155,6 +178,7 @@
     "f7fda231-e09b-4081-982c-34ef50071ca0",
     "06014515-a5e7-477f-9001-a0216e9b0347",
     "b50543d2-4a9f-4ad0-ab78-c2e1f5d8efaf",
+    "f759ccb5-84f1-43a2-888a-a4674d6814ac",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
