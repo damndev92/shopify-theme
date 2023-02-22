@@ -191,6 +191,23 @@
         "text-over-image-width": "full-width"
       }
     },
+    "8dc3fa67-fa12-4e4d-8f91-a45bc1042e6e": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/White-Noise-Ear-Bowl.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "White Noise Ear Bowl",
+        "text_block": "<p>£275<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -221,6 +238,7 @@
     "197c8eb4-b0b9-4ae4-85b8-be7e1717ebac",
     "bc2c6636-368d-4977-9302-fcd7a55a3821",
     "1800a060-f85f-4d3c-a837-76a8c01787d4",
+    "8dc3fa67-fa12-4e4d-8f91-a45bc1042e6e",
     "blog-posts"
   ]
 }
