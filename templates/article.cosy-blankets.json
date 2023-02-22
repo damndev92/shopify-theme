@@ -176,6 +176,23 @@
         "button_label": ""
       }
     },
+    "4827fdc3-a204-4ee3-940c-40fdc4b0f198": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/54-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Seeing spots<\/strong><\/p><p>Delicate silk trim in the traditional central Asian Ikat motif sits pretty against beautifully soft Peruvian baby alpaca in this Tashkent throw. This cosy blanket is so chic you’ll have a hard time buying just one.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -215,6 +232,7 @@
     "0051a4d6-f4d5-46ef-8340-764357f05d89",
     "03880d00-0af3-4eed-b40a-d163330232da",
     "f87ca6b6-ba27-4fe0-b250-ee247ac33f57",
+    "4827fdc3-a204-4ee3-940c-40fdc4b0f198",
     "main",
     "blog-posts"
   ]
