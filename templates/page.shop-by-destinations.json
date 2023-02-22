@@ -1,13 +1,18 @@
 {
   "sections": {
-    "d5277379-ae02-4eb1-ac45-a58c58641551": {
-      "type": "image--image",
+    "d62e7fcd-5a1b-443d-94b5-b91f85e2246e": {
+      "type": "image--image-with-text-overlay",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_f4b4313e-5ee9-4e9a-9f90-d1de0253a0c9.png",
-        "parallax": true,
+        "image": "shopify:\/\/shop_images\/Destination_Cover.jpg",
+        "subheading": "Shop by destination",
+        "title": "FLANEUR COLLECTION",
+        "text": "",
+        "parallax": false,
         "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "hero_size": "x-large",
+        "text-over-image-width": "fixed",
+        "button_link": "",
+        "button_label": ""
       }
     },
     "730cb955-139a-4f93-b0a7-b6fd069298ff": {
@@ -319,7 +324,7 @@
     }
   },
   "order": [
-    "d5277379-ae02-4eb1-ac45-a58c58641551",
+    "d62e7fcd-5a1b-443d-94b5-b91f85e2246e",
     "730cb955-139a-4f93-b0a7-b6fd069298ff",
     "main",
     "f6c881ac-dc87-4e8e-9805-112024559187",
