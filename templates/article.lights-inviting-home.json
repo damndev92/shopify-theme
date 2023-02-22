@@ -164,6 +164,23 @@
         "button_label": ""
       }
     },
+    "b4af8c2b-3a98-48fb-94f0-197312750b05": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Miller-Wall-Lamp-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "8. The Miller Wall Lamp",
+        "text_block": "<p>We love the idea of lining two or three of these sweet wall lamps in a row along a wall to create extra drama in a room.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -202,6 +219,7 @@
     "cace5010-dbea-4430-9f71-c9096d79a431",
     "4c297ada-ecfe-4cb6-b857-74daa506b438",
     "f1a8b841-ac31-4604-8a44-2ff2691b85f5",
+    "b4af8c2b-3a98-48fb-94f0-197312750b05",
     "main",
     "blog-posts"
   ]
