@@ -181,6 +181,23 @@
         "button_label": ""
       }
     },
+    "af83366c-3913-4474-9d74-5cd7bd850e43": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Hunter-Desk-Lamp-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "9. The Hunter Desk Lamp",
+        "text_block": "<p>With a spun aluminium shade, the lacquered Hunter Desk Lamp is a slick addition to any workspace.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -220,6 +237,7 @@
     "4c297ada-ecfe-4cb6-b857-74daa506b438",
     "f1a8b841-ac31-4604-8a44-2ff2691b85f5",
     "b4af8c2b-3a98-48fb-94f0-197312750b05",
+    "af83366c-3913-4474-9d74-5cd7bd850e43",
     "main",
     "blog-posts"
   ]
