@@ -119,6 +119,38 @@
         "title": ""
       }
     },
+    "d01e56d9-fb73-4416-9551-f00dd7daa19c": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18086577996091__d01e56d9-fb73-4416-9551-f00dd7daa19c-1677078093d5c0ef85-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9-1-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": "<p><a href=\"https:\/\/www.ristorantecamponeschi.it\/?lang=en\">Ristorante Camponeschi<\/a><\/p>"
+          }
+        },
+        "template--18086577996091__d01e56d9-fb73-4416-9551-f00dd7daa19c-1677078093d5c0ef85-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/10-1-1024x1024_233d291b-50bf-4cc7-8b94-acc86e4ee2b1.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18086577996091__d01e56d9-fb73-4416-9551-f00dd7daa19c-1677078093d5c0ef85-0",
+        "template--18086577996091__d01e56d9-fb73-4416-9551-f00dd7daa19c-1677078093d5c0ef85-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
@@ -186,6 +218,7 @@
     "835fd6ad-802f-48cd-82c9-025e6bcb860e",
     "5e638ac4-8169-435d-9f86-ede0790a4446",
     "38e2db29-9352-4ae6-9327-7886c4ac3c14",
+    "d01e56d9-fb73-4416-9551-f00dd7daa19c",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
