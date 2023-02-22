@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "925fb06c-d38c-44a5-9a93-d2fb87baae3c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/The-Le-Corbusier-LC1-1024x1024.png",
+        "layout": "left",
+        "subheading": "The Le Corbusier LC1",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Charles-Edouard Jeanneret, better known as Le Corbusier, was a renowned architect in the early 20thcentury, but one of his most lasting contributions to the design world was his emblematic Le Corbusier LC1 chair. Loosely inspired by 19thcentury chairs favoured by officers of the British Empire, the LC1 made its debut at the 1929 edition of the Salon d’Automne. Not only is this lounge chair supremely chic but it also just so happens to be insanely comfortable. Once you’re in, you’ll never want to get out.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "800339af-0a1c-43d4-b4f2-5569cd5fe6d1",
+    "925fb06c-d38c-44a5-9a93-d2fb87baae3c",
     "main",
     "blog-posts"
   ]
