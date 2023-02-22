@@ -181,6 +181,16 @@
         "button_label": ""
       }
     },
+    "1800a060-f85f-4d3c-a837-76a8c01787d4": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2020-08-03-at-19.33.16-1022x1024.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -210,6 +220,7 @@
     "489638ba-87bd-4786-9297-563c1b03726b",
     "197c8eb4-b0b9-4ae4-85b8-be7e1717ebac",
     "bc2c6636-368d-4977-9302-fcd7a55a3821",
+    "1800a060-f85f-4d3c-a837-76a8c01787d4",
     "blog-posts"
   ]
 }
