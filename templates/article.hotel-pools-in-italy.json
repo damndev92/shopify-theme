@@ -45,6 +45,28 @@
         "title": ""
       }
     },
+    "06014515-a5e7-477f-9001-a0216e9b0347": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18086052167995__06014515-a5e7-477f-9001-a0216e9b0347-1677074900987d213b-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2-5-1024x576.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18086052167995__06014515-a5e7-477f-9001-a0216e9b0347-1677074900987d213b-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "2.BORGO PIGNANO, TUSCANY",
+        "title": ""
+      }
+    },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
@@ -110,6 +132,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "f7fda231-e09b-4081-982c-34ef50071ca0",
+    "06014515-a5e7-477f-9001-a0216e9b0347",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
