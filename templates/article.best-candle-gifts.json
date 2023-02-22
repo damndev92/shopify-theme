@@ -181,6 +181,23 @@
         "button_label": ""
       }
     },
+    "5ad96a86-e841-4a6b-91eb-49afa42585a5": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/8-1-1024x1024_82ca755c-8bc3-4620-a1e6-c1bff390c0cd.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "9. Orna Black Hand Painted Mushroom Candles",
+        "text_block": "<p>Or the <a href=\"https:\/\/www.maisonflaneur.com\/product\/ivory-hand-painted-turkey-sunflower-candle\/\">Turkey Sunflowers<\/a>. And the <a href=\"https:\/\/www.maisonflaneur.com\/product\/dark-green-hand-painted-autumn-floral-candle\/\">Autumnal Florals<\/a>! Honestly, we want them all, and it can feel almost impossible to choose. Luckily these are at an affordable price point, so you won’t even feel guilty when you treat yourself to a candle or five. Mix and match to create a layered look or go for a set.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -220,6 +237,7 @@
     "254a8ce1-b53b-40f3-972d-19d400569490",
     "59cf6a71-20ad-457c-989d-098706263e21",
     "5dacff41-cd42-4047-afbc-8ffb1e5f34d7",
+    "5ad96a86-e841-4a6b-91eb-49afa42585a5",
     "main",
     "blog-posts"
   ]
