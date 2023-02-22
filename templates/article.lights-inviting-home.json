@@ -23,17 +23,26 @@
         "button_label": ""
       }
     },
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
-      "type": "text--rich-text",
+    "c8b36deb-5db9-4322-ba94-68dfc1bf157f": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18083457990971__c8b36deb-5db9-4322-ba94-68dfc1bf157f-167705391198b5da64-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled-design-73-1024x341.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Founded back in 2010 by designer Niclas Hoflin, Rubn has one aim and one aim only: to create the world’s best lighting. And while there are so many lights we love, we’d have to agree. Rubn makes some really amazing lighting. Rubn’s sleek, minimal fixtures are just the thing a room needs to create an inviting space, to build layers and drama with one simple piece. And though they’re pared down and made from metal (Hoflin favours steel and brass), they still manage to capture warmth and intimacy that can otherwise feel elusive.Each Rubn lamp is crafted by hand in Hoflin’s native Sweden. Form and function go hand-in-hand, as each light is as aesthetic as it is practical and durable. The factory in Vittsjö where every Rubn light is made has a strong history of craftsmanship, with the first lamps being made by hand there in 1951.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18083457990971__c8b36deb-5db9-4322-ba94-68dfc1bf157f-167705391198b5da64-0"
+      ],
       "settings": {
-        "colors": "light",
-        "width": "small",
+        "colors": "white",
         "subheading": "",
-        "page_title": "",
-        "title": "Date Night",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
+        "title": ""
       }
     },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
@@ -100,7 +109,7 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
+    "c8b36deb-5db9-4322-ba94-68dfc1bf157f",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
