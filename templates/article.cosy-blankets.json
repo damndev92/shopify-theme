@@ -210,6 +210,23 @@
         "button_label": ""
       }
     },
+    "13e6c2c9-ea17-432b-bd40-fd412b3b9f67": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/59-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Mohair moments<\/strong><\/p><p>Mohair seems to be everywhere right now, from fluffy jumpers to fashionable balaclavas so there was no surprise to us when we instantly fell in love with this mohair blanket. The exquisite Viso Mohair blanket is handled by master carders, shearers dyers and weavers to create a kind blanket unlike any other. Created in a fully manual weaving process keeping with a tradition that dates back to the 15th century, this lightweight blanket with high volume is the perfect item to keep you warm on cold winter days.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -251,6 +268,7 @@
     "f87ca6b6-ba27-4fe0-b250-ee247ac33f57",
     "4827fdc3-a204-4ee3-940c-40fdc4b0f198",
     "4d4a98e9-29dc-4faa-bb80-9169de3f54ee",
+    "13e6c2c9-ea17-432b-bd40-fd412b3b9f67",
     "main",
     "blog-posts"
   ]
