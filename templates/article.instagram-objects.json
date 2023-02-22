@@ -245,6 +245,23 @@
         "text-over-image-width": "full-width"
       }
     },
+    "c905fc5a-a061-4be7-857e-4fdd14249ce9": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/terry_robe_-_sweet_yellow.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Sweet Yellow Mini Terry Robe",
+        "text_block": "<p>£88<\/p><p>With a sunnier and happier take, Mini Terry Robes stand out as the amalgamation of bathrobes and lounge wear. Soft, light, refined yet relaxed, super comfortable robes feature fluffy terry loops and a waist tie with two pockets. Made out of \u00100 long-staple Turkish cotton, they are designed to make you comfortable and happy, anywhere you wear them.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -279,6 +296,7 @@
     "8c40ac29-b974-4612-ab0c-aa7022a44356",
     "ab55c16a-1ffa-49ee-94b5-b9c6725b2ecc",
     "87792097-f73b-4d0e-a418-3db19ed95a4c",
+    "c905fc5a-a061-4be7-857e-4fdd14249ce9",
     "blog-posts"
   ]
 }
