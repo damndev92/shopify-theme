@@ -250,7 +250,7 @@
           "type": "tab_content",
           "settings": {
             "question": "where to eat?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>The restaurant's style and food is inspires by urban New York Restaurants.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
@@ -264,7 +264,7 @@
           "type": "tab_content",
           "settings": {
             "question": "something most people don't know about stockholm?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>Stockholm is built on 14 islands.<\/p>"
           }
         }
       },
