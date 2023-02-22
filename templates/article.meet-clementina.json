@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Meet Clementina Calleri, The Palmist, Italy",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet Clementina Calleri, The Palmist, Rome",
         "title": "",
         "text": "<p>Clementina Calleri was definitely cut out for it. Her creations are at her image, cute, clever, and compelling. You can tell they have a story to tell, that they are more than what they seem. We were lucky to discover her work online and to be able to support her small venture. We sit down with the talented artisan to discuss the palmist club, the importance of heritage, and her links to Africa.<\/p>",
         "button_link": "",
@@ -33,7 +33,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Tell us three facts about you.<\/strong><br\/>3 facts:<\/p><p>An italian that never lived in Italy before lockdown<br\/>Passionate rattan-wicker-palm object collector<br\/>Eternal romantic<\/p><p><strong>How did the Palmist adventure start? <\/strong><br\/>My project started with my absolute obsession for anything made of natural fiber, any baskets, floor mats, furniture or decorative little things would become part of my collection. Two years ago, after several years of working for different companies, I decided it was time to create a logo that would suit the name “the palmist” and launch my own collection.  I painted a palm tree on a tiny canvas and since then I never stopped creating.<\/p><p><strong>Did you always know you wanted to create your brand?<\/strong><br\/>Absolutely! It was always clear to me that I would have created something at some point!<\/p>",
+        "text_block": "<p><strong>Tell us three facts about you.<\/strong><br\/>3 facts:<\/p><p>An italian that never lived in Italy before lockdown. <br\/>Passionate rattan-wicker-palm object collector. <br\/>Eternal romantic. <\/p><p><strong>How did the Palmist adventure start? <\/strong><br\/>My project started with my absolute obsession for anything made of natural fiber, any baskets, floor mats, furniture or decorative little things would become part of my collection. Two years ago, after several years of working for different companies, I decided it was time to create a logo that would suit the name “the palmist” and launch my own collection.  I painted a palm tree on a tiny canvas and since then I never stopped creating.<\/p><p><strong>Did you always know you wanted to create your brand?<\/strong><br\/>Absolutely! It was always clear to me that I would have created something at some point!<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -50,7 +50,24 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>What does being a small company mean to you today?<\/strong><br\/>I feel lucky. This year has been a strange year, as the world seems to be falling apart, I see people trying to come together, in different ways, and I see collaborations between larger businesses and upcoming ones. This is what I mean with the “.club” choosing “www.thepalmist.club” as my domain, I have always wanted to play a part in these evolutions and work-processes! I guess we (small companies) are changing the way people shop, the products they choose, the way they select pieces for their homes or wardrobe. It is a slow, organic process but it is happening and it feels incredible!<\/p><p><strong>Can you tell us more about your work in Africa?<\/strong><br\/>Kenya. What a magical country. In 2005, My family and I decided to build a pre-primary school in the village of Wamba, Samburu, in memory of my brother Seba. We take care of the education and health of 150 children aged 2 to 7 y-old and of their families. Our Community School is divided into 2 classrooms, 1 day-care room, 1 kitchen and an outside playground area. Children, in these arid parts of Kenya, come to school to learn, play and more importantly to eat! Every morning they are given milk and a banana, and at lunchtime, their daily meal. We monitor their health and we assist them when they are sick thanks to the Wamba Catholic Hospital which has always been a great support for all. My personal contribution is my <a href=\"https:\/\/www.thepalmist.club\/giving-back\" target=\"_blank\">Narlai Sea Sacs project<\/a>: I create lightweight bags by upcycling fishing nets found on the Kenyan coast: the funds collected are entirely converted into a school bursary for our graduating students: this allows them to buy the school books, uniform, and pay the government entry fee. Without these, they won’t be accepted in and will lose a year.<\/p><p><\/p><p><strong>Favourite Hotel for its decoration? <\/strong><br\/>Coqui Coqui! Close to my heart for the time spent working there! Together with Nico Malleville, I created the Oficios Artesanos home and travel collection in 2015-2016 which showcases products made in Mexico with Mexican materials! (Have a look!)<\/p><p><strong>Favourite Restaurant for its decoration?<\/strong><br\/>Jikoni, in London: it is a Kenyan-Indian-British restaurant, or as they put it an “across borders” cuisine; it has a warm, cozy atmosphere and lovely fabrics from India; it also showcases beautiful art pieces and most importantly, they serve amazing food!<\/p><p><strong>Your favourite address for decoration?<br\/><\/strong>Showroom address: Arjumand’s World, in Milano.<br\/>Market address: Golborne Road, in London.<br\/>Boutique: Aman Lamu, in Shela, Lamu Island (Kenya).<\/p>",
+        "text_block": "<p><strong>What does being a small company mean to you today?<\/strong><br\/>I feel lucky. This year has been a strange year, as the world seems to be falling apart, I see people trying to come together, in different ways, and I see collaborations between larger businesses and upcoming ones. This is what I mean with the “.club” choosing “www.thepalmist.club” as my domain, I have always wanted to play a part in these evolutions and work-processes! I guess we (small companies) are changing the way people shop, the products they choose, the way they select pieces for their homes or wardrobe. It is a slow, organic process but it is happening and it feels incredible!<\/p><p><strong>Can you tell us more about your work in Africa?<\/strong><br\/>Kenya. What a magical country. In 2005, My family and I decided to build a pre-primary school in the village of Wamba, Samburu, in memory of my brother Seba. We take care of the education and health of 150 children aged 2 to 7 y-old and of their families. Our Community School is divided into 2 classrooms, 1 day-care room, 1 kitchen and an outside playground area. Children, in these arid parts of Kenya, come to school to learn, play and more importantly to eat! <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "e8037632-df3f-4ffc-983f-3920c1270975": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/768bcc467551327aa6be85aca1b8abb4.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Every morning they are given milk and a banana, and at lunchtime, their daily meal. We monitor their health and we assist them when they are sick thanks to the Wamba Catholic Hospital which has always been a great support for all. My personal contribution is my <a href=\"https:\/\/www.thepalmist.club\/giving-back\" target=\"_blank\">Narlai Sea Sacs project<\/a>: I create lightweight bags by upcycling fishing nets found on the Kenyan coast: the funds collected are entirely converted into a school bursary for our graduating students: this allows them to buy the school books, uniform, and pay the government entry fee. Without these, they won’t be accepted in and will lose a year.<\/p><p><strong>Favourite Hotel for its decoration? <\/strong><br\/>Coqui Coqui! Close to my heart for the time spent working there! Together with Nico Malleville, I created the Oficios Artesanos home and travel collection in 2015-2016 which showcases products made in Mexico with Mexican materials! (Have a look!)<\/p><p><strong>Favourite Restaurant for its decoration?<\/strong><br\/>Jikoni, in London: it is a Kenyan-Indian-British restaurant, or as they put it an “across borders” cuisine; it has a warm, cozy atmosphere and lovely fabrics from India; it also showcases beautiful art pieces and most importantly, they serve amazing food!<\/p><p><strong>Your favourite address for decoration?<br\/><\/strong>Showroom address: Arjumand’s World, in Milano.<br\/>Market address: Golborne Road, in London.<br\/>Boutique: Aman Lamu, in Shela, Lamu Island (Kenya).<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -68,91 +85,6 @@
         "location": false,
         "title": "",
         "text_block": "<p><strong>Have you ever wanted to bring back an object from a hotel or a restaurant? And if so which one?<\/strong><br\/>Plenty! But the one piece I regret I could not bring home was a very fine antique floor mat that was used to cover the table in Dar Ben Gacem’s courtyard in Tunis.<\/p><p><strong>Your favourite object at home? <\/strong><br\/>Very hard to say. Maybe the 70″high wooden banner from Sri Lanka, bought in an antiques shop on the road between Unawatuna and Galle Fort, which we transported on a tiny motorbike, on the train and on the airplane!<\/p><p><strong>Your three tips for the perfect Christmas present? <\/strong><\/p><p>Tip 1: choose something unique, a one-of-a-kind piece, something antique or vintage.<\/p><p>Tip 2: when possible, personalise it.<\/p><p>Tip 3: support a small company, this year especially! …or simply look among the beautiful pieces available on Maison Flâneur, they are supporting small businesses too!!!<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "bef25762-2052-47c4-a6d2-a272ebb0b06e": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Club-Lumiere-Lampshade.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "Club Lumière Lampshade",
-        "text_block": "<p>£118<\/p><p>Made in Dried Palm fibre, it is a suspension lampshade. Moving to Kenya, I have had the chance to meet an incredibly talented artisan and have developed a palm fibre lampshade that respects the shape of the palm leaf and radiates warm inviting light. Sold not electrified.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "42bf022b-5426-4c29-a455-242ee68f3c98": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/iconic-chairs-article-pics-6-1024x1024_04b7c95f-3104-4e1d-ba17-212c99c28a74.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "Palmeras Table Runner",
-        "text_block": "<p>£63<\/p><p>Vintage linen table runner in cream colour, embroidered with natural cottons.  These runners can be paired with the Palm Napkins Sets-of-2<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "b5d40566-3a75-4ec3-8b44-81662d3cd642": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Masseria-Ceramic-Set-olive-green.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "Masseria Ceramic Set",
-        "text_block": "<p>From £245<\/p><p>hand decorated ceramic set for two: 2 cups, 2 bowls, 2 plates | sold in 1 olive basket | available in grey-green or yellow glaze.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "dee97cc6-613d-44dc-b61d-c52bc4ec9364": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Palm-Napkins.jpg",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "Palm Napkins, Set of 2",
-        "text_block": "<p>£44<\/p><p>Set-of-2- Vintage linen, Natural cotton embroideries. Entirely made by hand [that is 0 machine work] in vintage Italian linen, these sets are ideal for any table, breakfast-in-bed or tv-dinner. <\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "d07a8148-a54f-4bc9-98f9-6a6983d3fd2d": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Palm-Tray.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "Palm Tray",
-        "text_block": "<p>From£41<\/p><p>Hand decorated ceramic tray which can be used in multiple ways: for bread at dinner tables, but also as a soap dis, as a keys tray or jewellery holder. available in grey-green or yellow glaze.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -191,12 +123,8 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "e8037632-df3f-4ffc-983f-3920c1270975",
     "f714d619-8b2a-4cd2-bbc0-99c573165e65",
-    "bef25762-2052-47c4-a6d2-a272ebb0b06e",
-    "42bf022b-5426-4c29-a455-242ee68f3c98",
-    "b5d40566-3a75-4ec3-8b44-81662d3cd642",
-    "dee97cc6-613d-44dc-b61d-c52bc4ec9364",
-    "d07a8148-a54f-4bc9-98f9-6a6983d3fd2d",
     "main",
     "blog-posts"
   ]
