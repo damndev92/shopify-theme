@@ -130,6 +130,23 @@
         "button_label": ""
       }
     },
+    "4c297ada-ecfe-4cb6-b857-74daa506b438": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Nomad-Floor-Lamp-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "6. The Nomad Floor Lamp",
+        "text_block": "<p>With a shade made from a tube of iron and brushed brass accents, the Nomad Floor Lamp is sleek but not too sleek. Just what we’re looking for.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -166,6 +183,7 @@
     "3da69535-ab6b-450b-9f3e-058340d7797f",
     "908972dd-fcbe-4993-8de4-bf2425bf4ae5",
     "cace5010-dbea-4430-9f71-c9096d79a431",
+    "4c297ada-ecfe-4cb6-b857-74daa506b438",
     "main",
     "blog-posts"
   ]
