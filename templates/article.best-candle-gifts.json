@@ -198,6 +198,23 @@
         "button_label": ""
       }
     },
+    "4f7819d0-c50c-44fd-9040-2e632741b974": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/1-10-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "10. Jnane Tamsna Wall Mirrors with Candle Holders",
+        "text_block": "<p>Double the pleasure of dreamy flickering candlelight with a mirrored reflection. These elegant mirrors come in a set of three and add drama to a space, day or night. When it comes to this hand-crafted trio, form and function go hand in hand.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -238,6 +255,7 @@
     "59cf6a71-20ad-457c-989d-098706263e21",
     "5dacff41-cd42-4047-afbc-8ffb1e5f34d7",
     "5ad96a86-e841-4a6b-91eb-49afa42585a5",
+    "4f7819d0-c50c-44fd-9040-2e632741b974",
     "main",
     "blog-posts"
   ]
