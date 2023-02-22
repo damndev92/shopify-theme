@@ -23,17 +23,26 @@
         "button_label": ""
       }
     },
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
-      "type": "text--rich-text",
+    "dbe4132d-044b-4bb6-97c0-ec3684bc08d0": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18084356325691__dbe4132d-044b-4bb6-97c0-ec3684bc08d0-16770624124a9166f0-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/twisted_foliage_hand_painted_candle1-1024x683-1.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>With the holidays just around the corner, we’re planning to stock up on all things candles. Hand-painted tapers make the perfect hostess gift for those Christmas cocktails you’re going to. A little scented number is ideal for your work Secret Santa. And an extra special candelabra is just the ticket when it comes to treating yourself. How did you know exactly what you wanted?! So, without further ado, we present our list of flaming hot gifts, the things that are really lighting our fire this holiday season.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18084356325691__dbe4132d-044b-4bb6-97c0-ec3684bc08d0-16770624124a9166f0-2"
+      ],
       "settings": {
-        "colors": "light",
-        "width": "small",
+        "colors": "white",
         "subheading": "",
-        "page_title": "",
-        "title": "Date Night",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
+        "title": ""
       }
     },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
@@ -100,7 +109,7 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
+    "dbe4132d-044b-4bb6-97c0-ec3684bc08d0",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
