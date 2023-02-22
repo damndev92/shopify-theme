@@ -111,6 +111,28 @@
         "title": ""
       }
     },
+    "3a1f9371-21e1-4443-8be7-95e60ce807a8": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18086052167995__3a1f9371-21e1-4443-8be7-95e60ce807a8-1677074900987d213b-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3-5-1024x576.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18086052167995__3a1f9371-21e1-4443-8be7-95e60ce807a8-1677074900987d213b-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "5.CAESAR AUGUSTUS, CAPRI",
+        "title": ""
+      }
+    },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
@@ -179,6 +201,7 @@
     "06014515-a5e7-477f-9001-a0216e9b0347",
     "b50543d2-4a9f-4ad0-ab78-c2e1f5d8efaf",
     "f759ccb5-84f1-43a2-888a-a4674d6814ac",
+    "3a1f9371-21e1-4443-8be7-95e60ce807a8",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
