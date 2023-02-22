@@ -82,6 +82,15 @@
         "button_label": ""
       }
     },
+    "fee00b26-fbe6-48f3-97cc-8fd38c3491f0": {
+      "type": "maison-collection-list",
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "",
+        "collection_type": "hotel"
+      }
+    },
     "d73f85ed-891b-4008-968c-45dcf7c6483d": {
       "type": "image--gallery",
       "blocks": {
@@ -376,15 +385,6 @@
         "hotel_page_url": false,
         "button_label": "Shop now"
       }
-    },
-    "fee00b26-fbe6-48f3-97cc-8fd38c3491f0": {
-      "type": "maison-collection-list",
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "",
-        "collection_type": "hotel"
-      }
     }
   },
   "order": [
@@ -392,6 +392,7 @@
     "730cb955-139a-4f93-b0a7-b6fd069298ff",
     "main",
     "c35cb3a3-9d02-4ac9-b2c0-a693b37407cb",
+    "fee00b26-fbe6-48f3-97cc-8fd38c3491f0",
     "d73f85ed-891b-4008-968c-45dcf7c6483d",
     "f6c881ac-dc87-4e8e-9805-112024559187",
     "e9d5d500-d14c-42d6-a3b2-b65e5bebe1c2",
@@ -407,7 +408,6 @@
     "24c6cfa0-a77c-4818-a5f4-de5eccd7ee66",
     "d4f655a9-419c-473d-8e8b-d321a9146487",
     "7f797c51-95d1-424c-acd0-9b48445b8a13",
-    "f0e99813-ab7b-48a5-8bf2-b924d79f9e1d",
-    "fee00b26-fbe6-48f3-97cc-8fd38c3491f0"
+    "f0e99813-ab7b-48a5-8bf2-b924d79f9e1d"
   ]
 }
