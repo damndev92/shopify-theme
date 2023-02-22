@@ -67,16 +67,33 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2022-10-16-at-6.53.23-PM-1024x990.png",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "2. Maison Flâneur’s Elemental Candle Collection",
+        "text_block": "<p>Why have one when you can have all four? This bundle of Maison Flâneur’s exclusive Elemental Candles will carry you through the Christmas period and into the next three seasons. These bespoke candles transport you to another place, another time. <a href=\"https:\/\/www.maisonflaneur.com\/product\/elemental-candle-collection-lair\/\">L’Air<\/a>,<a href=\"https:\/\/www.maisonflaneur.com\/product\/elemental-candle-collection-leau\/\">L’Eau<\/a>,<a href=\"https:\/\/www.maisonflaneur.com\/product\/elemental-candle-collection-le-feu\/\"> Le Feu <\/a>and <a href=\"https:\/\/www.maisonflaneur.com\/product\/elemental-candle-collection-la-terre\/\">La Terre<\/a>. You’ll be humming Earth, Wind & Fire in no time.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
+      }
+    },
+    "4eaea60d-1b72-4bb0-b6ec-3301a17a3aab": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/2-3.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "2. Maison Flâneur’s Elemental Candle Collection",
+        "text_block": "<p>Why have one when you can have all four? This bundle of Maison Flâneur’s exclusive Elemental Candles will carry you through the Christmas period and into the next three seasons. These bespoke candles transport you to another place, another time. <a href=\"https:\/\/www.maisonflaneur.com\/product\/elemental-candle-collection-lair\/\">L’Air<\/a>,<a href=\"https:\/\/www.maisonflaneur.com\/product\/elemental-candle-collection-leau\/\">L’Eau<\/a>,<a href=\"https:\/\/www.maisonflaneur.com\/product\/elemental-candle-collection-le-feu\/\"> Le Feu <\/a>and <a href=\"https:\/\/www.maisonflaneur.com\/product\/elemental-candle-collection-la-terre\/\">La Terre<\/a>. You’ll be humming Earth, Wind & Fire in no time.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
       }
     },
     "main": {
@@ -112,6 +129,7 @@
     "dbe4132d-044b-4bb6-97c0-ec3684bc08d0",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "4eaea60d-1b72-4bb0-b6ec-3301a17a3aab",
     "main",
     "blog-posts"
   ]
