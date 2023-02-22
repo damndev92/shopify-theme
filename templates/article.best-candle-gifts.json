@@ -147,6 +147,23 @@
         "button_label": ""
       }
     },
+    "59cf6a71-20ad-457c-989d-098706263e21": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/8-2-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "7. Urban Apothecary Candle Snuffer & Wick Trimmer",
+        "text_block": "<p>If you’re going to be lighting candles left and right you better be ready to snuff them out in style. Urban Apothecary’s sleek set is perfect for getting those wicks just right and ensuring that your candles don’t burn away into nothingness before you’re ready. The handsome set is a wonderful addition to another gift or perfect on its own.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -184,6 +201,7 @@
     "a8c0efc3-610b-4de1-93a9-a433466ef5ce",
     "afaf847c-41d8-4b4e-a102-db3f932f3ab2",
     "254a8ce1-b53b-40f3-972d-19d400569490",
+    "59cf6a71-20ad-457c-989d-098706263e21",
     "main",
     "blog-posts"
   ]
