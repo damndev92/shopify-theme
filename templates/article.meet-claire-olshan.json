@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Article-header-imager-v3-1024x341.png",
+        "image": "shopify:\/\/shop_images\/02-dada-daily.webp",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Meet Claire Olshan, Creative Director Dada Daily, NY",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet Claire Olshan, Creative Director of Dada Daily, New York City",
         "title": "",
         "text": "<p>Aesthete Claire Olshan is credited with creating Five Story, one of the most sumptuous NYC Luxury locations of the noughties. Not content with tantilising our sartorial senses, Claire has gone on to revolutionise the world of entertaining; creating the humorous, intricate and perfectest tablescape objet d’arts that you never knew you needed.<\/p>",
         "button_link": "",
@@ -33,7 +33,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Who or what is Dada?<\/strong><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/brand\/dada-daily\/products\/\">Dada<\/a> is that feeling of effortless magic. It’s simple moments, tools, objects that change a moment from ordinary to extraordinary. Dada’s spirit, taken from the art movement itself, is not about convention or proper – it’s about creating decadence in one’s daily moments; moments that will bring you joy and inspiration, moments that will bring people together to be creative and ignite the senses.<em> <\/em><\/p><p><strong>Which came first, the snack or the snack holder?<\/strong><\/p><p>In my mind they are twins, born at the same moment. The elevated snack moment, could only truly feel comfortable in the gesalt of the DADA world. Reality made the snack come first, as one can only bite off as much as they can chew (no pun intended). The purpose of DADA is to create the tool box for entertaining. One shouldn’t feel overwhelmed or insecure – whether you’re entertaining yourself, your loved ones or your sense, DADA was meant to be used anytime and anywhere to effortlessly create a magical hour of the ordinary moment.<\/p><p><strong>Where do you get inspiration for your designs?<\/strong><\/p><p>OY YOY YOY. How much time do you have?I live in NYC – so there’s that. Inspiration EVERYWHERE , if you’re looking for it.I love books. In a past life im pretty sure I lived in Vienna in the first three decades of the 20th century.That world of design has pretty much inspired everything I’ve ever done from a very early age.<\/p>",
+        "text_block": "<p><strong>Who or what is Dada?<\/strong><\/p><p>Dada is that feeling of effortless magic. It’s simple moments, tools, objects that change a moment from ordinary to extraordinary. Dada’s spirit, taken from the art movement itself, is not about convention or proper – it’s about creating decadence in one’s daily moments; moments that will bring you joy and inspiration, moments that will bring people together to be creative and ignite the senses.<em> <\/em><\/p><p><strong>Which came first, the snack or the snack holder?<\/strong><\/p><p>In my mind they are twins, born at the same moment. The elevated snack moment, could only truly feel comfortable in the gesalt of the DADA world. Reality made the snack come first, as one can only bite off as much as they can chew (no pun intended). The purpose of DADA is to create the tool box for entertaining. One shouldn’t feel overwhelmed or insecure – whether you’re entertaining yourself, your loved ones or your sense, DADA was meant to be used anytime and anywhere to effortlessly create a magical hour of the ordinary moment.<\/p><p><strong>Where do you get inspiration for your designs?<\/strong><\/p><p>OY YOY YOY. How much time do you have?I live in NYC – so there’s that. Inspiration EVERYWHERE , if you’re looking for it.I love books. In a past life im pretty sure I lived in Vienna in the first three decades of the 20th century.That world of design has pretty much inspired everything I’ve ever done from a very early age.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -50,7 +50,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Obsessed with your “Butt Holder”! Tell us the inspiration behind that design.<\/strong><\/p><p>When I was in my very early 20’s and worked in the art world, I remember seeing a Pedro Friedeberg hand chair for the first time and has that heartbreakingly visceral reaction (that only a true 20 year old can have) that one day I needed to have it. I remember that loves the marriage of the masculinity of the chair, big tough and secure but mixed with these curvy voluptuous lines that resembled a woman.  I searched the internet and found a tiny gold one and blew way more money than I should have on it. It still sits on my shelf in my apartment and will always be one of my favorite purchases.Anyway, I wanted the ashtray to convey those same feelings – and while it isn’t made JUST for smoking “butts” – I did want it to conjure up the visual of smoking – the sexy , bygone era , where smoking was cool , cowboy, bombshell, European, all American, sad, disco …. Pretty much everything real.   Long story short, I wanted people to feel that heartbreak I had at the turn of my teenage years and say “I need to have that.”<\/p><p><strong>What’s your favourite piece in your collection?<\/strong><\/p><p>Bugatti chairOR my daughter’s bed (pictured left)<\/p>",
+        "text_block": "<p><strong>Obsessed with your “Butt Holder”! Tell us the inspiration behind that design.<\/strong><\/p><p>When I was in my very early 20’s and worked in the art world, I remember seeing a Pedro Friedeberg hand chair for the first time and has that heartbreakingly visceral reaction (that only a true 20 year old can have) that one day I needed to have it. I remember that loves the marriage of the masculinity of the chair, big tough and secure but mixed with these curvy voluptuous lines that resembled a woman.  I searched the internet and found a tiny gold one and blew way more money than I should have on it. It still sits on my shelf in my apartment and will always be one of my favorite purchases.Anyway, I wanted the ashtray to convey those same feelings – and while it isn’t made JUST for smoking “butts” – I did want it to conjure up the visual of smoking – the sexy , bygone era , where smoking was cool , cowboy, bombshell, European, all American, sad, disco …. Pretty much everything real.   Long story short, I wanted people to feel that heartbreak I had at the turn of my teenage years and say “I need to have that.”<\/p><p><strong>What’s your favourite piece in your collection?<\/strong><\/p><p>Bugatti chair OR my daughter’s bed (pictured left)<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -104,19 +104,6 @@
         "show_recent_posts": false
       }
     },
-    "6fbcd422-922f-4221-8220-45df4d699efa": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "",
-        "title": "Shop the look",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -139,7 +126,6 @@
     "f5f1d2b8-fd0f-48b2-96ef-d8efa405d6e4",
     "807c164c-4d9d-494b-8f27-9d2e426b936c",
     "main",
-    "6fbcd422-922f-4221-8220-45df4d699efa",
     "blog-posts"
   ]
 }

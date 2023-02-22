@@ -1,0 +1,262 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1-Article-header-imager-1024x341.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "10 of the Best Candle Gifts",
+        "title": "",
+        "text": "<p>Whether you’re giving, receiving or both (hello, self-love), you can hardly go wrong with a beautiful candlestick or a calming candle. They add ambience to a room and can inspire the most luxurious of armchair travels. We’ve rarely met a candle we didn’t like.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "dbe4132d-044b-4bb6-97c0-ec3684bc08d0": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18084356325691__dbe4132d-044b-4bb6-97c0-ec3684bc08d0-16770624124a9166f0-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/twisted_foliage_hand_painted_candle1-1024x683-1.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>With the holidays just around the corner, we’re planning to stock up on all things candles. Hand-painted tapers make the perfect hostess gift for those Christmas cocktails you’re going to. A little scented number is ideal for your work Secret Santa. And an extra special candelabra is just the ticket when it comes to treating yourself. How did you know exactly what you wanted?! So, without further ado, we present our list of flaming hot gifts, the things that are really lighting our fire this holiday season.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18084356325691__dbe4132d-044b-4bb6-97c0-ec3684bc08d0-16770624124a9166f0-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/5-7-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "1. Esna Glass Candlestick",
+        "text_block": "<p>Think of this as Cinderella’s modern day glass slippers. They’re beautiful. They’re unique. And you most certainly need a pair. These beautiful handblown <a href=\"http:\/\/glass%20candlesticks\/\">glass candlesticks <\/a>were designed by Issy and crafted by hand by Egyptian artisans in Cairo. Though they look light as air, these candlesticks are surprisingly sturdy and will make a lively addition to any mantelpiece or table setting for decades to come.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2022-10-16-at-6.53.23-PM-1024x990.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "2. Maison Flâneur’s Elemental Candle Collection",
+        "text_block": "<p>Why have one when you can have all four? This bundle of Maison Flâneur’s exclusive Elemental Candles will carry you through the Christmas period and into the next three seasons. These bespoke candles transport you to another place, another time. <a href=\"https:\/\/www.maisonflaneur.com\/product\/elemental-candle-collection-lair\/\">L’Air<\/a>,<a href=\"https:\/\/www.maisonflaneur.com\/product\/elemental-candle-collection-leau\/\">L’Eau<\/a>,<a href=\"https:\/\/www.maisonflaneur.com\/product\/elemental-candle-collection-le-feu\/\"> Le Feu <\/a>and <a href=\"https:\/\/www.maisonflaneur.com\/product\/elemental-candle-collection-la-terre\/\">La Terre<\/a>. You’ll be humming Earth, Wind & Fire in no time.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "4eaea60d-1b72-4bb0-b6ec-3301a17a3aab": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/6-6-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "3. Casa Viviana Beeswax Candles",
+        "text_block": "<p>If you can’t make it to Oaxaca to pick some up at Casa Viviana’s studio yourself, a few ordered on the internet will have to do. A true artisan, Viviana has been crafting her stunning signature candles for decades. Each layer of the candles are hand-poured to ensure longer burning times, but we feel it would be a shame to burn these beauties. Though you can get some incredible styles from her studio in Mexico, the 100% Chiapas beeswax candles are only available in a handful of designs when ordering from Obakki.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "a8c0efc3-610b-4de1-93a9-a433466ef5ce": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/7-4-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "4. Eym + Lucy Williams Candles",
+        "text_block": "<p>Anyone who loves interiors as much as we do and has an Instagram has probably stumbled across Lucy Williams’ amazing interiors account. She documented her inspiring renovation as she went along and eventually became a bit of an interiors guru herself. Now, she’s partnered with the 100% natural Eym to create a collection of striking candles in refillable Murano glass. We’re particularly fond of the Eden candle, as we find that the balance of cedarwood, ginger, neroli and violet leaf is perfect for the season.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "afaf847c-41d8-4b4e-a102-db3f932f3ab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/cANDLE-products-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "5. “Baby, Won’t You Light My Body?” Ceramic Candle",
+        "text_block": "<p>A mouthful for sure but one we could get behind saying more often. This quirky, feminine ceramic candleholder begins life as a beautiful candle that burns for 110 hours. After she melts her way down, she becomes the perfect place to arrange flowers, serves as a great addition to any shelf or even works as the ideal spot for tucking away spare tapers. She’ll never feel like an old flame.<\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "254a8ce1-b53b-40f3-972d-19d400569490": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/2-7-1024x1024_c5d3951a-cedc-4ac7-b1bc-2a6c7dad6160.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "6. Ginori 1735 L’Amante Pure White Candlestick",
+        "text_block": "<p>Now this one is a serious splurge we must admit, but isn’t it just fabulous? This gorgeous scented refillable candleholder is made from delicate bisque porcelain in the form of a neoclassical statue. And though it may be pricey, it’s actually more than a candlestick. L’Amante comes with three sets of six scented candles – one of each of their classic fragrances. Give this one-of-a-kind gift to someone you truly love.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "59cf6a71-20ad-457c-989d-098706263e21": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/8-2-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "7. Urban Apothecary Candle Snuffer & Wick Trimmer",
+        "text_block": "<p>If you’re going to be lighting candles left and right you better be ready to snuff them out in style. Urban Apothecary’s sleek set is perfect for getting those wicks just right and ensuring that your candles don’t burn away into nothingness before you’re ready. The handsome set is a wonderful addition to another gift or perfect on its own.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "5dacff41-cd42-4047-afbc-8ffb1e5f34d7": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/9-1024x1024_ef9afdf5-435f-428c-8de2-2640ef9d18d9.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "8. Officine Universelle Buly Scented Matches Alexandre",
+        "text_block": "<p>Ok, so these aren’t exactly candles, of course, but how chic are they?! We like to tuck a set in the loo for guests to strike when necessary and to keep another pack by each of our candles at home. That way you already get a hint of delicious scent even before your candles start burning down. And those lapis lazuli blue tips? Mais oui!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "5ad96a86-e841-4a6b-91eb-49afa42585a5": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/8-1-1024x1024_82ca755c-8bc3-4620-a1e6-c1bff390c0cd.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "9. Orna Black Hand Painted Mushroom Candles",
+        "text_block": "<p>Or the <a href=\"https:\/\/www.maisonflaneur.com\/product\/ivory-hand-painted-turkey-sunflower-candle\/\">Turkey Sunflowers<\/a>. And the <a href=\"https:\/\/www.maisonflaneur.com\/product\/dark-green-hand-painted-autumn-floral-candle\/\">Autumnal Florals<\/a>! Honestly, we want them all, and it can feel almost impossible to choose. Luckily these are at an affordable price point, so you won’t even feel guilty when you treat yourself to a candle or five. Mix and match to create a layered look or go for a set.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "4f7819d0-c50c-44fd-9040-2e632741b974": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/1-10-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "10. Jnane Tamsna Wall Mirrors with Candle Holders",
+        "text_block": "<p>Double the pleasure of dreamy flickering candlelight with a mirrored reflection. These elegant mirrors come in a set of three and add drama to a space, day or night. When it comes to this hand-crafted trio, form and function go hand in hand.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "dbe4132d-044b-4bb6-97c0-ec3684bc08d0",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "4eaea60d-1b72-4bb0-b6ec-3301a17a3aab",
+    "a8c0efc3-610b-4de1-93a9-a433466ef5ce",
+    "afaf847c-41d8-4b4e-a102-db3f932f3ab2",
+    "254a8ce1-b53b-40f3-972d-19d400569490",
+    "59cf6a71-20ad-457c-989d-098706263e21",
+    "5dacff41-cd42-4047-afbc-8ffb1e5f34d7",
+    "5ad96a86-e841-4a6b-91eb-49afa42585a5",
+    "4f7819d0-c50c-44fd-9040-2e632741b974",
+    "main",
+    "blog-posts"
+  ]
+}

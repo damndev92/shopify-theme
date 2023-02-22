@@ -1,0 +1,192 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Article-header-imager-6-1-1024x341.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "5 Iconic Chairs Your Bum Should Know About",
+        "title": "",
+        "text": "<p>Pull up a chair, sit back and relax as you meet some of the coolest chairs we know. <\/p><p>Are you ready to have your mind blown? The average person will spend <a href=\"https:\/\/www.independentliving.co.uk\/advice\/too-much-sitting-down\/#:~:text=A%20recent%20study%20shows%20that,than%20seven%20hours%20a%20day.\">18 years<\/a> of their adult life sitting. That’s 51 hours and 44 minutes a week. And yes, that’s probably you.<\/p><p>So, if you’re really going to while away hour after hour perched on a stool or slouched in an armchair, you probably want your seat to be pretty special, right? Because the thought of watching nearly two decades of your life pass by from an ugly standpoint (or should we say sitting point) is just too depressing. We are on a mission to make sure everyone is truly sitting pretty from sleek <a href=\"https:\/\/www.maisonflaneur.com\/product\/the-spanish-chair\/\">cantilever chairs<\/a> to buttery leather <a href=\"https:\/\/www.maisonflaneur.com\/product\/the-spanish-chair\/\">Spanish chairs<\/a>.<\/p><p>And how are we doing that? We’re going to introduce you to five of the most iconic <a href=\"https:\/\/www.maisonflaneur.com\/shop\/products\/furniture\/chairs-armchairs\/\">chairs<\/a> in interior design history. Take these as gospel or use them as inspiration to find out what speaks to you and what fits in your home.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/The-Eames-Lounge-Chair-1024x1024.png",
+        "layout": "right",
+        "subheading": "The Eames Lounge Chair",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Mid-century was a great time for furniture design broadly. Specifically, it was a true heyday for seating. The quilted cushioned lounger is quintessentially Eames. When accompanied by the storied spinning ottoman, this 1956 gem is kind of the holy grail for design fans. These are so rare, in fact, that only a handful have come up to market in the decades since it was first created. The Eames 670\/671 is one for the books, so if you ever spy one in the wild, please,<em>please<\/em>let us know.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Pierre-Jeannerets-Chandigarh-Chair-1024x1024.png",
+        "layout": "left",
+        "subheading": "Pierre Jeanneret’s Chandigarh Chair",
+        "location": false,
+        "title": "",
+        "text_block": "<p>This A-framed lounger has had a bit of a Renaissance over the past few years, spawning reproductions (both great and terrible) more prolific than a rabbit’s. Originally destined for Pierre Jeanneret’s government buildings in the city of Chandigarh, these chairs were made from beautiful raw materials (Burmese teak and rattan) that would jibe with the stifling climate of Punjab. Simple, yes, but oh so powerful, the Jeanneret chairs are infinitely covetable. They go with just about every style of interior and stand out amongst their mid-century counterparts for their stoic sturdiness.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "800339af-0a1c-43d4-b4f2-5569cd5fe6d1": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Otto-Wagners-Armchair-1024x1024.png",
+        "layout": "right",
+        "subheading": "Otto Wagner’s Armchair",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Lovers of <a href=\"https:\/\/www.maisonflaneur.com\/5-art-nouveau-furniture-pieces-for-your-home\/\">art nouveau furniture <\/a>will be no strangers to Otto Wagner’s minimal classic executed by Thonet. Like many of his generation, functionality was placed at the forefront of design, with aesthetics following closely after. That’s not to say his pieces weren’t beautiful. Quite the contrary, in fact. He implemented his hierarchy of materials in creating his chairs, choosing specific materials for specific locations. Armchairs in the boardroom of the Postparkasse, for example, were made of beechwood-stained mahogany with brass accents, while those for directors were subtler with a grey stain and aluminium mounts. So, for Wagner, form really must follow function.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "925fb06c-d38c-44a5-9a93-d2fb87baae3c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/The-Le-Corbusier-LC1-1024x1024.png",
+        "layout": "left",
+        "subheading": "The Le Corbusier LC1",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Charles-Edouard Jeanneret, better known as Le Corbusier, was a renowned architect in the early 20thcentury, but one of his most lasting contributions to the design world was his emblematic Le Corbusier LC1 chair. Loosely inspired by 19thcentury chairs favoured by officers of the British Empire, the LC1 made its debut at the 1929 edition of the Salon d’Automne. Not only is this lounge chair supremely chic but it also just so happens to be insanely comfortable. Once you’re in, you’ll never want to get out.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "22604e74-f0a6-43e4-b9f1-027bc861ce98": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/The-Carl-Hansen-CH24-1024x1024.png",
+        "layout": "right",
+        "subheading": "The Carl Hansen CH24",
+        "location": false,
+        "title": "",
+        "text_block": "<p>You probably know it as the Wishbone chair, and we could bet that you’ve seen a knockoff or two (or a real one if you’re lucky!) around town. Created by the master of Danish chair design, Carl Hansen, the CH24 has been in continuous production ever since it first hit the scene back in 1950. Coveted for its timelessness and simplicity, the Wishbone chair is another that’s right at home in any space, whatever the style.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "48814a77-773b-4de2-92ac-7c376242da32": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18086795804987__48814a77-773b-4de2-92ac-7c376242da32-1677079914e9948e49-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iconic-chairs-article-pics-3-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Vale Lounge Chair<\/p><p>From £1,990<\/p><p><\/p>"
+          }
+        },
+        "template--18086795804987__48814a77-773b-4de2-92ac-7c376242da32-1677079914e9948e49-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iconic-chairs-article-pics-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Zantilam Armchair<\/p><p>£792<\/p><p><\/p>"
+          }
+        },
+        "template--18086795804987__48814a77-773b-4de2-92ac-7c376242da32-1677079914e9948e49-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nolita_3651-light-green-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Nolita 3651<\/p><p>From £142<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18086795804987__48814a77-773b-4de2-92ac-7c376242da32-1677079914e9948e49-0",
+        "template--18086795804987__48814a77-773b-4de2-92ac-7c376242da32-1677079914e9948e49-1",
+        "template--18086795804987__48814a77-773b-4de2-92ac-7c376242da32-1677079914e9948e49-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Shop Maison Flâneur’s Iconic Chairs"
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "800339af-0a1c-43d4-b4f2-5569cd5fe6d1",
+    "925fb06c-d38c-44a5-9a93-d2fb87baae3c",
+    "22604e74-f0a6-43e4-b9f1-027bc861ce98",
+    "main",
+    "48814a77-773b-4de2-92ac-7c376242da32",
+    "blog-posts"
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/LeFay-3.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "5 Best Hotel Pools in Italy",
+        "title": "",
+        "text": "<p>Summer is finally upon us, yet we are dreaming of ourselves drinking a great cocktail by the pool after a long day exploring Il Bel Paese. Maison Flâneur made a selection for you of the best hotel pools in Italy. From infinity pools with breathtaking views of the Amalfi Coast and Capri to a pool commanding a magnificent view of the Tuscan countryside, are you ready to take the plunge?<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "f7fda231-e09b-4081-982c-34ef50071ca0": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18086052167995__f7fda231-e09b-4081-982c-34ef50071ca0-1677074900987d213b-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-4-1024x576.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18086052167995__f7fda231-e09b-4081-982c-34ef50071ca0-1677074900987d213b-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "1.BELMOND HOTEL CARUSO, RAVELLO",
+        "title": ""
+      }
+    },
+    "06014515-a5e7-477f-9001-a0216e9b0347": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18086052167995__06014515-a5e7-477f-9001-a0216e9b0347-1677074900987d213b-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2-5-1024x576.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18086052167995__06014515-a5e7-477f-9001-a0216e9b0347-1677074900987d213b-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "2.BORGO PIGNANO, TUSCANY",
+        "title": ""
+      }
+    },
+    "b50543d2-4a9f-4ad0-ab78-c2e1f5d8efaf": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18086052167995__b50543d2-4a9f-4ad0-ab78-c2e1f5d8efaf-1677074900987d213b-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LeFay-3_f02fef84-ec35-4b36-9a80-ba99cf632ed8.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18086052167995__b50543d2-4a9f-4ad0-ab78-c2e1f5d8efaf-1677074900987d213b-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "3. MONASTERO SANTA ROSA, AMALFI",
+        "title": ""
+      }
+    },
+    "f759ccb5-84f1-43a2-888a-a4674d6814ac": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18086052167995__f759ccb5-84f1-43a2-888a-a4674d6814ac-1677074900987d213b-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5-5-1024x576.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18086052167995__f759ccb5-84f1-43a2-888a-a4674d6814ac-1677074900987d213b-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "4. MONASTERO SANTA ROSA, AMALFI",
+        "title": ""
+      }
+    },
+    "3a1f9371-21e1-4443-8be7-95e60ce807a8": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18086052167995__3a1f9371-21e1-4443-8be7-95e60ce807a8-1677074900987d213b-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3-5-1024x576.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18086052167995__3a1f9371-21e1-4443-8be7-95e60ce807a8-1677074900987d213b-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "5.CAESAR AUGUSTUS, CAPRI",
+        "title": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "f7fda231-e09b-4081-982c-34ef50071ca0",
+    "06014515-a5e7-477f-9001-a0216e9b0347",
+    "b50543d2-4a9f-4ad0-ab78-c2e1f5d8efaf",
+    "f759ccb5-84f1-43a2-888a-a4674d6814ac",
+    "3a1f9371-21e1-4443-8be7-95e60ce807a8",
+    "main",
+    "blog-posts"
+  ]
+}

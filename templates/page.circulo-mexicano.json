@@ -63,24 +63,28 @@
         "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-0": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/39_c2936aa3-e42c-4dc4-a06c-6744e0976bf5.png",
             "link": ""
           }
         },
         "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-1": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/40_b37b0556-e6c9-4cd3-a373-7291f5b7ba38.png",
             "link": ""
           }
         },
         "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-2": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/41_7b55868e-2ba6-4aec-8b92-081c9a35cb72.png",
             "link": ""
           }
         },
         "template--17824560611643__a5262afe-3ca2-45ff-8371-f7a34b3bfbf0-1676291575c0dd75a6-3": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/42_9b951998-ecbe-4599-ae26-40be9acee1e9.png",
             "link": ""
           }
         }
@@ -93,9 +97,9 @@
       ],
       "settings": {
         "colors": "white",
-        "width": 150,
-        "subheading": "did you know?",
-        "title": "Facts"
+        "width": 220,
+        "subheading": "",
+        "title": ""
       }
     },
     "531141af-d88a-4ddc-a4a0-fbc9e984f5c7": {

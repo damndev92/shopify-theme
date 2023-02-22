@@ -63,12 +63,14 @@
         "template--17824597410107__a9f13497-3170-4255-bd6d-b42a2285354f-167637755026b4ebd1-0": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/FACT_BLOCKS_10.png",
             "link": ""
           }
         },
         "template--17824597410107__a9f13497-3170-4255-bd6d-b42a2285354f-167637755026b4ebd1-1": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/FACT_BLOCKS_11.png",
             "link": ""
           }
         },
@@ -81,6 +83,7 @@
         "template--17824597410107__a9f13497-3170-4255-bd6d-b42a2285354f-167637755026b4ebd1-3": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/FACT_BLOCKS_12.png",
             "link": ""
           }
         }
@@ -93,9 +96,9 @@
       ],
       "settings": {
         "colors": "white",
-        "width": 150,
-        "subheading": "Did you know?",
-        "title": "Facts"
+        "width": 220,
+        "subheading": "",
+        "title": ""
       }
     },
     "9ddffc45-d823-4e4e-853f-f5a0933f6f11": {

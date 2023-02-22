@@ -28,7 +28,7 @@
         "width": "medium",
         "subheading": "California, USA",
         "page_title": "",
-        "title": "Twelve Senses",
+        "title": "Twelve Senses Retreat",
         "text": "<p><br\/>Located in sunny Encinitas, this B&B is near beautiful coastlines, sandy beaches, and a thriving downtown. You can experience the rich local community, known for its meditation gardens, yoga, artisans and healers. Immerse yourself in some of the many activities that can connect your senses to nature – such as paddle boarding or surfing, sound bowl healing, or even walking with goats in the nearby canyons. <\/p>",
         "button_link": "",
         "button_label": ""
@@ -63,24 +63,28 @@
         "template--17824622018875__3ae0132f-a8d3-4418-beba-806e080a415c-167637755026b4ebd1-0": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/24_bff10100-161d-494d-9361-d5ba9d192ce6.png",
             "link": ""
           }
         },
         "template--17824622018875__3ae0132f-a8d3-4418-beba-806e080a415c-167637755026b4ebd1-1": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/25_cc30e90a-536f-41df-a36c-a6beb1bbac6a.png",
             "link": ""
           }
         },
         "template--17824622018875__3ae0132f-a8d3-4418-beba-806e080a415c-167637755026b4ebd1-2": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/26_2f6dcd05-3961-478c-8cff-b90119e3f1c6.png",
             "link": ""
           }
         },
         "template--17824622018875__3ae0132f-a8d3-4418-beba-806e080a415c-167637755026b4ebd1-3": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/27_cb7b8ee9-ab92-4203-9fea-dcb1480f3fcd.png",
             "link": ""
           }
         }
@@ -93,9 +97,9 @@
       ],
       "settings": {
         "colors": "white",
-        "width": 150,
-        "subheading": "Did you know?",
-        "title": "Facts"
+        "width": 220,
+        "subheading": "",
+        "title": ""
       }
     },
     "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
