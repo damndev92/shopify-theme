@@ -159,6 +159,23 @@
         "button_label": ""
       }
     },
+    "f87ca6b6-ba27-4fe0-b250-ee247ac33f57": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/53-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Lavender fields forever<\/strong><\/p><p>Because who needs strawberries? We adore this gorgeous fringed blanket as much for its irresistible colour as for the incredibly soft 50-50 blend of wool and cashmere. We won’t blame you if you want to wear it out of the house.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -197,6 +214,7 @@
     "759cc9df-a8aa-45a7-97a1-4144b3952cc5",
     "0051a4d6-f4d5-46ef-8340-764357f05d89",
     "03880d00-0af3-4eed-b40a-d163330232da",
+    "f87ca6b6-ba27-4fe0-b250-ee247ac33f57",
     "main",
     "blog-posts"
   ]
