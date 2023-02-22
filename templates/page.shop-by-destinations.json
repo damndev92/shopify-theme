@@ -10,13 +10,14 @@
         "parallax": false,
         "alignment": "center",
         "hero_size": "x-large",
-        "text-over-image-width": "fixed",
+        "text-over-image-width": "full-width",
         "button_link": "",
         "button_label": ""
       }
     },
     "730cb955-139a-4f93-b0a7-b6fd069298ff": {
       "type": "text--text-adverts",
+      "disabled": true,
       "blocks": {
         "template--17647682617659__730cb955-139a-4f93-b0a7-b6fd069298ff-1676995574334f5957-0": {
           "type": "text",
@@ -59,12 +60,26 @@
     },
     "main": {
       "type": "template--page",
+      "disabled": true,
       "settings": {
         "white_label": false,
         "hide_header": false,
         "hide_default_content": false,
         "alignment": "center",
         "url": ""
+      }
+    },
+    "c35cb3a3-9d02-4ac9-b2c0-a693b37407cb": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "large",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p>We seek out exquisite, design-centric hotels with which we partner to curate beautifully designed homeware objects. Each suggests a lifetime of travel, it’s this that makes our collection unconventional and unique. Each object evokes its own soulful and eclectic story; you may very well find a hand-woven Berber rug set beside a Barcelona chair. Tableware, textiles, accessories, art pieces, and furniture – icons of our experiences – are delivered to your door. International, curious and enthusiastic, we are always in search of unique interiors and in-depth stories that will tickle the fancy of our creative minds.<\/p>",
+        "button_link": "",
+        "button_label": ""
       }
     },
     "f6c881ac-dc87-4e8e-9805-112024559187": {
@@ -327,6 +342,7 @@
     "d62e7fcd-5a1b-443d-94b5-b91f85e2246e",
     "730cb955-139a-4f93-b0a7-b6fd069298ff",
     "main",
+    "c35cb3a3-9d02-4ac9-b2c0-a693b37407cb",
     "f6c881ac-dc87-4e8e-9805-112024559187",
     "e9d5d500-d14c-42d6-a3b2-b65e5bebe1c2",
     "a39961e1-0610-40bc-8408-a75193b96566",
