@@ -87,6 +87,38 @@
         "title": ""
       }
     },
+    "38e2db29-9352-4ae6-9327-7886c4ac3c14": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18086577996091__38e2db29-9352-4ae6-9327-7886c4ac3c14-1677078093d5c0ef85-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6-3-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18086577996091__38e2db29-9352-4ae6-9327-7886c4ac3c14-1677078093d5c0ef85-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5-4-1024x1024_7232c4d0-7385-4997-ac0d-38ad5cb2bca5.png",
+            "link": "",
+            "title": "",
+            "description": "<p><a href=\"https:\/\/www.facebook.com\/Osteria-der-Belli-473023706139166\/\">Osteria Der Belli<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18086577996091__38e2db29-9352-4ae6-9327-7886c4ac3c14-1677078093d5c0ef85-0",
+        "template--18086577996091__38e2db29-9352-4ae6-9327-7886c4ac3c14-1677078093d5c0ef85-1"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
@@ -153,6 +185,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "835fd6ad-802f-48cd-82c9-025e6bcb860e",
     "5e638ac4-8169-435d-9f86-ede0790a4446",
+    "38e2db29-9352-4ae6-9327-7886c4ac3c14",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
