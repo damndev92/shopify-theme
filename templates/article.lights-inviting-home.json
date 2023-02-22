@@ -96,6 +96,23 @@
         "button_label": ""
       }
     },
+    "908972dd-fcbe-4993-8de4-bf2425bf4ae5": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/RUBN-lighting-article-imgs-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "4. The Long John 6 Pendant Lamp",
+        "text_block": "<p>Though we know overhead lighting isn’t always as flattering, we would happily eat our words if we could get our hands on one of these chic Long John Pendant Lamps. Choose from iron, steel or brass to complement the metal accents you have in the room.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -130,6 +147,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "3da69535-ab6b-450b-9f3e-058340d7797f",
+    "908972dd-fcbe-4993-8de4-bf2425bf4ae5",
     "main",
     "blog-posts"
   ]
