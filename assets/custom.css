@@ -37,6 +37,9 @@ We highly recommend labelling changes, or App installs, so these can also be upd
         padding-bottom: 0;
     }
 
+    .homepage-section--text-and-image-wrapper .featured-row__subtext {
+        text-align: center;
+    }
     .homepage-section--text-and-image-wrapper a.btn {
         display: table;
         margin: 25px auto 0;
