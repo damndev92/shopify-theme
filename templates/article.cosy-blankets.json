@@ -142,6 +142,23 @@
         "button_label": ""
       }
     },
+    "03880d00-0af3-4eed-b40a-d163330232da": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/52-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Red leather, yellow leather<\/strong><\/p><p>Or, we suppose, black leather in the case of this sleek Sevilla Baby Alpaca Throw. Softest baby alpaca in an arresting carmine is accented with an elaborate ribbon of braided black leather. We want one!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -179,6 +196,7 @@
     "2970c277-88e6-4803-85b7-27a19b47287a",
     "759cc9df-a8aa-45a7-97a1-4144b3952cc5",
     "0051a4d6-f4d5-46ef-8340-764357f05d89",
+    "03880d00-0af3-4eed-b40a-d163330232da",
     "main",
     "blog-posts"
   ]
