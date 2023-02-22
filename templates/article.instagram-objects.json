@@ -100,6 +100,23 @@
         "text-over-image-width": "full-width"
       }
     },
+    "cf8ec843-a339-468d-862e-885229493590": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Yolo-Journal-Issue-No.-1.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Yolo Journal – Issue No. 1",
+        "text_block": "<p>£20<\/p><p><\/p><p>\"Our first edition is a love letter to Italy.We’ve divided the issue into sections that parallels the way we think about where we’d like to go: The Sea, The Hills, The Towns, The Lakes. And we’ve asked all our dearest Italian connections to tell us their secret spots throughout the country. We’d like to think it’s an issue you’ll hold onto for years to come. Cover by Stephen Ringer, who photographed his wife Aly Michalka, at Il Pellicano in Italy.\"<em>- Yolanda Edwards<\/em><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -123,6 +140,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "979bd4f3-be5f-4f58-95d1-f5be00660d9c",
+    "cf8ec843-a339-468d-862e-885229493590",
     "blog-posts"
   ]
 }
