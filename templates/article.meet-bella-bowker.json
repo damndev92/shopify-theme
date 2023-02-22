@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Meet Bella Bowker, Designer, Sew Bella",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet Bella Bowker, Creator of Sew Bella, London",
         "title": "",
         "text": "<p>Bella is a self-taught embroiderer who creates tiny colorful interpretations of things with thread, to help you jazz up your tabletop.Her hand-stitched napkins representing tiny little shellfish are her signature item and are becoming a must-have among tablescapes lovers.We sit down with Bella to find out her favorite design, her dream commission and how many stitches of thread each design needs.<\/p>",
         "button_link": "",
@@ -33,7 +33,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Could you tell us three things about you?<\/strong><\/p><p>1. I love food and drink – my first napkin set was a set of vegetables – so I take lot of inspo from things I eat. <\/p><p>2. I’m a born-and-bred South Londoner<\/p><p>3. Sunshine fills me with so much joy – I think it’s the route to all happiness. <\/p><p><strong>What is the story behind Sew Bella?<\/strong><\/p><p>I broke my leg in my first year at university, and was on crutches for about 5 months. Bored rigid and needing a creative outlet, I picked up a needle and found a passion! I wanted to find a way of adding some fun personality to a tabletop – all the napkins I had found previously felt a bit antique-y, old-fashioned or super plain and drab – and from this Sew Bella was born. <\/p>",
+        "text_block": "<p><strong>Could you tell us three things about you?<\/strong><\/p><p>1. I love food and drink – my first napkin set was a set of vegetables – so I take lot of inspo from things I eat. <\/p><p>2. I’m a born-and-bred South Londoner.<\/p><p>3. Sunshine fills me with so much joy – I think it’s the route to all happiness. <\/p><p><strong>What is the story behind Sew Bella?<\/strong><\/p><p>I broke my leg in my first year at university, and was on crutches for about 5 months. Bored rigid and needing a creative outlet, I picked up a needle and found a passion! I wanted to find a way of adding some fun personality to a tabletop – all the napkins I had found previously felt a bit antique-y, old-fashioned or super plain and drab – and from this Sew Bella was born. <\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -50,7 +50,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>What was your other career in?<\/strong><\/p><p>I had worked in Customer Experience for a while prior to Sew Bella – in two very different small companies. One was a beer delivery subscription service, and the other was a clean air technology company.  <\/p><p><strong>What’s the funniest thing someone ever commissioned?<\/strong><\/p><p>There’s honestly been so many! Some of them are super niche; I spent last week recreating the infamous Pyramid Stage at Glastonbury Festival. The funniest probably has to be a white cat on a white napkin, which really challenged my stitchin’ abilities. <\/p><p><strong>What is your dream commission?<\/strong><\/p><p>My absolute dream is a fully foodie\/drinkie commission. I love creating little miniatures of branded products – it’s fascinating to try and bring in the ‘brand’ in such a tiny space. I recently embroidered a packet of Walkers crisps which was amazing<\/p>",
+        "text_block": "<p><strong>What was your other career in?<\/strong><\/p><p>I had worked in Customer Experience for a while prior to Sew Bella – in two very different small companies. One was a beer delivery subscription service, and the other was a clean air technology company.  <\/p><p><strong>What’s the funniest thing someone ever commissioned?<\/strong><\/p><p>There’s honestly been so many! Some of them are super niche; I spent last week recreating the infamous Pyramid Stage at Glastonbury Festival. The funniest probably has to be a white cat on a white napkin, which really challenged my stitchin’ abilities. <\/p><p><strong>What is your dream commission?<\/strong><\/p><p>My absolute dream is a fully foodie\/drinkie commission. I love creating little miniatures of branded products – it’s fascinating to try and bring in the ‘brand’ in such a tiny space. I recently embroidered a packet of Walkers crisps which was amazing.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -67,7 +67,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Do you have a favourite design?<\/strong><\/p><p>Argh, I change my mind every time I do something new! I really love the Rainbow Veggie set – and I think the bright pink radish has to be my favourite. It’s so eye-catching. I also love the Mimosa napkin set as it combines several different <strong>stitches. <\/strong><\/p><p><strong>Is there something about your embroideries people might not know about?<\/strong><\/p><p>They are so time consuming to create! Not only are they hand-made by a lovely lady in Greece, each one is lovingly designed & stitched – I think there’s around 500 individual stitches of thread in each design. <\/p>",
+        "text_block": "<p><strong>Do you have a favourite design?<\/strong><\/p><p>Argh, I change my mind every time I do something new! I really love the Rainbow Veggie set – and I think the bright pink radish has to be my favourite. It’s so eye-catching. I also love the Mimosa napkin set as it combines several different stitches. <\/p><p><strong>Is there something about your embroideries people might not know about?<\/strong><\/p><p>They are so time consuming to create! Not only are they hand-made by a lovely lady in Greece, each one is lovingly designed & stitched – I think there’s around 500 individual stitches of thread in each design. <\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -108,6 +108,40 @@
         "button_label": ""
       }
     },
+    "a11c412b-6291-45fe-9e80-578bf5f32c67": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17934592115003__a11c412b-6291-45fe-9e80-578bf5f32c67-1677009039faa48c96-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17934592115003__a11c412b-6291-45fe-9e80-578bf5f32c67-1677009039faa48c96-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17934592115003__a11c412b-6291-45fe-9e80-578bf5f32c67-1677009039faa48c96-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17934592115003__a11c412b-6291-45fe-9e80-578bf5f32c67-1677009039faa48c96-0",
+        "template--17934592115003__a11c412b-6291-45fe-9e80-578bf5f32c67-1677009039faa48c96-1",
+        "template--17934592115003__a11c412b-6291-45fe-9e80-578bf5f32c67-1677009039faa48c96-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHOP",
+        "title": "THE COLLECTION",
+        "collection": "sew-bella",
+        "grid": 3,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -143,6 +177,7 @@
     "3569c588-d638-4479-a28c-fd7d9627c850",
     "698dd0e1-ff7f-4023-9ce0-f10566fe6aa7",
     "ee975a40-15ee-429a-b63d-744239f96647",
+    "a11c412b-6291-45fe-9e80-578bf5f32c67",
     "main",
     "blog-posts"
   ]
