@@ -36,18 +36,18 @@
             "text": "<p>Once your order has been dispatched, you will receive an email containing your tracking link and estimated delivery date. If you have an account with us you can also check the status of your order by logging in to your account. <\/p>"
           }
         },
-        "accordion-0-2": {
-          "type": "tab_content",
-          "settings": {
-            "question": "OOPS, MY ORDER ARRIVED DAMAGED. CAN YOU HELP ME?",
-            "text": "<p>Of course! Please write to hello@maisonflaneur.com with a picture of the scrape and we will either give you a full refund, issue a coupon or get a replacement to you asap. Shipping costs are on us! <\/p>"
-          }
-        },
         "accordion-0-3": {
           "type": "tab_content",
           "settings": {
-            "question": "I ONLY RECEIVED PART OF MY ORDER, WHERE IS THE REST PLEASE?",
-            "text": "<p>Each Maison Flâneur order is as special and unique as our customers themselves. As products are shipped directly by our supply partners, sometimes shipping times may vary and you may receive your order in seperate packages. Please refer to your confirmation email for the different tracking details!<\/p>"
+            "question": "I ONLY RECEIVED PART OF MY ORDER",
+            "text": "<p>Our products are shipped directly by our brands and can therefore arrive in seperate packages. A separate tracking email will be sent for each individual brand in your order. If you're missing part of your order from a specific brands, email us at hello@maisonflaneur.com and we will make sure the missing items are shipped out to you asap! <\/p>"
+          }
+        },
+        "accordion-0-2": {
+          "type": "tab_content",
+          "settings": {
+            "question": "MY ORDER ARRIVED DAMAGED. CAN YOU HELP ME?",
+            "text": "<p>Of course! If y<\/p>"
           }
         },
         "accordion-0-4": {
@@ -102,8 +102,8 @@
       },
       "block_order": [
         "accordion-0-0",
-        "accordion-0-2",
         "accordion-0-3",
+        "accordion-0-2",
         "accordion-0-4",
         "8a0252fb-af64-40cc-a79a-006c05dd73da",
         "8e22cb5e-23e5-4293-8b6d-d0755540a09b",
