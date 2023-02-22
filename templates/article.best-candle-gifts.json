@@ -130,6 +130,23 @@
         "button_label": ""
       }
     },
+    "254a8ce1-b53b-40f3-972d-19d400569490": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/2-7-1024x1024_c5d3951a-cedc-4ac7-b1bc-2a6c7dad6160.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "6. Ginori 1735 L’Amante Pure White Candlestick",
+        "text_block": "<p>Now this one is a serious splurge we must admit, but isn’t it just fabulous? This gorgeous scented refillable candleholder is made from delicate bisque porcelain in the form of a neoclassical statue. And though it may be pricey, it’s actually more than a candlestick. L’Amante comes with three sets of six scented candles – one of each of their classic fragrances. Give this one-of-a-kind gift to someone you truly love.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -166,6 +183,7 @@
     "4eaea60d-1b72-4bb0-b6ec-3301a17a3aab",
     "a8c0efc3-610b-4de1-93a9-a433466ef5ce",
     "afaf847c-41d8-4b4e-a102-db3f932f3ab2",
+    "254a8ce1-b53b-40f3-972d-19d400569490",
     "main",
     "blog-posts"
   ]
