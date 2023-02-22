@@ -50,6 +50,16 @@
         "button_label": ""
       }
     },
+    "94aa9ae4-db64-4768-81f3-0ab9d21d060f": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2020-08-03-at-17.44.15-1024x1022.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -99,6 +109,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "711fb7e2-8c19-487a-9788-5934e3c83480",
     "60bed94f-19d1-471f-9213-301734a4bab2",
+    "94aa9ae4-db64-4768-81f3-0ab9d21d060f",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "blog-posts"
