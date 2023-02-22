@@ -377,46 +377,13 @@
         "button_label": "Shop now"
       }
     },
-    "a4901e85-5926-495b-b677-dba244096ac4": {
-      "type": "collection--collection-list",
-      "blocks": {
-        "template--17647682617659__a4901e85-5926-495b-b677-dba244096ac4-1677072828973d76b9-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "template--17647682617659__a4901e85-5926-495b-b677-dba244096ac4-1677072828973d76b9-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "template--17647682617659__a4901e85-5926-495b-b677-dba244096ac4-1677072828973d76b9-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17647682617659__a4901e85-5926-495b-b677-dba244096ac4-1677072828973d76b9-0",
-        "template--17647682617659__a4901e85-5926-495b-b677-dba244096ac4-1677072828973d76b9-1",
-        "template--17647682617659__a4901e85-5926-495b-b677-dba244096ac4-1677072828973d76b9-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
     "fee00b26-fbe6-48f3-97cc-8fd38c3491f0": {
       "type": "maison-collection-list",
       "settings": {
         "colors": "white",
         "subheading": "",
         "title": "",
-        "collection_type": "brand"
+        "collection_type": "hotel"
       }
     }
   },
@@ -441,7 +408,6 @@
     "d4f655a9-419c-473d-8e8b-d321a9146487",
     "7f797c51-95d1-424c-acd0-9b48445b8a13",
     "f0e99813-ab7b-48a5-8bf2-b924d79f9e1d",
-    "a4901e85-5926-495b-b677-dba244096ac4",
     "fee00b26-fbe6-48f3-97cc-8fd38c3491f0"
   ]
 }
