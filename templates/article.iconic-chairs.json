@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "800339af-0a1c-43d4-b4f2-5569cd5fe6d1": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Otto-Wagners-Armchair-1024x1024.png",
+        "layout": "right",
+        "subheading": "Otto Wagner’s Armchair",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Lovers of <a href=\"https:\/\/www.maisonflaneur.com\/5-art-nouveau-furniture-pieces-for-your-home\/\">art nouveau furniture <\/a>will be no strangers to Otto Wagner’s minimal classic executed by Thonet. Like many of his generation, functionality was placed at the forefront of design, with aesthetics following closely after. That’s not to say his pieces weren’t beautiful. Quite the contrary, in fact. He implemented his hierarchy of materials in creating his chairs, choosing specific materials for specific locations. Armchairs in the boardroom of the Postparkasse, for example, were made of beechwood-stained mahogany with brass accents, while those for directors were subtler with a grey stain and aluminium mounts. So, for Wagner, form really must follow function.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "800339af-0a1c-43d4-b4f2-5569cd5fe6d1",
     "main",
     "blog-posts"
   ]
