@@ -121,6 +121,48 @@
         "show_recent_posts": false
       }
     },
+    "48814a77-773b-4de2-92ac-7c376242da32": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18086795804987__48814a77-773b-4de2-92ac-7c376242da32-1677079914e9948e49-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iconic-chairs-article-pics-3-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Vale Lounge Chair<\/p><p>From £1,990<\/p><p><\/p>"
+          }
+        },
+        "template--18086795804987__48814a77-773b-4de2-92ac-7c376242da32-1677079914e9948e49-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iconic-chairs-article-pics-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Zantilam Armchair<\/p><p>£792<\/p><p><\/p>"
+          }
+        },
+        "template--18086795804987__48814a77-773b-4de2-92ac-7c376242da32-1677079914e9948e49-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nolita_3651-light-green-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Nolita 3651<\/p><p>From £142<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18086795804987__48814a77-773b-4de2-92ac-7c376242da32-1677079914e9948e49-0",
+        "template--18086795804987__48814a77-773b-4de2-92ac-7c376242da32-1677079914e9948e49-1",
+        "template--18086795804987__48814a77-773b-4de2-92ac-7c376242da32-1677079914e9948e49-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Shop Maison Flâneur’s Iconic Chairs"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -144,6 +186,7 @@
     "925fb06c-d38c-44a5-9a93-d2fb87baae3c",
     "22604e74-f0a6-43e4-b9f1-027bc861ce98",
     "main",
+    "48814a77-773b-4de2-92ac-7c376242da32",
     "blog-posts"
   ]
 }
