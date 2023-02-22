@@ -4,8 +4,8 @@
       "type": "image--image-with-text-overlay",
       "settings": {
         "image": "shopify:\/\/shop_images\/Destination_Cover.jpg",
-        "subheading": "Shop by destination",
-        "title": "FLANEUR COLLECTION",
+        "subheading": "Shop",
+        "title": "FLANEUR DESTINATIONS",
         "text": "",
         "parallax": false,
         "alignment": "center",
