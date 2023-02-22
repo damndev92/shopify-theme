@@ -164,6 +164,23 @@
         "button_label": ""
       }
     },
+    "5dacff41-cd42-4047-afbc-8ffb1e5f34d7": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/9-1024x1024_ef9afdf5-435f-428c-8de2-2640ef9d18d9.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "8. Officine Universelle Buly Scented Matches Alexandre",
+        "text_block": "<p>Ok, so these aren’t exactly candles, of course, but how chic are they?! We like to tuck a set in the loo for guests to strike when necessary and to keep another pack by each of our candles at home. That way you already get a hint of delicious scent even before your candles start burning down. And those lapis lazuli blue tips? Mais oui!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -202,6 +219,7 @@
     "afaf847c-41d8-4b4e-a102-db3f932f3ab2",
     "254a8ce1-b53b-40f3-972d-19d400569490",
     "59cf6a71-20ad-457c-989d-098706263e21",
+    "5dacff41-cd42-4047-afbc-8ffb1e5f34d7",
     "main",
     "blog-posts"
   ]
