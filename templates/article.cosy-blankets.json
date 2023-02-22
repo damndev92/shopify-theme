@@ -193,6 +193,23 @@
         "button_label": ""
       }
     },
+    "4d4a98e9-29dc-4faa-bb80-9169de3f54ee": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/quilt.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Pattern recognition<\/strong><\/p><p>We can’t get enough of this dreamy reversible quilt from Khasto. Made from super soft cotton cashmere (honestly, you haven’t felt cotton until you’ve snuggled up in one of these), this gorg quilt is perfect draped at the end of a bed or slung casually over a sofa or armchair.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -233,6 +250,7 @@
     "03880d00-0af3-4eed-b40a-d163330232da",
     "f87ca6b6-ba27-4fe0-b250-ee247ac33f57",
     "4827fdc3-a204-4ee3-940c-40fdc4b0f198",
+    "4d4a98e9-29dc-4faa-bb80-9169de3f54ee",
     "main",
     "blog-posts"
   ]
