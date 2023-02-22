@@ -113,7 +113,8 @@
       "type": "template--product--recommendations",
       "settings": {
         "show_product_recommendations": true,
-        "product_recommendations_heading": "You may also like"
+        "product_recommendations_heading": "You may also like",
+        "products-per-section": 8
       }
     },
     "621e8d40-9e35-4b2c-a9f2-c2b567b847ef": {
