@@ -154,6 +154,16 @@
         "text-over-image-width": "full-width"
       }
     },
+    "197c8eb4-b0b9-4ae4-85b8-be7e1717ebac": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2020-08-03-at-18.00.21-818x1024.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -181,6 +191,7 @@
     "ca7fa27b-ed28-4f0d-8265-5c6b7cf9b5b6",
     "df23d901-bed1-4184-9017-aec90dd3effe",
     "489638ba-87bd-4786-9297-563c1b03726b",
+    "197c8eb4-b0b9-4ae4-85b8-be7e1717ebac",
     "blog-posts"
   ]
 }
