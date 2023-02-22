@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "739f7993-7b74-465a-8aa7-fc8dcb6ffbe1": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/50-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Prints charming<\/strong><\/p><p>The aptly named “Enigmatic Blanket” from Hermès is our ultimate splurge-worthy blanket. This fun jacquard woven wool and cashmere blanket is not just elegant. It’s seriously warm. We’re telling ourselves it’s like two blankets for the price of one, as it’s reversible. Hey, whatever it takes, right?<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "739f7993-7b74-465a-8aa7-fc8dcb6ffbe1",
     "main",
     "blog-posts"
   ]
