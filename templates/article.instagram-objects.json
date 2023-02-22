@@ -127,6 +127,23 @@
         "text-over-image-width": "full-width"
       }
     },
+    "df23d901-bed1-4184-9017-aec90dd3effe": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Soufflerie-Clear-Tetes-768x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Soufflerie Clear Tetes",
+        "text_block": "<p>£30<\/p><p>The verre tête is molded in the likeness of one of la Soufflerie founders', Sebastien. Some of the many uses for him are as a vase, pencil holder, sugar cube holder or our favorite… cocktail glass!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -152,6 +169,7 @@
     "979bd4f3-be5f-4f58-95d1-f5be00660d9c",
     "cf8ec843-a339-468d-862e-885229493590",
     "ca7fa27b-ed28-4f0d-8265-5c6b7cf9b5b6",
+    "df23d901-bed1-4184-9017-aec90dd3effe",
     "blog-posts"
   ]
 }
