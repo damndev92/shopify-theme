@@ -3,7 +3,7 @@
     "d62e7fcd-5a1b-443d-94b5-b91f85e2246e": {
       "type": "image--image-with-text-overlay",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Destination_Cover.jpg",
+        "image": "shopify:\/\/shop_images\/Destination_Cover_2.jpg",
         "subheading": "Shop",
         "title": "FLANEUR DESTINATIONS",
         "text": "",
@@ -82,11 +82,51 @@
         "button_label": ""
       }
     },
+    "d73f85ed-891b-4008-968c-45dcf7c6483d": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17647682617659__d73f85ed-891b-4008-968c-45dcf7c6483d-16770724546a03c30d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/49-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17647682617659__d73f85ed-891b-4008-968c-45dcf7c6483d-16770724546a03c30d-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17647682617659__d73f85ed-891b-4008-968c-45dcf7c6483d-16770724546a03c30d-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17647682617659__d73f85ed-891b-4008-968c-45dcf7c6483d-16770724546a03c30d-0",
+        "template--17647682617659__d73f85ed-891b-4008-968c-45dcf7c6483d-16770724546a03c30d-1",
+        "template--17647682617659__d73f85ed-891b-4008-968c-45dcf7c6483d-16770724546a03c30d-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "f6c881ac-dc87-4e8e-9805-112024559187": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "light",
-        "image-width": "medium",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/hotel_pacai_a0fd9386-281a-40b9-976e-1d39846f0942.png",
         "layout": "right",
         "subheading": "Vilnius, Lithuania",
@@ -336,6 +376,48 @@
         "hotel_page_url": false,
         "button_label": "Shop now"
       }
+    },
+    "a4901e85-5926-495b-b677-dba244096ac4": {
+      "type": "collection--collection-list",
+      "blocks": {
+        "template--17647682617659__a4901e85-5926-495b-b677-dba244096ac4-1677072828973d76b9-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--17647682617659__a4901e85-5926-495b-b677-dba244096ac4-1677072828973d76b9-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--17647682617659__a4901e85-5926-495b-b677-dba244096ac4-1677072828973d76b9-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17647682617659__a4901e85-5926-495b-b677-dba244096ac4-1677072828973d76b9-0",
+        "template--17647682617659__a4901e85-5926-495b-b677-dba244096ac4-1677072828973d76b9-1",
+        "template--17647682617659__a4901e85-5926-495b-b677-dba244096ac4-1677072828973d76b9-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "fee00b26-fbe6-48f3-97cc-8fd38c3491f0": {
+      "type": "maison-collection-list",
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "",
+        "collection_type": "brand"
+      }
     }
   },
   "order": [
@@ -343,6 +425,7 @@
     "730cb955-139a-4f93-b0a7-b6fd069298ff",
     "main",
     "c35cb3a3-9d02-4ac9-b2c0-a693b37407cb",
+    "d73f85ed-891b-4008-968c-45dcf7c6483d",
     "f6c881ac-dc87-4e8e-9805-112024559187",
     "e9d5d500-d14c-42d6-a3b2-b65e5bebe1c2",
     "a39961e1-0610-40bc-8408-a75193b96566",
@@ -357,6 +440,8 @@
     "24c6cfa0-a77c-4818-a5f4-de5eccd7ee66",
     "d4f655a9-419c-473d-8e8b-d321a9146487",
     "7f797c51-95d1-424c-acd0-9b48445b8a13",
-    "f0e99813-ab7b-48a5-8bf2-b924d79f9e1d"
+    "f0e99813-ab7b-48a5-8bf2-b924d79f9e1d",
+    "a4901e85-5926-495b-b677-dba244096ac4",
+    "fee00b26-fbe6-48f3-97cc-8fd38c3491f0"
   ]
 }
