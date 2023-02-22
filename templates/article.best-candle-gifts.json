@@ -96,6 +96,23 @@
         "button_label": ""
       }
     },
+    "a8c0efc3-610b-4de1-93a9-a433466ef5ce": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/7-4-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "4. Eym + Lucy Williams Candles",
+        "text_block": "<p>Anyone who loves interiors as much as we do and has an Instagram has probably stumbled across Lucy Williams’ amazing interiors account. She documented her inspiring renovation as she went along and eventually became a bit of an interiors guru herself. Now, she’s partnered with the 100% natural Eym to create a collection of striking candles in refillable Murano glass. We’re particularly fond of the Eden candle, as we find that the balance of cedarwood, ginger, neroli and violet leaf is perfect for the season.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -130,6 +147,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "4eaea60d-1b72-4bb0-b6ec-3301a17a3aab",
+    "a8c0efc3-610b-4de1-93a9-a433466ef5ce",
     "main",
     "blog-posts"
   ]
