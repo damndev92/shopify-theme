@@ -198,6 +198,23 @@
         "button_label": ""
       }
     },
+    "3023e0bb-61b6-41b6-b021-b2f2435f4a71": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Joey-Spot-Table-Lamp-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "10. The Joey Spot Table Lamp",
+        "text_block": "<p>Tiny but mighty, this diminutive metal table lamp is perfect for tucking away in dark corners.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -238,6 +255,7 @@
     "f1a8b841-ac31-4604-8a44-2ff2691b85f5",
     "b4af8c2b-3a98-48fb-94f0-197312750b05",
     "af83366c-3913-4474-9d74-5cd7bd850e43",
+    "3023e0bb-61b6-41b6-b021-b2f2435f4a71",
     "main",
     "blog-posts"
   ]
