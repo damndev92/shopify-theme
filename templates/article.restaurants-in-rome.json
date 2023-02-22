@@ -55,6 +55,38 @@
         "title": ""
       }
     },
+    "5e638ac4-8169-435d-9f86-ede0790a4446": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18086577996091__5e638ac4-8169-435d-9f86-ede0790a4446-1677078093d5c0ef85-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4-4-1024x1024_b7ca9e3b-099c-4ab9-ab62-0303f852c5f8.png",
+            "link": "",
+            "title": "",
+            "description": "<p><a href=\"https:\/\/www.ristorantepiperno.it\/\">Ristorante Piperno<\/a><\/p>"
+          }
+        },
+        "template--18086577996091__5e638ac4-8169-435d-9f86-ede0790a4446-1677078093d5c0ef85-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3-4-1024x1024_82c62326-bb61-48f0-9e32-d03ef1278072.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18086577996091__5e638ac4-8169-435d-9f86-ede0790a4446-1677078093d5c0ef85-1",
+        "template--18086577996091__5e638ac4-8169-435d-9f86-ede0790a4446-1677078093d5c0ef85-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
@@ -120,6 +152,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "835fd6ad-802f-48cd-82c9-025e6bcb860e",
+    "5e638ac4-8169-435d-9f86-ede0790a4446",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
