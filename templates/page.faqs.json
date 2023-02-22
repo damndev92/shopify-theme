@@ -50,18 +50,18 @@
             "text": "<p>Accidents happen! If your order arrived damaged, notify us by emailing hello@maisonflaneur.com withing 24h of receiving your order, please include pictures of the damage, this will enable us to open a claim with our carriers. <\/p>"
           }
         },
+        "8a0252fb-af64-40cc-a79a-006c05dd73da": {
+          "type": "tab_content",
+          "settings": {
+            "question": "DO YOU OFFER RETURNS?",
+            "text": "<p>Most of our brands offer a 14 day return period. Please note that made to order products ar not eligible  Make sure to check the return policy of each product.<\/p>"
+          }
+        },
         "accordion-0-4": {
           "type": "tab_content",
           "settings": {
             "question": "MY ORDER IS A PRESENT, PLEASE MAY I HAVE IT GIFT WRAPPED?",
             "text": "<p>Hello! As our some of our orders are shipped by our brand partners we can't guarantee this, but of course if you drop a line to hello@maisonflaneur.com we will do our very very best! <\/p>"
-          }
-        },
-        "8a0252fb-af64-40cc-a79a-006c05dd73da": {
-          "type": "tab_content",
-          "settings": {
-            "question": "DO YOU OFFER RETURNS? PLEASE MAY I RETURN MY ORDER?",
-            "text": "<p>If your order arrives damaged, of course we will endeavour to resolve this asap. To take the stress out of ordering, we do also offer returns on most pieces (Some of our pieces are, however, custom made to your specifications. In this case please refer to our Terms + Conditions for more information).<\/p>"
           }
         },
         "8e22cb5e-23e5-4293-8b6d-d0755540a09b": {
@@ -104,8 +104,8 @@
         "accordion-0-0",
         "accordion-0-3",
         "accordion-0-2",
-        "accordion-0-4",
         "8a0252fb-af64-40cc-a79a-006c05dd73da",
+        "accordion-0-4",
         "8e22cb5e-23e5-4293-8b6d-d0755540a09b",
         "5159c877-e85f-43eb-ad81-54698ff52eb6",
         "fe8be152-1216-4d86-aad2-ae35b5cdf891",
