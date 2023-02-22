@@ -113,6 +113,23 @@
         "button_label": ""
       }
     },
+    "afaf847c-41d8-4b4e-a102-db3f932f3ab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/cANDLE-products-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "5. “Baby, Won’t You Light My Body?” Ceramic Candle",
+        "text_block": "<p>A mouthful for sure but one we could get behind saying more often. This quirky, feminine ceramic candleholder begins life as a beautiful candle that burns for 110 hours. After she melts her way down, she becomes the perfect place to arrange flowers, serves as a great addition to any shelf or even works as the ideal spot for tucking away spare tapers. She’ll never feel like an old flame.<\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -148,6 +165,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "4eaea60d-1b72-4bb0-b6ec-3301a17a3aab",
     "a8c0efc3-610b-4de1-93a9-a433466ef5ce",
+    "afaf847c-41d8-4b4e-a102-db3f932f3ab2",
     "main",
     "blog-posts"
   ]
