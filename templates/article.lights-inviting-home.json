@@ -147,6 +147,23 @@
         "button_label": ""
       }
     },
+    "f1a8b841-ac31-4604-8a44-2ff2691b85f5": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Miller-Floor-Lamp-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "7. The Miller Floor Lamp",
+        "text_block": "<p>Overhead lights be damned! We’d like to set the scene in our living room with a few strategically placed Miller Floor Lamps. The lacquered metal is mega cool in a minimal space.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -184,6 +201,7 @@
     "908972dd-fcbe-4993-8de4-bf2425bf4ae5",
     "cace5010-dbea-4430-9f71-c9096d79a431",
     "4c297ada-ecfe-4cb6-b857-74daa506b438",
+    "f1a8b841-ac31-4604-8a44-2ff2691b85f5",
     "main",
     "blog-posts"
   ]
