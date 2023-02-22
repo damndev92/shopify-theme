@@ -61,7 +61,7 @@
           "type": "tab_content",
           "settings": {
             "question": "MY ORDER IS A PRESENT, PLEASE MAY I HAVE IT GIFT WRAPPED?",
-            "text": "<p>Hello! As our some of our orders are shipped by our brand partners we can't guarantee this, but of course if you drop a line to hello@maisonflaneur.com we will do our very very best! <\/p>"
+            "text": "<p>As our some of our orders are shipped by our brand partners we can't guarantee this, but of course if you drop a line to hello@maisonflaneur.com we will do our very very best! <\/p>"
           }
         },
         "8e22cb5e-23e5-4293-8b6d-d0755540a09b": {
@@ -116,51 +116,6 @@
         "background-color": "#ffffff",
         "text-color": "#656565",
         "title": "Shipping & Returns",
-        "faq_icon": "plus_minus"
-      }
-    },
-    "accordion-1": {
-      "type": "accordion",
-      "blocks": {
-        "accordion-1-1": {
-          "type": "tab_content",
-          "settings": {
-            "question": "WHO ARE THE REAL LIFE FLÂNEURS BEHIND MAISON FLÂNEUR?",
-            "text": "<p>Maison Flâneur was founded by Dionas Sotiriou in 2018 to allow his fellow Flâneurs to bring their global travel experiences and memories back home with them. He was joined on his journey that same year by passionate storyteller Marie Winckler. Together, their shared love of travelling and interior design led them to create an online destination for those looking for homeware products straight out of the world’s most thoughtfully curated designer hotels across the globe. <\/p>"
-          }
-        },
-        "accordion-1-0": {
-          "type": "tab_content",
-          "settings": {
-            "question": "HOW DO YOU SOURCE YOUR UNIQUE PIECES?",
-            "text": "<p>It would not be an exagerration to say that here at Maison Flâneur we scour the world in search of the coolest brands and hottest boutique hotels which let us transport you to far flung destinations and let you make your home a wonderous abode. (How we choose idividual pieces? Well that mes amis, is a trade secret!)<\/p>"
-          }
-        },
-        "accordion-1-2": {
-          "type": "tab_content",
-          "settings": {
-            "question": "DO YOU HAVE ANY PHYSICAL STORES TOO?",
-            "text": "<p>Here at Maison Flâneur there is nothing we love more than connecting with our like-minded community of global tastemakers and letting you try out our products IRL - we pop-up in different fun locations throughout the year to do this! Please do subscribe to our newsletter &lcub;link&rcub; and follow us on @maison_flaneur for more info....<\/p>"
-          }
-        },
-        "accordion-1-3": {
-          "type": "tab_content",
-          "settings": {
-            "question": "WHAT IS YOUR POLICY ON SUSTAINABILITY & THE ENVIRONMENT?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "accordion-1-1",
-        "accordion-1-0",
-        "accordion-1-2",
-        "accordion-1-3"
-      ],
-      "settings": {
-        "background-color": "#ffffff",
-        "text-color": "#656565",
-        "title": "Questions about  Maison Flâneur",
         "faq_icon": "plus_minus"
       }
     },
@@ -235,13 +190,6 @@
             "text": "<p>Avec Plaisir! Please reach out to us on hello@maisonflaneur.com and we will, of course, do our absolute best to help you!<\/p>"
           }
         },
-        "7df9b99d-cda8-442d-af9f-e56680e2d93f": {
-          "type": "tab_content",
-          "settings": {
-            "question": "I NEED HELP SUPER URGENTLY ON SOMETHING. HOW DO I REACH YOU?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
-          }
-        },
         "c2c38306-d068-4d75-9ff7-e21dd3054627": {
           "type": "tab_content",
           "settings": {
@@ -252,7 +200,6 @@
       },
       "block_order": [
         "6f795d89-19b3-4678-8eff-8c42d9004538",
-        "7df9b99d-cda8-442d-af9f-e56680e2d93f",
         "c2c38306-d068-4d75-9ff7-e21dd3054627"
       ],
       "settings": {
@@ -276,7 +223,6 @@
     "main",
     "ef82f3cb-1cbc-4a9b-98d2-28411626f317",
     "accordion-0",
-    "accordion-1",
     "accordion-2",
     "fbf33ed3-fbd6-4e6f-b349-dd8ade493d78",
     "social-media-icons"
