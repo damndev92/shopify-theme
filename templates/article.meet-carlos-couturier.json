@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Meet Carlos Couturier, Co-founder of Grupo Habita",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet Carlos Couturier, Co-founder of Grupo Habita, Mexico City",
         "title": "",
         "text": "<p>Carlos Couturier is the “visionary” behind Grupo Habita – the famous Mexican hotel group. With an ability to sense the potential in an idea that is still a seedling, Carlos, alongside his partners, has revolutionized the concept of boutique hotels in Mexico. We sit down to talk about what makes a great hotelier, the signs to identify the next “destination” and his vision.<\/p>",
         "button_link": "",
@@ -91,46 +91,38 @@
         "button_label": ""
       }
     },
-    "7ec9ad06-7edb-4172-ba0c-0d0b0ff9adc1": {
-      "type": "image--gallery",
+    "4d3364a9-9bc2-408b-be82-8f7166beda45": {
+      "type": "collection--featured-collection",
       "blocks": {
-        "template--17937602707771__7ec9ad06-7edb-4172-ba0c-0d0b0ff9adc1-1675957496cf23f6b2-0": {
-          "type": "image",
+        "template--17937602707771__4d3364a9-9bc2-408b-be82-8f7166beda45-1677009039faa48c96-0": {
+          "type": "grid-card-title",
           "settings": {
-            "image": "shopify:\/\/shop_images\/High-Wooden-Coat-Rack-1024x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>High Wooden Coat Rack<\/p><p>£888<\/p>"
           }
         },
-        "template--17937602707771__7ec9ad06-7edb-4172-ba0c-0d0b0ff9adc1-1675957496cf23f6b2-1": {
-          "type": "image",
+        "template--17937602707771__4d3364a9-9bc2-408b-be82-8f7166beda45-1677009039faa48c96-1": {
+          "type": "grid-card-price",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Set-of-1784-Collection-Wooden-Chair-and-Stool-1024x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>1784 Collection Wooden Stool<\/p><p>£533<\/p>"
           }
         },
-        "template--17937602707771__7ec9ad06-7edb-4172-ba0c-0d0b0ff9adc1-1675957496cf23f6b2-2": {
-          "type": "image",
+        "template--17937602707771__4d3364a9-9bc2-408b-be82-8f7166beda45-1677009039faa48c96-2": {
+          "type": "grid-card-swatches",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1784-Wooden-Chair-with-Polypropylene-Fabric-1024x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>1784 Wooden Chair with Polypropylene Fabric<\/p><p>£641<\/p>"
           }
         }
       },
       "block_order": [
-        "template--17937602707771__7ec9ad06-7edb-4172-ba0c-0d0b0ff9adc1-1675957496cf23f6b2-0",
-        "template--17937602707771__7ec9ad06-7edb-4172-ba0c-0d0b0ff9adc1-1675957496cf23f6b2-1",
-        "template--17937602707771__7ec9ad06-7edb-4172-ba0c-0d0b0ff9adc1-1675957496cf23f6b2-2"
+        "template--17937602707771__4d3364a9-9bc2-408b-be82-8f7166beda45-1677009039faa48c96-0",
+        "template--17937602707771__4d3364a9-9bc2-408b-be82-8f7166beda45-1677009039faa48c96-1",
+        "template--17937602707771__4d3364a9-9bc2-408b-be82-8f7166beda45-1677009039faa48c96-2"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "",
-        "title": ""
+        "subheading": "SHOP",
+        "title": "GRUPO HABITA'S COLLECTION",
+        "collection": "circulo-mexicano",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -167,7 +159,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "542fedff-77b4-46a5-9979-d244f4e16ff2",
     "7192b16d-694d-402a-93f3-ceba9dac7bc0",
-    "7ec9ad06-7edb-4172-ba0c-0d0b0ff9adc1",
+    "4d3364a9-9bc2-408b-be82-8f7166beda45",
     "main",
     "blog-posts"
   ]
