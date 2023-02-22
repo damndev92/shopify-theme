@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/pampa-cocktail-white-4-1024x683.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-02-22_at_09.13.00.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,8 +14,8 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
         "page_title": "Meet Camila Salazar-Simpson Erhart del Campo, Studio Erhart, Madrid",
         "title": "",
         "text": "<p>Studio Erhart is a family affair. Mother-daughter duo Mercedes and Camila and Mercede’s sister: Federica. The trio creates beautiful objects of design, inspired by their Argentinian heritage and rooted in their love for Spanish artisans. Classics with a modern twist, they are the perfect safe-bet-statement-piece-you’ll-never-get-tired-of. We sit down with Camila to learn more about Studio Erhart, working with her family, and her tips to decorate your home.<\/p>",
@@ -84,7 +84,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Which is your favorite item from your collection?<\/strong><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/product\/pampa-linen-cushion-white\/\">The Pampa cushions<\/a> featuring natural horn plates were one of the first products we designed and they are still my favourite! They uplift even the dullest sofa!<\/p><p><strong>Can you tell us about the artisans you work with, in Spain?<\/strong><\/p><p>Working with artisans is by far the best part of this journey. Their personal stories, how they acquired their skills from their fathers and grandfathers, the pride they take in their work is something wonderful to be part of. By working with skilled locals to whom we pay fair wages, we are proud to make a meaningful contribution to their economies and lives, while pursuing our environmental, social and economic sustainability goals.<\/p><p><strong>In what way do you think the pandemic is influencing the way people see their homes? <\/strong><\/p><p>In a country like Spain where people spend more time outside that at home, due to the difficult circumstances, we have been forced to stay inside for large periods of time. I believe that many people have started to realize the importance of being at ease at with their surroundings and have their interior reflect, more than ever, their tastes and personality. Moreover, with most restaurants closed, we have seen a sort of table-setting fever which has been, during the entire confinement, a source of great inspiration. <\/p>",
+        "text_block": "<p><strong>Which is your favorite item from your collection?<\/strong><\/p><p>The Pampa cushions featuring natural horn plates were one of the first products we designed and they are still my favourite! They uplift even the dullest sofa!<\/p><p><strong>Can you tell us about the artisans you work with, in Spain?<\/strong><\/p><p>Working with artisans is by far the best part of this journey. Their personal stories, how they acquired their skills from their fathers and grandfathers, the pride they take in their work is something wonderful to be part of. By working with skilled locals to whom we pay fair wages, we are proud to make a meaningful contribution to their economies and lives, while pursuing our environmental, social and economic sustainability goals.<\/p><p><strong>In what way do you think the pandemic is influencing the way people see their homes? <\/strong><\/p><p>In a country like Spain where people spend more time outside that at home, due to the difficult circumstances, we have been forced to stay inside for large periods of time. I believe that many people have started to realize the importance of being at ease at with their surroundings and have their interior reflect, more than ever, their tastes and personality. Moreover, with most restaurants closed, we have seen a sort of table-setting fever which has been, during the entire confinement, a source of great inspiration. <\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
