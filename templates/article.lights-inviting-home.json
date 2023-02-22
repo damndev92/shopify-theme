@@ -79,6 +79,23 @@
         "button_label": ""
       }
     },
+    "3da69535-ab6b-450b-9f3e-058340d7797f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Lektor-Floor-Lamp-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "3. The Lektor Floor Lamp",
+        "text_block": "<p>Simple, sure, but there’s so much more to this slender lacquered floor lamp than meets the eye. We recommend getting a pair for good measure.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -112,6 +129,7 @@
     "c8b36deb-5db9-4322-ba94-68dfc1bf157f",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "3da69535-ab6b-450b-9f3e-058340d7797f",
     "main",
     "blog-posts"
   ]
