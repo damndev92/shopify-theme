@@ -15,7 +15,7 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "The Flâneurs",
         "page_title": "",
         "title": "Meet Alexandre Assouline, Assouline Publishing, New-York",
         "text": "<p>Alexandre Assouline, 28, is a creative library designer at his family’s luxury publishing company: Assouline. The aim of their travel books is to show the essence of a  destination, evoking emotions, and providing insider informations. We sit down with the young fogey to hear more about his perfect library, his favourite object, his interior design taste, and why he never thought of bringing something home from a hotel.<\/p>",
@@ -121,40 +121,6 @@
         "button_label": ""
       }
     },
-    "ba76f9a6-306f-40ac-a89c-370e82db8d7f": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/capri_flatA_Updated_4.23.19_2048x-1024x1024.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "Capri Dolce Vita",
-        "text_block": "<p>£70<\/p><p>Capri, a resort island dating back to the height of the Roman Empire, has long been an extraordinary destination full of ancient charm. Cherished by everyone from physician Axel Munthe, who recommended its clean air to his patients as a cure for bronchitis; to film director Jean-Luc Godard as the setting for his 1963 film Contempt; to literary icons, celebrities, poets, and the jet set, Capri boasts a rich Mediterranean spirit and style that encompasses a wealth of beauty, from gardens to villas to caves to the people walking in the lively Piazzetta, where cars are prohibited and the island’s playful attitude runs rampant. <em>Capri Dolce Vita<\/em> is a look at this fabled corner of the world through the ages and a celebration of paradise on earth.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "0b355ace-a82b-4802-afaf-47954eb4937c": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Maison-Flaneur-Assouline6-1024x1022.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "The Assouline Travel Collection",
-        "text_block": "<p>£450<\/p><p>The ultimate collection of coffee table books - includes:<\/p><ul><li>Mykonos Muse<\/li><li>Athens Riviera<\/li><li>Palm Beach<\/li><li>Tulum Gypset<\/li><li>Capri Dolce Vita<\/li><li>St. Tropez Soleil<\/li><li>Turquoise Coast<\/li><\/ul>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -178,8 +144,6 @@
     "91c94ed6-3a42-4d8e-921c-77fc25a10241",
     "cc0afe7e-d551-4d29-9a9e-22c0aebc3ba2",
     "c028d11c-2aff-49c2-ab8a-a25bc8203c16",
-    "ba76f9a6-306f-40ac-a89c-370e82db8d7f",
-    "0b355ace-a82b-4802-afaf-47954eb4937c",
     "blog-posts"
   ]
 }

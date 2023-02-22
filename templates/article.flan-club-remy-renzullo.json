@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Flân’ Club: Meet Remy Renzullo, Decorator, Nyc",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet Remy Renzullo, Decorator, New York City",
         "title": "",
         "text": "<p>Remy Renzullo is the rising star American decorator everyone is talking about. A decorator with a “soft spot for aristocratic interiors” mentions Architectural Digest; With an interior like “a mesmerizing story from an archive issue of <em>The World of Interiors,” says <\/em>Vogue America; And a “cult-like” Instagram according to Tatler. There is something exceptional about Remy’s work.  Remy started building a strong sense of style and taste, thanks to “the endless inspiration” of his childhood home in Connecticut. His mother, an interior designer, influenced his taste and gave him a particular incline for English interiors. The “English do unfussy better than anybody,” he says with a smile.  We invite you to step into his world, an homage to the great interior design, tinged with romantic nostalgia, for homes that go beyond trends but anchors themselves in history. We sit down to discuss the source of his inspiration, his favourite addresses, and why the answers are in books.  <\/p><p>Picture by Ryan Lowry.<\/p>",
         "button_link": "",
@@ -33,7 +33,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>How would you describe your apartment in one word?<\/strong><br\/>Unfinished <\/p><p><strong>Tell us three things people might not know about you? <\/strong><br\/>I originally wanted to study Middle Eastern history and become a diplomat. <\/p><p>I hate eating in restaurants. <\/p><p>I can’t drive a car. <\/p><p><strong>What makes a home in one word?<\/strong><br\/>Warmth<\/p><p><strong>How would you describe your taste in one word?<\/strong><br\/>Layered<\/p><p><strong>Where do you think your interest in interior came from? <\/strong><br\/>My childhood home was a world of endless inspiration. <\/p><p><strong>Define bad taste in interiors?<\/strong><br\/>Trying too hard<\/p>",
+        "text_block": "<p><strong>How would you describe your apartment in one word?<\/strong><br\/>Unfinished. <\/p><p><strong>Tell us three things people might not know about you? <\/strong><br\/>I originally wanted to study Middle Eastern history and become a diplomat. <\/p><p>I hate eating in restaurants. <\/p><p>I can’t drive a car. <\/p><p><strong>What makes a home in one word?<\/strong><br\/>Warmth.<\/p><p><strong>How would you describe your taste in one word?<\/strong><br\/>Layered.<\/p><p><strong>Where do you think your interest in interior came from? <\/strong><br\/>My childhood home was a world of endless inspiration. <\/p><p><strong>Define bad taste in interiors?<\/strong><br\/>Trying too hard.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -87,48 +87,6 @@
         "show_recent_posts": false
       }
     },
-    "22ab106c-4662-46c2-807a-bb58d4960e76": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17911718838587__22ab106c-4662-46c2-807a-bb58d4960e76-16757778976d95fc05-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled-design-50-1024x863.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Red\/Pink Sacred Nile Placemat<\/p><p>£25<\/p>"
-          }
-        },
-        "template--17911718838587__22ab106c-4662-46c2-807a-bb58d4960e76-16757778976d95fc05-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/saucer-redjpg_720x-1.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Red Zigzag Bistro Saucer<\/p><p>£19<\/p>"
-          }
-        },
-        "template--17911718838587__22ab106c-4662-46c2-807a-bb58d4960e76-16757778976d95fc05-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/candle-product-pics-5-1024x1024.png",
-            "link": "",
-            "title": "",
-            "description": "<p>La Terre – Elemental Candle Collection<\/p><p>£35<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17911718838587__22ab106c-4662-46c2-807a-bb58d4960e76-16757778976d95fc05-0",
-        "template--17911718838587__22ab106c-4662-46c2-807a-bb58d4960e76-16757778976d95fc05-1",
-        "template--17911718838587__22ab106c-4662-46c2-807a-bb58d4960e76-16757778976d95fc05-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "Shop the Look"
-      }
-    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -150,7 +108,6 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "402b01ae-4a35-4619-a679-98446401fe7c",
     "main",
-    "22ab106c-4662-46c2-807a-bb58d4960e76",
     "blog-posts"
   ]
 }

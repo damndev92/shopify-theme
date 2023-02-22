@@ -15,7 +15,7 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "DESIGN HUB",
         "page_title": "How It’s Made: Feldspar",
         "title": "",
         "text": "<p>After moving to Devon seven years ago, Cath and Jeremy Brown did something unexpected – they bought a pottery wheel. Though the pair had always been incredibly choosey about what they bring into their home, picking only special pieces or items with sentimental value, they weren’t quite as selective when it came to their work.<\/p><p>Jeremy and Cath were frustrated in their careers. They had to make compromises they didn’t want to make and felt unfulfilled. But once they made that move down to Devon – and once that pottery wheel showed up – things started to change. Always preferring to make something rather than buy it, the pair started to really create, to fill their home with want would turn out to be the very first <a href=\"https:\/\/www.maisonflaneur.com\/brand\/feldspar\/\">Feldspar<\/a> pieces.<\/p>",
@@ -57,6 +57,40 @@
         "button_label": ""
       }
     },
+    "aaafd56c-b437-4c79-b0d2-c46abb917404": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18030511685947__aaafd56c-b437-4c79-b0d2-c46abb917404-16769987716de6113f-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18030511685947__aaafd56c-b437-4c79-b0d2-c46abb917404-16769987716de6113f-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18030511685947__aaafd56c-b437-4c79-b0d2-c46abb917404-16769987716de6113f-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18030511685947__aaafd56c-b437-4c79-b0d2-c46abb917404-16769987716de6113f-0",
+        "template--18030511685947__aaafd56c-b437-4c79-b0d2-c46abb917404-16769987716de6113f-1",
+        "template--18030511685947__aaafd56c-b437-4c79-b0d2-c46abb917404-16769987716de6113f-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Feldpsar, DEVON UK",
+        "title": "Discover the Collection",
+        "collection": "feldspar",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -68,48 +102,6 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
-      }
-    },
-    "23b46059-ca4c-46aa-9d88-059ecc274003": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--18030511685947__23b46059-ca4c-46aa-9d88-059ecc274003-1676646878eea4f872-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Cobalt-Butter-Dish.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Cobalt Butter Dish<\/p><p>£65<\/p>"
-          }
-        },
-        "template--18030511685947__23b46059-ca4c-46aa-9d88-059ecc274003-1676646878eea4f872-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Cobalt-Cafetiere_9729a961-f043-45a9-bc49-8c587d802cd1.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Cobalt Cafetiere Large<\/p><p>£175<\/p>"
-          }
-        },
-        "template--18030511685947__23b46059-ca4c-46aa-9d88-059ecc274003-1676646878eea4f872-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Gold-Stem-Vase.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Gold Stem Vase<\/p><p>£150<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18030511685947__23b46059-ca4c-46aa-9d88-059ecc274003-1676646878eea4f872-0",
-        "template--18030511685947__23b46059-ca4c-46aa-9d88-059ecc274003-1676646878eea4f872-1",
-        "template--18030511685947__23b46059-ca4c-46aa-9d88-059ecc274003-1676646878eea4f872-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
       }
     },
     "blog-posts": {
@@ -131,8 +123,8 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "aaafd56c-b437-4c79-b0d2-c46abb917404",
     "main",
-    "23b46059-ca4c-46aa-9d88-059ecc274003",
     "blog-posts"
   ]
 }

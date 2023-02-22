@@ -15,8 +15,8 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
-        "page_title": "Make yourself at home: Trunk (Hotel), Tokyo",
+        "subheading": "MAKE YOURSELF AT HOME",
+        "page_title": "Trunk Hotel, Tokyo",
         "title": "",
         "text": "<p>A striking, architecturally impressive hotel in the middle of one of Tokyo’s coolest neighbourhoods – it’s no wonder that Trunk (Hotel)’s as much a meeting point for young creatives as it is a place to stay when you’re visiting the city. Find out why it’s next on our must-visit list.<\/p>",
         "button_link": "",
@@ -31,10 +31,12 @@
         "image": "shopify:\/\/shop_images\/Trunk-hotel-outside-1024x731.jpg",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "",
         "text_block": "<p><strong>What makes Trunk (Hotel) Tokyo, so special?<\/strong><\/p><p>Heard the phrase ‘a lifestyle, not a destination’? It could be Trunk (Hotel)’s unofficial mantra. You’ll find this minimal yet architecturally impressive hotel between Shibuya and Harajuku, some of Tokyo’s most hip areas. And you won’t be able to miss it – it’s constructed from black steel, stone and glass, with sharp angles giving it a modern aesthetic.<\/p><p><\/p><p><\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -46,10 +48,12 @@
         "image": "shopify:\/\/shop_images\/TrunkCover.jpg",
         "layout": "left",
         "subheading": "",
+        "location": false,
         "title": "",
-        "text_block": "<p><strong>What to expect when staying at Trunk (Hotel), Tokyo?<\/strong><\/p><p>Trunk (Hotel)’s look and location are part of the reason it attracts a creative crowd, along with its 15 playful rooms – some of which are filled with cool tech like record players and projectors. They all have a Japanese-inspired decor style, including low-slung beds and neutral tones – with a more modern, sleeker twist. Think lots of black-framed glass showcasing city views. <\/p><p><strong>Maison Flâneur recommends<br\/><\/strong><\/p><p>Trunk (Hotel)’s been designed with socialising in mind, so the open lobby café bar is a great meeting point – serving artisan coffee as well as cocktails. But for something more substantial, head to the hotel’s restaurant: Trunk (Kitchen). Here you’ll find local takes on international dishes, including burrata that’s handmade in a nearby shop in Shibuya. When you head out, you’ll find plenty to do in the surrounding neighbourhood – from relaxing in Yoyogi Park to visiting the many bars and restaurants on Nonbei Yokocho. <\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/trunk-hotel\/\">Shop the full collection<\/a><\/p><p><\/p>",
+        "text_block": "<p><strong>What to expect when staying at Trunk (Hotel), Tokyo?<\/strong><\/p><p>Trunk (Hotel)’s look and location are part of the reason it attracts a creative crowd, along with its 15 playful rooms – some of which are filled with cool tech like record players and projectors. They all have a Japanese-inspired decor style, including low-slung beds and neutral tones – with a more modern, sleeker twist. Think lots of black-framed glass showcasing city views. <\/p><p><strong>Maison Flâneur recommends<br\/><\/strong><\/p><p>Trunk (Hotel)’s been designed with socialising in mind, so the open lobby café bar is a great meeting point – serving artisan coffee as well as cocktails. But for something more substantial, head to the hotel’s restaurant: Trunk (Kitchen). Here you’ll find local takes on international dishes, including burrata that’s handmade in a nearby shop in Shibuya. When you head out, you’ll find plenty to do in the surrounding neighbourhood – from relaxing in Yoyogi Park to visiting the many bars and restaurants on Nonbei Yokocho. <\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -62,7 +66,7 @@
             "image": "shopify:\/\/shop_images\/Trunk-Fan-White-Black.jpg",
             "link": "",
             "title": "",
-            "description": "<p>TRUNK(HOTEL) Japanese Fan<\/p><p>From £28<\/p>"
+            "description": "<p>TRUNK(HOTEL) Japanese Fan<\/p>"
           }
         },
         "template--17836315246907__ef9759cd-bca9-4d5a-a17f-a3344459ce4b-16752435039426166d-1": {
@@ -71,7 +75,7 @@
             "image": "shopify:\/\/shop_images\/Trunk-Flip-Flops-1024x1024.jpg",
             "link": "",
             "title": "",
-            "description": "<p>TRUNK (HOTEL) Flip-Flops<\/p><p>From £18<\/p>"
+            "description": "<p>TRUNK (HOTEL) Flip-Flops<\/p>"
           }
         },
         "template--17836315246907__ef9759cd-bca9-4d5a-a17f-a3344459ce4b-16752435039426166d-2": {
@@ -80,7 +84,7 @@
             "image": "shopify:\/\/shop_images\/Trunk-Folding-Umbrella.jpg",
             "link": "",
             "title": "",
-            "description": "<p>Trunk Folding Umbrella<\/p><p>£26<\/p>"
+            "description": "<p>Trunk Folding Umbrella<\/p>"
           }
         }
       },

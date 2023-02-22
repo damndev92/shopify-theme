@@ -1,0 +1,202 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hotelpacai-vilnus-lithuania-europe-rooms-jpg-1024x512.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "Travel guide",
+        "page_title": "Vilnius by Hotel Pacai",
+        "title": "",
+        "text": "<p>Discover the ultimate insider guide to Vilnius. Let Rüta Pulkauninkaité-Maciké from Hotel Pacai take you on a tour of her favourite spots in the city. We’ve selected locations depending on who you are with. Start at the Hotel Pacai and then whether with friends, family, or on a romantic date, pick the perfect location for you in Vilnius.<\/p><p><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2022-02-03-at-19.13.59-822x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "1. Hotel Pacai recommends Morning Coffee at:",
+        "text_block": "<p><a href=\"https:\/\/fr.restaurantguru.com\/Backstage-Cafe-Vokieciu-str-Vilnius\">Café Backstage<\/a><\/p><p>Vokiečių g. 6<\/p><p>Vilnius<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/fr.restaurantguru.com\/Backstage-Cafe-Vokieciu-str-Vilnius",
+        "hotel_page_url": false,
+        "button_label": "Book Now"
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2022-02-03-at-19.20.11-824x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "2. Hotel Pacai recommends Lunch Break at:",
+        "text_block": "<p><a href=\"https:\/\/www.instagram.com\/dmv_paupys\/\">Druska Miltai Vanduo<\/a><\/p><p>Geležinkelio g. 3<\/p><p>Vilnius<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.instagram.com\/dmv_paupys\/",
+        "hotel_page_url": false,
+        "button_label": "Book Now"
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "5d8269ac-c782-4ea2-8be0-91bfa888050d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2022-02-03-at-19.25.04-816x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "3. Hotel Pacai recommends Sunset Drink at:",
+        "text_block": "<p><a href=\"https:\/\/www.instagram.com\/residencebarvilnius\/?hl=fr\">Residence Cocktail Bar<\/a><\/p><p>Užupio g. 40<\/p><p>Vilnius<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.instagram.com\/dmv_paupys\/",
+        "hotel_page_url": false,
+        "button_label": "Book Now"
+      }
+    },
+    "18adc2fb-ed70-4bf5-b6b3-ecaa8761493f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2022-02-03-at-19.31.08-811x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "4. Hotel Pacai recommends Date Night at:",
+        "text_block": "<p><a href=\"https:\/\/www.instagram.com\/dziaugsmas.restoranas\/?hl=fr\">Dziaugsmas<\/a><\/p><p>Vilniaus g. 28<\/p><p>Vilnius<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.instagram.com\/dziaugsmas.restoranas\/?hl=fr",
+        "hotel_page_url": false,
+        "button_label": "Book now"
+      }
+    },
+    "d13453fe-4964-403c-9c3c-20ae1c55d37d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2022-02-03-at-19.35.30-821x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "5. Hotel Pacai recommends going With Friends at:",
+        "text_block": "<p><a href=\"https:\/\/www.instagram.com\/pachamamavilnius\/?hl=fr\">Pachamama<\/a><\/p><p>Gedimino pr. 9, 01105<\/p><p>Vilnius<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.instagram.com\/pachamamavilnius\/?hl=fr",
+        "hotel_page_url": false,
+        "button_label": "Book Now"
+      }
+    },
+    "baa6a45f-49a5-4724-a701-093b3af86a7b": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2022-02-03-at-19.37.24-836x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "6. Hotel Pacai recommends going With your Parents at:",
+        "text_block": "<p><a href=\"https:\/\/www.instagram.com\/ertlio_namas\/?hl=fr\">Ertlio Namas<\/a><\/p><p>Šv. Jono g. 7<\/p><p>Vilnius<\/p>",
+        "page_description": false,
+        "button_link": "https:\/\/www.instagram.com\/ertlio_namas\/?hl=fr",
+        "hotel_page_url": false,
+        "button_label": "Book now"
+      }
+    },
+    "9958f23f-7a4e-4b0c-ad84-6d2aad436b07": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18073199083835__9958f23f-7a4e-4b0c-ad84-6d2aad436b07-16769849436ae2dd44-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18073199083835__9958f23f-7a4e-4b0c-ad84-6d2aad436b07-16769849436ae2dd44-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18073199083835__9958f23f-7a4e-4b0c-ad84-6d2aad436b07-16769849436ae2dd44-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18073199083835__9958f23f-7a4e-4b0c-ad84-6d2aad436b07-16769849436ae2dd44-0",
+        "template--18073199083835__9958f23f-7a4e-4b0c-ad84-6d2aad436b07-16769849436ae2dd44-1",
+        "template--18073199083835__9958f23f-7a4e-4b0c-ad84-6d2aad436b07-16769849436ae2dd44-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Hotel Pacai",
+        "title": "Shop the collection",
+        "collection": "hotel-pacai",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "main",
+    "5d8269ac-c782-4ea2-8be0-91bfa888050d",
+    "18adc2fb-ed70-4bf5-b6b3-ecaa8761493f",
+    "d13453fe-4964-403c-9c3c-20ae1c55d37d",
+    "baa6a45f-49a5-4724-a701-093b3af86a7b",
+    "9958f23f-7a4e-4b0c-ad84-6d2aad436b07",
+    "blog-posts"
+  ]
+}

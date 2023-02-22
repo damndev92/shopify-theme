@@ -14,8 +14,8 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
+        "width": "large",
+        "subheading": "DESTINATIONS",
         "page_title": "10 facts about Chetzeron, Switzerland",
         "title": "",
         "text": "<p>Though there are many wonderful hotels and chalets dotted through the Alps, Chetzeron is something special. Stark exteriors are juxtaposed against supremely cosy interiors to create a unique mountain escape.  We’ve gathered our 10 favourite facts from Chetzeron, Switzerland.<\/p>",
@@ -132,6 +132,40 @@
         "title": ""
       }
     },
+    "641bb70a-4b47-4246-9d3e-e98498f8081a": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17851366015291__641bb70a-4b47-4246-9d3e-e98498f8081a-1677009039faa48c96-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17851366015291__641bb70a-4b47-4246-9d3e-e98498f8081a-1677009039faa48c96-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17851366015291__641bb70a-4b47-4246-9d3e-e98498f8081a-1677009039faa48c96-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17851366015291__641bb70a-4b47-4246-9d3e-e98498f8081a-1677009039faa48c96-0",
+        "template--17851366015291__641bb70a-4b47-4246-9d3e-e98498f8081a-1677009039faa48c96-1",
+        "template--17851366015291__641bb70a-4b47-4246-9d3e-e98498f8081a-1677009039faa48c96-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHOP",
+        "title": "THE COLLECTION",
+        "collection": "chetzeron",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -153,6 +187,7 @@
     "454d5586-135c-49d9-a2f5-4ba55029eeb6",
     "5ec2d9ef-d15c-4704-b809-b3a430dd8447",
     "8eb166ab-38e9-4cc3-8908-9ba878425666",
+    "641bb70a-4b47-4246-9d3e-e98498f8081a",
     "blog-posts"
   ]
 }

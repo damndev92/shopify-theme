@@ -1,0 +1,257 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/g-13-inhabit-hotel.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "Travel Guide",
+        "page_title": "Paddington, London by Nadira Lalji from Inhabit Hotel",
+        "title": "",
+        "text": "<p>Discover the ultimate insider guide to Paddington, London. Let Nadira Lalji from Inhabit Hotel take you on a tour of her favourite spots in the city.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "fc665867-5e27-4167-b7d8-4e0394bd2c79": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18072825102651__fc665867-5e27-4167-b7d8-4e0394bd2c79-1676978187cc3c8486-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-5-1024x1024.png",
+            "link": "https:\/\/monocle.com\/film\/edits\/kioskafe-london-launch\/",
+            "title": "",
+            "description": "<p>Kioskafé (Monocle) – 31 Norfolk Pl, Tyburnia, London W2 1QH<\/p>"
+          }
+        },
+        "template--18072825102651__fc665867-5e27-4167-b7d8-4e0394bd2c79-1676978187cc3c8486-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bbb-1-1024x1024.png",
+            "link": "https:\/\/monocle.com\/film\/edits\/kioskafe-london-launch\/",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18072825102651__fc665867-5e27-4167-b7d8-4e0394bd2c79-1676978187cc3c8486-1",
+        "template--18072825102651__fc665867-5e27-4167-b7d8-4e0394bd2c79-1676978187cc3c8486-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "cb46b3e0-61a7-4f22-b5b9-3e40aae1744d": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18072825102651__cb46b3e0-61a7-4f22-b5b9-3e40aae1744d-1676978187cc3c8486-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bbb-2-1-1024x1024.png",
+            "link": "https:\/\/www.yeotown.com\/yeotown-london\/",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18072825102651__cb46b3e0-61a7-4f22-b5b9-3e40aae1744d-1676978187cc3c8486-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2-5-1024x1024_2da720fe-344b-4023-a30e-92777e5d2cf7.png",
+            "link": "https:\/\/www.yeotown.com\/yeotown-london\/",
+            "title": "",
+            "description": "<p>Yeotown Kitchen – 78 Sussex Gardens, Tyburnia, London W2 2RW<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18072825102651__cb46b3e0-61a7-4f22-b5b9-3e40aae1744d-1676978187cc3c8486-0",
+        "template--18072825102651__cb46b3e0-61a7-4f22-b5b9-3e40aae1744d-1676978187cc3c8486-1"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "36ffb694-b864-439c-b9d1-a6de31902c0a": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18072825102651__36ffb694-b864-439c-b9d1-a6de31902c0a-1676978187cc3c8486-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3-6-1024x1024_c77f8ab5-4106-49bd-aa3c-7028cdd71dd3.png",
+            "link": "https:\/\/goboat.co.uk\/",
+            "title": "",
+            "description": "<p>Go Boat – Merchant Square, London W2 1AS<\/p>"
+          }
+        },
+        "template--18072825102651__36ffb694-b864-439c-b9d1-a6de31902c0a-1676978187cc3c8486-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cafe-sao-1-1024x1024.png",
+            "link": "https:\/\/goboat.co.uk\/",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18072825102651__36ffb694-b864-439c-b9d1-a6de31902c0a-1676978187cc3c8486-1",
+        "template--18072825102651__36ffb694-b864-439c-b9d1-a6de31902c0a-1676978187cc3c8486-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "617a43d2-9fe9-4402-8685-fe366c17b75b": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18072825102651__617a43d2-9fe9-4402-8685-fe366c17b75b-1676978187cc3c8486-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/centa-lisbona-1-1024x1024.png",
+            "link": "https:\/\/thepilgrm.com\/",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18072825102651__617a43d2-9fe9-4402-8685-fe366c17b75b-1676978187cc3c8486-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4-3-1024x1024_10609d4a-58b8-48dd-a93a-a00bda976494.png",
+            "link": "https:\/\/thepilgrm.com\/",
+            "title": "",
+            "description": "<p>Pilgrm Hotel – 25 London St, Tyburnia, London W2 1HH<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18072825102651__617a43d2-9fe9-4402-8685-fe366c17b75b-1676978187cc3c8486-0",
+        "template--18072825102651__617a43d2-9fe9-4402-8685-fe366c17b75b-1676978187cc3c8486-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "8ba0b025-d50f-4dbf-8651-876e7d9fa564": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18072825102651__8ba0b025-d50f-4dbf-8651-876e7d9fa564-1676978187cc3c8486-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5-5-1024x1024_7d4e88ff-6cb7-404a-812d-685c7f4195bb.png",
+            "link": "https:\/\/www.pergolapaddington.com\/",
+            "title": "",
+            "description": "<p>Pergola Paddington – 4 Kingdom St, London W2 6PY<\/p>"
+          }
+        },
+        "template--18072825102651__8ba0b025-d50f-4dbf-8651-876e7d9fa564-1676978187cc3c8486-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dear-Breakfast-1-1024x1024.png",
+            "link": "https:\/\/www.pergolapaddington.com\/",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18072825102651__8ba0b025-d50f-4dbf-8651-876e7d9fa564-1676978187cc3c8486-0",
+        "template--18072825102651__8ba0b025-d50f-4dbf-8651-876e7d9fa564-1676978187cc3c8486-1"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "18474dc7-f3c9-48c3-994b-102fc68b0655": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18072825102651__18474dc7-f3c9-48c3-994b-102fc68b0655-1676978187cc3c8486-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Prado-1-1024x1024.png",
+            "link": "http:\/\/halepi-restaurant.co.uk\/",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18072825102651__18474dc7-f3c9-48c3-994b-102fc68b0655-1676978187cc3c8486-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6-1-1024x1024_8a0ac3e9-1778-4e0d-8f42-0a365c821b4d.png",
+            "link": "http:\/\/halepi-restaurant.co.uk\/",
+            "title": "",
+            "description": "<p>Halepi Restaurant – 18 Leinster Terrace, London W2 3ET<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18072825102651__18474dc7-f3c9-48c3-994b-102fc68b0655-1676978187cc3c8486-0",
+        "template--18072825102651__18474dc7-f3c9-48c3-994b-102fc68b0655-1676978187cc3c8486-1"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "fc665867-5e27-4167-b7d8-4e0394bd2c79",
+    "cb46b3e0-61a7-4f22-b5b9-3e40aae1744d",
+    "36ffb694-b864-439c-b9d1-a6de31902c0a",
+    "617a43d2-9fe9-4402-8685-fe366c17b75b",
+    "8ba0b025-d50f-4dbf-8651-876e7d9fa564",
+    "18474dc7-f3c9-48c3-994b-102fc68b0655",
+    "main",
+    "blog-posts"
+  ]
+}

@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Flân’  Club: 2LG Studio, London, UK",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet 2LG Studio, London",
         "title": "",
         "text": "<p>We are proud to introduce you to the creative duo behind the London Interior design studio 2LG. Expect simplicity, elegance, functionality, and a very playful signature use of colour from Jordan Cluroe and Russell Whitehead’s work. <\/p>",
         "button_link": "",
@@ -31,10 +31,12 @@
         "image": "shopify:\/\/shop_images\/2LovelyGaysJordanandRussellfrom2LGStudio-682x1024.jpg",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "",
         "text_block": "<p><a href=\"https:\/\/www.2lgstudio.com\/\" title=\"https:\/\/www.2lgstudio.com\/\">2LG<strong> <\/strong>Studio<\/a> <strong>in one word<\/strong><\/p><p><strong>How would you describe your apartment in one word.<\/strong><br\/>Joyful<\/p><p><strong>What makes a home in one word.<\/strong><br\/>A dachshund<\/p><p><strong>How would you describe your taste in one word?<\/strong><br\/>Creative<\/p><p><strong>Define bad taste in interiors?<\/strong><br\/>Confusion<\/p><p><strong>Where do you find your inspiration for interior design?<\/strong><br\/>Theatre, Film, Fashion, Art, Nature, Music.<\/p><p><strong>Describe your philosophy when it comes to decoration.<\/strong><br\/>Brave, playful, happy. We love to let architecture guide us and we use colour to bring life. Our interiors are spaces that facilitate a happy life.<\/p><p><strong>Your favourite object in your home.<\/strong><br\/>A small white broken porcelain horse.<\/p><p><strong>Your favourite hotel in the world.<\/strong><br\/>Soho Farmhouse, UK.<\/p><p><strong>Favourite address for decoration in London\/ in the world.<\/strong><br\/>We find the National Theatre an inspiring building and Sketch still holds the crown for the most beautiful dining room.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -103,16 +105,6 @@
         "show_recent_posts": false
       }
     },
-    "33cbff28-85cd-4dd0-ae9f-1264e3cd2342": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/2LG-Kitchen-045-1024x768.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
-      }
-    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -135,7 +127,6 @@
     "a8817dea-d24b-4c0f-979a-484a4653bfaa",
     "722d3291-f32e-46d5-b309-5aee8c9ff698",
     "main",
-    "33cbff28-85cd-4dd0-ae9f-1264e3cd2342",
     "blog-posts"
   ]
 }

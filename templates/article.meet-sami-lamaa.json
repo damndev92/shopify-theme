@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/chetzeron-Sami-Lamaa-1024x578.jpg",
+        "image": "shopify:\/\/shop_images\/85e293c33a3d0cf1e60d076d677a6927.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Meet Sami Lamaa, Owner of Chetzeron",
+        "width": "large",
+        "subheading": "DESTINATIONS",
+        "page_title": "Meet Sami Lamaa, Owner of Chetzeron, Alps",
         "title": "",
         "text": "<p>Set a top staggering Alpine peaks, Chetzeron is a wonder of silence, sleek design and sublime views. The team behind one of our very favourite hotels is well-versed in creating a spectacular getaway – the perfect font of interiors knowledge. In this edition of Meet the Maker, Sami talks hotel secrets, growing up a real-life Eloise at the Plaza and special pieces with special meanings.<\/p>",
         "button_link": "",
@@ -31,10 +31,12 @@
         "image": "shopify:\/\/shop_images\/chetzeron-e1656582891783-814x1024.jpg",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "",
-        "text_block": "<p><strong>So, tell us. what are three things people might not know about Chetzeron?<\/strong><\/p><ul><li>It is the only place in the world where you can see the Mont Blanc and the Matterhorn from your bed.<\/li><li>Above Chetzeron, there is a soaring wind that allows eagle and bearded vultures to swoop wonderfully through the air.<\/li><li>There is a natural land depression behind the hotel where cows shelter during storms.<\/li><\/ul><p><strong>You grew up in a hotel. Tell us a little bit more about what that was like.<\/strong><\/p><p>It means no holidays, no family time a lot of work and always swimming against the current. That made me stronger. It gave me the chance to grow up in an enormous melting pot of different people, cultures, habits, languages and religions, which made me completely open-minded. It allowed me to build an incredible network of people with no borders. The line between family, friends and guests disappears.<\/p>",
+        "text_block": "<p><strong>So, tell us. what are three things people might not know about Chetzeron?<\/strong><\/p><p>It is the only place in the world where you can see the Mont Blanc and the Matterhorn from your bed.<\/p><p>Above Chetzeron, there is a soaring wind that allows eagle and bearded vultures to swoop wonderfully through the air.<\/p><p>There is a natural land depression behind the hotel where cows shelter during storms.<\/p><p><strong>You grew up in a hotel. Tell us a little bit more about what that was like.<\/strong><\/p><p>It means no holidays, no family time a lot of work and always swimming against the current. That made me stronger. It gave me the chance to grow up in an enormous melting pot of different people, cultures, habits, languages and religions, which made me completely open-minded. It allowed me to build an incredible network of people with no borders. The line between family, friends and guests disappears.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -43,13 +45,15 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/chetzeron-2-1024x703.jpg",
+        "image": "shopify:\/\/shop_images\/4cf9bc7058e08878083c3093ff65e4f9.jpg",
         "layout": "left",
         "subheading": "",
+        "location": false,
         "title": "",
-        "text_block": "<p><strong>What makes a good hotel?<\/strong><\/p><p>A good hotel is made from:<\/p><ul><li>Its soul.<\/li><li>Its location.<\/li><li>Its details.<\/li><\/ul><p>At Chetzeron we combine the warm and friendly atmosphere of a mountain hut in an industrial wasteland, with refined and timeless design.<\/p><p><strong>You’ve described the hotel as a “game-changing hospitality statement”. What makes it so different?<\/strong><\/p><p>Switzerland was very famous for its traditional hôtellerie, but I couldn’t see myself in this formative but prescriptive environment. I felt the need to create a place where nature, design, taste (food) and a sense of home meet. The soul, spirit and energy flow from hotel to guest and guest to hotel. This is not merely a concept or a vision but a tangible reality.<\/p>",
+        "text_block": "<p><strong>What makes a good hotel?<\/strong><\/p><p>A good hotel is made from:<\/p><ul><li>Its soul.<\/li><li>Its location.<\/li><li>Its attention to details.<\/li><\/ul><p>At Chetzeron we combine the warm and friendly atmosphere of a mountain hut in an industrial wasteland, with refined and timeless design.<\/p><p><strong>You’ve described the hotel as a “game-changing hospitality statement”. What makes it so different?<\/strong><\/p><p>Switzerland was very famous for its traditional hôtellerie, but I couldn’t see myself in this formative but prescriptive environment. I felt the need to create a place where nature, design, taste (food) and a sense of home meet. The soul, spirit and energy flow from hotel to guest and guest to hotel. This is not merely a concept or a vision but a tangible reality.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -58,14 +62,50 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/s-chetzeron-crans-montana-switzerland-1-1024x601.jpg",
+        "image": "shopify:\/\/shop_images\/1c5f1c6faf930022bc8df5d5823b244e.png",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "",
-        "text_block": "<p><strong>Is there an object in the hotel that has a special meaning for you?<\/strong><\/p><p>The <a href=\"https:\/\/www.maisonflaneur.com\/product\/tronpeta\/\">elephant head sculpture<\/a> in the foyer. And Room 31. I’ll keep my reasons secret.<\/p><p><strong>Food is key at Chetzeron. Why is that?<\/strong><\/p><p>The kitchen is the heart of our concept, the heart of our house. For us, it is all about the food. It’s the most intimate relationship we can have with our guests. We developed this ‘Alpine Cuisine’ over the years, incorporating new ingredients as we discovered them.<\/p><p><strong>And finally can you tell us a little about what is so special about the energy at Chetzeron?<\/strong><\/p><p>Before acquiring the building, I called in Taoist Chinese monks, experts in feng shui, to study the building, its spaces and energies. The entrance to the hotel, for example, is located exactly where the monks suggested so when you enter Chetzeron, you enter another universe, a feng shui universe.<\/p>",
+        "text_block": "<p><strong>Is there an object in the hotel that has a special meaning for you?<\/strong><\/p><p>The elephant head sculpture in the foyer. And Room 31. I’ll keep my reasons secret.<\/p><p><strong>Food is key at Chetzeron. Why is that?<\/strong><\/p><p>The kitchen is the heart of our concept, the heart of our house. For us, it is all about the food. It’s the most intimate relationship we can have with our guests. We developed this ‘Alpine Cuisine’ over the years, incorporating new ingredients as we discovered them.<\/p><p><strong>And finally can you tell us a little about what is so special about the energy at Chetzeron?<\/strong><\/p><p>Before acquiring the building, I called in Taoist Chinese monks, experts in feng shui, to study the building, its spaces and energies. The entrance to the hotel, for example, is located exactly where the monks suggested so when you enter Chetzeron, you enter another universe, a feng shui universe.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
+      }
+    },
+    "c514fca0-57f9-4308-be49-7441e23bf9af": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17837444956475__c514fca0-57f9-4308-be49-7441e23bf9af-1677009039faa48c96-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17837444956475__c514fca0-57f9-4308-be49-7441e23bf9af-1677009039faa48c96-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17837444956475__c514fca0-57f9-4308-be49-7441e23bf9af-1677009039faa48c96-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17837444956475__c514fca0-57f9-4308-be49-7441e23bf9af-1677009039faa48c96-0",
+        "template--17837444956475__c514fca0-57f9-4308-be49-7441e23bf9af-1677009039faa48c96-1",
+        "template--17837444956475__c514fca0-57f9-4308-be49-7441e23bf9af-1677009039faa48c96-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHOP",
+        "title": "THE COLLECTION",
+        "collection": "chetzeron",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -101,6 +141,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "f0752746-d6c4-4340-bcfe-7a52c53c9579",
     "09aa6f19-3a15-4fda-8eb6-1365247ce92e",
+    "c514fca0-57f9-4308-be49-7441e23bf9af",
     "main",
     "blog-posts"
   ]

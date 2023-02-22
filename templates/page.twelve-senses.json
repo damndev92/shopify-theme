@@ -14,6 +14,11 @@
       "type": "template--page",
       "disabled": true,
       "settings": {
+        "white_label": false,
+        "hide_header": false,
+        "hide_default_content": false,
+        "alignment": "center",
+        "url": ""
       }
     },
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
@@ -145,6 +150,73 @@
     },
     "f479ee67-46d6-449c-8f4e-946f0c71958c": {
       "type": "image--image-with-text-overlay",
+      "blocks": {
+        "a40e3628-5cf5-4b00-9835-94293341ce1f": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/twelve-senses-retreat-guestroom-interior-design-m-02-r-jpg.jpg"
+          }
+        },
+        "878846df-293f-4e70-9281-7de1e03ffeda": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/twelve-senses-retreat-guestroom-interior-design-m-06-r-jpg.jpg"
+          }
+        },
+        "9dc4971b-8cf1-486d-b949-e576c0ab64e2": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/twelve-senses-retreat-guestroom-bathtub-interior-design-m-05-r-jpg.jpg"
+          }
+        },
+        "3b234bb1-8516-4c6d-90ac-ee25104e713a": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/twelve-senses-retreat-rooftop-terrace-bar-m-11-r-jpg.webp"
+          }
+        },
+        "cfab53ae-97da-4f3b-a098-9add1d34e1fc": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/twelve-senses-retreat-guestroom-balcony-chairs-hammock-m-08-r-jpg.webp"
+          }
+        },
+        "171553d2-1c29-4387-84bc-72f2a5f00339": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/twelve-senses-retreat-guestroom-interior-design-m-12-r-jpg.webp"
+          }
+        },
+        "746d94a9-1b07-4ec1-9452-53d93febcd1e": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/twelve-senses-retreat-s-02-r-jpg.webp"
+          }
+        },
+        "ade45bfc-2d50-47db-bb94-11b85eb51920": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/twelve-senses-retreat-s-01-r-jpg.webp"
+          }
+        },
+        "e1f3513f-5208-4eae-9570-ec71fe0bb255": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/twelve-senses-retreat-guestroom-shower-interior-design-m-04-r-jpg.webp"
+          }
+        }
+      },
+      "block_order": [
+        "a40e3628-5cf5-4b00-9835-94293341ce1f",
+        "878846df-293f-4e70-9281-7de1e03ffeda",
+        "9dc4971b-8cf1-486d-b949-e576c0ab64e2",
+        "3b234bb1-8516-4c6d-90ac-ee25104e713a",
+        "cfab53ae-97da-4f3b-a098-9add1d34e1fc",
+        "171553d2-1c29-4387-84bc-72f2a5f00339",
+        "746d94a9-1b07-4ec1-9452-53d93febcd1e",
+        "ade45bfc-2d50-47db-bb94-11b85eb51920",
+        "e1f3513f-5208-4eae-9570-ec71fe0bb255"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/107.png",
         "subheading": "",

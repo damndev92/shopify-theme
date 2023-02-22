@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Cream-and-Brown-Delicate-Organic-Essentials-Marketing-Presentation-4-1024x576.png",
+        "image": "shopify:\/\/shop_images\/D7C9968_a67e8729-8686-4d62-8aa4-14f035213cfa.webp",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Object of Desire: Textile, Alice Palmer & Co, London",
+        "width": "large",
+        "subheading": "Design Hub",
+        "page_title": "Textile Designer, Alice Palmer & Co, London",
         "title": "",
         "text": "<p>Alice Palmer & Co is a bespoke lampshade brand, founded by Alice Palmer. With her playful choice of textile and the very photogenic nature of her creations, she did something quite extraordinary: She made lamp shades cool. <\/p>",
         "button_link": "",
@@ -41,7 +41,7 @@
         "subheading": "",
         "page_title": "",
         "title": "",
-        "text": "<p>It is in late 2019, from the comfort of her family home in north-west London that Alice developed her handmade shades: a labour of love and creativity.<\/p><p>The inspiration behind her business grew step by step while redecorating her home. Alice struggled to find lampshades that were affordable, versatile, and beautiful. She always loved the homely feel that loose and frilly fabric styles can bring to a room, so she decided to make her own, finding the right frame shape she liked, sourcing the right supplier, and making some samples. Alice Palmer & Co was born. <\/p><p>Each of her shades showcases an exquisite fabric, often sourced during, or inspired by, her travels; From traditional British homes, colonial Caribbean villas, and Andalusian haciendas. <\/p><p>We are so happy to offer you a selection of her products, which will light up your home.<\/p>",
+        "text": "<p>It is in late 2019, from the comfort of her family home in north-west London that Alice developed her handmade shades: a labour of love and creativity.<br\/><br\/><\/p><p>The inspiration behind her business grew step by step while redecorating her home. Alice struggled to find lampshades that were affordable, versatile, and beautiful. She always loved the homely feel that loose and frilly fabric styles can bring to a room, so she decided to make her own, finding the right frame shape she liked, sourcing the right supplier, and making some samples. Alice Palmer & Co was born. <br\/><br\/><\/p><p>Each of her shades showcases an exquisite fabric, often sourced during, or inspired by, her travels; From traditional British homes, colonial Caribbean villas, and Andalusian haciendas. <\/p><p>We are so happy to offer you a selection of her products, which will light up your home.<\/p>",
         "button_link": "",
         "button_label": ""
       }

@@ -63,24 +63,28 @@
         "template--17824551338299__31d7a52e-5433-4c6f-a4b3-3b5b1726ce51-1676291575c0dd75a6-0": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/19_a01c7a8f-e167-424d-84ec-bdd9321e3b07.png",
             "link": ""
           }
         },
         "template--17824551338299__31d7a52e-5433-4c6f-a4b3-3b5b1726ce51-1676291575c0dd75a6-1": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/20_ae7fd39d-00f7-495a-8d1f-b3c97c51e667.png",
             "link": ""
           }
         },
         "template--17824551338299__31d7a52e-5433-4c6f-a4b3-3b5b1726ce51-1676291575c0dd75a6-2": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/FACT_BLOCKS_9.png",
             "link": ""
           }
         },
         "template--17824551338299__31d7a52e-5433-4c6f-a4b3-3b5b1726ce51-1676291575c0dd75a6-3": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/22_92e227ee-4da6-439e-b996-430b480d0ce7.png",
             "link": ""
           }
         }
@@ -93,9 +97,10 @@
       ],
       "settings": {
         "colors": "white",
-        "width": 150,
-        "subheading": "Did you know?",
-        "title": "Facts"
+        "width": 220,
+        "subheading": "",
+        "title": "",
+        "mobile_image": "shopify:\/\/shop_images\/Untitled_design_-_2023-02-21T183026.250.png"
       }
     },
     "da038fa8-dce0-4874-a181-401f0a9895b1": {

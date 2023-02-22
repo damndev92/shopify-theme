@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Maison-Flaneur-Twelve-Senses4.png",
+        "image": "shopify:\/\/shop_images\/Maison-Flaneur-Twelve-Senses4-1.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -15,8 +15,8 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
-        "page_title": "Make Yourself at Home: Review of the Twelve Senses Retreat, Encinitas, USA.",
+        "subheading": "Make Yourself at Home:",
+        "page_title": "Twelve Senses Retreat, Encinitas, USA.",
         "title": "",
         "text": "<p>An intimate multi-sensory four-room\/one-suite hotel, the Twelve Senses Retreat is a holistic haven to reconnect with yourself. Located on the Southern California coast, not far from San Diego, The hotel’s name refers to the twelve human senses found in the teach­ings of Rudolf Steiner, founder of the anthro­pos­o­phy. The Aus­trian philoso­pher divides the senses into phys­i­cal, envi­ron­men­tal, and cog­ni­tive. At the Twelve Senses Retreat, these shall all come into play through Anke Bodack’s mindful minimalism.<\/p>",
         "button_link": "",
@@ -50,11 +50,22 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Maison Flâneur Recommends<\/strong><br\/>The 12 Senses Retreat is a place that will do good for your body and soul. <br\/>Whether you want to spend the day engaging in mindful classes with locals or being at one with the ocean (this spot is known to be surfers` par­adise), reconnecting with yourself and nature is encouraged. <br\/>Not too far from local artisanal shops, don’t miss out on getting a taste of Encinitas’ mindful and sustainable culture. The farmers market is a foodie’s dream where one can explore endless culinary innovation, including vegan cuisine. Book a private chef for an in-depth exploration of local taste! <\/p><p> <\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/twelve-senses\/\">Discover their full collection here <\/a><\/p>",
+        "text_block": "<p><strong>Maison Flâneur Recommends<br\/><br\/><\/strong><\/p><p>The 12 Senses Retreat is a place that will do good for your body and soul. <br\/>Whether you want to spend the day engaging in mindful classes with locals or being at one with the ocean (this spot is known to be surfers` par­adise), reconnecting with yourself and nature is encouraged. <br\/>Not too far from local artisanal shops, don’t miss out on getting a taste of Encinitas’ mindful and sustainable culture. The farmers market is a foodie’s dream where one can explore endless culinary innovation, including vegan cuisine. Book a private chef for an in-depth exploration of local taste! <\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
         "button_label": ""
+      }
+    },
+    "23e0aeaa-175f-4ca8-a953-3f5a7e6e673e": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Discover More",
+        "url": "",
+        "link": "shopify:\/\/pages\/twelve-senses",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
       }
     },
     "main": {
@@ -68,91 +79,6 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
-      }
-    },
-    "5a211e97-af85-4303-9c9a-4255a6c15c17": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Maison-Flaneur-Twelve-Senses7.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
-      }
-    },
-    "51204105-063d-4432-93f3-5fa77486b62b": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Maison-Flaneur-Twelve-Senses4-1.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
-      }
-    },
-    "7d332de4-3721-4369-9553-48a2eb68cd4f": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Maison-Flaneur-Twelve-Senses2.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
-      }
-    },
-    "3d18f02d-7950-4ae9-bbed-6a31f6aad0d8": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "",
-        "title": "",
-        "text": "<p><strong>Six unique home furnishing ideas from the Twelve Senses Retreat, Encinitas, that Maison Flâneur recommends: <\/strong><\/p>",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
-    "ef8e1850-a3ae-4317-bb72-98e46ce63fe3": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--18061253345595__ef8e1850-a3ae-4317-bb72-98e46ce63fe3-16769017829e199dab-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Pour-over-1-L-Lagoon.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Pour Over 1l jug in Lagoon<\/p><p>£74<\/p><p><\/p>"
-          }
-        },
-        "template--18061253345595__ef8e1850-a3ae-4317-bb72-98e46ce63fe3-16769017829e199dab-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/small-cup-lagoon.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Small Cup in Lagoon, Set of 4<\/p><p>£20<\/p>"
-          }
-        },
-        "template--18061253345595__ef8e1850-a3ae-4317-bb72-98e46ce63fe3-16769017829e199dab-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Infusor-Lagoon.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Infusor diffuser in Lagoon<\/p><p>£34<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18061253345595__ef8e1850-a3ae-4317-bb72-98e46ce63fe3-16769017829e199dab-0",
-        "template--18061253345595__ef8e1850-a3ae-4317-bb72-98e46ce63fe3-16769017829e199dab-1",
-        "template--18061253345595__ef8e1850-a3ae-4317-bb72-98e46ce63fe3-16769017829e199dab-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
       }
     },
     "blog-posts": {
@@ -174,12 +100,8 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "23e0aeaa-175f-4ca8-a953-3f5a7e6e673e",
     "main",
-    "5a211e97-af85-4303-9c9a-4255a6c15c17",
-    "51204105-063d-4432-93f3-5fa77486b62b",
-    "7d332de4-3721-4369-9553-48a2eb68cd4f",
-    "3d18f02d-7950-4ae9-bbed-6a31f6aad0d8",
-    "ef8e1850-a3ae-4317-bb72-98e46ce63fe3",
     "blog-posts"
   ]
 }

@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Make Yourself at Home: Review of the Riad Yasmine, Marrakech",
+        "width": "large",
+        "subheading": "MAKE YOURSELF AT HOME",
+        "page_title": "Riad Yasmine, Marrakech",
         "title": "",
         "text": "<p>Riad Yasmine is one of Instagram’s most famous location (- No joke, It is said that 80 percent of guests come to the Riad because they’ve seen pictures of the pool on Instagram and Pinterest), and it’s quite easy to understand why.<\/p>",
         "button_link": "",
@@ -31,10 +31,12 @@
         "image": "shopify:\/\/shop_images\/Riad-Jasmine-731x1024.jpg",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "",
-        "text_block": "<p><strong>What makes the Riad Yasmine so Instagrammable?<\/strong><\/p><p>Of course, the striking emerald green tiling of the central pool and the incredible views of the Atlas Mountains and the Koutoubia mosque from the hotel’s spacious rooftop terrace, are incredibly photogenic. But the real magic lies in the quaint and warm atmosphere it radiates. Riad Yasmine is a haven of peace nestled in a beautiful alleyway of the Medina of Marrakech, where you will feel right at home.<\/p><p><\/p><p><strong>What to expect from your stay at the Riad Yasmine?<\/strong><\/p><p>Since the opening in 2002, the French couple Gabriel Paris and Alice Tassery run the day-to-day operation, spearheading the influx of guests (and travel bloggers) to the charming, seven-room hotel. With its luxuriant vegetation, ornate Moorish architecture as well as it ’s luxurious detailing, the hotel has all the characteristic of traditional riads, with all the comforts of modern life. Each room, individually decorated, possess the discreet charm of a traditional environment with a contemporary twist with colorful Moroccan rugs, mosaic bathrooms, and Tadelakt fireplaces. The Riad can sleep 20, and cultivates this homie feeling with an excellent table d’hôte, with a menu artfully crafted with fresh and local ingredients.  Be sure to Instagram it all.<\/p><p><strong>Maison Flaneur recommends: <\/strong>Ask the owner about the Amazigh symbol (from Berbere culture) at the bottom of the pool and Treat yourself to Moroccan dishes like chicken tajine with candied lemons or Harira soup and couscous.<\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/riad-yasmine\/\">To see the full collection of the Riad Jasmine click here.<\/a><\/p><p><\/p><p><\/p><p><br\/><\/p>",
+        "text_block": "<p><strong>What makes the Riad Yasmine so Instagrammable?<\/strong><\/p><p>Of course, the striking emerald green tiling of the central pool and the incredible views of the Atlas Mountains and the Koutoubia mosque from the hotel’s spacious rooftop terrace, are incredibly photogenic. But the real magic lies in the quaint and warm atmosphere it radiates. Riad Yasmine is a haven of peace nestled in a beautiful alleyway of the Medina of Marrakech, where you will feel right at home.<\/p><p><\/p><p><strong>What to expect from your stay at the Riad Yasmine?<\/strong><\/p><p>Since the opening in 2002, the French couple Gabriel Paris and Alice Tassery run the day-to-day operation, spearheading the influx of guests (and travel bloggers) to the charming, seven-room hotel. With its luxuriant vegetation, ornate Moorish architecture as well as it ’s luxurious detailing, the hotel has all the characteristic of traditional riads, with all the comforts of modern life. Each room, individually decorated, possess the discreet charm of a traditional environment with a contemporary twist with colorful Moroccan rugs, mosaic bathrooms, and Tadelakt fireplaces. The Riad can sleep 20, and cultivates this homie feeling with an excellent table d’hôte, with a menu artfully crafted with fresh and local ingredients.  Be sure to Instagram it all.<\/p><p><strong>Maison Flâneur recommends: <\/strong>Ask the owner about the Amazigh symbol (from Berbere culture) at the bottom of the pool and Treat yourself to Moroccan dishes like chicken tajine with candied lemons or Harira soup and couscous.<\/p><p><\/p><p><\/p><p><br\/><\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -44,7 +46,7 @@
         "template--17823400657211__20cb0010-bfd6-47f2-ba47-59acda4275fb-1675169348ebed0264-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PATIO_POOL2-683x1024.jpg",
+            "image": "shopify:\/\/shop_images\/Tribe_Hotel_Nairobi_18.jpg",
             "link": "",
             "title": "",
             "description": ""
@@ -53,7 +55,7 @@
         "template--17823400657211__20cb0010-bfd6-47f2-ba47-59acda4275fb-1675169348ebed0264-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/8-NAILA_ROOM2-768x1024.jpg",
+            "image": "shopify:\/\/shop_images\/Tribe_Hotel_Nairobi_19.jpg",
             "link": "",
             "title": "",
             "description": ""

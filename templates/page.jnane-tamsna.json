@@ -1,9 +1,9 @@
 {
   "sections": {
-    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
+    "302ff8da-82b7-4a84-bdc7-26a7e514e2be": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/jnane_tamsna.png",
+        "image": "shopify:\/\/shop_images\/Discuter-dans-le-jardin.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -14,6 +14,11 @@
       "type": "template--page",
       "disabled": true,
       "settings": {
+        "white_label": false,
+        "hide_header": false,
+        "hide_default_content": false,
+        "alignment": "center",
+        "url": ""
       }
     },
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
@@ -29,10 +34,10 @@
         "button_label": ""
       }
     },
-    "302ff8da-82b7-4a84-bdc7-26a7e514e2be": {
+    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/jnane_tamsna_5.png",
+        "image": "shopify:\/\/shop_images\/bibliotheque_1560-1.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -145,6 +150,73 @@
     },
     "9201198d-52cd-4ad8-bbc8-6ae57ec226ff": {
       "type": "image--image-with-text-overlay",
+      "blocks": {
+        "23745c91-b0ed-488d-b922-6e5fdbdb3fff": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/header_responsive.jpg"
+          }
+        },
+        "d235b441-1ffa-4d02-8afe-c9450fc14182": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/Discuter-dans-le-jardin_778f557c-cfc4-494b-af43-6ba3d38bb744.jpg"
+          }
+        },
+        "544dd07c-cc3d-4cf2-9f2a-40d79e5e5867": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/Green-garden-rm-towards-veranda.jpg"
+          }
+        },
+        "c3570647-5023-4d7d-83f4-dd15e612595d": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/Jnane-Tamsna-courtyard-night_01fcb4b3-0646-4541-8a47-29ac536ab695.jpg"
+          }
+        },
+        "960df1e9-e33d-4ae9-a75c-e8b3ec24e838": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/Blue-room.jpg"
+          }
+        },
+        "737eabb4-bc5a-422c-810a-9b6214e479a0": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/Persian-room_HD.jpg"
+          }
+        },
+        "517cb0c6-929f-43eb-8128-2b364045a621": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/White-room-Jnane-villa-1.jpg"
+          }
+        },
+        "14a96604-9846-4812-8d00-edde9dc58d0f": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/bibliotheque_1560-1_2ea1d007-0982-4eaf-a6ca-5b0af80ff954.jpg"
+          }
+        },
+        "0544a5d1-5dab-4995-bca3-ba0f07438183": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/room.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "23745c91-b0ed-488d-b922-6e5fdbdb3fff",
+        "d235b441-1ffa-4d02-8afe-c9450fc14182",
+        "544dd07c-cc3d-4cf2-9f2a-40d79e5e5867",
+        "c3570647-5023-4d7d-83f4-dd15e612595d",
+        "960df1e9-e33d-4ae9-a75c-e8b3ec24e838",
+        "737eabb4-bc5a-422c-810a-9b6214e479a0",
+        "517cb0c6-929f-43eb-8128-2b364045a621",
+        "14a96604-9846-4812-8d00-edde9dc58d0f",
+        "0544a5d1-5dab-4995-bca3-ba0f07438183"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Jnane_c289a34f-26bc-4108-b07b-2814e9d025dd.png",
         "subheading": "",
@@ -316,10 +388,10 @@
     }
   },
   "order": [
-    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
+    "302ff8da-82b7-4a84-bdc7-26a7e514e2be",
     "main",
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446",
-    "302ff8da-82b7-4a84-bdc7-26a7e514e2be",
+    "5a06cc80-bb50-4de2-98cb-3cf4af3a967b",
     "d35ad0e1-49a0-442f-a911-b2ef5af24e91",
     "45f9421f-82f0-4a47-b570-7c6064ecd2d2",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",

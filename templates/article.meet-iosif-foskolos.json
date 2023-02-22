@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Steven-Joyce-JOS2021079D00116-02-2-scaled-1-1024x683.jpg",
+        "image": "shopify:\/\/shop_images\/parilio-guestroom-sofa-furniture-interior-design-m-11-r-jpg.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -15,22 +15,10 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
-        "page_title": "15 of London’s Best Restaurants for Valentine’s Day, No Matter Your Plans",
+        "subheading": "The Flâneurs",
+        "page_title": "Meet Iosif Foskolos, Artist, Athens",
         "title": "",
-        "text": "<p>They say the way to a person’s heart is through their stomach, so with that in mind,  we’ve rounded up 15 of the capital’s finest culinary offerings to book ahead of the most romantic night of the year. Flashy skyscraper restaurants to impress on a big date, joy-inducing eateries for a galentines group meal, and cosy and low-key venues for a solo evening – there’s something for everyone. <\/p>",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "light",
-        "width": "small",
-        "subheading": "",
-        "title": "Date Night",
-        "text": "",
+        "text": "<p>When we first saw one of Iosif Foskolos’ pieces hanging at Parilio in Paros, we were drawn to it immediately. Restrained, inviting, captivating. We loved it. We knew we wanted to work with him because we knew his magnetic work would resonate with our Flâneurs.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -40,13 +28,15 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/1-1.png",
+        "image": "shopify:\/\/shop_images\/image0-11_70dcec82-f6e0-4de6-8f79-ce5039886acf.jpg",
         "layout": "left",
         "subheading": "",
-        "title": "1. Kanishka",
-        "text_block": "<p>17-19 Maddox Street, W1S 2QH<\/p><p><br\/><strong>Head chef:<\/strong> Atul Kochhar<br\/><strong>Order the:<\/strong> Chicken tikka pie<\/p><p><\/p><p>Michelin Star chef Atul Kochhar’s contemporary Indian establishment not only offers tastebud-tantalising flavours, but this year sees a special five-course Valentine’s Day tasting menu designed especially for a night of romance. Expect traditional street food and mishti alongside aphrodisiacs like asparagus and figs. See the special V-day Menu <a href=\"https:\/\/kanishkarestaurant.co.uk\/wp-content\/uploads\/2023\/01\/Kanishka-Valentines-Menu-A5-2023.pdf\" target=\"_blank\">here<\/a>.<\/p>",
+        "location": false,
+        "title": "The Creative Process",
+        "text_block": "<p>The creative process has always been central to the Greek artist Iosif’s life. From sketching and painting to photography and collage, experimentation and the experience of creative discovery are key for him. When he begins work on a piece, Iosif goes one of two ways: either he chases an idea, tunnels down a rabbit hole of theoretical inspiration, and allows that to shape his creative process or he zooms out on an abstract level, creating solely for an aesthetic result and allowing meaning to unfold naturally.<\/p>",
         "page_description": false,
-        "button_link": "shopify:\/\/products\/beefbar-main-plate-piece-of-meat-emoji",
+        "button_link": "",
+        "hotel_page_url": false,
         "button_label": "Book Now"
       }
     },
@@ -55,14 +45,50 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
+        "image": "shopify:\/\/shop_images\/g-05-parilio-683x1024_4eb38079-4d1c-41ac-a8e8-7a31e0a97bd1.webp",
         "layout": "right",
         "subheading": "",
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "location": false,
+        "title": "At Parilio",
+        "text_block": "<p>In his “<a href=\"https:\/\/www.maisonflaneur.com\/venues\/parilio\/\">Parilio<\/a>” series, created exclusively for the hotel, Iosif drew inspiration from its interior design as well as its name (Paros + Ilios = sun in Greek). This idea of sun fit very neatly with the research Iosif had been conducting over the years: the perception of the seven planets in the ancient world, their mystical symbolism. He homed in on the idea of numerology in relation to the so-called Planetary Magic Squares; symbolic numbers like 6 and 111 began to emerge, and he knew he must incorporate them into his work. The gold thread featured in pieces like <a href=\"https:\/\/www.maisonflaneur.com\/product\/parhelion\/\"><em>Parhelion <\/em><\/a>was also symbolic – of the warm, golden glow of the sun’s rays.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "button_label": "Book Now"
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "14b44222-5e4a-41c8-97cf-4cd98afd84eb": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/10-Facts-about-Parilio-Hotel-2-1024x1024.webp",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Materials",
+        "text_block": "<p>Iosif chooses his materials carefully. While they’re certainly beautiful, there’s often more to them than simple aesthetics. His materials – delicate thread, gentle cotton – take on a symbolic character, helping transmit his ideas from the canvas to his viewers. Never wanting to limit his work, Iosif constantly hunts for new materials to bring his visions to life.<\/p><p>Each work is created by Iosif by hand in his home in Greece. There’s no team behind what he does; it’s just Iosif, engaging in creation, getting closer to himself. For him, it’s a kind of personal meditation<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "f978feb0-b31f-4ed0-9d8b-842f005938fd": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/IMG_3106-1-1000x1000-1.webp",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "How it’s Made",
+        "text_block": "<p>After lots of reading and thorough research, he’ll begin sketching out his ideas. Usually, this will be your typical analog paper-and-pencil sort of deal, but occasionally, he’ll toy with things further on the computer. He makes precise calculations in a vector program to achieve the accuracy he needs for execution. Pre-treatment comes next, where Iosif carefully marks his canvas, readying it for sewing. <\/p><p>Finally, he takes needle to thread, and his pieces are born.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
       }
     },
     "main": {
@@ -76,6 +102,40 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
+      }
+    },
+    "d735ab46-0f21-442b-8bf6-d59b3da77eb6": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18077160177979__d735ab46-0f21-442b-8bf6-d59b3da77eb6-1677005384e8033912-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18077160177979__d735ab46-0f21-442b-8bf6-d59b3da77eb6-1677005384e8033912-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18077160177979__d735ab46-0f21-442b-8bf6-d59b3da77eb6-1677005384e8033912-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18077160177979__d735ab46-0f21-442b-8bf6-d59b3da77eb6-1677005384e8033912-0",
+        "template--18077160177979__d735ab46-0f21-442b-8bf6-d59b3da77eb6-1677005384e8033912-1",
+        "template--18077160177979__d735ab46-0f21-442b-8bf6-d59b3da77eb6-1677005384e8033912-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Iosif Foskolos",
+        "title": "Discover the Collection",
+        "collection": "joseph-foskolos",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "blog-posts": {
@@ -95,10 +155,12 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "14b44222-5e4a-41c8-97cf-4cd98afd84eb",
+    "f978feb0-b31f-4ed0-9d8b-842f005938fd",
     "main",
+    "d735ab46-0f21-442b-8bf6-d59b3da77eb6",
     "blog-posts"
   ]
 }

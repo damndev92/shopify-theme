@@ -1,0 +1,120 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/youve-been-served-themis-z.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "e59ec62f-07b5-46d9-921d-cba01b9aebad": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "You’ve been served: Themis Z, Mykonos",
+        "title": "",
+        "text": "<p>Designer of <a href=\"https:\/\/www.maisonflaneur.com\/venues\/themis-z\/\">Themis Z,<\/a> Themis Zouganeli has had an incredibly successful career in design; With her unique style, she has collaborated with world-renowned luxury houses such as Dior Maison and Swarovski amongst others. Returning from London to Athens, Themis launched her own lifestyle brand inspired by her Hellenic heritage and international experiences. <br\/><\/p><p><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "50659868-dc40-4d0e-8422-94d262aef56f": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18074843971899__50659868-dc40-4d0e-8422-94d262aef56f-1676991868cf6d322c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Kyklos-Red-Espresso-Cup.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Kyklos Burgundy on White Espresso Cup<\/p><p>£50<\/p>"
+          }
+        },
+        "template--18074843971899__50659868-dc40-4d0e-8422-94d262aef56f-1676991868cf6d322c-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/77_540x_8510fde4-f0ac-4145-b6ce-8ac68aaae617.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Linen Blue Infinity Cushion<\/p><p>£137<\/p>"
+          }
+        },
+        "template--18074843971899__50659868-dc40-4d0e-8422-94d262aef56f-1676991868cf6d322c-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Kyklos-Red-Dinner-Plate.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Kyklos Red Dinner Plate<\/p><p>£53<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18074843971899__50659868-dc40-4d0e-8422-94d262aef56f-1676991868cf6d322c-0",
+        "template--18074843971899__50659868-dc40-4d0e-8422-94d262aef56f-1676991868cf6d322c-1",
+        "template--18074843971899__50659868-dc40-4d0e-8422-94d262aef56f-1676991868cf6d322c-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "019563da-bc4c-4bef-bb41-929a56057136": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Serenity-Beige-on-White-Dessert-Plate_Themis-2.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>What makes Themis Z so special?<\/strong><\/p><p>THEMIS Z is a lifestyle brand guided by the aesthetic, design sensibility and international lifestyle of founder Themis Zouganeli. Inspired by her Greek heritage, minimal and clean lines adorn her creations. By using repetitive geometric patterns applied on sophisticated accessories and luxurious homeware, her collection is both incredibly modern yet timeless. “They symbolize positive energy and harmonious emotions”, she adds.<\/p><p><strong>What to expect at Themis Z Mykonos?<\/strong><\/p><p>The Themis boutiques, both in Gstaad and Mykonos, offer elegant beauty and relaxed glamour inspired by the Greek Islands. This summer, if you are planning a trip to the paradisiac like island of Mykonos, do not forget to stop by. Nestled at the center of the picturesque town, her shop, and coffee bar, is set in one of the oldest houses in the area. Once owned by a sea merchant, it still stands as gracefully as it did back in the 1800s. It immerses her clients for a unique and authentic experience where to enjoy a refreshing drink while listening to the sounds of jazz being played out in the courtyard – a unique oasis right at the heart of Mykonos’s bustling town center.<\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/themis-z\/products\/\">Bring a piece of the cyclade back home today thanks to Maison Flaneur.<\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "portrait"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "e59ec62f-07b5-46d9-921d-cba01b9aebad",
+    "50659868-dc40-4d0e-8422-94d262aef56f",
+    "019563da-bc4c-4bef-bb41-929a56057136",
+    "main",
+    "blog-posts"
+  ]
+}

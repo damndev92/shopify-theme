@@ -3,7 +3,7 @@
     "5a06cc80-bb50-4de2-98cb-3cf4af3a967b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/34_0ab570f7-9fe3-4ae8-97f7-f244b484d9f2.png",
+        "image": "shopify:\/\/shop_images\/vora-terrace-dining-table-ocean-view-m-08-r-jpg.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -14,6 +14,11 @@
       "type": "template--page",
       "disabled": true,
       "settings": {
+        "white_label": false,
+        "hide_header": false,
+        "hide_default_content": false,
+        "alignment": "center",
+        "url": ""
       }
     },
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
@@ -32,7 +37,7 @@
     "c29a0e93-b6e3-4f23-be91-1c932143c79c": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/vora_5.png",
+        "image": "shopify:\/\/shop_images\/vora-santorini-s-01-r-jpg.webp",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -145,6 +150,136 @@
     },
     "b26cac10-deee-4685-8a9f-d7dc05c28771": {
       "type": "image--image-with-text-overlay",
+      "blocks": {
+        "16635cdf-825e-4fa6-981f-c00c0956f768": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/vora-s-02-r-jpg.jpg"
+          }
+        },
+        "7ab4eeaa-2755-459a-a885-cbf5f2b6d3e6": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/vora-private-terrace-pool-ocean-view-m-01-r-jpg.jpg"
+          }
+        },
+        "0f0fbda0-abb0-4d77-bf28-dde48f52c753": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/vora-terrace-dining-table-ocean-view-m-08-r-jpg_5efad917-7b42-4490-a05d-2354dc07a6b9.jpg"
+          }
+        },
+        "79d77ea1-9516-4250-ac4d-ac68808f8fcc": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/vora-guestroom-sofa-interior-design-terrace-ocean-view-m-05-r-jpg.jpg"
+          }
+        },
+        "90bed9dd-4c19-48b4-aa7d-fe5747a661a2": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/vora-cave-guestroom-view-m-13-r-jpg.jpg"
+          }
+        },
+        "07950529-c622-4a4b-9120-d3dd6cd5df99": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/vora-bathroom-sink-interior-design-m-11-r-jpg.jpg"
+          }
+        },
+        "d9531b3b-d7c3-4e52-bd13-a620874c01b7": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/vora-guestroom-bedroom-shelf-interior-design-m-02-r-jpg.jpg"
+          }
+        },
+        "1be8c683-56f8-49c3-9b66-3e7e693ab1df": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/vora-exterior-staircase-terrace-view-m-17-r-jpg.jpg"
+          }
+        },
+        "b057ab9d-feef-4319-ba9d-2e35a8f2331c": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/vora-guestroom-bathroom-sink-interior-design-m-03-r-jpg.jpg"
+          }
+        },
+        "ab485c87-8ae4-4628-a1a5-28abe2e90c28": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/vora-guestroom-shelf-interior-design-m-15-r-jpg.jpg"
+          }
+        },
+        "f68a98aa-67f4-40fa-b88e-64f1a2f6d220": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/vora-guestroom-sofa-interior-design-m-12-r-jpg.jpg"
+          }
+        },
+        "ed065ea8-cac2-42a2-85a7-5ae54f71d0f4": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/vora-exterior-terrace-view-m-09-r-jpg.jpg"
+          }
+        },
+        "90081ae8-7b48-4ffc-b7fe-9ba4d991061c": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/vora-guestroom-interior-design-terrace-ocean-view-m-04-r-jpg.jpg"
+          }
+        },
+        "334c3855-f34a-4171-93ee-c189bd40b5df": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/vora-architecture-coast-ocean-view-m-06-r-jpg.jpg"
+          }
+        },
+        "e3422624-4f61-4409-b448-8e781d436e2c": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/vora-terrace-sofa-city-island-view-m-07-r-jpg.jpg"
+          }
+        },
+        "abe6cbcd-ebc7-4364-99ae-8b51bf3e156f": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/vora-santorini-s-01-r-jpg.jpg"
+          }
+        },
+        "d0ffb682-989d-44eb-825a-dde875c0461b": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/vora-guestroom-view-m-14-r-jpg.jpg"
+          }
+        },
+        "e6ec5770-c64c-48e3-9bb4-6d9659455ea3": {
+          "type": "image",
+          "settings": {
+            "gallery_image": "shopify:\/\/shop_images\/vora-terrace-ocean-view-m-10-r-jpg.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "16635cdf-825e-4fa6-981f-c00c0956f768",
+        "7ab4eeaa-2755-459a-a885-cbf5f2b6d3e6",
+        "0f0fbda0-abb0-4d77-bf28-dde48f52c753",
+        "79d77ea1-9516-4250-ac4d-ac68808f8fcc",
+        "90bed9dd-4c19-48b4-aa7d-fe5747a661a2",
+        "07950529-c622-4a4b-9120-d3dd6cd5df99",
+        "d9531b3b-d7c3-4e52-bd13-a620874c01b7",
+        "1be8c683-56f8-49c3-9b66-3e7e693ab1df",
+        "b057ab9d-feef-4319-ba9d-2e35a8f2331c",
+        "ab485c87-8ae4-4628-a1a5-28abe2e90c28",
+        "f68a98aa-67f4-40fa-b88e-64f1a2f6d220",
+        "ed065ea8-cac2-42a2-85a7-5ae54f71d0f4",
+        "90081ae8-7b48-4ffc-b7fe-9ba4d991061c",
+        "334c3855-f34a-4171-93ee-c189bd40b5df",
+        "e3422624-4f61-4409-b448-8e781d436e2c",
+        "abe6cbcd-ebc7-4364-99ae-8b51bf3e156f",
+        "d0ffb682-989d-44eb-825a-dde875c0461b",
+        "e6ec5770-c64c-48e3-9bb4-6d9659455ea3"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/vora_1bbc77c5-5b84-4e4b-92f9-77c894b0c07f.png",
         "subheading": "",

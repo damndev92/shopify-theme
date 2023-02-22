@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Flân’ Club: Misha Andersen, London, UK",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet Misha Andersen, Interior Designer, London",
         "title": "",
         "text": "<p>“It should be fun experiences that seamlessly integrate initial client desires with bold expert solutions to achieve exquisite design, together we can create!” says Misha Andersen about her work as an interior designer. Misha runs her eponymous studio: a high-end design company for both residential and commercial projects in the UK and abroad. Previously running a VIP customer event, you can expect good taste, truly innovative vision, and a lot of positive energy from her work. Welcome to Misha’s world.<\/p>",
         "button_link": "",
@@ -33,119 +33,45 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>How would you describe your apartment in one word?  <\/strong><\/p><p>Blissful… completely happy as I am.<\/p><p><strong>What makes a home in one word? <\/strong><\/p><p>A daydreaming hub<\/p><p><strong>How would you describe your taste in one word?<\/strong><\/p><p>Playful<\/p><p><strong>Define bad taste in interiors?<\/strong><\/p><p>Indulgence<\/p><p><strong>Where do you find your inspiration for interior design?<\/strong><\/p><p>I’m a world traveler with more than 90 countries visited, that gave me the sensibility to capture colours, shapes, textures, cultural perceptions and experiment with materials. I’m convinced that ‘every interior is a story to be told, every space brings memories, and that uniqueness of great design is to be an inspiration for the ones who enjoy it. Life is full of challenges so why shouldn’t everyone be surrounded by beauty that brings the best of us?  For me it’s Sailing, nature walks, music festivals, Biennale, Art Basel, PAD, Antique exhibitions… Those would be my escapes to recharge and find a new direction.<\/p>",
+        "text_block": "<p><strong>How would you describe your apartment in one word?  <\/strong><\/p><p>Blissful… completely happy as I am.<\/p><p><br\/><\/p><p><strong>What makes a home in one word? <\/strong><\/p><p>A daydreaming hub.<\/p><p><br\/><\/p><p><strong>How would you describe your taste in one word?<\/strong><\/p><p>Playful.<\/p><p><br\/><\/p><p><strong>Define bad taste in interiors?<\/strong><\/p><p>Indulgence.<\/p><p><br\/><\/p><p><strong>Where do you find your inspiration for interior design?<\/strong><\/p><p>I’m a world traveler with more than 90 countries visited, that gave me the sensibility to capture colours, shapes, textures, cultural perceptions and experiment with materials. I’m convinced that ‘every interior is a story to be told, every space brings memories, and that uniqueness of great design is to be an inspiration for the ones who enjoy it. Life is full of challenges so why shouldn’t everyone be surrounded by beauty that brings the best of us?  For me it’s Sailing, nature walks, music festivals, Biennale, Art Basel, PAD, Antique exhibitions… Those would be my escapes to recharge and find a new direction.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
         "button_label": ""
       }
     },
-    "51d3169b-e858-43da-a4da-021cfa7731b4": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17912024367419__51d3169b-e858-43da-a4da-021cfa7731b4-1675779576f426f684-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MA-731x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17912024367419__51d3169b-e858-43da-a4da-021cfa7731b4-1675779576f426f684-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MA2-732x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17912024367419__51d3169b-e858-43da-a4da-021cfa7731b4-1675779576f426f684-1",
-        "template--17912024367419__51d3169b-e858-43da-a4da-021cfa7731b4-1675779576f426f684-2"
-      ],
+    "962808f5-7975-4f7d-9f63-af45e0b5f8ba": {
+      "type": "text--image-with-text",
       "settings": {
         "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/MA2-732x1024_6ce16457-fbd9-4b5d-9214-ddb498c9ed76.jpg",
+        "layout": "left",
         "subheading": "",
-        "title": ""
-      }
-    },
-    "06ad4da9-a5ec-47a4-8ae2-6007dc542908": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
+        "location": false,
         "title": "",
-        "text": "<p><strong>Describe your philosophy when it comes to decoration?<\/strong><\/p><p>Storytelling… It’s all about listening at the beginning trying to establish that emotional connection with space, people and find relevant surprising ingredients. Then it’s a process of co-creation that is never quite the same and requires constant dynamic experimentation. And finally, there is a moment to connect all dots and hold everyone’s attention when enjoying the space.<\/p><p><strong>Your favourite object in your home?<\/strong><\/p><p>Samurai warrior armors. From the Japanese verb samurai, which means to serve someone and look up to them.<\/p><p><strong>Your favourite hotel in the world?<\/strong><\/p><p><a href=\"https:\/\/www.alilahotels.com\/uluwatu\">Alila Ululate Bali<\/a> for sublime light architecture, or the fairy tale like <a href=\"https:\/\/borgoegnazia.com\/\">Borgo Egnazia<\/a> in Puglia. Those places are an absolute must to experience when needing time for contemplation.<\/p><p><strong>Your favourite restaurant in the world?<\/strong><\/p><p>My favourite restaurant is <a href=\"http:\/\/whiterabbitmoscow.ru\/en\/\">White Rabbit<\/a> in Moscow. If you like surprises as I do then go for chef Menu Russian Evolution.   <\/p><p><strong>Favourite address for decoration in London\/ in the world?<\/strong><\/p><p>I’m big time Mixologist of different styles from contemporary to antique, art and eclectic pieces. When in London I would start with coffee on Walton Street then would head to Pimlico Road for unusual pieces and might end up on Lot’s Road wonder. I’m addicted to Design Weeks around Europe.  Traveling the world: I would be happy to get lost around Bangkok antique center, Miami Art Basel or Johannesburg mask search.<\/p>",
+        "text_block": "<p><strong>Describe your philosophy when it comes to decoration?<\/strong><\/p><p>Storytelling… It’s all about listening at the beginning trying to establish that emotional connection with space, people and find relevant surprising ingredients. Then it’s a process of co-creation that is never quite the same and requires constant dynamic experimentation. And finally, there is a moment to connect all dots and hold everyone’s attention when enjoying the space.<br\/><br\/><strong>Your favourite object in your home?<\/strong><\/p><p>Samurai warrior armors. From the Japanese verb samurai, which means to serve someone and look up to them.<\/p><p><strong><br\/>Your favourite hotel in the world?<\/strong><\/p><p><a href=\"https:\/\/www.alilahotels.com\/uluwatu\">Alila Ululate Bali<\/a> for sublime light architecture, or the fairy tale like <a href=\"https:\/\/borgoegnazia.com\/\">Borgo Egnazia<\/a> in Puglia. Those places are an absolute must to experience when needing time for contemplation.<\/p>",
+        "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
-    "a5297c03-ccac-45bf-a5a4-d2b89a7e78de": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17912024367419__a5297c03-ccac-45bf-a5a4-d2b89a7e78de-1675779576f426f684-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Copy-of-Black-Malawi-Loveseat-2.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Black Bamboo and Rattan Loveseat<\/p><p>From £410<\/p>"
-          }
-        },
-        "template--17912024367419__a5297c03-ccac-45bf-a5a4-d2b89a7e78de-1675779576f426f684-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/GC-021-PEGGY-UP-DOWN-TWIN-WALL-LAMP-BLACK-1.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Peggy Black Twin Up & Down Wall Lamp<\/p><p>From £589<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17912024367419__a5297c03-ccac-45bf-a5a4-d2b89a7e78de-1675779576f426f684-0",
-        "template--17912024367419__a5297c03-ccac-45bf-a5a4-d2b89a7e78de-1675779576f426f684-1"
-      ],
+    "e7d18b69-8349-483c-824a-595fe169d1f6": {
+      "type": "text--image-with-text",
       "settings": {
         "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/MA-731x1024_bb9f8f06-f889-4e0b-91ff-e70fd0d4a8b1.jpg",
+        "layout": "right",
         "subheading": "",
-        "title": "Misha’s Selection:"
-      }
-    },
-    "f3c643e3-19e1-4c12-b839-df74d9c37c90": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17912024367419__f3c643e3-19e1-4c12-b839-df74d9c37c90-1675779576f426f684-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MH3-732x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--17912024367419__f3c643e3-19e1-4c12-b839-df74d9c37c90-1675779576f426f684-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MH4-732x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17912024367419__f3c643e3-19e1-4c12-b839-df74d9c37c90-1675779576f426f684-0",
-        "template--17912024367419__f3c643e3-19e1-4c12-b839-df74d9c37c90-1675779576f426f684-1"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Your favourite restaurant in the world?<\/strong><\/p><p>My favourite restaurant is <a href=\"http:\/\/whiterabbitmoscow.ru\/en\/\">White Rabbit<\/a> in Moscow. If you like surprises as I do then go for chef Menu Russian Evolution.   <\/p><p><strong><br\/>Favourite address for decoration in London\/ in the world?<\/strong><\/p><p>I’m big time Mixologist of different styles from contemporary to antique, art and eclectic pieces. When in London I would start with coffee on Walton Street then would head to Pimlico Road for unusual pieces and might end up on Lot’s Road wonder. I’m addicted to Design Weeks around Europe.  Traveling the world: I would be happy to get lost around Bangkok antique center, Miami Art Basel or Johannesburg mask search.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
       }
     },
     "main": {
@@ -168,7 +94,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "blog-posts": {
@@ -189,10 +115,8 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
-    "51d3169b-e858-43da-a4da-021cfa7731b4",
-    "06ad4da9-a5ec-47a4-8ae2-6007dc542908",
-    "a5297c03-ccac-45bf-a5a4-d2b89a7e78de",
-    "f3c643e3-19e1-4c12-b839-df74d9c37c90",
+    "962808f5-7975-4f7d-9f63-af45e0b5f8ba",
+    "e7d18b69-8349-483c-824a-595fe169d1f6",
     "main",
     "c0bd4e03-df3b-4c04-9b1a-b1c6b4c6c03a",
     "blog-posts"

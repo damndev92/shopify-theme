@@ -14,55 +14,30 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Make Yourself at Home: Review of Velona's Jungle, Florence, Italy",
+        "width": "large",
+        "subheading": "MAKE YOURSELF AT HOME",
+        "page_title": "Velona’s Jungle, Florence",
         "title": "",
         "text": "<p>In Florence, Italy, boutique B&B Velona’s Jungle is the best of both worlds. The decor is a blend of old and new – from Ralph Lauren wallpaper to family heirlooms that have been passed from generation to generation. But don’t just take our word for it. Veronica Grechi’s unique destination, with its 4 jungle-themed suites, has been featured on the cover of Italian Architectural Digest – thanks to its jewel tones and exotic animal prints inside, and its unusual mid-century palazzo building location.<\/p>",
         "button_link": "",
         "button_label": ""
       }
     },
-    "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Credit-Jade-Nina-Sarkhel-29-683x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p><strong>What makes Velona’s Jungle so special?<\/strong><\/p><p><\/p><p>Italian's are big on family and Velona's Jungle is no exception. It’s named after Veronica’s grandfather, and you’ll find it in the same apartment where he used to live. In fact, even the decor has a family feeling – many of the beautiful antiques decorating the 4 rooms are the same pieces Grechi’s grandfather (who owned an antiquity shop) once kept in a secret room in the apartment. His treasures were collected on his travels, from Japan and China, to Europe. And accordingly, every unusual object at Velona’s Jungle has a story to tell – many of the paintings decorating the walls were produced by Veronica’s aunt.<\/p>"
-          }
-        },
-        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/suite-durrell_velona-jungle-firenze-florence_7-681x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p><strong>What to expect when staying at Velona’s Jungle?<\/strong><\/p><p><\/p><p>The phrase ‘welcome to the jungle’ has never been more appropriate – as the name suggests, Velona’s Jungle takes its interior decor inspiration from the wildest elements of nature. There’s everything from lizard door handles, to a feather lamp and a bathroom ceiling alive with plants in Suite Durrel – built by Veronica’s own mother. While the jungle theme is certainly contemporary, you’ll experience traditional Florence craftsmanship too, as many of the pieces are made by local artisans.<\/p>"
-          }
-        },
-        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-2": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-0",
-        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-1",
-        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-2"
-      ],
+    "3a0c9bfa-c2b8-49b2-8ac7-5a9d13b2b0d3": {
+      "type": "text--image-with-text",
       "settings": {
         "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Credit-Jade-Nina-Sarkhel-29-683x1024.webp",
+        "layout": "left",
         "subheading": "",
-        "title": ""
+        "location": false,
+        "title": "What makes Velona’s Jungle so special?",
+        "text_block": "<p>Italian's are big on family and Velona's Jungle is no exception. It’s named after Veronica’s grandfather, and you’ll find it in the same apartment where he used to live. In fact, even the decor has a family feeling – many of the beautiful antiques decorating the 4 rooms are the same pieces Grechi’s grandfather (who owned an antiquity shop) once kept in a secret room in the apartment. His treasures were collected on his travels, from Japan and China, to Europe. And accordingly, every unusual object at Velona’s Jungle has a story to tell – many of the paintings decorating the walls were produced by Veronica’s aunt.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
       }
     },
     "2cc0c399-32aa-4522-9765-576030c867c7": {
@@ -75,14 +50,21 @@
         "text-over-image-width": "full-width"
       }
     },
-    "513ae7b7-a2c1-40f7-adff-4853c0573328": {
-      "type": "image--image",
+    "09ee214e-12e6-4f6c-b6aa-6f6c626df67d": {
+      "type": "text--image-with-text",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Credit-Jade-Nina-Sarkhel-4-1024x369.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/suite-durrell_velona-jungle-firenze-florence_7-681x1024.webp",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "What to expect when staying at Velona’s Jungle?",
+        "text_block": "<p>The phrase ‘welcome to the jungle’ has never been more appropriate – as the name suggests, Velona’s Jungle takes its interior decor inspiration from the wildest elements of nature. There’s everything from lizard door handles, to a feather lamp and a bathroom ceiling alive with plants in Suite Durrel – built by Veronica’s own mother. While the jungle theme is certainly contemporary, you’ll experience traditional Florence craftsmanship too, as many of the pieces are made by local artisans.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
       }
     },
     "caa04637-6009-4065-89c7-931d3e44b826": {
@@ -90,53 +72,46 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "Maison Flâneur recommends",
+        "subheading": "",
+        "page_title": "Maison Flâneur recommends",
         "title": "",
-        "text": "<p>Authenticity doesn't end with the interiors – you’ll experience authentic Florence when you leave the apartment, too. This luxury B&B’s values are friends and family, and they treat each guest accordingly, offering local tips and traditional Florence hospitality. So we recommend asking your hosts for their favourite places to eat traditional dishes, and the best spots to shop for handmade artisan home accessories to take home with you.<\/p><p><strong><br\/><\/strong><a href=\"https:\/\/www.maisonflaneur.com\/venues\/velonas-jungle\/\"><strong>Read more about Velona’s Jungle<br\/><\/strong><\/a><a href=\"https:\/\/www.maisonflaneur.com\/venues\/velonas-jungle\/products\/\"><strong>Shop the full collection<\/strong><\/a><\/p><p><strong>Three unique home furnishing ideas from Velona’s Jungle that Maison Flâneur recommends:<\/strong><\/p>",
+        "text": "<p>Authenticity doesn't end with the interiors – you’ll experience authentic Florence when you leave the apartment, too. This luxury B&B’s values are friends and family, and they treat each guest accordingly, offering local tips and traditional Florence hospitality. So we recommend asking your hosts for their favourite places to eat traditional dishes, and the best spots to shop for handmade artisan home accessories to take home with you.<\/p>",
         "button_link": "",
         "button_label": ""
       }
     },
-    "465bd8cf-0b90-4509-995b-c07aeefbe031": {
-      "type": "image--gallery",
+    "abde05d8-0a61-4516-ba20-c14dc9a652db": {
+      "type": "collection--featured-collection",
       "blocks": {
-        "19b22b12-2937-4e55-8afc-81ba466b6abd": {
-          "type": "image",
+        "template--17824092717371__abde05d8-0a61-4516-ba20-c14dc9a652db-1676997222878d166b-0": {
+          "type": "grid-card-title",
           "settings": {
-            "image": "shopify:\/\/shop_images\/GC-020-PEGGY-TWIN-WALL-LAMP-SMALL-BLACK-1.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Black Peggy Twin Wall Lamp<\/p><p>From £425<\/p>"
           }
         },
-        "8d574722-6f06-4dd7-9abd-1c88ac4ed944": {
-          "type": "image",
+        "template--17824092717371__abde05d8-0a61-4516-ba20-c14dc9a652db-1676997222878d166b-1": {
+          "type": "grid-card-price",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_0477-Edit-1024x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Eku Elephant Plate<\/p><p>From £36<\/p>"
           }
         },
-        "065fb4fa-51af-44ff-869e-a5abeb0cdb9a": {
-          "type": "image",
+        "template--17824092717371__abde05d8-0a61-4516-ba20-c14dc9a652db-1676997222878d166b-2": {
+          "type": "grid-card-swatches",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Z-Zebra-Might-Mug-1024x744.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Z-Zebra Might Mug<\/p><p>£22<\/p>"
           }
         }
       },
       "block_order": [
-        "19b22b12-2937-4e55-8afc-81ba466b6abd",
-        "8d574722-6f06-4dd7-9abd-1c88ac4ed944",
-        "065fb4fa-51af-44ff-869e-a5abeb0cdb9a"
+        "template--17824092717371__abde05d8-0a61-4516-ba20-c14dc9a652db-1676997222878d166b-0",
+        "template--17824092717371__abde05d8-0a61-4516-ba20-c14dc9a652db-1676997222878d166b-1",
+        "template--17824092717371__abde05d8-0a61-4516-ba20-c14dc9a652db-1676997222878d166b-2"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "",
-        "title": ""
+        "subheading": "SHOP",
+        "title": "THE COLLECTION",
+        "collection": "velonas-jungle",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -169,11 +144,11 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
-    "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
+    "3a0c9bfa-c2b8-49b2-8ac7-5a9d13b2b0d3",
     "2cc0c399-32aa-4522-9765-576030c867c7",
-    "513ae7b7-a2c1-40f7-adff-4853c0573328",
+    "09ee214e-12e6-4f6c-b6aa-6f6c626df67d",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "465bd8cf-0b90-4509-995b-c07aeefbe031",
+    "abde05d8-0a61-4516-ba20-c14dc9a652db",
     "main",
     "blog-posts"
   ]

@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Flân’ Club: Stephanie Fishwick, Illustrator & Calligrapher, Virginia",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet Stephanie Fishwick, Illustrator & Calligrapher, Virginia",
         "title": "",
         "text": "<p>Stephanie earned her Bachelor of Fine Arts from Virginia Commonwealth University. After purchasing calligraphy tools at a small shop in Paris, her creative focus shifted towards pen, ink, and collage. You may have read about her in <a href=\"https:\/\/www.vogue.com\/article\/send-all-of-your-summer-thank-you-notes-on-this-stunning-stationery\">Vogue<\/a>, House & Garden UK or <a href=\"https:\/\/www.architecturaldigest.com\/story\/stephanie-fishwick-artsy-craftsman-home-charlottesville-virginia\">Architectural Digest<\/a>, or seen her drawings for The Ritz Carlton Champagne Menu; Stephanie Fishwick combines respect for foundations with a rule-breaking spirit to create one of a kind pieces. Today, she lives in a country house in Virginia with her husband and son, her studio, located on the property, respectively surrounded by old ivy-covered cedars, oak trees, hydrangea, boxwood, and magnolias. We had the chance to ask her a few questions.<\/p>",
         "button_link": "",
@@ -33,7 +33,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>How would you describe your work?<\/strong><br\/>My collages blend traditional decorative arts motifs with influences of vanitas painting, new wave, goth, zines, fairy tales and psychedelia, all topped with a generous amount of spooky details, magical curios and all manner of critters. I am a professional calligrapher trained in the classic Copperplate and Italic style, but also expand on traditional scripts with my own versions to make wild, scratchy squiggles, flourishes, french script styles and brush scripts.<\/p><p><strong>How would you describe your home in one word?<\/strong><br\/>Countrylife (a la Roxy Music)<\/p><p><strong>What makes a home in one word.<\/strong><br\/>Harbor<\/p><p><strong>How would you describe your taste in one word?<\/strong><br\/>Romantic<\/p>",
+        "text_block": "<p><strong>How would you describe your work?<\/strong><br\/>My collages blend traditional decorative arts motifs with influences of vanitas painting, new wave, goth, zines, fairy tales and psychedelia, all topped with a generous amount of spooky details, magical curios and all manner of critters. I am a professional calligrapher trained in the classic Copperplate and Italic style, but also expand on traditional scripts with my own versions to make wild, scratchy squiggles, flourishes, french script styles and brush scripts.<\/p><p><strong>How would you describe your home in one word?<\/strong><br\/>Countrylife (a la Roxy Music).<\/p><p><strong>What makes a home in one word.<\/strong><br\/>Harbor.<\/p><p><strong>How would you describe your taste in one word?<\/strong><br\/>Romantic.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -50,7 +50,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Define bad taste in interiors?<\/strong><br\/>That lacking passion, confidence, or imagination! I used to own a very old Mercedes Benz. It was a beautiful old lemon –no air conditioning and a broken radio. On my first (of too many) trips to the local speciality repair shop, I was struck by the humble but amazing waiting room just off the garage. These guys had coffee, chic leather seating, a <a href=\"https:\/\/www.maisonflaneur.com\/product\/black-white-vintage-moroccan-beni-ourain-rug-195cm-x-140cm\/\">Beni Ourain type shag rug<\/a>, and plants surrounded by old car advertisement posters. It looked like someone had carved the space out in the 70’s- it felt so nice, cool, clean, and made me want to sit down and enjoy a styrofoam cup of gross Bunn coffee! Not my style specifically, but I was engulfed. Hospitality, comfort, imagination, and a sense of place came together to make a really nice and memorable waiting room, of all places.<\/p><p><strong>What is your favourite address for decoration?<\/strong><br\/>Estate sales and antique shops – we live in an area rich with antiquing treasures<\/p><p><strong>Where do you find your inspiration for your designs?<\/strong><br\/>My husband and I adore used bookstores, estate sales, and record shops. There are so many wonderful period juxtapositions and genres we’ve collectively forgotten. I am always hunting old books, leafing through old books and digging for new collage materials in scanned public domain archives. I will see a peculiar flower, textile, or a little creature I like and it gives me an idea of a moment or a habitat. Most of my collages are fantasy worlds spun up from playing around with clippings: flowers, creatures, bugs, and any other motifs that I’m drawn to at that moment, or that my clients have asked me to include.<\/p>",
+        "text_block": "<p><strong>Define bad taste in interiors?<\/strong><br\/>That lacking passion, confidence, or imagination! I used to own a very old Mercedes Benz. It was a beautiful old lemon –no air conditioning and a broken radio. On my first (of too many) trips to the local speciality repair shop, I was struck by the humble but amazing waiting room just off the garage. These guys had coffee, chic leather seating, a Beni Ourain type shag rug, and plants surrounded by old car advertisement posters. It looked like someone had carved the space out in the 70’s- it felt so nice, cool, clean, and made me want to sit down and enjoy a styrofoam cup of gross Bunn coffee! Not my style specifically, but I was engulfed. Hospitality, comfort, imagination, and a sense of place came together to make a really nice and memorable waiting room, of all places.<\/p><p><strong>What is your favourite address for decoration?<\/strong><br\/>Estate sales and antique shops – we live in an area rich with antiquing treasures. <\/p><p><strong>Where do you find your inspiration for your designs?<\/strong><br\/>My husband and I adore used bookstores, estate sales, and record shops. There are so many wonderful period juxtapositions and genres we’ve collectively forgotten. I am always hunting old books, leafing through old books and digging for new collage materials in scanned public domain archives. I will see a peculiar flower, textile, or a little creature I like and it gives me an idea of a moment or a habitat. Most of my collages are fantasy worlds spun up from playing around with clippings: flowers, creatures, bugs, and any other motifs that I’m drawn to at that moment, or that my clients have asked me to include.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -121,38 +121,6 @@
         "show_recent_posts": false
       }
     },
-    "a8e3bd40-9130-4114-a224-b33b6fa14444": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17923265986875__a8e3bd40-9130-4114-a224-b33b6fa14444-16758530340b5bb877-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/jars_featured.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Alabaster Urn Vases, Set of 3<\/p><p>€1,537<\/p>"
-          }
-        },
-        "template--17923265986875__a8e3bd40-9130-4114-a224-b33b6fa14444-16758530340b5bb877-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Egg-300ml-cafe-latte-cup-and-saucer-red.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Latte Coffee Cup & Saucer<\/p><p>From €16<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17923265986875__a8e3bd40-9130-4114-a224-b33b6fa14444-16758530340b5bb877-0",
-        "template--17923265986875__a8e3bd40-9130-4114-a224-b33b6fa14444-16758530340b5bb877-1"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -176,7 +144,6 @@
     "605e190c-ffd4-4525-aab0-f8d6d6f0d84c",
     "dc5f9b70-18df-4790-b33a-eb5f9595b11e",
     "main",
-    "a8e3bd40-9130-4114-a224-b33b6fa14444",
     "blog-posts"
   ]
 }

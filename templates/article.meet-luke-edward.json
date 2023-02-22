@@ -15,10 +15,10 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "The Flâneurs",
         "page_title": "Meet Luke Edward Hall, Artist and designer, London",
         "title": "",
-        "text": "<p>“Everyone wants a piece of Luke Edward Hall. Take your pick: his ceramics with Alex Eagle, his recent collection for the Royal Academy, his campaign with Burberry,” says Jonathan Mahon-Heap for Semaine. Our personal favourite (Some bias here) will forever be his collaboration with <a href=\"https:\/\/www.maisonflaneur.com\/venues\/cafe-de-la-semaine\/\">Café de la Semaine <\/a>at the <a href=\"https:\/\/www.maisonflaneur.com\/venues\/le-pigalle\/\">Pigalle hotel <\/a>in January of this year.<\/p><p><\/p>",
+        "text": "<p>“Everyone wants a piece of Luke Edward Hall. Take your pick: his ceramics with Alex Eagle, his recent collection for the Royal Academy, his campaign with Burberry,” says Jonathan Mahon-Heap for Semaine. Our personal favourite (Some bias here) will forever be his collaboration with Café de la Semaine at the <a href=\"\/collections\/le-pigalle\" title=\"Le Pigalle\">Pigalle hotel <\/a>in January of this year.<\/p><p><\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -49,7 +49,7 @@
             "image": "shopify:\/\/shop_images\/Semaine-x-Luke-Edward-Hall-Cafe-de-la-Semaine-signed-artist-print-Tobias-the-Tortoise.jpg",
             "link": "",
             "title": "",
-            "description": "<p>Semaine x Luke Edward Hall – Café de la Semaine signed artist print bright green, Tobias the Tortoise<\/p><p>£76<\/p>"
+            "description": "<p>Semaine x Luke Edward Hall – Café de la Semaine signed artist print bright green, Tobias the Tortoise<\/p>"
           }
         },
         "8d574722-6f06-4dd7-9abd-1c88ac4ed944": {
@@ -58,7 +58,7 @@
             "image": "shopify:\/\/shop_images\/CDLS_POSTER_5_grande_06e5b905-291d-495e-ae7b-759dd60705bb.jpg",
             "link": "",
             "title": "",
-            "description": "<p>Semaine x Luke Edward Hall signed artist print pink, Edition of 50<\/p><p>£76<\/p>"
+            "description": "<p>Semaine x Luke Edward Hall signed artist print pink, Edition of 50<\/p>"
           }
         },
         "065fb4fa-51af-44ff-869e-a5abeb0cdb9a": {
@@ -67,7 +67,7 @@
             "image": "shopify:\/\/shop_images\/Semaine-x-Luke-Edward-Hall-Cafe-de-la-Semaine-signed-artist-green-print-Eiffel-Tower.jpg",
             "link": "",
             "title": "",
-            "description": "<p>Semaine x Luke Edward Hall – Café de la Semaine signed artist print, Eiffel Tower<\/p><p>£76<\/p>"
+            "description": "<p>Semaine x Luke Edward Hall – Café de la Semaine signed artist print, Eiffel Tower<\/p>"
           }
         }
       },

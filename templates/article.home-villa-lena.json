@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Make Yourself at Home: Villa Lena, Tuscany, Italy",
+        "width": "large",
+        "subheading": "MAKE YOURSELF AT HOME",
+        "page_title": "Villa Lena, Tuscany",
         "title": "",
         "text": "<p>The current owners of Villa Lena bought the Estate in 2007, in a state of extensive disrepair. Art world professional Lena Evstafieva, musician and producer Jérôme Hadey and Parisian restaurateur and nightclub owner Lionel Bensemoun combined their respective skills and knowledge to redevelop the property and founded Villa Lena Agriturismo and Art Foundation. The project started with an idea to bring their experiences in music, art, entertainment, film, fashion and other creative fields together in one place and create a unique kind of Tuscan retreat.<\/p>",
         "button_link": "",
@@ -31,10 +31,12 @@
         "image": "shopify:\/\/shop_images\/VillaLena-731x1024.jpg",
         "layout": "right",
         "subheading": "",
-        "title": "",
-        "text_block": "<p><strong>What makes Villa Lena so special?<\/strong><\/p><p>Villa Lena cultivates both nature and culture, exemplifying a new way of living and holiday experience. The Villa Lena estate is located between Pisa and Florence, secluded amongst 500 hectares of woodland, vineyards, olive groves, and organic vegetable gardens.<\/p><p> A 19th-century villa sits at the heart of the property, originally built for an Italian aristocratic family. It now houses the Villa Lena Foundation and artist-in-residence programme. Surrounding the villa, converted historic agricultural buildings—former farmhouses, stables and hunting lodges—house self-contained guest apartments and shared facilities.The concept and the estate continues to develop over the seasons, creating an environment where guests and artists from different backgrounds can come together to relax, create and be inspired.<\/p>",
+        "location": false,
+        "title": "What makes Villa Lena so special?",
+        "text_block": "<p><\/p><p>Villa Lena cultivates both nature and culture, exemplifying a new way of living and holiday experience. The Villa Lena estate is located between Pisa and Florence, secluded amongst 500 hectares of woodland, vineyards, olive groves, and organic vegetable gardens.<\/p><p> A 19th-century villa sits at the heart of the property, originally built for an Italian aristocratic family. It now houses the Villa Lena Foundation and artist-in-residence programme. Surrounding the villa, converted historic agricultural buildings—former farmhouses, stables and hunting lodges—house self-contained guest apartments and shared facilities.The concept and the estate continues to develop over the seasons, creating an environment where guests and artists from different backgrounds can come together to relax, create and be inspired.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -56,10 +58,12 @@
         "image": "shopify:\/\/shop_images\/Fattoria_Hesselbrand_Wavy_unnamed-768x1024.jpg",
         "layout": "left",
         "subheading": "",
-        "title": "",
-        "text_block": "<p><strong>What to expect when staying at Villa Lena?<\/strong><\/p><p><a href=\"https:\/\/www.villa-lena.org\/about\">Villa Lena Foundation<\/a>, the residency offers the opportunity to live and work at Villa Lena for six weeks. During this period, the residents infuse the site with the energy, charm and character normally reserved to the art hideouts. While the apartments occupy a number of outlying buildings, for a bit more privacy and a village-like atmosphere that will make you feel like a real Tuscan. This is what makes the time spent at Villa Lena inspiring for anyone there.<\/p>",
+        "location": false,
+        "title": "What to expect when staying at Villa Lena?",
+        "text_block": "<p><\/p><p><a href=\"https:\/\/www.villa-lena.org\/about\">Villa Lena Foundation<\/a>, the residency offers the opportunity to live and work at Villa Lena for six weeks. During this period, the residents infuse the site with the energy, charm and character normally reserved to the art hideouts. While the apartments occupy a number of outlying buildings, for a bit more privacy and a village-like atmosphere that will make you feel like a real Tuscan. This is what makes the time spent at Villa Lena inspiring for anyone there.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -71,11 +75,47 @@
         "image": "shopify:\/\/shop_images\/Villa-Lena-T-Shirt-2-683x1024.jpg",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "",
         "text_block": "<p><strong>Maison Flaneur Recommends<\/strong><\/p><p>Creativity and collaboration underscore life at Villa Lena with a program of events ranging from artists’ talks to children’s activities, al fresco film screenings to cooking workshops, and candlelit concerts to poolside DJ sets. Guests can spend their days exploring the woodlands or visiting nearby legendary towns and cities such as Lucca, San Gimignano, Siena, or Florence. They can also learn to make fresh pasta, forage for truffles, socialise over cocktails, or simply relax poolside. Each evening guests and artists gather in the restaurant for a communal dining experience based on a seasonal organic menu that is rooted in Italian cuisine. What else?<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
+      }
+    },
+    "5a3b049e-d00d-46df-b1c5-33751dfd7146": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17836978405691__5a3b049e-d00d-46df-b1c5-33751dfd7146-1677009039faa48c96-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17836978405691__5a3b049e-d00d-46df-b1c5-33751dfd7146-1677009039faa48c96-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17836978405691__5a3b049e-d00d-46df-b1c5-33751dfd7146-1677009039faa48c96-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17836978405691__5a3b049e-d00d-46df-b1c5-33751dfd7146-1677009039faa48c96-0",
+        "template--17836978405691__5a3b049e-d00d-46df-b1c5-33751dfd7146-1677009039faa48c96-1",
+        "template--17836978405691__5a3b049e-d00d-46df-b1c5-33751dfd7146-1677009039faa48c96-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHOP",
+        "title": "THE COLLECTION",
+        "collection": "villa-lena",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -89,36 +129,6 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
-      }
-    },
-    "bf7ff26e-5dd0-4798-b3f3-9005732e191e": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/NiklasAdrianVindelev_sanmichele_bedroom_01-1024x684-1-1024x684.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
-      }
-    },
-    "dc71d0dd-9506-4403-a89b-192540dbfc93": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Copia-di-NiklasAdrianVindelev_sanmichele_bedroom_08-scaled-1-1024x684.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
-      }
-    },
-    "accc8a4a-2bc5-4e8a-88b9-43f4fcbf73f9": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Copy-of-NiklasAdrianVindelev_VillaLena_Renacchi1-2-1024x684.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
       }
     },
     "blog-posts": {
@@ -142,10 +152,8 @@
     "63fb4e51-6aff-4824-a93e-96e678eb059a",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "7cd28607-9c98-46c2-886c-00469a0d1f23",
+    "5a3b049e-d00d-46df-b1c5-33751dfd7146",
     "main",
-    "bf7ff26e-5dd0-4798-b3f3-9005732e191e",
-    "dc71d0dd-9506-4403-a89b-192540dbfc93",
-    "accc8a4a-2bc5-4e8a-88b9-43f4fcbf73f9",
     "blog-posts"
   ]
 }

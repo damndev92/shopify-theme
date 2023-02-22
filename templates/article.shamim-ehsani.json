@@ -14,11 +14,11 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
         "page_title": "Meet Shamim Ehsani, Tribe Hotel, Nairobi",
         "title": "",
-        "text": "<p>Shamim Ehsani is the all-around visionary, co-founder and marketing director of Tribe hotel, the five-star hotel in Nairobi, Kenya. After traveling around the world, Shamim and his brother wanted to build a hotel that encapsulated the city’s African spirit, whilst offering a fresh and creative vision. Tribe hotel is in his image: original, singular and relatable. We sit down with Shamim to discuss his favorite Kenyan recipe, Nairobi’s best-kept secret, and his biggest wish for Tribe Hotel in 2021<\/p>",
+        "text": "<p>Shamim Ehsani is the all-around visionary, co-founder and marketing director of Tribe hotel, the five-star hotel in Nairobi, Kenya. After traveling around the world, Shamim and his brother wanted to build a hotel that encapsulated the city’s African spirit, whilst offering a fresh and creative vision. Tribe hotel is in his image: original, singular and relatable. We sit down with Shamim to discuss his favorite Kenyan recipe, Nairobi’s best-kept secret, and his biggest wish for Tribe Hotel in 2021. <\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -106,6 +106,40 @@
         "button_label": ""
       }
     },
+    "23349ad1-c865-4a85-877a-65adc5c2fa1e": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18018726871355__23349ad1-c865-4a85-877a-65adc5c2fa1e-16769854010078795c-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18018726871355__23349ad1-c865-4a85-877a-65adc5c2fa1e-16769854010078795c-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18018726871355__23349ad1-c865-4a85-877a-65adc5c2fa1e-16769854010078795c-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18018726871355__23349ad1-c865-4a85-877a-65adc5c2fa1e-16769854010078795c-0",
+        "template--18018726871355__23349ad1-c865-4a85-877a-65adc5c2fa1e-16769854010078795c-1",
+        "template--18018726871355__23349ad1-c865-4a85-877a-65adc5c2fa1e-16769854010078795c-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Subheading",
+        "title": "Featured collection",
+        "collection": "tribe-hotel",
+        "grid": 3,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -149,6 +183,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "2911cb60-becd-4483-892b-111a5dbf9f3c",
+    "23349ad1-c865-4a85-877a-65adc5c2fa1e",
     "main",
     "e8296e29-c925-4780-a196-ea4ee3e07e39",
     "blog-posts"

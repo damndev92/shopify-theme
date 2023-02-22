@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/220l0p000000fh79x82DD_R_1136_750_R5_D-1024x676.jpg",
+        "image": "shopify:\/\/shop_images\/exterior.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Flân’  Club: Alessandro Palazzi, The Dukes, London, UK",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet 'The Bartender' Alessandro Palazzi, The Dukes, London",
         "title": "",
         "text": "<p>For the past 35 years, hidden within the quiet streets of St. James in London, the bar of the Dukes Hotel, has been home to a Martini so unique it’s actually refered to as the best Martini in the world. The Duke's bar, which was Ian Fleming’s favorite in London, was the first bar in the world to prepare the Martinis in the trolley and to do it with a frozen glass and frozen gin.  Alessandro Palazzi, head bartender since 2007, is some sort of a legend in the bartending world. The “maestro of the martini” talks to us about his career, the magic behind a hotel bar and his favourite James Bond.<\/p>",
         "button_link": "",
@@ -44,11 +44,11 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "",
         "page_title": "",
         "title": "",
-        "text": "<p><strong>And you didn't speak peerfect English at the time.<\/strong><br\/>Absolutely not. At these fancy wine tastings, I would just look and copy what other people were doing. If they were laughing I laughed, if they spat, I spat. It was like a Coluche movie. It was an incredible experience. Then I came back to London and joined the Savoy, but I was sacked after two weeks… I was just talking too much. I then went to The Berkeley where I learned the floor at the restaurant. I thought it was essential to learn more than just bartend. After that, it was California, thanks to an Italian couple, I was friends’ with. But I didn’t last long. I stayed there for six months. Los Angeles wasn’t for me. But I could easily write a script for Mr. Tarantino.<\/p><p><strong>What do you mean?<\/strong><br\/>Let’s just say I got myself in some unusual situations.<br\/>Anyway, I went back to Europe. I was trying to open a business in Perugia when I got a telephone call from The Ritz in Paris asking me if I wouldn’t mind becoming a premier barman. He didn’t finish the call, that I was already on my way. That was in 1997. After that, I came back to London at the Mandarin Oriental, for about two years. Then, I was fortunate to come work in a hotel that used to be in Nothing Hill Gate. It has since closed, but at the time it was the trendiest location among the music crowd. In an area full of recording studios, they would come there to relax. It was another time, there were no paparazzi, no show-off. It was all about music. Oasis, Boyzone…  they were all there.<\/p><p><strong>Then in 2000, you opened The Great Eastern with Sir Terence Conran in Liverpool Street which is now the Hyatt.<\/strong><br\/>Yes, at that time, as I mentioned people had a completely different way of considering service. It was modern yet very classic. We used to organise rave parties on the weekend, and I mean proper rave parties; for which we had to build a suitable sound wall. We were the pioneers of the Shoreditch scene. It’s interesting because today businessmen in hotels only care about plugs for their computer.  They don’t know if they are in London, New-York or Paris. At the time of the Great Eastern, we were proposing something drastically different, sometimes extreme. Then the hotel got sold to the Hyatt. I didn’t want to work for such a big group. There was an opportunity to come to the Duke’s as a manager in 2007.  I have been there since… I’ve done the short version, but I can continue if you have some time.<\/p><p><strong>Can you tell us what the craziest demand from a customer you ever had in a hotel is?<\/strong> I’ve got quite a few.  Someone asked me to call British Airways to change the time of his flight.<\/p>",
+        "text": "<p><strong>And you didn't speak perfect English at the time.<\/strong><br\/>Absolutely not. At these fancy wine tastings, I would just look and copy what other people were doing. If they were laughing I laughed, if they spat, I spat. It was like a Coluche movie. It was an incredible experience. Then I came back to London and joined the Savoy, but I was sacked after two weeks… I was just talking too much. I then went to The Berkeley where I learned the floor at the restaurant. I thought it was essential to learn more than just bartend. After that, it was California, thanks to an Italian couple, I was friends’ with. But I didn’t last long. I stayed there for six months. Los Angeles wasn’t for me. But I could easily write a script for Mr. Tarantino.<\/p><p><strong>What do you mean?<\/strong><br\/>Let’s just say I got myself in some unusual situations.<br\/>Anyway, I went back to Europe. I was trying to open a business in Perugia when I got a telephone call from The Ritz in Paris asking me if I wouldn’t mind becoming a premier barman. He didn’t finish the call, that I was already on my way. That was in 1997. After that, I came back to London at the Mandarin Oriental, for about two years. Then, I was fortunate to come work in a hotel that used to be in Nothing Hill Gate. It has since closed, but at the time it was the trendiest location among the music crowd. In an area full of recording studios, they would come there to relax. It was another time, there were no paparazzi, no show-off. It was all about music. Oasis, Boyzone…  they were all there.<\/p><p><strong>Then in 2000, you opened The Great Eastern with Sir Terence Conran in Liverpool Street which is now the Hyatt.<\/strong><br\/>Yes, at that time, as I mentioned people had a completely different way of considering service. It was modern yet very classic. We used to organise rave parties on the weekend, and I mean proper rave parties; for which we had to build a suitable sound wall. We were the pioneers of the Shoreditch scene. It’s interesting because today businessmen in hotels only care about plugs for their computer.  They don’t know if they are in London, New-York or Paris. At the time of the Great Eastern, we were proposing something drastically different, sometimes extreme. Then the hotel got sold to the Hyatt. I didn’t want to work for such a big group. There was an opportunity to come to the Duke’s as a manager in 2007.  I have been there since… I’ve done the short version, but I can continue if you have some time.<\/p><p><strong>Can you tell us what the craziest demand from a customer you ever had in a hotel is?<\/strong> <\/p><p>I’ve got quite a few.  Someone asked me to call British Airways to change the time of his flight.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -87,7 +87,7 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "",
         "page_title": "",
         "title": "",
@@ -100,7 +100,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/Salon2-819x1024.jpg",
         "layout": "right",
         "subheading": "",
@@ -122,7 +122,7 @@
             "image": "shopify:\/\/shop_images\/Slide5-Dukes-Martini-Hotel-London-Alessandro-Palazzi-Cocktail-Recipe-1-1024x576.jpg",
             "link": "",
             "title": "",
-            "description": "<p><a href=\"https:\/\/www.maisonflaneur.com\/flan-club-alessandro-palazzis-martini-recipe-london-uk\/\"><strong>Discover Alessandro’s Martini Recipe <\/strong><\/a><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/st-jamess-hotel-club\/\"><strong>Discover the best of English clubs interior at the St James Hotel. <\/strong><\/a><\/p>"
+            "description": ""
           }
         }
       },

@@ -14,13 +14,23 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Make Yourself at Home: Review of the St James Hotel, London",
+        "width": "large",
+        "subheading": "MAKE YOURSELF AT HOME",
+        "page_title": "St James Hotel, London",
         "title": "",
         "text": "<p>The 5 star boutique hotel is located, in a quiet cul-de-sac in the heart of Mayfair, moments from Buckingham Palace and St. James’s Palace, the exclusive shops of Jermyn Street, the Burlington Arcade, Bond Street, The Royal Academy of Arts, and only a short stroll from the theatres and nightlife of the West End.<\/p>",
         "button_link": "",
         "button_label": ""
+      }
+    },
+    "43e4e854-300c-4eec-9eac-56bc162d560c": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Credit-Jade-Nina-Sarkhel-Interior-Photographer-29-1024x683.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
       }
     },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
@@ -31,10 +41,12 @@
         "image": "shopify:\/\/shop_images\/bathrobe-1024x1024.jpg",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "",
-        "text_block": "<p>The exclusive property dates back to 1857 when an English aristocrat and Sardinian minister decided to found a London club for traveling diplomats. The club welcomed Winston Churchill, Henry James, and James Bond creator Ian Fleming, among others, until it closed in the 1970s. In 1980, Peter de Savary took the name and opened a hotel and club in its current premises. The honorary club committee members included Sean Connery and Michael Caine. It’s now owned by German hotel group Althoff. In this Victorian townhouse, you’ll find wood-paneled walls, polished natural stone and the Rosenstein art collection — a mix of impressionist, expressionist and Cubist paintings and artwork.<\/p><p><strong>Learn everything you need to know about the legendary club in the video below<\/strong><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/st-jamess-hotel-club\/\">Discover their collection here <\/a><\/p>",
+        "text_block": "<p>The exclusive property dates back to 1857 when an English aristocrat and Sardinian minister decided to found a London club for traveling diplomats. The club welcomed Winston Churchill, Henry James, and James Bond creator Ian Fleming, among others, until it closed in the 1970s. In 1980, Peter de Savary took the name and opened a hotel and club in its current premises. The honorary club committee members included Sean Connery and Michael Caine. It’s now owned by German hotel group Althoff. In this Victorian townhouse, you’ll find wood-paneled walls, polished natural stone and the Rosenstein art collection — a mix of impressionist, expressionist and Cubist paintings and artwork.<\/p><p><\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -42,16 +54,6 @@
       "type": "image--image",
       "settings": {
         "image": "shopify:\/\/shop_images\/Credit-Jade-Nina-Sarkhel-Interior-Photographer-42-1024x617.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
-      }
-    },
-    "43e4e854-300c-4eec-9eac-56bc162d560c": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Credit-Jade-Nina-Sarkhel-Interior-Photographer-29-1024x683.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -83,25 +85,15 @@
         "show_blog_images": true,
         "imageSize": "square"
       }
-    },
-    "27c30450-f1af-466d-a52f-866087fb9ece": {
-      "type": "image--image",
-      "settings": {
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
-      }
     }
   },
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
+    "43e4e854-300c-4eec-9eac-56bc162d560c",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "2e6d6007-076c-4827-8def-eadba398497c",
-    "43e4e854-300c-4eec-9eac-56bc162d560c",
     "main",
-    "blog-posts",
-    "27c30450-f1af-466d-a52f-866087fb9ece"
+    "blog-posts"
   ]
 }

@@ -14,11 +14,11 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
         "page_title": "Meet Carlos Naude and Whitney Brown, Casa Mami, Los Angeles",
         "title": "",
-        "text": "<p>Casa Mami, the eco-friendly design retreat, in Pioneertown, California, hosts visitors at the edge of Joshua Tree National Park and invites their clients to go home with the objects they loved. With such a Flaneur philosophy we couldn’t be more proud to introduce the incredible duo behind Casa Mami – Soon on Maison Flâneur.<\/p>",
+        "text": "<p>Casa Mami, the eco-friendly design retreat, in Pioneertown, California, hosts visitors at the edge of Joshua Tree National Park and invites their clients to go home with the objects they loved. With such a Flaneur philosophy we couldn’t be more proud to introduce the incredible duo behind Casa Mami. <\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -133,7 +133,7 @@
             "image": "shopify:\/\/shop_images\/GV5A9928-copy-1024x679.jpg",
             "link": "",
             "title": "",
-            "description": "<p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/casa-mami\/\"><strong>Soon on Maison Flaneur<\/strong><\/a><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/shop\/\"><strong>See our full collection here. <\/strong><\/a><\/p>"
+            "description": ""
           }
         }
       },

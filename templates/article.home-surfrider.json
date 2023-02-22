@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Make Yourself at Home: Review of Surfrider, Malibu",
+        "width": "large",
+        "subheading": "MAKE YOURSELF AT HOME",
+        "page_title": "Surfrider, Malibu",
         "title": "",
         "text": "<p>Located in one of the more fabled spots of the Pacific Coast Highway, the Surfrider Hotel overlooks the sublime Surfrider Beach in Malibu where it is said that Hollywood discovered surfing.<\/p>",
         "button_link": "",
@@ -27,20 +27,44 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "",
+        "page_title": "",
         "title": "What makes the Surfrider Hotel so special?",
-        "text": "<p>“Make yourself at home” is a common theme at this California Beach House. Think <a href=\"https:\/\/www.maisonflaneur.com\/product\/handmade-hammock-thick-pattern\/\">hammocks<\/a>, surfboards, and pure relaxation. The design itself, a mix between Australian\/Californian chic and Scandinavian design gives you this feel-good, wholesome vibe from the moment you step indoors, to long after you leave. The Surfrider has an unconditional approach to hospitality; designed, developed, and operated by the owners: husband and wife duo Matthew Goodwin and Emma Crowther, this community lead, farm-to-table, welcoming boutique hotel is your ultimate Californian dream<\/p>",
+        "text": "<p>“Make yourself at home” is a common theme at this California Beach House. Think hammocks, surfboards, and pure relaxation. The design itself, a mix between Australian\/Californian chic and Scandinavian design gives you this feel-good, wholesome vibe from the moment you step indoors, to long after you leave. The Surfrider has an unconditional approach to hospitality; designed, developed, and operated by the owners: husband and wife duo Matthew Goodwin and Emma Crowther, this community lead, farm-to-table, welcoming boutique hotel is your ultimate Californian dream<\/p>",
         "button_link": "",
         "button_label": ""
+      }
+    },
+    "48e95c53-b982-474a-bc71-2fffdd065a41": {
+      "type": "image--gallery",
+      "blocks": {
+        "a42234f2-414f-45ea-9542-e1e503bf342f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Surfrider2-1024x441.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "a42234f2-414f-45ea-9542-e1e503bf342f"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
       }
     },
     "df0c14f8-dd78-4967-8636-29a50f3489f9": {
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "",
+        "page_title": "",
         "title": "What to expect when staying at Surfrider Hotel?",
         "text": "<p>Expect being woken up by the smell of warm bread and pastries from Venice’s favourite bakery, Gjusta, and revived by the fresh and fruity acai bowls. Sign up to the picnic program and let the Surfrider team prepare you a fresh picnic from the local farmer’s market, with crisp Californian white wine. Enjoy your surroundings with fully customized hiking maps and experiences that only locals know about. After a full day of hiking, surfing, or just enjoying Malibu’s splendor, revel in the warm outdoor shower before hitting the rooftop bar for a well-deserved cocktail.<\/p>",
         "button_link": "",
@@ -51,14 +75,16 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/the-surfrider-malibu-conde-nast-traveller-27march18-pr-683x1024.jpg",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "Maison Flâneur Recommends",
-        "text_block": "<p>With everything organic and from a local farmer, surfboards made by local shaper complimentary for guest use, you’re sure to leave feeling better than you did when you arrived.<\/p><p>The stay is best for couples or pairs of friends, the private yet sociable environment is perfect for meeting new people.<\/p><p><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/the-surfrider\/\">Discover the full collection here<\/a><\/p>",
+        "text_block": "<p>With everything organic and from a local farmer, surfboards made by local shaper complimentary for guest use, you’re sure to leave feeling better than you did when you arrived.<\/p><p>The stay is best for couples or pairs of friends, the private yet sociable environment is perfect for meeting new people.<\/p><p><\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -106,58 +132,6 @@
         "title": ""
       }
     },
-    "48e95c53-b982-474a-bc71-2fffdd065a41": {
-      "type": "image--gallery",
-      "blocks": {
-        "a42234f2-414f-45ea-9542-e1e503bf342f": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Surfrider2-1024x441.jpg",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "a42234f2-414f-45ea-9542-e1e503bf342f"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
-    "7f3c857a-d60f-4657-9355-402dc77b04c6": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/Custom-Surfrider-Hammock-Thick-Pattern-2.jpg",
-        "layout": "left",
-        "subheading": "",
-        "title": "Private: Handmade Hammock – Thick Pattern",
-        "text_block": "<p>€712<\/p><p>Handwoven hammocks by tribal artisans in the Amazon Rainforest. Made with buriti palm, each hammock takes 4 months to make. Extremely rare and limited production.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "button_label": ""
-      }
-    },
-    "62887565-c7c0-42b4-bb0e-3f4de4181b8b": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/Custom-Surfrider-Hammock-Thin-Pattern.jpg",
-        "layout": "right",
-        "subheading": "",
-        "title": "Private: Handmade Hammock – Thin Pattern",
-        "text_block": "<p>€712<\/p><p>Handwoven hammocks by tribal artisans in the Amazon Rainforest. Made with buriti palm, each hammock takes 4 months to make. Extremely rare and limited production.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -189,13 +163,11 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "b05e8a59-f2de-4100-a150-84680f4889e7",
+    "48e95c53-b982-474a-bc71-2fffdd065a41",
     "df0c14f8-dd78-4967-8636-29a50f3489f9",
     "00e44962-d24a-44c6-bbee-db869847c1f8",
     "03707bfc-f267-40c7-bf20-fa06d866c2fb",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
-    "48e95c53-b982-474a-bc71-2fffdd065a41",
-    "7f3c857a-d60f-4657-9355-402dc77b04c6",
-    "62887565-c7c0-42b4-bb0e-3f4de4181b8b",
     "main",
     "blog-posts"
   ]

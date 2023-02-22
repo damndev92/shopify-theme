@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Flân’ Club: Meet Laura Roso Vidrequin, Founder of Kids O’clock",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet Laura Roso Vidrequin, Founder of Kids O’clock, London",
         "title": "",
         "text": "<p>After many years spent in New York working as a fashion buyer, the French-born Laura Roso Vidrequin settled down with her family in London. Laura is the mother of one-year-old Albert and the founder of the genius second-hand children’s website Kids O’clock. She is the French girl we’ve all dreamed to be, intuitive and witty, effortlessly cool; we were lucky enough to ask Laura about her inspirations, her design addresses, and what she loves in interiors.<\/p>",
         "button_link": "",
@@ -87,28 +87,6 @@
         "show_recent_posts": false
       }
     },
-    "2b33dc93-cc18-4988-9472-227fa251c697": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17910268756283__2b33dc93-cc18-4988-9472-227fa251c697-1675766470c68fe722-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MF_DO_AmourGlasses_Silo-1_7368ab50-0fe2-440b-a591-25dafb227043.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Verres Amour, Set of 4<\/p><p>£48<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17910268756283__2b33dc93-cc18-4988-9472-227fa251c697-1675766470c68fe722-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "Laura's Selection"
-      }
-    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -130,7 +108,6 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "72208dd3-630e-4393-9ff3-53a3de35551c",
     "main",
-    "2b33dc93-cc18-4988-9472-227fa251c697",
     "blog-posts"
   ]
 }

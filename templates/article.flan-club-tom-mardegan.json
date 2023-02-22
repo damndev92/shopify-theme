@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Flân’ Club: Tom Mardegan & Leti Anzalotta, N2S Italia, London",
+        "width": "large",
+        "subheading": "THE FLÂNEURAS",
+        "page_title": "Meet Tom Mardegan & Leti Anzalotta, N2S Italia, London",
         "title": "",
         "text": "<p><a href=\"https:\/\/www.n2sitalia.com\/\">N2S Italia <\/a>designs bespoke upscale experiences and events from “North to South” Italy with a brand new and hands-on approach. For the two young founders, Tommaso from Milan and Letizia from Puglia, the definition of luxury includes authenticity and sustainability. We sit down with them to discover more about N2S motto, their travel philosophy and their best and worst travel memories.<\/p>",
         "button_link": "",
@@ -172,38 +172,6 @@
         "show_recent_posts": false
       }
     },
-    "602e985c-5666-4575-aae8-628824e1870f": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17924043866427__602e985c-5666-4575-aae8-628824e1870f-167586304185972204-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Handpainted-Marisco-Plate-Bundle-Set-of-4--1024x1024.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Handpainted Marisco Plate Bundle, Set of 4<\/p><p>£120<\/p>"
-          }
-        },
-        "template--17924043866427__602e985c-5666-4575-aae8-628824e1870f-167586304185972204-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MF_DO_AmourGlasses_Silo-1_68d449c6-ecc4-4a55-ae72-27b0616fa0ac.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Verres Amour, Set of 4<\/p><p>£48<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17924043866427__602e985c-5666-4575-aae8-628824e1870f-167586304185972204-1",
-        "template--17924043866427__602e985c-5666-4575-aae8-628824e1870f-167586304185972204-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -230,7 +198,6 @@
     "a39ca12e-4066-4cfa-a06d-44c4616f2fbf",
     "1642c1cd-3d58-4350-951b-3e68db0cf119",
     "main",
-    "602e985c-5666-4575-aae8-628824e1870f",
     "blog-posts"
   ]
 }
