@@ -23,17 +23,26 @@
         "button_label": ""
       }
     },
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
-      "type": "text--rich-text",
+    "f7fda231-e09b-4081-982c-34ef50071ca0": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18086052167995__f7fda231-e09b-4081-982c-34ef50071ca0-1677074900987d213b-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-4-1024x576.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18086052167995__f7fda231-e09b-4081-982c-34ef50071ca0-1677074900987d213b-2"
+      ],
       "settings": {
-        "colors": "light",
-        "width": "small",
-        "subheading": "",
-        "page_title": "",
-        "title": "Date Night",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
+        "colors": "white",
+        "subheading": "1.BELMOND HOTEL CARUSO, RAVELLO",
+        "title": ""
       }
     },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
@@ -100,7 +109,7 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
+    "f7fda231-e09b-4081-982c-34ef50071ca0",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
