@@ -108,6 +108,23 @@
         "button_label": ""
       }
     },
+    "6d394924-a0d5-41aa-9a98-a4456727de16": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Copy-of-Green-and-Salmon-Text-Food-Influencer-Maximalism-Highlight-Cover-Set-12-731x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>In 1929, only a few years after Ruhlmann’s first metal creations, Le Corbusier’s architecture practice (where the future leading figures of French design Charlotte Perriand and Pierre Jeanneret were working) showed his first seats in bent metal. Metal furniture became more and more easy to produce (and reproduce) and the door of the social revolution became wide open…<\/p><p>Next time you fearlessly turn on the heat sitting in your cantilever chair have a thankful thought for Jacques-Emile.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -143,6 +160,7 @@
     "0d210fd6-91f7-43d0-a517-1c75da9c64e2",
     "3519401c-6ebf-4962-a2c1-9ce0a052d2a5",
     "03807ec0-897f-497f-a6d8-c925d20c8a8b",
+    "6d394924-a0d5-41aa-9a98-a4456727de16",
     "main",
     "blog-posts"
   ]
