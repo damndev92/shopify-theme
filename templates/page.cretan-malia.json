@@ -52,7 +52,7 @@
         "subheading": "",
         "page_title": "",
         "title": "",
-        "text": "<p><br\/>Cretan Malia Park's traditional materials, textures, and colors of Crete, as well as curious indigenous objects combine to curate a warm atmosphere. Walnut, chestnut, and bamboo combine with rattan, ceramic, stone, and brass to create a palette of wood tones, mustard yellow, copper-red, blue, green, and orange that imparts a relaxed, boho mood in the bright, airy rooms. Murals artistically bring the nature of Crete inside the living spaces and serve as main focal points for the interior design.<\/p>",
+        "text": "<p><br\/>Swaying palms, Indian figs, and banana trees are part of an exotic garden that serves as a strong reference point and a dynamic architectural element that animates the property. The hotel’s modernist structures were constructed in the late 1980s by Antonis Stylianides, who once worked with Bauhaus legend Walter Gropius. Cretan Malia Park was fully renovated in 2018 by Vana Pernari, who used assorted colors, materials, and styles from multiple design eras, while still maintaining a strong Cretan identity.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -134,7 +134,7 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Cretan Malia",
+        "subheading": "",
         "title": "Shop the look"
       }
     },
@@ -405,7 +405,7 @@
         "width": "medium",
         "subheading": "The rooms",
         "page_title": "",
-        "title": "Take A Peek Inside",
+        "title": "Take a peek inside",
         "text": "<p><br\/>A Bauhaus inflected property, Cretan Malia Park's light-filled suites and bungalows are packed with natural wood textures, earthy tones and indoor plants and contrast with their polished copper and geometric tiles, They are placed around a sinuous river pool framed by lush gardens.<\/p>",
         "button_link": "",
         "button_label": ""
@@ -490,17 +490,6 @@
         "show_blog_images": true,
         "imageSize": "portrait"
       }
-    },
-    "d58cdf89-8a91-4c4a-8130-de04ef80f6f1": {
-      "type": "maison--btn",
-      "settings": {
-        "btn": "Shop the Cretan Malia Collection",
-        "url": "",
-        "link": "shopify:\/\/collections\/cretan-malia",
-        "bg_color": "#e28065",
-        "padding_top": 25,
-        "padding_bottom": 25
-      }
     }
   },
   "order": [
@@ -518,7 +507,6 @@
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "e7c3e67e-84e8-4f3e-a73b-f1bcf90c88fd",
-    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
-    "d58cdf89-8a91-4c4a-8130-de04ef80f6f1"
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
   ]
 }
