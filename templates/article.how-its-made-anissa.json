@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "c5959988-e1e6-4e99-87f0-832c394ae0f7": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/41-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Phase 4<\/strong><\/p><p><strong>Breaking<\/strong>. Once the standard shape is achieved, the glass blower wraps the blow pipe and swiftly away.<\/p><p><strong>Phase 5<\/strong><\/p><p><strong>Hot cutting<\/strong>. While the glass is still hot enough to be malleable, straight shears are used to finish off the edges and trim the glass down.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "b132d7a9-ce21-42d8-9437-10775d31c5da",
+    "c5959988-e1e6-4e99-87f0-832c394ae0f7",
     "main",
     "blog-posts"
   ]
