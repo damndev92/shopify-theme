@@ -80,6 +80,23 @@
         "text-over-image-width": "full-width"
       }
     },
+    "d08268f8-d91f-4e8b-8f96-e5c0323c8186": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/fb717ec1b1e87d73f8c4193e7e568ade-819x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><\/p><p>A version of the ‘artichoke’ lamp devised to explore the colour potential of fluorescent lamps. <\/p><p>PH was born in 1894 which means that he lived through the transition from candles and gaslight to electrical domestic light. As I was researching Scandinavian pieces of design I stumbled upon fragments of his writings in which he expressed how disturbed he was by the harshness of the light emanating from the lightbulbs. <\/p><p>Unsurprisingly he became quite obsessed with electric fittings. When he started working as an architect, light fittings were still closely connected to the idea of burning candles or gas lights. He first broke away from the glass prism as a light scattering device by creating a tulip shaped lampshade which radiated the source of light directly and diffusely. A first breakthrough.<\/p><p>In 1921 he created – in conjunction with the artist Axel Salto -the first lamp with horizontally shaped shades to conceal the light source and use reflection to scatter warm light throughout the room. The system is based on PH theory of the three shadows; <\/p><p>The ‘little’ shadow that allows seeing the pen hit the paper, the one you don’t notice but that is essential, <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -101,6 +118,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "e3b6ed7a-7634-44fd-8f87-ae903ae0de49",
+    "d08268f8-d91f-4e8b-8f96-e5c0323c8186",
     "blog-posts"
   ]
 }
