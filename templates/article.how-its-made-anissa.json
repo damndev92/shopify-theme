@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "ab181613-7fe9-4ecc-a9c0-cf24a8ef602d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/51-1024x1024_e2c19c3e-7845-432c-a713-c2b7112d33f3.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Phase 6",
+        "text_block": "<p><strong>In the oven<\/strong>. The final step! Since the Popotins are pretty much perfect at this point, it’s time for the annealing oven. This high heat furnace is used by the glass blowers to eliminate any stresses that were created during the previous phases. It slowly and evenly heats the glass, thus removing any remaining dimples or depressions. After a brief “soaking” period, the oven gradually returns to room temperature.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "b132d7a9-ce21-42d8-9437-10775d31c5da",
     "c5959988-e1e6-4e99-87f0-832c394ae0f7",
+    "ab181613-7fe9-4ecc-a9c0-cf24a8ef602d",
     "main",
     "blog-posts"
   ]
