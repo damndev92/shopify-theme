@@ -108,17 +108,29 @@
         "template--17824613433659__b3efa4cb-a408-442f-a3e0-b6d52e8bf4a3-1676391521c92cff8d-0": {
           "type": "product",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Thyme_Shop_the_Look.jpg",
+            "image": "shopify:\/\/shop_images\/3_996e0be0-f361-41d8-ac26-36dbd62b6acf.png",
             "image__position": "image--left",
             "product": "buttercup-linen-placemat",
             "product-2": "buttercup-linen-napkin",
-            "product-3": "bertioli-by-thyme-fern-printed-placemat",
-            "product-4": "bertioli-by-thyme-fern-printed-napkins"
+            "product-3": "buttercup-linen-table-cloth",
+            "product-4": "cherry-blossom-linen-napkin"
+          }
+        },
+        "1febb4f6-ce73-4eb3-8da0-da8d8b1db082": {
+          "type": "product",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_6e191360-828b-49cf-97d9-63f95ec011db.png",
+            "image__position": "image--left",
+            "product": "dahlia-linen-table-cloth",
+            "product-2": "dahlia-linen-placemat",
+            "product-3": "dahlia-linen-napkin",
+            "product-4": "almond-blossom-linen-napkin"
           }
         }
       },
       "block_order": [
-        "template--17824613433659__b3efa4cb-a408-442f-a3e0-b6d52e8bf4a3-1676391521c92cff8d-0"
+        "template--17824613433659__b3efa4cb-a408-442f-a3e0-b6d52e8bf4a3-1676391521c92cff8d-0",
+        "1febb4f6-ce73-4eb3-8da0-da8d8b1db082"
       ],
       "settings": {
         "colors": "white",
