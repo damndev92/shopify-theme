@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "b67ffdb6-d12c-4a59-8a22-0ea7737188d0": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Schermata-2021-05-12-alle-15.46.26.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>After opening this club in 1977, the night impresarios Ian Schrager and Steve Rubell decided to continue to shake things up by opening The Morgans hotel on Madison avenue. The Morgans, decorated by French designer Andrée Putman, created a hospitality worldwide phenomenon – smaller hotels for trendy patrons who do not want to stay in generic places and feel a vision of originality. So when Philippe Starck received that phone call, Ian Shrager had already tested or rather invented the waters – ‘that is to say, it was the first time that there was a real act of creation, really personal, really modern, really inventive, but which had the ambition to become a classic’Transcending class conventions Starck provided tricks and surprises to make people forget that they were staying in small rooms. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "b67ffdb6-d12c-4a59-8a22-0ea7737188d0",
     "main",
     "blog-posts"
   ]
