@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "b132d7a9-ce21-42d8-9437-10775d31c5da": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/31-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Phase 3",
+        "text_block": "<p><strong>Blowing and shaping<\/strong>. If you’ve ever been to Venice, you’ve probably seen glassblowers at work. This is a pretty jaw-dropping process. One of our glass blowers feeds air into the molten glob, twisting and turning it along the way to create Anissa’s classic hippy shape.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "b132d7a9-ce21-42d8-9437-10775d31c5da",
     "main",
     "blog-posts"
   ]
