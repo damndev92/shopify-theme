@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Destinations: Nairobi by Shamim Ehsani from Tribe Hotel",
+        "width": "large",
+        "subheading": "TRAVEL GUIDES",
+        "page_title": "Discover Nairobi by Shamim Ehsani from Tribe Hotel",
         "title": "",
         "text": "<p>Discover the ultimate insider guide to Nairobi.  Let Shamim Ehsani from Tribe Hotel take you on a tour of his favourite spots in the Kenyan capital.<\/p>",
         "button_link": "",
@@ -196,46 +196,38 @@
         "title": ""
       }
     },
-    "b7b0e586-99ee-4762-aa3d-1daeef9412b1": {
-      "type": "image--gallery",
+    "f64f60e2-1249-4c70-8e04-d67b89d847c7": {
+      "type": "collection--featured-collection",
       "blocks": {
-        "template--17849809109307__b7b0e586-99ee-4762-aa3d-1daeef9412b1-1675330468774c921f-0": {
-          "type": "image",
+        "template--17849809109307__f64f60e2-1249-4c70-8e04-d67b89d847c7-1677143470fbd02c0a-0": {
+          "type": "grid-card-title",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1-7-1024x1024.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Kenyan Cocktail Set<\/p><p>£279<\/p>"
           }
         },
-        "template--17849809109307__b7b0e586-99ee-4762-aa3d-1daeef9412b1-1675330468774c921f-1": {
-          "type": "image",
+        "template--17849809109307__f64f60e2-1249-4c70-8e04-d67b89d847c7-1677143470fbd02c0a-1": {
+          "type": "grid-card-price",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_7877-768x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Savannah Napkin Set<\/p><p>£144<\/p>"
           }
         },
-        "template--17849809109307__b7b0e586-99ee-4762-aa3d-1daeef9412b1-1675330468774c921f-2": {
-          "type": "image",
+        "template--17849809109307__f64f60e2-1249-4c70-8e04-d67b89d847c7-1677143470fbd02c0a-2": {
+          "type": "grid-card-swatches",
           "settings": {
-            "image": "shopify:\/\/shop_images\/white-nyota-votive-1024x1024.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Candle Light – Horn Votive, Set of 2<\/p><p>From £123<\/p>"
           }
         }
       },
       "block_order": [
-        "template--17849809109307__b7b0e586-99ee-4762-aa3d-1daeef9412b1-1675330468774c921f-0",
-        "template--17849809109307__b7b0e586-99ee-4762-aa3d-1daeef9412b1-1675330468774c921f-1",
-        "template--17849809109307__b7b0e586-99ee-4762-aa3d-1daeef9412b1-1675330468774c921f-2"
+        "template--17849809109307__f64f60e2-1249-4c70-8e04-d67b89d847c7-1677143470fbd02c0a-0",
+        "template--17849809109307__f64f60e2-1249-4c70-8e04-d67b89d847c7-1677143470fbd02c0a-1",
+        "template--17849809109307__f64f60e2-1249-4c70-8e04-d67b89d847c7-1677143470fbd02c0a-2"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "",
-        "title": ""
+        "subheading": "SHOP",
+        "title": "TRIBE'S COLLECTION",
+        "collection": "tribe-hotel",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "blog-posts": {
@@ -261,7 +253,7 @@
     "e67137b8-1916-4e98-9b42-7e6d20279842",
     "e18c1cd4-6aec-4324-9d14-f70ef5a432ee",
     "81ade949-d4a3-4806-b432-8e90c95bee96",
-    "b7b0e586-99ee-4762-aa3d-1daeef9412b1",
+    "f64f60e2-1249-4c70-8e04-d67b89d847c7",
     "blog-posts"
   ]
 }

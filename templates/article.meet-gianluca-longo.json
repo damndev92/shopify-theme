@@ -14,8 +14,8 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
         "page_title": "Meet Gianluca Longo, Style Editor of British Vogue, London",
         "title": "",
         "text": "<p>Gianluca Longo is the London based but Italian born Style Editor of British Vogue and Cabana Magazine, for which he styles portraits, interiors, and writes about lifestyle. As an authority on all things beautiful, he regularly hosts talks on fashion and design and consults for various luxury brands. We were lucky enough to ask Gianluca about his inspirations, his design addresses, and what he believes will change in our homes after the pandemic.<\/p>",
@@ -70,48 +70,6 @@
         "show_recent_posts": false
       }
     },
-    "462f5487-45d3-408a-85f1-0a128785d5b7": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17980146352443__462f5487-45d3-408a-85f1-0a128785d5b7-167629011402fdf247-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/mushroom_720x-600x600-1.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Black Mushroom Table Lamp<\/p><p>€226<\/p>"
-          }
-        },
-        "template--17980146352443__462f5487-45d3-408a-85f1-0a128785d5b7-167629011402fdf247-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled-design-49.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Large Terracotta Serving Platter<\/p><p>€433<\/p>"
-          }
-        },
-        "template--17980146352443__462f5487-45d3-408a-85f1-0a128785d5b7-167629011402fdf247-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Olive_Tangier_cb11af91-e45b-4791-9f23-49475fb4b6f9_1600x-removebg-preview.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Tangier Olive Stripe Lampshade<\/p><p>From €140<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17980146352443__462f5487-45d3-408a-85f1-0a128785d5b7-167629011402fdf247-0",
-        "template--17980146352443__462f5487-45d3-408a-85f1-0a128785d5b7-167629011402fdf247-1",
-        "template--17980146352443__462f5487-45d3-408a-85f1-0a128785d5b7-167629011402fdf247-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -132,7 +90,6 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
-    "462f5487-45d3-408a-85f1-0a128785d5b7",
     "blog-posts"
   ]
 }
