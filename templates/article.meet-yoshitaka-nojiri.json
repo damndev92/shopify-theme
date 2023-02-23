@@ -27,7 +27,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/009_trunk-hotel-yoshitaka-nojiri-terrace-city-view-819x1024.jpg",
         "layout": "right",
         "subheading": "",

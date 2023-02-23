@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "08eaf480-623e-42be-b9e4-25932dfcd2d3": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Agave_furniture_Mattia-Albicini_Ethimo_Archi-living_D-e1535060238917-696x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>To escape the Scandinavian winter I would have set my luggage in Sorrento at the <strong>Parco dei Principi<\/strong> designed by Gio Ponti. Mesmerized by the omnipresence of the blue color on the Amalfi coast, Ponti decided to reproduce this chromatic immersion in the hotel. He designed 30 thirty blue and white tiles to be manufactured by the ceramist Agostino di Salerno. The ceramic decorations consisted of a combination of twenty-seven geometric patterns which were reproduced by hand on 20×20 maiolica tiles.<\/p><p>With these, Gio Ponti transformed a hundred rooms, together with the lobby, the reception area, the bar and the restaurant. Another kind <em>gesamthumwerk <\/em>for which he created, of course, every single detail.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "08eaf480-623e-42be-b9e4-25932dfcd2d3",
     "main",
     "blog-posts"
   ]
