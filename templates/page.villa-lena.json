@@ -116,10 +116,21 @@
             "product-3": "",
             "product-4": ""
           }
+        },
+        "49a4bb7c-364a-4278-920a-6f42225f9314": {
+          "type": "product",
+          "settings": {
+            "image__position": "image--left",
+            "product": "1784-collection-wooden-chair",
+            "product-2": "1784-collection-wooden-coffee-table",
+            "product-3": "aged-brass-sculptural-floor-lamp-escargot-by-le-corbusier",
+            "product-4": "al-collection-wooden-chair-handwoven"
+          }
         }
       },
       "block_order": [
-        "template--17824607928635__b7d5c3fe-66fc-4740-86c2-64f8d90e61db-1676391521c92cff8d-0"
+        "template--17824607928635__b7d5c3fe-66fc-4740-86c2-64f8d90e61db-1676391521c92cff8d-0",
+        "49a4bb7c-364a-4278-920a-6f42225f9314"
       ],
       "settings": {
         "colors": "white",
