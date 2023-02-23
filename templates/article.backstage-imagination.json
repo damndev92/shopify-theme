@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/arne-jacobsen-in-front-of-the-sas-royal-hotel-under-construction-1960.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p>On a morning of 1961, you would have found me sitting down at the <strong>Radisson Blu Royal Hotel<\/strong> restaurant with cutlery designed by Jacobsen in 1957 and used in 1968 by astronauts in <em>2001 – (A Space Odyssey<\/em>). In the 1960s, the hotels were a kind of national calling card allowing a country to show off how avant-garde it was. It was part of the apparatus of an ambitious nation comparable to a pavilion at a World Fair or even nuclear power. Originally known as the <strong>SAS Hotel<\/strong>, the Radisson was commissioned in 1955 to Arne Jacobsen by the Scandinavian Airlines System (a conglomerate of the Norwegian, Danish, and Swedish national airlines) and opened its doors in July 1960. <\/p><p>Thought like a total work of art by Jacobsen who designed not only the building but every interior detail from the light fixtures, the carpets, the dinnerware, etc. It was the birthing project for iconic designs such as the groovy and whimsical ‘egg’, ‘drop’ and ‘swan’ chairs.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
