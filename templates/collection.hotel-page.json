@@ -107,7 +107,7 @@
         "colors": "white",
         "subheading": "Discover more",
         "title": "Destinations",
-        "collection_type": "hotel",
+        "collection_type": "brand",
         "show_location": true,
         "show_buttons_over_image": true,
         "image_size": "big"
