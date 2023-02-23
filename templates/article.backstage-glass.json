@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "80a8cb0a-810e-4f97-8c59-2cf84c691a65": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2021-02-09-at-13.55.38.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Outside of the classical lines but no less elegant are the creations of the ebullient italian designer Ettore Sottsass. His glass creations started in 1972 and followed a humorous tone, playing with shapes, colors and sensuality. This beautiful vase named <em>Sempre piu Casuale<\/em> (Always more casual) was created in 1992 for the Design Gallery in Milano for a collection sarcastically named <em>Rovine <\/em>(Ruins).<\/p><p>Another take on the art of blown glass are the sculptural creations by the american artist Thomas Stearn. In 1960, he arrived in Venice at the age of 24 with a study grant to pursue his interest in colored glass at the Venini glassworks. He was to become a wind of change in the old furnace. Unlike the Italian designers, he saw the glass process with a new eye, questioned the traditional esthetic canons and experimented with techniques. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "80a8cb0a-810e-4f97-8c59-2cf84c691a65",
     "main",
     "blog-posts"
   ]
