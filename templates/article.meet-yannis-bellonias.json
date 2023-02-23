@@ -37,7 +37,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/VoraCover.jpg",
         "layout": "left",
         "subheading": "",
@@ -54,7 +54,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/vora-santorini-exterior-terrace-ocena-view-k-01-x2.jpg",
         "layout": "right",
         "subheading": "",
@@ -71,7 +71,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/vora-santorini-guestroom-cave-view-furniture-interior-design-k-02-x2.jpg",
         "layout": "left",
         "subheading": "",
@@ -88,7 +88,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/vora-rooms-and-suites-a-01-x2.jpg",
         "layout": "right",
         "subheading": "",
@@ -121,7 +121,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "blog-posts": {
