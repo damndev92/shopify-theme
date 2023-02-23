@@ -251,7 +251,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_3c6230dc-c4b2-4cb8-b05f-9f8ac3d2fcfc.png",
         "layout": "left",
         "subheading": "Meet the host- Shamim Ehsani",
