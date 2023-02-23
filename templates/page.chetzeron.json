@@ -251,8 +251,8 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_1.png",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/chetz.png",
         "layout": "left",
         "subheading": "Meet the host - Sami lamaa",
         "location": false,
