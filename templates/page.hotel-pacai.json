@@ -371,6 +371,20 @@
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
+      "blocks": {
+        "91ce5b82-b7ac-46bf-bda6-f52592f92953": {
+          "type": "article",
+          "settings": {
+            "blog_post_1": "flaneur-magazine\/vilnius-by-hotel-pacai",
+            "blog_post_2": "flaneur-magazine\/flan-club-hotel-pacai-vilnius",
+            "blog_post_3": "flaneur-magazine\/meet-ruta-pulkauninkaite-macike-hotel-pacai-vilnius",
+            "blog_post_4": ""
+          }
+        }
+      },
+      "block_order": [
+        "91ce5b82-b7ac-46bf-bda6-f52592f92953"
+      ],
       "settings": {
         "colors": "white",
         "subheading": "Read From",
