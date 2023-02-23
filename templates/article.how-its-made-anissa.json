@@ -108,6 +108,23 @@
         "button_label": ""
       }
     },
+    "2f191aaa-d785-4bab-9bd5-7185bafce413": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/61-1024x1024_019a3da7-7c61-446e-95a3-1aab316291f6.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Phase 7<\/strong><\/p><p><strong>Shipping<\/strong>. Our Popotins are ready for use. They travel from our factory to our HQ and, eventually, to you!<\/p><p><strong>Phase 8<\/strong><\/p><p><strong>Drinking<\/strong>. Or holding flowers. Or candles. The possibilities are endless.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -143,6 +160,7 @@
     "b132d7a9-ce21-42d8-9437-10775d31c5da",
     "c5959988-e1e6-4e99-87f0-832c394ae0f7",
     "ab181613-7fe9-4ecc-a9c0-cf24a8ef602d",
+    "2f191aaa-d785-4bab-9bd5-7185bafce413",
     "main",
     "blog-posts"
   ]
