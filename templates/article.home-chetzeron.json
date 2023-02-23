@@ -56,15 +56,17 @@
     "6b815f6d-bbf6-4be6-9fc8-145b2229f9ea": {
       "type": "image--image",
       "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_1bcecb1d-807c-4ad0-8db5-f83c35bc1f74.png",
         "parallax": true,
         "alignment": "center",
-        "hero_size": "x-large",
+        "hero_size": "large",
         "text-over-image-width": "fixed"
       }
     },
     "1c7d63be-aef9-41af-95c2-ffee42adf1c2": {
       "type": "image--image",
       "settings": {
+        "image": "shopify:\/\/shop_images\/Reema-WIP-1-e1660048849793-1024x624_57134589-f061-44fc-8894-372d0948f7b2.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "x-large",
