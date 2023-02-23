@@ -29,7 +29,7 @@
         "subheading": "Santorini, Greece",
         "page_title": "",
         "title": "Vòra",
-        "text": "<p><br\/>Perched on the edge of the caldera in Santorini, Vòra is a handcrafted boutique hotel of three private villas carved into caves, cliffs and suspended high above the sea.Inspired by the volcanic environment and boasting minimalistic Cycladic design, custom-made furniture and a soothing palette of beiges and greys that are augmented by dark brown wood, Vòra truly is heaven on earth.The private plunge pool of each villa opens up to monumental views of the volcano and the Aegean sea. <\/p>",
+        "text": "<p><br\/>Perched on the edge of the caldera in Santorini, Vòra is a handcrafted boutique hotel of three private villas carved into caves, cliffs and suspended high above the sea. Inspired by the volcanic environment and boasting minimalistic Cycladic design, custom-made furniture and a soothing palette of beiges and greys that are augmented by dark brown wood, Vòra truly is heaven on earth. The private plunge pool of each villa opens up to monumental views of the volcano and the Aegean sea. <\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -288,7 +288,7 @@
         "image": "shopify:\/\/shop_images\/vora_1bbc77c5-5b84-4e4b-92f9-77c894b0c07f.png",
         "subheading": "",
         "title": "Take a tour",
-        "text": "Here's your chance to make a great first impression",
+        "text": "",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -355,7 +355,7 @@
       "settings": {
         "background-color": "#e3e3e3",
         "text-color": "#000000",
-        "title": "Tips from the Host",
+        "title": "Tips from the host",
         "faq_icon": "plus_minus"
       }
     },
