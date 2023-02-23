@@ -33,70 +33,63 @@
           "type": "tab_content",
           "settings": {
             "question": "I have placed an order. Where can I track it?",
-            "text": "<p>Once your order has been dispatched, you will receive an email containing your tracking link and estimated delivery date. If you have an account with us you can also check the status of your order by logging in to your account. <\/p>"
+            "text": "<p>Once your order has been dispatched, you will receive an email containing your tracking link and estimated delivery date.<br\/>If you have an account with us, you can also check the status of your order by logging into your account.<\/p>"
           }
         },
         "accordion-0-3": {
           "type": "tab_content",
           "settings": {
             "question": "I ONLY RECEIVED PART OF MY ORDER",
-            "text": "<p>Our products are shipped directly by our brands and can therefore arrive in seperate packages. A separate tracking email will be sent for each individual brand in your order. If you're missing part of your order from a specific brands, email us at hello@maisonflaneur.com and we will make sure the missing items are shipped out to you asap! <\/p>"
+            "text": "<p>Our brands ship our products directly, which means they can arrive in separate packages. <\/p><p>An individual tracking email will be sent for each brand in your order. If part of your order is still missing, email us at hello@maisonflaneur.com. We will locate the missing items for you!<\/p>"
           }
         },
         "accordion-0-2": {
           "type": "tab_content",
           "settings": {
             "question": "MY ORDER ARRIVED DAMAGED. CAN YOU HELP ME?",
-            "text": "<p>Accidents happen! If your order arrived damaged, notify us by emailing hello@maisonflaneur.com withing 24h of receiving your order, please include pictures of the damage, this will enable us to open a claim with our carriers. <\/p>"
+            "text": "<p>Accidents happen! If your order has arrived damaged, notify us by emailing hello@maisonflaneur.com within 24h of receiving your order. Please include pictures of the damage. They will enable us to open a claim with our carriers.<\/p>"
           }
         },
         "8a0252fb-af64-40cc-a79a-006c05dd73da": {
           "type": "tab_content",
           "settings": {
             "question": "DO YOU OFFER RETURNS?",
-            "text": "<p>Most of our brands offer a 14 day return period. Please note that made to order products ar not eligible  Make sure to check the return policy of each product.<\/p>"
+            "text": "<p>Most of our brands offer a 14-day return period. Please note that made-to-order products are not eligible. Make sure to check the return policy of each product.<\/p>"
           }
         },
         "accordion-0-4": {
           "type": "tab_content",
           "settings": {
             "question": "MY ORDER IS A PRESENT, PLEASE MAY I HAVE IT GIFT WRAPPED?",
-            "text": "<p>As our some of our orders are shipped by our brand partners we can't guarantee this, but of course if you drop a line to hello@maisonflaneur.com we will do our very very best! <\/p>"
+            "text": "<p>As some orders are shipped directly by our brand, we can't always guarantee gift wrapping. But drop a line to hello@maisonflaneur.com. We will do our very best!<\/p>"
           }
         },
         "8e22cb5e-23e5-4293-8b6d-d0755540a09b": {
           "type": "tab_content",
           "settings": {
             "question": "I HAVE RETURNED MY ORDER. HOW DO I KNOW YOU'VE RECEIVED MY RETURN & MOST IMPORTANTLY, WHERE IS MY REFUND?",
-            "text": "<p>We ask you to kindly allow 2-3 weeks for your returned items to be received and processed. (Please do note that depending on your bank or card issuer, it may take an additional 2-10 business days for the amount to appear on your statement & that we can legally only issue a refund to the card or provider you bought your products on).<\/p>"
+            "text": "<p>Please allow 2-3 weeks for your returned items to be received and processed. (Please note that depending on your bank or card issuer, it may take 2-10 business days for the amount to appear on your statement & that we can legally only issue a refund to the card or provider you bought your products on).<\/p>"
           }
         },
         "5159c877-e85f-43eb-ad81-54698ff52eb6": {
           "type": "tab_content",
           "settings": {
             "question": "CAN I CHANGE MY DELIVERY ADDRESS ONCE I HAVE PLACED MY ORDER?",
-            "text": "<p>Please note once you place an order your delivery address cannot be revised without cancelling yout order and placing it again with the amended address. Alas, we will be unable to amend or cancel your order once it has been packed or shipped so please please PLEASE double-check your details.<\/p>"
+            "text": "<p>Please note once you place an order, your delivery address cannot be revised. We would have to cancel your order and place it again with the amended address. <br\/>We cannot amend or cancel your order once it has been packed or shipped, so please, please double-check your details.<\/p>"
           }
         },
         "fe8be152-1216-4d86-aad2-ae35b5cdf891": {
           "type": "tab_content",
           "settings": {
             "question": "DO YOU SHIP WORLDWIDE?",
-            "text": "<p>We currently ship within the UK, Europe & the US- If you are anywhere else in the world please do email hello@maisonflaneur.com and we will do our absolute best to help.<\/p>"
+            "text": "<p>We currently ship within the UK, Europe & the US. If you are anywhere else in the world, please email hello@maisonflaneur.com, and we will do our absolute best to help.<\/p>"
           }
         },
         "8c46de34-c122-4db6-9e9d-c951dcee34a4": {
           "type": "tab_content",
           "settings": {
             "question": "HOW MUCH IS SHIPPING & ARE CUSTOMS AND DUTIES INCLUDED IN YOUR PRICING?",
-            "text": "<p>As your articles will be shipped directly from individual brands and suppliers, as well as Maison Flâneur, shipping times may vary and sadly delivery costs do not include taxes or duties applied by your destination country. <\/p>"
-          }
-        },
-        "4f943e99-3cba-4f22-a5ad-6c9bdb1fa3b4": {
-          "type": "tab_content",
-          "settings": {
-            "question": "Do you have a physical store?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>As your articles will be shipped directly from individual brands and suppliers, as well as Maison Flâneur, shipping times may vary. Delivery costs do not include taxes or duties applied by your destination country.<\/p>"
           }
         }
       },
@@ -109,8 +102,7 @@
         "8e22cb5e-23e5-4293-8b6d-d0755540a09b",
         "5159c877-e85f-43eb-ad81-54698ff52eb6",
         "fe8be152-1216-4d86-aad2-ae35b5cdf891",
-        "8c46de34-c122-4db6-9e9d-c951dcee34a4",
-        "4f943e99-3cba-4f22-a5ad-6c9bdb1fa3b4"
+        "8c46de34-c122-4db6-9e9d-c951dcee34a4"
       ],
       "settings": {
         "background-color": "#ffffff",
@@ -126,42 +118,28 @@
           "type": "tab_content",
           "settings": {
             "question": "I AM A REGISTERED INTERIOR DESIGNER. DO YOU OFFER TRADE DISCOUNTS TO US?",
-            "text": "<p>We do indeed! Please reach out on hello@maisonflaneur.com for more info.<\/p>"
+            "text": "<p>We do, indeed! Please reach out to hello@maisonflaneur.com and indicate DESIGNER in the title. We would love to send you all the information.<\/p>"
           }
         },
         "09d871c3-68e0-4e83-a5d7-ac34b7c07700": {
           "type": "tab_content",
           "settings": {
             "question": "I WORK FOR A HOTEL WHO WOULD LOVE TO BE ON MAISON FLÂNEUR. HOW DO WE CONNECT WITH YOU?",
-            "text": "<p>We are always on the lookout for cool brands and hotels to feature. Please reach out on hello@maisonflaneur.com to connect.<\/p>"
+            "text": "<p>We are always on the lookout for cool brands and hotels to feature. Please reach out on hello@maisonflaneur.com and indicate NEW HOTEL in the title. We would love to connect.<\/p>"
           }
         },
         "accordion-2-1": {
           "type": "tab_content",
           "settings": {
-            "question": "I WORK FOR A BRAND & WOULD ADORE TO BE ON THE MAISON FLANEUR PLATFORM",
-            "text": "<p>We would absolutely love to hear from you! Please reach out to hello@maisonflaneur.com<\/p>"
-          }
-        },
-        "accordion-2-2": {
-          "type": "tab_content",
-          "settings": {
-            "question": "I am a blogger or Influencer and would love to collaborate with you",
-            "text": "<p>We would love to collaborate too! Typically we work with bloggers who are homeware based, but we do work with the right fashion bloggers too. Please reach out on hello@maisonflaneur.com to connect.<\/p>"
-          }
-        },
-        "54bd12a8-dcaf-4682-8d4c-a0adbcb99906": {
-          "type": "tab_content",
-          "settings": {
-            "question": "I WORK FOR A BRAND AND WOULD LOVE TO COLLABORATE ON A JOINT SOCIAL CAMPAIGN",
-            "text": "<p>We would love to collaborate too! Typically we work with bloggers who are homeware based, but we do work with the right fashion bloggers too. Please reach out on hello@maisonflaneur.com to connect.<\/p>"
+            "question": "I'D LOVE MY BRAND TO FEATURE ON MAISON FLÂNEUR. WHAT SHOULD I DO?",
+            "text": "<p>Please reach out to hello@maisonflaneur.com and indicate NEW BRAND in the title. We always love to connect with new makers. <\/p>"
           }
         },
         "3381f2b4-ef4e-492e-a821-9ee3d1b48521": {
           "type": "tab_content",
           "settings": {
             "question": "I WORK FOR A MAGAZINE. HOW DO I REACH YOU?",
-            "text": "<p>We would love to speak to you! Please reach out on hello@maisonflaneur.com to connect.<\/p>"
+            "text": "<p>We would love to speak to you! Please reach out to Marie at marie.winckler@maisonflaneur.com. <\/p>"
           }
         }
       },
@@ -169,8 +147,6 @@
         "accordion-2-0",
         "09d871c3-68e0-4e83-a5d7-ac34b7c07700",
         "accordion-2-1",
-        "accordion-2-2",
-        "54bd12a8-dcaf-4682-8d4c-a0adbcb99906",
         "3381f2b4-ef4e-492e-a821-9ee3d1b48521"
       ],
       "settings": {
@@ -187,14 +163,14 @@
           "type": "tab_content",
           "settings": {
             "question": "I NEED HELP WITH SOMETHING YOUR FAQS DON'T COVER. HOW DO I REACH YOU?",
-            "text": "<p>Avec Plaisir! Please reach out to us on hello@maisonflaneur.com and we will, of course, do our absolute best to help you!<\/p>"
+            "text": "<p>Avec Plaisir! Please reach out to us at hello@maisonflaneur.com. We will, of course, do our absolute best to help you!<\/p>"
           }
         },
         "c2c38306-d068-4d75-9ff7-e21dd3054627": {
           "type": "tab_content",
           "settings": {
             "question": "HOW DO I UNSUBSCRIBE FROM YOUR NEWSLETTER?",
-            "text": "<p>To unsubscribe, please scroll down to the bottom of the newsletter where you will see a link to preferences and an \"unsubscribe\" option. (To note though, we know the state of our inboxes in this day and age but our newsletter does have exclusive discounts and drops, so careful you don't miss out!)<\/p>"
+            "text": "<p>To unsubscribe, please scroll down to the bottom of the newsletter, where you will see a link to preferences and an \"unsubscribe\" option. <br\/>(Our newsletter has exclusive discounts and drops, so be careful not to miss out!)<\/p>"
           }
         }
       },
