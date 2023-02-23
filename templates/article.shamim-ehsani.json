@@ -153,18 +153,6 @@
         "show_recent_posts": false
       }
     },
-    "e8296e29-c925-4780-a196-ea4ee3e07e39": {
-      "type": "maison-collection-list",
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "",
-        "collection_type": "hotel",
-        "show_location": false,
-        "show_buttons_over_image": false,
-        "image_size": "small"
-      }
-    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -188,7 +176,6 @@
     "2911cb60-becd-4483-892b-111a5dbf9f3c",
     "23349ad1-c865-4a85-877a-65adc5c2fa1e",
     "main",
-    "e8296e29-c925-4780-a196-ea4ee3e07e39",
     "blog-posts"
   ]
 }
