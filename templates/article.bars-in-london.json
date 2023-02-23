@@ -70,6 +70,23 @@
         "button_label": ""
       }
     },
+    "2f71aeee-555e-4284-ba1e-0c7f875da008": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/pasted-image-0-3.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>3. The one for People Watching<\/strong><\/p><p>This palatial space with a magnificent plaster ceiling, chandelier, and walls crowded with pictures is nothing like a tavern. <a href=\"https:\/\/www.bernerstavern.com\/\">Berners Tavern<\/a> is definitely one of the most Instagramable bars in the world, and so is its crowd…<\/p><p><em>The London Edition, 10 Berners Street, W1T 3NP<\/em><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -103,6 +120,7 @@
     "2c6fb2e1-872c-42fa-b04d-fe51d0680629",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "2f71aeee-555e-4284-ba1e-0c7f875da008",
     "main",
     "blog-posts"
   ]
