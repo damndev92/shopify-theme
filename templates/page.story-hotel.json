@@ -140,7 +140,7 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Story",
+        "subheading": "",
         "title": "Shop the look",
         "image": "shopify:\/\/shop_images\/Shop_the_Look-Hotels.png",
         "image__position": "image--left",
