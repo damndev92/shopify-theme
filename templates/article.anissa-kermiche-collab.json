@@ -112,6 +112,38 @@
         "title": ""
       }
     },
+    "5c7a7840-2e50-4754-bb15-c9e3eabaa9ef": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18099769671995__5c7a7840-2e50-4754-bb15-c9e3eabaa9ef-1677167855a93dcbd7-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/31-1024x1024_6d0b0355-fa17-4f89-977b-e8ae25baa668.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18099769671995__5c7a7840-2e50-4754-bb15-c9e3eabaa9ef-1677167855a93dcbd7-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/candle-product-pics-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18099769671995__5c7a7840-2e50-4754-bb15-c9e3eabaa9ef-1677167855a93dcbd7-0",
+        "template--18099769671995__5c7a7840-2e50-4754-bb15-c9e3eabaa9ef-1677167855a93dcbd7-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -133,6 +165,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "525a0685-b1c7-414c-a664-723fd87575f3",
+    "5c7a7840-2e50-4754-bb15-c9e3eabaa9ef",
     "blog-posts"
   ]
 }
