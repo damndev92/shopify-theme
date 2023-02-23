@@ -29,7 +29,7 @@
         "subheading": "Stockholm, Sweden",
         "page_title": "",
         "title": "Story Hotel",
-        "text": "<p><br\/>The Story Hotel Stockholm is an urban haven where stunningly coiffed Stockholmers and trendy travellers converge normally over cocktails inside the bustling lobby bar which has been inspired by the interiors of Parisian salons and dark, moody jazz bars.<\/p>",
+        "text": "<p><br\/>The Story Hotel is an urban haven where stunningly coiffed Stockholmers and trendy travellers converge normally over cocktails inside the bustling lobby bar which has been inspired by the interiors of Parisian salons and dark, moody jazz bars.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -224,13 +224,13 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_4.png",
         "layout": "left",
-        "subheading": "Meet the host",
+        "subheading": "Meet the host - Staffan Åkerlind",
         "location": false,
-        "title": "Staffan Åkerlind, CEO, Story Hotels",
-        "text_block": "<p><br\/>Story Hotel is a new hotel concept located at the heart of Stockholm and celebrates the unique neighborhood in which the property resides. With modern, Scandinavian design that reflects the edgy nature of the city, the hotel offers amenities for both business and leisure travelers.<\/p>",
+        "title": "\"Story Hotel is a new hotel concept, with modern, Scandinavian designs, reflecting the edgy nature of Stockholm. Located at the heart of city, Story Hotel celebrates the unique neighborhood in which the property resides.\"",
+        "text_block": "",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
