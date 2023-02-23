@@ -108,8 +108,8 @@
         "subheading": "Discover more",
         "title": "Destinations",
         "collection_type": "hotel",
-        "show_location": false,
-        "show_buttons_over_image": false,
+        "show_location": true,
+        "show_buttons_over_image": true,
         "image_size": "big"
       }
     }
