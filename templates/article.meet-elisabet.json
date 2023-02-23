@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Shop-the-look-HOTELS-9-1024x576.png",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-02-23_at_09.20.30.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,11 +14,11 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Meet Elisabet Castella, The Platera, Barcelona",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet Elisabet Castella, Founder of The Platera, Barcelona",
         "title": "",
-        "text": "<p>You might have spotted Platera’s beautifully hand-painted plates on Instagram. The famousSpanish influencer @blancamiro is a fan and so are we.<br\/>We sit down with the design Elsabet Castella in Barlceona to discuss how she started The Platera in confinement, her inspirations, and what’s next on her plate. <\/p>",
+        "text": "<p>You might have spotted Platera’s beautifully hand-painted plates on Instagram. The famousSpanish influencer @blancamiro is a fan and so are we. We sit down with the design Elsabet Castella in Barlceona to discuss how she started The Platera in confinement, her inspirations, and what’s next on her plate. <\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -91,21 +91,38 @@
         "button_label": ""
       }
     },
-    "d8a082e7-2cfc-4c0f-9898-9ba1a94b0b07": {
-      "type": "text--image-with-text",
+    "0d472e81-49e9-448b-8350-f535f4151e38": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17979297366331__0d472e81-49e9-448b-8350-f535f4151e38-1677143470fbd02c0a-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17979297366331__0d472e81-49e9-448b-8350-f535f4151e38-1677143470fbd02c0a-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17979297366331__0d472e81-49e9-448b-8350-f535f4151e38-1677143470fbd02c0a-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17979297366331__0d472e81-49e9-448b-8350-f535f4151e38-1677143470fbd02c0a-0",
+        "template--17979297366331__0d472e81-49e9-448b-8350-f535f4151e38-1677143470fbd02c0a-1",
+        "template--17979297366331__0d472e81-49e9-448b-8350-f535f4151e38-1677143470fbd02c0a-2"
+      ],
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-1024x1024_bad86b11-bd67-4e03-8081-187cf2896f67.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "Handpainted Mushroom Plate Bundle",
-        "text_block": "<p>£179<\/p><p><strong>*Set of 6*<\/strong> Beautiful hand-painted dinner plates. Each one made uniquely, designed and hand-painted in Barcelona. Uniqueness in every plate!<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
+        "subheading": "SHOP",
+        "title": "THE COLLECTION",
+        "collection": "the-platera",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -142,7 +159,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "1daf3bf3-12da-44ec-88f1-be6a2525f687",
     "9a97d3c4-4e06-450f-8c20-c6203ed0e2e8",
-    "d8a082e7-2cfc-4c0f-9898-9ba1a94b0b07",
+    "0d472e81-49e9-448b-8350-f535f4151e38",
     "main",
     "blog-posts"
   ]
