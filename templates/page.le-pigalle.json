@@ -99,7 +99,8 @@
         "colors": "white",
         "width": 220,
         "subheading": "",
-        "title": ""
+        "title": "",
+        "mobile_image": "shopify:\/\/shop_images\/pigalle_e883084b-ec17-4984-93c4-96c876e15539.png"
       }
     },
     "5bcafc64-d19e-410b-be75-225f42e3e666": {
@@ -122,7 +123,7 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Le Pigalle",
+        "subheading": "",
         "title": "Shop the look"
       }
     },
@@ -259,7 +260,7 @@
       "settings": {
         "colors": "white",
         "image-width": "large",
-        "image": "shopify:\/\/shop_images\/05-mbo-valery-grego-office.jpg",
+        "image": "shopify:\/\/shop_images\/pigalle.png",
         "layout": "left",
         "subheading": "Meet the host - Valéry Grégo",
         "location": false,
@@ -310,7 +311,7 @@
         "b74d99cb-9b19-4b39-930c-93e2960aace0"
       ],
       "settings": {
-        "background-color": "#f3f3f3",
+        "background-color": "#e3e3e3",
         "text-color": "#000000",
         "title": "Tips from the host",
         "faq_icon": "plus_minus"
@@ -323,7 +324,7 @@
         "width": "medium",
         "subheading": "The rooms",
         "page_title": "",
-        "title": "Take A Peek Inside",
+        "title": "Take a peek insde",
         "text": "<p>Their rooms' neoclassical architectural style inspired artists and poets in the late nineteenth century. All 40 rooms are decorated in the Nouvelle Athènes mode, conveying a specific image of Pigalle: historic, modern, decadent, multicultural, and musical. Simple and comfortable, full of domestic touches. Each is a collection of objects, souvenirs, music, books and second-hand furniture, with a personality all of its own.<\/p>",
         "button_link": "",
         "button_label": ""
@@ -390,7 +391,7 @@
           "settings": {
             "blog_post_1": "flaneur-magazine\/make-yourself-at-home-review-of-le-pigalle-paris",
             "blog_post_2": "flaneur-magazine\/object-of-desire-anissa-kermiche-le-pigalle-paris",
-            "blog_post_3": "",
+            "blog_post_3": "flaneur-magazine\/discover-the-le-pigalle-paris-shop",
             "blog_post_4": ""
           }
         }

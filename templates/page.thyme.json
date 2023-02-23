@@ -52,7 +52,7 @@
         "subheading": "",
         "page_title": "",
         "title": "",
-        "text": "<p><br\/>You’ll find The Ox Barn within a converted, former 19-Century oxen house – an architecturally impressive space with soaring ceilings. Which makes sense, because Thyme – the converted manor and farm in which it’s set – is driven by a passion for local heritage, beauty and conservation. Accordingly, The Ox Barn pays homage to its past – think a striking stone rubble facade and original beams overhead, made more modern with Scandi-inspired furniture in nature’s best tones. Making it even more contemporary still are a contemporary bar and seven-and-a-half metre Charvet open kitchen, where Head Chef Charlie Hibbert puts this historic building to work.<\/p>",
+        "text": "<p><br\/>You’ll find The Ox Barn within a converted, former 19-Century oxen house – an architecturally impressive space with soaring ceilings. Which makes sense, because Thyme – the converted manor and farm in which it’s set – is driven by a passion for local heritage, beauty and conservation. Accordingly, The Ox Barn pays homage to its past – think a striking stone rubble facade and original beams overhead, made more modern with Scandi-inspired furniture in nature’s best tones. <\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -122,7 +122,7 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Thyme",
+        "subheading": "",
         "title": "Shop the look"
       }
     },
@@ -210,7 +210,7 @@
       "settings": {
         "colors": "white",
         "image-width": "large",
-        "image": "shopify:\/\/shop_images\/Fields-in-Fields-Thyme-Caryn-Hibbert-DSC5404.jpg",
+        "image": "shopify:\/\/shop_images\/thyme_caec01fd-cf3b-447a-a1b4-ff1290407800.png",
         "layout": "left",
         "subheading": "Meet the Host - Caryn Hibbert",
         "location": false,
@@ -235,14 +235,14 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
           "type": "tab_content",
           "settings": {
-            "question": "WHERE TO EAT?",
-            "text": "<p>Charlie (a member of Thyme's founding family) is our Head Chef, leading the food and produce. His time is spent in the kitchens of our Ox Barn restaurant, the cookery school and in the gardens – Charlie works meticulously with the garden team to select and grow the fruits, vegetables, and herbs used to create his menus.<\/p>"
+            "question": "WHERE's best TO EAT?",
+            "text": "<p>Here! Charlie (a member of Thyme's founding family) is our Head Chef, leading the food and produce. His time is spent in the kitchens of our Ox Barn restaurant, the cookery school and in the gardens – Charlie works meticulously with the garden team to select and grow the fruits, vegetables, and herbs used to create his menus.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
           "type": "tab_content",
           "settings": {
-            "question": "YOUR FAVOURITE OBJECT IN THE HOTEL?",
+            "question": "what's YOUR FAVOURITE OBJECT IN THE HOTEL?",
             "text": "<p>Most wonderful of all, atop of the archway of the Ox Barn is a stone ox head. Above the keystone just behind this ox head, hides a bottle of whiskey built into the wall, placed there by the original stone mason that constructed the archway in 1843, intended to be enjoyed by the stone mason who one day will take the arch down, hopefully in many years to come.<\/p>"
           }
         },
@@ -261,7 +261,7 @@
         "f32e45f9-824a-43ac-8dd8-f63c8fbb7947"
       ],
       "settings": {
-        "background-color": "#f3f3f3",
+        "background-color": "#e3e3e3",
         "text-color": "#000000",
         "title": "Tips from the host",
         "faq_icon": "plus_minus"
@@ -274,8 +274,8 @@
         "width": "medium",
         "subheading": "The rooms",
         "page_title": "",
-        "title": "Take A Peek Inside",
-        "text": "<p>Their rooms' neoclassical architectural style inspired artists and poets in the late nineteenth century. All 40 rooms are decorated in the Nouvelle Athènes mode, conveying a specific image of Pigalle: historic, modern, decadent, multicultural, and musical. Simple and comfortable, full of domestic touches. Each is a collection of objects, souvenirs, music, books and second-hand furniture, with a personality all of its own.<\/p>",
+        "title": "Take a peek inside",
+        "text": "<p>All of the botanically inspired bedrooms are dispersed across houses and cottages, forming a peaceful hamlet environment with gravel pathways to lead you through the gardens. No two rooms are the same, with colours inspired by their botanical names and graced with carefully sourced antique pieces. <\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -340,8 +340,8 @@
           "type": "article",
           "settings": {
             "blog_post_1": "flaneur-magazine\/meet-milly-hibbert-head-of-brand-retail-development-thyme-the-costwolds",
-            "blog_post_2": "",
-            "blog_post_3": "",
+            "blog_post_2": "flaneur-magazine\/you-ve-been-served-charlie-hibbert-head-chef-at-thyme-does-thanksgiving",
+            "blog_post_3": "flaneur-magazine\/you-ve-been-served-the-ox-barn-at-thyme-cotswolds",
             "blog_post_4": ""
           }
         }

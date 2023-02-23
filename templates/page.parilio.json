@@ -99,7 +99,8 @@
         "colors": "white",
         "width": 220,
         "subheading": "",
-        "title": ""
+        "title": "",
+        "mobile_image": "shopify:\/\/shop_images\/parilio_b71447ad-cf85-442b-9411-bdd40c49ffac.png"
       }
     },
     "9ddffc45-d823-4e4e-853f-f5a0933f6f11": {
@@ -122,7 +123,7 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Parilio",
+        "subheading": "",
         "title": "Shop the look"
       }
     },
@@ -303,7 +304,7 @@
         "0abcec26-bcc0-4da5-ba3d-2081edfd6f0a"
       ],
       "settings": {
-        "background-color": "#f3f3f3",
+        "background-color": "#e3e3e3",
         "text-color": "#000000",
         "title": "Tips from the hosts",
         "faq_icon": "plus_minus"
@@ -316,7 +317,7 @@
         "width": "medium",
         "subheading": "The rooms",
         "page_title": "",
-        "title": "Take A Peek Inside",
+        "title": "Take a peek inside",
         "text": "<p><br\/>Parīlio's Rooms are inspired by literal Parilios (parelion): Bright, sunlike optical illusions, often on a luminous ring or halo. Characterised by Paros’ distinctive architecture and vibe, the hotel’s 33 Suites are defined by a soothing, tonal colour palette and natural materials.<\/p>",
         "button_link": "",
         "button_label": ""
@@ -383,7 +384,7 @@
           "settings": {
             "blog_post_1": "flaneur-magazine\/meet-kalia-konstantinidou-istoria-and-parilio-greece",
             "blog_post_2": "flaneur-magazine\/destinations-paros-by-kalia-konstantinidou-from-istoria-and-para-lio-hotel",
-            "blog_post_3": "",
+            "blog_post_3": "flaneur-magazine\/10-facts-about-parilio-and-istoria",
             "blog_post_4": ""
           }
         }
@@ -400,17 +401,6 @@
         "show_dates": false,
         "show_blog_images": true,
         "imageSize": "portrait"
-      }
-    },
-    "2557649e-3ce7-455e-aca7-164e706d2de6": {
-      "type": "maison--btn",
-      "settings": {
-        "btn": "",
-        "url": "",
-        "link": "",
-        "bg_color": "#e28065",
-        "padding_top": 25,
-        "padding_bottom": 25
       }
     }
   },
@@ -429,7 +419,6 @@
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "186573cd-fe7b-4506-8957-e27d2f6d2711",
-    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
-    "2557649e-3ce7-455e-aca7-164e706d2de6"
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
   ]
 }

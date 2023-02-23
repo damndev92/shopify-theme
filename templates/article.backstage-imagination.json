@@ -1,0 +1,131 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ad46d70a6cee8633a3800801aaf993d2-1024x683.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Flânerie in the design backstage: Room for Imagination",
+        "title": "",
+        "text": "<p><em>I had to stop for the night<\/em><\/p><p><em>There she stood in the doorway;<\/em><\/p><p><em>I heard the mission bell<\/em><\/p><p><em>And I was thinking to myself,<\/em><\/p><p><em>This could be Heaven or this could be Hell<\/em><\/p><p><strong>Hotel California, The Eagles<\/strong><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/02travel-look-sign-1-articleLarge.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Artists and writers have long known the peculiar freedom one experiences after checking into a hotel. Hemingway found his inspiration at the terrasse of the <strong>Gritti<\/strong> in Venice (who wouldn’t ??), Arthur Miller had some of his most frenetic breakthroughs at the legendary <strong>Chelsea Hotel<\/strong>, <em>Murder on the Orient Express<\/em> is rumored to have been penned in the room 411 of the <strong>Pera Palace<\/strong> in Istanbul. Perhaps the best example is Vladimir Nabokov who, as soon as he had enough money, moved from America to the <strong>Montreux Palace<\/strong> Hotel Switzerland never to leave again. <\/p><p>If you think about it, hotels are much beyond the daily preoccupations of a tourist, they are situated somewhere between reality and fantasy. Some hotels persuade us that we have not left home, some try to immerse us in a different culture, some try to show us a different kind of life. I have always fantasized about living in a hotel, about the carefree life I would lead far from the domestic concerns, the joy I would experience belonging everywhere and nowhere at the same time. Beware of the coming whirl of dates…<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/arne-jacobsen-in-front-of-the-sas-royal-hotel-under-construction-1960.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>On a morning of 1961, you would have found me sitting down at the <strong>Radisson Blu Royal Hotel<\/strong> restaurant with cutlery designed by Jacobsen in 1957 and used in 1968 by astronauts in <em>2001 – (A Space Odyssey<\/em>). In the 1960s, the hotels were a kind of national calling card allowing a country to show off how avant-garde it was. It was part of the apparatus of an ambitious nation comparable to a pavilion at a World Fair or even nuclear power. Originally known as the <strong>SAS Hotel<\/strong>, the Radisson was commissioned in 1955 to Arne Jacobsen by the Scandinavian Airlines System (a conglomerate of the Norwegian, Danish, and Swedish national airlines) and opened its doors in July 1960. <\/p><p>Thought like a total work of art by Jacobsen who designed not only the building but every interior detail from the light fixtures, the carpets, the dinnerware, etc. It was the birthing project for iconic designs such as the groovy and whimsical ‘egg’, ‘drop’ and ‘swan’ chairs.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "08eaf480-623e-42be-b9e4-25932dfcd2d3": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Agave_furniture_Mattia-Albicini_Ethimo_Archi-living_D-e1535060238917-696x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>To escape the Scandinavian winter I would have set my luggage in Sorrento at the <strong>Parco dei Principi<\/strong> designed by Gio Ponti. Mesmerized by the omnipresence of the blue color on the Amalfi coast, Ponti decided to reproduce this chromatic immersion in the hotel. He designed 30 thirty blue and white tiles to be manufactured by the ceramist Agostino di Salerno. The ceramic decorations consisted of a combination of twenty-seven geometric patterns which were reproduced by hand on 20×20 maiolica tiles.<\/p><p>With these, Gio Ponti transformed a hundred rooms, together with the lobby, the reception area, the bar and the restaurant. Another kind <em>gesamthumwerk <\/em>for which he created, of course, every single detail.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "52ae438a-0035-4886-b7f8-1e0d807328d1": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/07-MEURICE_23-03-16photo-de-pmonetta-8153.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>At the moment, you might find me across the Jardin des Tuileries, behind the heavy mahogany doors of the <strong>Meurice<\/strong>. Although Russian writers such as Tolstoy or Turgheniev gave it a bad review earlier in the 20th century I would still conduct my affairs in the Art Nouveau glass dome with delicate fish-scale panels adorning the hotel’s gilded Winter Garden tea salon. Work would be followed by lunch or diner in the Rococo jewel box that is the main Restaurant. ‘A mental space where everything is poetry, allusion, reference, reflection and diffraction. Where the air is vibrating like a mysterious little music, captivating and friendly. As a spirit, the Meurice is unique’ said the brilliant Phillip Stack upon completing the restoration of my current home. <\/p><p>I could go on and lead many more lives in many more rooms but these are the places that my mind chooses for now. <\/p><p>Hotels create a world of their own, a sort of transitional hall between your home and the outside world. Under the spell of their wonders, you find yourself thinking ‘I would really like to have the same sheets, steal these glasses, sit on the same chair, etc.’ <\/p><p>Next time you find yourself dreaming about your last stay, think about Maison Flâneur who brings to you all the wonderful Hotel designs.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "08eaf480-623e-42be-b9e4-25932dfcd2d3",
+    "52ae438a-0035-4886-b7f8-1e0d807328d1",
+    "main",
+    "blog-posts"
+  ]
+}

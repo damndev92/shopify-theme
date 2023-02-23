@@ -1,0 +1,117 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/christies_lates_140119-1086-1.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Join Maison Flaneur at Christie’s Lates",
+        "title": "",
+        "text": "<p>On the 14th of January, Marie Winckler of Maison Flâneur and Designer Sarah Vanrenen of Vanrenen GW Designs discussed the trends and styles they see making an impact across design and fashion this year at Christie’s.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "585e4e81-23b4-4382-9abf-0c176606509c": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2019-01-07-at-14.24.55-1024x382.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "2644cbc6-499a-4cfc-825a-ff82cfd55bd7": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><a href=\"https:\/\/www.christies.com\/exhibitions\/christies-lates-london?cid=EM_EML54101006085023-Hero-CTA_2&cid=DM264034&bid=161548636#eventinfo_Nav\">Click on the link here for more informations. <\/a><\/p><p><strong>About Christie’s Late<\/strong><\/p><p>Combining art, music and specialist talks, <em>Christie’s Lates <\/em>in London and New York are the perfect opportunity to mix with like-minded art lovers after hours. With free entry, each curated evening in this new series of events aims to bring art to life and inspire conversation, showcasing highlights from our upcoming auctions alongside interactive activities, talks by guest experts and enticing food and drink.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "3cbd10de-4919-44f8-8acb-234ef92f7e92": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18099436355899__3cbd10de-4919-44f8-8acb-234ef92f7e92-1677166633fbce3642-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/christies_lates_140119-1100-1.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18099436355899__3cbd10de-4919-44f8-8acb-234ef92f7e92-1677166633fbce3642-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/christies_lates_140119-1096-1.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18099436355899__3cbd10de-4919-44f8-8acb-234ef92f7e92-1677166633fbce3642-2",
+        "template--18099436355899__3cbd10de-4919-44f8-8acb-234ef92f7e92-1677166633fbce3642-0"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "main",
+    "585e4e81-23b4-4382-9abf-0c176606509c",
+    "2644cbc6-499a-4cfc-825a-ff82cfd55bd7",
+    "3cbd10de-4919-44f8-8acb-234ef92f7e92",
+    "blog-posts"
+  ]
+}

@@ -14,8 +14,8 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
         "page_title": "Meet Issy Granger, Designer, London",
         "title": "",
         "text": "<p>Meet Issy Granger, the genius creator behind the eponymous brand. It was love at first like, when we discovered her colourful candlesticks on Instagram. Her unique designs marry antique artisanship with modern-day craft. We sit down with Issy to discuss her duck Chips, the inspiration behind her brand, and the talented makers and manufacturers who breathe life into her pencil sketches.<\/p>",
@@ -91,38 +91,38 @@
         "button_label": ""
       }
     },
-    "1cb9f25c-479b-4726-b9fb-c2cd6c6974af": {
-      "type": "text--image-with-text",
+    "8fd44ea9-f49a-486e-9f12-829463108606": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17981756047675__8fd44ea9-f49a-486e-9f12-829463108606-1677143470fbd02c0a-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17981756047675__8fd44ea9-f49a-486e-9f12-829463108606-1677143470fbd02c0a-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17981756047675__8fd44ea9-f49a-486e-9f12-829463108606-1677143470fbd02c0a-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17981756047675__8fd44ea9-f49a-486e-9f12-829463108606-1677143470fbd02c0a-0",
+        "template--17981756047675__8fd44ea9-f49a-486e-9f12-829463108606-1677143470fbd02c0a-1",
+        "template--17981756047675__8fd44ea9-f49a-486e-9f12-829463108606-1677143470fbd02c0a-2"
+      ],
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Luxor-Candlestick.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "Luxor Glass Candlestick",
-        "text_block": "<p>£27<\/p><p>A beautiful handblown glass candle holder designed by Issy and made by Egyptian artisans in Cairo. Egypt has a rich history of glassblowing dating back well over 3000 years and the artisans today continue the craft that has been passed down the generations. As the light dances off and through these elegant candlesticks, they an eye-catching addition to a mantelpiece or dining table. Borosilicate glass is incredibly light and delicate yet able to withstand amazingly high temperatures.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "de8dfea6-3c10-4457-b737-47c4f9ec6fce": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Horus-Candlestick.jpg",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "Horus Glass Candlestick",
-        "text_block": "<p>£38<\/p><p>A beautiful handblown glass candle holder designed by Issy and made by Egyptian artisans in Cairo. Egypt has a rich history of glassblowing dating back well over 3000 years and the artisans today continue the craft that has been passed down the generations. As the light dances off and through these elegant candlesticks, they an eye-catching addition to a mantelpiece or dining table. Borosilicate glass is incredibly light and delicate yet able to withstand amazingly high temperatures.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
+        "subheading": "SHOP",
+        "title": "ISSY GRANGER'S COLLECTION",
+        "collection": "issy-granger",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -159,8 +159,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "2713bd12-7808-4b14-a57f-ad6a30adaabe",
     "3e3128be-aa3b-4b97-83b0-bdc160efef18",
-    "1cb9f25c-479b-4726-b9fb-c2cd6c6974af",
-    "de8dfea6-3c10-4457-b737-47c4f9ec6fce",
+    "8fd44ea9-f49a-486e-9f12-829463108606",
     "main",
     "blog-posts"
   ]

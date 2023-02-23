@@ -15,7 +15,7 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "Destinations",
         "page_title": "10 Facts about Parīlio and Istoria",
         "title": "",
         "text": "<p>We’ve gathered our 10 favourite facts from Parilio and Istoria Hotels in Greece.<\/p>",
@@ -119,6 +119,40 @@
         "title": ""
       }
     },
+    "8d5f3b8f-9a58-47bb-9b8e-b71bbb020e51": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18017430929723__8d5f3b8f-9a58-47bb-9b8e-b71bbb020e51-167716183504edc0e9-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18017430929723__8d5f3b8f-9a58-47bb-9b8e-b71bbb020e51-167716183504edc0e9-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18017430929723__8d5f3b8f-9a58-47bb-9b8e-b71bbb020e51-167716183504edc0e9-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18017430929723__8d5f3b8f-9a58-47bb-9b8e-b71bbb020e51-167716183504edc0e9-0",
+        "template--18017430929723__8d5f3b8f-9a58-47bb-9b8e-b71bbb020e51-167716183504edc0e9-1",
+        "template--18017430929723__8d5f3b8f-9a58-47bb-9b8e-b71bbb020e51-167716183504edc0e9-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Parillio",
+        "title": "Discover the collection",
+        "collection": "parilio",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -130,28 +164,6 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
-      }
-    },
-    "29715330-48d2-4207-ab9b-a2b26c3a3670": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--18017430929723__29715330-48d2-4207-ab9b-a2b26c3a3670-16765537308e9aa3e3-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/443-1024x1024.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Breeze – Iosif Foskolos Artwork<\/p><p>€317<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18017430929723__29715330-48d2-4207-ab9b-a2b26c3a3670-16765537308e9aa3e3-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
       }
     },
     "blog-posts": {
@@ -174,8 +186,8 @@
     "b4a02f80-5cf0-4ec0-9935-8303a6539733",
     "626f8d63-8e17-42f4-90b8-4cc5d8c22a75",
     "ce325246-4880-464b-935e-66367127deab",
+    "8d5f3b8f-9a58-47bb-9b8e-b71bbb020e51",
     "main",
-    "29715330-48d2-4207-ab9b-a2b26c3a3670",
     "blog-posts"
   ]
 }

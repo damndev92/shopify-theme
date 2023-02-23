@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Cream-and-Brown-Delicate-Organic-Essentials-Marketing-Presentation-19-1024x576.png",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-02-23_at_15.45.51.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,11 +14,11 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Meet India Whalley, Founder Edition 94, London",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet India Whalley, Founder of Edition 94, London",
         "title": "",
-        "text": "<p>India Whalley, Founder of Edition 94 is a woman of taste. Her shop in South Kensington is an interior decor treasure trove. You’ll find a selection of carefully curated homeware, retro furniture, and unique vintage pieces. We sit down with the beautiful curator to discover more about beautiful objects, her inspirations  and Formula 1<\/p>",
+        "text": "<p>India Whalley, Founder of Edition 94 is a woman of taste. Her shop in South Kensington is an interior decor treasure trove. You’ll find a selection of carefully curated homeware, retro furniture, and unique vintage pieces. We sit down with the beautiful curator to discover more about beautiful objects, her inspirations  and Formula 1. <\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -33,21 +33,11 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Can you tell us the story behind Edition 94?<\/strong><br\/>I opened The Edition 94 just over two years ago after running my contemporary Art Gallery The Dot Project for 5 years from 94 Fulham Road. I had to decided to take a new direction with The Dot Project focusing on exhibitions with a more focused group of Artists and looking at exhibiting their works in a more residential setting. I had to come up with a new way to utilising the large space the Gallery had been running out of and interiors had always been a huge part of my life. I studied Architectural Interior Design at The Inchbald School of Design before opening The Dot Project and opening an interiors store felt like a great way to complement what we had already achieved with The Dot Project. Art and interiors are intrinsically linked and it’s been wonderful to see how the Gallery and the store have worked together.<\/p><p><strong>What does the name refer to? <\/strong><br\/>I really saw The Edition 94 is an edition of my first business and the store is located at number 94 Fulham Rd 🙂<\/p><p><strong>Can you tell us three facts about yourself? <\/strong><br\/>I love being by the water – even if we decide to live in London for the foreseeable future I would love to live by the river and retire by the Sea!<br\/>I love Formula One<br\/>My favourite food is Indian<\/p>",
+        "text_block": "<p><strong>Can you tell us the story behind Edition 94?<\/strong><br\/>I opened The Edition 94 just over two years ago after running my contemporary Art Gallery The Dot Project for 5 years from 94 Fulham Road. I had to decided to take a new direction with The Dot Project focusing on exhibitions with a more focused group of Artists and looking at exhibiting their works in a more residential setting. I had to come up with a new way to utilising the large space the Gallery had been running out of and interiors had always been a huge part of my life. I studied Architectural Interior Design at The Inchbald School of Design before opening The Dot Project and opening an interiors store felt like a great way to complement what we had already achieved with The Dot Project. Art and interiors are intrinsically linked and it’s been wonderful to see how the Gallery and the store have worked together.<\/p><p><strong>What does the name refer to? <\/strong><br\/>I really saw The Edition 94 is an edition of my first business and the store is located at number 94 Fulham Rd 🙂<\/p><p><strong>Can you tell us three facts about yourself? <\/strong><br\/>I love being by the water – even if we decide to live in London for the foreseeable future I would love to live by the river and retire by the Sea!<br\/>I love Formula One. <br\/>My favourite food is Indian. <\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
         "button_label": ""
-      }
-    },
-    "e1ecd4c6-2af5-4714-8a1e-e4b5e903fc66": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/2D8BF3AD-06F6-4C65-8ADA-7773E0D0703B-819x1024.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
       }
     },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
@@ -94,33 +84,11 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Your favourite Hotel\/Restaurant?<br\/><\/strong>Vila Santa Teresa, in Rio De Janeiro that I mentioned before is hard to beat. The interiors are incredible but the views are unbelievable.<\/p><p><strong>Do you have a brand you particularly like at the moment? <\/strong><br\/>I love all the lighting pieces designed by Beata Heuman and the bedding by Trove by Studio Duggan<\/p><p><strong>In what way do you think this pandemic will influence the way people see their homes?<\/strong><br\/>I think people are seeing their homes as their personal sanctuaries away from everything that is going on. Therefore people are really looking at ways to make their homes a really special place not only for themselves but also to have friends and family round to when they are allowed. We have really noticed how important the art of entertaining has become even when people are just having 4 or 6 people round for an evening they want it to make it memorable.<\/p>",
+        "text_block": "<p><strong>Your favourite Hotel\/Restaurant?<br\/><\/strong>Vila Santa Teresa, in Rio De Janeiro that I mentioned before is hard to beat. The interiors are incredible but the views are unbelievable.<\/p><p><strong>Do you have a brand you particularly like at the moment? <\/strong><br\/>I love all the lighting pieces designed by Beata Heuman and the bedding by Trove by Studio Duggan.<\/p><p><strong>In what way do you think this pandemic will influence the way people see their homes?<\/strong><br\/>I think people are seeing their homes as their personal sanctuaries away from everything that is going on. Therefore people are really looking at ways to make their homes a really special place not only for themselves but also to have friends and family round to when they are allowed. We have really noticed how important the art of entertaining has become even when people are just having 4 or 6 people round for an evening they want it to make it memorable.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
         "button_label": ""
-      }
-    },
-    "2277c011-7dbe-42c6-bb8b-f47f14534283": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17981567828283__2277c011-7dbe-42c6-bb8b-f47f14534283-167630136067210d40-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Coversexarticle.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Sexe Wine Glasses, Set of 4<\/p><p>€56<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17981567828283__2277c011-7dbe-42c6-bb8b-f47f14534283-167630136067210d40-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
       }
     },
     "main": {
@@ -154,11 +122,9 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
-    "e1ecd4c6-2af5-4714-8a1e-e4b5e903fc66",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "12f8dc28-a227-44f3-8421-5193f5a2c8bf",
     "20fa1a1d-0b48-4e1e-99d2-da5f020ecb6c",
-    "2277c011-7dbe-42c6-bb8b-f47f14534283",
     "main",
     "blog-posts"
   ]

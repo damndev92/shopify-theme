@@ -15,7 +15,7 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "DESTINATIONS",
         "page_title": "10 facts about Cìrculo Mexicano, Mexico City",
         "title": "",
         "text": "<p>We’ve gathered our 10 favourite facts from Cìrculo Mexicano in Mexico<\/p>",
@@ -128,7 +128,7 @@
             "image": "shopify:\/\/shop_images\/1784-Collection-Wooden-Rocking-Chair-1024x1024.jpg",
             "link": "",
             "title": "",
-            "description": "<p>1784 Collection Wooden Rocking Chair<\/p><p>£1,633<\/p>"
+            "description": "<p>1784 Collection Wooden Rocking Chair<\/p>"
           }
         },
         "template--18018772451643__c5aa7661-b048-424f-b319-93983a809cdb-1676562208ddac322b-1": {
@@ -137,7 +137,7 @@
             "image": "shopify:\/\/shop_images\/Wooden-Chair-C-Collection-Without-Armrest-1024x1024.jpg",
             "link": "",
             "title": "",
-            "description": "<p>Wooden Chair C Collection Without Armrest<\/p><p>£479<\/p>"
+            "description": "<p>Wooden Chair C Collection Without Armrest<\/p>"
           }
         },
         "template--18018772451643__c5aa7661-b048-424f-b319-93983a809cdb-1676562208ddac322b-2": {
@@ -146,7 +146,7 @@
             "image": "shopify:\/\/shop_images\/1784-Collection-Wooden-Coffee-Table-1024x1024.jpg",
             "link": "",
             "title": "",
-            "description": "<p>1784 Collection Wooden Coffee Table<\/p><p>£528<\/p>"
+            "description": "<p>1784 Collection Wooden Coffee Table<\/p>"
           }
         }
       },

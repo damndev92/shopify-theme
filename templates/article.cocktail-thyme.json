@@ -15,10 +15,10 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "HOW TO",
         "page_title": "You’ve been served: Valentine’s cocktail with Thyme",
         "title": "",
-        "text": "<p>A signature <a href=\"https:\/\/www.maisonflaneur.com\/venues\/the-ox-barn\/\">Thyme  <\/a>cocktail, inspired by the produce grown in our kitchen garden, ‘Rude Bob’ is a perfect aperitif in that magical hour or two before dinner, or simply to enjoy on a balmy afternoon. Fascinatingly, rhubarb is actually a vegetable not a fruit, related to both sorrel and dock; the edible stem is fruity, tart and sour. It grows in two main crops, the first can be harvested as early as February when it is ‘forced’ under bell-shaped terracotta pots, the second with darker stems runs through spring into summer, and if your garden is sheltered into the autumn.  It is particularly delicious with citrus and ginger. Rhubarb and ginger is macerated in sugar over 3 days to extract the delicious cold syrup. However, if you don’t want to make the syrup, a rhubarb cordial from the supermarket would suffice!<\/p>",
+        "text": "<p>A signature <a href=\"\/collections\/thyme\" title=\"Thyme\">Thyme  <\/a>cocktail, inspired by the produce grown in our kitchen garden, ‘Rude Bob’ is a perfect aperitif in that magical hour or two before dinner, or simply to enjoy on a balmy afternoon. Fascinatingly, rhubarb is actually a vegetable not a fruit, related to both sorrel and dock; the edible stem is fruity, tart and sour. It grows in two main crops, the first can be harvested as early as February when it is ‘forced’ under bell-shaped terracotta pots, the second with darker stems runs through spring into summer, and if your garden is sheltered into the autumn.  It is particularly delicious with citrus and ginger. Rhubarb and ginger is macerated in sugar over 3 days to extract the delicious cold syrup. However, if you don’t want to make the syrup, a rhubarb cordial from the supermarket would suffice!<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -38,28 +38,6 @@
         "button_link": "",
         "hotel_page_url": false,
         "button_label": ""
-      }
-    },
-    "8806381a-8884-4bef-8611-831c7779db75": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--18018696659259__8806381a-8884-4bef-8611-831c7779db75-16765615726170474d-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Emma-Montague-Cocktail-Olive-Picks.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Emma Montague Cocktail Olive Picks<\/p><p>£136<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18018696659259__8806381a-8884-4bef-8611-831c7779db75-16765615726170474d-0"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
       }
     },
     "main": {
@@ -93,7 +71,6 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "f711b8ff-8a6a-4e4f-9f1d-04b4da0352f4",
-    "8806381a-8884-4bef-8611-831c7779db75",
     "main",
     "blog-posts"
   ]

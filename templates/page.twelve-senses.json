@@ -3,7 +3,7 @@
     "f5bda6e8-dcdb-4f75-83f7-787ab9571b9e": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Hotel_Feature_Image_11aba1c0-89b0-4218-907d-96cf47d4378b.png",
+        "image": "shopify:\/\/shop_images\/twelve-senses-retreat-s-01-r-jpg.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -111,7 +111,7 @@
             "product": "beefbar-main-plate-knife-emoji",
             "top": 63,
             "left": 51,
-            "disable_spot": false
+            "disable_spot": true
           }
         },
         "33f45241-76a7-44e8-98cf-425c6bb0bdc8": {
@@ -120,7 +120,7 @@
             "product": "design-clock-solari-cifra-3-black",
             "top": 0,
             "left": 0,
-            "disable_spot": false
+            "disable_spot": true
           }
         },
         "acc4f147-815a-42fe-a4b7-0c5e251efe89": {
@@ -129,7 +129,7 @@
             "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
             "top": 33,
             "left": 0,
-            "disable_spot": false
+            "disable_spot": true
           }
         }
       },
@@ -140,7 +140,7 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Shop",
+        "subheading": "",
         "title": "Shop the Look",
         "image": "shopify:\/\/shop_images\/Shop_the_Look-Hotels_b9e34478-69c0-4ace-8e82-4b07de2af564.png",
         "image__position": "image--left",
@@ -224,8 +224,8 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/107.png",
         "subheading": "",
-        "title": "Take the tour",
-        "text": "Here's your chance to make a great first impression",
+        "title": "Take a tour",
+        "text": "",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -238,13 +238,13 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/Interior_Designers-Hotels_16b1405d-11b4-4782-bf95-fc7e019e3dc5.png",
         "layout": "left",
-        "subheading": "Meet the host",
+        "subheading": "Meet the host - Anke Bodack",
         "location": false,
-        "title": "Anke Bodack, Owner",
-        "text_block": "<p><strong>\"I started searching for a property to buy that I could turn into a hotel, but I could never find one. Still, I knew it was my dream. I meditate every day and this image of me as a hotelier began to crystalize in my mind, a voice saying, “This is what I must do!\"<\/strong><\/p>",
+        "title": "\"I meditated every day and this image of me as a hotelier began to crystalize in my mind, a voice saying: this is what I must do!\"",
+        "text_block": "",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -303,7 +303,7 @@
         "width": "medium",
         "subheading": "The rooms",
         "page_title": "",
-        "title": "Take A Peek Inside",
+        "title": "Take a peek inside",
         "text": "<p>Twelve Senses' four rooms are inspired by the natural elements Fire, Water, Earth, and Air, and are designed with a sustainable approach to nature and to our guests' well-being.<\/p>",
         "button_link": "",
         "button_label": ""
@@ -353,41 +353,29 @@
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
-      "settings": {
-        "colors": "white",
-        "subheading": "Read From",
-        "title": "Flâneur Magazine",
-        "post_limit": 3,
-        "show_author_name": false,
-        "show_dates": true,
-        "show_blog_images": true,
-        "imageSize": "portrait"
-      }
-    },
-    "f5f7b256-b511-4d25-9ec5-50568033693b": {
-      "type": "collection--collection-list",
       "blocks": {
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-0": {
-          "type": "featured_collection",
+        "eb6e2225-39b2-4f5f-bb6f-3c0102f28a5d": {
+          "type": "article",
           "settings": {
-            "collection": ""
-          }
-        },
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
+            "blog_post_1": "flaneur-magazine\/make-yourself-at-home-review-of-the-twelve-senses-retreat-encinitas-usa",
+            "blog_post_2": "",
+            "blog_post_3": "",
+            "blog_post_4": ""
           }
         }
       },
       "block_order": [
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-0",
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-2"
+        "eb6e2225-39b2-4f5f-bb6f-3c0102f28a5d"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "",
-        "title": ""
+        "subheading": "Read From",
+        "title": "Flâneur Magazine",
+        "post_limit": 1,
+        "show_author_name": false,
+        "show_dates": false,
+        "show_blog_images": true,
+        "imageSize": "portrait"
       }
     }
   },
@@ -404,7 +392,6 @@
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
-    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
-    "f5f7b256-b511-4d25-9ec5-50568033693b"
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
   ]
 }

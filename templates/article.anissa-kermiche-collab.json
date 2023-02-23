@@ -1,0 +1,171 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/HP-e1666114756511-1024x537.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Maison Flâneur x Anissa Kermiche Collection",
+        "title": "",
+        "text": "<p>Together with the talented <a href=\"https:\/\/www.maisonflaneur.com\/brand\/anissa-kermiche\/products\/\">Anissa Kermiche<\/a>, Maison Flâneur is thrilled to present a collection of delicate, sculpted carafes.<\/p><p>This cheeky glassware borrows its form from Kermiche’s classic Popotins and Tit for Tat candleholders and comes in a dizzying array of beautiful pastels.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-33-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Introducing Maison Flâneur X Anissa Kermiche Tit for Tat Glass Carafe. A bold conversation piece made in an exaggerated figure form. Expertly hand-blown and crafted in Portugal. These carafes have a deliciously mischievous appeal that makes them perfect for your dining table.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Untitled-design-36-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>We are<em>pouring<\/em>over this new collection. Fill with water or wine or use it to present your florals. We hope you love our latest collaboration as much as we do.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "525a0685-b1c7-414c-a664-723fd87575f3": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18099769671995__525a0685-b1c7-414c-a664-723fd87575f3-1677167855a93dcbd7-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-3-1024x1024_a4eac839-0e14-4765-ab63-cb23ee38a0b1.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Tit for Tat Glass Carafe – Blue Bundle<\/p><p>£155<\/p>"
+          }
+        },
+        "template--18099769671995__525a0685-b1c7-414c-a664-723fd87575f3-1677167855a93dcbd7-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2-3-1024x1024_16c80683-103c-4c20-bc70-9f486e947649.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Tit for Tat Glass Carafe – Clear Bundle<\/p><p>£155<\/p>"
+          }
+        },
+        "template--18099769671995__525a0685-b1c7-414c-a664-723fd87575f3-1677167855a93dcbd7-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-1024x1024_41f96fb6-81cc-42c3-a85f-0e7b1860281e.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Glass Carafe – Blue<\/p><p>£85<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18099769671995__525a0685-b1c7-414c-a664-723fd87575f3-1677167855a93dcbd7-0",
+        "template--18099769671995__525a0685-b1c7-414c-a664-723fd87575f3-1677167855a93dcbd7-1",
+        "template--18099769671995__525a0685-b1c7-414c-a664-723fd87575f3-1677167855a93dcbd7-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "5c7a7840-2e50-4754-bb15-c9e3eabaa9ef": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18099769671995__5c7a7840-2e50-4754-bb15-c9e3eabaa9ef-1677167855a93dcbd7-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/31-1024x1024_6d0b0355-fa17-4f89-977b-e8ae25baa668.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18099769671995__5c7a7840-2e50-4754-bb15-c9e3eabaa9ef-1677167855a93dcbd7-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/candle-product-pics-1024x1024.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18099769671995__5c7a7840-2e50-4754-bb15-c9e3eabaa9ef-1677167855a93dcbd7-0",
+        "template--18099769671995__5c7a7840-2e50-4754-bb15-c9e3eabaa9ef-1677167855a93dcbd7-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "main",
+    "525a0685-b1c7-414c-a664-723fd87575f3",
+    "5c7a7840-2e50-4754-bb15-c9e3eabaa9ef",
+    "blog-posts"
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/f1d263cf42903678161ded6ad4b1e04a-1024x766.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Flânerie in the design backstage: Let there be Shade",
+        "title": "",
+        "text": "<p>Go big or go home they say. Well, it seems that times are telling us to go home and feather our nest.  Against the gloomy winter comes a Scandinavian lamp to cheer us up, a richly upholstered Italian sofa to make the life dolce, a delicate vase to keep you sophisticated, a bed to give you courage for the new day. Behind all these objects is the story of a designer quietly working for you.<\/p><p><em>Flâneurs <\/em>and <em>flâneuses<\/em>, since we are all inside, I would like to take you for a stroll amongst some of these stories.<\/p><p><strong>By Astrid Malingrea<\/strong><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/9780714865843-780-1-768x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>I grew up in the north of Italy where design was present in every aspect of your life. From your first tazza of coffee to the light on your nightstand, you would turn off at night. Later, I went on to work in the design department of an international auction house where my work was to catalogue, expertise, and write about the design works that were to be offered for sale. The home is the most potent factor of civilization and will tell you about the evolution of any society. I became fascinated by the small revolutions I was discovering through the lens of design and what they said about the hopes and dreams of the times.  <\/p><p><strong>What is ‘design’ you say?<\/strong> There are many definitions for it. The art market has been narrowing it to the decorative arts, furniture, objects and even sculpture, from 1900 up to today. But the definition I am fond of comes from a short text written by Ettore Sottsass  (pictured here) published in <em>Molto difficile da dire<\/em><em><strong>[1]<\/strong><\/em> (Very difficult to say). For the Italian designer – who knew a thing or two on the matter – design is not the object in itself but the array of possibilities that it brings to you. Behind a well-designed object you should feel the presence of an artist working for <em>you<\/em>, bettering your living conditions and encouraging your curiosity for beauty. <\/p><p>[1] E. Sottsass, <em>Molto difficile da dire<\/em>, Adelphi Edizioni, Milan, 2019, p. 63.<\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/poul-henningsen-designer-photo.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Let there be shade",
+        "text_block": "<p>Since God said ‘Let there be light’, ingenious minds took the matter into their own hands and today the transition between night and day is at the flick of a switch. To put things mildly, artificial light has done nothing less than enlighten our path towards civilization. This switch, however, has become incredibly complex and is now managed by architects, electrical lighting technicians, designers, electricians, decorators, influencers, etc. For their great mission, they all commonly use a standard fitting system called PH that allows a calibrated diffusion of the rays of light.<\/p><p>Very little attention has been paid to one of the great masters of this switch; Poul Henningsen or PH. Rarely mentioned by name, PH is the founder of the geometry of diffused light. His most well-known creation is the ‘artichoke’ lamp which has become a showpiece for Danish design.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "e3b6ed7a-7634-44fd-8f87-ae903ae0de49": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/447_TheLightingArchitects_4A-1024x576.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "d08268f8-d91f-4e8b-8f96-e5c0323c8186": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/fb717ec1b1e87d73f8c4193e7e568ade-819x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><\/p><p>A version of the ‘artichoke’ lamp devised to explore the colour potential of fluorescent lamps. <\/p><p>PH was born in 1894 which means that he lived through the transition from candles and gaslight to electrical domestic light. As I was researching Scandinavian pieces of design I stumbled upon fragments of his writings in which he expressed how disturbed he was by the harshness of the light emanating from the lightbulbs. <\/p><p>Unsurprisingly he became quite obsessed with electric fittings. When he started working as an architect, light fittings were still closely connected to the idea of burning candles or gas lights. He first broke away from the glass prism as a light scattering device by creating a tulip shaped lampshade which radiated the source of light directly and diffusely. A first breakthrough.<\/p><p>In 1921 he created – in conjunction with the artist Axel Salto -the first lamp with horizontally shaped shades to conceal the light source and use reflection to scatter warm light throughout the room. The system is based on PH theory of the three shadows; <\/p><p>The ‘little’ shadow that allows seeing the pen hit the paper, the one you don’t notice but that is essential, <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "62da53fb-0b68-4273-9268-5b60bc3a9a22": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Louis-Poulsen-PH-5-Poul-Henningsen-dym08-1024x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>The ‘middle’ shadow which occurs when the light comes from the wrong direction and casts on the hand holding the pen and which should not be allowed to exist and finally <\/p><p>The ‘big’ shadow that creates the setting in which you can diffuse the contours to make it as glamorous as you want.<\/p><p>The first ‘official’ models were exhibited at the historical exhibition in Paris in 1925 at the Danish pavilion but also in the Danish section of the Grand Palais. The PH system was born and embarked on a ten-year adventure to be perfected with sliding mechanisms and different surface choices to make a range of subtle nuances and scattering angles of the light rays. It was developed for hanging lamps, wall lamps, desk lamps, and even street lighting. <\/p><p>Today we take for granted the glamorous lights that allow us to make an entrance, or to feel at home even if it is the first time you step in the room. Now, every time you feel grateful for not having to stare at a bare lightbulb, have a little thought for Poul.<\/p><p>We hope you learned a lot today and are looking forward to our next dive into the best of design.<\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "cfbed071-e84b-4b4a-9b0a-0a672885193c": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2019-Hotel-Pigalle-01-1024x683.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "c7ec1323-ac20-419a-a4fa-175141e5f0ea": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Grace-3-Pendant.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Grace 3 Pendant Lamp",
+        "text_block": "<p>£939<\/p><p>The shade is spun into shape from a piece of steel, and the diffuser is made of glass. All brass and steel parts are solid, brushed and lacquered. This lamp is crafted in Sweden – manufactured by hand, designed and developed with the greatest attention to precision in detail and material. From the same collection: <a href=\"http:\/\/3.9.65.88\/product\/grace-pendant-lamp\/\">Grace Pendant Lamp<\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "e9755207-4636-4eb8-9956-469b002808c7": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><em>Astrid Malingreau (Lugano, 1989) studied literature in Paris at the Sorbonne-Paris IV before specializing in publishing and editorial skills at Paris XIII. After working for two years in publishing in London, she joined Christie’s in 2014 and moved to the New York office to become a Specialist in the Decorative Arts department before transitioning to Design. She is now based in Brussels and working as a private advisor specialized in 20th century and contemporary design. Her look on the art world is shaped by this multidisciplinary and international background. It  allows her to cast an eclectic eye on the art market  with a knowledge of design works and their history.  <\/em><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "main",
+    "e3b6ed7a-7634-44fd-8f87-ae903ae0de49",
+    "d08268f8-d91f-4e8b-8f96-e5c0323c8186",
+    "62da53fb-0b68-4273-9268-5b60bc3a9a22",
+    "cfbed071-e84b-4b4a-9b0a-0a672885193c",
+    "c7ec1323-ac20-419a-a4fa-175141e5f0ea",
+    "e9755207-4636-4eb8-9956-469b002808c7",
+    "blog-posts"
+  ]
+}

@@ -26,7 +26,7 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "Pisa, Italy",
+        "subheading": "Tuscany, Italy",
         "page_title": "",
         "title": "Villa Lena",
         "text": "<p><br\/>Villa Lena cultivates both nature and culture, exemplifying a new way of living and holiday experience. The Villa Lena estate is located in the Province of Pisa, secluded amongst 500 hectares of woodland, vineyards, olive groves and organic vegetable gardens. A 19th-century villa sits at the heart of the property, originally built for an Italian aristocratic family. It now houses the Villa Lena Foundation and artist-in-residence programme. Surrounding the villa, converted historic agricultural buildings—former farmhouses, stables and hunting lodges—house self-contained guest apartments and shared facilities.<\/p>",
@@ -52,7 +52,7 @@
         "subheading": "",
         "page_title": "",
         "title": "",
-        "text": "<p>Villa Lena is the love child of the symmetry and saturated colours of Sofia Coppola's Lost in translation coupled with a Keith Haring-esqe vibe that surrounds the grounds. True to it's artist-in-residency vibe, Lena's sundrenched Tuscan ethos pervades throughout.<\/p>",
+        "text": "<p>Villa Lena is the love child of the symmetry and saturated colours of Sofia Coppola's <em>Lost in Translation<\/em> coupled with a Keith Haring-esqe vibe that surrounds the grounds. True to it's artist-in-residency energy, Lena's sundrenched Tuscan ethos pervades throughout.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -99,7 +99,8 @@
         "colors": "white",
         "width": 220,
         "subheading": "",
-        "title": ""
+        "title": "",
+        "mobile_image": "shopify:\/\/shop_images\/villalena.png"
       }
     },
     "b7d5c3fe-66fc-4740-86c2-64f8d90e61db": {
@@ -108,21 +109,33 @@
         "template--17824607928635__b7d5c3fe-66fc-4740-86c2-64f8d90e61db-1676391521c92cff8d-0": {
           "type": "product",
           "settings": {
-            "image": "shopify:\/\/shop_images\/VILLA_LENA_SHOP_THE_LOOK.jpg",
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-02-23T160202.072.png",
             "image__position": "image--left",
-            "product": "",
-            "product-2": "",
-            "product-3": "",
-            "product-4": ""
+            "product": "1784-collection-wooden-rocking-chair",
+            "product-2": "alfonso-vase",
+            "product-3": "alfonso-fruit-bowl-6",
+            "product-4": "tea-bowl"
+          }
+        },
+        "49a4bb7c-364a-4278-920a-6f42225f9314": {
+          "type": "product",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-02-23T160247.315.png",
+            "image__position": "image--left",
+            "product": "1784-collection-wooden-chair",
+            "product-2": "1784-collection-wooden-coffee-table",
+            "product-3": "aged-brass-sculptural-floor-lamp-escargot-by-le-corbusier",
+            "product-4": "al-collection-wooden-chair-handwoven"
           }
         }
       },
       "block_order": [
-        "template--17824607928635__b7d5c3fe-66fc-4740-86c2-64f8d90e61db-1676391521c92cff8d-0"
+        "template--17824607928635__b7d5c3fe-66fc-4740-86c2-64f8d90e61db-1676391521c92cff8d-0",
+        "49a4bb7c-364a-4278-920a-6f42225f9314"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "VILLA LENA",
+        "subheading": "",
         "title": "Shop the look"
       }
     },
@@ -176,12 +189,6 @@
             "gallery_image": "shopify:\/\/shop_images\/4_a5676877-0896-4d48-92cc-39c46fa4c58a.png"
           }
         },
-        "af48226a-26ba-4666-8f32-7e4ef7261d12": {
-          "type": "image",
-          "settings": {
-            "gallery_image": "shopify:\/\/shop_images\/VL.webp"
-          }
-        },
         "31cff27e-b36c-41be-8d4a-1bb8ef12fbbd": {
           "type": "image",
           "settings": {
@@ -232,7 +239,6 @@
         "d795c23d-d880-40f9-ac2a-1ce8bde1db9f",
         "5fc51b61-21f3-47d9-b168-e69491a7602d",
         "7b44b9ee-a1f9-4a7b-96ca-f56cba8ab89b",
-        "af48226a-26ba-4666-8f32-7e4ef7261d12",
         "31cff27e-b36c-41be-8d4a-1bb8ef12fbbd",
         "d303232b-18f7-4ca2-81c8-94bfbd0f3dd1",
         "1ed0f900-f825-41ef-a6b6-fd0ca6edba10",
@@ -258,12 +264,12 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_1_e2462119-27cc-4966-8940-7d35d331f5d4.png",
         "layout": "left",
         "subheading": "Meet the host - Lena Evstafieva",
         "location": false,
-        "title": "Villa Lena is much more than a hotel;  A mix between an artist’s residence, a self-sufficient commune, and the cool kids hot-spot.",
+        "title": "\"Villa Lena is much more than a hotel; a mix between an artist’s residence, a self-sufficient commune, and the cool kids hot-spot.\"",
         "text_block": "<p><br\/><\/p>",
         "page_description": false,
         "button_link": "",
@@ -310,7 +316,7 @@
         "cbf8cc1f-e932-4ee8-8365-efd1ba25591d"
       ],
       "settings": {
-        "background-color": "#f3f3f3",
+        "background-color": "#e3e3e3",
         "text-color": "#000000",
         "title": "Tips from the host",
         "faq_icon": "plus_minus"
@@ -323,7 +329,7 @@
         "width": "medium",
         "subheading": "The rooms",
         "page_title": "",
-        "title": "Take A Peek Inside",
+        "title": "Take a peek inside",
         "text": "<p>Double rooms in the San Michele building are Seventies in style – think pastel pinks and blues, raffia chairs and desks, pendant lamps and terrazzo-tiled bathrooms. If you book into the Fattoria building expect austere apartments (some sleep up to four), with stylish features such as mismatched chairs, brick flooring, working fireplaces, kitchenettes and featured art.<\/p>",
         "button_link": "",
         "button_label": ""
@@ -356,7 +362,7 @@
             "image": "shopify:\/\/shop_images\/Villa_Lena_Casetta.png",
             "link": "https:\/\/www.ericsoft.biz\/BookingEngine\/Book?idh=8015F6D4EDD3C10C&lang=en&beta=true",
             "title": "CASETTA BELLA VILLA",
-            "description": "<p>80 sqm, 3 Double Bedrooms<\/p><p>Casetta Bella is a self-contained and secluded three bedroom house with a pool shared with the neighbouring Maison Stento. The house includes a large open-plan living space, outdoor terrace, two double bedrooms and one twin, a large family bathroom with a bath and shower, a kitchen with facilities including fridge, gas hob and electric oven. The property is a 20 minutes walk walk from the San Michele restaurant and pool so car rental is recommended.<\/p>"
+            "description": "<p>80 sqm, 3 Double Bedrooms<\/p><p>Casetta Bella is a self-contained and secluded three bedroom house with a pool shared with the neighbouring Maison Stento. The house includes a large open-plan living space, outdoor terrace, two double bedrooms and one twin, a large family bathroom with a bath and shower, a kitchen with facilities including fridge, gas hob and electric oven.<\/p>"
           }
         }
       },

@@ -1,0 +1,167 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Love-handles-amissa-kermiche.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "How It’s Made: Anissa Kermiche x MF Gl(asses)",
+        "title": "",
+        "text": "<p>If you’ve ever opened Instagram, been called a millennial (mistakenly or correctly) or been just about anywhere <em>cool, <\/em>we can bet the name Anissa Kermiche is not unfamiliar to you. Anissa’s a non-linear woman who loves the lines of the female form. Her background in engineering led her not to mechanics and machines but instead marched her straight into the world of art and design.<\/p><p>At first, our partnership with Anissa was like many others we have: we stocked her pieces and shared them with our community on the site and on socials. But eventually, it just wasn’t enough. A true collab was in order, as our design ethos lined up so perfectly.<\/p><p>After lots of back and forth, and months of designing and prototyping, we finally landed on what is now one of our bestsellers: the Anissa Kermiche x Maison Flaneur <a href=\"https:\/\/www.maisonflaneur.com\/brand\/anissa-kermiche\/products\/\">Popotin Gl(asses)<\/a>. You love them, you want them. And today, we’re going to show you exactly how they’re made.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/11-1024x1024_88ffbe8b-b5f0-4b2d-a64b-cd935783aae9.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Phase 1",
+        "text_block": "<p><strong>Creating the glob<\/strong>. Once the team at our factory creates the glob, they begin the shaping process using a marvel. The glass blower heats one end of the blowpipe and begins rolling over the soft molten glass to hollow out a section of glass. This is always the section that’s attached to the blowpipe.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/21-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Phase 2",
+        "text_block": "<p><strong>Colouring<\/strong>. One of our favourite things about our Anissa Kermiche x Maison Flaneur Popotin Gl(asses) are the beautiful colours. While the simple clear versions are lovely, the colouring process is key for creating something truly unique.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "b132d7a9-ce21-42d8-9437-10775d31c5da": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/31-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Phase 3",
+        "text_block": "<p><strong>Blowing and shaping<\/strong>. If you’ve ever been to Venice, you’ve probably seen glassblowers at work. This is a pretty jaw-dropping process. One of our glass blowers feeds air into the molten glob, twisting and turning it along the way to create Anissa’s classic hippy shape.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "c5959988-e1e6-4e99-87f0-832c394ae0f7": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/41-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Phase 4<\/strong><\/p><p><strong>Breaking<\/strong>. Once the standard shape is achieved, the glass blower wraps the blow pipe and swiftly away.<\/p><p><strong>Phase 5<\/strong><\/p><p><strong>Hot cutting<\/strong>. While the glass is still hot enough to be malleable, straight shears are used to finish off the edges and trim the glass down.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "ab181613-7fe9-4ecc-a9c0-cf24a8ef602d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/51-1024x1024_e2c19c3e-7845-432c-a713-c2b7112d33f3.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Phase 6",
+        "text_block": "<p><strong>In the oven<\/strong>. The final step! Since the Popotins are pretty much perfect at this point, it’s time for the annealing oven. This high heat furnace is used by the glass blowers to eliminate any stresses that were created during the previous phases. It slowly and evenly heats the glass, thus removing any remaining dimples or depressions. After a brief “soaking” period, the oven gradually returns to room temperature.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "2f191aaa-d785-4bab-9bd5-7185bafce413": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/61-1024x1024_019a3da7-7c61-446e-95a3-1aab316291f6.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Phase 7<\/strong><\/p><p><strong>Shipping<\/strong>. Our Popotins are ready for use. They travel from our factory to our HQ and, eventually, to you!<\/p><p><strong>Phase 8<\/strong><\/p><p><strong>Drinking<\/strong>. Or holding flowers. Or candles. The possibilities are endless.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "b132d7a9-ce21-42d8-9437-10775d31c5da",
+    "c5959988-e1e6-4e99-87f0-832c394ae0f7",
+    "ab181613-7fe9-4ecc-a9c0-cf24a8ef602d",
+    "2f191aaa-d785-4bab-9bd5-7185bafce413",
+    "main",
+    "blog-posts"
+  ]
+}

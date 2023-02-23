@@ -15,7 +15,7 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "DESIGN HUB",
         "page_title": "Limited Edition, Amour & Sexe, André Saraiva, Hotel Amour",
         "title": "",
         "text": "<p>We really wanted this Valentine’s to be extra-special. Maison Flaneur, in partnership with Andre Saraiva, Hotel Amour, and Semaine, came up with something unique.  <strong>Like the perfect lover, it likes wine, it’s lovely, a bit naughty, and French.<\/strong>Our limited edition Amour et Sexe glasses are THE Valentine’s day present you’ve been looking for. <\/p>",
@@ -27,13 +27,13 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/DSCF1482-683x1024.jpg",
         "layout": "right",
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p>Designed exclusively for Maison Flaneur, it has a short stem and an elongated bowl and it looks a bit like a port glass—you know, the kind that feels good in your hand and implores you to sip long, slow, delish nips of something complex but not too demanding, and savor the aroma of a languid evening like Semaine describes it. <\/p><p>As a natural bon vivant, Andre Saraiva, renowned graffiti artist, fashion editor, film director, transatlantic nightclub owner, and hotelier, can be trusted to design the perfect party accessory. Choose between the iconic ‘Amour’ or the friskier ‘Sexe’ glass – Show em’ Romance is not dead.<\/p>",
+        "text_block": "<p>Designed exclusively for Maison Flaneur, it has a short stem and an elongated bowl and it looks a bit like a port glass—you know, the kind that feels good in your hand and implores you to sip long, slow, delish nips of something complex but not too demanding, and savor the aroma of a languid evening like Semaine describes it. <br\/><br\/>As a natural bon vivant, Andre Saraiva, renowned graffiti artist, fashion editor, film director, transatlantic nightclub owner, and hotelier, can be trusted to design the perfect party accessory. Choose between the iconic ‘Amour’ or the friskier ‘Sexe’ glass – Show em’ Romance is not dead.<\/p><p><\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -47,7 +47,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "x-large",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "main": {

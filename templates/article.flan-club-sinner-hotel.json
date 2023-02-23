@@ -15,7 +15,7 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "TRAVEL GUIDE",
         "page_title": "Flân’ Club: Sinner Hotel, Paris, France",
         "title": "",
         "text": "<p>In the Haut-Marais Paris, Evok Hotel has raised the bar on Parisian luxury. The latest addition to the group’s collection, <a href=\"https:\/\/www.sinnerparis.com\/?gclid=EAIaIQobChMI0Z7S27K64wIVBl8NCh1ecgWUEAAYASAAEgKQkvD_BwE\" target=\"_blank\">Sinner Paris<\/a>, opened in the summer of 2019. The sexy 43-room hotel is a Flâneur’s delight.<\/p>",
@@ -30,14 +30,14 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/IMG_2117-826x1024.jpg",
         "layout": "right",
         "subheading": "",
@@ -57,7 +57,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "main": {

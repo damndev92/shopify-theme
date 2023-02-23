@@ -1,0 +1,203 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Sommerso_Murano_Glass_Making.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Flânerie in the design backstage: Dreaming in glass",
+        "title": "",
+        "text": "<p>You are illuminated by it, you see yourself in it, celebrate with it, look through it, and perhaps – just like me – you dream of it. Glass is the most versatile and mesmerizing material that I can think of. The history of how it came to populate almost every aspect of our daily lives goes back to more than 4000 years ago.  In this cold grey month, I would like to shed a bit of light by offering you a flânerie amongst a selection of glass creations that I find compelling.<\/p><p><strong>By Astrid Malingreau<\/strong><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/cylinder-glass.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Glass was born in mysterious, almost mythical, circumstances. The roman historian Plini the elder recounts that it was accidentally discovered by Phoenician nitro* sailors. One evening as they stopped on the shore of the river Belus (northern Syria) to set camp, they could not find any rocks to rest their cooking pot above the fire and instead used blocks of their own stock. When the nitro started to burn it melted with sand and ran in a liquid stream that later cooled and hardened into glass. <\/p><p><\/p><p><\/p><p> *Nitro or nitrogen is one of the original raw material used in the composition of glass <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/ThumbJpeg-4-768x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Given that glass needs to be burned at an approximate temperature of 1300 degrees celsius there is a likelihood that these beginnings went slightly differently. Nonetheless, the researches conducted prove that the art of glass was born and refined to an art in this region before it was adopted in Egypt, Greece, Rome, etc.  The technique evolved over hundreds of centuries and today glass can be moulded, blown, cast, and pressed. If you vary the temperature or the composition you will get opaque, transparent, translucent, or colored glass.<\/p><p>My first encounter with the marvellous qualities of glass was in a furnace on the isle of Murano where my parents had brought me as a child. I was taken aback by the transformation of this liquid substance happening before my eyes through the sheer force of the <em>Maestro<\/em>’s breath. The blown glass technique consists in blowing in the liquid through a cane in order to give it the desired shape that can vary from a simple form in a mould to the most intricate sculptures. It dates back to its Syrian beginnings but was developed by the Romans and quickly spread around their immense empire. It is a crucial turning point as it allows quicker and sharper production. <\/p><p>Since the 13th-century glass is at home in Venice where safely placed on the isle of Murano, the Maestri perfected the blowing technique to an art.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "80a8cb0a-810e-4f97-8c59-2cf84c691a65": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2021-02-09-at-13.55.38.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Outside of the classical lines but no less elegant are the creations of the ebullient italian designer Ettore Sottsass. His glass creations started in 1972 and followed a humorous tone, playing with shapes, colors and sensuality. This beautiful vase named <em>Sempre piu Casuale<\/em> (Always more casual) was created in 1992 for the Design Gallery in Milano for a collection sarcastically named <em>Rovine <\/em>(Ruins).<\/p><p>Another take on the art of blown glass are the sculptural creations by the american artist Thomas Stearn. In 1960, he arrived in Venice at the age of 24 with a study grant to pursue his interest in colored glass at the Venini glassworks. He was to become a wind of change in the old furnace. Unlike the Italian designers, he saw the glass process with a new eye, questioned the traditional esthetic canons and experimented with techniques. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "57d3deb7-f1d6-414b-9838-00df2282879d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/D2970FC2-2E26-4C4F-96DD-6717181F17FF-744x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>After two years he returned to his native Oklahoma never to work with glass again. His glassworks are therefore rare and full of poetry like my favorite piece<em>Cappello del Doge<\/em>(the Doge’s hat) inspired by the eponymous hat worn by thechief magistrates of Venice. They exist in a variety of colors and are impressive by their candor despite using complex techniques for the contrast between opacity and translucent glass as well as the asymmetrical shape.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "81aa5bad-9f2b-4f3b-a978-42079f3ad30d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/ATLAS-OF-PLACES-BIJVOET-CHAREAU-MAISON-DE-VERRE-IMG-35-1024x817.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>But glass is not only for the delicate souls it can also be the support of one of the most disquieting architectural projects – The Maison de Verre. It was commissioned in 1928 to Pierre Chareau by two clients, Jean Dalsace and his wife Annie. The project might have been different if the owner of the second and last floor apartment had not categorically refused to sell, preventing any changes to that part of the building. Because of this unexpected event Chareau suggested a daring surgical operation to demolish the lower part of the house and replace it with a more contemporary structure including a facade made entirely of glass bricks. A project that remains one of the most daring in the story of architecture.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "8ae9b6ad-fba5-49d7-931b-d388e943449a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/9db62b0177bea2ee7623ec7b537a03e7-1024x697.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>It seems fascinating to me that looking at the history of glass involves taking a dive into the history of art but also architecture, economy, science, and even politics. The triumph of glass is as discreet as it is ubiquitous. ‘Glass is, in general, the enemy of secrets’ said Walter Benjamin about the ambivalence of the material. Indeed, through these objects, one can perceive how glass, transparent and particularly difficult to master, has challenged and inspired the most creative minds. <\/p><p>Next time you raise your glass or look through the window, think about the Phoenician sailors.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "e7e94f93-e660-482f-909b-60c7c3c45a7b": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Short-Candy-Swirl-Handblown-Italian-Glass-green-684x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Green Short Candy Swirl Handblown Italian Glass",
+        "text_block": "<p>£30<\/p><p>Handblown Italian Glass<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "c3008f90-3614-49d0-b6ea-0d82e645391a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Handblown-Murrine-Italian-Glasses-green.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Green Handblown Murrine Italian Glass",
+        "text_block": "<p>£30<\/p><p>Handblown Murrine Italian Glasses. Pieces are all handmade and colours and shape may vary slightly.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "80a8cb0a-810e-4f97-8c59-2cf84c691a65",
+    "57d3deb7-f1d6-414b-9838-00df2282879d",
+    "81aa5bad-9f2b-4f3b-a978-42079f3ad30d",
+    "8ae9b6ad-fba5-49d7-931b-d388e943449a",
+    "e7e94f93-e660-482f-909b-60c7c3c45a7b",
+    "c3008f90-3614-49d0-b6ea-0d82e645391a",
+    "main",
+    "blog-posts"
+  ]
+}

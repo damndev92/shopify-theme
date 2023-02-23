@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/The-Ox-Barn-restaurant-to-complete-Thyme-s-farm-renovation-1024x679.jpg",
+        "image": "shopify:\/\/shop_images\/Thyme_Hotel.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -15,7 +15,7 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "DESTINATIONS",
         "page_title": "You’ve been served: The Ox Barn at Thyme, Cotswolds",
         "title": "",
         "text": "<p>Set in the rural retreat of Thyme – a self-contained village within a village in the Cotswolds – The Ox Barn is a contemporary restaurant in a historic building. Get ready for the best of both worlds…<br\/><\/p><p><\/p>",
@@ -40,23 +40,13 @@
         "button_label": ""
       }
     },
-    "0788dc1d-738e-4e0f-a9e5-dfbb365fd695": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/download-1-1024x521_5d93e0e3-6986-448f-b3ab-1ae66e6ac0b2.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
-      }
-    },
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6": {
       "type": "image--gallery",
       "blocks": {
         "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/634x762_Ox1.jpg",
+            "image": "shopify:\/\/shop_images\/Rivermint.jpg",
             "link": "",
             "title": "",
             "description": ""
@@ -65,7 +55,7 @@
         "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/634x762_Ox3.jpg",
+            "image": "shopify:\/\/shop_images\/1Z2A1027.jpg",
             "link": "",
             "title": "",
             "description": ""
@@ -90,6 +80,40 @@
         "colors": "white",
         "subheading": "",
         "title": ""
+      }
+    },
+    "e0673bef-c90e-4a9c-accf-0ae636e0183a": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18018197242171__e0673bef-c90e-4a9c-accf-0ae636e0183a-167716183504edc0e9-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18018197242171__e0673bef-c90e-4a9c-accf-0ae636e0183a-167716183504edc0e9-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18018197242171__e0673bef-c90e-4a9c-accf-0ae636e0183a-167716183504edc0e9-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18018197242171__e0673bef-c90e-4a9c-accf-0ae636e0183a-167716183504edc0e9-0",
+        "template--18018197242171__e0673bef-c90e-4a9c-accf-0ae636e0183a-167716183504edc0e9-1",
+        "template--18018197242171__e0673bef-c90e-4a9c-accf-0ae636e0183a-167716183504edc0e9-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Discover",
+        "title": "The Thyme Collection",
+        "collection": "thyme",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -123,8 +147,8 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "461f96b2-1092-403b-bfbe-d3d3cce59e2d",
-    "0788dc1d-738e-4e0f-a9e5-dfbb365fd695",
     "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
+    "e0673bef-c90e-4a9c-accf-0ae636e0183a",
     "main",
     "blog-posts"
   ]

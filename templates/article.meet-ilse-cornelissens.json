@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/11_Graanmarkt.jpg",
+        "image": "shopify:\/\/shop_images\/graanmarkt13_045-1050x700-1024x683.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,11 +14,11 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Meet Ilse Cornelissens, Co-owner, Graanmarkt 13, Antwerp",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet Ilse Cornelissens, Co-owner of Graanmarkt 13, Antwerp",
         "title": "",
-        "text": "<p>In the Theaterbuurt district of Antwerp, on a tree-lined courtyard, in a pretty townhouse, is <a href=\"https:\/\/www.maisonflaneur.com\/venues\/graanmarkt-13\/\">Graanmarkt 13<\/a>, the chicest shopping and dining destination in town. Founded by Ilse Cornelissens and Tim Van Geloven, the concept store combines a restaurant, a boutique, a gallery, and a flat available to rent: ‘A place where everyone would feel at home’; And it is every aesthete’s dream. We sit down with Isle to discuss her favorite addresses, her interior design inspiration, and her style philosophy.<\/p>",
+        "text": "<p>In the Theaterbuurt district of Antwerp, on a tree-lined courtyard, in a pretty townhouse, is Graanmarkt 13, the chicest shopping and dining destination in town. Founded by Ilse Cornelissens and Tim Van Geloven, the concept store combines a restaurant, a boutique, a gallery, and a flat available to rent: ‘A place where everyone would feel at home’; And it is every aesthete’s dream. We sit down with Isle to discuss her favorite addresses, her interior design inspiration, and her style philosophy.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -33,7 +33,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>How would you describe your apartment in one word?<\/strong><br\/>A warm and welcoming home away from home in the heart of Antwerp.<\/p><p><strong>What makes a home in one word?<\/strong><\/p><p>People<\/p><p><strong>How would you describe your taste in one word?<\/strong>Sober\/timeless <\/p><p><strong>Define bad taste.<\/strong><\/p><p>As long as everything fits well and is balanced, anything can be good. Even over the top, kitsch interiors can be wonderful if you do it well and with personality. <\/p><p><strong>Where do you find your inspiration for interior design?<\/strong>During our travels around the world, visiting places such as Santa Clara in Lisbon and Convento di Santa Maria di Constantinopoli in Puglia.<\/p><p> <strong>How do you choose a brand to join Graanmarkt 13?<\/strong><\/p><p><strong> <\/strong>I always trust my gut feeling. I like true stories of craftsmanship, and I have a weakness for precious natural materials.<\/p><p><strong>Do you ever disagree on a brand or a new designer?<\/strong><\/p><p><strong> <\/strong>My husband and I rarely disagree on brands. We share the same values and same sense of style. Of course we both have our guilty pleasures, but in general we always agree. <\/p><p><strong>Describe your philosophy when it comes to decoration or fashion.<\/strong><\/p><p>We wish to support slow fashion and a new kind of luxury. We encourage buying less, but better.<\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/graanmarkt-13\/\">Discover Graanmarkt 13’s secrets here. <\/a><\/p><p><\/p>",
+        "text_block": "<p><strong>How would you describe your apartment in one word?<\/strong><br\/>A warm and welcoming home away from home in the heart of Antwerp.<\/p><p><strong>What makes a home in one word?<\/strong><\/p><p>People.<\/p><p><strong>How would you describe your taste in one word?<\/strong>Sober\/timeless <\/p><p><strong>Define bad taste.<\/strong><\/p><p>As long as everything fits well and is balanced, anything can be good. Even over the top, kitsch interiors can be wonderful if you do it well and with personality. <\/p><p><strong>Where do you find your inspiration for interior design?<\/strong>During our travels around the world, visiting places such as Santa Clara in Lisbon and Convento di Santa Maria di Constantinopoli in Puglia.<\/p><p> <strong>How do you choose a brand to join Graanmarkt 13?<\/strong><\/p><p><strong> <\/strong>I always trust my gut feeling. I like true stories of craftsmanship, and I have a weakness for precious natural materials.<\/p><p><strong>Do you ever disagree on a brand or a new designer?<\/strong><\/p><p><strong> <\/strong>My husband and I rarely disagree on brands. We share the same values and same sense of style. Of course we both have our guilty pleasures, but in general we always agree. <\/p><p><strong>Describe your philosophy when it comes to decoration or fashion.<\/strong><\/p><p>We wish to support slow fashion and a new kind of luxury. We encourage buying less, but better.<\/p><p><\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -50,7 +50,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Your favourite object in your home.<\/strong><\/p><p>A lamp by Vincenzo Decotiis<\/p><p><strong>Your favourite hotel in the world.<\/strong><\/p><p>Villa d’Este in Lago Como <\/p><p><strong>Your favourite restaurant in the world.<\/strong><\/p><p>The Sportsman Seasalter <\/p><p><strong>Your favourite address for decoration. <\/strong><\/p><p>Items by Bea Mombaers in Knokke <br\/><\/p><p><\/p>",
+        "text_block": "<p><strong>Your favourite object in your home.<\/strong><\/p><p>A lamp by Vincenzo Decotiis. <\/p><p><strong>Your favourite hotel in the world.<\/strong><\/p><p>Villa d’Este in Lago Como. <\/p><p><strong>Your favourite restaurant in the world.<\/strong><\/p><p>The Sportsman Seasalter. <\/p><p><strong>Your favourite address for decoration. <\/strong><\/p><p>Items by Bea Mombaers in Knokke. <br\/><\/p><p><\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,

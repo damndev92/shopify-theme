@@ -28,8 +28,8 @@
         "width": "medium",
         "subheading": "Santorini, Greece",
         "page_title": "",
-        "title": "Vora",
-        "text": "<p><br\/>Perched on the edge of the caldera in Santorini, Vora is a handcrafted boutique hotel of three private villas carved into caves, cliffs and suspended high above the sea.Inspired by the volcanic environment and boasting minimalistic Cycladic design, custom-made furniture and a soothing palette of beiges and greys that are augmented by dark brown wood, Vòra truly is heaven on earth.The private plunge pool of each villa opens up to monumental views of the volcano and the Aegean sea. <\/p>",
+        "title": "Vòra",
+        "text": "<p><br\/>Perched on the edge of the caldera in Santorini, Vòra is a handcrafted boutique hotel of three private villas carved into caves, cliffs and suspended high above the sea. Inspired by the volcanic environment and boasting minimalistic Cycladic design, custom-made furniture and a soothing palette of beiges and greys that are augmented by dark brown wood, Vòra truly is heaven on earth. The private plunge pool of each villa opens up to monumental views of the volcano and the Aegean sea. <\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -99,7 +99,8 @@
         "colors": "white",
         "width": 220,
         "subheading": "",
-        "title": ""
+        "title": "",
+        "mobile_image": "shopify:\/\/shop_images\/vora_46a83642-0a2d-4e94-b660-c2dc5fda6f07.png"
       }
     },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
@@ -108,26 +109,35 @@
         "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
           "type": "product",
           "settings": {
-            "product": "beefbar-main-plate-knife-emoji",
+            "product": "colony-armchair",
             "top": 63,
             "left": 51,
-            "disable_spot": false
+            "disable_spot": true
           }
         },
         "61a17092-0b88-43c9-888c-ee6b50651501": {
           "type": "product",
           "settings": {
-            "product": "design-clock-solari-cifra-3-black",
+            "product": "pelleossa-chair",
             "top": 0,
             "left": 0,
-            "disable_spot": false
+            "disable_spot": true
           }
         },
         "2d0cd767-4992-4798-8a74-406d517d073e": {
           "type": "product",
           "settings": {
-            "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
+            "product": "pelleossa-stool",
             "top": 33,
+            "left": 0,
+            "disable_spot": true
+          }
+        },
+        "d9c1c74d-8540-4b52-9512-86bc908d732b": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "top": 0,
             "left": 0,
             "disable_spot": false
           }
@@ -136,11 +146,12 @@
       "block_order": [
         "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1",
         "61a17092-0b88-43c9-888c-ee6b50651501",
-        "2d0cd767-4992-4798-8a74-406d517d073e"
+        "2d0cd767-4992-4798-8a74-406d517d073e",
+        "d9c1c74d-8540-4b52-9512-86bc908d732b"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Vòra Santorini",
+        "subheading": "",
         "title": "Shop the look",
         "image": "shopify:\/\/shop_images\/62.png",
         "image__position": "image--left",
@@ -288,7 +299,7 @@
         "image": "shopify:\/\/shop_images\/vora_1bbc77c5-5b84-4e4b-92f9-77c894b0c07f.png",
         "subheading": "",
         "title": "Take a tour",
-        "text": "Here's your chance to make a great first impression",
+        "text": "",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -301,13 +312,13 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_25197ffc-98c9-4900-9997-5aae0334d27d.png",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/vora_44588041-3f23-48f2-884f-c4031445ce62.png",
         "layout": "left",
-        "subheading": "Meet the Host",
+        "subheading": "Meet the Host - Yannis Bellonias",
         "location": false,
-        "title": "Yannis Bellonias, Hotelier, Vora, Santorini",
-        "text_block": "<p><strong>“I want guests to know the Santorini of my parents, the still-secret locations, the smells, and food I grew up with.”<\/strong><\/p>",
+        "title": "“I want guests to know the Santorini of my parents, the still-secret locations, the smells, and food I grew up with.”",
+        "text_block": "",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -320,14 +331,14 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
           "type": "tab_content",
           "settings": {
-            "question": "Describe Vòra Santorini?",
+            "question": "Describe Vòra",
             "text": "<p>Inspired by the volcanic environment and boasting minimalistic Cycladic design, custom-made furniture and a soothing palette of beiges and greys that are augmented by dark brown wood, Vora truly is heaven on earth.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
           "type": "tab_content",
           "settings": {
-            "question": "Favourite spot at Vòra Santorini?",
+            "question": "Favourite spot at Vòra?",
             "text": "<p>All the verandas: Unique and uninterrupted views of the cliffs of the caldera, the volcano and the famous sunsets. They are magical places with so much energy. <\/p>"
           }
         },
@@ -355,7 +366,7 @@
       "settings": {
         "background-color": "#e3e3e3",
         "text-color": "#000000",
-        "title": "Tips from the Host",
+        "title": "Tips from the host",
         "faq_icon": "plus_minus"
       }
     },
@@ -366,8 +377,8 @@
         "width": "medium",
         "subheading": "The rooms",
         "page_title": "",
-        "title": "Take A Peek Inside",
-        "text": "<p>The three private villas that make-up Vora Santorini are carved into the face of a Santorini cliff and are characterised by minimalistic Cycladic design, private plunge pools, and stunning sunset views. The first, at the top of the site, is a renovated authentic cave house, typical of the local vernacular. Entering the house from the cave opening the first space is light-filled with spectacular views of what remains of the original crater of Santorini’s volcano. The second space, further into the cave, is cooler and darker offering respite from the heat of the summer outside. The third space, pushed far back into the rock of the mountain is serenely cool and tranquil, a total retreat.<\/p>",
+        "title": "Take a peek inside",
+        "text": "<p>The three private villas that make-up Vòra are carved into the face of a Santorini cliff and are characterised by minimalistic Cycladic design, private plunge pools, and stunning sunset views. The first, at the top of the site, is a renovated authentic cave house, typical of the local vernacular. Entering the house from the cave opening the first space is light-filled with spectacular views of what remains of the original crater of Santorini’s volcano. The second space, further into the cave, is cooler and darker offering respite from the heat of the summer outside. The third space, pushed far back into the rock of the mountain is serenely cool and tranquil, a total retreat.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -414,43 +425,42 @@
         "title": ""
       }
     },
-    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
-      "type": "blog--blog-posts",
+    "00fbae5a-6208-4ebd-ae7e-7868ca94ccc5": {
+      "type": "maison--btn",
       "settings": {
-        "colors": "white",
-        "subheading": "Read From",
-        "title": "Flâneur Magazine",
-        "post_limit": 3,
-        "show_author_name": false,
-        "show_dates": true,
-        "show_blog_images": true,
-        "imageSize": "portrait"
+        "btn": "Check availability",
+        "url": "https:\/\/www.designhotels.com\/hotels\/greece\/santorini\/vora\/?&Rooms=1&Adult=2&Child=0",
+        "link": "",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
       }
     },
-    "f5f7b256-b511-4d25-9ec5-50568033693b": {
-      "type": "collection--collection-list",
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
+      "type": "blog--blog-posts",
       "blocks": {
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-0": {
-          "type": "featured_collection",
+        "a581024d-490a-4532-bfeb-99cdfd39da23": {
+          "type": "article",
           "settings": {
-            "collection": ""
-          }
-        },
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
+            "blog_post_1": "flaneur-magazine\/meet-yannis-bellonias-hotelier-vora-santorini",
+            "blog_post_2": "flaneur-magazine\/make-yourself-at-home-review-of-vora-santorini",
+            "blog_post_3": "",
+            "blog_post_4": ""
           }
         }
       },
       "block_order": [
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-0",
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-2"
+        "a581024d-490a-4532-bfeb-99cdfd39da23"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "",
-        "title": ""
+        "subheading": "Read From",
+        "title": "Flâneur Magazine",
+        "post_limit": 2,
+        "show_author_name": false,
+        "show_dates": false,
+        "show_blog_images": true,
+        "imageSize": "portrait"
       }
     }
   },
@@ -467,7 +477,7 @@
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
-    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
-    "f5f7b256-b511-4d25-9ec5-50568033693b"
+    "00fbae5a-6208-4ebd-ae7e-7868ca94ccc5",
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
   ]
 }
