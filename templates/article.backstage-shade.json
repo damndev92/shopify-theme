@@ -70,6 +70,16 @@
         "show_recent_posts": false
       }
     },
+    "e3b6ed7a-7634-44fd-8f87-ae903ae0de49": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/447_TheLightingArchitects_4A-1024x576.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -90,6 +100,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "e3b6ed7a-7634-44fd-8f87-ae903ae0de49",
     "blog-posts"
   ]
 }
