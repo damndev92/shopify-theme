@@ -133,6 +133,40 @@
         "show_blog_images": true,
         "imageSize": "square"
       }
+    },
+    "85e8aae6-a8d6-41ad-9380-b51b57d7776e": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18063143698747__85e8aae6-a8d6-41ad-9380-b51b57d7776e-167715372781179c30-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18063143698747__85e8aae6-a8d6-41ad-9380-b51b57d7776e-167715372781179c30-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18063143698747__85e8aae6-a8d6-41ad-9380-b51b57d7776e-167715372781179c30-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18063143698747__85e8aae6-a8d6-41ad-9380-b51b57d7776e-167715372781179c30-0",
+        "template--18063143698747__85e8aae6-a8d6-41ad-9380-b51b57d7776e-167715372781179c30-1",
+        "template--18063143698747__85e8aae6-a8d6-41ad-9380-b51b57d7776e-167715372781179c30-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Disocver scandi brand",
+        "title": "Jore Copenhagen",
+        "collection": "jore-copenhagen",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -144,6 +178,7 @@
     "f9b5e952-30e9-4895-9d33-42d346a5807c",
     "09738395-9cd4-4183-9680-c0b14b0a4b6f",
     "main",
-    "blog-posts"
+    "blog-posts",
+    "85e8aae6-a8d6-41ad-9380-b51b57d7776e"
   ]
 }
