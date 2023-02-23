@@ -1,5 +1,23 @@
 {{ 'section-collection-list.min.css' | asset_url | stylesheet_tag }}
 
+{% style %}
+  {% if section.settings.show_location %}
+    #{{ section.id }} .indiv-collection-grid-homepage .homepage-collection-link {
+      text-align: left;
+    }
+    #{{ section.id }} .indiv-collection-grid-homepage .homepage-collection-link .type-subheading {
+      margin-bottom: 5px;
+    }
+  {% endif %}
+
+  {% if section.settings.image_size == 'big' %}
+    #{{ section.id }} .homepage-collection-grid-inner .grid-image .grid-image--centered img {
+      height: 462px;
+      object-fit: cover;
+    }
+  {% endif %}
+{% endstyle %}
+
 {% case section.settings.colors %}
   {% when 'white' %}
     <section class="homepage-sections-wrapper homepage-sections-wrapper--white">
@@ -26,7 +44,7 @@
           </div>
         {% endif %}
 
-        <div class="collection-grid">
+        <div id="{{ section.id }}" class="collection-grid">
           <div class="row"></div>
         </div>
 
@@ -36,10 +54,9 @@
 </section>
 
 <script>
-
   async function getCollection() {
     const query = `query {
-    collections(query:"custom.collection_type:brand", first: 250) {
+    collections(first: 250) {
       edges {
         node {
           id
@@ -48,7 +65,8 @@
           image {
             url
           }
-          metafield(namespace:"custom", key:"collection_type") {
+          metafields(identifiers: [{namespace: "custom", key: "location"}, {namespace: "custom", key: "collection_type"}]) {
+            key
             value
           }
         }
@@ -76,28 +94,39 @@
   (async () => {
     const datas = await getCollection();
     const collections = datas.data.collections.edges;
-
     // Filter and shuffle the collection nodes
     const selectedCollections = collections
-      .filter(({ node }) => node.metafield !== null && node.metafield.value === "{{ section.settings.collection_type }}")
+      .filter(({ node }) => {
+        const metafields = node.metafields;
+        return (
+          metafields &&
+          metafields.some(
+            (mf) =>
+              mf && // Add check for mf not being null/undefined
+              mf.key === "collection_type" &&
+              mf.value === "{{ section.settings.collection_type }}"
+          )
+        );
+      })
       .sort(() => 0.5 - Math.random())
       .slice(0, 3);
 
+    console.log(selectedCollections)
     for (const { node: selectedCollectionNode } of selectedCollections) {
-      const indivCollectionGridHomepage = document.createElement('article');
-      indivCollectionGridHomepage.className = 'indiv-collection-grid-homepage wow fadeInUp col-md-4';
+      const indivCollectionGridHomepage = document.createElement("article");
+      indivCollectionGridHomepage.className = "indiv-collection-grid-homepage wow fadeInUp col-md-4";
 
-      const collectionGridInner = document.createElement('div');
-      collectionGridInner.className = 'homepage-collection-grid-inner';
+      const collectionGridInner = document.createElement("div");
+      collectionGridInner.className = "homepage-collection-grid-inner";
 
-      const gridImage = document.createElement('div');
-      gridImage.className = 'grid-image';
+      const gridImage = document.createElement("div");
+      gridImage.className = "grid-image";
 
-      const gridImageCentered = document.createElement('div');
-      gridImageCentered.className = 'grid-image--centered';
+      const gridImageCentered = document.createElement("div");
+      gridImageCentered.className = "grid-image--centered";
 
       const imageSrc = selectedCollectionNode.image.url;
-      const img = document.createElement('img');
+      const img = document.createElement("img");
       img.src = imageSrc;
 
       gridImageCentered.appendChild(img);
@@ -107,21 +136,28 @@
 
       indivCollectionGridHomepage.appendChild(collectionGridInner);
 
-      const hpTitle = document.createElement('div');
-      hpTitle.className = 'hp-title homepage-collection-link';
+      const hpTitle = document.createElement("div");
+      hpTitle.className = "hp-title homepage-collection-link";
 
-      const h3 = document.createElement('h3');
-      h3.className = 'type-subheading type-subheading--1';
+      const h3 = document.createElement("h3");
+      h3.className = "type-subheading type-subheading--1";
 
-      const link = document.createElement('a');
-      link.href = selectedCollectionNode.handle;
+      const link = document.createElement("a");
+      link.href = 'collections/' + selectedCollectionNode.handle;
       link.textContent = selectedCollectionNode.title;
 
       h3.appendChild(link);
       hpTitle.appendChild(h3);
       indivCollectionGridHomepage.appendChild(hpTitle);
 
-      document.querySelector('.collection-grid .row').appendChild(indivCollectionGridHomepage);
+      {% if section.settings.show_location %}
+        const locationDiv = document.createElement('div');
+        locationDiv.className = "location";
+        locationDiv.textContent = selectedCollectionNode.metafields.find(mf => mf.key === "location").value;
+        indivCollectionGridHomepage.appendChild(locationDiv);
+      {% endif %}
+
+      document.querySelector(".collection-grid .row").appendChild(indivCollectionGridHomepage);
     }
   })();
 
@@ -130,13 +166,7 @@
 
 {% schema %}
 {
-    "name": {
-        "en": "Maison - Collection list",
-        "de": "Kollektionsliste",
-        "es": "Lista de colecciones",
-        "fr": "Liste des collections",
-        "pt-PT": "Lista da coleção"
-    },
+    "name": "Maison - Collection list",
     "class": "homepage-section--featured-collections-wrapper wow fadeIn",
     "settings": [
         {
@@ -235,6 +265,28 @@
           {
             "value": "hotel",
             "label": "Hotel"
+          }
+        ]
+      },
+      {
+        "type": "checkbox",
+        "id": "show_location",
+        "default": false,
+        "label": "Show location"
+      },
+      {
+        "type": "select",
+        "id": "image_size",
+        "label": "Image size",
+        "default": "small",
+        "options": [
+          {
+          "value": "small",
+          "label": "Small"
+          },
+          {
+          "value": "big",
+          "label": "Portrait"
           }
         ]
       }
