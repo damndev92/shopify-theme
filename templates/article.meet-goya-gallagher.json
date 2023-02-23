@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/1-5-1024x576.png",
+        "image": "shopify:\/\/shop_images\/cccfde2e093bfffc1b0f9a9fe6f165b6.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Meet Goya Gallagher, Co-founder and Designer, Malaika",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet Goya Gallagher, Co-founder and Designer of Malaika, Cairo",
         "title": "",
         "text": "<p>We are so happy to welcome Malaika on Maison Flâneur. Malaika was founded in 2004 by Margarita Andrade and Goya Gallagher who, after growing up in their native Ecuador, found themselves living and settling in Egypt. With a background in design and a keen interest in embroidery, crochet, and hand-drawn thread work, they decided to utilise Egyptian cotton to produce high-quality bed linen previously not available in the local market. At the heart of its business model, Malaika focuses on teaching hand embroidery to local women giving them a chance to learn a valuable skill and improve their economic standing. We sit down with Goya to discuss everything Malaika.<\/p>",
         "button_link": "",
@@ -33,7 +33,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p>Malaika is a social enterprise where we believe in producing timeless pieces for the home while equally considering those that make them.<\/p><p>Malaika has its own factory in the outskirts of Cairo, which enables us to produce high quality products in a nourishing working environment.<\/p><p>Malaika founded Threads of Hope in downtown Cairo, a tuition-free embroidery school where all women are welcome to try their hand at embroidery. We have recently opened a nursery so that our trainees can bring their children.<\/p>",
+        "text_block": "<p><strong>Could you tell us more about your brand? <\/strong><\/p><p>Malaika is a social enterprise where we believe in producing timeless pieces for the home while equally considering those that make them.<\/p><p>Malaika has its own factory in the outskirts of Cairo, which enables us to produce high quality products in a nourishing working environment.<\/p><p>Malaika founded Threads of Hope in downtown Cairo, a tuition-free embroidery school where all women are welcome to try their hand at embroidery. We have recently opened a nursery so that our trainees can bring their children.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -118,7 +118,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Can you tell us about the 2021 designs?<\/strong><\/p><p>There are two main inspirations for this Spring Summer Collections.<strong> The first one is called the Sacred Nile Capsule Collection. <\/strong><\/p><p>For thousands of years, the Nile has been Egypt’s lifeline. The shores along the Nile are incredibly fertile explosions of palm groves leading to dramatic sand dunes. It is in this verdant corridor that villages such as Sohag and Assyut flourished and communities got busy making textiles since ancient times. This collection is inspired by the landscape along the Nile and partly crafted by women from these villages that continue to uphold these textile traditions. The other is <strong>Egyptomania.  <\/strong>The romance of the west with Egypt has endured for millennia – since the days of Julius Caesar and Mark Anthony when they fell under the spell of Egypt’s seductive queen, then im- mortalised countless times. This romance endured throughout the ages, but the 1920s saw an explosion of all things Egyptian, after the discovery of Tutankhamon’s tomb. It was the Roaring 20s, and Egyptian symbolism and aesthetics were everywhere – from fashion and jewellery to furniture and architecture. As we return to the 20s, we introduce our Egyptomania collection, bringing you the spirit of Ancient Egypt’s mysticism and romance, and some of the liveliness of the roaring 20s too.<\/p>",
+        "text_block": "<p><strong>Can you tell us about the 2021 designs?<\/strong><\/p><p>There are two main inspirations for this Spring Summer Collections.<strong> <\/strong>The first one is called the Sacred Nile Capsule Collection. For thousands of years, the Nile has been Egypt’s lifeline. The shores along the Nile are incredibly fertile explosions of palm groves leading to dramatic sand dunes. It is in this verdant corridor that villages such as Sohag and Assyut flourished and communities got busy making textiles since ancient times. This collection is inspired by the landscape along the Nile and partly crafted by women from these villages that continue to uphold these textile traditions. The other is <strong>Egyptomania.  <\/strong>The romance of the west with Egypt has endured for millennia – since the days of Julius Caesar and Mark Anthony when they fell under the spell of Egypt’s seductive queen, then im- mortalised countless times. This romance endured throughout the ages, but the 1920s saw an explosion of all things Egyptian, after the discovery of Tutankhamon’s tomb. It was the Roaring 20s, and Egyptian symbolism and aesthetics were everywhere – from fashion and jewellery to furniture and architecture. As we return to the 20s, we introduce our Egyptomania collection, bringing you the spirit of Ancient Egypt’s mysticism and romance, and some of the liveliness of the roaring 20s too.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -176,6 +176,40 @@
         "button_label": ""
       }
     },
+    "f128ac2f-9345-4f15-b876-bf93b61b127a": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17980250882363__f128ac2f-9345-4f15-b876-bf93b61b127a-1677143470fbd02c0a-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17980250882363__f128ac2f-9345-4f15-b876-bf93b61b127a-1677143470fbd02c0a-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17980250882363__f128ac2f-9345-4f15-b876-bf93b61b127a-1677143470fbd02c0a-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17980250882363__f128ac2f-9345-4f15-b876-bf93b61b127a-1677143470fbd02c0a-0",
+        "template--17980250882363__f128ac2f-9345-4f15-b876-bf93b61b127a-1677143470fbd02c0a-1",
+        "template--17980250882363__f128ac2f-9345-4f15-b876-bf93b61b127a-1677143470fbd02c0a-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHOP",
+        "title": "THE COLLECTION",
+        "collection": "",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -187,48 +221,6 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
-      }
-    },
-    "e42eaa42-c1a4-4921-814c-d2e0e27ea4ab": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17980250882363__e42eaa42-c1a4-4921-814c-d2e0e27ea4ab-1676292164188146a7-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled-design-35.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Rose Bud Placemat Blossom<\/p><p>£86<\/p>"
-          }
-        },
-        "template--17980250882363__e42eaa42-c1a4-4921-814c-d2e0e27ea4ab-1676292164188146a7-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled-design-38-1024x900.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Ottoman Carnation Placemat Navy Blue<\/p><p>£56<\/p>"
-          }
-        },
-        "template--17980250882363__e42eaa42-c1a4-4921-814c-d2e0e27ea4ab-1676292164188146a7-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled-design-45.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Bees Placemat<\/p><p>£44<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17980250882363__e42eaa42-c1a4-4921-814c-d2e0e27ea4ab-1676292164188146a7-0",
-        "template--17980250882363__e42eaa42-c1a4-4921-814c-d2e0e27ea4ab-1676292164188146a7-1",
-        "template--17980250882363__e42eaa42-c1a4-4921-814c-d2e0e27ea4ab-1676292164188146a7-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
       }
     },
     "blog-posts": {
@@ -257,8 +249,8 @@
     "415a1c06-02d9-4d46-b2db-4894d268b065",
     "8ec3adeb-6ca7-4f6e-8b60-dd253b86a61d",
     "c3232f3f-b3ee-4a34-bcc1-71fa2d2c33ce",
+    "f128ac2f-9345-4f15-b876-bf93b61b127a",
     "main",
-    "e42eaa42-c1a4-4921-814c-d2e0e27ea4ab",
     "blog-posts"
   ]
 }
