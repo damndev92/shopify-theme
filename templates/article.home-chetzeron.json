@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/g-09-chetzeron-1024x601.jpg",
+        "image": "shopify:\/\/shop_images\/3_34002c80-b54b-4767-b659-fa61f046730f.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -56,8 +56,8 @@
     "6b815f6d-bbf6-4be6-9fc8-145b2229f9ea": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_1bcecb1d-807c-4ad0-8db5-f83c35bc1f74.png",
-        "parallax": false,
+        "image": "shopify:\/\/shop_images\/1_1f787d48-2450-4118-9c6f-e8850756cd5b.png",
+        "parallax": true,
         "alignment": "top",
         "hero_size": "small",
         "text-over-image-width": "fixed"
