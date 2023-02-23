@@ -109,17 +109,29 @@
         "template--17824629096763__8b0fe2c7-cfe8-4c3d-aec3-d732c1fe783e-1676391521c92cff8d-0": {
           "type": "product",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CHETZERON.jpg",
+            "image": "shopify:\/\/shop_images\/1_c595b3f4-79f1-4a79-8f0f-c5efdc154cdf.png",
             "image__position": "image--left",
             "product": "ango-cascadence-table-light",
             "product-2": "marmot",
             "product-3": "bucherrong",
             "product-4": "bokehheing-iii"
           }
+        },
+        "b609d808-c7eb-4183-aa78-89888989569e": {
+          "type": "product",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_416575d9-c0cb-429b-bd91-10d6496a4dfb.png",
+            "image__position": "image--left",
+            "product": "folha",
+            "product-2": "breno",
+            "product-3": "tablemat-coaster-set",
+            "product-4": "lheze-stool"
+          }
         }
       },
       "block_order": [
-        "template--17824629096763__8b0fe2c7-cfe8-4c3d-aec3-d732c1fe783e-1676391521c92cff8d-0"
+        "template--17824629096763__8b0fe2c7-cfe8-4c3d-aec3-d732c1fe783e-1676391521c92cff8d-0",
+        "b609d808-c7eb-4183-aa78-89888989569e"
       ],
       "settings": {
         "colors": "white",
