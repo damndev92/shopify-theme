@@ -142,6 +142,23 @@
         "button_label": ""
       }
     },
+    "c3008f90-3614-49d0-b6ea-0d82e645391a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Handblown-Murrine-Italian-Glasses-green.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Green Handblown Murrine Italian Glass",
+        "text_block": "<p>£30<\/p><p>Handblown Murrine Italian Glasses. Pieces are all handmade and colours and shape may vary slightly.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -179,6 +196,7 @@
     "81aa5bad-9f2b-4f3b-a978-42079f3ad30d",
     "8ae9b6ad-fba5-49d7-931b-d388e943449a",
     "e7e94f93-e660-482f-909b-60c7c3c45a7b",
+    "c3008f90-3614-49d0-b6ea-0d82e645391a",
     "main",
     "blog-posts"
   ]
