@@ -111,7 +111,7 @@
             "product": "beefbar-main-plate-knife-emoji",
             "top": 63,
             "left": 51,
-            "disable_spot": false
+            "disable_spot": true
           }
         },
         "33f45241-76a7-44e8-98cf-425c6bb0bdc8": {
@@ -120,7 +120,7 @@
             "product": "design-clock-solari-cifra-3-black",
             "top": 0,
             "left": 0,
-            "disable_spot": false
+            "disable_spot": true
           }
         },
         "acc4f147-815a-42fe-a4b7-0c5e251efe89": {
@@ -129,7 +129,7 @@
             "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
             "top": 33,
             "left": 0,
-            "disable_spot": false
+            "disable_spot": true
           }
         }
       },
@@ -241,10 +241,10 @@
         "image-width": "medium",
         "image": "shopify:\/\/shop_images\/Interior_Designers-Hotels_16b1405d-11b4-4782-bf95-fc7e019e3dc5.png",
         "layout": "left",
-        "subheading": "Meet the host",
+        "subheading": "Meet the host - Anke Bodack",
         "location": false,
-        "title": "Anke Bodack, Owner",
-        "text_block": "<p><strong>\"I started searching for a property to buy that I could turn into a hotel, but I could never find one. Still, I knew it was my dream. I meditate every day and this image of me as a hotelier began to crystalize in my mind, a voice saying, “This is what I must do!\"<\/strong><\/p>",
+        "title": "\"I meditated every day and this image of me as a hotelier began to crystalize in my mind, a voice saying: this is what I must do!\"",
+        "text_block": "",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
