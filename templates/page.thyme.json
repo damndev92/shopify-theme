@@ -235,14 +235,14 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
           "type": "tab_content",
           "settings": {
-            "question": "WHERE TO EAT?",
-            "text": "<p>Charlie (a member of Thyme's founding family) is our Head Chef, leading the food and produce. His time is spent in the kitchens of our Ox Barn restaurant, the cookery school and in the gardens – Charlie works meticulously with the garden team to select and grow the fruits, vegetables, and herbs used to create his menus.<\/p>"
+            "question": "WHERE's best TO EAT?",
+            "text": "<p>Here! Charlie (a member of Thyme's founding family) is our Head Chef, leading the food and produce. His time is spent in the kitchens of our Ox Barn restaurant, the cookery school and in the gardens – Charlie works meticulously with the garden team to select and grow the fruits, vegetables, and herbs used to create his menus.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
           "type": "tab_content",
           "settings": {
-            "question": "YOUR FAVOURITE OBJECT IN THE HOTEL?",
+            "question": "what's YOUR FAVOURITE OBJECT IN THE HOTEL?",
             "text": "<p>Most wonderful of all, atop of the archway of the Ox Barn is a stone ox head. Above the keystone just behind this ox head, hides a bottle of whiskey built into the wall, placed there by the original stone mason that constructed the archway in 1843, intended to be enjoyed by the stone mason who one day will take the arch down, hopefully in many years to come.<\/p>"
           }
         },
