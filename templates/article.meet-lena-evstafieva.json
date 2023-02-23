@@ -46,7 +46,7 @@
         "colors": "white",
         "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/Screen-Shot-2020-11-05-at-14.21.00-871x1024.png",
-        "layout": "right",
+        "layout": "left",
         "subheading": "",
         "location": false,
         "title": "",
