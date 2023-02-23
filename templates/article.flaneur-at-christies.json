@@ -23,36 +23,6 @@
         "button_label": ""
       }
     },
-    "60bed94f-19d1-471f-9213-301734a4bab2": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/James_Tamara_Lohan_Smith_Hotels-19-684x1024.jpg",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "",
-        "text_block": "<p>‘Our members are forever telling us how much they love (read: want to smuggle home with them) the luxury furnishings at their favourite Smith hotels. So when we discovered that <a href=\"https:\/\/link.mrandmrssmith.com\/click\/5d5530ec2e9bba063d1c3cdf\/aHR0cDovL3d3dy5tcmFuZG1yc3NtaXRoLmNvbS9tZW1iZXJzL3Nob3BwaW5nLW9mZmVycz9jYXRlZ29yeT1pbnRlcmlvcnMtYW5kLWhvbWUmb2ZmZXI9bWFpc29uLWZsYW5ldXImYWZmSUQ9bWNvbW0mc21pdGhfcmVmZXJlbmNlPTZlN2Q5M2RjYjU3MzYzNjM5YWNiNTFiOGNmOTk4NGQy\/52e7d7bf0f365bf27223db30Ccd826c5a\">Maison Flâneur<\/a> offered the chance for travellers to <em>own<\/em> (legally) the items they’d spotted on their latest Smith trip – that espresso cup from Mayfair’s<a href=\"https:\/\/link.mrandmrssmith.com\/click\/5d5530ec2e9bba063d1c3cdf\/aHR0cHM6Ly93d3cubXJhbmRtcnNzbWl0aC5jb20vbHV4dXJ5LWhvdGVscy9zdC1qYW1lc3MtaG90ZWwtYW5kLWNsdWItbWF5ZmFpcj9hZmZJRD1tY29tbSZzbWl0aF9yZWZlcmVuY2U9NmU3ZDkzZGNiNTczNjM2MzlhY2I1MWI4Y2Y5OTg0ZDI\/52e7d7bf0f365bf27223db30B0631e5bc\"> St James’s Hotel<\/a>; that flip-clock from New York’s<a href=\"https:\/\/link.mrandmrssmith.com\/click\/5d5530ec2e9bba063d1c3cdf\/aHR0cHM6Ly93d3cubXJhbmRtcnNzbWl0aC5jb20vbHV4dXJ5LWhvdGVscy9ob3RlbC1hbWVyaWNhbm8_YWZmSUQ9bWNvbW0mc21pdGhfcmVmZXJlbmNlPTZlN2Q5M2RjYjU3MzYzNjM5YWNiNTFiOGNmOTk4NGQy\/52e7d7bf0f365bf27223db30Bf6565796\"> Hôtel Americano<\/a> – we were delighted. And we’re pleased to be able to offer our members up to 25 per cent off, thanks to this exciting partnership.’<\/p><p>No need for heartbreak at check out:  ‘Luggage restrictions or untraceable beauties? No matter how interesting or inspirational a trip, it tends to end in heartbreak when waving goodbye to the beautiful objects you couldn’t bring home.’ Explains co-founder Marie Winckler: ‘Maison Flaneur allows you to buy unique homeware and furniture curated by your favourite hotels and restaurants around the world. A treasure trove of beautiful objects, locally sourced, hand-crafted delights delivered to your door so you can recreate your stay back home.’<\/p><p>‘We are very excited to partner with an iconic brand such as Mr. and Mrs. Smith – James and Tamara share our vision that travel is all about the experience.’ Says Dionas Sotiriou founder of Maison Flaneur. ‘By partnering with Maison Flaneur, we hope that Smith members will enjoy discovering their favourite hotels in a new light. We want to allow them to bring some of the magic of these selected locations home.’<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "28757f82-f028-4746-a5d0-c0fb57dddbe7": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "",
-        "title": "",
-        "text": "<p><strong>Mr & Mrs Smith<\/strong><\/p><p>Mr & Mrs Smith began life in 2003 with two adventurous hotel lovers (co-founders James and Tamara Lohan) and has evolved into a global travel club with +1.5m like-minded members in more than 100 countries. Today, Mr & Mrs Smith’s carefully curated collection features more than 1,300 luxury and boutique hotels and villas around the world, all of them personally visited by a team of globetrotting travel specialists and reviewed (anonymously) by people you can trust – the likes of Cate Blanchett, Tom Aikens and Stella McCartney are budding WordSmiths.<\/p><p><strong>Maison Flaneur<\/strong><\/p><p>Our digital concept store enables shoppers to view the interiors of hotels and restaurants around the world, offering you the chance to take home signature design pieces. You can shop by product type, from furniture to cutlery or by location, from Morocco to New-York. An ever-evolving collection of unique homeware and furniture; Pieces of your ‘holiday’ experiences, delivered straight to your door.<\/p>",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -64,28 +34,6 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
-      }
-    },
-    "85c6be28-7137-4885-9b41-bc53ce20eb67": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--18099436355899__85c6be28-7137-4885-9b41-bc53ce20eb67-167716597515e1e20f-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/James_Tamara_Lohan_Smith_Hotels-8-1024x684.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>The Coveteur<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18099436355899__85c6be28-7137-4885-9b41-bc53ce20eb67-167716597515e1e20f-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
       }
     },
     "blog-posts": {
@@ -105,10 +53,7 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "60bed94f-19d1-471f-9213-301734a4bab2",
-    "28757f82-f028-4746-a5d0-c0fb57dddbe7",
     "main",
-    "85c6be28-7137-4885-9b41-bc53ce20eb67",
     "blog-posts"
   ]
 }
