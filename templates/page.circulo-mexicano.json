@@ -378,6 +378,20 @@
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
+      "blocks": {
+        "7b0f31f5-f528-403b-a8f1-b0af151eb2fd": {
+          "type": "article",
+          "settings": {
+            "blog_post_1": "flaneur-magazine\/10-facts-about-circulo-mexicano-mexico-city",
+            "blog_post_2": "flaneur-magazine\/destinations-mexico-city-by-carlos-couturier-from-ca-rculo-mexicano",
+            "blog_post_3": "flaneur-magazine\/meet-carlos-couturier-co-founder-of-grupo-habita",
+            "blog_post_4": ""
+          }
+        }
+      },
+      "block_order": [
+        "7b0f31f5-f528-403b-a8f1-b0af151eb2fd"
+      ],
       "settings": {
         "colors": "white",
         "subheading": "Read From",
