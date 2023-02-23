@@ -124,6 +124,23 @@
         "text-over-image-width": "full-width"
       }
     },
+    "c7ec1323-ac20-419a-a4fa-175141e5f0ea": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Grace-3-Pendant.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Grace 3 Pendant Lamp",
+        "text_block": "<p>£939<\/p><p>The shade is spun into shape from a piece of steel, and the diffuser is made of glass. All brass and steel parts are solid, brushed and lacquered. This lamp is crafted in Sweden – manufactured by hand, designed and developed with the greatest attention to precision in detail and material. From the same collection: <a href=\"http:\/\/3.9.65.88\/product\/grace-pendant-lamp\/\">Grace Pendant Lamp<\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -148,6 +165,7 @@
     "d08268f8-d91f-4e8b-8f96-e5c0323c8186",
     "62da53fb-0b68-4273-9268-5b60bc3a9a22",
     "cfbed071-e84b-4b4a-9b0a-0a672885193c",
+    "c7ec1323-ac20-419a-a4fa-175141e5f0ea",
     "blog-posts"
   ]
 }
