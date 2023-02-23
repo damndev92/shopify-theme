@@ -104,6 +104,23 @@
         "button_label": ""
       }
     },
+    "8adf4a29-d0ea-423f-9599-72a49aa6b6ab": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/bar-americain-at-brasserie-zedel-1_cd5a58cc-b146-41e6-bf3c-f767414d46cf.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>5. The Art Déco<\/strong><\/p><p>Brasserie Zédel was once part of the Regent Palace Hotel, built in the early 20th Century, which fell on hard times after World War II and was repurposed, and luckily maintained its 1930s art deco décor. <a href=\"https:\/\/www.brasseriezedel.com\/bar-americain\">The Bar Americain<\/a> serves traditional mixed drinks in the glamorous,and authentic surroundings.<\/p><p><em>Brasserie Zedel, 20 Sherwood St, Soho, W1F 7ED<\/em><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -139,6 +156,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "2f71aeee-555e-4284-ba1e-0c7f875da008",
     "b244dcbe-cde0-495e-be7d-6659e4fb4cdf",
+    "8adf4a29-d0ea-423f-9599-72a49aa6b6ab",
     "main",
     "blog-posts"
   ]
