@@ -97,6 +97,23 @@
         "button_label": ""
       }
     },
+    "62da53fb-0b68-4273-9268-5b60bc3a9a22": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Louis-Poulsen-PH-5-Poul-Henningsen-dym08-1024x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>The ‘middle’ shadow which occurs when the light comes from the wrong direction and casts on the hand holding the pen and which should not be allowed to exist and finally <\/p><p>The ‘big’ shadow that creates the setting in which you can diffuse the contours to make it as glamorous as you want.<\/p><p>The first ‘official’ models were exhibited at the historical exhibition in Paris in 1925 at the Danish pavilion but also in the Danish section of the Grand Palais. The PH system was born and embarked on a ten-year adventure to be perfected with sliding mechanisms and different surface choices to make a range of subtle nuances and scattering angles of the light rays. It was developed for hanging lamps, wall lamps, desk lamps, and even street lighting. <\/p><p>Today we take for granted the glamorous lights that allow us to make an entrance, or to feel at home even if it is the first time you step in the room. Now, every time you feel grateful for not having to stare at a bare lightbulb, have a little thought for Poul.<\/p><p>We hope you learned a lot today and are looking forward to our next dive into the best of design.<\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -119,6 +136,7 @@
     "main",
     "e3b6ed7a-7634-44fd-8f87-ae903ae0de49",
     "d08268f8-d91f-4e8b-8f96-e5c0323c8186",
+    "62da53fb-0b68-4273-9268-5b60bc3a9a22",
     "blog-posts"
   ]
 }
