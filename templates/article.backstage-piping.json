@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "3519401c-6ebf-4962-a2c1-9ce0a052d2a5": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2020-12-18-at-14.32.01-784x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Well, Ruhlmann was an observant man and he saw that society and technology were moving toward more comfort. This comfort came through the apparition of central heating systems (again the pipes…). Wood being a living material, changes in temperature and dryness are its enemies as they cause it to warp. Ruhlmann was assisted in his experimentations by his friend Raymond Subes (1891-1970) who was the artistic director of the <em>Borderel et Robert<\/em>, a company specialized in ironwork. <\/p><p>In 1925, he designed a prototype for a chair with an enameled metal frame which was so innovative that it already anticipated the imperatives of mass production (easy to manufacture and with the smallest possible amount of material). This early model offers a strong resemblance with what we consider today to be one of the common stacking chairs. However, Ruhlmann’s prototype was never produced. (We will never know for certain why, but the growing rumors of an extraordinary modernist project distracted him. Indeed in those years, the Maharadja d’Indore was making frequent visits to Paris, with his suite of advisors, to scout the french design horizons and decide who were to be the artists of the Manigh Bagh Palace. But that’s just maybe.)<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "0d210fd6-91f7-43d0-a517-1c75da9c64e2",
+    "3519401c-6ebf-4962-a2c1-9ce0a052d2a5",
     "main",
     "blog-posts"
   ]
