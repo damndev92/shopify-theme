@@ -438,13 +438,27 @@
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
+      "blocks": {
+        "a581024d-490a-4532-bfeb-99cdfd39da23": {
+          "type": "article",
+          "settings": {
+            "blog_post_1": "flaneur-magazine\/meet-yannis-bellonias-hotelier-vora-santorini",
+            "blog_post_2": "flaneur-magazine\/make-yourself-at-home-review-of-vora-santorini",
+            "blog_post_3": "",
+            "blog_post_4": ""
+          }
+        }
+      },
+      "block_order": [
+        "a581024d-490a-4532-bfeb-99cdfd39da23"
+      ],
       "settings": {
         "colors": "white",
         "subheading": "Read From",
         "title": "Flâneur Magazine",
-        "post_limit": 3,
+        "post_limit": 2,
         "show_author_name": false,
-        "show_dates": true,
+        "show_dates": false,
         "show_blog_images": true,
         "imageSize": "portrait"
       }
