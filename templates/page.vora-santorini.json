@@ -426,6 +426,17 @@
         "show_blog_images": true,
         "imageSize": "portrait"
       }
+    },
+    "00fbae5a-6208-4ebd-ae7e-7868ca94ccc5": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Check availability",
+        "url": "https:\/\/www.designhotels.com\/hotels\/greece\/santorini\/vora\/?&Rooms=1&Adult=2&Child=0",
+        "link": "",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
+      }
     }
   },
   "order": [
@@ -441,6 +452,7 @@
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
-    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
+    "00fbae5a-6208-4ebd-ae7e-7868ca94ccc5"
   ]
 }
