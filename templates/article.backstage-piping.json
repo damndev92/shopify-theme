@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "03807ec0-897f-497f-a6d8-c925d20c8a8b": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Lequipe_de_latelier_de_dessin_de_Ruhlmann_27_rue_de_Lisbonne_a_Paris_vers_1931.-1024x718.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>The following year, Ruhlmann presented at the<em>Salon des Artistes Décorateurs<\/em>a desk where each wood panel was framed by shiny silver chromed mounts. Unfortunately, Ruhlmann never lived to see what I saw at the Tefaf…. the<em>Borderel<\/em>desk and Armchair that were produced in 1933, the year of his passing. With these inventions, Ruhlmann was for the first time using metal as a ‘noble’ material. His creations were limited to private commissions but they certainly played a role in the uncompromising modernity that was about to take over. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "0d210fd6-91f7-43d0-a517-1c75da9c64e2",
     "3519401c-6ebf-4962-a2c1-9ce0a052d2a5",
+    "03807ec0-897f-497f-a6d8-c925d20c8a8b",
     "main",
     "blog-posts"
   ]
