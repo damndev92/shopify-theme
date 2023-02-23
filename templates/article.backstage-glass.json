@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "81aa5bad-9f2b-4f3b-a978-42079f3ad30d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/ATLAS-OF-PLACES-BIJVOET-CHAREAU-MAISON-DE-VERRE-IMG-35-1024x817.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>But glass is not only for the delicate souls it can also be the support of one of the most disquieting architectural projects – The Maison de Verre. It was commissioned in 1928 to Pierre Chareau by two clients, Jean Dalsace and his wife Annie. The project might have been different if the owner of the second and last floor apartment had not categorically refused to sell, preventing any changes to that part of the building. Because of this unexpected event Chareau suggested a daring surgical operation to demolish the lower part of the house and replace it with a more contemporary structure including a facade made entirely of glass bricks. A project that remains one of the most daring in the story of architecture.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "80a8cb0a-810e-4f97-8c59-2cf84c691a65",
     "57d3deb7-f1d6-414b-9838-00df2282879d",
+    "81aa5bad-9f2b-4f3b-a978-42079f3ad30d",
     "main",
     "blog-posts"
   ]
