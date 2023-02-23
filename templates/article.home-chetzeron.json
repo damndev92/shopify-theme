@@ -62,22 +62,17 @@
         "text-over-image-width": "fixed"
       }
     },
+    "1c7d63be-aef9-41af-95c2-ffee42adf1c2": {
+      "type": "image--image",
+      "settings": {
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "x-large",
+        "text-over-image-width": "fixed"
+      }
+    },
     "626a439a-fc95-4c91-a74c-e344e3072f09": {
       "type": "image--gallery",
-      "blocks": {
-        "090c2e2f-e157-425a-b7ec-6b43859f50b3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Reema-WIP-1-e1660048849793-1024x624.jpg",
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "090c2e2f-e157-425a-b7ec-6b43859f50b3"
-      ],
       "settings": {
         "colors": "white",
         "subheading": "",
@@ -151,6 +146,7 @@
     "f22f8818-4b2d-463b-a20e-8bb52fc570c5",
     "e7d2425a-53d5-4163-bc76-529e5c087a1f",
     "6b815f6d-bbf6-4be6-9fc8-145b2229f9ea",
+    "1c7d63be-aef9-41af-95c2-ffee42adf1c2",
     "626a439a-fc95-4c91-a74c-e344e3072f09",
     "main",
     "blog-posts",
