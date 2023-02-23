@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "52ae438a-0035-4886-b7f8-1e0d807328d1": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/07-MEURICE_23-03-16photo-de-pmonetta-8153.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>At the moment, you might find me across the Jardin des Tuileries, behind the heavy mahogany doors of the <strong>Meurice<\/strong>. Although Russian writers such as Tolstoy or Turgheniev gave it a bad review earlier in the 20th century I would still conduct my affairs in the Art Nouveau glass dome with delicate fish-scale panels adorning the hotel’s gilded Winter Garden tea salon. Work would be followed by lunch or diner in the Rococo jewel box that is the main Restaurant. ‘A mental space where everything is poetry, allusion, reference, reflection and diffraction. Where the air is vibrating like a mysterious little music, captivating and friendly. As a spirit, the Meurice is unique’ said the brilliant Phillip Stack upon completing the restoration of my current home. <\/p><p>I could go on and lead many more lives in many more rooms but these are the places that my mind chooses for now. <\/p><p>Hotels create a world of their own, a sort of transitional hall between your home and the outside world. Under the spell of their wonders, you find yourself thinking ‘I would really like to have the same sheets, steal these glasses, sit on the same chair, etc.’ <\/p><p>Next time you find yourself dreaming about your last stay, think about Maison Flâneur who brings to you all the wonderful Hotel designs.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "08eaf480-623e-42be-b9e4-25932dfcd2d3",
+    "52ae438a-0035-4886-b7f8-1e0d807328d1",
     "main",
     "blog-posts"
   ]
