@@ -71,6 +71,22 @@
         "text-over-image-width": "fixed"
       }
     },
+    "707e2f5b-5ebb-47b2-b1c7-bf6680e92190": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "medium",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Share brand or product details",
+        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "626a439a-fc95-4c91-a74c-e344e3072f09": {
       "type": "image--gallery",
       "settings": {
@@ -147,6 +163,7 @@
     "e7d2425a-53d5-4163-bc76-529e5c087a1f",
     "6b815f6d-bbf6-4be6-9fc8-145b2229f9ea",
     "1c7d63be-aef9-41af-95c2-ffee42adf1c2",
+    "707e2f5b-5ebb-47b2-b1c7-bf6680e92190",
     "626a439a-fc95-4c91-a74c-e344e3072f09",
     "main",
     "blog-posts",
