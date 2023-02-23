@@ -365,13 +365,27 @@
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
+      "blocks": {
+        "15556867-005b-4ea4-93b3-e322b26bb5a7": {
+          "type": "article",
+          "settings": {
+            "blog_post_1": "flaneur-magazine\/meet-yoshitaka-nojiri-the-master-of-ceremonies-trunk-hotel-tokyo",
+            "blog_post_2": "flaneur-magazine\/make-yourself-at-home-trunk-hotel-tokyo",
+            "blog_post_3": "",
+            "blog_post_4": ""
+          }
+        }
+      },
+      "block_order": [
+        "15556867-005b-4ea4-93b3-e322b26bb5a7"
+      ],
       "settings": {
         "colors": "white",
         "subheading": "Read From",
         "title": "Flâneur Magazine",
-        "post_limit": 3,
+        "post_limit": 2,
         "show_author_name": false,
-        "show_dates": true,
+        "show_dates": false,
         "show_blog_images": true,
         "imageSize": "portrait"
       }
