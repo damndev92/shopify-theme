@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/JEANCAZALS.jpg",
+        "image": "shopify:\/\/shop_images\/da615d9f-8117-2df2-14ac-bdf5c58759dc.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -15,8 +15,8 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
-        "page_title": "Meet Jo Plismy, Gong Design, London",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet Jo Plismy, Designer of Gong Design, London",
         "title": "",
         "text": "<p>When you need to create the right atmosphere, the light plays a crucial role. Jo Plismy tells us all her secrets on how to illuminate a place. You will discover that Gong is not just about light but also timeless design, combined high-quality materials, and expert craftsmanship.<\/p>",
         "button_link": "",
@@ -101,45 +101,45 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>In the history of design, which lights have inspired you?<\/strong><\/p><p>To name but a few, the Akari series by Isamu Nogushi, the Murano chandeliers by Carlo Nasson, the Uchiwa serie by Ingo Maurer, the Fuga sconces of Maija Liisa Komulainen, the Carciofo by Gianni Celada.<\/p><p><\/p><p><strong>Your favourite hotel, restaurant , and decoration addresses in the world?<\/strong><\/p><p><\/p><p>In no particular order I would say Velona’s Jungle hotel in Firenze, a modish and elegant guest house hidden in the heart of the city, Galerie Pierre Mahaux in Brussels, an antique dealer with an amazing taste, Eat Tokyo in Nothing Hill Gate, a very local and unpretentious restaurant where I often take my kids who love Japanese food as much as I do.<\/p><p> <\/p><p> <strong>Photo Credit: Jean Cazals<\/strong><\/p>",
+        "text_block": "<p><strong>In the history of design, which lights have inspired you?<\/strong><\/p><p>To name but a few, the Akari series by Isamu Nogushi, the Murano chandeliers by Carlo Nasson, the Uchiwa serie by Ingo Maurer, the Fuga sconces of Maija Liisa Komulainen, the Carciofo by Gianni Celada.<\/p><p><\/p><p><strong>Your favourite hotel, restaurant , and decoration addresses in the world?<\/strong><\/p><p><\/p><p>In no particular order I would say Velona’s Jungle hotel in Firenze, a modish and elegant guest house hidden in the heart of the city, Galerie Pierre Mahaux in Brussels, an antique dealer with an amazing taste, Eat Tokyo in Nothing Hill Gate, a very local and unpretentious restaurant where I often take my kids who love Japanese food as much as I do.<\/p><p><\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
         "button_label": ""
       }
     },
-    "57444e25-8872-420e-8659-5d2416e819f6": {
-      "type": "text--image-with-text",
+    "0aa44edf-4d3c-4363-97d5-b3637e6c0207": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17990827802939__0aa44edf-4d3c-4363-97d5-b3637e6c0207-1677143470fbd02c0a-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17990827802939__0aa44edf-4d3c-4363-97d5-b3637e6c0207-1677143470fbd02c0a-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17990827802939__0aa44edf-4d3c-4363-97d5-b3637e6c0207-1677143470fbd02c0a-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17990827802939__0aa44edf-4d3c-4363-97d5-b3637e6c0207-1677143470fbd02c0a-0",
+        "template--17990827802939__0aa44edf-4d3c-4363-97d5-b3637e6c0207-1677143470fbd02c0a-1",
+        "template--17990827802939__0aa44edf-4d3c-4363-97d5-b3637e6c0207-1677143470fbd02c0a-2"
+      ],
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/GC-019-PEGGY-WALL-ADJUSTABLE-BLACK-1.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "Peggy Black Adjustable Wall Lamp",
-        "text_block": "<p>From£280<\/p><p>The Peggy Wall Adjustable Lamp is made of antique brass with a matt finish conic shade. This lamp also has a moving arm so you can rotate the shade according to your preference. A stylish addition to your home, adding fantastic light to any room. Designed by Guillaume Evrard for GONG.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "81c71ddd-150a-42e1-9e2e-951d2c35ca08": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/GC-020-PEGGY-TWIN-WALL-LAMP-SMALL-BEIGE-1024x1024.jpg",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "Beige Peggy Twin Wall Lamp",
-        "text_block": "<p>From£425<\/p><p>The Peggy Twin Wall Lamp is a cool, '50's style design consisting of an antique brass base and a luxurious enamel shade, allowing a warm golden hue and a marvelous light into your living area. Designed by Guillaume Evrard for GONG.<strong> <\/strong><\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
+        "subheading": "SHOP",
+        "title": "GONG'S COLLECTION",
+        "collection": "gong",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -177,8 +177,7 @@
     "5a835f13-6f9e-4b2c-a762-f014994ac622",
     "b968f94a-9558-42a8-8a5c-e5ea0b59580c",
     "a40a2d4a-ac9e-4c10-bf24-765f6d532f7c",
-    "57444e25-8872-420e-8659-5d2416e819f6",
-    "81c71ddd-150a-42e1-9e2e-951d2c35ca08",
+    "0aa44edf-4d3c-4363-97d5-b3637e6c0207",
     "main",
     "blog-posts"
   ]
