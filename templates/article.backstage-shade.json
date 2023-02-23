@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/poul-henningsen-designer-photo.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "Let there be shade",
+        "text_block": "<p>Since God said ‘Let there be light’, ingenious minds took the matter into their own hands and today the transition between night and day is at the flick of a switch. To put things mildly, artificial light has done nothing less than enlighten our path towards civilization. This switch, however, has become incredibly complex and is now managed by architects, electrical lighting technicians, designers, electricians, decorators, influencers, etc. For their great mission, they all commonly use a standard fitting system called PH that allows a calibrated diffusion of the rays of light.<\/p><p>Very little attention has been paid to one of the great masters of this switch; Poul Henningsen or PH. Rarely mentioned by name, PH is the founder of the geometry of diffused light. His most well-known creation is the ‘artichoke’ lamp which has become a showpiece for Danish design.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
