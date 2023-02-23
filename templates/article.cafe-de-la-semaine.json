@@ -37,7 +37,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/MichlG-731x1024.jpg",
         "layout": "right",
         "subheading": "",

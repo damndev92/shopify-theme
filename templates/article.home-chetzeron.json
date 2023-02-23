@@ -90,14 +90,6 @@
         "button_label": ""
       }
     },
-    "626a439a-fc95-4c91-a74c-e344e3072f09": {
-      "type": "image--gallery",
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -157,6 +149,19 @@
         "rows": 1,
         "show_view_all": false
       }
+    },
+    "c3e7676b-3ab4-4f67-8043-37de4a648ba8": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Latest from Flâneur Magazine",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
     }
   },
   "order": [
@@ -167,9 +172,9 @@
     "6b815f6d-bbf6-4be6-9fc8-145b2229f9ea",
     "1c7d63be-aef9-41af-95c2-ffee42adf1c2",
     "707e2f5b-5ebb-47b2-b1c7-bf6680e92190",
-    "626a439a-fc95-4c91-a74c-e344e3072f09",
     "main",
     "blog-posts",
-    "95a91ca3-8990-4b9d-a0ea-c27ca060877b"
+    "95a91ca3-8990-4b9d-a0ea-c27ca060877b",
+    "c3e7676b-3ab4-4f67-8043-37de4a648ba8"
   ]
 }
