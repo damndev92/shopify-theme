@@ -265,8 +265,8 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/13-mbo-inhabit-nadira-lalji.jpg",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/inhabit_6c9edbcc-a1cd-40d1-aeb5-55bc9d4dca3f.png",
         "layout": "left",
         "subheading": "Meet the host - Nadira Lalji",
         "location": false,
