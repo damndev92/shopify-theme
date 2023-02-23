@@ -120,11 +120,12 @@
         "8ccd6e30-b13b-44aa-a6f9-6fbef22d5680": {
           "type": "product",
           "settings": {
+            "image": "shopify:\/\/shop_images\/2_7a4b598f-e4c7-4a9c-89b6-c8e7e890b71d.png",
             "image__position": "image--left",
-            "product": "",
-            "product-2": "",
-            "product-3": "",
-            "product-4": ""
+            "product": "red-enamel-lips-keyring-jean-andre-x-le-pigalle",
+            "product-2": "the-popotin-glass-blue-set-of-2",
+            "product-3": "wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
+            "product-4": "nomad-floor-lamp"
           }
         }
       },
