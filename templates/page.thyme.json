@@ -126,11 +126,23 @@
             "product-3": "dahlia-linen-napkin",
             "product-4": "almond-blossom-linen-napkin"
           }
+        },
+        "3dcbd5b8-88b8-43c5-98af-f924e6157168": {
+          "type": "product",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wild_Rose.png",
+            "image__position": "image--left",
+            "product": "bertioli-by-thyme-wild-rose-printed-placemat",
+            "product-2": "bertioli-by-thyme-wild-rose-linen-table-cloth",
+            "product-3": "roses-linen-napkin",
+            "product-4": "roses-linen-placemat"
+          }
         }
       },
       "block_order": [
         "template--17824613433659__b3efa4cb-a408-442f-a3e0-b6d52e8bf4a3-1676391521c92cff8d-0",
-        "1febb4f6-ce73-4eb3-8da0-da8d8b1db082"
+        "1febb4f6-ce73-4eb3-8da0-da8d8b1db082",
+        "3dcbd5b8-88b8-43c5-98af-f924e6157168"
       ],
       "settings": {
         "colors": "white",
