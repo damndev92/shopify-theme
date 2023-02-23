@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "0d210fd6-91f7-43d0-a517-1c75da9c64e2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2020-11-03-at-11.52.29-AM.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>In the 1920s, France was leading the arts worldwide, excelling in the decorative realm with internationally recognized names such as Jacques-Emile Ruhlmann, Eugène Printz and Jean-Michel Frank. At that point the great pride of France was the art of <em>ébénisterie<\/em> (a word that separates the cabinet maker from the simple woodworker). The unrefined metal was not considered sophisticated enough to be seen bare in the honorable society. Of course elements made out of delicately casted bronze had found their way in the decorative art court but always dressed in a civilized gold or silver coat. And yet, the leading name of the art déco, Jacques-Emile Ruhlmann, ventured into the domain of metal.<\/p><p>You may wonder – as I did – why would the designer take such a daring and forward-thinking decision?<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "0d210fd6-91f7-43d0-a517-1c75da9c64e2",
     "main",
     "blog-posts"
   ]
