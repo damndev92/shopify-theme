@@ -15,7 +15,7 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "Travel Guide",
         "page_title": "Where To Stay In Puglia, Italy",
         "title": "",
         "text": "<p>Discover <a href=\"https:\/\/www.maisonflaneur.com\/brand\/tre-gioie\/products\/\">Tre Gioie<\/a>, one of our favourite local Italian brands, who have curated a list of beautiful hotels that you should visit whatever the season. Whether you’re looking for a romantic getaway or just travelling Europe, Puglia is often forgotten about when exploring. But let us tell you, if you are looking for a beautiful Italian holiday with authentic food and welcoming locals, this region of Italy is a must-visit.<\/p>",
@@ -172,48 +172,6 @@
         "show_recent_posts": false
       }
     },
-    "26a94ef7-72b3-4a61-bae6-c2b34a45e435": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--18015688720699__26a94ef7-72b3-4a61-bae6-c2b34a45e435-167654090408693e15-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Napkin_mughetto_bianco-1024x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Mughetto Bianco Napkins<\/p><p>£12<\/p>"
-          }
-        },
-        "template--18015688720699__26a94ef7-72b3-4a61-bae6-c2b34a45e435-167654090408693e15-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/tablecloth_mughetto_grigio-1024x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Mughetto Grigio Tablecloth<\/p><p>From £134<\/p>"
-          }
-        },
-        "template--18015688720699__26a94ef7-72b3-4a61-bae6-c2b34a45e435-167654090408693e15-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Placemat_fiori_marrone_full-1024x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Fiori Marrone Placemat<\/p><p>£11<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18015688720699__26a94ef7-72b3-4a61-bae6-c2b34a45e435-167654090408693e15-0",
-        "template--18015688720699__26a94ef7-72b3-4a61-bae6-c2b34a45e435-167654090408693e15-1",
-        "template--18015688720699__26a94ef7-72b3-4a61-bae6-c2b34a45e435-167654090408693e15-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "Shop local from Puglia"
-      }
-    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -240,7 +198,6 @@
     "012b6b51-0962-4369-a150-7a9cd9547986",
     "6b0e4bb5-8ba7-4704-b4e5-c4cd436fc6da",
     "main",
-    "26a94ef7-72b3-4a61-bae6-c2b34a45e435",
     "blog-posts"
   ]
 }
