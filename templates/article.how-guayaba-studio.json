@@ -44,7 +44,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/Screenshot-2022-09-27-at-12.44.31.png",
         "layout": "right",
         "subheading": "",
