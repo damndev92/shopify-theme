@@ -46,6 +46,19 @@
         "text-over-image-width": "full-width"
       }
     },
+    "2644cbc6-499a-4cfc-825a-ff82cfd55bd7": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><a href=\"https:\/\/www.christies.com\/exhibitions\/christies-lates-london?cid=EM_EML54101006085023-Hero-CTA_2&cid=DM264034&bid=161548636#eventinfo_Nav\">Click on the link here for more informations. <\/a><\/p><p><strong>About Christie’s Late<\/strong><\/p><p>Combining art, music and specialist talks, <em>Christie’s Lates <\/em>in London and New York are the perfect opportunity to mix with like-minded art lovers after hours. With free entry, each curated evening in this new series of events aims to bring art to life and inspire conversation, showcasing highlights from our upcoming auctions alongside interactive activities, talks by guest experts and enticing food and drink.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -65,6 +78,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "main",
     "585e4e81-23b4-4382-9abf-0c176606509c",
+    "2644cbc6-499a-4cfc-825a-ff82cfd55bd7",
     "blog-posts"
   ]
 }
