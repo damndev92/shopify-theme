@@ -32,7 +32,7 @@
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "Hotel pacai",
+        "title": "",
         "text_block": "<p>The Hotel Pacai is set in the heart of Vilnius’ Old Town. It is home to a university, a presidential palace, and an abundance of museums, bookshops, and the city’s coolest spots for dining and drinking. The hotel echoes the quarter’s 17th-century Baroque influence with a contemporary twist.<br\/><br\/><\/p><p>The Hotel Pacai is based around a large central courtyard. What naturally stands out is the way the building’s history sits alongside modern fittings. Rooms all feature original features: exposed original brickwork, cracking plaster, historic frescos, and grand marble walls mixed with a contemporary feel.<br\/><br\/><\/p><p>“It was famous for being the most magnificent mansion in the Grand Duchy of Lithuania in the 17th century. The stately building has been reborn thanks to the inspired efforts of a passionate team of local architects and designers. The ornate baroque mansion lived through the Polish-Lithuanian Commonwealth, the rule of Russian czars, Napoleon’s entrance to Vilnius, and the Soviet before it was reborn in 2018 as the Hotel PACAI.” Explains Rūta Pulkauninkaitė-Macikė the general manager of the hotel. <\/p>",
         "page_description": false,
         "button_link": "",
@@ -115,6 +115,40 @@
         "text-over-image-width": "fixed"
       }
     },
+    "7f8dc4be-da7f-4247-835c-10ed3fd2d7b3": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18015591694651__7f8dc4be-da7f-4247-835c-10ed3fd2d7b3-1677143470fbd02c0a-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18015591694651__7f8dc4be-da7f-4247-835c-10ed3fd2d7b3-1677143470fbd02c0a-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18015591694651__7f8dc4be-da7f-4247-835c-10ed3fd2d7b3-1677143470fbd02c0a-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18015591694651__7f8dc4be-da7f-4247-835c-10ed3fd2d7b3-1677143470fbd02c0a-0",
+        "template--18015591694651__7f8dc4be-da7f-4247-835c-10ed3fd2d7b3-1677143470fbd02c0a-1",
+        "template--18015591694651__7f8dc4be-da7f-4247-835c-10ed3fd2d7b3-1677143470fbd02c0a-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHOP",
+        "title": "HOTEL PACAI'S SELECTION",
+        "collection": "hotel-pacai",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -138,6 +172,7 @@
     "ae0ec657-a4e3-4d59-a7f3-ed8f0bf7f51f",
     "8a472bfe-f624-45cb-8ae8-b7288ba482dd",
     "353d78d9-3311-4905-82a3-a65e40f3fc6a",
+    "7f8dc4be-da7f-4247-835c-10ed3fd2d7b3",
     "blog-posts"
   ]
 }
