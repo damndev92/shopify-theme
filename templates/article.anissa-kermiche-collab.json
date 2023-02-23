@@ -70,6 +70,48 @@
         "show_recent_posts": false
       }
     },
+    "525a0685-b1c7-414c-a664-723fd87575f3": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18099769671995__525a0685-b1c7-414c-a664-723fd87575f3-1677167855a93dcbd7-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-3-1024x1024_a4eac839-0e14-4765-ab63-cb23ee38a0b1.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Tit for Tat Glass Carafe – Blue Bundle<\/p><p>£155<\/p>"
+          }
+        },
+        "template--18099769671995__525a0685-b1c7-414c-a664-723fd87575f3-1677167855a93dcbd7-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2-3-1024x1024_16c80683-103c-4c20-bc70-9f486e947649.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Tit for Tat Glass Carafe – Clear Bundle<\/p><p>£155<\/p>"
+          }
+        },
+        "template--18099769671995__525a0685-b1c7-414c-a664-723fd87575f3-1677167855a93dcbd7-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-1024x1024_41f96fb6-81cc-42c3-a85f-0e7b1860281e.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Glass Carafe – Blue<\/p><p>£85<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18099769671995__525a0685-b1c7-414c-a664-723fd87575f3-1677167855a93dcbd7-0",
+        "template--18099769671995__525a0685-b1c7-414c-a664-723fd87575f3-1677167855a93dcbd7-1",
+        "template--18099769671995__525a0685-b1c7-414c-a664-723fd87575f3-1677167855a93dcbd7-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -90,6 +132,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "525a0685-b1c7-414c-a664-723fd87575f3",
     "blog-posts"
   ]
 }
