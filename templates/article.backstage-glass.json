@@ -125,6 +125,23 @@
         "button_label": ""
       }
     },
+    "e7e94f93-e660-482f-909b-60c7c3c45a7b": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Short-Candy-Swirl-Handblown-Italian-Glass-green-684x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Green Short Candy Swirl Handblown Italian Glass",
+        "text_block": "<p>£30<\/p><p>Handblown Italian Glass<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -161,6 +178,7 @@
     "57d3deb7-f1d6-414b-9838-00df2282879d",
     "81aa5bad-9f2b-4f3b-a978-42079f3ad30d",
     "8ae9b6ad-fba5-49d7-931b-d388e943449a",
+    "e7e94f93-e660-482f-909b-60c7c3c45a7b",
     "main",
     "blog-posts"
   ]
