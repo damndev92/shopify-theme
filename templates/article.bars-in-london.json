@@ -58,16 +58,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/Georges-Bar_05-Copy-1024x683.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>2. The Opulent <\/strong><\/p><p>Sitting yards from the platforms of King’s Cross Rail Station, <a href=\"https:\/\/www.thegilbertscott.com\/\">George’s bar<\/a> has been redesigned in the spirit of the “grand cafés of Europe”. Named after the original architect of the building: Sir George Gilbert Scott, its “Glittering gold detailing on the walls, shiny leather banquettes; bell-shaped lampshades and towering indoor plants” has been praised the press. It’s beautiful, elegant and welcoming. Do make sure you book for dinner at Gilbert Scott, the adjacent restaurant, to enjoy celebrity chef Marcus Wareing’s, latest creations. <\/p><p><em>St Pancras Renaissance Hotel, Euston Rd, NW1 2AR<\/em><\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
