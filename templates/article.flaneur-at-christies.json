@@ -23,6 +23,28 @@
         "button_label": ""
       }
     },
+    "b8a60f3f-013a-453e-ac25-7f40b45d7f7f": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18099436355899__b8a60f3f-013a-453e-ac25-7f40b45d7f7f-1677166633fbce3642-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen-Shot-2019-01-07-at-14.24.55-1024x382.png",
+            "link": "",
+            "title": "",
+            "description": "<p><a href=\"https:\/\/www.christies.com\/exhibitions\/christies-lates-london?cid=EM_EML54101006085023-Hero-CTA_2&cid=DM264034&bid=161548636#eventinfo_Nav\">Click on the link here for more informations. <\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18099436355899__b8a60f3f-013a-453e-ac25-7f40b45d7f7f-1677166633fbce3642-0"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -53,6 +75,7 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
+    "b8a60f3f-013a-453e-ac25-7f40b45d7f7f",
     "main",
     "blog-posts"
   ]
