@@ -14,11 +14,11 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Meet Meyranne Loum-Martin, Owner of the Jnane Tamsna, Marrakech.",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet Meyranne Loum-Martin, Owner of the Jnane Tamsna, Marrakech",
         "title": "",
-        "text": "<p>“Marrakech gave me the opportunity to develop my creativity with incredible freedom.” Explains lawyer turned boutique hotelier extraordinaire Meryanne Loum-Martin. Maison Flaneur discusses her vision, the story behind her favourite objects and what makes Marrakech a destination for design lovers. Achieve the perfect Moroccan Interior style with Meyranne Loum-Martin<\/p>",
+        "text": "<p>“Marrakech gave me the opportunity to develop my creativity with incredible freedom.” Explains lawyer turned boutique hotelier extraordinaire Meryanne Loum-Martin. Maison Flaâneur discusses her vision, the story behind her favourite objects and what makes Marrakech a destination for design lovers. <\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -36,36 +36,72 @@
         "show_recent_posts": false
       }
     },
-    "925deb6c-d8e0-41a9-a68a-362ccfc749f3": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17992903229755__925deb6c-d8e0-41a9-a68a-362ccfc749f3-16763800866a8296c1-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MeryanneLM-732x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p><strong>The Story behind the Moroccan inspiration<\/strong><\/p><p>“My husband and I (Dr. Gary Martin, an ethnobotanist and founder of the Global Diversity Foundation) bought land in the Palmeraie in 2000, and we opened the Jnane Tamsna in 2001. We built it from scratch; there was nothing there. I’ve done everything in the property, every inch, from the architecture to the interior design.” She continues with a smile.  “A few kilometers away from the center of Marrakech, the terrain expends over three hectares. We have an extraordinary garden: the 635-century-old palm trees are one of the main reason why we fell in love with the area. It’s not only an incredibly dense Palmeraie, but it also has a unique topography, as it’s not completely flat.”<\/p>"
-          }
-        },
-        "template--17992903229755__925deb6c-d8e0-41a9-a68a-362ccfc749f3-16763800866a8296c1-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/JnaneTamsna-1-731x1024.png",
-            "link": "",
-            "title": "",
-            "description": "<p><strong>How to achieve the Moroccan Interior look?<\/strong><\/p><p>“Morocco is a fascinating country. I am made of multiple origins myself (Meryanne was born in Cote’ d’Ivoire to a Senegalese diplomat father and West Indian lawyer mother. She spent her early childhood in Cote D’Ivoire, Ghana, London and Moscow before settling in Paris), and Morocco historically embodies the crossroad of influences. I think that’s the reason why foreigners feel so welcome here. The first house I did in Morocco was in 1986, and I’ve since then built strong relationships with local artisans. What I enjoy is that here, everything is possible: You draw sketches in the morning, and the next day the ironworker comes up with the model. There are infinite ways to be creative. Morrocan craft allows you to create unlimited bridge and bounds: freedom to create your own satellites.”<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17992903229755__925deb6c-d8e0-41a9-a68a-362ccfc749f3-16763800866a8296c1-1",
-        "template--17992903229755__925deb6c-d8e0-41a9-a68a-362ccfc749f3-16763800866a8296c1-2"
-      ],
+    "3940fe28-3cc6-443e-9a94-e568b0df7b3d": {
+      "type": "text--image-with-text",
       "settings": {
         "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/MeryanneLM-732x1024.webp",
+        "layout": "left",
         "subheading": "",
-        "title": ""
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>The Story behind the Moroccan inspiration<\/strong><\/p><p>“My husband and I (Dr. Gary Martin, an ethnobotanist and founder of the Global Diversity Foundation) bought land in the Palmeraie in 2000, and we opened the Jnane Tamsna in 2001. We built it from scratch; there was nothing there. I’ve done everything in the property, every inch, from the architecture to the interior design.” She continues with a smile.  “A few kilometers away from the center of Marrakech, the terrain expends over three hectares. We have an extraordinary garden: the 635-century-old palm trees are one of the main reason why we fell in love with the area. It’s not only an incredibly dense Palmeraie, but it also has a unique topography, as it’s not completely flat.”<\/p><p><strong>How to achieve the Moroccan Interior look?<\/strong><\/p><p>“Morocco is a fascinating country. I am made of multiple origins myself (Meryanne was born in Cote’ d’Ivoire to a Senegalese diplomat father and West Indian lawyer mother. She spent her early childhood in Cote D’Ivoire, Ghana, London and Moscow before settling in Paris), and Morocco historically embodies the crossroad of influences. I think that’s the reason why foreigners feel so welcome here. The first house I did in Morocco was in 1986, and I’ve since then built strong relationships with local artisans. What I enjoy is that here, everything is possible: You draw sketches in the morning, and the next day the ironworker comes up with the model. There are infinite ways to be creative. Morrocan craft allows you to create unlimited bridge and bounds: freedom to create your own satellites.”<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "8cd6585e-9a40-4548-8db8-2fc70ebaddd1": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/JnaneTamsna-1-731x1024.webp",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Meryanne Loum Martin, on creating unique piece of furniture.  <\/strong><\/p><p>“As I dreamed about the interiors, I started designing my own pieces of furniture and objects: Lights, photophores and a little bit of clothing and accessories, as well as renovating unique vintage furniture. I prefer creating objects that my guests can’t find in the souk: They don’t need me to find the classical Moroccan artisanal objects, but I can offer them things they couldn’t find anywhere else.”<\/p><p><\/p><p><strong>Why is it important to gather objects with a soul?<\/strong><\/p><p>“Having personal items in a space is essential. Then, the objects that are meant to be functional,  need to be beautiful but not the center of attention. Paintings and books are the most important. Personally, I cannot live without them because they ground me… Maybe its because I’m a nomad at heart. What makes me feel good are those personal objects inhabited by a story, with a soul. When I start a project, I always start by asking the owner what he values, and we build around that.”<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "545fab22-f904-4542-abd0-528459fdd437": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Lifestyle-at-Jnane-Tamsna-Credit-Jade-Nina-Sarkhel-1-860x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>Meryanne Loum-Martins, What is your favourite object?  <\/strong><\/p><p>“I like the lamps which I adorn with horn and leather bracelets, and I love the photophores. I find unique glass and work metal around it. The handmaid textile which I transform in plaids and shoes, and handbags and cushions, which I’ve sourced in West Africa. I am obsessed with customization: I like transformings things. It characterizes most of what I do. Its finding things that inspire me in the middle of a chaotic souk – having a vision of sorts.”<\/p><p><strong>What advice do you have to those who want to incorporate Moroccan crafts in a home?  <\/strong><\/p><p>“Moroccan objects can integrate well in a house in Chelsea, an apartment in Paris or a flat in downtown New York. When objects are impressive on their own, autonomously, they can go anywhere. Some objects, outside of their original context can lose their interest, but it’s not what we do here. We want them ethnic and unique, but that can never be out of context.”  <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "af0d1fa8-33f7-424e-81c7-c1733c5ba7dd": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/195209d2d255fabf8d09c85a8642ddad.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How to marry Art Deco design and Moroccan interiors?  <\/strong><\/p><p>“I like Art deco because it fits perfectly with the history of Morocco and harmoniously marries with vast spaces, old doors, and arches. The perfect fusion would be between big volumes, art deco furniture, and cement – simple.”  <\/p><p><strong>What is so different about the city of Marrakech?<\/strong><\/p><p>“I want to create experiences in ‘l’Art de Vivre’, which is a daily experience and refined research. I think Marrakech is very different than the rest of Morocco. The impact of the expats is significant. As much as Rabat is linked to politics and Casablanca to business, the people chose Marrakech because they fell in love with the town. <\/p><p>They want to build a home and leave a legacy. Recently, we’ve also seen the return of the Diaspora: A younger, creative generation, enriched by their foreign experience, is coming back and it’s terrific.”<\/p><p><strong>Who would be your Ideal Guest?  <\/strong><\/p><p>“Someone who loves Morocco and sees the richness of its culture. Who, even if he has done and seen everything, remains curious in life – Not blazé. We are always so happy to take them into our garden and share with them our experiences.”<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
       }
     },
     "6f762497-bc9d-493c-b614-40cfa4ec93e2": {
@@ -110,81 +146,6 @@
         "title": ""
       }
     },
-    "bf6b13df-31d0-44a0-8171-56b4ffda50ba": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "",
-        "title": "",
-        "text": "<p><strong>Meryanne Loum Martin, on creating unique piece of furniture.  <\/strong><\/p><p>“As I dreamed about the interiors, I started designing my own pieces of furniture and objects: Lights, photophores and a little bit of clothing and accessories, as well as renovating unique vintage furniture. I prefer creating objects that my guests can’t find in the souk: They don’t need me to find the classical Moroccan artisanal objects, but I can offer them things they couldn’t find anywhere else.”<\/p><p><\/p><p><strong>Why is it important to gather objects with a soul?<\/strong><\/p><p>“Having personal items in a space is essential. Then, the objects that are meant to be functional,  need to be beautiful but not the center of attention. Paintings and books are the most important. Personally, I cannot live without them because they ground me… Maybe its because I’m a nomad at heart. What makes me feel good are those personal objects inhabited by a story, with a soul. When I start a project, I always start by asking the owner what he values, and we build around that.”<\/p>",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
-    "545fab22-f904-4542-abd0-528459fdd437": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Lifestyle-at-Jnane-Tamsna-Credit-Jade-Nina-Sarkhel-1-860x1024.jpg",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "",
-        "text_block": "<p><strong>Meryanne Loum-Martins, What is your favourite object?  <\/strong><\/p><p>“I like the lamps which I adorn with horn and leather bracelets, and I love the photophores. I find unique glass and work metal around it. The handmaid textile which I transform in plaids and shoes, and handbags and cushions, which I’ve sourced in West Africa. I am obsessed with customization: I like transformings things. It characterizes most of what I do. Its finding things that inspire me in the middle of a chaotic souk – having a vision of sorts.”<\/p><p><strong>What advice do you have to those who want to incorporate Moroccan crafts in a home?  <\/strong><\/p><p>“Moroccan objects can integrate well in a house in Chelsea, an apartment in Paris or a flat in downtown New York. When objects are impressive on their own, autonomously, they can go anywhere. Some objects, outside of their original context can lose their interest, but it’s not what we do here. We want them ethnic and unique, but that can never be out of context.”  <\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "d0b542c4-4f76-446a-af17-dd9dbcc5ac6f": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17992903229755__d0b542c4-4f76-446a-af17-dd9dbcc5ac6f-16763800866a8296c1-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/bench_straight_featured.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Black and Gold Moroccan Bench<\/p><p>£1,815<\/p>"
-          }
-        },
-        "template--17992903229755__d0b542c4-4f76-446a-af17-dd9dbcc5ac6f-16763800866a8296c1-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/round_lamp_featured.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Black and Brass Industrial Lamp<\/p><p>£1,069<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17992903229755__d0b542c4-4f76-446a-af17-dd9dbcc5ac6f-16763800866a8296c1-0",
-        "template--17992903229755__d0b542c4-4f76-446a-af17-dd9dbcc5ac6f-16763800866a8296c1-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
-    "8aa97077-3c4d-4a6d-a052-4f9651af6037": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "",
-        "title": "",
-        "text": "<p><strong>How to marry Art Deco design and Moroccan interiors?  <\/strong><\/p><p>“I like Art deco because it fits perfectly with the history of Morocco and harmoniously marries with vast spaces, old doors, and arches. The perfect fusion would be between big volumes, art deco furniture, and cement – simple.”  <\/p><p><strong>What is so different about the city of Marrakech?<\/strong><\/p><p>“I want to create experiences in ‘l’Art de Vivre’, which is a daily experience and refined research. I think Marrakech is very different than the rest of Morocco. The impact of the expats is significant. As much as Rabat is linked to politics and Casablanca to business, the people chose Marrakech because they fell in love with the town. <\/p><p>They want to build a home and leave a legacy. Recently, we’ve also seen the return of the Diaspora: A younger, creative generation, enriched by their foreign experience, is coming back and it’s terrific.”<\/p><p><strong>Who would be your Ideal Guest?  <\/strong><\/p><p>“Someone who loves Morocco and sees the richness of its culture. Who, even if he has done and seen everything, remains curious in life – Not blazé. We are always so happy to take them into our garden and share with them our experiences.”<\/p><p><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/jnane-tamsna\/\"><em>To view our full range of Moroccan-inspired products click here. <\/em><\/a><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/make-yourself-at-home-jnane-tamsna\/\"><em>To read more about the Jnane Tamsna click here. <\/em><\/a><\/p>",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "7e4828d2-6212-454f-9b83-c84eccd5358c": {
       "type": "image--image",
       "settings": {
@@ -213,12 +174,11 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "main",
-    "925deb6c-d8e0-41a9-a68a-362ccfc749f3",
-    "6f762497-bc9d-493c-b614-40cfa4ec93e2",
-    "bf6b13df-31d0-44a0-8171-56b4ffda50ba",
+    "3940fe28-3cc6-443e-9a94-e568b0df7b3d",
+    "8cd6585e-9a40-4548-8db8-2fc70ebaddd1",
     "545fab22-f904-4542-abd0-528459fdd437",
-    "d0b542c4-4f76-446a-af17-dd9dbcc5ac6f",
-    "8aa97077-3c4d-4a6d-a052-4f9651af6037",
+    "af0d1fa8-33f7-424e-81c7-c1733c5ba7dd",
+    "6f762497-bc9d-493c-b614-40cfa4ec93e2",
     "7e4828d2-6212-454f-9b83-c84eccd5358c",
     "blog-posts"
   ]
