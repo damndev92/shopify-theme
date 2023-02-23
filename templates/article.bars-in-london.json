@@ -121,6 +121,19 @@
         "button_label": ""
       }
     },
+    "50b701df-9ead-4867-92bd-1f891ca55a48": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><strong>Now time to re-create the perfect bar at home.<\/strong><\/p><p><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/st-jamess-hotel-club\/products\/\">Click here to see the ultimate St James selection of fine glassware<\/a><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -157,6 +170,7 @@
     "2f71aeee-555e-4284-ba1e-0c7f875da008",
     "b244dcbe-cde0-495e-be7d-6659e4fb4cdf",
     "8adf4a29-d0ea-423f-9599-72a49aa6b6ab",
+    "50b701df-9ead-4867-92bd-1f891ca55a48",
     "main",
     "blog-posts"
   ]
