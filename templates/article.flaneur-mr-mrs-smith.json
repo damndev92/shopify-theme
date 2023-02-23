@@ -66,6 +66,28 @@
         "show_recent_posts": false
       }
     },
+    "371c4d5c-6cae-4df4-a4f1-82a59bc45bdb": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18099642794299__371c4d5c-6cae-4df4-a4f1-82a59bc45bdb-1677167281878330fc-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/James_Tamara_Lohan_Smith_Hotels-8-1024x684.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>The Coveteur<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18099642794299__371c4d5c-6cae-4df4-a4f1-82a59bc45bdb-1677167281878330fc-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -86,6 +108,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "91bbc4f1-3dc1-4cc6-9348-7adc85a05a33",
     "main",
+    "371c4d5c-6cae-4df4-a4f1-82a59bc45bdb",
     "blog-posts"
   ]
 }
