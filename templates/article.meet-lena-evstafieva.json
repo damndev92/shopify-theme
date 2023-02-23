@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Meet Lena Evstafieva, Hotelier, Villa Lena, Tuscany",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet Lena Evstafieva, Hotelier at Villa Lena, Tuscany",
         "title": "",
         "text": "<p>Villa Lena was founded by Lena Evstafieva, her husband, musician Jerome Hadey and Lionel Bensemoun, owner of the famous Parisian nightclub Le Baron. Villa Lena is much more than a hotel;  A mix between an artist’s residence, a self-sufficient commune, and the cool kids hot-spot. We sit down with Lena to hear more about her incredible project.<\/p>",
         "button_link": "",
@@ -33,7 +33,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Can you tell me more about the story of VillaLena?<\/strong><\/p><p>VillaLena was founded in 2014 on an old Tuscan estate which fell into disrepair. My family purchased it and for a while we were not sure what to do with it. My husband and I both worked in the creative industries before, and so the idea of combining hospitality with an artist residency seemed like a good one. The estate is a beautiful natural woodland, and it also seemed very organic to set up vegetable gardens and other agriculture to accompany the restaurant.<\/p><p><strong>Were you always working in hospitality?<\/strong><\/p><p>No, never. VillaLena is my first foray into hospitality. Prior, I worked with contemporary art.<\/p><p><strong>How did you come across this property?<\/strong><\/p><p>My family found it actually and fell in love. I can see why though – the beautiful 19th century villa with bright terracotta walls and peach columns against the verdant green and blue skies really is a stunner.<\/p><p><strong>How would you describe the atmosphere at VillaLena?<\/strong><\/p><p>Friendly and flexible. I would like to think we are very different from other hospitality places where the culture is more set in place – whilst we are always a changing, breathing project, always full of creative and experimental things.<\/p>",
+        "text_block": "<p><strong>Can you tell me more about the story of VillaLena?<\/strong><\/p><p>VillaLena was founded in 2014 on an old Tuscan estate which fell into disrepair. My family purchased it and for a while we were not sure what to do with it. My husband and I both worked in the creative industries before, and so the idea of combining hospitality with an artist residency seemed like a good one. The estate is a beautiful natural woodland, and it also seemed very organic to set up vegetable gardens and other agriculture to accompany the restaurant.<\/p><p><strong>Were you always working in hospitality?<\/strong><\/p><p>No, never. VillaLena is my first foray into hospitality. Prior, I worked with contemporary art.<\/p><p><strong>How did you come across this property?<\/strong><\/p><p>My family found it actually and fell in love. I can see why though – the beautiful 19th century villa with bright terracotta walls and peach columns against the verdant green and blue skies really is a stunner.<\/p><p><strong>How would you describe the atmosphere at VillaLena?<\/strong><\/p><p>Friendly and flexible. I would like to think we are very different from other hospitality places where the culture is more set in place – whilst we are always a changing, breathing project, always full of creative and experimental things.<\/p><p><strong>How would you describe your taste in interior design?<\/strong><\/p><p>Every detail matters – it can be anything but it has to be perfect and the exact balance of things.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -50,28 +50,45 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>How would you describe your taste in interior design?<\/strong><\/p><p>Every detail matters – it can be anything but it has to be perfect and the exact balance of things.<\/p><p><strong>How do you choose the resident artists?<\/strong><\/p><p>This is actually quite a long process. We start by reviewing the applications we have received internally. From there, we make a long list and conduct Skype interviews. Following that, we create a shortlist that goes to our advisory board. After they have issued their recommendations, we have our final list!<\/p><p><strong>Can you tell us more about the residency?<\/strong><\/p><p>The idea behind the residency was to create an open and democratic space, a place of exchange, and collaboration. This is why the residency is multi-disciplinary and we welcome anyone and from anywhere as long as they are committed deeply to their chosen discipline.<\/p><p><strong>Do you have a favourite spot at the hotel?<\/strong><\/p><p>I have quite a few. The Light & Rain Pavillion is a beautiful space, combining the old Roman tradition of oculus with Eastern asthetic of a zen garden, or the top of the mound in the medieval park of Toiano Vecchio with the best views of Tuscany.<\/p><p><strong>An object that you particularly love?<\/strong><\/p><p>Our striped pool umbrellas!<\/p><p><strong>A fun fact about VillaLena?<\/strong><\/p><p>Our truffle dog Igor is very bad at finding truffles but very good at stealing croissants from guests’ breakfast tables<\/p><p><strong>Who would be your ideal guest at VillaLena?<\/strong><\/p><p>Anyone and everyone.<\/p>",
+        "text_block": "<p><strong>How do you choose the resident artists?<\/strong><\/p><p>This is actually quite a long process. We start by reviewing the applications we have received internally. From there, we make a long list and conduct Skype interviews. Following that, we create a shortlist that goes to our advisory board. After they have issued their recommendations, we have our final list!<\/p><p><strong>Can you tell us more about the residency?<\/strong><\/p><p>The idea behind the residency was to create an open and democratic space, a place of exchange, and collaboration. This is why the residency is multi-disciplinary and we welcome anyone and from anywhere as long as they are committed deeply to their chosen discipline.<\/p><p><strong>Do you have a favourite spot at the hotel?<\/strong><\/p><p>I have quite a few. The Light & Rain Pavillion is a beautiful space, combining the old Roman tradition of oculus with Eastern asthetic of a zen garden, or the top of the mound in the medieval park of Toiano Vecchio with the best views of Tuscany.<\/p><p><strong>An object that you particularly love?<\/strong><\/p><p>Our striped pool umbrellas!<\/p><p><strong>A fun fact about VillaLena?<\/strong><\/p><p>Our truffle dog Igor is very bad at finding truffles but very good at stealing croissants from guests’ breakfast tables<\/p><p><strong>Who would be your ideal guest at Villa Lena?<\/strong><\/p><p>Anyone and everyone.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
         "button_label": ""
       }
     },
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
-      "type": "text--image-with-text",
+    "f743d5d1-40f7-4d20-a482-3ef6b67f3edb": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17991574815035__f743d5d1-40f7-4d20-a482-3ef6b67f3edb-1677143470fbd02c0a-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17991574815035__f743d5d1-40f7-4d20-a482-3ef6b67f3edb-1677143470fbd02c0a-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17991574815035__f743d5d1-40f7-4d20-a482-3ef6b67f3edb-1677143470fbd02c0a-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17991574815035__f743d5d1-40f7-4d20-a482-3ef6b67f3edb-1677143470fbd02c0a-0",
+        "template--17991574815035__f743d5d1-40f7-4d20-a482-3ef6b67f3edb-1677143470fbd02c0a-1",
+        "template--17991574815035__f743d5d1-40f7-4d20-a482-3ef6b67f3edb-1677143470fbd02c0a-2"
+      ],
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Villa-Lena-T-Shirt.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "Villa Lena T-Shirt",
-        "text_block": "<p>From£18<\/p><p>White cotton Villa Lena t-shirt - a wonderful memento of your holiday or equally a fun gift for yourself or a friend.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
+        "subheading": "SHOP",
+        "title": "VILLA LENA'S COLLECTION",
+        "collection": "villa-lena",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -106,7 +123,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "2651060c-aaf6-42f9-8080-760c985c0b35",
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "f743d5d1-40f7-4d20-a482-3ef6b67f3edb",
     "main",
     "blog-posts"
   ]
