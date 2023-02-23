@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/ThumbJpeg-4-768x1024.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p>Given that glass needs to be burned at an approximate temperature of 1300 degrees celsius there is a likelihood that these beginnings went slightly differently. Nonetheless, the researches conducted prove that the art of glass was born and refined to an art in this region before it was adopted in Egypt, Greece, Rome, etc.  The technique evolved over hundreds of centuries and today glass can be moulded, blown, cast, and pressed. If you vary the temperature or the composition you will get opaque, transparent, translucent, or colored glass.<\/p><p>My first encounter with the marvellous qualities of glass was in a furnace on the isle of Murano where my parents had brought me as a child. I was taken aback by the transformation of this liquid substance happening before my eyes through the sheer force of the <em>Maestro<\/em>’s breath. The blown glass technique consists in blowing in the liquid through a cane in order to give it the desired shape that can vary from a simple form in a mould to the most intricate sculptures. It dates back to its Syrian beginnings but was developed by the Romans and quickly spread around their immense empire. It is a crucial turning point as it allows quicker and sharper production. <\/p><p>Since the 13th-century glass is at home in Venice where safely placed on the isle of Murano, the Maestri perfected the blowing technique to an art.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
