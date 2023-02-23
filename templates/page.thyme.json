@@ -99,8 +99,7 @@
         "colors": "white",
         "width": 220,
         "subheading": "",
-        "title": "",
-        "mobile_image": "shopify:\/\/shop_images\/thyme_c730f9eb-c712-41d1-acf7-59690e0f66e5.png"
+        "title": ""
       }
     },
     "b3efa4cb-a408-442f-a3e0-b6d52e8bf4a3": {
@@ -341,8 +340,8 @@
           "type": "article",
           "settings": {
             "blog_post_1": "flaneur-magazine\/meet-milly-hibbert-head-of-brand-retail-development-thyme-the-costwolds",
-            "blog_post_2": "",
-            "blog_post_3": "",
+            "blog_post_2": "flaneur-magazine\/you-ve-been-served-charlie-hibbert-head-chef-at-thyme-does-thanksgiving",
+            "blog_post_3": "flaneur-magazine\/you-ve-been-served-the-ox-barn-at-thyme-cotswolds",
             "blog_post_4": ""
           }
         }
