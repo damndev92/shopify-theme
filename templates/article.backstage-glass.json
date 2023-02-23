@@ -108,6 +108,23 @@
         "button_label": ""
       }
     },
+    "8ae9b6ad-fba5-49d7-931b-d388e943449a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/9db62b0177bea2ee7623ec7b537a03e7-1024x697.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>It seems fascinating to me that looking at the history of glass involves taking a dive into the history of art but also architecture, economy, science, and even politics. The triumph of glass is as discreet as it is ubiquitous. ‘Glass is, in general, the enemy of secrets’ said Walter Benjamin about the ambivalence of the material. Indeed, through these objects, one can perceive how glass, transparent and particularly difficult to master, has challenged and inspired the most creative minds. <\/p><p>Next time you raise your glass or look through the window, think about the Phoenician sailors.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -143,6 +160,7 @@
     "80a8cb0a-810e-4f97-8c59-2cf84c691a65",
     "57d3deb7-f1d6-414b-9838-00df2282879d",
     "81aa5bad-9f2b-4f3b-a978-42079f3ad30d",
+    "8ae9b6ad-fba5-49d7-931b-d388e943449a",
     "main",
     "blog-posts"
   ]
