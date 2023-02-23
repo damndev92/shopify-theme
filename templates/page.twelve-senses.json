@@ -152,6 +152,17 @@
         "button__text": ""
       }
     },
+    "d5b69880-f66f-4d37-ae59-93f9cf8603c8": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Shop all products",
+        "url": "",
+        "link": "shopify:\/\/collections\/twelve-senses",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
+      }
+    },
     "f479ee67-46d6-449c-8f4e-946f0c71958c": {
       "type": "image--image-with-text-overlay",
       "blocks": {
@@ -351,6 +362,17 @@
         "title": ""
       }
     },
+    "82b9ef8b-2c91-41a4-9c4a-a1af90f42dad": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Check availability",
+        "url": "https:\/\/www.designhotels.com\/hotels\/usa\/california\/encinitas\/twelve-senses-retreat\/rooms-rates\/",
+        "link": "",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
+      }
+    },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
       "blocks": {
@@ -387,11 +409,13 @@
     "71b67f9e-af4e-4b2e-9725-a44f13f376a1",
     "3ae0132f-a8d3-4418-beba-806e080a415c",
     "9fea23e4-4148-476e-8672-5ecd0222c1b0",
+    "d5b69880-f66f-4d37-ae59-93f9cf8603c8",
     "f479ee67-46d6-449c-8f4e-946f0c71958c",
     "f752c25e-ff65-466a-ba61-33848f1147fc",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
+    "82b9ef8b-2c91-41a4-9c4a-a1af90f42dad",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
   ]
 }
