@@ -161,10 +161,10 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/story_shop_the_look_TEMPLATE.png",
             "image__position": "image--left",
-            "product": "",
-            "product-2": "",
-            "product-3": "",
-            "product-4": ""
+            "product": "nolita-lounge-chair-3659",
+            "product-2": "miller-floor-lamp",
+            "product-3": "round-dining-table-ikon",
+            "product-4": "viso-merino-blanket-black"
           }
         }
       },
