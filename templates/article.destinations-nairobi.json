@@ -196,61 +196,6 @@
         "title": ""
       }
     },
-    "b7b0e586-99ee-4762-aa3d-1daeef9412b1": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17849809109307__b7b0e586-99ee-4762-aa3d-1daeef9412b1-1675330468774c921f-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1-7-1024x1024.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Kenyan Cocktail Set<\/p><p>£279<\/p>"
-          }
-        },
-        "template--17849809109307__b7b0e586-99ee-4762-aa3d-1daeef9412b1-1675330468774c921f-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_7877-768x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Savannah Napkin Set<\/p><p>£144<\/p>"
-          }
-        },
-        "template--17849809109307__b7b0e586-99ee-4762-aa3d-1daeef9412b1-1675330468774c921f-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/white-nyota-votive-1024x1024.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Candle Light – Horn Votive, Set of 2<\/p><p>From £123<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17849809109307__b7b0e586-99ee-4762-aa3d-1daeef9412b1-1675330468774c921f-0",
-        "template--17849809109307__b7b0e586-99ee-4762-aa3d-1daeef9412b1-1675330468774c921f-1",
-        "template--17849809109307__b7b0e586-99ee-4762-aa3d-1daeef9412b1-1675330468774c921f-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
-    "blog-posts": {
-      "type": "blog--blog-posts",
-      "settings": {
-        "colors": "light",
-        "subheading": "BLOG",
-        "title": "Latest articles",
-        "post_limit": 3,
-        "show_author_name": false,
-        "show_dates": true,
-        "show_blog_images": true,
-        "imageSize": "square"
-      }
-    },
     "f64f60e2-1249-4c70-8e04-d67b89d847c7": {
       "type": "collection--featured-collection",
       "blocks": {
@@ -284,6 +229,19 @@
         "rows": 1,
         "show_view_all": false
       }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
     }
   },
   "order": [
@@ -295,8 +253,7 @@
     "e67137b8-1916-4e98-9b42-7e6d20279842",
     "e18c1cd4-6aec-4324-9d14-f70ef5a432ee",
     "81ade949-d4a3-4806-b432-8e90c95bee96",
-    "b7b0e586-99ee-4762-aa3d-1daeef9412b1",
-    "blog-posts",
-    "f64f60e2-1249-4c70-8e04-d67b89d847c7"
+    "f64f60e2-1249-4c70-8e04-d67b89d847c7",
+    "blog-posts"
   ]
 }
