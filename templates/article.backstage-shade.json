@@ -23,34 +23,21 @@
         "button_label": ""
       }
     },
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "light",
-        "width": "small",
-        "subheading": "",
-        "page_title": "",
-        "title": "Date Night",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/1-1.png",
-        "layout": "left",
+        "image": "shopify:\/\/shop_images\/9780714865843-780-1-768x1024.jpg",
+        "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "1. Kanishka",
-        "text_block": "<p>17-19 Maddox Street, W1S 2QH<\/p><p><br\/><strong>Head chef:<\/strong> Atul Kochhar<br\/><strong>Order the:<\/strong> Chicken tikka pie<\/p><p><\/p><p>Michelin Star chef Atul Kochhar’s contemporary Indian establishment not only offers tastebud-tantalising flavours, but this year sees a special five-course Valentine’s Day tasting menu designed especially for a night of romance. Expect traditional street food and mishti alongside aphrodisiacs like asparagus and figs. See the special V-day Menu <a href=\"https:\/\/kanishkarestaurant.co.uk\/wp-content\/uploads\/2023\/01\/Kanishka-Valentines-Menu-A5-2023.pdf\" target=\"_blank\">here<\/a>.<\/p>",
+        "title": "",
+        "text_block": "<p>I grew up in the north of Italy where design was present in every aspect of your life. From your first tazza of coffee to the light on your nightstand, you would turn off at night. Later, I went on to work in the design department of an international auction house where my work was to catalogue, expertise, and write about the design works that were to be offered for sale. The home is the most potent factor of civilization and will tell you about the evolution of any society. I became fascinated by the small revolutions I was discovering through the lens of design and what they said about the hopes and dreams of the times.  <\/p><p><strong>What is ‘design’ you say?<\/strong> There are many definitions for it. The art market has been narrowing it to the decorative arts, furniture, objects and even sculpture, from 1900 up to today. But the definition I am fond of comes from a short text written by Ettore Sottsass  (pictured here) published in <em>Molto difficile da dire<\/em><em><strong>[1]<\/strong><\/em> (Very difficult to say). For the Italian designer – who knew a thing or two on the matter – design is not the object in itself but the array of possibilities that it brings to you. Behind a well-designed object you should feel the presence of an artist working for <em>you<\/em>, bettering your living conditions and encouraging your curiosity for beauty. <\/p><p>[1] E. Sottsass, <em>Molto difficile da dire<\/em>, Adelphi Edizioni, Milan, 2019, p. 63.<\/p><p><\/p>",
         "page_description": false,
-        "button_link": "shopify:\/\/products\/beefbar-main-plate-piece-of-meat-emoji",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
@@ -100,7 +87,6 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
