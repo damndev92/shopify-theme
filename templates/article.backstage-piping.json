@@ -125,6 +125,23 @@
         "button_label": ""
       }
     },
+    "a6614486-76dc-434a-9951-3a13d706dd92": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/The-Thonet-S-33-Chair-in-Steel-Frame-and-Leather.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Cantilever Chair in Steel Frame and Leather S33 Pure Materials",
+        "text_block": "<p>£985<\/p><p><\/p><p>Cubic form, clear design, fine proportions, and flexing movement: the development of the perfected cantilever chairs <a href=\"http:\/\/3.9.65.88\/product\/cantilever-chair-in-steel-frame-and-brown-leather-s33\/\">S 33<\/a> and <a href=\"http:\/\/3.9.65.88\/product\/cantilever-armchair-in-steel-frame-and-black-leather-s34\/\">S 34<\/a>, among the first of their kind, today combines zeitgeist and a sense of tradition. “Why four legs if two will suffice?”, wrote artist Kurt Schwitters in 1927 after seeing the first cantilever chairs in furniture history. The two chairs <a href=\"http:\/\/3.9.65.88\/product\/cantilever-chair-in-steel-frame-and-brown-leather-s33\/\">S 33<\/a> and <a href=\"http:\/\/3.9.65.88\/product\/cantilever-armchair-in-steel-frame-and-black-leather-s34\/\">S 34<\/a> caused a sensation at the Werkbund exhibit at the Weissenhof Estate in Stuttgart. Starting in 1925, Mart Stam experimented with small diameter gas pipes, and at first he connected them with standard pipe fittings as used by plumbers. As a further development, Stam created cantilevered chairs that no longer stood on four legs, and it was a construction principle that became an important building block in the history of modern furniture design with its formal restraint. His cantilever chairs <a href=\"http:\/\/3.9.65.88\/product\/cantilever-chair-in-steel-frame-and-brown-leather-s33\/\">S 33<\/a> and <a href=\"http:\/\/3.9.65.88\/product\/cantilever-armchair-in-steel-frame-and-black-leather-s34\/\">S 34<\/a> were more than matter-of-fact designed interior design objects; they were part of the overall revolutionary concept of a new attitude towards architecture and life.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -161,6 +178,7 @@
     "3519401c-6ebf-4962-a2c1-9ce0a052d2a5",
     "03807ec0-897f-497f-a6d8-c925d20c8a8b",
     "6d394924-a0d5-41aa-9a98-a4456727de16",
+    "a6614486-76dc-434a-9951-3a13d706dd92",
     "main",
     "blog-posts"
   ]
