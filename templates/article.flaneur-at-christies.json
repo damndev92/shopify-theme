@@ -40,6 +40,19 @@
         "button_label": ""
       }
     },
+    "28757f82-f028-4746-a5d0-c0fb57dddbe7": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><strong>Mr & Mrs Smith<\/strong><\/p><p>Mr & Mrs Smith began life in 2003 with two adventurous hotel lovers (co-founders James and Tamara Lohan) and has evolved into a global travel club with +1.5m like-minded members in more than 100 countries. Today, Mr & Mrs Smith’s carefully curated collection features more than 1,300 luxury and boutique hotels and villas around the world, all of them personally visited by a team of globetrotting travel specialists and reviewed (anonymously) by people you can trust – the likes of Cate Blanchett, Tom Aikens and Stella McCartney are budding WordSmiths.<\/p><p><strong>Maison Flaneur<\/strong><\/p><p>Our digital concept store enables shoppers to view the interiors of hotels and restaurants around the world, offering you the chance to take home signature design pieces. You can shop by product type, from furniture to cutlery or by location, from Morocco to New-York. An ever-evolving collection of unique homeware and furniture; Pieces of your ‘holiday’ experiences, delivered straight to your door.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
       "type": "text--image-with-text",
       "settings": {
@@ -88,6 +101,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
+    "28757f82-f028-4746-a5d0-c0fb57dddbe7",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "blog-posts"
