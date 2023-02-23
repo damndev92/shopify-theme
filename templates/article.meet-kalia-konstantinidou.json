@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "THE FLÂNEURS",
-        "page_title": "Meet Kalia Konstantinidou, Owners of Istoria and Parīlio, Greece",
+        "page_title": "Meet Kalia Konstantinidou, Owner of Istoria and Parīlio, Greece",
         "title": "",
         "text": "<p>Meet the beautiful Kalia Eliopoulos; With her husband Antonis, they own the magical Istoria andParīlio hotels on the islands of Santorini and Paros. She takes us on a journey, from the whitewash historical village to the legendary story of  “the Italian Lady”, she tells us about what inspired the design and what to expect when staying with them. <\/p>",
         "button_link": "",
@@ -209,38 +209,38 @@
         "button_label": ""
       }
     },
-    "e041238a-8616-4a13-9cf3-911b12ad3c87": {
-      "type": "text--image-with-text",
+    "a399070d-aba4-468a-9ea4-071f4252ec0d": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17991190085947__a399070d-aba4-468a-9ea4-071f4252ec0d-1677143470fbd02c0a-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17991190085947__a399070d-aba4-468a-9ea4-071f4252ec0d-1677143470fbd02c0a-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17991190085947__a399070d-aba4-468a-9ea4-071f4252ec0d-1677143470fbd02c0a-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17991190085947__a399070d-aba4-468a-9ea4-071f4252ec0d-1677143470fbd02c0a-0",
+        "template--17991190085947__a399070d-aba4-468a-9ea4-071f4252ec0d-1677143470fbd02c0a-1",
+        "template--17991190085947__a399070d-aba4-468a-9ea4-071f4252ec0d-1677143470fbd02c0a-2"
+      ],
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/111-Parhelion_ProductPhoto-1024x1024.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "Parhelion – Iosif Foskolos Artwork",
-        "text_block": "<p>£1,329<\/p><p>Exclusively designed artwork by Iosif Foskolos. Hand-knitted golden thread on canvas. Framed in natural wood.   - In the “Parilio” project Iosif Foskolos was commissioned to work exclusively for the hotel artworks, working closely with the interior design studio. In those artworks the symbol of the sun plays a protagonist role. The name of the hotel is making both references to the combination of the words “Paros” and “Ilios” (Greek for sun), as also the atmospheric optical phenomenon of “Parhelion”, where two bright spots appears in both sides of the sun through refraction. Those references, as also mystical, abstract symbols, maths and numerology associated with sun served as Iosif’s main inspiration in most of the artworks. The use of gold coloured thread represents the sun rays, while the deep-blue colour is a homage to the Greek sea and the Greek islands. The symbol of the cross, found in some artworks, represents a Greek monastic aesthetic to come along with the minimalistic sanctuary interiors of the hotel.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "bef347f7-0b04-4364-97ab-227e3ad845a8": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/555-BlueSun_Product-1024x1024.jpg",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "Blue Sun – Iosif Foskolos Artwork",
-        "text_block": "<p>£665<\/p><p>Exclusevly designed artwork by Iosif Foskolos. Hand-knitted deep blue thread on canvas. Framed in white laquered wood.   - In the “Parilio” project Iosif Foskolos was commissioned to work exclusively for the hotel artworks, working closely with the interior design studio. In those artworks the symbol of the sun plays a protagonist role. The name of the hotel is making both references to the combination of the words “Paros” and “Ilios” (Greek for sun), as also the atmospheric optical phenomenon of “Parhelion”, where two bright spots appears in both sides of the sun through refraction. Those references, as also mystical, abstract symbols, maths and numerology associated with sun served as Iosif’s main inspiration in most of the artworks. The use of gold coloured thread represents the sun rays, while the deep-blue colour is a homage to the Greek sea and the Greek islands. The symbol of the cross, found in some artworks, represents a Greek monastic aesthetic to come along with the minimalistic sanctuary interiors of the hotel.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
+        "subheading": "SHOP",
+        "title": "PARILIO'S COLLECTION",
+        "collection": "parilio",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "blog-posts": {
@@ -272,8 +272,7 @@
     "f9318ad4-3700-46d9-9f1e-ec17ab02925d",
     "bca866d9-117d-4d80-bd3c-e012f1fb65a1",
     "385ccfb4-ac4b-41cb-a161-290609f1587e",
-    "e041238a-8616-4a13-9cf3-911b12ad3c87",
-    "bef347f7-0b04-4364-97ab-227e3ad845a8",
+    "a399070d-aba4-468a-9ea4-071f4252ec0d",
     "blog-posts"
   ]
 }
