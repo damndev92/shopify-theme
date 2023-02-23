@@ -26,7 +26,7 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "Pisa, Italy",
+        "subheading": "Tuscany, Italy",
         "page_title": "",
         "title": "Villa Lena",
         "text": "<p><br\/>Villa Lena cultivates both nature and culture, exemplifying a new way of living and holiday experience. The Villa Lena estate is located in the Province of Pisa, secluded amongst 500 hectares of woodland, vineyards, olive groves and organic vegetable gardens. A 19th-century villa sits at the heart of the property, originally built for an Italian aristocratic family. It now houses the Villa Lena Foundation and artist-in-residence programme. Surrounding the villa, converted historic agricultural buildings—former farmhouses, stables and hunting lodges—house self-contained guest apartments and shared facilities.<\/p>",
@@ -122,7 +122,7 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "VILLA LENA",
+        "subheading": "",
         "title": "Shop the look"
       }
     },
@@ -323,7 +323,7 @@
         "width": "medium",
         "subheading": "The rooms",
         "page_title": "",
-        "title": "Take A Peek Inside",
+        "title": "Take a peek inside",
         "text": "<p>Double rooms in the San Michele building are Seventies in style – think pastel pinks and blues, raffia chairs and desks, pendant lamps and terrazzo-tiled bathrooms. If you book into the Fattoria building expect austere apartments (some sleep up to four), with stylish features such as mismatched chairs, brick flooring, working fireplaces, kitchenettes and featured art.<\/p>",
         "button_link": "",
         "button_label": ""
