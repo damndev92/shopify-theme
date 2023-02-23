@@ -141,6 +141,19 @@
         "button_label": ""
       }
     },
+    "e9755207-4636-4eb8-9956-469b002808c7": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><em>Astrid Malingreau (Lugano, 1989) studied literature in Paris at the Sorbonne-Paris IV before specializing in publishing and editorial skills at Paris XIII. After working for two years in publishing in London, she joined Christie’s in 2014 and moved to the New York office to become a Specialist in the Decorative Arts department before transitioning to Design. She is now based in Brussels and working as a private advisor specialized in 20th century and contemporary design. Her look on the art world is shaped by this multidisciplinary and international background. It  allows her to cast an eclectic eye on the art market  with a knowledge of design works and their history.  <\/em><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -166,6 +179,7 @@
     "62da53fb-0b68-4273-9268-5b60bc3a9a22",
     "cfbed071-e84b-4b4a-9b0a-0a672885193c",
     "c7ec1323-ac20-419a-a4fa-175141e5f0ea",
+    "e9755207-4636-4eb8-9956-469b002808c7",
     "blog-posts"
   ]
 }
