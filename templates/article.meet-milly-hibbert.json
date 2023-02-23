@@ -14,8 +14,8 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
         "page_title": "Meet Milly Hibbert, Head of Brand & Retail Development, Thyme, The Costwolds",
         "title": "",
         "text": "<p>We discovered Thyme and the Ox barn almost by chance on a rainy July afternoon. Our first lunch since the lift of quarantine, it was love at first sight with the charming rural retreat. This Cotswolds “village within a village”, includes a country-chic hotel, restaurant, and spa. We meet Milly Hibbert, head of brand and retail development to discuss the family-run business, sustainability, and why we all need to “take the Thyme”.<\/p>",
@@ -123,14 +123,38 @@
         "button_label": ""
       }
     },
-    "6f44c1ba-69aa-4282-9436-0a8b767e92c7": {
-      "type": "image--image",
+    "0064ed5e-fcad-485b-9494-8589953bd88a": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17993455468859__0064ed5e-fcad-485b-9494-8589953bd88a-1677143470fbd02c0a-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17993455468859__0064ed5e-fcad-485b-9494-8589953bd88a-1677143470fbd02c0a-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17993455468859__0064ed5e-fcad-485b-9494-8589953bd88a-1677143470fbd02c0a-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17993455468859__0064ed5e-fcad-485b-9494-8589953bd88a-1677143470fbd02c0a-0",
+        "template--17993455468859__0064ed5e-fcad-485b-9494-8589953bd88a-1677143470fbd02c0a-1",
+        "template--17993455468859__0064ed5e-fcad-485b-9494-8589953bd88a-1677143470fbd02c0a-2"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/p21w6kg47bziny1ftzga.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "colors": "white",
+        "subheading": "SHOP",
+        "title": "THYME'S COLLECTION",
+        "collection": "thyme",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "blog-posts": {
@@ -157,7 +181,7 @@
     "main",
     "e937b6a6-865c-454f-b45b-16cb09f4d7b2",
     "28f9e77e-9857-4cd1-b59a-818a14b33a8f",
-    "6f44c1ba-69aa-4282-9436-0a8b767e92c7",
+    "0064ed5e-fcad-485b-9494-8589953bd88a",
     "blog-posts"
   ]
 }
