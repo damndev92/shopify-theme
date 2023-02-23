@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Destinations: Nairobi by Shamim Ehsani from Tribe Hotel",
+        "width": "large",
+        "subheading": "TRAVEL GUIDES",
+        "page_title": "Discover Nairobi by Shamim Ehsani from Tribe Hotel",
         "title": "",
         "text": "<p>Discover the ultimate insider guide to Nairobi.  Let Shamim Ehsani from Tribe Hotel take you on a tour of his favourite spots in the Kenyan capital.<\/p>",
         "button_link": "",
@@ -250,6 +250,40 @@
         "show_blog_images": true,
         "imageSize": "square"
       }
+    },
+    "f64f60e2-1249-4c70-8e04-d67b89d847c7": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17849809109307__f64f60e2-1249-4c70-8e04-d67b89d847c7-1677143470fbd02c0a-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17849809109307__f64f60e2-1249-4c70-8e04-d67b89d847c7-1677143470fbd02c0a-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17849809109307__f64f60e2-1249-4c70-8e04-d67b89d847c7-1677143470fbd02c0a-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17849809109307__f64f60e2-1249-4c70-8e04-d67b89d847c7-1677143470fbd02c0a-0",
+        "template--17849809109307__f64f60e2-1249-4c70-8e04-d67b89d847c7-1677143470fbd02c0a-1",
+        "template--17849809109307__f64f60e2-1249-4c70-8e04-d67b89d847c7-1677143470fbd02c0a-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHOP",
+        "title": "TRIBE'S COLLECTION",
+        "collection": "tribe-hotel",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -262,6 +296,7 @@
     "e18c1cd4-6aec-4324-9d14-f70ef5a432ee",
     "81ade949-d4a3-4806-b432-8e90c95bee96",
     "b7b0e586-99ee-4762-aa3d-1daeef9412b1",
-    "blog-posts"
+    "blog-posts",
+    "f64f60e2-1249-4c70-8e04-d67b89d847c7"
   ]
 }
