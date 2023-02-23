@@ -99,8 +99,7 @@
         "colors": "white",
         "width": 220,
         "subheading": "",
-        "title": "",
-        "mobile_image": "shopify:\/\/shop_images\/jnane_a329c66b-e789-44e9-88c8-9a4a065e39f0.png"
+        "title": ""
       }
     },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
@@ -365,6 +364,20 @@
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
+      "blocks": {
+        "f004a3e3-1329-42c8-8c03-7c3022d26dee": {
+          "type": "article",
+          "settings": {
+            "blog_post_1": "flaneur-magazine\/make-yourself-at-home-at-the-jnane-tamsna",
+            "blog_post_2": "flaneur-magazine\/meet-meyranne-loum-martin-owner-of-the-jnane-tamsna-marrakech",
+            "blog_post_3": "",
+            "blog_post_4": ""
+          }
+        }
+      },
+      "block_order": [
+        "f004a3e3-1329-42c8-8c03-7c3022d26dee"
+      ],
       "settings": {
         "colors": "white",
         "subheading": "Read From",
