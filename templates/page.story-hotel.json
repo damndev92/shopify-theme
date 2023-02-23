@@ -99,8 +99,7 @@
         "colors": "white",
         "width": 220,
         "subheading": "",
-        "title": "",
-        "mobile_image": "shopify:\/\/shop_images\/story_ddb9dd7a-3a37-4a5d-9c3d-0940bf359821.png"
+        "title": ""
       }
     },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
@@ -351,11 +350,25 @@
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
+      "blocks": {
+        "8ef672b0-0dd7-445e-9fe0-1b10b65bdfe2": {
+          "type": "article",
+          "settings": {
+            "blog_post_1": "flaneur-magazine\/make-yourself-at-home-review-of-the-story-hotel-stockholm",
+            "blog_post_2": "flaneur-magazine\/10-lights-to-create-an-inviting-home",
+            "blog_post_3": "",
+            "blog_post_4": ""
+          }
+        }
+      },
+      "block_order": [
+        "8ef672b0-0dd7-445e-9fe0-1b10b65bdfe2"
+      ],
       "settings": {
         "colors": "white",
         "subheading": "Read From",
         "title": "Flâneur Magazine",
-        "post_limit": 3,
+        "post_limit": 2,
         "show_author_name": false,
         "show_dates": true,
         "show_blog_images": true,
