@@ -80,7 +80,7 @@
         "colors": "white",
         "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/41-1024x1024.png",
-        "layout": "right",
+        "layout": "left",
         "subheading": "",
         "location": false,
         "title": "",
