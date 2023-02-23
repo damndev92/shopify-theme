@@ -258,7 +258,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_1_e2462119-27cc-4966-8940-7d35d331f5d4.png",
         "layout": "left",
         "subheading": "Meet the host - Lena Evstafieva",
@@ -310,7 +310,7 @@
         "cbf8cc1f-e932-4ee8-8365-efd1ba25591d"
       ],
       "settings": {
-        "background-color": "#f3f3f3",
+        "background-color": "#e3e3e3",
         "text-color": "#000000",
         "title": "Tips from the host",
         "faq_icon": "plus_minus"
