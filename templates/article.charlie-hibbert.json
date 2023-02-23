@@ -15,7 +15,7 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "HOW TO",
         "page_title": "You’ve been Served: Charlie Hibbert, Head Chef at Thyme does Thanksgiving",
         "title": "",
         "text": "<p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/the-ox-barn\/\">Thyme <\/a>is a place for all seasons, but when I wonder into the veg garden as the autumn leaves are changing, there’s something very special about this time of year.  For the kitchen, we’re harvesting pumpkin, squash, Jerusalem artichoke, yacón, rainbow chard, celery, beetroot and woody herbs, so there’s a riot of oranges, yellows, purples and greens for our Ox Barn plates; the trees are competing with their burned oranges, vivid yellows and ox blood reds.  It’s not too cold, sometimes raining, but always reminding me about nature and its importance in the grand scheme of things.  It’s truly awesome.  This dish brings together some of the best things about the season.<\/p>",
@@ -130,6 +130,40 @@
         "button_label": ""
       }
     },
+    "6b4e58d3-4604-47ec-a429-f88c0e9dee7d": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18017587626299__6b4e58d3-4604-47ec-a429-f88c0e9dee7d-167716183504edc0e9-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18017587626299__6b4e58d3-4604-47ec-a429-f88c0e9dee7d-167716183504edc0e9-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18017587626299__6b4e58d3-4604-47ec-a429-f88c0e9dee7d-167716183504edc0e9-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18017587626299__6b4e58d3-4604-47ec-a429-f88c0e9dee7d-167716183504edc0e9-0",
+        "template--18017587626299__6b4e58d3-4604-47ec-a429-f88c0e9dee7d-167716183504edc0e9-1",
+        "template--18017587626299__6b4e58d3-4604-47ec-a429-f88c0e9dee7d-167716183504edc0e9-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Discover the Collection",
+        "collection": "thyme",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -141,38 +175,6 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
-      }
-    },
-    "b1b905a0-1b60-4674-8044-d046eeb9b14b": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--18017587626299__b1b905a0-1b60-4674-8044-d046eeb9b14b-1676554490519b4a0e-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Hellebore-Linen-Table-Cloth.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Hellebore Linen Table Cloth<\/p><p>From £260<\/p>"
-          }
-        },
-        "template--18017587626299__b1b905a0-1b60-4674-8044-d046eeb9b14b-1676554490519b4a0e-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Natural-Hand-Woven-Straw-Placemat-1.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Natural Hand Woven Straw Placemat – Set of 4<\/p><p>£50<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18017587626299__b1b905a0-1b60-4674-8044-d046eeb9b14b-1676554490519b4a0e-0",
-        "template--18017587626299__b1b905a0-1b60-4674-8044-d046eeb9b14b-1676554490519b4a0e-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
       }
     },
     "blog-posts": {
@@ -198,8 +200,8 @@
     "2911cb60-becd-4483-892b-111a5dbf9f3c",
     "ecea8299-9e3f-45e1-8a9b-b66d2062614b",
     "e686a9f6-0990-4a10-8b95-ec5be37f317b",
+    "6b4e58d3-4604-47ec-a429-f88c0e9dee7d",
     "main",
-    "b1b905a0-1b60-4674-8044-d046eeb9b14b",
     "blog-posts"
   ]
 }
