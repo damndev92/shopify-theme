@@ -99,8 +99,7 @@
         "colors": "white",
         "width": 220,
         "subheading": "",
-        "title": "",
-        "mobile_image": "shopify:\/\/shop_images\/twelvesenses.png"
+        "title": ""
       }
     },
     "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
@@ -354,13 +353,27 @@
     },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
+      "blocks": {
+        "eb6e2225-39b2-4f5f-bb6f-3c0102f28a5d": {
+          "type": "article",
+          "settings": {
+            "blog_post_1": "flaneur-magazine\/make-yourself-at-home-review-of-the-twelve-senses-retreat-encinitas-usa",
+            "blog_post_2": "",
+            "blog_post_3": "",
+            "blog_post_4": ""
+          }
+        }
+      },
+      "block_order": [
+        "eb6e2225-39b2-4f5f-bb6f-3c0102f28a5d"
+      ],
       "settings": {
         "colors": "white",
         "subheading": "Read From",
         "title": "Flâneur Magazine",
-        "post_limit": 3,
+        "post_limit": 1,
         "show_author_name": false,
-        "show_dates": true,
+        "show_dates": false,
         "show_blog_images": true,
         "imageSize": "portrait"
       }
