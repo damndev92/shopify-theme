@@ -27,7 +27,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/g-01-inhabit-hotel-683x1024.jpg",
         "layout": "right",
         "subheading": "",
@@ -44,7 +44,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/g-14-inhabit-hotel-688x1024.jpg",
         "layout": "left",
         "subheading": "",
