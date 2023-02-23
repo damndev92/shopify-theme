@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "57d3deb7-f1d6-414b-9838-00df2282879d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/D2970FC2-2E26-4C4F-96DD-6717181F17FF-744x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>After two years he returned to his native Oklahoma never to work with glass again. His glassworks are therefore rare and full of poetry like my favorite piece<em>Cappello del Doge<\/em>(the Doge’s hat) inspired by the eponymous hat worn by thechief magistrates of Venice. They exist in a variety of colors and are impressive by their candor despite using complex techniques for the contrast between opacity and translucent glass as well as the asymmetrical shape.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "80a8cb0a-810e-4f97-8c59-2cf84c691a65",
+    "57d3deb7-f1d6-414b-9838-00df2282879d",
     "main",
     "blog-posts"
   ]
