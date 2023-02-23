@@ -114,6 +114,16 @@
         "button_label": ""
       }
     },
+    "cfbed071-e84b-4b4a-9b0a-0a672885193c": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2019-Hotel-Pigalle-01-1024x683.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -137,6 +147,7 @@
     "e3b6ed7a-7634-44fd-8f87-ae903ae0de49",
     "d08268f8-d91f-4e8b-8f96-e5c0323c8186",
     "62da53fb-0b68-4273-9268-5b60bc3a9a22",
+    "cfbed071-e84b-4b4a-9b0a-0a672885193c",
     "blog-posts"
   ]
 }
