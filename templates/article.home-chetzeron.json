@@ -58,8 +58,8 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Untitled_design_1bcecb1d-807c-4ad0-8db5-f83c35bc1f74.png",
         "parallax": true,
-        "alignment": "center",
-        "hero_size": "large",
+        "alignment": "top",
+        "hero_size": "medium",
         "text-over-image-width": "fixed"
       }
     },
