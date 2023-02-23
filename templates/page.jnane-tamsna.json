@@ -77,6 +77,7 @@
         "template--17824634896699__45f9421f-82f0-4a47-b570-7c6064ecd2d2-1676291575c0dd75a6-2": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/FACT_BLOCKS_10_1eaa3958-4cd4-4dac-8d73-75ffb8628764.png",
             "link": ""
           }
         },
@@ -257,14 +258,14 @@
           "type": "tab_content",
           "settings": {
             "question": "Describe Jnane tamsna",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>Unique boutique hotel offers 24 individual rooms, private villa rentals and full exclusivity for events.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
           "type": "tab_content",
           "settings": {
             "question": "where to eat?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>Drawing on Morocco’s rich culinary heritage and inspired by modern Mediterranean cuisine, meals are a movable feast to be enjoyed in Jnane's vast gardens or in our spacious dining room.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {

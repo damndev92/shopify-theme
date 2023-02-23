@@ -105,8 +105,8 @@
       "type": "maison-collection-list",
       "settings": {
         "colors": "white",
-        "subheading": "",
-        "title": "Discover more Destinations",
+        "subheading": "Discover more",
+        "title": "Destinations",
         "collection_type": "hotel"
       }
     }

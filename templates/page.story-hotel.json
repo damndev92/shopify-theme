@@ -77,6 +77,7 @@
         "template--17824629162299__fa27e928-71d7-4dc8-b0a9-357789a2e8e1-1676291575c0dd75a6-2": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/FACT_BLOCKS_10_500d730d-3f1d-4902-ae3e-2e246ebe6570.png",
             "link": ""
           }
         },
@@ -250,21 +251,21 @@
           "type": "tab_content",
           "settings": {
             "question": "where to eat?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>The restaurant's style and food is inspires by urban New York Restaurants.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
           "type": "tab_content",
           "settings": {
             "question": "your favourite object in the hotel?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>The Headboard in the Lily Dam Suite is a repurposed antique.<\/p>"
           }
         },
         "eee982bf-e186-4179-a367-76549ea48a1e": {
           "type": "tab_content",
           "settings": {
             "question": "something most people don't know about stockholm?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>Stockholm is built on 14 islands.<\/p>"
           }
         }
       },

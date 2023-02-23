@@ -14,11 +14,11 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Meet Georgie Morley, Amuse La Bouche, London",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet Georgie, Founder of Amuse La Bouche, London",
         "title": "",
-        "text": "<p>Amuse La Bouche was founded during the first lockdown in 2020 in London. The founder, with a design background, decided to create abrand that revolves around homeware with an ethos of longevity, kindness to the planet and a growing range of charmingly stylish pieces. We sit down with the founderto learn more about the story behind her brand name, her inspirations andthe lessons she has learned from launching her own business in quarantine<\/p>",
+        "text": "<p>Amuse La Bouche was founded during the first lockdown in 2020 in London. The founder, with a design background, decided to create abrand that revolves around homeware with an ethos of longevity, kindness to the planet and a growing range of charmingly stylish pieces. We sit down with the founderto learn more about the story behind her brand name, her inspirations andthe lessons she has learned from launching her own business in quarantine. <\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -91,6 +91,40 @@
         "button_label": ""
       }
     },
+    "9e653db9-9308-4121-8bcd-5e7a3285fc59": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17949809246523__9e653db9-9308-4121-8bcd-5e7a3285fc59-1677143470fbd02c0a-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17949809246523__9e653db9-9308-4121-8bcd-5e7a3285fc59-1677143470fbd02c0a-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17949809246523__9e653db9-9308-4121-8bcd-5e7a3285fc59-1677143470fbd02c0a-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17949809246523__9e653db9-9308-4121-8bcd-5e7a3285fc59-1677143470fbd02c0a-0",
+        "template--17949809246523__9e653db9-9308-4121-8bcd-5e7a3285fc59-1677143470fbd02c0a-1",
+        "template--17949809246523__9e653db9-9308-4121-8bcd-5e7a3285fc59-1677143470fbd02c0a-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHOP",
+        "title": "THE COLLECTION",
+        "collection": "amuse-la-bouche",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +159,7 @@
     "ec201368-e3e1-4e60-bec4-e07f2b6a613d",
     "2ec2ed7f-4abe-4d3c-9466-5f618a6d2001",
     "23618353-77c0-4180-aaf1-7f6c4bfdae84",
+    "9e653db9-9308-4121-8bcd-5e7a3285fc59",
     "main",
     "blog-posts"
   ]

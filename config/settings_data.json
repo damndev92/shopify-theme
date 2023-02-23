@@ -117,7 +117,6 @@
             "type": "content",
             "settings": {
               "mega-menu": "Flâneur Magazine",
-              "mega_image_1": "shopify:\/\/shop_images\/bare-stony-room-with-two-wooden-benches-and-coffee-tables.jpg",
               "mega_image_header_1": "",
               "mega_image_subheader_1": "",
               "mega_image_link_1": "shopify:\/\/collections\/le-pigalle",
@@ -171,7 +170,7 @@
           "search-enable": true,
           "label-enable": false,
           "icon-size": "20",
-          "cart-style": "shopping-cart",
+          "cart-style": "shopping-suitcase",
           "cart-number": "quantity",
           "enable_country_selector": false,
           "enable_locale_selector": false,
@@ -239,6 +238,12 @@
           "page_element": "",
           "proxy_element": "",
           "mount_json_code": ""
+        }
+      },
+      "855628211100114053": {
+        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {
         }
       }
     }

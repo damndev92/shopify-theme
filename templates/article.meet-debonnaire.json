@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "",
-        "page_title": "Meet Debonnaire von Bismarck, Debonnaire, London",
+        "page_title": "Meet Debonnaire von Bismarck, Founder of Debonnaire, London",
         "title": "",
         "text": "<p>Debonnaire von Bismarck is your modern days’ Fair godmother. She travelled the world to find the most refined, She brought back the best, and opened a warm oasis in the heart of Knightsbridge. We sit down with the coolest curator to discuss Christmas, her favourite decorations shops, and her three tips for the perfect gift.<\/p>",
         "button_link": "",
@@ -33,7 +33,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Tell us three facts about you?<br\/><\/strong>Debonnaire is a man’s’ old family name<br\/>I love colour<br\/>I love working with young designers and doing what I can to help support them with their creations. <\/p><p><strong>How did the Debonnaire adventure start?<br\/><\/strong>Through my travels and coming across amazing artisans and objects and wanting to be able to share them. <\/p><p><strong>How do you select the items in the shop?<br\/><\/strong>Quite simply by choosing what I like and sometimes sourcing things for someone in particular. <\/p><p><strong>Favourite Hotel for its decoration?<\/strong><br\/>Anouska Hempel is inspirational with her designs and is just the best at creating beautiful, dramatic and intimate spaces – so I’d have to say Blakes. <\/p><p><strong>Favourite Restaurant for its decoration?<br\/><\/strong>The Ritz London – the main dining room is one of the most beautiful rooms – beautiful high ceilings with walls of mirror and ornate gilded swags of ribbons and roses. <\/p>",
+        "text_block": "<p><strong>Tell us three facts about you?<br\/><\/strong>Debonnaire is a man’s’ old family name. <br\/>I love colour. <br\/>I love working with young designers, and doing what I can to help support them with their creations. <\/p><p><strong>How did the Debonnaire adventure start?<br\/><\/strong>Through my travels and coming across amazing artisans and objects and wanting to be able to share them. <\/p><p><strong>How do you select the items in the shop?<br\/><\/strong>Quite simply by choosing what I like and sometimes sourcing things for someone in particular. <\/p><p><strong>Favourite Hotel for its decoration?<\/strong><br\/>Anouska Hempel is inspirational with her designs and is just the best at creating beautiful, dramatic and intimate spaces – so I’d have to say Blakes. <\/p><p><strong>Favourite Restaurant for its decoration?<br\/><\/strong>The Ritz London – the main dining room is one of the most beautiful rooms – beautiful high ceilings with walls of mirror and ornate gilded swags of ribbons and roses. <\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -67,23 +67,10 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p> <strong>Your favourite object at home?<\/strong><br\/>An iconic 1960’s black and white photograph of a couple dancing by Malick Sidibe that was given to me<\/p><p><strong>Your three tips for the perfect Christmas present?<\/strong><br\/>Personalisation as that extra bit of thought has gone into it<br\/>Something luxurious that they would never buy for themselves<br\/>Something fun and maybe a bit naughty for example the Brazilian swimming trunks from the Octopussy collection<\/p>",
+        "text_block": "<p> <strong>Your favourite object at home?<\/strong><br\/>An iconic 1960’s black and white photograph of a couple dancing by Malick Sidibe that was given to me.<\/p><p><strong>Your three tips for the perfect Christmas present?<\/strong><br\/>Personalisation as that extra bit of thought has gone into it<br\/>Something luxurious that they would never buy for themselves<br\/>Something fun and maybe a bit naughty for example the Brazilian swimming trunks from the Octopussy collection. <\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "1bbe0a87-7a9a-4dc1-9f62-468ab25df588": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "",
-        "title": "Debonnaire’s Selection",
-        "text": "",
-        "button_link": "",
         "button_label": ""
       }
     },
@@ -120,7 +107,6 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "f680e7af-195f-4ec1-921b-a4250f79a32e",
-    "1bbe0a87-7a9a-4dc1-9f62-468ab25df588",
     "main",
     "blog-posts"
   ]

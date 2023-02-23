@@ -77,6 +77,7 @@
         "template--17824617726267__12b7373c-3fa3-4f63-b532-f6a3e58197c3-1676291575c0dd75a6-2": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/FACT_BLOCKS_10_6b01e5c2-29f8-4272-8954-acb06f5cd7ae.png",
             "link": ""
           }
         },
@@ -257,28 +258,28 @@
           "type": "tab_content",
           "settings": {
             "question": "trunk hotel in one word?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>Achingly Hip.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
           "type": "tab_content",
           "settings": {
             "question": "where to eat?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>The Trunk kitchen serves skewered “Shibuya soul food” at the Trunk Kushi stand, as well as Hojicha tea, coffee from the neighborhood, sake, shochu, and signature cocktails.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
           "type": "tab_content",
           "settings": {
             "question": "your favourite object in the hotel?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>Japanese-made furniture by brands such as Truck and Tokyo Cork Project—the latter using old wine corks to make the statement stools in the lounge.<\/p>"
           }
         },
         "00f40b83-215d-4d78-8010-ac555d453484": {
           "type": "tab_content",
           "settings": {
-            "question": "something most people don't know about tokyo?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "question": "something most people don't know about shibuya?",
+            "text": "<p>Featured in Sofia Coppolas' Lost in Translation, the neighborhood of Shibuya itself is considered the center of Tokyo’s youth culture, with an abundance of traditional Izakaya gastropubs, karaoke venues, arcades, restaurants, boutique stores, manga cafés, and art galleries.<\/p>"
           }
         }
       },

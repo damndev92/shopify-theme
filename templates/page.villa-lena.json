@@ -63,6 +63,7 @@
         "template--17824607928635__985c28cf-d47d-4fb3-809f-7222e7ab75eb-167637755026b4ebd1-0": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/FACT_BLOCKS_10_77578db4-eee5-432e-ba7d-1799f11a8903.png",
             "link": ""
           }
         },
@@ -76,6 +77,7 @@
         "template--17824607928635__985c28cf-d47d-4fb3-809f-7222e7ab75eb-167637755026b4ebd1-2": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/FACT_BLOCKS_10_1c5132ad-ae2e-45b3-9dc1-dbad71cca21b.png",
             "link": ""
           }
         },
@@ -297,7 +299,7 @@
           "type": "tab_content",
           "settings": {
             "question": "SomEthing people don't know about villa lena?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>It's an Artist's Residency<\/p>"
           }
         }
       },

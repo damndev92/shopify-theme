@@ -1,0 +1,145 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/LONEB-Berners-Tavern-Bar-1024x513.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "5 of the Best Bars in London",
+        "title": "",
+        "text": "<p>In February, Maison Flaneur proudly welcomed the famous London <a href=\"https:\/\/www.maisonflaneur.com\/venues\/st-jamess-hotel-club\/\">St James<\/a> hotel and club, as part of its Flaneur family. We thought there was no better time to take you on tour to discover the most beautiful bars in London, for a date, a drink with friends, a cocktail or a glass of champagne. Time to raise a glass.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "2c6fb2e1-872c-42fa-b04d-fe51d0680629": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "The problem with the world is that everyone is a few drinks behind",
+        "page_title": "",
+        "title": "",
+        "text": "<p> Humphrey Bogart<\/p><p><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/bar-americain-at-brasserie-zedel-1.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>1.The Jazziest<\/strong><\/p><p><a href=\"https:\/\/www.rosewoodhotels.com\/en\/london\/dining\/scarfes-bar\">The Scarfes Bar<\/a> is inspired by the atmosphere of a drawing room and the sophistication of a gentleman’s club. It features a roaring fire, a collection of cosy velvet armchairs and shelves filled with over 1,000 antique books hand-picked by a Portobello antique dealer. The walls are adorned by illustrations by famous cartoonist Gerald Scarfe. The bar also hosts live music seven nights a week!<\/p><p><em>The Rosewood hotel, 252 High Holborn, WC1V 7EN<\/em><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Georges-Bar_05-Copy-1024x683.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>2. The Opulent <\/strong><\/p><p>Sitting yards from the platforms of King’s Cross Rail Station, <a href=\"https:\/\/www.thegilbertscott.com\/\">George’s bar<\/a> has been redesigned in the spirit of the “grand cafés of Europe”. Named after the original architect of the building: Sir George Gilbert Scott, its “Glittering gold detailing on the walls, shiny leather banquettes; bell-shaped lampshades and towering indoor plants” has been praised the press. It’s beautiful, elegant and welcoming. Do make sure you book for dinner at Gilbert Scott, the adjacent restaurant, to enjoy celebrity chef Marcus Wareing’s, latest creations. <\/p><p><em>St Pancras Renaissance Hotel, Euston Rd, NW1 2AR<\/em><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "2f71aeee-555e-4284-ba1e-0c7f875da008": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/pasted-image-0-3.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>3. The one for People Watching<\/strong><\/p><p>This palatial space with a magnificent plaster ceiling, chandelier, and walls crowded with pictures is nothing like a tavern. <a href=\"https:\/\/www.bernerstavern.com\/\">Berners Tavern<\/a> is definitely one of the most Instagramable bars in the world, and so is its crowd…<\/p><p><em>The London Edition, 10 Berners Street, W1T 3NP<\/em><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "b244dcbe-cde0-495e-be7d-6659e4fb4cdf": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Jamesbondmartini-1-1019x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>4. The James Bond One<\/strong><\/p><p><a href=\"https:\/\/www.dukeshotel.com\/dukes-bar\/\">Dukes Bar<\/a> is a pilgrimage for James Bond’s fans.<\/p><p>“This is where the martini cocktail became a legend. It’s the bar where Ian Fleming used to drink dry martinis and where he invented the Vesper martini. It’s the last bar in the world without music. You don’t need music there, the vibe is so incredible”. Giuseppe Gallo<\/p><p><em>The Dukes Hotel, 35 St James’s Pl, St. James’s, SW1A 1NY<\/em><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "2c6fb2e1-872c-42fa-b04d-fe51d0680629",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "2f71aeee-555e-4284-ba1e-0c7f875da008",
+    "b244dcbe-cde0-495e-be7d-6659e4fb4cdf",
+    "main",
+    "blog-posts"
+  ]
+}
