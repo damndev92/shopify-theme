@@ -238,7 +238,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/Interior_Designers-Hotels_16b1405d-11b4-4782-bf95-fc7e019e3dc5.png",
         "layout": "left",
         "subheading": "Meet the host - Anke Bodack",
