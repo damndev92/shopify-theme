@@ -27,7 +27,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/visual_vacay_cropped-819x1024.jpg",
         "layout": "right",
         "subheading": "",
@@ -44,7 +44,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/bianca_nardo_cropped.png",
         "layout": "left",
         "subheading": "",
@@ -61,7 +61,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/pas_coe_cropped_instagram_article_list-820x1024.jpg",
         "layout": "right",
         "subheading": "",
@@ -78,7 +78,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/mouse_interiors-819x1024.jpg",
         "layout": "left",
         "subheading": "",
@@ -95,7 +95,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/95561348_327584451539832_2431292597883612655_n-819x1024.jpg",
         "layout": "right",
         "subheading": "",
@@ -112,7 +112,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/charlotte-rey-732x1024.jpg",
         "layout": "left",
         "subheading": "",
@@ -129,7 +129,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/main.edition-819x1024.jpg",
         "layout": "right",
         "subheading": "",
@@ -146,7 +146,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/white_sage_croppped_instagram_list_xanthea-819x1024.jpg",
         "layout": "left",
         "subheading": "",
@@ -163,7 +163,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/hermust_cropped_instagram_article_interior-819x1024.jpg",
         "layout": "right",
         "subheading": "",
@@ -180,7 +180,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/all-the-rest-cropped-820x1024.jpg",
         "layout": "left",
         "subheading": "",
