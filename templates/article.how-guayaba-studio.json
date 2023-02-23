@@ -15,7 +15,7 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "DESIGN HUB",
         "page_title": "How It’s Made: Guayaba Studio",
         "title": "",
         "text": "<p>Cristina Morgan and Alicia Esquinas have many things in common. But their greatest shared passion? Aesthetics. The duo behind <a href=\"https:\/\/www.guayabastudioshop.com\/shop\">Guayaba Studio<\/a> have been enamoured by fashion, design, art and architecture for as long as they can remember, so it was really only a matter of time before they put their heads together to create their very own artistic empire.<\/p><p>Everything – or nearly so – inspires them. Travel, food, culture. You name it, they take inspiration from it. Cristina and Alicia love to soak up the culture of each place they visit and draw ideas from it as they go. They love mixing traditional craftsmanship and styles with a vision of innovation to create something beautiful and truly unique. They may pay heed to trends, but more often than not, they’re creating them, not following them.<\/p>",
@@ -31,10 +31,12 @@
         "image": "shopify:\/\/shop_images\/CGee_Guayaba_0166-683x1024.jpg",
         "layout": "left",
         "subheading": "",
+        "location": false,
         "title": "",
         "text_block": "<p>All of Guayaba Studio’s products are produced with materials local to the production area. Their <a href=\"https:\/\/www.maisonflaneur.com\/product\/sun-plate\/\">ceramics<\/a> are from Morocco and make use of what the land has to offer. Their textiles come from India and are made from fibres native to the country. Even the decorative techniques honour the traditions – they use classic block printing on the textiles produced in India.<\/p><p>Following the traditions and making use of the materials of the area is key for Cristina and Alicia. They want everything to be unique, to have a story and an artisanal process. No product is identical, and that is the magic of what they do.<\/p><p>From placemats to cushions to dishware, every piece that comes out of Guayaba Studio is made by hand in small studios around the world. They have incredibly close relationships with their artisans in India, Morocco, Portugal, Spain and Mexico, so they are really able to guide the process from A to Z.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -46,10 +48,12 @@
         "image": "shopify:\/\/shop_images\/Screenshot-2022-09-27-at-12.44.31.png",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "",
         "text_block": "<p>Globally, the team is certainly multicultural. Each craftsman has his own way of working, his times, customs and traditions but the common denominator is the love they put into each of the pieces they create. No piece is the same, and each one of them reflects a part of the craftsman’s daily life. Cristina and Alicia like to refer to it as concept co-creation; they are guided by the craftsmen’s techniques and traditions, and they integrate that with their own stellar design vision.<\/p><p>Discovering new places, artisans and traditions is the greatest joy for the duo when they’re dreaming up new pieces for Guayaba Studio. They immerse themselves in these cultures to try to better understand the process behind each piece or technique. And while it’s definitely the thing they enjoy most, it can also be the most challenging. Puzzling out just how something is made can be tricky, as can figuring out how to adapt it to their vision. But the pair know when to accept that something just can’t be produced and cut their losses.<\/p><p>As they look to the future of Guayaba Studio, Alicia and Cristina have big dreams. They want to explore South America to discover new treasures. They want to continue producing beautiful things. And they want to become the loudspeaker for as many artisans as possible, to help share their craft and their process with people across the globe.<\/p>",
         "page_description": false,
         "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
