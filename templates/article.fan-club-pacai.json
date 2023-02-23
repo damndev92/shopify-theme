@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/hotel-pacai-public-3-1024x625.jpg",
+        "image": "shopify:\/\/shop_images\/pacai_1.webp",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "Travel Guide",
-        "page_title": "Flân’ Club : Hotel Pacai, Vilnius",
+        "width": "large",
+        "subheading": "DESTINATIONS",
+        "page_title": "Hotel Pacai, Vilnius",
         "title": "",
         "text": "<p>Lithuanian architect Saulius Mikštas and design studio <a href=\"https:\/\/www.instagram.com\/yes.design.architecture\/\" target=\"_blank\">YES.design.architecture <\/a>have transformed this 17th Century baroque mansion in Vilnius, famous for being the most magnificent mansion in the Grand Duchy of Lithuania, into a luxurious modern hotel. Discover the Hotel Pacai today.<\/p>",
         "button_link": "",
