@@ -140,7 +140,7 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Shop",
+        "subheading": "",
         "title": "Shop the look",
         "image": "shopify:\/\/shop_images\/47_2d584873-0427-45e1-9da4-686674347694.png",
         "image__position": "image--left",
@@ -225,7 +225,7 @@
         "image": "shopify:\/\/shop_images\/Jnane_c289a34f-26bc-4108-b07b-2814e9d025dd.png",
         "subheading": "",
         "title": "Take a tour",
-        "text": "Here's your chance to make a great first impression",
+        "text": "",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -303,7 +303,7 @@
         "width": "medium",
         "subheading": "The rooms",
         "page_title": "",
-        "title": "Take A Peek Inside",
+        "title": "Take a peek inside",
         "text": "<p>Attracting a Boho crowd of artists and writers, Jnane Tamsna is designed in a luxe ethnic style and rooms have elegant garden and roof terrace access. The Suites and Villas come with fireplaces, verandas and modern Moroccan-style decor.<\/p>",
         "button_link": "",
         "button_label": ""
@@ -351,6 +351,17 @@
         "title": ""
       }
     },
+    "66e98465-9adc-4ceb-b3ba-b1a08558739c": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Check availability",
+        "url": "https:\/\/www.jnanetamsna.com\/",
+        "link": "",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
+      }
+    },
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b": {
       "type": "blog--blog-posts",
       "settings": {
@@ -362,32 +373,6 @@
         "show_dates": true,
         "show_blog_images": true,
         "imageSize": "portrait"
-      }
-    },
-    "f5f7b256-b511-4d25-9ec5-50568033693b": {
-      "type": "collection--collection-list",
-      "blocks": {
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-0",
-        "template--17769028649275__f5f7b256-b511-4d25-9ec5-50568033693b-167510084411e8511b-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
       }
     }
   },
@@ -404,7 +389,7 @@
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
-    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
-    "f5f7b256-b511-4d25-9ec5-50568033693b"
+    "66e98465-9adc-4ceb-b3ba-b1a08558739c",
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
   ]
 }
