@@ -143,7 +143,7 @@
       h3.className = "type-subheading type-subheading--1";
 
       const link = document.createElement("a");
-      link.href = 'collections/' + selectedCollectionNode.handle;
+      link.href = "{{ shop.url }}collections/" + selectedCollectionNode.handle;
       link.textContent = selectedCollectionNode.title;
 
       h3.appendChild(link);
