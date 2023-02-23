@@ -87,6 +87,23 @@
         "button_label": ""
       }
     },
+    "b244dcbe-cde0-495e-be7d-6659e4fb4cdf": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Jamesbondmartini-1-1019x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>4. The James Bond One<\/strong><\/p><p><a href=\"https:\/\/www.dukeshotel.com\/dukes-bar\/\">Dukes Bar<\/a> is a pilgrimage for James Bond’s fans.<\/p><p>“This is where the martini cocktail became a legend. It’s the bar where Ian Fleming used to drink dry martinis and where he invented the Vesper martini. It’s the last bar in the world without music. You don’t need music there, the vibe is so incredible”. Giuseppe Gallo<\/p><p><em>The Dukes Hotel, 35 St James’s Pl, St. James’s, SW1A 1NY<\/em><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -121,6 +138,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "2f71aeee-555e-4284-ba1e-0c7f875da008",
+    "b244dcbe-cde0-495e-be7d-6659e4fb4cdf",
     "main",
     "blog-posts"
   ]
