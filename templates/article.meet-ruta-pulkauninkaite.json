@@ -27,7 +27,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/g-01-hotel-pacai-683x1024.jpg",
         "layout": "right",
         "subheading": "",
