@@ -59,6 +59,38 @@
         "button_label": ""
       }
     },
+    "3cbd10de-4919-44f8-8acb-234ef92f7e92": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18099436355899__3cbd10de-4919-44f8-8acb-234ef92f7e92-1677166633fbce3642-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/christies_lates_140119-1100-1.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18099436355899__3cbd10de-4919-44f8-8acb-234ef92f7e92-1677166633fbce3642-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/christies_lates_140119-1096-1.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18099436355899__3cbd10de-4919-44f8-8acb-234ef92f7e92-1677166633fbce3642-2",
+        "template--18099436355899__3cbd10de-4919-44f8-8acb-234ef92f7e92-1677166633fbce3642-0"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -79,6 +111,7 @@
     "main",
     "585e4e81-23b4-4382-9abf-0c176606509c",
     "2644cbc6-499a-4cfc-825a-ff82cfd55bd7",
+    "3cbd10de-4919-44f8-8acb-234ef92f7e92",
     "blog-posts"
   ]
 }
