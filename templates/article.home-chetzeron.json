@@ -57,9 +57,9 @@
       "type": "image--image",
       "settings": {
         "image": "shopify:\/\/shop_images\/Untitled_design_1bcecb1d-807c-4ad0-8db5-f83c35bc1f74.png",
-        "parallax": true,
+        "parallax": false,
         "alignment": "top",
-        "hero_size": "medium",
+        "hero_size": "small",
         "text-over-image-width": "fixed"
       }
     },
@@ -77,7 +77,8 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/12_dc012b66-5187-43a2-a9f1-634286da635e.png",
         "layout": "right",
         "subheading": "",
         "location": false,
