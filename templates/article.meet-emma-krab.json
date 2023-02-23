@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Article-header-image-5-1024x341.png",
+        "image": "shopify:\/\/shop_images\/H9B86151-medium.webp",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Meet Emma Krab-Johansen, JORE Copenhagen",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet Emma Krab-Johansen, JORE, Copenhagen",
         "title": "",
         "text": "<p>Meet Emma Krab-Johansen, Head of Marketing and PR at <a href=\"https:\/\/www.maisonflaneur.com\/brand\/jore-copenhagen\/products\/\">Jore Copenhagen<\/a>. We virtually sat down with Emma to discuss all things interior, including her favourite Jore pieces, and her 2023 interior design predictions.<\/p>",
         "button_link": "",
@@ -91,6 +91,40 @@
         "button_label": ""
       }
     },
+    "70a98017-f544-434d-824e-69f62b503042": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17949603692859__70a98017-f544-434d-824e-69f62b503042-1677143470fbd02c0a-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17949603692859__70a98017-f544-434d-824e-69f62b503042-1677143470fbd02c0a-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17949603692859__70a98017-f544-434d-824e-69f62b503042-1677143470fbd02c0a-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17949603692859__70a98017-f544-434d-824e-69f62b503042-1677143470fbd02c0a-0",
+        "template--17949603692859__70a98017-f544-434d-824e-69f62b503042-1677143470fbd02c0a-1",
+        "template--17949603692859__70a98017-f544-434d-824e-69f62b503042-1677143470fbd02c0a-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHOP",
+        "title": "JORE'S COLLECTION",
+        "collection": "jore-copenhagen",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -102,48 +136,6 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
-      }
-    },
-    "50ec203c-007d-4392-ad9f-061f3373c456": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17949603692859__50ec203c-007d-4392-ad9f-061f3373c456-1676043402aabe5a49-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled-design-14.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Red Bistro Zigzag Plate<\/p><p>From €24<\/p>"
-          }
-        },
-        "template--17949603692859__50ec203c-007d-4392-ad9f-061f3373c456-1676043402aabe5a49-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled-design-2.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Blue Hand-Embroidered Fork & Knife Placemat<\/p><p>€16<\/p>"
-          }
-        },
-        "template--17949603692859__50ec203c-007d-4392-ad9f-061f3373c456-1676043402aabe5a49-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/JoreCopenhagen_016_540x_64a86cf9-3f6b-416a-83ef-fb386fe6501e.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Pinot Wine Glass Pink, Set of 6<\/p><p>€93<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17949603692859__50ec203c-007d-4392-ad9f-061f3373c456-1676043402aabe5a49-0",
-        "template--17949603692859__50ec203c-007d-4392-ad9f-061f3373c456-1676043402aabe5a49-1",
-        "template--17949603692859__50ec203c-007d-4392-ad9f-061f3373c456-1676043402aabe5a49-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "Shop Jore Copenhagen"
       }
     },
     "blog-posts": {
@@ -167,8 +159,8 @@
     "fc7cdb05-5ec9-4237-9dcd-2cc04c73dbd8",
     "af6fe36a-2432-4a41-97c5-fcfb57515c8e",
     "2f7ae4ee-3f26-4334-be73-ee6614b6fcbd",
+    "70a98017-f544-434d-824e-69f62b503042",
     "main",
-    "50ec203c-007d-4392-ad9f-061f3373c456",
     "blog-posts"
   ]
 }
