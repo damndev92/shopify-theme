@@ -53,23 +53,6 @@
         "button_label": ""
       }
     },
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
-        "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
-        "hotel_page_url": false,
-        "button_label": "Book Now"
-      }
-    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -81,6 +64,28 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
+      }
+    },
+    "85c6be28-7137-4885-9b41-bc53ce20eb67": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18099436355899__85c6be28-7137-4885-9b41-bc53ce20eb67-167716597515e1e20f-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/James_Tamara_Lohan_Smith_Hotels-8-1024x684.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>The Coveteur<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18099436355899__85c6be28-7137-4885-9b41-bc53ce20eb67-167716597515e1e20f-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
       }
     },
     "blog-posts": {
@@ -102,8 +107,8 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "28757f82-f028-4746-a5d0-c0fb57dddbe7",
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
+    "85c6be28-7137-4885-9b41-bc53ce20eb67",
     "blog-posts"
   ]
 }
