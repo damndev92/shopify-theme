@@ -27,7 +27,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "large",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/2-3-1024x1024_7794787d-157b-41d8-b6e1-6c0539e6a502.png",
         "layout": "left",
         "subheading": "",
@@ -44,7 +44,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "large",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/article-sensible-1024x1024.png",
         "layout": "right",
         "subheading": "",
