@@ -28,8 +28,8 @@
         "width": "medium",
         "subheading": "Santorini, Greece",
         "page_title": "",
-        "title": "Vora",
-        "text": "<p><br\/>Perched on the edge of the caldera in Santorini, Vora is a handcrafted boutique hotel of three private villas carved into caves, cliffs and suspended high above the sea.Inspired by the volcanic environment and boasting minimalistic Cycladic design, custom-made furniture and a soothing palette of beiges and greys that are augmented by dark brown wood, Vòra truly is heaven on earth.The private plunge pool of each villa opens up to monumental views of the volcano and the Aegean sea. <\/p>",
+        "title": "Vòra",
+        "text": "<p><br\/>Perched on the edge of the caldera in Santorini, Vòra is a handcrafted boutique hotel of three private villas carved into caves, cliffs and suspended high above the sea.Inspired by the volcanic environment and boasting minimalistic Cycladic design, custom-made furniture and a soothing palette of beiges and greys that are augmented by dark brown wood, Vòra truly is heaven on earth.The private plunge pool of each villa opens up to monumental views of the volcano and the Aegean sea. <\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -301,13 +301,13 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/Interior_Designers_Owners-Hotels_25197ffc-98c9-4900-9997-5aae0334d27d.png",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/vora_44588041-3f23-48f2-884f-c4031445ce62.png",
         "layout": "left",
-        "subheading": "Meet the Host",
+        "subheading": "Meet the Host - Yannis Bellonias",
         "location": false,
-        "title": "Yannis Bellonias, Hotelier, Vora, Santorini",
-        "text_block": "<p><strong>“I want guests to know the Santorini of my parents, the still-secret locations, the smells, and food I grew up with.”<\/strong><\/p>",
+        "title": "“I want guests to know the Santorini of my parents, the still-secret locations, the smells, and food I grew up with.”",
+        "text_block": "",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -320,14 +320,14 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
           "type": "tab_content",
           "settings": {
-            "question": "Describe Vòra Santorini?",
+            "question": "Describe Vòra",
             "text": "<p>Inspired by the volcanic environment and boasting minimalistic Cycladic design, custom-made furniture and a soothing palette of beiges and greys that are augmented by dark brown wood, Vora truly is heaven on earth.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
           "type": "tab_content",
           "settings": {
-            "question": "Favourite spot at Vòra Santorini?",
+            "question": "Favourite spot at Vòra?",
             "text": "<p>All the verandas: Unique and uninterrupted views of the cliffs of the caldera, the volcano and the famous sunsets. They are magical places with so much energy. <\/p>"
           }
         },
@@ -367,7 +367,7 @@
         "subheading": "The rooms",
         "page_title": "",
         "title": "Take A Peek Inside",
-        "text": "<p>The three private villas that make-up Vora Santorini are carved into the face of a Santorini cliff and are characterised by minimalistic Cycladic design, private plunge pools, and stunning sunset views. The first, at the top of the site, is a renovated authentic cave house, typical of the local vernacular. Entering the house from the cave opening the first space is light-filled with spectacular views of what remains of the original crater of Santorini’s volcano. The second space, further into the cave, is cooler and darker offering respite from the heat of the summer outside. The third space, pushed far back into the rock of the mountain is serenely cool and tranquil, a total retreat.<\/p>",
+        "text": "<p>The three private villas that make-up Vòra are carved into the face of a Santorini cliff and are characterised by minimalistic Cycladic design, private plunge pools, and stunning sunset views. The first, at the top of the site, is a renovated authentic cave house, typical of the local vernacular. Entering the house from the cave opening the first space is light-filled with spectacular views of what remains of the original crater of Santorini’s volcano. The second space, further into the cave, is cooler and darker offering respite from the heat of the summer outside. The third space, pushed far back into the rock of the mountain is serenely cool and tranquil, a total retreat.<\/p>",
         "button_link": "",
         "button_label": ""
       }
