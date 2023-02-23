@@ -197,12 +197,6 @@
         "title": "What you need to know",
         "faq_icon": "caret"
       }
-    },
-    "e28e0a61-d6b0-427e-855a-c3187b4aa472": {
-      "type": "advanced-layout--custom-liquid",
-      "settings": {
-        "custom_liquid": "<script type=\"text\/javascript\">\nvar _learnq = _learnq || [];\nfunction addedToCart() {\n  fetch(`${window.location.origin}\/cart.js`)\n  .then(res => res.clone().json().then(data => {\n    var cart = {\n      total_price: data.total_price\/100,\n      $value: data.total_price\/100,\n      total_discount: data.total_discount,\n      original_total_price: data.original_total_price\/100,\n      items: data.items\n    }\n    if (item !== 'undefined') {\n      cart = Object.assign(cart, item)\n    }\n    _learnq.push(['track', 'Added to Cart', cart])\n  }))\n} \n(function (ns, fetch) {\n  ns.fetch = function() {\n    const response = fetch.apply(this, arguments);\n    response.then(res => {\n      if (`${window.location.origin}\/cart\/add.js`\n      \t.includes(res.url)) {\n        \taddedToCart()\n      }\n    });\n    return response\n  }\n}(window, window.fetch))\n$(document).ajaxComplete(function(event, request, settings){\n  if(settings.url == \"\/cart\/add.js\"){\n      addedToCart()\n  }\n})<\/script>"
-      }
     }
   },
   "order": [
@@ -210,7 +204,6 @@
     "product-recommendations",
     "621e8d40-9e35-4b2c-a9f2-c2b567b847ef",
     "c4fec491-65cd-4b6b-938b-92e930763c22",
-    "65211727-6a2a-4219-a8f9-1f8ac9a1ba73",
-    "e28e0a61-d6b0-427e-855a-c3187b4aa472"
+    "65211727-6a2a-4219-a8f9-1f8ac9a1ba73"
   ]
 }
