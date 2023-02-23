@@ -111,10 +111,10 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/VILLA_LENA_SHOP_THE_LOOK.jpg",
             "image__position": "image--left",
-            "product": "",
-            "product-2": "",
-            "product-3": "",
-            "product-4": ""
+            "product": "1784-collection-wooden-rocking-chair",
+            "product-2": "alfonso-vase",
+            "product-3": "alfonso-fruit-bowl-6",
+            "product-4": "tea-bowl"
           }
         },
         "49a4bb7c-364a-4278-920a-6f42225f9314": {
@@ -368,7 +368,7 @@
             "image": "shopify:\/\/shop_images\/Villa_Lena_Casetta.png",
             "link": "https:\/\/www.ericsoft.biz\/BookingEngine\/Book?idh=8015F6D4EDD3C10C&lang=en&beta=true",
             "title": "CASETTA BELLA VILLA",
-            "description": "<p>80 sqm, 3 Double Bedrooms<\/p><p>Casetta Bella is a self-contained and secluded three bedroom house with a pool shared with the neighbouring Maison Stento. The house includes a large open-plan living space, outdoor terrace, two double bedrooms and one twin, a large family bathroom with a bath and shower, a kitchen with facilities including fridge, gas hob and electric oven. The property is a 20 minutes walk walk from the San Michele restaurant and pool so car rental is recommended.<\/p>"
+            "description": "<p>80 sqm, 3 Double Bedrooms<\/p><p>Casetta Bella is a self-contained and secluded three bedroom house with a pool shared with the neighbouring Maison Stento. The house includes a large open-plan living space, outdoor terrace, two double bedrooms and one twin, a large family bathroom with a bath and shower, a kitchen with facilities including fridge, gas hob and electric oven.<\/p>"
           }
         }
       },
