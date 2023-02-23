@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "c937a482-f46c-4a68-8c00-8c9b51e8a7d0": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Schermata-2021-05-12-alle-15.46.34.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>From 1995 to 1996 Phillip Starcks designed three hotels for Ian Schragger across America. The Delano in South Beach Miami, the Mondrian on Sunset boulevard in Western Hollywood and the Hudson hotel in New york. <\/p><p>In this decade of excess the concepts started to grow roots worldwide and the boutique hotels also started to proliferate around Europe. From now on the style seekers were looking for these intimate yet exciting new hotel experiences. Fun and indulgence were the governing rules for these new interiors. The bars were glowing, the staff dressed with cool and understated designers, the public spaces filled with intimate spaces, etc. <\/p><p>The 2000s mark the end of the Boutique hotel as it was initially conceived. On one hand the original hotels are – ironically – re-designed and on the other their popularity attracted the large corporate chains. However, the hospitality business was changed (for the best and the worst). <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "b67ffdb6-d12c-4a59-8a22-0ea7737188d0",
+    "c937a482-f46c-4a68-8c00-8c9b51e8a7d0",
     "main",
     "blog-posts"
   ]
