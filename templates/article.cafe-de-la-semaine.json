@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/LS04-1024x456.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_0041-scaled.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,7 +14,7 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "Destinations",
         "page_title": "You’ve been served: Café de la Semaine, Pigalle, Paris",
         "title": "",
@@ -43,7 +43,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>What is Café de la Semaine? <br\/><br\/><\/strong><\/p><p>In collaboration with the young British artist Luke Edward Hall, the “Café de la Semaine” not only propose a vast range of products from past tastemakers featured on their platform such as Alex Eagle, Desmond and Dempsey, Olivia von Halle, Wool, and the Gang and many more, but also their own unique collection. Ceramics,  clothing items, matches, Christmas cards, and posters have been specially designed for the occasion.  If you haven’t sent your Christmas list yet, it’s time to discover Luke Edward Hall’s playful illustrations and Semaine’s undeniably stylish gift guide. You can discover the products at the “Café de la Semaine” at the hotel Le Pigalle, on cafedelasemaine.com and also on Maison Flâneur from 1 December 2018.<\/p><p>Seems like Christmas came early.<\/p><p><br\/><\/p><p><a href=\"https:\/\/www.semaine.com\/stories\/cafe-de-la-semaine\">To read more about the girls behind Semaine, click here. <\/a><\/p>",
+        "text_block": "<p><strong>What is Café de la Semaine? <br\/><br\/><\/strong><\/p><p>In collaboration with the young British artist Luke Edward Hall, the “Café de la Semaine” not only propose a vast range of products from past tastemakers featured on their platform such as Alex Eagle, Desmond and Dempsey, Olivia von Halle, Wool, and the Gang and many more, but also their own unique collection. Ceramics,  clothing items, matches, Christmas cards, and posters have been specially designed for the occasion.  If you haven’t sent your Christmas list yet, it’s time to discover Luke Edward Hall’s playful illustrations and Semaine’s undeniably stylish gift guide. You can discover the products at the “Café de la Semaine” at the hotel Le Pigalle, on cafedelasemaine.com and also on Maison Flâneur from 1 December 2018. Seems like Christmas came early.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -92,16 +92,6 @@
         "title": ""
       }
     },
-    "0fbaa82a-d184-4e4b-9127-2cf2a4e78ef2": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_0510-1024x683.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
-      }
-    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -135,7 +125,6 @@
     "c8a1fece-efad-4c6f-a5f6-d821230983f5",
     "703e0c9e-1a0a-4fc7-8d5e-5edebf29f792",
     "5e1432a0-16a1-4d56-bc12-e41e36b0d6c3",
-    "0fbaa82a-d184-4e4b-9127-2cf2a4e78ef2",
     "main",
     "blog-posts"
   ]
