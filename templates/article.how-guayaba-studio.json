@@ -46,7 +46,7 @@
         "colors": "white",
         "image-width": "large",
         "image": "shopify:\/\/shop_images\/Screenshot-2022-09-27-at-12.44.31.png",
-        "layout": "right",
+        "layout": "left",
         "subheading": "",
         "location": false,
         "title": "",
@@ -99,7 +99,7 @@
         "subheading": "Guayaba Studio",
         "title": "Shop the collection",
         "collection": "guayaba-studio",
-        "grid": 4,
+        "grid": 3,
         "rows": 1,
         "show_view_all": false
       }

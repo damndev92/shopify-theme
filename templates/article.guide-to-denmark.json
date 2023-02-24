@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "aee7d3f3-c198-4448-9038-6ac2eaa000b2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/cophenaghen-newsletter-1-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><em><strong>Where to drink<\/strong><\/em><em>: <\/em>We love <a href=\"https:\/\/cafevictor.dk\/\">Café Victor <\/a>for a sunny afternoon Brandy Alexander or <a href=\"http:\/\/www.palaebar.dk\/\">Palae Bar <\/a>for a couple of Tuborgs with friends.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "aee7d3f3-c198-4448-9038-6ac2eaa000b2",
     "main",
     "blog-posts"
   ]
