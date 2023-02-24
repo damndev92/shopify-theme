@@ -14,7 +14,7 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "The Flâneurs",
         "page_title": "Meet Nadira Lalji, Inhabit Hotel, London",
         "title": "",
@@ -125,6 +125,40 @@
         "button_label": ""
       }
     },
+    "ef983cb6-cf47-4c41-8f0b-59cfa6783d18": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18004491108667__ef983cb6-cf47-4c41-8f0b-59cfa6783d18-1677259723e48ee9fb-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18004491108667__ef983cb6-cf47-4c41-8f0b-59cfa6783d18-1677259723e48ee9fb-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18004491108667__ef983cb6-cf47-4c41-8f0b-59cfa6783d18-1677259723e48ee9fb-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18004491108667__ef983cb6-cf47-4c41-8f0b-59cfa6783d18-1677259723e48ee9fb-0",
+        "template--18004491108667__ef983cb6-cf47-4c41-8f0b-59cfa6783d18-1677259723e48ee9fb-1",
+        "template--18004491108667__ef983cb6-cf47-4c41-8f0b-59cfa6783d18-1677259723e48ee9fb-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHOP",
+        "title": "INHABIT'S COLLECTION",
+        "collection": "inhabit",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -136,48 +170,6 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
-      }
-    },
-    "a648a93b-28ea-46a1-b331-204304ead4a9": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--18004491108667__a648a93b-28ea-46a1-b331-204304ead4a9-16764636599915d700-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Pause-Coffee-Table-1.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Pause Coffee Table<\/p><p><\/p>"
-          }
-        },
-        "template--18004491108667__a648a93b-28ea-46a1-b331-204304ead4a9-16764636599915d700-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Kuki_Salad_Bowl_Profile_576x576_ef871031-75d6-43cc-85b1-f1531a71121c.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Kuki Wooden Salad Bowl<\/p><p><\/p>"
-          }
-        },
-        "template--18004491108667__a648a93b-28ea-46a1-b331-204304ead4a9-16764636599915d700-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Leather-Cushions-scaled-e1665394637426-831x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Leather Cushion<\/p><p><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18004491108667__a648a93b-28ea-46a1-b331-204304ead4a9-16764636599915d700-0",
-        "template--18004491108667__a648a93b-28ea-46a1-b331-204304ead4a9-16764636599915d700-1",
-        "template--18004491108667__a648a93b-28ea-46a1-b331-204304ead4a9-16764636599915d700-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
       }
     },
     "blog-posts": {
@@ -203,8 +195,8 @@
     "948d99fa-6077-44d9-91d1-8e663910b900",
     "4496600a-66e0-4c07-a4ea-7cb9d3d63a75",
     "94961644-895d-489e-9d27-264a3e289dde",
+    "ef983cb6-cf47-4c41-8f0b-59cfa6783d18",
     "main",
-    "a648a93b-28ea-46a1-b331-204304ead4a9",
     "blog-posts"
   ]
 }
