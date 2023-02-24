@@ -3,8 +3,8 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/pacai_1.webp",
-        "parallax": true,
+        "image": "shopify:\/\/shop_images\/0ed2827d9ea62af35e88e5614c13041a.jpg",
+        "parallax": false,
         "alignment": "center",
         "hero_size": "medium",
         "text-over-image-width": "full-width"
@@ -28,7 +28,7 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/g-29-hotel-pacai_1.jpg",
+        "image": "shopify:\/\/shop_images\/Hotel-PACAI-Palace-Vilnius-Litauen.jpg",
         "layout": "right",
         "subheading": "",
         "location": false,
@@ -38,16 +38,6 @@
         "button_link": "",
         "hotel_page_url": false,
         "button_label": ""
-      }
-    },
-    "9700143a-e7fc-4ee8-a1eb-811366c1adff": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/https___hypebeast.com_image_2018_08_hotel-pacai-lithuania-6-1024x683.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "fixed"
       }
     },
     "main": {
@@ -93,26 +83,6 @@
         "colors": "white",
         "subheading": "",
         "title": ""
-      }
-    },
-    "8a472bfe-f624-45cb-8ae8-b7288ba482dd": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/https___hypebeast.com_image_2018_08_hotel-pacai-lithuania-4-1024x683.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "fixed"
-      }
-    },
-    "353d78d9-3311-4905-82a3-a65e40f3fc6a": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/https___hypebeast.com_image_2018_08_hotel-pacai-lithuania-5-1-1024x683.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "fixed"
       }
     },
     "7f8dc4be-da7f-4247-835c-10ed3fd2d7b3": {
@@ -167,11 +137,8 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
-    "9700143a-e7fc-4ee8-a1eb-811366c1adff",
     "main",
     "ae0ec657-a4e3-4d59-a7f3-ed8f0bf7f51f",
-    "8a472bfe-f624-45cb-8ae8-b7288ba482dd",
-    "353d78d9-3311-4905-82a3-a65e40f3fc6a",
     "7f8dc4be-da7f-4247-835c-10ed3fd2d7b3",
     "blog-posts"
   ]
