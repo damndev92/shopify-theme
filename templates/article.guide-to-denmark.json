@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
+        "image": "shopify:\/\/shop_images\/2-8-1024x1024.png",
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><em><strong>Where to eat<\/strong><\/em><em>:<\/em>Ooof, Copenhagen. A serious foodie’s paradise. We don’t even know where to begin! <a href=\"https:\/\/www.baest.dk\/\">Baest <\/a>is a must for pizza, while <a href=\"https:\/\/restaurantsanktannae.dk\/en\/\">Restaurant Sankt Annae <\/a>is ideal for a traditional Danish lunch. Don’t miss the burgers at <a href=\"https:\/\/www.gasolinegrill.com\/\">Gasoline Grill<\/a>, the buns at <a href=\"https:\/\/gloobles.com\/destinations\/europe\/denmark\/copenhagen\/hart-bageri\">Hart Bageri <\/a>or the bites at <a href=\"https:\/\/www.geranium.dk\/en\/\">Geranium<\/a>. And, on your way out, snag a classic Danish hotdog at Steff’s Place in the aiport.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
