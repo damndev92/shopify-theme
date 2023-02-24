@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "343473fc-66f6-457b-9fd7-fd6b0038df74": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/4-2-1024x1024_3cbcdc90-b867-43f2-a557-c07da07f4c46.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><em><strong>Where to drink: <\/strong><\/em>Like any country this far north, Iceland knows how to drink. When the sun sets as early as it does here in winter, there’s often little else to do. For a chilled drink (or five), pop into <a href=\"https:\/\/www.instagram.com\/kaffibarinn\/?hl=en\">Kaffinbarrin<\/a>. This cosy tavern has a fantastic selection of local beers and DJs spinning tracks you can’t help but dance to. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "343473fc-66f6-457b-9fd7-fd6b0038df74",
     "main",
     "blog-posts"
   ]
