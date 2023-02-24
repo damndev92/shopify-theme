@@ -31,7 +31,7 @@
           "type": "navigation_link",
           "settings": {
             "link_url": "https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/destinations",
-            "link_image": "shopify:\/\/shop_images\/Design_Inspo_3.png",
+            "link_image": "shopify:\/\/shop_images\/Design_Inspo_12.png",
             "link_text": "Destinations"
           }
         },
@@ -39,7 +39,7 @@
           "type": "navigation_link",
           "settings": {
             "link_url": "https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/edits",
-            "link_image": "shopify:\/\/shop_images\/Design_Inspo_4.png",
+            "link_image": "shopify:\/\/shop_images\/Design_Inspo_11.png",
             "link_text": "Edits"
           }
         },
