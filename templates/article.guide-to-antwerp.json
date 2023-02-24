@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
+        "image": "shopify:\/\/shop_images\/8-1024x1024_7aa89faf-73fc-434d-952b-5ae8414bcfe2.png",
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p>If you can’t get enough of <a href=\"http:\/\/www.septime-charonne.fr\/\">Septime<\/a> whenever you’re in the 11th, we promise you’ll find <a href=\"https:\/\/lejohn.be\/\">Le John<\/a> just as dreamy. Never leave Paris without a baguette in tow from <a href=\"http:\/\/dupainetdesidees.com\/\">Du Pain et Des Idees?<\/a> Give <a href=\"https:\/\/www.domestic-bakkerij.be\/\">Domestic Bakkerij<\/a> a go. The pastries are nothing to sneeze at; trust us.<\/p><p><\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
