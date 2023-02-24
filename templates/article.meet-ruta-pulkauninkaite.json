@@ -14,7 +14,7 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "The Flâneurs",
         "page_title": "Meet Rūta Pulkauninkaitė-Macikė, Hotel Pacai, Vilnius",
         "title": "",
@@ -27,7 +27,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "large",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/g-01-hotel-pacai-683x1024.jpg",
         "layout": "right",
         "subheading": "",
@@ -44,7 +44,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "large",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/g-13-hotel-pacai-683x1024.jpg",
         "layout": "left",
         "subheading": "",
@@ -61,7 +61,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "large",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/g-31-hotel-pacai-872x1024.jpg",
         "layout": "right",
         "subheading": "",
@@ -78,7 +78,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "large",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/g-27-hotel-pacai-658x1024.jpg",
         "layout": "left",
         "subheading": "",
@@ -123,6 +123,40 @@
         "button_link": "",
         "hotel_page_url": false,
         "button_label": ""
+      }
+    },
+    "56106af7-9b6b-4f45-82b5-1427e81e3d1c": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18006125871419__56106af7-9b6b-4f45-82b5-1427e81e3d1c-1677259723e48ee9fb-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18006125871419__56106af7-9b6b-4f45-82b5-1427e81e3d1c-1677259723e48ee9fb-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18006125871419__56106af7-9b6b-4f45-82b5-1427e81e3d1c-1677259723e48ee9fb-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18006125871419__56106af7-9b6b-4f45-82b5-1427e81e3d1c-1677259723e48ee9fb-0",
+        "template--18006125871419__56106af7-9b6b-4f45-82b5-1427e81e3d1c-1677259723e48ee9fb-1",
+        "template--18006125871419__56106af7-9b6b-4f45-82b5-1427e81e3d1c-1677259723e48ee9fb-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHOP",
+        "title": "HOTEL PACAI'S COLLECTION",
+        "collection": "hotel-pacai",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -174,6 +208,7 @@
     "4333c709-5a30-487e-9e02-502f0cd584ac",
     "2d145c21-5509-4efd-bd0f-586b2e2f29cc",
     "08e2c895-4e43-4813-933d-a4ac2d4895a4",
+    "56106af7-9b6b-4f45-82b5-1427e81e3d1c",
     "main",
     "e06c4c16-c190-4717-a471-17b3eb964f21",
     "blog-posts"
