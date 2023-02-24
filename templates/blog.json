@@ -9,7 +9,7 @@
     "1272ddd9-0b1a-4d69-a6cd-885e6ad0c43b": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/FLANEUR_s_MAGAZINE_2.jpg",
+        "image": "shopify:\/\/shop_images\/FLANEUR_s_MAGAZINE_4.jpg",
         "parallax": false,
         "alignment": "center",
         "hero_size": "medium",
@@ -19,14 +19,6 @@
     "86c13f5c-2fc8-449d-8260-f997667eac00": {
       "type": "visual-navigation-banner",
       "blocks": {
-        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-0": {
-          "type": "navigation_link",
-          "settings": {
-            "link_url": "https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/design-inspo",
-            "link_image": "shopify:\/\/shop_images\/Design_Inspo_13.png",
-            "link_text": "Inspirations"
-          }
-        },
         "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-1": {
           "type": "navigation_link",
           "settings": {
@@ -43,6 +35,14 @@
             "link_text": "Edits"
           }
         },
+        "3a996d82-d511-4e24-9c19-363a59ee2c03": {
+          "type": "navigation_link",
+          "settings": {
+            "link_url": "https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/the-flaneurs",
+            "link_image": "shopify:\/\/shop_images\/Design_Inspo_9.png",
+            "link_text": "The Flâneurs"
+          }
+        },
         "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-3": {
           "type": "navigation_link",
           "settings": {
@@ -51,12 +51,12 @@
             "link_text": "How to"
           }
         },
-        "3a996d82-d511-4e24-9c19-363a59ee2c03": {
+        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-0": {
           "type": "navigation_link",
           "settings": {
-            "link_url": "https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/the-flaneurs",
-            "link_image": "shopify:\/\/shop_images\/Design_Inspo_9.png",
-            "link_text": "The Flâneurs"
+            "link_url": "https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/design-inspo",
+            "link_image": "shopify:\/\/shop_images\/Design_Inspo_13.png",
+            "link_text": "Inspirations"
           }
         },
         "90ff0fd9-454e-4f22-8038-954f7d6e684b": {
@@ -69,11 +69,11 @@
         }
       },
       "block_order": [
-        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-0",
         "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-1",
         "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-2",
-        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-3",
         "3a996d82-d511-4e24-9c19-363a59ee2c03",
+        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-3",
+        "template--17456699507003__86c13f5c-2fc8-449d-8260-f997667eac00-1673794776d2483e51-0",
         "90ff0fd9-454e-4f22-8038-954f7d6e684b"
       ],
       "settings": {
