@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "5c906c6c-e178-4742-8700-d2e1be79e9d1": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/10-1024x1024_a5880013-6f14-43e9-92ea-b521f16ec669.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>And, last but not least, we can never resist a little culture. While the Atelier Brancusi is all well and good, we simply adore the <a href=\"https:\/\/rubenshuis.be\/nl\">Rubenshuis<\/a>. And while it may not be the Louvre, the <a href=\"https:\/\/www.museumplantinmoretus.be\/nl\">Plantin-Moretus Museum<\/a> will have you thinking ‘Mona Lisa, who?’<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "cce337a4-d949-49f1-9b64-b83298a02463",
+    "5c906c6c-e178-4742-8700-d2e1be79e9d1",
     "main",
     "blog-posts"
   ]
