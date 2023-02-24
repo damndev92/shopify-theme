@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
+        "image": "shopify:\/\/shop_images\/2-1-1024x1024_dd03dcf8-40f5-44cd-a73f-5531c354383c.png",
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><em><strong>Where to eat:<\/strong><\/em>Though it’s not the first Nordic country that comes to mind when you think of gastronomy, Iceland has got café culture down pat. We love Bergsson Mathus for a luxurious brunch or a fresh loaf of bread on the go. Floating in the middle of the Norwegian Sea, Iceland is about as good as it gets when it comes to delicious seafood. Have your fill of the freshest local catch – and maybe even a whale burger – at <a href=\"https:\/\/www.fiskmarkadurinn.is\/en\">The Fishmarket<\/a>. If you’re looking for something a little more casual, you can’t go wrong with a hot dog from <a href=\"https:\/\/www.bbp.is\/\">Bæjarins Beztu<\/a>. It may look humble, but we can bet you’ll be going for seconds. <\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
