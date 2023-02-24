@@ -14,7 +14,7 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "The Flâneurs",
         "page_title": "Meet Luke Edward Hall, Artist and designer, London",
         "title": "",
@@ -95,16 +95,6 @@
         "show_recent_posts": false
       }
     },
-    "b9e0ba2a-b393-42bc-958d-7287b7f96db3": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screen-Shot-2019-10-22-at-11.19.34-1024x485.png",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "full-width"
-      }
-    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -125,7 +115,6 @@
     "343e7dc7-c870-47ba-b2a1-c6f1950704e2",
     "465bd8cf-0b90-4509-995b-c07aeefbe031",
     "main",
-    "b9e0ba2a-b393-42bc-958d-7287b7f96db3",
     "blog-posts"
   ]
 }
