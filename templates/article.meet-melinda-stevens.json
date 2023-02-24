@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "The Flâneurs",
-        "page_title": "Meet Melinda Stevens, Editor-in-Chief of Conde Nast Traveller",
+        "page_title": "Meet Melinda Stevens, Editor-in-Chief of Conde Nast Traveller, London",
         "title": "",
         "text": "<p>To say Melinda Stevens is well-travelled would be an understatement. As global editor in chief of Condé Nast Traveler, it’s fair to say she’s a travel expert – having won awards for her role as editor and columnist. Before taking up the position she worked at esteemed publications like The Sunday Times and Tatler. And when she isn’t at her desk with a pen in her hand, she counts night-diving and Vespa riding as some of her favourite things to do. We sat down with Melinda to talk all things travel.<\/p>",
         "button_link": "",
@@ -70,48 +70,6 @@
         "show_recent_posts": false
       }
     },
-    "a48bd472-7141-496a-ba39-f7a63cd7ada6": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--18060440666427__a48bd472-7141-496a-ba39-f7a63cd7ada6-167689598164009885-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MF_DO_AmourGlasses_Silo-1_4e3b5547-aad8-4c67-95c0-5aa6e8954847.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Verres Amour, Set of 4<\/p>"
-          }
-        },
-        "template--18060440666427__a48bd472-7141-496a-ba39-f7a63cd7ada6-167689598164009885-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Box-Marly-knives1.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Black and White Beaumarly Round Tip Knives, Set of 6<\/p>"
-          }
-        },
-        "27698919-3d35-4d8b-b89e-dee436bf33ea": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18060440666427__a48bd472-7141-496a-ba39-f7a63cd7ada6-167689598164009885-0",
-        "template--18060440666427__a48bd472-7141-496a-ba39-f7a63cd7ada6-167689598164009885-2",
-        "27698919-3d35-4d8b-b89e-dee436bf33ea"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -132,7 +90,6 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
-    "a48bd472-7141-496a-ba39-f7a63cd7ada6",
     "blog-posts"
   ]
 }
