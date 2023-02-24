@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "57562072-d57d-4889-a879-7840cc7f6a6c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/6-1024x1024_46a9869b-19cd-4c07-aa0c-5a2be40d04a9.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><em><strong>Where to go: <\/strong><\/em>Iceland is honestly pretty magical. Whether you’re winding your way around the Golden Circle on a good, old-fashioned road trip or only have a few days to take in the sights, you won’t be disappointed. We obviously always want to see it all, but sometimes, you just don’t have the time. What’s on our can’t miss list? Bathing in the Blue Lagoon, hiking Mount Esja, taking in a concert at Harpa, indulging in a sauna session atVesturbæjarlaugin, visiting the <a href=\"http:\/\/www.vatnajokulsthjodgardur.is\/english\/destinations\/heinaberg\/\">Hoffellsjökull <\/a>glacier and horseback riding along the striking black beaches of Vik.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "343473fc-66f6-457b-9fd7-fd6b0038df74",
     "0acd1148-89d5-447e-9da4-55801b0f53d4",
+    "57562072-d57d-4889-a879-7840cc7f6a6c",
     "main",
     "blog-posts"
   ]
