@@ -14,7 +14,7 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "The Flâneurs",
         "page_title": "Meet Josephine Dessine, Artist and illustrator, London",
         "title": "",
@@ -131,7 +131,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>What are your tips for the perfect table setting? <\/strong><\/p><p>Joy. Joy. joy. Find what makes you tick and roll with it. Maybe you’re a linen person, maybe you like gingham. My mum had a big “put fake grass on the table” phase. You do you. If something makes you smile, then toss it on the table it will probably work. Authenticity is beautiful. A “perfect” table setting will only ever truly reflect the people around it, so surround yourself with people you love, who make you laugh and it will be great. Also: candles.<\/p><p><strong>Any wishes for 2021?<\/strong><\/p><p>To maintain joyfulness and a sense of humor.<\/p><p> <a href=\"\/collections\/josephine-dessine\" title=\"Josephine Dessine\">Discover her creations. <\/a><\/p>",
+        "text_block": "<p><strong>What are your tips for the perfect table setting? <\/strong><\/p><p>Joy. Joy. joy. Find what makes you tick and roll with it. Maybe you’re a linen person, maybe you like gingham. My mum had a big “put fake grass on the table” phase. You do you. If something makes you smile, then toss it on the table it will probably work. Authenticity is beautiful. A “perfect” table setting will only ever truly reflect the people around it, so surround yourself with people you love, who make you laugh and it will be great. Also: candles.<\/p><p><strong>Any wishes for 2021?<\/strong><\/p><p>To maintain joyfulness and a sense of humor.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -151,23 +151,6 @@
         "text_block": "<p>Three cheers for dirty great big snogs! This set of four hand painted dinner plates was created out of a celebration of one of humanity's favourite and much missed pastimes. In keeping with Maison Flaneur's tres chic, tres french look, these are the perfect addition to bring some joy and freshness to the table. Keep them for your main course or stack them up with the small plates for a more complete mix and match Look. Designed and made in Dalston by Josephine Dessine. <\/p>",
         "page_description": false,
         "button_link": "shopify:\/\/products\/set-of-2-snogger-small-plates-boy-and-boy",
-        "hotel_page_url": false,
-        "button_label": "Shop Now"
-      }
-    },
-    "07f7cb54-6ffa-4831-8407-1b54bdcce0ed": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-5-1024x1024.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "Snogger Small Plates",
-        "text_block": "<p>Three cheers for dirty great big snogs! This set of four hand painted dessert plates was created to celebrate one of humanity's favourite and much missed pastimes. In keeping with Maison Flaneur's tres chic, tres french look, these are the perfect addition to bring some joy and freshness to the table. Keep them for sweetness or stack them up with the Dinner plates for a more complete mix and match Look. Designed and made in Dalston by Josephine Dessine. <\/p>",
-        "page_description": false,
-        "button_link": "shopify:\/\/products\/snogger-small-plates-set-number-4",
         "hotel_page_url": false,
         "button_label": "Shop Now"
       }
@@ -231,7 +214,6 @@
     "2a3fb5e4-254f-4f36-ba87-41be4f70476b",
     "5d47dada-f3f9-4577-ae55-8169d5959448",
     "dc157e00-33bb-430e-99de-ea744bdb5665",
-    "07f7cb54-6ffa-4831-8407-1b54bdcce0ed",
     "5dd9b696-4dd2-4ca5-ba70-f16bedd16a1e",
     "blog-posts"
   ]
