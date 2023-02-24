@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/07-beefbar-paris-1024x682.jpg",
+        "image": "shopify:\/\/shop_images\/beef_bar_monaco.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "The Flâneurs",
-        "page_title": "Meet Riccardo Giraudi, Restaurateur, Beefbar, Monaco",
+        "page_title": "Meet Riccardo Giraudi, Restaurateur at the Beefbar, Monaco",
         "title": "",
         "text": "<p>Meet Riccardo Giraudi is an innovative entrepreneur at the helm of hospitality concepts & restaurants, including Beefbar. Now open in Monaco, Rome, Paris, Mykonos, Doha, Sao Paulo, and Mexico to name a few,  Beefbar has become a real institution. We sit down with the restaurateur to discuss the meaning of Wagyu, his favourite emojis, and heated Japenese toilets.<\/p>",
         "button_link": "",
@@ -74,6 +74,40 @@
         "button_label": ""
       }
     },
+    "7b41f449-752d-4e5b-98eb-e8108a7c8d97": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18005318631739__7b41f449-752d-4e5b-98eb-e8108a7c8d97-1677259723e48ee9fb-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18005318631739__7b41f449-752d-4e5b-98eb-e8108a7c8d97-1677259723e48ee9fb-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18005318631739__7b41f449-752d-4e5b-98eb-e8108a7c8d97-1677259723e48ee9fb-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18005318631739__7b41f449-752d-4e5b-98eb-e8108a7c8d97-1677259723e48ee9fb-0",
+        "template--18005318631739__7b41f449-752d-4e5b-98eb-e8108a7c8d97-1677259723e48ee9fb-1",
+        "template--18005318631739__7b41f449-752d-4e5b-98eb-e8108a7c8d97-1677259723e48ee9fb-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHOP",
+        "title": "BEEFBAR'S COLLECTION",
+        "collection": "beefbar",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +141,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "f587f513-e080-480d-ac38-05a3f1327707",
+    "7b41f449-752d-4e5b-98eb-e8108a7c8d97",
     "main",
     "blog-posts"
   ]
