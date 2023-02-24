@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "e9708cfd-a63e-4fd1-a289-d9d9e978266d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/4-8-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><em><strong>Where to go<\/strong><\/em><em>:<\/em>There are a million things to see and do in Copenhagen, but some of our favourites have to be a visit to the <a href=\"https:\/\/www.kongernessamling.dk\/rosenborg\/\">Rosenborg Castle<\/a>, a dip at the <a href=\"https:\/\/www.visitcopenhagen.com\/copenhagen\/planning\/kastrup-sea-bath-gdk412208\">Kastrup Sea Bath <\/a>and an evening spent at the <a href=\"https:\/\/kglteater.dk\/?section=36042\">Copenhagen Opera House<\/a>. If you’ve got the time, then you absolutely cannot miss the <a href=\"https:\/\/louisiana.dk\/\">Louisiana Museum of Modern Art<\/a>, a trip to Jutland an afternoon at the <a href=\"https:\/\/hcandersenshus.dk\/en\/\">Hans Christian Andersen Museum <\/a>in Odense.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "aee7d3f3-c198-4448-9038-6ac2eaa000b2",
     "41592d63-5760-4a87-b559-736a223593d6",
+    "e9708cfd-a63e-4fd1-a289-d9d9e978266d",
     "main",
     "blog-posts"
   ]
