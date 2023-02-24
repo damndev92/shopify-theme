@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Article-header-imager-6-1-1024x341.png",
+        "image": "shopify:\/\/shop_images\/kangaroo-chairs-by-pierre-jeanneret-set-of-2-2.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,11 +14,11 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
+        "width": "large",
+        "subheading": "DESIGN HUB",
         "page_title": "5 Iconic Chairs Your Bum Should Know About",
         "title": "",
-        "text": "<p>Pull up a chair, sit back and relax as you meet some of the coolest chairs we know. <\/p><p>Are you ready to have your mind blown? The average person will spend <a href=\"https:\/\/www.independentliving.co.uk\/advice\/too-much-sitting-down\/#:~:text=A%20recent%20study%20shows%20that,than%20seven%20hours%20a%20day.\">18 years<\/a> of their adult life sitting. That’s 51 hours and 44 minutes a week. And yes, that’s probably you.<\/p><p>So, if you’re really going to while away hour after hour perched on a stool or slouched in an armchair, you probably want your seat to be pretty special, right? Because the thought of watching nearly two decades of your life pass by from an ugly standpoint (or should we say sitting point) is just too depressing. We are on a mission to make sure everyone is truly sitting pretty from sleek <a href=\"https:\/\/www.maisonflaneur.com\/product\/the-spanish-chair\/\">cantilever chairs<\/a> to buttery leather <a href=\"https:\/\/www.maisonflaneur.com\/product\/the-spanish-chair\/\">Spanish chairs<\/a>.<\/p><p>And how are we doing that? We’re going to introduce you to five of the most iconic <a href=\"https:\/\/www.maisonflaneur.com\/shop\/products\/furniture\/chairs-armchairs\/\">chairs<\/a> in interior design history. Take these as gospel or use them as inspiration to find out what speaks to you and what fits in your home.<\/p>",
+        "text": "<p>Pull up a chair, sit back and relax as you meet some of the coolest chairs we know. <\/p><p>Are you ready to have your mind blown? The average person will spend <a href=\"https:\/\/www.independentliving.co.uk\/advice\/too-much-sitting-down\/#:~:text=A%20recent%20study%20shows%20that,than%20seven%20hours%20a%20day.\">18 years<\/a> of their adult life sitting. That’s 51 hours and 44 minutes a week. And yes, that’s probably you.<\/p><p>So, if you’re really going to while away hour after hour perched on a stool or slouched in an armchair, you probably want your seat to be pretty special, right? Because the thought of watching nearly two decades of your life pass by from an ugly standpoint (or should we say sitting point) is just too depressing. We are on a mission to make sure everyone is truly sitting pretty from sleek cantilever chairs to buttery leather Spanish chairs.<\/p><p>And how are we doing that? We’re going to introduce you to five of the most iconic chairs in interior design history. Take these as gospel or use them as inspiration to find out what speaks to you and what fits in your home.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -67,7 +67,7 @@
         "subheading": "Otto Wagner’s Armchair",
         "location": false,
         "title": "",
-        "text_block": "<p>Lovers of <a href=\"https:\/\/www.maisonflaneur.com\/5-art-nouveau-furniture-pieces-for-your-home\/\">art nouveau furniture <\/a>will be no strangers to Otto Wagner’s minimal classic executed by Thonet. Like many of his generation, functionality was placed at the forefront of design, with aesthetics following closely after. That’s not to say his pieces weren’t beautiful. Quite the contrary, in fact. He implemented his hierarchy of materials in creating his chairs, choosing specific materials for specific locations. Armchairs in the boardroom of the Postparkasse, for example, were made of beechwood-stained mahogany with brass accents, while those for directors were subtler with a grey stain and aluminium mounts. So, for Wagner, form really must follow function.<\/p>",
+        "text_block": "<p>Lovers of art nouveau furniture will be no strangers to Otto Wagner’s minimal classic executed by Thonet. Like many of his generation, functionality was placed at the forefront of design, with aesthetics following closely after. That’s not to say his pieces weren’t beautiful. Quite the contrary, in fact. He implemented his hierarchy of materials in creating his chairs, choosing specific materials for specific locations. Armchairs in the boardroom of the Postparkasse, for example, were made of beechwood-stained mahogany with brass accents, while those for directors were subtler with a grey stain and aluminium mounts. So, for Wagner, form really must follow function.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -159,8 +159,8 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "",
-        "title": "Shop Maison Flâneur’s Iconic Chairs"
+        "subheading": "SHOP",
+        "title": "Maison Flâneur’s Iconic Chairs"
       }
     },
     "blog-posts": {
