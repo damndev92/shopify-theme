@@ -14,7 +14,7 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "The Flâneurs",
         "page_title": "Meet Mylène Scotto, Designer of Georges, Sauveterre de Béarn",
         "title": "",
@@ -108,21 +108,38 @@
         "button_label": ""
       }
     },
-    "ee4195c5-5927-49f0-8582-fcc8ff6565c3": {
-      "type": "text--image-with-text",
+    "310ebaed-35de-478b-9073-5ff88d4d5db5": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18003562070331__310ebaed-35de-478b-9073-5ff88d4d5db5-1677259723e48ee9fb-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18003562070331__310ebaed-35de-478b-9073-5ff88d4d5db5-1677259723e48ee9fb-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18003562070331__310ebaed-35de-478b-9073-5ff88d4d5db5-1677259723e48ee9fb-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18003562070331__310ebaed-35de-478b-9073-5ff88d4d5db5-1677259723e48ee9fb-0",
+        "template--18003562070331__310ebaed-35de-478b-9073-5ff88d4d5db5-1677259723e48ee9fb-1",
+        "template--18003562070331__310ebaed-35de-478b-9073-5ff88d4d5db5-1677259723e48ee9fb-2"
+      ],
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/GeorgestoreTheShop-79-600x822-1-600x600-1.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "The Little Carambole",
-        "text_block": "<p>From£264<\/p><p><br\/><\/p><p>With a vegetal inspiration,  the Small Carambole unfolds like a long leaf in a lush forest on a summer evening. Its all-brass structure gives it a precious and delicate side. Oblong, it captures the light and diffuses it in a soft and muted clarity. When flowers are serenity to the interiors, we want our lamps and suspensions to be the delicacy. Imagined, designed and created with meticulous care; our lamps will underline your volumes and, depending on the room, bring a muffled warmth or bright and colorful. For Colours: Please refer to our <a href=\"https:\/\/www.pinterest.fr\/maison_flaneur\/georges-store-lighting\/\" target=\"_blank\">Pinterest board<\/a><\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
+        "subheading": "SHOP",
+        "title": "GEORGE'S COLLECTION",
+        "collection": "georges",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -160,7 +177,7 @@
     "15e81650-46f7-4a7e-b6e8-f8b2435b9bfd",
     "e085d0b2-fa67-48a1-9d82-0488fbe15651",
     "2c9ff2f6-fab2-44ad-a30e-ceeb617737d7",
-    "ee4195c5-5927-49f0-8582-fcc8ff6565c3",
+    "310ebaed-35de-478b-9073-5ff88d4d5db5",
     "main",
     "blog-posts"
   ]
