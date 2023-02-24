@@ -119,46 +119,38 @@
         "title": ""
       }
     },
-    "c5aa7661-b048-424f-b319-93983a809cdb": {
-      "type": "image--gallery",
+    "5ee45cee-9116-42d2-8392-ecf84ff86b1d": {
+      "type": "collection--featured-collection",
       "blocks": {
-        "template--18018772451643__c5aa7661-b048-424f-b319-93983a809cdb-1676562208ddac322b-0": {
-          "type": "image",
+        "template--18018772451643__5ee45cee-9116-42d2-8392-ecf84ff86b1d-1677259723e48ee9fb-0": {
+          "type": "grid-card-title",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1784-Collection-Wooden-Rocking-Chair-1024x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>1784 Collection Wooden Rocking Chair<\/p>"
           }
         },
-        "template--18018772451643__c5aa7661-b048-424f-b319-93983a809cdb-1676562208ddac322b-1": {
-          "type": "image",
+        "template--18018772451643__5ee45cee-9116-42d2-8392-ecf84ff86b1d-1677259723e48ee9fb-1": {
+          "type": "grid-card-price",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Wooden-Chair-C-Collection-Without-Armrest-1024x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Wooden Chair C Collection Without Armrest<\/p>"
           }
         },
-        "template--18018772451643__c5aa7661-b048-424f-b319-93983a809cdb-1676562208ddac322b-2": {
-          "type": "image",
+        "template--18018772451643__5ee45cee-9116-42d2-8392-ecf84ff86b1d-1677259723e48ee9fb-2": {
+          "type": "grid-card-swatches",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1784-Collection-Wooden-Coffee-Table-1024x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>1784 Collection Wooden Coffee Table<\/p>"
           }
         }
       },
       "block_order": [
-        "template--18018772451643__c5aa7661-b048-424f-b319-93983a809cdb-1676562208ddac322b-0",
-        "template--18018772451643__c5aa7661-b048-424f-b319-93983a809cdb-1676562208ddac322b-1",
-        "template--18018772451643__c5aa7661-b048-424f-b319-93983a809cdb-1676562208ddac322b-2"
+        "template--18018772451643__5ee45cee-9116-42d2-8392-ecf84ff86b1d-1677259723e48ee9fb-0",
+        "template--18018772451643__5ee45cee-9116-42d2-8392-ecf84ff86b1d-1677259723e48ee9fb-1",
+        "template--18018772451643__5ee45cee-9116-42d2-8392-ecf84ff86b1d-1677259723e48ee9fb-2"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "",
-        "title": ""
+        "subheading": "SHOP",
+        "title": "CIRCULO MEXICANO'S COLLECTION",
+        "collection": "circulo-mexicano",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -194,7 +186,7 @@
     "2f40afd0-0682-4cac-a6c7-62cb28caf5cb",
     "ef77d9d9-bfa1-42f1-9824-c1ab510d6433",
     "b3f0e6dc-7382-4f25-bc56-b8c863f2681f",
-    "c5aa7661-b048-424f-b319-93983a809cdb",
+    "5ee45cee-9116-42d2-8392-ecf84ff86b1d",
     "main",
     "blog-posts"
   ]
