@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "41592d63-5760-4a87-b559-736a223593d6": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/3-9-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><em><strong>Where to shop<\/strong><\/em><em>: <\/em>Another area where the Danes excel is shopping. Whether you’re in the mood for interiors or looking for a whole new wardrobe, they’ve got you covered. Be sure to pop into <a href=\"https:\/\/cinnoberbookshop.dk\/\">Cinnober Bookshop<\/a> for something to read on the plane home, <a href=\"https:\/\/www.hollygolightly.dk\/\">Holly Golightly<\/a> for serious vintage finds and <a href=\"https:\/\/torvehallernekbh.dk\/\">Torvehallerne<\/a> for delicious snacks to nibble on while you picnic. Oh! And let’s not forget a trip to <a href=\"https:\/\/www.ganni.com\/en-nl\/home\">Ganni<\/a> for all things Scandi technicolour.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "aee7d3f3-c198-4448-9038-6ac2eaa000b2",
+    "41592d63-5760-4a87-b559-736a223593d6",
     "main",
     "blog-posts"
   ]
