@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "cce337a4-d949-49f1-9b64-b83298a02463": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/9-1024x1024_873b37f6-2a3a-43cd-a09d-5217619c37e4.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p>Forget <a href=\"https:\/\/merci-merci.com\/en\">Merci<\/a>. Shopping is just as good (if not better) at <a href=\"https:\/\/www.stvincents.co\/\">St. Vincents<\/a> and <a href=\"http:\/\/www.princess.eu\/store\/renaissance\/\">Renaissance<\/a>.<\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "cce337a4-d949-49f1-9b64-b83298a02463",
     "main",
     "blog-posts"
   ]
