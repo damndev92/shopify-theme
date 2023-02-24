@@ -14,7 +14,7 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "",
         "page_title": "The Green Guide to: Denmark",
         "title": "",
@@ -32,8 +32,8 @@
         "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "",
-        "text_block": "<p><em><strong>Where to stay<\/strong><\/em><em>:<\/em>If you’re staying in Copenhagen – and we definitely recommend you spend at least a few days here – there’s no better place to stay than <a href=\"https:\/\/hotelsanders.com\/\">Hotel Sanders<\/a>. This chic, cosy hotel is the perfect jumping off point for exploring the city. If you’re looking for something a little more budget friendly, <a href=\"https:\/\/www.brochner-hotels.com\/hotel-sp34\/\">Hotel SP34 <\/a>is dreamy and well-located.<\/p>",
+        "title": "Where to stay?",
+        "text_block": "<p>If you’re staying in Copenhagen – and we definitely recommend you spend at least a few days here – there’s no better place to stay than <a href=\"https:\/\/hotelsanders.com\/\">Hotel Sanders<\/a>. This chic, cosy hotel is the perfect jumping off point for exploring the city. If you’re looking for something a little more budget friendly, <a href=\"https:\/\/www.brochner-hotels.com\/hotel-sp34\/\">Hotel SP34 <\/a>is dreamy and well-located.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -49,8 +49,8 @@
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "",
-        "text_block": "<p><em><strong>Where to eat<\/strong><\/em><em>:<\/em>Ooof, Copenhagen. A serious foodie’s paradise. We don’t even know where to begin! <a href=\"https:\/\/www.baest.dk\/\">Baest <\/a>is a must for pizza, while <a href=\"https:\/\/restaurantsanktannae.dk\/en\/\">Restaurant Sankt Annae <\/a>is ideal for a traditional Danish lunch. Don’t miss the burgers at <a href=\"https:\/\/www.gasolinegrill.com\/\">Gasoline Grill<\/a>, the buns at <a href=\"https:\/\/gloobles.com\/destinations\/europe\/denmark\/copenhagen\/hart-bageri\">Hart Bageri <\/a>or the bites at <a href=\"https:\/\/www.geranium.dk\/en\/\">Geranium<\/a>. And, on your way out, snag a classic Danish hotdog at Steff’s Place in the aiport.<\/p>",
+        "title": "Where to eat?",
+        "text_block": "<p>Ooof, Copenhagen. A serious foodie’s paradise. We don’t even know where to begin! <a href=\"https:\/\/www.baest.dk\/\">Baest <\/a>is a must for pizza, while <a href=\"https:\/\/restaurantsanktannae.dk\/en\/\">Restaurant Sankt Annae <\/a>is ideal for a traditional Danish lunch. Don’t miss the burgers at <a href=\"https:\/\/www.gasolinegrill.com\/\">Gasoline Grill<\/a>, the buns at <a href=\"https:\/\/gloobles.com\/destinations\/europe\/denmark\/copenhagen\/hart-bageri\">Hart Bageri <\/a>or the bites at <a href=\"https:\/\/www.geranium.dk\/en\/\">Geranium<\/a>. And, on your way out, snag a classic Danish hotdog at Steff’s Place in the aiport.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -66,8 +66,8 @@
         "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "",
-        "text_block": "<p><em><strong>Where to drink<\/strong><\/em><em>: <\/em>We love <a href=\"https:\/\/cafevictor.dk\/\">Café Victor <\/a>for a sunny afternoon Brandy Alexander or <a href=\"http:\/\/www.palaebar.dk\/\">Palae Bar <\/a>for a couple of Tuborgs with friends.<\/p>",
+        "title": "Where to drink?",
+        "text_block": "<p>We love <a href=\"https:\/\/cafevictor.dk\/\">Café Victor <\/a>for a sunny afternoon Brandy Alexander or <a href=\"http:\/\/www.palaebar.dk\/\">Palae Bar <\/a>for a couple of Tuborgs with friends.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -83,8 +83,8 @@
         "layout": "right",
         "subheading": "",
         "location": false,
-        "title": "",
-        "text_block": "<p><em><strong>Where to shop<\/strong><\/em><em>: <\/em>Another area where the Danes excel is shopping. Whether you’re in the mood for interiors or looking for a whole new wardrobe, they’ve got you covered. Be sure to pop into <a href=\"https:\/\/cinnoberbookshop.dk\/\">Cinnober Bookshop<\/a> for something to read on the plane home, <a href=\"https:\/\/www.hollygolightly.dk\/\">Holly Golightly<\/a> for serious vintage finds and <a href=\"https:\/\/torvehallernekbh.dk\/\">Torvehallerne<\/a> for delicious snacks to nibble on while you picnic. Oh! And let’s not forget a trip to <a href=\"https:\/\/www.ganni.com\/en-nl\/home\">Ganni<\/a> for all things Scandi technicolour.<\/p>",
+        "title": "Where to shop?",
+        "text_block": "<p>Another area where the Danes excel is shopping. Whether you’re in the mood for interiors or looking for a whole new wardrobe, they’ve got you covered. Be sure to pop into <a href=\"https:\/\/cinnoberbookshop.dk\/\">Cinnober Bookshop<\/a> for something to read on the plane home, <a href=\"https:\/\/www.hollygolightly.dk\/\">Holly Golightly<\/a> for serious vintage finds and <a href=\"https:\/\/torvehallernekbh.dk\/\">Torvehallerne<\/a> for delicious snacks to nibble on while you picnic. Oh! And let’s not forget a trip to <a href=\"https:\/\/www.ganni.com\/en-nl\/home\">Ganni<\/a> for all things Scandi technicolour.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -100,12 +100,46 @@
         "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "",
-        "text_block": "<p><em><strong>Where to go<\/strong><\/em><em>:<\/em>There are a million things to see and do in Copenhagen, but some of our favourites have to be a visit to the <a href=\"https:\/\/www.kongernessamling.dk\/rosenborg\/\">Rosenborg Castle<\/a>, a dip at the <a href=\"https:\/\/www.visitcopenhagen.com\/copenhagen\/planning\/kastrup-sea-bath-gdk412208\">Kastrup Sea Bath <\/a>and an evening spent at the <a href=\"https:\/\/kglteater.dk\/?section=36042\">Copenhagen Opera House<\/a>. If you’ve got the time, then you absolutely cannot miss the <a href=\"https:\/\/louisiana.dk\/\">Louisiana Museum of Modern Art<\/a>, a trip to Jutland an afternoon at the <a href=\"https:\/\/hcandersenshus.dk\/en\/\">Hans Christian Andersen Museum <\/a>in Odense.<\/p>",
+        "title": "Where to go?",
+        "text_block": "<p>There are a million things to see and do in Copenhagen, but some of our favourites have to be a visit to the <a href=\"https:\/\/www.kongernessamling.dk\/rosenborg\/\">Rosenborg Castle<\/a>, a dip at the <a href=\"https:\/\/www.visitcopenhagen.com\/copenhagen\/planning\/kastrup-sea-bath-gdk412208\">Kastrup Sea Bath <\/a>and an evening spent at the <a href=\"https:\/\/kglteater.dk\/?section=36042\">Copenhagen Opera House<\/a>. If you’ve got the time, then you absolutely cannot miss the <a href=\"https:\/\/louisiana.dk\/\">Louisiana Museum of Modern Art<\/a>, a trip to Jutland an afternoon at the <a href=\"https:\/\/hcandersenshus.dk\/en\/\">Hans Christian Andersen Museum <\/a>in Odense.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
         "button_label": ""
+      }
+    },
+    "28b15033-7ee0-42ae-82ea-e2113a3ea512": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18108363079995__28b15033-7ee0-42ae-82ea-e2113a3ea512-1677259723e48ee9fb-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18108363079995__28b15033-7ee0-42ae-82ea-e2113a3ea512-1677259723e48ee9fb-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18108363079995__28b15033-7ee0-42ae-82ea-e2113a3ea512-1677259723e48ee9fb-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18108363079995__28b15033-7ee0-42ae-82ea-e2113a3ea512-1677259723e48ee9fb-0",
+        "template--18108363079995__28b15033-7ee0-42ae-82ea-e2113a3ea512-1677259723e48ee9fb-1",
+        "template--18108363079995__28b15033-7ee0-42ae-82ea-e2113a3ea512-1677259723e48ee9fb-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHOP",
+        "title": "JORE'S COLLECTION",
+        "collection": "jore-copenhagen",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -143,6 +177,7 @@
     "aee7d3f3-c198-4448-9038-6ac2eaa000b2",
     "41592d63-5760-4a87-b559-736a223593d6",
     "e9708cfd-a63e-4fd1-a289-d9d9e978266d",
+    "28b15033-7ee0-42ae-82ea-e2113a3ea512",
     "main",
     "blog-posts"
   ]
