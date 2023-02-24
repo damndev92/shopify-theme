@@ -1,24 +1,19 @@
 {
   "sections": {
-    "image-with-text-block": {
-      "type": "image--image-with-text-block",
-      "settings": {
-        "desktop_image": "shopify:\/\/shop_images\/pigalle_hp.png",
-        "parallax": true,
-        "text-color": "#656565",
-        "background-color": "#f3f3f3",
-        "horizontal-alignment": "center",
-        "subheading": "",
-        "title": "Flâneur Magazine",
-        "text": "Here's your chance to make a great first impression",
-        "button_link": "https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine",
-        "button_label": ""
-      }
-    },
     "3d470d2e-dc91-4f3c-876e-8deacf3dc5b7": {
       "type": "template--blog-header",
       "disabled": true,
       "settings": {
+      }
+    },
+    "1272ddd9-0b1a-4d69-a6cd-885e6ad0c43b": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/FLANEUR_s_MAGAZINE_2.jpg",
+        "parallax": false,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
       }
     },
     "86c13f5c-2fc8-449d-8260-f997667eac00": {
@@ -60,7 +55,7 @@
           "type": "navigation_link",
           "settings": {
             "link_url": "https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/the-flaneurs",
-            "link_image": "shopify:\/\/shop_images\/The_Flaneurs.png",
+            "link_image": "shopify:\/\/shop_images\/Design_Inspo_6.png",
             "link_text": "The Flâneurs"
           }
         },
@@ -68,7 +63,7 @@
           "type": "navigation_link",
           "settings": {
             "link_url": "https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/travel-guide",
-            "link_image": "shopify:\/\/shop_images\/Travel_guide.png",
+            "link_image": "shopify:\/\/shop_images\/Design_Inspo_7.png",
             "link_text": "Travel Guide"
           }
         }
@@ -130,8 +125,8 @@
     }
   },
   "order": [
-    "image-with-text-block",
     "3d470d2e-dc91-4f3c-876e-8deacf3dc5b7",
+    "1272ddd9-0b1a-4d69-a6cd-885e6ad0c43b",
     "86c13f5c-2fc8-449d-8260-f997667eac00",
     "main",
     "175d16b8-8f1f-4a9a-8422-7302b25d0f4b",
