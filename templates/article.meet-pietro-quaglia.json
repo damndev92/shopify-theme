@@ -23,6 +23,23 @@
         "button_label": ""
       }
     },
+    "88653b6b-2fe1-4e36-9bd7-24e587daef08": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/backup-article-604869787963_520x500_bff2155b-7513-4304-acd8-f0f11c40435f.webp",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>How would you describe Pietro Nolita in one word?<\/strong><br\/>Fresh<\/p><p><br\/><\/p><p><strong>Where do you find your inspiration for Pietro Nolita?<\/strong><br\/>Memphis group (An architectural movement of the ’80s in Milan, where I am from) and the pastel colors of the Italian riviera.<\/p><p><br\/><\/p><p><strong>How did you come up with “Pink, as Fuck”?<\/strong><br\/>Because it is pink as fuck! I just wanted to make a statement on the fact that is very pink!<\/p><p><br\/><\/p><p><strong>What is your favourite Italian dish?<\/strong><br\/>Carbonara<br\/><br\/><\/p><p><strong>What makes a good restaurant?<\/strong><br\/>Simple recipes, great quality of products and lots of passion!<\/p><p><br\/><\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
       "type": "text--image-with-text",
       "settings": {
@@ -33,7 +50,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>How would you describe Pietro Nolita in one word?<\/strong><br\/>Fresh<\/p><p><br\/><\/p><p><strong>Where do you find your inspiration for Pietro Nolita?<\/strong><br\/>Memphis group (An architectural movement of the ’80s in Milan, where I am from) and the pastel colors of the Italian riviera.<\/p><p><br\/><\/p><p><strong>How did you come up with “Pink, as Fuck”?<\/strong><br\/>Because it is pink as fuck! I just wanted to make a statement on the fact that is very pink!<\/p><p><br\/><\/p><p><strong>What is your favourite Italian dish?<\/strong><br\/>Carbonara<br\/><br\/><\/p><p><strong>What makes a good restaurant?<\/strong><br\/>Simple recipes, great quality of products and lots of passion!<\/p><p><br\/><\/p><p><strong>What makes a bad restaurant?<\/strong><br\/>The lack of love<br\/><br\/><\/p><p><strong>Describe your philosophy when it comes to decoration.<\/strong><br\/>I wanted to stay away from the decor of what typical Italian restaurants look like in the States! A salami hanging, the wheel of Parmigiano, the checkered red and white table cloth and the classic stereotypes of an Italian restaurant in general.<\/p><p><br\/><\/p><p><strong>Your favourite object in your restaurant?<\/strong><br\/>A plate my mom made with the logo of the restaurant.<br\/><br\/><\/p><p><strong>Your favourite hotel in the world?<\/strong><br\/>Amangiri in lake Powell, Utah or Ett Hem in Stockholm or Cenobio Dei dogi in Camogli hard to choose one…<\/p><p><br\/><\/p><p><strong>Your favourite restaurant in the world?<\/strong><br\/>My Mom’s kitchen.<\/p>",
+        "text_block": "<p><strong>What makes a bad restaurant?<\/strong><br\/>The lack of love<br\/><br\/><\/p><p><strong>Describe your philosophy when it comes to decoration.<\/strong><br\/>I wanted to stay away from the decor of what typical Italian restaurants look like in the States! A salami hanging, the wheel of Parmigiano, the checkered red and white table cloth and the classic stereotypes of an Italian restaurant in general.<\/p><p><br\/><\/p><p><strong>Your favourite object in your restaurant?<\/strong><br\/>A plate my mom made with the logo of the restaurant.<br\/><br\/><\/p><p><strong>Your favourite hotel in the world?<\/strong><br\/>Amangiri in lake Powell, Utah or Ett Hem in Stockholm or Cenobio Dei dogi in Camogli hard to choose one…<\/p><p><br\/><\/p><p><strong>Your favourite restaurant in the world?<\/strong><br\/>My Mom’s kitchen.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -70,6 +87,7 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
+    "88653b6b-2fe1-4e36-9bd7-24e587daef08",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "main",
     "blog-posts"
