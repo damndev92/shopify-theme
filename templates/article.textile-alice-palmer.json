@@ -23,44 +23,21 @@
         "button_label": ""
       }
     },
-    "82a9a12d-d7da-4da7-987d-5544bfc40cb1": {
-      "type": "image--image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/f34dff66-9fc2-48dc-8db2-5bd5e47939ff_4f74434b-5f77-4f15-8e3c-a0f727feaf94.jpg",
-        "parallax": true,
-        "alignment": "center",
-        "hero_size": "medium",
-        "text-over-image-width": "fixed"
-      }
-    },
-    "84bfd154-d76d-4f2f-9744-d171a2c30b8b": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "",
-        "title": "",
-        "text": "<p>It is in late 2019, from the comfort of her family home in north-west London that Alice developed her handmade shades: a labour of love and creativity.<br\/><br\/><\/p><p>The inspiration behind her business grew step by step while redecorating her home. Alice struggled to find lampshades that were affordable, versatile, and beautiful. She always loved the homely feel that loose and frilly fabric styles can bring to a room, so she decided to make her own, finding the right frame shape she liked, sourcing the right supplier, and making some samples. Alice Palmer & Co was born. <br\/><br\/><\/p><p>Each of her shades showcases an exquisite fabric, often sourced during, or inspired by, her travels; From traditional British homes, colonial Caribbean villas, and Andalusian haciendas. <\/p><p>We are so happy to offer you a selection of her products, which will light up your home.<\/p>",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+    "35d556bb-997c-4627-ae02-55175c8bdb38": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Red-Ric-Rac-1024x1024.jpg",
+        "image": "shopify:\/\/shop_images\/6d15fe6fab27ac8209ab06a5e4cba68a.jpg",
         "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "Triple Red Ric Rac Lampshade",
-        "text_block": "<p>From£120<\/p><p><\/p><p>Calico box pleat lampshade cover with a double red ric rac trim at the bottom and single ric rac trim at the top. Size of ric rac will increase proportionally to the size of the lampshade - more photos to come soon. Available with either a table lamp or pendant fitting. sizes refer to the bottom diameter of the shade - see product dimensions for more details.<\/p>",
+        "title": "",
+        "text_block": "<p>It is in late 2019, from the comfort of her family home in north-west London that Alice developed her handmade shades: a labour of love and creativity.<br\/><br\/><\/p><p>The inspiration behind her business grew step by step while redecorating her home. Alice struggled to find lampshades that were affordable, versatile, and beautiful. She always loved the homely feel that loose and frilly fabric styles can bring to a room, so she decided to make her own, finding the right frame shape she liked, sourcing the right supplier, and making some samples. Alice Palmer & Co was born. <br\/><br\/><\/p><p>Each of her shades showcases an exquisite fabric, often sourced during, or inspired by, her travels; From traditional British homes, colonial Caribbean villas, and Andalusian haciendas. <\/p><p>We are so happy to offer you a selection of her products, which will light up your home.<\/p>",
         "page_description": false,
-        "button_link": "shopify:\/\/collections\/alice-palmer-co",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Shop Now"
+        "button_label": ""
       }
     },
     "main": {
@@ -74,57 +51,6 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
-      }
-    },
-    "0c0fb625-22ce-47d5-ac23-865fa0a1ae75": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Navy-Ric-Rac-1-1024x1024_1ea5215d-c836-4377-8080-b68aeb32fb97.jpg",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "Navy Ric Rac Lampshade",
-        "text_block": "<p>From£120<\/p><p><\/p><p>A box pleat calico lampshade with a double navy ric rac trim and navy ric rac heading. sizes refer to the bottom diameter of the shade - see product dimensions for more details.<\/p><p>*Lampbase is not included<\/p><p><\/p>",
-        "page_description": false,
-        "button_link": "shopify:\/\/collections\/alice-palmer-co",
-        "hotel_page_url": false,
-        "button_label": "Shop Now"
-      }
-    },
-    "88a2a408-6e9d-4edd-a561-fb50e904fec3": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Cherry-Squares-1024x1024.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "Cherry Squares Lampshade",
-        "text_block": "<p>From£110<\/p><p><\/p><p>Box pleat red cherry Ikat fabric with square design. Available in 7 different sizes - please check size guide tab for exact measurements. All shades available with a pendant or table lamp fitting. sizes refer to the bottom diameter of the shade - see product dimensions for more details.<\/p>",
-        "page_description": false,
-        "button_link": "shopify:\/\/collections\/alice-palmer-co",
-        "hotel_page_url": false,
-        "button_label": "Shop Now"
-      }
-    },
-    "f6c0c1fe-817f-4d2e-bddf-92ca3e93c9a0": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Navy-Squares-1-1024x1024_8d4e55b4-9044-4749-b212-1d2cb8ef3dc5.jpg",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "Navy Squares Lampshade",
-        "text_block": "<p>From £110<\/p><p><\/p><p>Box pleat navy blue Ikat cotton fabric with square design. Available in 7 different sizes - Available with a pendant or table lamp fitting. sizes refer to the bottom diameter of the shade - see product dimensions for more details.<\/p><p>*Lampbase is not included<\/p>",
-        "page_description": false,
-        "button_link": "shopify:\/\/collections\/alice-palmer-co",
-        "hotel_page_url": false,
-        "button_label": "Shop Now"
       }
     },
     "594b5266-6c36-47f4-8988-0627a5fe8d8b": {
@@ -153,8 +79,8 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "",
-        "title": "Discover Alice Palmer",
+        "subheading": "SHOP",
+        "title": "ALICE PALMER & CO'S COLLECTION",
         "collection": "alice-palmer-co",
         "grid": 4,
         "rows": 1,
@@ -178,13 +104,8 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
-    "82a9a12d-d7da-4da7-987d-5544bfc40cb1",
-    "84bfd154-d76d-4f2f-9744-d171a2c30b8b",
-    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "35d556bb-997c-4627-ae02-55175c8bdb38",
     "main",
-    "0c0fb625-22ce-47d5-ac23-865fa0a1ae75",
-    "88a2a408-6e9d-4edd-a561-fb50e904fec3",
-    "f6c0c1fe-817f-4d2e-bddf-92ca3e93c9a0",
     "594b5266-6c36-47f4-8988-0627a5fe8d8b",
     "blog-posts"
   ]
