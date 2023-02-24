@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "0acd1148-89d5-447e-9da4-55801b0f53d4": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/kiosk.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><em><strong>Where to shop: <\/strong><\/em>Wandering through the streets of Reykjavik, you’re not likely to see fashion-minded on every corner as you might in Paris or Copenhagen. But just because it may not be a fashion capital doesn’t mean there aren’t a few great places to shop. <a href=\"https:\/\/www.instagram.com\/kioskgrandi\/?hl=en\">Kiosk<\/a>is one of the coolest shops we know – and not just in Iceland. Owned by eight local designers, this shop is a parade of colour, pattern and quirky silhouettes. Music lovers are in for a treat when they come to Iceland. Even if you can’t make it to Iceland Airwaves, you can get a serious earful at <a href=\"https:\/\/12tonar.company.site\/\">12 Tonar<\/a>, Reykjavik’s legendary record store and label.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "343473fc-66f6-457b-9fd7-fd6b0038df74",
+    "0acd1148-89d5-447e-9da4-55801b0f53d4",
     "main",
     "blog-posts"
   ]
