@@ -14,7 +14,7 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "large",
         "subheading": "",
         "page_title": "5 of the Best Bars in London",
         "title": "",
@@ -28,8 +28,8 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "The problem with the world is that everyone is a few drinks behind",
-        "page_title": "",
+        "subheading": "",
+        "page_title": "The problem with the world is that everyone is a few drinks behind",
         "title": "",
         "text": "<p> Humphrey Bogart<\/p><p><\/p>",
         "button_link": "",
@@ -121,17 +121,38 @@
         "button_label": ""
       }
     },
-    "50b701df-9ead-4867-92bd-1f891ca55a48": {
-      "type": "text--rich-text",
+    "0a8905f5-e1d2-4c84-a101-d86ad70cb718": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18096565649723__0a8905f5-e1d2-4c84-a101-d86ad70cb718-1677259723e48ee9fb-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18096565649723__0a8905f5-e1d2-4c84-a101-d86ad70cb718-1677259723e48ee9fb-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18096565649723__0a8905f5-e1d2-4c84-a101-d86ad70cb718-1677259723e48ee9fb-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18096565649723__0a8905f5-e1d2-4c84-a101-d86ad70cb718-1677259723e48ee9fb-0",
+        "template--18096565649723__0a8905f5-e1d2-4c84-a101-d86ad70cb718-1677259723e48ee9fb-1",
+        "template--18096565649723__0a8905f5-e1d2-4c84-a101-d86ad70cb718-1677259723e48ee9fb-2"
+      ],
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "",
-        "title": "",
-        "text": "<p><strong>Now time to re-create the perfect bar at home.<\/strong><\/p><p><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/venues\/st-jamess-hotel-club\/products\/\">Click here to see the ultimate St James selection of fine glassware<\/a><\/p>",
-        "button_link": "",
-        "button_label": ""
+        "subheading": "SHOP",
+        "title": "THE COLLECTION",
+        "collection": "wine-glasses",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -170,7 +191,7 @@
     "2f71aeee-555e-4284-ba1e-0c7f875da008",
     "b244dcbe-cde0-495e-be7d-6659e4fb4cdf",
     "8adf4a29-d0ea-423f-9599-72a49aa6b6ab",
-    "50b701df-9ead-4867-92bd-1f891ca55a48",
+    "0a8905f5-e1d2-4c84-a101-d86ad70cb718",
     "main",
     "blog-posts"
   ]
