@@ -33,7 +33,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Can you tell us more about the history behind your brand name?<\/strong><\/p><p>Georges is the saint of the day I was born. I like the fact that it’s a boy old name.<\/p><p><br\/><\/p><p><strong>Can you tell us more about how Georges was created?<\/strong><\/p><p>I started Georges 10 years ago, it evolved with me during this decade. I draw and prototype all the objects and they then takes life in our manufacture based in the South West of France.<\/p>",
+        "text_block": "<p><strong>Can you tell us more about the history behind your brand name?<\/strong><\/p><p>Georges is the saint of the day I was born. I like the fact that it’s a boy old name.<\/p><p><\/p><p><strong>Can you tell us more about how Georges was created?<\/strong><\/p><p>I started Georges 10 years ago, it evolved with me during this decade. I draw and prototype all the objects and they then takes life in our manufacture based in the South West of France.<\/p><p><strong>How would you describe your lights in one word?<\/strong><\/p><p>Vegetal inspiration<br\/><strong>What is behind the inspiration of your first design?<\/strong><\/p><p>All that surround us outside. A curve, raw materials, atmospheres<br\/><\/p><p><strong>Do you have a favourite one?<\/strong><\/p><p>I have a little crush on our carambole. <\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -50,41 +50,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>How would you describe your lights in one word?<\/strong><\/p><p>Vegetal inspiration<br\/><br\/><\/p><p><strong>What is behind the inspiration of your first design?<\/strong><\/p><p>All that surround us outside. A curve, raw materials, atmospheres…<br\/><br\/><\/p><p><strong>Do you have a favourite one?<\/strong><\/p><p>I have a little crush on our carambole<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "15e81650-46f7-4a7e-b6e8-f8b2435b9bfd": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "large",
-        "image": "shopify:\/\/shop_images\/C086D501-7096-49B5-A632-8DB2F119B4B0-scaled-1-819x1024.jpg",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "",
-        "text_block": "<p><strong>How would you describe your lights in one word?<\/strong><\/p><p>Vegetal inspiration<\/p><p><br\/><\/p><p><strong>What is behind the inspiration of your first design?<\/strong><\/p><p>All that surround us outside. A curve, raw materials, atmospheres…<br\/><br\/><\/p><p><strong>Do you have a favourite one?<\/strong><\/p><p>I have a little crush on our carambole<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "e085d0b2-fa67-48a1-9d82-0488fbe15651": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/pic-600x487-1.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "",
-        "text_block": "<p><strong>How would you describe your lights in one word?<\/strong><\/p><p>Vegetal inspiration.<br\/><br\/><\/p><p><strong>What is behind the inspiration of your first design?<\/strong><\/p><p>All that surround us outside. A curve, raw materials, atmospheres…<br\/><br\/><\/p><p><strong>Do you have a favourite one?<\/strong><\/p><p>I have a little crush on our carambole.<\/p>",
+        "text_block": "<p><strong>Where do you create your lights?<\/strong><\/p><p>I draw them at my house and then we create them in our workshop.<\/p><p><strong>What’s the best tip you could give about creating the right lighting at home?<\/strong><\/p><p>Use your imagination and don’t copy 😉<\/p><p><strong>Have you ever wanted to bring back an object from a hotel or a restaurant? And if so which one? <\/strong><\/p><p>A sugar box at the Guggenheim museum of Bilbao!<\/p><p><strong>Any wishes for 2021? <\/strong><\/p><p>Continue to grow up but in a more quiet world<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -157,8 +123,6 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
-    "15e81650-46f7-4a7e-b6e8-f8b2435b9bfd",
-    "e085d0b2-fa67-48a1-9d82-0488fbe15651",
     "310ebaed-35de-478b-9073-5ff88d4d5db5",
     "main",
     "blog-posts"
