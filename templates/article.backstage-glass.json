@@ -125,38 +125,38 @@
         "button_label": ""
       }
     },
-    "e7e94f93-e660-482f-909b-60c7c3c45a7b": {
-      "type": "text--image-with-text",
+    "1337cd95-be69-4384-b7d3-7ddd5b224af5": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18097595613499__1337cd95-be69-4384-b7d3-7ddd5b224af5-16774310463114621f-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18097595613499__1337cd95-be69-4384-b7d3-7ddd5b224af5-16774310463114621f-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18097595613499__1337cd95-be69-4384-b7d3-7ddd5b224af5-16774310463114621f-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18097595613499__1337cd95-be69-4384-b7d3-7ddd5b224af5-16774310463114621f-0",
+        "template--18097595613499__1337cd95-be69-4384-b7d3-7ddd5b224af5-16774310463114621f-1",
+        "template--18097595613499__1337cd95-be69-4384-b7d3-7ddd5b224af5-16774310463114621f-2"
+      ],
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Short-Candy-Swirl-Handblown-Italian-Glass-green-684x1024.jpg",
-        "layout": "right",
         "subheading": "",
-        "location": false,
-        "title": "Green Short Candy Swirl Handblown Italian Glass",
-        "text_block": "<p>£30<\/p><p>Handblown Italian Glass<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "c3008f90-3614-49d0-b6ea-0d82e645391a": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Handblown-Murrine-Italian-Glasses-green.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "Green Handblown Murrine Italian Glass",
-        "text_block": "<p>£30<\/p><p>Handblown Murrine Italian Glasses. Pieces are all handmade and colours and shape may vary slightly.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
+        "title": "Shop Glassware",
+        "collection": "glassware",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -195,8 +195,7 @@
     "57d3deb7-f1d6-414b-9838-00df2282879d",
     "81aa5bad-9f2b-4f3b-a978-42079f3ad30d",
     "8ae9b6ad-fba5-49d7-931b-d388e943449a",
-    "e7e94f93-e660-482f-909b-60c7c3c45a7b",
-    "c3008f90-3614-49d0-b6ea-0d82e645391a",
+    "1337cd95-be69-4384-b7d3-7ddd5b224af5",
     "main",
     "blog-posts"
   ]
