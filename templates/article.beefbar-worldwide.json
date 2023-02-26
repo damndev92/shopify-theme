@@ -87,36 +87,6 @@
         "button_label": ""
       }
     },
-    "e3944334-6a3f-4fde-9a39-14e518ac4a81": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Beefbarf-Espresso-Cups-Saucers-1024x1024.png",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "Beefbar Espresso Cups & Saucers Set",
-        "text_block": "<p>€258<\/p><p>Bernardaud masters the art of French porcelain since 1863 in Limoges, combining craftsmanship and innovation, creativity and heritage. They gave substance to Riccardo Giraudi’s project by affixing the emojis on a delicate white porcelaine lined with a gold edging.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "blog-posts": {
-      "type": "blog--blog-posts",
-      "settings": {
-        "colors": "light",
-        "subheading": "BLOG",
-        "title": "Latest articles",
-        "post_limit": 3,
-        "show_author_name": false,
-        "show_dates": true,
-        "show_blog_images": true,
-        "imageSize": "square"
-      }
-    },
     "f7d00f6d-05c4-4262-835c-574bfc3eaad2": {
       "type": "collection--featured-collection",
       "blocks": {
@@ -150,6 +120,19 @@
         "rows": 1,
         "show_view_all": false
       }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
     }
   },
   "order": [
@@ -159,8 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "main",
     "2787d0a6-174d-48a4-8ac2-9f603635c358",
-    "e3944334-6a3f-4fde-9a39-14e518ac4a81",
-    "blog-posts",
-    "f7d00f6d-05c4-4262-835c-574bfc3eaad2"
+    "f7d00f6d-05c4-4262-835c-574bfc3eaad2",
+    "blog-posts"
   ]
 }
