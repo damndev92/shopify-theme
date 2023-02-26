@@ -15,10 +15,10 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "Design Hub",
         "page_title": "Maison Flâneur x Anissa Kermiche Collection",
         "title": "",
-        "text": "<p>Together with the talented <a href=\"https:\/\/www.maisonflaneur.com\/brand\/anissa-kermiche\/products\/\">Anissa Kermiche<\/a>, Maison Flâneur is thrilled to present a collection of delicate, sculpted carafes.<\/p><p>This cheeky glassware borrows its form from Kermiche’s classic Popotins and Tit for Tat candleholders and comes in a dizzying array of beautiful pastels.<\/p>",
+        "text": "<p>Together with the talented <a href=\"\/collections\/anissa-kermiche\" title=\"Anissa Kermiche\">Anissa Kermiche<\/a>, Maison Flâneur is thrilled to present a collection of delicate, sculpted carafes.<\/p><p>This cheeky glassware borrows its form from Kermiche’s classic Popotins and Tit for Tat candleholders and comes in a dizzying array of beautiful pastels.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -95,7 +95,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/1-1024x1024_41f96fb6-81cc-42c3-a85f-0e7b1860281e.png",
-            "link": "",
+            "link": "shopify:\/\/products\/tit-for-tat-glass-carafe-blue",
             "title": "",
             "description": "<p>Glass Carafe – Blue<\/p><p>£85<\/p>"
           }
