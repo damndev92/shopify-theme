@@ -104,46 +104,38 @@
         "button_label": ""
       }
     },
-    "428e3d03-e814-48b6-a038-604aea53a8b9": {
-      "type": "image--gallery",
+    "f2e7e91d-0f94-4931-b030-8f5852600268": {
+      "type": "collection--featured-collection",
       "blocks": {
-        "template--18075187511611__428e3d03-e814-48b6-a038-604aea53a8b9-16769941554343e511-0": {
-          "type": "image",
+        "template--18075187511611__f2e7e91d-0f94-4931-b030-8f5852600268-1677428067d965fdd2-0": {
+          "type": "grid-card-title",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hotel-pigalle-Packshot-111-1024x1024.jpg",
-            "link": "shopify:\/\/products\/white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle",
-            "title": "",
-            "description": "<p>White Cotton Graphic Tote Bag, Jean André x Le Pigalle<\/p><p>£24<\/p>"
           }
         },
-        "template--18075187511611__428e3d03-e814-48b6-a038-604aea53a8b9-16769941554343e511-1": {
-          "type": "image",
+        "template--18075187511611__f2e7e91d-0f94-4931-b030-8f5852600268-1677428067d965fdd2-1": {
+          "type": "grid-card-price",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Le-Pigalle-White-T-shirt-1024x1024.jpg",
-            "link": "shopify:\/\/products\/white-cotton-graphic-t-shirt-le-pigalle",
-            "title": "",
-            "description": "<p>White Cotton Graphic T-shirt, Le Pigalle<\/p><p>From £27<\/p>"
           }
         },
-        "template--18075187511611__428e3d03-e814-48b6-a038-604aea53a8b9-16769941554343e511-2": {
-          "type": "image",
+        "template--18075187511611__f2e7e91d-0f94-4931-b030-8f5852600268-1677428067d965fdd2-2": {
+          "type": "grid-card-swatches",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1-3-1024x1024_c50427f1-d297-43d6-9d77-9a258a9929e3.png",
-            "link": "shopify:\/\/products\/tit-for-tat-glass-carafe-blue-bundle",
-            "title": "",
-            "description": "<p>Tit for Tat Glass Carafe – Blue Bundle<\/p><p>£155<\/p>"
           }
         }
       },
       "block_order": [
-        "template--18075187511611__428e3d03-e814-48b6-a038-604aea53a8b9-16769941554343e511-0",
-        "template--18075187511611__428e3d03-e814-48b6-a038-604aea53a8b9-16769941554343e511-1",
-        "template--18075187511611__428e3d03-e814-48b6-a038-604aea53a8b9-16769941554343e511-2"
+        "template--18075187511611__f2e7e91d-0f94-4931-b030-8f5852600268-1677428067d965fdd2-0",
+        "template--18075187511611__f2e7e91d-0f94-4931-b030-8f5852600268-1677428067d965fdd2-1",
+        "template--18075187511611__f2e7e91d-0f94-4931-b030-8f5852600268-1677428067d965fdd2-2"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "",
-        "title": "Explore The Collection Below"
+        "subheading": "Le Pigalle, Paris",
+        "title": "Explore The Collection Below",
+        "collection": "le-pigalle",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "blog-posts": {
@@ -168,7 +160,7 @@
     "main",
     "53d7bb0e-b784-42a0-8e5f-29e929f07111",
     "e17944b9-3a17-47df-a09a-9a900eea390d",
-    "428e3d03-e814-48b6-a038-604aea53a8b9",
+    "f2e7e91d-0f94-4931-b030-8f5852600268",
     "blog-posts"
   ]
 }
