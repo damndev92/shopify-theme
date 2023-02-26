@@ -215,6 +215,40 @@
         "button_label": "Shop Now"
       }
     },
+    "be830f5e-1166-4870-b09b-c639545141f3": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18083457990971__be830f5e-1166-4870-b09b-c639545141f3-1677428067d965fdd2-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18083457990971__be830f5e-1166-4870-b09b-c639545141f3-1677428067d965fdd2-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18083457990971__be830f5e-1166-4870-b09b-c639545141f3-1677428067d965fdd2-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18083457990971__be830f5e-1166-4870-b09b-c639545141f3-1677428067d965fdd2-0",
+        "template--18083457990971__be830f5e-1166-4870-b09b-c639545141f3-1677428067d965fdd2-1",
+        "template--18083457990971__be830f5e-1166-4870-b09b-c639545141f3-1677428067d965fdd2-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Discover",
+        "title": "The full Rubn Collection",
+        "collection": "rubn",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -256,6 +290,7 @@
     "b4af8c2b-3a98-48fb-94f0-197312750b05",
     "af83366c-3913-4474-9d74-5cd7bd850e43",
     "3023e0bb-61b6-41b6-b021-b2f2435f4a71",
+    "be830f5e-1166-4870-b09b-c639545141f3",
     "main",
     "blog-posts"
   ]
