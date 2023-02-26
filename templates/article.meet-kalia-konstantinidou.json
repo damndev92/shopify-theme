@@ -94,7 +94,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "d610362f-c4a9-4f77-a785-b8210aff3000": {
@@ -155,7 +155,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "f9318ad4-3700-46d9-9f1e-ec17ab02925d": {
