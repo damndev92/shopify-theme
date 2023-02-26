@@ -27,7 +27,7 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
+        "width": "full-width",
         "subheading": "",
         "page_title": "",
         "title": "The best of Antwerp",
