@@ -86,7 +86,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/2-3-1024x1024_16c80683-103c-4c20-bc70-9f486e947649.png",
-            "link": "",
+            "link": "shopify:\/\/products\/tit-for-tat-glass-carafe-clear-bundle",
             "title": "",
             "description": "<p>Tit for Tat Glass Carafe – Clear Bundle<\/p><p>£155<\/p>"
           }
@@ -144,6 +144,40 @@
         "title": ""
       }
     },
+    "6b650ff4-a210-47b3-9f87-bfbc0fd28bde": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18099769671995__6b650ff4-a210-47b3-9f87-bfbc0fd28bde-1677432731bee4e7c0-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18099769671995__6b650ff4-a210-47b3-9f87-bfbc0fd28bde-1677432731bee4e7c0-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18099769671995__6b650ff4-a210-47b3-9f87-bfbc0fd28bde-1677432731bee4e7c0-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18099769671995__6b650ff4-a210-47b3-9f87-bfbc0fd28bde-1677432731bee4e7c0-0",
+        "template--18099769671995__6b650ff4-a210-47b3-9f87-bfbc0fd28bde-1677432731bee4e7c0-1",
+        "template--18099769671995__6b650ff4-a210-47b3-9f87-bfbc0fd28bde-1677432731bee4e7c0-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Shop below",
+        "title": "Maison Flaneur X Anissa Kermiche",
+        "collection": "anissa-kermiche",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -166,6 +200,7 @@
     "main",
     "525a0685-b1c7-414c-a664-723fd87575f3",
     "5c7a7840-2e50-4754-bb15-c9e3eabaa9ef",
+    "6b650ff4-a210-47b3-9f87-bfbc0fd28bde",
     "blog-posts"
   ]
 }
