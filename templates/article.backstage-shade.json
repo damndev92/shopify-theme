@@ -77,7 +77,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "d08268f8-d91f-4e8b-8f96-e5c0323c8186": {
@@ -121,24 +121,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
-      }
-    },
-    "c7ec1323-ac20-419a-a4fa-175141e5f0ea": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Grace-3-Pendant.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "Grace 3 Pendant Lamp",
-        "text_block": "<p>£939<\/p><p>The shade is spun into shape from a piece of steel, and the diffuser is made of glass. All brass and steel parts are solid, brushed and lacquered. This lamp is crafted in Sweden – manufactured by hand, designed and developed with the greatest attention to precision in detail and material. From the same collection: <a href=\"http:\/\/3.9.65.88\/product\/grace-pendant-lamp\/\">Grace Pendant Lamp<\/a><\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
+        "text-over-image-width": "fixed"
       }
     },
     "e9755207-4636-4eb8-9956-469b002808c7": {
@@ -152,6 +135,40 @@
         "text": "<p><em>Astrid Malingreau (Lugano, 1989) studied literature in Paris at the Sorbonne-Paris IV before specializing in publishing and editorial skills at Paris XIII. After working for two years in publishing in London, she joined Christie’s in 2014 and moved to the New York office to become a Specialist in the Decorative Arts department before transitioning to Design. She is now based in Brussels and working as a private advisor specialized in 20th century and contemporary design. Her look on the art world is shaped by this multidisciplinary and international background. It  allows her to cast an eclectic eye on the art market  with a knowledge of design works and their history.  <\/em><\/p>",
         "button_link": "",
         "button_label": ""
+      }
+    },
+    "b3a04b31-12a2-4395-9a8a-65314b16ef85": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18097778458939__b3a04b31-12a2-4395-9a8a-65314b16ef85-16774310463114621f-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18097778458939__b3a04b31-12a2-4395-9a8a-65314b16ef85-16774310463114621f-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18097778458939__b3a04b31-12a2-4395-9a8a-65314b16ef85-16774310463114621f-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18097778458939__b3a04b31-12a2-4395-9a8a-65314b16ef85-16774310463114621f-0",
+        "template--18097778458939__b3a04b31-12a2-4395-9a8a-65314b16ef85-16774310463114621f-1",
+        "template--18097778458939__b3a04b31-12a2-4395-9a8a-65314b16ef85-16774310463114621f-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Shop Lights",
+        "collection": "lighting",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "blog-posts": {
@@ -178,8 +195,8 @@
     "d08268f8-d91f-4e8b-8f96-e5c0323c8186",
     "62da53fb-0b68-4273-9268-5b60bc3a9a22",
     "cfbed071-e84b-4b4a-9b0a-0a672885193c",
-    "c7ec1323-ac20-419a-a4fa-175141e5f0ea",
     "e9755207-4636-4eb8-9956-469b002808c7",
+    "b3a04b31-12a2-4395-9a8a-65314b16ef85",
     "blog-posts"
   ]
 }
