@@ -116,6 +116,40 @@
         "show_blog_images": true,
         "imageSize": "square"
       }
+    },
+    "f7d00f6d-05c4-4262-835c-574bfc3eaad2": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18074351337787__f7d00f6d-05c4-4262-835c-574bfc3eaad2-1677428067d965fdd2-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18074351337787__f7d00f6d-05c4-4262-835c-574bfc3eaad2-1677428067d965fdd2-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18074351337787__f7d00f6d-05c4-4262-835c-574bfc3eaad2-1677428067d965fdd2-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18074351337787__f7d00f6d-05c4-4262-835c-574bfc3eaad2-1677428067d965fdd2-0",
+        "template--18074351337787__f7d00f6d-05c4-4262-835c-574bfc3eaad2-1677428067d965fdd2-1",
+        "template--18074351337787__f7d00f6d-05c4-4262-835c-574bfc3eaad2-1677428067d965fdd2-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Discover",
+        "title": "Beefbar, Paris",
+        "collection": "beefbar",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -126,6 +160,7 @@
     "main",
     "2787d0a6-174d-48a4-8ac2-9f603635c358",
     "e3944334-6a3f-4fde-9a39-14e518ac4a81",
-    "blog-posts"
+    "blog-posts",
+    "f7d00f6d-05c4-4262-835c-574bfc3eaad2"
   ]
 }
