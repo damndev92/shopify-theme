@@ -245,7 +245,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "large",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/pacai.png",
         "layout": "left",
         "subheading": "meet the host - Rūta Pulkauninkaitė-Macikė",
