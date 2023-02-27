@@ -377,10 +377,18 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 50px;
 }
 
+.maison-grid-collection article .homepage-collection-link a {
+    pointer-events: none;
+}
+
 .maison-grid-collection article .article-title {
     margin-top: 15px;
     margin-bottom: 10px;
     font-size: 1.3rem;
+}
+
+.maison-grid-collection .grid-buttons .shopnow[data-url="false"] {
+    display: none;
 }
 
 .maison-grid-collection .empty {
@@ -391,6 +399,13 @@ h1, h2, h3, h4, h5, h6 {
     .maison-grid-collection .homepage-collection-grid-inner .grid-image .grid-image--centered img {
         height: 70vw;
     }
+}
+
+/* Blog posts */
+#blog_posts article:nth-of-type(2n + 1) .article-image img,
+#blog_posts article:nth-of-type(2n + 1) .article-image a:after,
+#blog_posts article:nth-of-type(2n + 1) .article-image a:hover:after {
+    border-radius: 45% 45% 0px 0px;
 }
 
 

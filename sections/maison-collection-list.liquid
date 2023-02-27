@@ -57,26 +57,26 @@
     transition: visibility 0s, opacity 0.5s ease-in-out;
   }
 
-  .grid-buttons > a {
-    background: #ffffff;
-    width: 100px;
-    border-radius: 5px;
-    padding: 10px;
-    text-align: center;
-    margin-bottom: 5px;
-    font-weight: 300;
-    text-transform: uppercase;
-    font-size: 10px;
-  }
+    .grid-buttons > a {
+      background-color: transparent;
+      border: 3px solid #FFFFFF;
+      color: #FFFFFF;
+      width: 150px;
+      border-radius: 0;
+      padding: 15px 25px;
+      text-align: center;
+      margin-bottom: 5px;
+      font-weight: 700;
+      text-transform: uppercase;
+      font-size: 15px;
+    }
 
   .grid-buttons > a:hover {
     text-decoration: none;
-    opacity: 0.8;
-  }
-
-  .grid-buttons > a.shopnow {
-    background: #e79983;
+    opacity: 1;
+    background-color: #e79983;
     color: #FFFFFF;
+    transition: background-color .3s linear;
   }
   {% endif %}
 
@@ -206,7 +206,16 @@
           const metafields = node?.metafields; // Add optional chaining operator to check if node is defined
           return (
             metafields &&
-            metafields.some((mf) => mf && mf.key === "location")
+            metafields.some(
+              (mf) =>
+                mf && mf.key === "location"
+            ) &&
+            metafields.some(
+              (mf) =>
+                mf && // Add check for mf not being null/undefined
+                mf.key === "collection_type" &&
+                mf.value === "{{ section.settings.collection_type }}"
+            )
           );
         })
         .reduce((uniqueLocations, { node }) => {
@@ -328,11 +337,13 @@
 
       gridButtons.appendChild(exploreLink)
 
-
       if (selectedCollectionNode && selectedCollectionNode.metafields) {
+        gridButtons.appendChild(shopnowLink)
         const shopnow = selectedCollectionNode.metafields.find(mf => mf && mf.key === "shop_now");
         if (shopnow) {
-          gridButtons.appendChild(shopnowLink)
+          if (shopnow.value === 'false') {
+            shopnowLink.setAttribute('data-url', 'false')
+          }
         }
       }
       {% endif %}
