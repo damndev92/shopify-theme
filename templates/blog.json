@@ -6,8 +6,50 @@
       "settings": {
       }
     },
+    "ee74f721-c7ad-4284-9dc1-aeb57f9c6e6f": {
+      "type": "image--slideshow",
+      "blocks": {
+        "template--17643497849147__ee74f721-c7ad-4284-9dc1-aeb57f9c6e6f-16775098968f022020-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FLaNEUR_MAGAZINE_1.png",
+            "mobile_image": "shopify:\/\/shop_images\/NEW_IN_3.png",
+            "subheading": "",
+            "title": "FLÂNEUR MAGAZINE",
+            "text": "",
+            "button_text": "",
+            "link": "",
+            "caption-background": "rgba(0,0,0,0)",
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#000000",
+            "button-background-hover": "#797979",
+            "horizontal-alignment": "center",
+            "vertical-alignment": "middle"
+          }
+        }
+      },
+      "block_order": [
+        "template--17643497849147__ee74f721-c7ad-4284-9dc1-aeb57f9c6e6f-16775098968f022020-0"
+      ],
+      "settings": {
+        "split-images": false,
+        "slide_on_mobile": 1,
+        "slider-animation": "slide",
+        "slider-width": "full-width",
+        "show-slide-full-screen": false,
+        "slider-slide-time": 5,
+        "caption-heading-size": 52,
+        "show-slide-dots": false,
+        "show-slide-arrows": false,
+        "show-slide-controls": false,
+        "slider-navigation--color": "#ffffff",
+        "overlay": true
+      }
+    },
     "77b1822d-4dfc-4cf1-aac1-eabc999205b8": {
       "type": "image--image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/FLaNEUR_MAGAZINE_1.png",
         "subheading": "",
@@ -138,74 +180,16 @@
         "show_blog_images": true,
         "imageSize": "square"
       }
-    },
-    "ee74f721-c7ad-4284-9dc1-aeb57f9c6e6f": {
-      "type": "image--slideshow",
-      "blocks": {
-        "template--17643497849147__ee74f721-c7ad-4284-9dc1-aeb57f9c6e6f-16775098968f022020-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FLaNEUR_MAGAZINE_1.png",
-            "subheading": "",
-            "title": "FLÂNEUR MAGAZINE",
-            "text": "",
-            "button_text": "",
-            "link": "",
-            "caption-background": "rgba(0,0,0,0)",
-            "caption-text": "#ffffff",
-            "button-text": "#ffffff",
-            "button-background": "#000000",
-            "button-background-hover": "#797979",
-            "horizontal-alignment": "center",
-            "vertical-alignment": "middle"
-          }
-        },
-        "template--17643497849147__ee74f721-c7ad-4284-9dc1-aeb57f9c6e6f-16775098968f022020-1": {
-          "type": "slide",
-          "settings": {
-            "subheading": "",
-            "title": "Share your story",
-            "text": "Here's your chance to make a great first impression",
-            "button_text": "",
-            "link": "",
-            "caption-background": "rgba(0,0,0,0)",
-            "caption-text": "#ffffff",
-            "button-text": "#ffffff",
-            "button-background": "#000000",
-            "button-background-hover": "#797979",
-            "horizontal-alignment": "left",
-            "vertical-alignment": "middle"
-          }
-        }
-      },
-      "block_order": [
-        "template--17643497849147__ee74f721-c7ad-4284-9dc1-aeb57f9c6e6f-16775098968f022020-0",
-        "template--17643497849147__ee74f721-c7ad-4284-9dc1-aeb57f9c6e6f-16775098968f022020-1"
-      ],
-      "settings": {
-        "split-images": false,
-        "slide_on_mobile": 1,
-        "slider-animation": "slide",
-        "slider-width": "full-width",
-        "show-slide-full-screen": true,
-        "slider-slide-time": 5,
-        "caption-heading-size": 50,
-        "show-slide-dots": false,
-        "show-slide-arrows": true,
-        "show-slide-controls": true,
-        "slider-navigation--color": "#ffffff",
-        "overlay": true
-      }
     }
   },
   "order": [
     "3d470d2e-dc91-4f3c-876e-8deacf3dc5b7",
+    "ee74f721-c7ad-4284-9dc1-aeb57f9c6e6f",
     "77b1822d-4dfc-4cf1-aac1-eabc999205b8",
     "1272ddd9-0b1a-4d69-a6cd-885e6ad0c43b",
     "86c13f5c-2fc8-449d-8260-f997667eac00",
     "main",
     "175d16b8-8f1f-4a9a-8422-7302b25d0f4b",
-    "ff2c6b21-c2c6-4721-a0af-bda119721b0a",
-    "ee74f721-c7ad-4284-9dc1-aeb57f9c6e6f"
+    "ff2c6b21-c2c6-4721-a0af-bda119721b0a"
   ]
 }
