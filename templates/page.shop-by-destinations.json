@@ -86,8 +86,8 @@
       "type": "maison-collection-list",
       "settings": {
         "colors": "white",
-        "subheading": "Discover",
-        "title": "OUR HOTELS",
+        "subheading": "",
+        "title": "",
         "collection_type": "hotel",
         "number_of_collections_to_display": 0,
         "show_location": true,
