@@ -27,7 +27,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "large",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/colored-cottage-home-house-960x960.jpg",
         "layout": "left",
         "subheading": "",
@@ -44,7 +44,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "large",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/4b5e3d6b2b9fdb1028a002ae47fdea9d.jpg",
         "layout": "right",
         "subheading": "",
@@ -61,7 +61,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "large",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/84a3f43b00cdf2a48120cf02fedc142d.jpg",
         "layout": "left",
         "subheading": "",
@@ -78,7 +78,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "large",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/a0e560d415b755d889ad5577c2b39cd7.jpg",
         "layout": "right",
         "subheading": "",

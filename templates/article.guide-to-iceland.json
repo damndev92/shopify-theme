@@ -1,0 +1,149 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Schermata-2021-09-13-alle-15.18.01-1024x508.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "Travel Guide",
+        "page_title": "The Green Guide to: Iceland",
+        "title": "",
+        "text": "<p>Though it’s spectacular in winter with snow-capped mountains, twinkling toy town-like cities and the aurora borealis, we think late summer is truly the most glorious time of year there. The days stretch long past those in southern Europe, the air is just beginning to turn crisp and the people are revelling in those last balmy days. What’s not to love?<\/p><p>Iceland, we’re on our way.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Progetto-senza-titolo-73-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Where to stay:",
+        "text_block": "<p>Even if you’re only in Iceland to commune with nature, we strongly suggest spending a day or two in Reykjavik. This town is seriously charming. Post up at the <a href=\"https:\/\/kvosinhotel.is\/\">Kvosin Hotel<\/a>, a mod Scandi dream of a hotel in the heart of the city. Looking for something a little wilder? Rent a car and head off to <a href=\"https:\/\/elevenexperience.com\/deplar-farm-iceland-summer\">Deplar Farm<\/a>, located on Iceland’s Troll Peninsula. Nestled in the Fljot Valley, this lodge has stunning views and seriously good service.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/2-1-1024x1024_dd03dcf8-40f5-44cd-a73f-5531c354383c.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Where to eat:",
+        "text_block": "<p>Though it’s not the first Nordic country that comes to mind when you think of gastronomy, Iceland has got café culture down pat. We love Bergsson Mathus for a luxurious brunch or a fresh loaf of bread on the go. Floating in the middle of the Norwegian Sea, Iceland is about as good as it gets when it comes to delicious seafood. Have your fill of the freshest local catch – and maybe even a whale burger – at <a href=\"https:\/\/www.fiskmarkadurinn.is\/en\">The Fishmarket<\/a>. If you’re looking for something a little more casual, you can’t go wrong with a hot dog from <a href=\"https:\/\/www.bbp.is\/\">Bæjarins Beztu<\/a>. It may look humble, but we can bet you’ll be going for seconds. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "343473fc-66f6-457b-9fd7-fd6b0038df74": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/4-2-1024x1024_3cbcdc90-b867-43f2-a557-c07da07f4c46.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Where to drink:",
+        "text_block": "<p>Like any country this far north, Iceland knows how to drink. When the sun sets as early as it does here in winter, there’s often little else to do. For a chilled drink (or five), pop into <a href=\"https:\/\/www.instagram.com\/kaffibarinn\/?hl=en\">Kaffinbarrin<\/a>. This cosy tavern has a fantastic selection of local beers and DJs spinning tracks you can’t help but dance to. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "0acd1148-89d5-447e-9da4-55801b0f53d4": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/kiosk.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Where to shop:",
+        "text_block": "<p>Wandering through the streets of Reykjavik, you’re not likely to see fashion-minded on every corner as you might in Paris or Copenhagen. But just because it may not be a fashion capital doesn’t mean there aren’t a few great places to shop. <a href=\"https:\/\/www.instagram.com\/kioskgrandi\/?hl=en\">Kiosk<\/a>is one of the coolest shops we know – and not just in Iceland. Owned by eight local designers, this shop is a parade of colour, pattern and quirky silhouettes. Music lovers are in for a treat when they come to Iceland. Even if you can’t make it to Iceland Airwaves, you can get a serious earful at <a href=\"https:\/\/12tonar.company.site\/\">12 Tonar<\/a>, Reykjavik’s legendary record store and label.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "57562072-d57d-4889-a879-7840cc7f6a6c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/6-1024x1024_46a9869b-19cd-4c07-aa0c-5a2be40d04a9.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Where to go:",
+        "text_block": "<p>Iceland is honestly pretty magical. Whether you’re winding your way around the Golden Circle on a good, old-fashioned road trip or only have a few days to take in the sights, you won’t be disappointed. We obviously always want to see it all, but sometimes, you just don’t have the time. What’s on our can’t miss list? Bathing in the Blue Lagoon, hiking Mount Esja, taking in a concert at Harpa, indulging in a sauna session atVesturbæjarlaugin, visiting the <a href=\"http:\/\/www.vatnajokulsthjodgardur.is\/english\/destinations\/heinaberg\/\">Hoffellsjökull <\/a>glacier and horseback riding along the striking black beaches of Vik.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "343473fc-66f6-457b-9fd7-fd6b0038df74",
+    "0acd1148-89d5-447e-9da4-55801b0f53d4",
+    "57562072-d57d-4889-a879-7840cc7f6a6c",
+    "main",
+    "blog-posts"
+  ]
+}

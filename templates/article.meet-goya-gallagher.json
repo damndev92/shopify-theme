@@ -203,8 +203,8 @@
       "settings": {
         "colors": "white",
         "subheading": "SHOP",
-        "title": "THE COLLECTION",
-        "collection": "",
+        "title": "DISCOVER MALAIKA",
+        "collection": "malaika",
         "grid": 4,
         "rows": 1,
         "show_view_all": false

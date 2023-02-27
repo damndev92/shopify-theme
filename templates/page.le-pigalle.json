@@ -109,22 +109,34 @@
         "template--17822959829307__5bcafc64-d19e-410b-be75-225f42e3e666-1676391521c92cff8d-0": {
           "type": "product",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PIGALLE_SHOP_THE_LOOK.jpg",
+            "image": "shopify:\/\/shop_images\/3_a902c5e3-5bf0-4913-b654-d7e1b78882eb.png",
             "image__position": "image--left",
-            "product": "wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
-            "product-2": "the-popotin-glass-bundle",
-            "product-3": "viso-merino-pillow-black",
-            "product-4": "viso-tapestry-pillow-cream-and-black"
+            "product": "white-cotton-graphic-backpack-jean-andre-x-le-pigalle",
+            "product-2": "large-black-umbrella-le-pigalle",
+            "product-3": "white-cotton-graphic-t-shirt-le-pigalle",
+            "product-4": "white-cotton-graphic-tote-bag-jean-andre-x-le-pigalle"
+          }
+        },
+        "8ccd6e30-b13b-44aa-a6f9-6fbef22d5680": {
+          "type": "product",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_7a4b598f-e4c7-4a9c-89b6-c8e7e890b71d.png",
+            "image__position": "image--left",
+            "product": "red-enamel-lips-keyring-jean-andre-x-le-pigalle",
+            "product-2": "the-popotin-glass-blue-set-of-2",
+            "product-3": "wall-lamp-applique-a-volant-pivotant-by-charlotte-perriand",
+            "product-4": "hunter-desk-lamp"
           }
         }
       },
       "block_order": [
-        "template--17822959829307__5bcafc64-d19e-410b-be75-225f42e3e666-1676391521c92cff8d-0"
+        "template--17822959829307__5bcafc64-d19e-410b-be75-225f42e3e666-1676391521c92cff8d-0",
+        "8ccd6e30-b13b-44aa-a6f9-6fbef22d5680"
       ],
       "settings": {
         "colors": "white",
         "subheading": "",
-        "title": "Shop the look"
+        "title": "Shop Le Pigalle"
       }
     },
     "2add8f90-861c-45db-9696-87ccfab7f29d": {

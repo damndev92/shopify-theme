@@ -3,8 +3,8 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/f28218e82944789c200ea439c6e813a7-1024x576.jpg",
-        "parallax": true,
+        "image": "shopify:\/\/shop_images\/IMG_2143.webp",
+        "parallax": false,
         "alignment": "center",
         "hero_size": "medium",
         "text-over-image-width": "full-width"
@@ -16,7 +16,7 @@
         "colors": "white",
         "width": "large",
         "subheading": "DESIGN HUB",
-        "page_title": "The Petal Lamps Collection",
+        "page_title": "Discover the Petal Lamps Collection",
         "title": "",
         "text": "<p>Here at Maison Flâneur, we’re not just interested in great design; We’re interested in each piece and its story, in how it’s made. It’s one thing to see an incredible armchair or a charming platter and appreciate it on the surface level. <\/p>",
         "button_link": "",
@@ -136,6 +136,19 @@
         "button_label": ""
       }
     },
+    "3d7a4323-d397-4856-b51b-faee0b19a34d": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Everything is handmade. We paint our canvas with natural pigments ourselves; we cut the raw brass, wet the rattan. Each of our objects is unique.  Discover the Petal lamps dreamt up by Mylene Niedzialkowski of Georges.",
+        "title": "",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "d13ab45d-8e44-4494-af3f-f90ef8add07b": {
       "type": "image--gallery",
       "blocks": {
@@ -156,53 +169,6 @@
         "colors": "white",
         "subheading": "",
         "title": ""
-      }
-    },
-    "3d7a4323-d397-4856-b51b-faee0b19a34d": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Everything is handmade. We paint our canvas with natural pigments ourselves; we cut the raw brass, wet the rattan. Each of our objects is unique.  Discover the Petal lamps dreamt up by Mylene Niedzialkowski of Georges.",
-        "title": "",
-        "text": "",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
-    "fca7c97c-1dd6-400f-bbbc-907ea89a48cc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/petal-lamp.png",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "The Precious Petal Lamp",
-        "text_block": "<p>From£357<\/p><p><\/p><p>.<\/p><p>The \"jewel\" combination of brass and fabric in a floral and airy suspension. With the simplicity of a drop-shaped petal, Pale adds a tribute to the retro ceiling fans of louvred bedrooms. This pendant light plays subtly with light, diffusing a soft light in the room and delicate play of shadows on the ceiling. Its brass hoops give it a full diameter (the petals won't fall in time) and can be adjustable for a more contemporary version. Rod lengths are also available in 150cm, 200cm, 250cm. Please enquire about this by emailing us at <a href=\"mailto:hello@maisonflaneur.com\"><strong>hello@maisonflaneur.com<\/strong><\/a>.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Shop Now"
-      }
-    },
-    "afb2d02b-0354-443d-a8f0-e2d359effe5c": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/octobre-et-mai-_-instagram-suspension-george.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "The Original Petal",
-        "text_block": "<p>From £218<\/p><p><\/p><p>.<\/p><p>Georges iconic light in its original format. The unexpected combination of brass, rattan and fabric in a floral and airy suspension. With the simplicity of a drop-shaped petal, Pale adds a tribute to the retro ceiling fans of louvered bedrooms. This pendant light plays subtly with light, diffusing a soft light in the room and delicate play of shadows on the ceiling. Its 8 adjustable petals allow you to compose your own play of lights and turn it into a unique luminaire. Rod lengths are also available in 150cm, 200cm, 250cm. Please enquire about this by emailing us at <a href=\"mailto:hello@maisonflaneur.com\"><strong>hello@maisonflaneur.com<\/strong><\/a>.  <\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": "Shop Now"
       }
     },
     "e88ffda6-77b0-4440-9e39-4fc4f1c1023f": {
@@ -275,10 +241,8 @@
     "7e0ba985-632e-4dd0-9ea9-e48bb722558f",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "51f8de8b-8d25-4853-8f18-c1cf3e34b43d",
-    "d13ab45d-8e44-4494-af3f-f90ef8add07b",
     "3d7a4323-d397-4856-b51b-faee0b19a34d",
-    "fca7c97c-1dd6-400f-bbbc-907ea89a48cc",
-    "afb2d02b-0354-443d-a8f0-e2d359effe5c",
+    "d13ab45d-8e44-4494-af3f-f90ef8add07b",
     "e88ffda6-77b0-4440-9e39-4fc4f1c1023f",
     "main",
     "blog-posts"

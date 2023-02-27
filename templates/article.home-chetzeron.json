@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/g-09-chetzeron-1024x601.jpg",
+        "image": "shopify:\/\/shop_images\/3_34002c80-b54b-4767-b659-fa61f046730f.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -15,8 +15,8 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
-        "page_title": "Make Yourself at Home: Chetzeron, Switzerland",
+        "subheading": "Make Yourself at Home",
+        "page_title": "Chetzeron, Switzerland",
         "title": "",
         "text": "<p><br\/>There’s something peaceful about the mountains, sublime even when you get the timing right. Verbier is wild. St. Moritz is chic. And Crans Montana? Well, for lack of a better word, perfect. Chetzeron is a singular ski-in ski-out hotel perched in the summits of Crans Montana. Winter, spring, summer or fall, this striking hotel really has it all.<\/p><p><\/p>",
         "button_link": "",
@@ -56,20 +56,20 @@
     "6b815f6d-bbf6-4be6-9fc8-145b2229f9ea": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_1bcecb1d-807c-4ad0-8db5-f83c35bc1f74.png",
+        "image": "shopify:\/\/shop_images\/1_1f787d48-2450-4118-9c6f-e8850756cd5b.png",
         "parallax": true,
         "alignment": "top",
-        "hero_size": "medium",
+        "hero_size": "small",
         "text-over-image-width": "fixed"
       }
     },
     "1c7d63be-aef9-41af-95c2-ffee42adf1c2": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Reema-WIP-1-e1660048849793-1024x624_57134589-f061-44fc-8894-372d0948f7b2.jpg",
+        "image": "shopify:\/\/shop_images\/2_1750c1bc-2858-4370-b276-a92fc4059bbd.png",
         "parallax": true,
-        "alignment": "center",
-        "hero_size": "x-large",
+        "alignment": "bottom",
+        "hero_size": "large",
         "text-over-image-width": "fixed"
       }
     },
@@ -77,7 +77,8 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/12_dc012b66-5187-43a2-a9f1-634286da635e.png",
         "layout": "right",
         "subheading": "",
         "location": false,
@@ -87,14 +88,6 @@
         "button_link": "",
         "hotel_page_url": false,
         "button_label": ""
-      }
-    },
-    "626a439a-fc95-4c91-a74c-e344e3072f09": {
-      "type": "image--gallery",
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
       }
     },
     "main": {
@@ -108,19 +101,6 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
-      }
-    },
-    "blog-posts": {
-      "type": "blog--blog-posts",
-      "settings": {
-        "colors": "light",
-        "subheading": "BLOG",
-        "title": "Latest articles",
-        "post_limit": 3,
-        "show_author_name": false,
-        "show_dates": true,
-        "show_blog_images": true,
-        "imageSize": "portrait"
       }
     },
     "95a91ca3-8990-4b9d-a0ea-c27ca060877b": {
@@ -149,12 +129,25 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Subheading",
-        "title": "Featured collection",
+        "subheading": "Discover more",
+        "title": "Shop Chetzeron, Switzerland",
         "collection": "chetzeron",
         "grid": 4,
         "rows": 1,
         "show_view_all": false
+      }
+    },
+    "c3e7676b-3ab4-4f67-8043-37de4a648ba8": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Latest from Flâneur Magazine",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
       }
     }
   },
@@ -166,9 +159,8 @@
     "6b815f6d-bbf6-4be6-9fc8-145b2229f9ea",
     "1c7d63be-aef9-41af-95c2-ffee42adf1c2",
     "707e2f5b-5ebb-47b2-b1c7-bf6680e92190",
-    "626a439a-fc95-4c91-a74c-e344e3072f09",
     "main",
-    "blog-posts",
-    "95a91ca3-8990-4b9d-a0ea-c27ca060877b"
+    "95a91ca3-8990-4b9d-a0ea-c27ca060877b",
+    "c3e7676b-3ab4-4f67-8043-37de4a648ba8"
   ]
 }

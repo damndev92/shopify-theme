@@ -14,11 +14,11 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
+        "width": "large",
+        "subheading": "The Flâneurs",
         "page_title": "Meet Mylène Scotto, Designer of Georges, Sauveterre de Béarn",
         "title": "",
-        "text": "<p>There is something incredibly poetic about Mylène Niedzialkowskis creation. She loves to mix with all materials, from the most flexible to the most recalcitrant, to create objects of special charm. From her Chateau de Meritein, in the Bearn, in the South West of France, she searches diligently for producers who share their ethos and create materials that are as beautiful as they are responsible. We sit down with the designer to hear more about her beautiful and unique pendant lights.<\/p>",
+        "text": "<p>There is something incredibly poetic about Mylène Niedzialkowskis creations. She loves to mix with all materials, from the most flexible to the most recalcitrant, to create objects of special charm. From her Chateau de Meritein, in the Bearn, in the South West of France, she searches diligently for producers who share their ethos and create materials that are as beautiful as they are responsible. We sit down with the designer to hear more about her beautiful and unique pendant lights.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -27,13 +27,13 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/GeorgestoreTheShop-14-1-686x1024.jpg",
         "layout": "right",
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Can you tell us more about the history behind your brand name?<\/strong><\/p><p>Georges is the saint of the day I was born. I like the fact that it’s a boy old name.<\/p><p><strong>Can you tell us more about how Georges was created?<\/strong><\/p><p>I started Georges 10 years ago, it evolved with me during this decade. I draw and prototype all the objects and they then takes life in our manufacture based in the South West of France.<\/p>",
+        "text_block": "<p><strong>Can you tell us more about the history behind your brand name?<\/strong><\/p><p>Georges is the saint of the day I was born. I like the fact that it’s a boy old name.<\/p><p><\/p><p><strong>Can you tell us more about how Georges was created?<\/strong><\/p><p>I started Georges 10 years ago, it evolved with me during this decade. I draw and prototype all the objects and they then takes life in our manufacture based in the South West of France.<\/p><p><strong>How would you describe your lights in one word?<\/strong><\/p><p>Vegetal inspiration<br\/><strong>What is behind the inspiration of your first design?<\/strong><\/p><p>All that surround us outside. A curve, raw materials, atmospheres<br\/><\/p><p><strong>Do you have a favourite one?<\/strong><\/p><p>I have a little crush on our carambole. <\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -44,85 +44,51 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/GeorgestoreTheShop-5-1-717x1024.jpg",
         "layout": "left",
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>How would you describe your lights in one word?<\/strong><\/p><p>Vegetal inspiration<\/p><p><strong>What is behind the inspiration of your first design?<\/strong><\/p><p>All that surround us outside. A curve, raw materials, atmospheres…<\/p><p><strong>Do you have a favourite one?<\/strong><\/p><p>I have a little crush on our carambole<\/p>",
+        "text_block": "<p><strong>Where do you create your lights?<\/strong><\/p><p>I draw them at my house and then we create them in our workshop.<\/p><p><strong>What’s the best tip you could give about creating the right lighting at home?<\/strong><\/p><p>Use your imagination and don’t copy 😉<\/p><p><strong>Have you ever wanted to bring back an object from a hotel or a restaurant? And if so which one? <\/strong><\/p><p>A sugar box at the Guggenheim museum of Bilbao!<\/p><p><strong>Any wishes for 2021? <\/strong><\/p><p>Continue to grow up but in a more quiet world<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
         "button_label": ""
       }
     },
-    "15e81650-46f7-4a7e-b6e8-f8b2435b9bfd": {
-      "type": "text--image-with-text",
+    "310ebaed-35de-478b-9073-5ff88d4d5db5": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18003562070331__310ebaed-35de-478b-9073-5ff88d4d5db5-1677259723e48ee9fb-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18003562070331__310ebaed-35de-478b-9073-5ff88d4d5db5-1677259723e48ee9fb-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18003562070331__310ebaed-35de-478b-9073-5ff88d4d5db5-1677259723e48ee9fb-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18003562070331__310ebaed-35de-478b-9073-5ff88d4d5db5-1677259723e48ee9fb-0",
+        "template--18003562070331__310ebaed-35de-478b-9073-5ff88d4d5db5-1677259723e48ee9fb-1",
+        "template--18003562070331__310ebaed-35de-478b-9073-5ff88d4d5db5-1677259723e48ee9fb-2"
+      ],
       "settings": {
         "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/C086D501-7096-49B5-A632-8DB2F119B4B0-scaled-1-819x1024.jpg",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "",
-        "text_block": "<p><strong>How would you describe your lights in one word?<\/strong><\/p><p>Vegetal inspiration<\/p><p><strong>What is behind the inspiration of your first design?<\/strong><\/p><p>All that surround us outside. A curve, raw materials, atmospheres…<\/p><p><strong>Do you have a favourite one?<\/strong><\/p><p>I have a little crush on our carambole<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "e085d0b2-fa67-48a1-9d82-0488fbe15651": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/pic-600x487-1.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "",
-        "text_block": "<p><strong>How would you describe your lights in one word?<\/strong><\/p><p>Vegetal inspiration<\/p><p><strong>What is behind the inspiration of your first design?<\/strong><\/p><p>All that surround us outside. A curve, raw materials, atmospheres…<\/p><p><strong>Do you have a favourite one?<\/strong><\/p><p>I have a little crush on our carambole<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "2c9ff2f6-fab2-44ad-a30e-ceeb617737d7": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/petal-lamp_89b9ce14-1d98-4073-a205-521b0977a149.png",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "The Precious Petal Lamp – Medium",
-        "text_block": "<p>From£357<\/p><p>The \"jewel\" combination of brass and fabric in a floral and airy suspension. With the simplicity of a drop-shaped petal, Pale adds a tribute to the retro ceiling fans of louvred bedrooms. This pendant light plays subtly with light, diffusing a soft light in the room and delicate play of shadows on the ceiling. Its brass hoops give it a full diameter (the petals won't fall in time) and can be adjustable for a more contemporary version. Rod lengths are also available in 150cm, 200cm, 250cm. Please enquire about this by emailing us at <a href=\"mailto:hello@maisonflaneur.com\"><strong>hello@maisonflaneur.com<\/strong><\/a>.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "ee4195c5-5927-49f0-8582-fcc8ff6565c3": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/GeorgestoreTheShop-79-600x822-1-600x600-1.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "The Little Carambole",
-        "text_block": "<p>From£264<\/p><p>With a vegetal inspiration,  the Small Carambole unfolds like a long leaf in a lush forest on a summer evening. Its all-brass structure gives it a precious and delicate side. Oblong, it captures the light and diffuses it in a soft and muted clarity. When flowers are serenity to the interiors, we want our lamps and suspensions to be the delicacy. Imagined, designed and created with meticulous care; our lamps will underline your volumes and, depending on the room, bring a muffled warmth or bright and colorful. For Colours: Please refer to our <a href=\"https:\/\/www.pinterest.fr\/maison_flaneur\/georges-store-lighting\/\" target=\"_blank\">Pinterest board<\/a><\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
+        "subheading": "SHOP",
+        "title": "GEORGE'S COLLECTION",
+        "collection": "georges",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -157,10 +123,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
-    "15e81650-46f7-4a7e-b6e8-f8b2435b9bfd",
-    "e085d0b2-fa67-48a1-9d82-0488fbe15651",
-    "2c9ff2f6-fab2-44ad-a30e-ceeb617737d7",
-    "ee4195c5-5927-49f0-8582-fcc8ff6565c3",
+    "310ebaed-35de-478b-9073-5ff88d4d5db5",
     "main",
     "blog-posts"
   ]

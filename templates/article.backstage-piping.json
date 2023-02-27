@@ -14,8 +14,8 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
+        "width": "large",
+        "subheading": "The Flâneurs",
         "page_title": "Flânerie in the design backstage: Piping hot revolutions",
         "title": "",
         "text": "<p>I have been continuingly fascinated by metal. This material seems to have the magic power to express ideas that should be mutually exclusive; modernity and nostalgia, mass production and craftsmanship, sensuality and functionality. The use of metal has also achieved nothing less than turning our esthetic and social convictions upside down.<br\/>The shift from handcrafted wood furniture to metal pieces is pivotal as it meant that well-designed furniture could be reproduced thousands of times and at a reasonable cost. In other words, this switch paved the way for each of us to live comfortably with great works of design that stimulate the same emotions as the original creation. <\/p><p><strong>By Astrid Malingreau<\/strong><\/p>",
@@ -142,6 +142,40 @@
         "button_label": ""
       }
     },
+    "9a6f1288-5264-4ab2-a2ad-32d88d6a56ba": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18098269880635__9a6f1288-5264-4ab2-a2ad-32d88d6a56ba-16774310463114621f-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18098269880635__9a6f1288-5264-4ab2-a2ad-32d88d6a56ba-16774310463114621f-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18098269880635__9a6f1288-5264-4ab2-a2ad-32d88d6a56ba-16774310463114621f-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18098269880635__9a6f1288-5264-4ab2-a2ad-32d88d6a56ba-16774310463114621f-0",
+        "template--18098269880635__9a6f1288-5264-4ab2-a2ad-32d88d6a56ba-16774310463114621f-1",
+        "template--18098269880635__9a6f1288-5264-4ab2-a2ad-32d88d6a56ba-16774310463114621f-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Shop",
+        "title": "Discover the Flâneur chairs",
+        "collection": "chairs-armchairs",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -179,6 +213,7 @@
     "03807ec0-897f-497f-a6d8-c925d20c8a8b",
     "6d394924-a0d5-41aa-9a98-a4456727de16",
     "a6614486-76dc-434a-9951-3a13d706dd92",
+    "9a6f1288-5264-4ab2-a2ad-32d88d6a56ba",
     "main",
     "blog-posts"
   ]

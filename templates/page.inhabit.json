@@ -109,12 +109,12 @@
         "template--17824564838715__33e39774-3069-4ab2-a382-8776410b10b3-1676391521c92cff8d-0": {
           "type": "product",
           "settings": {
-            "image": "shopify:\/\/shop_images\/INHABIT_SHOP_THE_LOOK.jpg",
+            "image": "shopify:\/\/shop_images\/shop_the_look_TEMPLATE_5.png",
             "image__position": "image--left",
             "product": "1784-wooden-chair-with-polypropylene-fabric",
-            "product-2": "almond-blossom-border-linen-table-cloth",
-            "product-3": "astoria-floor-lamp",
-            "product-4": ""
+            "product-2": "meditative-landscape-1",
+            "product-3": "s-collection-wooden-bench-woven-with-jute",
+            "product-4": "6x6"
           }
         }
       },
@@ -124,7 +124,7 @@
       "settings": {
         "colors": "white",
         "subheading": "",
-        "title": "Shop the look"
+        "title": "Shop"
       }
     },
     "2588bb9f-0bce-48d3-9915-508cfccbb6ca": {

@@ -14,11 +14,11 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
         "page_title": "Meet Michel Bernardaud, CEO of Bernardaud Porcelain, Limoges",
         "title": "",
-        "text": "<p>Bernardaud’s great industrial and artistic adventure began in 1863 in Limoges, a region possessing kaolin, freshwater, and forests, which are all needed to make porcelain.  The company has already successfully navigated some of the technical and creative challenges of the 21st century and is facing the future with great resolution. Still family-owned, for 5 generations now, and run today by CEO Michel Bernardaud, whom we were lucky enough to sit with to discuss all things porcelain and their cheeky collaboration with <a href=\"https:\/\/www.maisonflaneur.com\/venues\/beefbar\/\">Beefbar<\/a>.<\/p>",
+        "text": "<p>Bernardaud’s great industrial and artistic adventure began in 1863 in Limoges, a region possessing kaolin, freshwater, and forests, which are all needed to make porcelain.  The company has already successfully navigated some of the technical and creative challenges of the 21st century and is facing the future with great resolution. Still family-owned, for 5 generations now, and run today by CEO Michel Bernardaud, whom we were lucky enough to sit with to discuss all things porcelain and their cheeky collaboration with Beefbar.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -67,11 +67,45 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Do you think the pandemic has changed the way people see their homes and their tableware?  <\/strong><br\/>Indeed. We have noticed that when you spend most of your time at home, suddenly you feel an urge to upgrade a few things to improve the everyday’s little pleasures. Tableware plays an important role and we’ve seen it on our e-boutique with a significant boost of sales. The famous French art de Vivre is making every day a special occasion and a beautiful table, whether you’re a family, two or even one people!<\/p><p><strong>The collaboration with <\/strong><a href=\"https:\/\/www.maisonflaneur.com\/venues\/beefbar\/\"><strong>Beefbar<\/strong><\/a><strong> is very “digital”. How important do you think it is to mix the old and the new? <\/strong><br\/>Well, there’s no other way really if you want to be part of your times. At Bernardaud we add to know-how passed down from generation to generation high technology new devices which enable us to create unprecedented shapes and move forward. <\/p><p><strong>What’s your favourite emoticon? <\/strong><br\/>The happy face! just looking at it makes me smile !<\/p>",
+        "text_block": "<p><strong>Do you think the pandemic has changed the way people see their homes and their tableware?  <\/strong><br\/>Indeed. We have noticed that when you spend most of your time at home, suddenly you feel an urge to upgrade a few things to improve the everyday’s little pleasures. Tableware plays an important role and we’ve seen it on our e-boutique with a significant boost of sales. The famous French art de Vivre is making every day a special occasion and a beautiful table, whether you’re a family, two or even one people!<\/p><p><strong>The collaboration with <\/strong><a href=\"https:\/\/www.maisonflaneur.com\/venues\/beefbar\/\"><strong>Beefbar<\/strong><\/a><strong> is very “digital”. How important do you think it is to mix the old and the new? <\/strong><br\/>Well, there’s no other way really if you want to be part of your times. At Bernardaud we add to know-how passed down from generation to generation high technology new devices which enable us to create unprecedented shapes and move forward. <\/p><p><strong>What’s your favourite emoticon? <\/strong><br\/>The happy face! just looking at it makes me smile!<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
         "button_label": ""
+      }
+    },
+    "6a25bf16-41e3-4220-a5b0-8c34c64feddf": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17993371386171__6a25bf16-41e3-4220-a5b0-8c34c64feddf-1677143470fbd02c0a-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17993371386171__6a25bf16-41e3-4220-a5b0-8c34c64feddf-1677143470fbd02c0a-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17993371386171__6a25bf16-41e3-4220-a5b0-8c34c64feddf-1677143470fbd02c0a-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17993371386171__6a25bf16-41e3-4220-a5b0-8c34c64feddf-1677143470fbd02c0a-0",
+        "template--17993371386171__6a25bf16-41e3-4220-a5b0-8c34c64feddf-1677143470fbd02c0a-1",
+        "template--17993371386171__6a25bf16-41e3-4220-a5b0-8c34c64feddf-1677143470fbd02c0a-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHOP",
+        "title": "BEEFBAR'S COLLECTION",
+        "collection": "beefbar",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "main": {
@@ -85,48 +119,6 @@
         "blog_sidebar_desc": "",
         "show_blog_tags": false,
         "show_recent_posts": false
-      }
-    },
-    "3b638a6a-3f56-40fa-ae80-6ff3cfcb67ec": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--17993371386171__3b638a6a-3f56-40fa-ae80-6ff3cfcb67ec-1676384571c4514e76-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6-Main-plates-set-3-1024x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Beefbar Starter Plate Fire Emoji<\/p><p>€87<\/p>"
-          }
-        },
-        "template--17993371386171__3b638a6a-3f56-40fa-ae80-6ff3cfcb67ec-1676384571c4514e76-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6-starter-plates-set-2-1024x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Beefbar Starter Plate Heart Emoji<\/p><p>€87<\/p>"
-          }
-        },
-        "template--17993371386171__3b638a6a-3f56-40fa-ae80-6ff3cfcb67ec-1676384571c4514e76-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6-Main-plates-set-2-1024x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>Beefbar Starter Plate Smiling Face with Hearteyes Emoji<\/p><p>€87<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17993371386171__3b638a6a-3f56-40fa-ae80-6ff3cfcb67ec-1676384571c4514e76-0",
-        "template--17993371386171__3b638a6a-3f56-40fa-ae80-6ff3cfcb67ec-1676384571c4514e76-1",
-        "template--17993371386171__3b638a6a-3f56-40fa-ae80-6ff3cfcb67ec-1676384571c4514e76-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
       }
     },
     "blog-posts": {
@@ -149,8 +141,8 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "524b6561-1acc-48e1-9031-63d5eda36130",
+    "6a25bf16-41e3-4220-a5b0-8c34c64feddf",
     "main",
-    "3b638a6a-3f56-40fa-ae80-6ff3cfcb67ec",
     "blog-posts"
   ]
 }

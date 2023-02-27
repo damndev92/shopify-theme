@@ -3,8 +3,8 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Love-handles-amissa-kermiche.jpg",
-        "parallax": true,
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-02-24_at_18.33.56.png",
+        "parallax": false,
         "alignment": "center",
         "hero_size": "medium",
         "text-over-image-width": "full-width"
@@ -14,11 +14,24 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
+        "width": "large",
+        "subheading": "EDITS",
+        "page_title": "",
+        "title": "How It’s Made: Anissa Kermiche x MF Gl(asses)",
+        "text": "<p>If you’ve ever opened Instagram, been called a millennial (mistakenly or correctly) or been just about anywhere <em>cool, <\/em>we can bet the name Anissa Kermiche is not unfamiliar to you. Anissa’s a non-linear woman who loves the lines of the female form. Her background in engineering led her not to mechanics and machines but instead marched her straight into the world of art and design.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "9446605a-b101-4c6c-9979-fd5e0bf14187": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
         "width": "medium",
         "subheading": "",
-        "page_title": "How It’s Made: Anissa Kermiche x MF Gl(asses)",
-        "title": "",
-        "text": "<p>If you’ve ever opened Instagram, been called a millennial (mistakenly or correctly) or been just about anywhere <em>cool, <\/em>we can bet the name Anissa Kermiche is not unfamiliar to you. Anissa’s a non-linear woman who loves the lines of the female form. Her background in engineering led her not to mechanics and machines but instead marched her straight into the world of art and design.<\/p><p>At first, our partnership with Anissa was like many others we have: we stocked her pieces and shared them with our community on the site and on socials. But eventually, it just wasn’t enough. A true collab was in order, as our design ethos lined up so perfectly.<\/p><p>After lots of back and forth, and months of designing and prototyping, we finally landed on what is now one of our bestsellers: the Anissa Kermiche x Maison Flaneur <a href=\"https:\/\/www.maisonflaneur.com\/brand\/anissa-kermiche\/products\/\">Popotin Gl(asses)<\/a>. You love them, you want them. And today, we’re going to show you exactly how they’re made.<\/p>",
+        "page_title": "",
+        "title": "Discover the process",
+        "text": "<p>At first, our partnership with Anissa was like many others we have: we stocked her pieces and shared them with our community on the site and on socials. But eventually, it just wasn’t enough. A true collab was in order, as our design ethos lined up so perfectly. After lots of back and forth, and months of designing and prototyping, we finally landed on what is now one of our bestsellers: the Anissa Kermiche x Maison Flaneur Popotin Gl(asses). You love them, you want them. And today, we’re going to show you exactly how they’re made.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -125,6 +138,40 @@
         "button_label": ""
       }
     },
+    "1d5f27c2-6908-4d27-81c6-85d30c2fb484": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18099234832699__1d5f27c2-6908-4d27-81c6-85d30c2fb484-1677259723e48ee9fb-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18099234832699__1d5f27c2-6908-4d27-81c6-85d30c2fb484-1677259723e48ee9fb-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18099234832699__1d5f27c2-6908-4d27-81c6-85d30c2fb484-1677259723e48ee9fb-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18099234832699__1d5f27c2-6908-4d27-81c6-85d30c2fb484-1677259723e48ee9fb-0",
+        "template--18099234832699__1d5f27c2-6908-4d27-81c6-85d30c2fb484-1677259723e48ee9fb-1",
+        "template--18099234832699__1d5f27c2-6908-4d27-81c6-85d30c2fb484-1677259723e48ee9fb-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "SHOP",
+        "title": "ANISSA KERMICHE X MAISON FLÂNEUR",
+        "collection": "anissa-kermiche",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -155,12 +202,14 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "caa04637-6009-4065-89c7-931d3e44b826",
+    "9446605a-b101-4c6c-9979-fd5e0bf14187",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "b132d7a9-ce21-42d8-9437-10775d31c5da",
     "c5959988-e1e6-4e99-87f0-832c394ae0f7",
     "ab181613-7fe9-4ecc-a9c0-cf24a8ef602d",
     "2f191aaa-d785-4bab-9bd5-7185bafce413",
+    "1d5f27c2-6908-4d27-81c6-85d30c2fb484",
     "main",
     "blog-posts"
   ]

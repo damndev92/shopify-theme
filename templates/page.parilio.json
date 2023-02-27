@@ -109,22 +109,34 @@
         "template--17824597410107__9ddffc45-d823-4e4e-853f-f5a0933f6f11-1676391521c92cff8d-0": {
           "type": "product",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PARILIO_SHOP_a2433089-bf25-42f9-a644-62b33a0aaca4.jpg",
+            "image": "shopify:\/\/shop_images\/shop_the_look_TEMPLATE_8.png",
             "image__position": "image--left",
-            "product": "parhelion",
-            "product-2": "snake-goddess-key-ring",
-            "product-3": "blue-sun",
+            "product": "duck-feather-cushion-inner-1",
+            "product-2": "komboloi-with-mati",
+            "product-3": "viso-tapestry-blanket-cream-black-green-and-red-abstract",
             "product-4": "ceramic-plate-psari"
+          }
+        },
+        "0885b999-abfb-4fdc-a4e7-66341b913ecd": {
+          "type": "product",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shop_the_look_TEMPLATE_7.png",
+            "image__position": "image--left",
+            "product": "blue-sun",
+            "product-2": "arion-dolphin-objet",
+            "product-3": "poseidon-hook",
+            "product-4": "ray"
           }
         }
       },
       "block_order": [
-        "template--17824597410107__9ddffc45-d823-4e4e-853f-f5a0933f6f11-1676391521c92cff8d-0"
+        "template--17824597410107__9ddffc45-d823-4e4e-853f-f5a0933f6f11-1676391521c92cff8d-0",
+        "0885b999-abfb-4fdc-a4e7-66341b913ecd"
       ],
       "settings": {
         "colors": "white",
         "subheading": "",
-        "title": "Shop the look"
+        "title": "Shop"
       }
     },
     "9ba991cb-730f-44bb-a92f-8c4fd357dfd7": {

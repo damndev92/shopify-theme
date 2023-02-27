@@ -45,8 +45,8 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Amour_Sexe_2_copy.jpg",
         "parallax": true,
-        "alignment": "center",
-        "hero_size": "x-large",
+        "alignment": "top",
+        "hero_size": "medium",
         "text-over-image-width": "fixed"
       }
     },

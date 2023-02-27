@@ -15,7 +15,7 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "EDITS",
         "page_title": "10 of the Best Candle Gifts",
         "title": "",
         "text": "<p>Whether you’re giving, receiving or both (hello, self-love), you can hardly go wrong with a beautiful candlestick or a calming candle. They add ambience to a room and can inspire the most luxurious of armchair travels. We’ve rarely met a candle we didn’t like.<\/p>",
@@ -32,7 +32,7 @@
             "image": "shopify:\/\/shop_images\/twisted_foliage_hand_painted_candle1-1024x683-1.jpg",
             "link": "",
             "title": "",
-            "description": "<p>With the holidays just around the corner, we’re planning to stock up on all things candles. Hand-painted tapers make the perfect hostess gift for those Christmas cocktails you’re going to. A little scented number is ideal for your work Secret Santa. And an extra special candelabra is just the ticket when it comes to treating yourself. How did you know exactly what you wanted?! So, without further ado, we present our list of flaming hot gifts, the things that are really lighting our fire this holiday season.<\/p>"
+            "description": "<p><\/p><p><\/p><p>With the holidays just around the corner, we’re planning to stock up on all things candles. Hand-painted tapers make the perfect hostess gift for those Christmas cocktails you’re going to. A little scented number is ideal for your work Secret Santa. And an extra special candelabra is just the ticket when it comes to treating yourself. How did you know exactly what you wanted?! So, without further ado, we present our list of flaming hot gifts, the things that are really lighting our fire this holiday season.<\/p>"
           }
         }
       },
@@ -55,11 +55,11 @@
         "subheading": "",
         "location": false,
         "title": "1. Esna Glass Candlestick",
-        "text_block": "<p>Think of this as Cinderella’s modern day glass slippers. They’re beautiful. They’re unique. And you most certainly need a pair. These beautiful handblown <a href=\"http:\/\/glass%20candlesticks\/\">glass candlesticks <\/a>were designed by Issy and crafted by hand by Egyptian artisans in Cairo. Though they look light as air, these candlesticks are surprisingly sturdy and will make a lively addition to any mantelpiece or table setting for decades to come.<\/p>",
+        "text_block": "<p>Think of this as Cinderella’s modern day glass slippers. They’re beautiful. They’re unique. And you most certainly need a pair. These beautiful handblown glass candlesticks were designed by Issy and crafted by hand by Egyptian artisans in Cairo. Though they look light as air, these candlesticks are surprisingly sturdy and will make a lively addition to any mantelpiece or table setting for decades to come.<\/p>",
         "page_description": false,
-        "button_link": "",
+        "button_link": "shopify:\/\/products\/buto-glass-candlestick-green-1",
         "hotel_page_url": false,
-        "button_label": ""
+        "button_label": "Shop Now"
       }
     },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
@@ -72,11 +72,11 @@
         "subheading": "",
         "location": false,
         "title": "2. Maison Flâneur’s Elemental Candle Collection",
-        "text_block": "<p>Why have one when you can have all four? This bundle of Maison Flâneur’s exclusive Elemental Candles will carry you through the Christmas period and into the next three seasons. These bespoke candles transport you to another place, another time. <a href=\"https:\/\/www.maisonflaneur.com\/product\/elemental-candle-collection-lair\/\">L’Air<\/a>,<a href=\"https:\/\/www.maisonflaneur.com\/product\/elemental-candle-collection-leau\/\">L’Eau<\/a>,<a href=\"https:\/\/www.maisonflaneur.com\/product\/elemental-candle-collection-le-feu\/\"> Le Feu <\/a>and <a href=\"https:\/\/www.maisonflaneur.com\/product\/elemental-candle-collection-la-terre\/\">La Terre<\/a>. You’ll be humming Earth, Wind & Fire in no time.<\/p>",
+        "text_block": "<p>Why have one when you can have all four? This bundle of Maison Flâneur’s exclusive Elemental Candles will carry you through the Christmas period and into the next three seasons. These bespoke candles transport you to another place, another time. L'Air, L'Eau, Le Feu and La Terre. You’ll be humming Earth, Wind & Fire in no time.<\/p>",
         "page_description": false,
-        "button_link": "",
+        "button_link": "shopify:\/\/products\/elemental-candle-collection-bundle",
         "hotel_page_url": false,
-        "button_label": ""
+        "button_label": "Shop Now"
       }
     },
     "4eaea60d-1b72-4bb0-b6ec-3301a17a3aab": {
@@ -215,6 +215,40 @@
         "button_label": ""
       }
     },
+    "b9f17ae8-a272-4d34-934d-182d99e21c3f": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18084356325691__b9f17ae8-a272-4d34-934d-182d99e21c3f-1677428067d965fdd2-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18084356325691__b9f17ae8-a272-4d34-934d-182d99e21c3f-1677428067d965fdd2-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18084356325691__b9f17ae8-a272-4d34-934d-182d99e21c3f-1677428067d965fdd2-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18084356325691__b9f17ae8-a272-4d34-934d-182d99e21c3f-1677428067d965fdd2-0",
+        "template--18084356325691__b9f17ae8-a272-4d34-934d-182d99e21c3f-1677428067d965fdd2-1",
+        "template--18084356325691__b9f17ae8-a272-4d34-934d-182d99e21c3f-1677428067d965fdd2-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Shop Candles",
+        "title": "Discover The Collection",
+        "collection": "candles",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -256,6 +290,7 @@
     "5dacff41-cd42-4047-afbc-8ffb1e5f34d7",
     "5ad96a86-e841-4a6b-91eb-49afa42585a5",
     "4f7819d0-c50c-44fd-9040-2e632741b974",
+    "b9f17ae8-a272-4d34-934d-182d99e21c3f",
     "main",
     "blog-posts"
   ]

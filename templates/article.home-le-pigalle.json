@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Make Yourself at Home: Review of Le Pigalle, Paris",
+        "width": "large",
+        "subheading": "Make Yourself at Home",
+        "page_title": "Le Pigalle, Paris",
         "title": "",
         "text": "<p><br\/>In Paris’ artsy district – an area named after renowned sculptor Jean-Baptiste Pigalle – the aptly named Le Pigalle is part hotel, part neighbourhood hub, and full of joie de vivre. Its 40 rooms mix vintage furniture with modern design, giving the hotel the playful energy that prompted British GQ to dub the space ‘your new Paris hotel go-to’. Expect très chic monochrome decor, locally sourced food, and even a curated playlist in the sociable open-plan lobby – your new antidote to cookie cutter city travel.<\/p>",
         "button_link": "",
@@ -31,10 +31,12 @@
         "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-02-01T123157.048.png",
         "layout": "left",
         "subheading": "",
+        "location": false,
         "title": "What makes Le Pigalle so special?",
         "text_block": "<p><br\/>Le Pigalle brands itself as a ‘neighbourhood hotel’, and it’s not hard to see why. From the open-plan lobby, with a vinyl library stocking local artists and a curated custom scent powered by Le Labo candles, to the late-service kitchen serving food full of fresh ingredients from nearby small businesses – a warmer welcome at a hotel would be hard to find. In the heart of Paris, on the southern slopes of Montmartre, its youthful spirit and community feel doesn’t just exceed expectations – it shatters them. And with so many ways to entertain yourself (there’s books in every room, too) you may just forget to head out into the city.<br\/><br\/><\/p>",
         "page_description": false,
         "button_link": "shopify:\/\/pages\/le-pigalle",
+        "hotel_page_url": false,
         "button_label": "Discover Now"
       }
     },
@@ -56,10 +58,12 @@
         "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-02-01T125138.046.png",
         "layout": "right",
         "subheading": "",
+        "location": false,
         "title": "What should we expect when staying at Le Pigalle?",
         "text_block": "<p><br\/>In keeping with the decor du jour of the local area, each of the 40 individually styled rooms has a Nouvelle Athènes feel – a decor look characterised by neoclassical architecture, and inspired by artists and poets of the late nineteenth century. It’s a cultured choice, emphasised by handpicked decorative accessories: vintage furniture from the 50s-70s, bright illustrations and art, unusual objets and well-read books. It’s traditionally Parisian, but with a modern twist – think monochrome, clean lines and a spacious layout.<\/p><p><br\/><\/p>",
         "page_description": false,
         "button_link": "shopify:\/\/pages\/le-pigalle",
+        "hotel_page_url": false,
         "button_label": "Discover Now"
       }
     },
@@ -113,10 +117,12 @@
         "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-02-01T124536.120.png",
         "layout": "left",
         "subheading": "",
+        "location": false,
         "title": "Maison Flâneur recommends",
         "text_block": "<p><br\/>Staying in Le Pigalle means living like a local – the friendly team is well-versed in Pigalle’s mysteries, loving nothing better than regaling visitors with stories and tips. And as if it couldn’t get more Parisian, you can enjoy a 24-hour coffee service and locally sourced croissants, delivered fresh every day. Use your coffee break to plan out your day’s activities, and enjoy a playlist curated by a local DJ as you do so.<br\/><br\/><\/p>",
         "page_description": false,
         "button_link": "shopify:\/\/pages\/le-pigalle",
+        "hotel_page_url": false,
         "button_label": "Discover Now"
       }
     },

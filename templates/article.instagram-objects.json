@@ -15,7 +15,7 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "EDITS",
         "page_title": "10 Most Instagram-able objects",
         "title": "",
         "text": "<p>In 2020, as our houses have become the backdrops for most of our Instagram posts, we want our houses to be as fashionable as our favourite hotels or restaurants. Some pieces have become as viral as their influencer owners. We’ve selected for you, our 10 most Instagram-able objects of design.<\/p>",
@@ -30,7 +30,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "60bed94f-19d1-471f-9213-301734a4bab2": {
@@ -43,7 +43,7 @@
         "subheading": "",
         "location": false,
         "title": "Pink as F*** Hoodie",
-        "text_block": "<p>From £48<\/p><p>Exclusively on Maison Flaneur - shop the iconic Pink as Fuck collection from Pietro Nolita in New York. It is almost impossible that you have walked on Elizabeth street, Nolita New-York, without noticing the Italian diner; Because as it’s owner Pietro Quaglia coined it, it is: “Pink, As Fuck”.<\/p>",
+        "text_block": "<p>Exclusively on Maison Flaneur - shop the iconic Pink as Fuck collection from Pietro Nolita in New York. It is almost impossible that you have walked on Elizabeth street, Nolita New-York, without noticing the Italian diner; Because as it’s owner Pietro Quaglia coined it, it is: “Pink, As Fuck”.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -57,7 +57,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
@@ -70,7 +70,7 @@
         "subheading": "",
         "location": false,
         "title": "Verres Amour, Set of 4",
-        "text_block": "<p>£48<\/p><p>There’s a lot to love about these wine glasses. They’re iconic to the patrons of Hôtel Grand Amour, the Parisian hotel owned by renowned graffiti artist André Saraiva. And unsurprisingly – for someone used to writing in unusual places – he designed these engraved wine glasses himself. Each of the 4 wine glasses has a short, thick stem, with an elongated bowl on top – perfect for holding Parisian measures. And around the middle, the word ‘Amour’ is engraved with precision, along with an abstract, accenting wavy line<\/p>",
+        "text_block": "<p>There’s a lot to love about these wine glasses. They’re iconic to the patrons of Hôtel Grand Amour, the Parisian hotel owned by renowned graffiti artist André Saraiva. And unsurprisingly – for someone used to writing in unusual places – he designed these engraved wine glasses himself. Each of the 4 wine glasses has a short, thick stem, with an elongated bowl on top – perfect for holding Parisian measures. And around the middle, the word ‘Amour’ is engraved with precision, along with an abstract, accenting wavy line<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -97,7 +97,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "cf8ec843-a339-468d-862e-885229493590": {
@@ -110,7 +110,7 @@
         "subheading": "",
         "location": false,
         "title": "Yolo Journal – Issue No. 1",
-        "text_block": "<p>£20<\/p><p><\/p><p>\"Our first edition is a love letter to Italy.We’ve divided the issue into sections that parallels the way we think about where we’d like to go: The Sea, The Hills, The Towns, The Lakes. And we’ve asked all our dearest Italian connections to tell us their secret spots throughout the country. We’d like to think it’s an issue you’ll hold onto for years to come. Cover by Stephen Ringer, who photographed his wife Aly Michalka, at Il Pellicano in Italy.\"<em>- Yolanda Edwards<\/em><\/p>",
+        "text_block": "<p>\"Our first edition is a love letter to Italy.We’ve divided the issue into sections that parallels the way we think about where we’d like to go: The Sea, The Hills, The Towns, The Lakes. And we’ve asked all our dearest Italian connections to tell us their secret spots throughout the country. We’d like to think it’s an issue you’ll hold onto for years to come. Cover by Stephen Ringer, who photographed his wife Aly Michalka, at Il Pellicano in Italy.\"<em>- Yolanda Edwards<\/em><\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -124,7 +124,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "df23d901-bed1-4184-9017-aec90dd3effe": {
@@ -137,7 +137,7 @@
         "subheading": "",
         "location": false,
         "title": "Soufflerie Clear Tetes",
-        "text_block": "<p>£30<\/p><p>The verre tête is molded in the likeness of one of la Soufflerie founders', Sebastien. Some of the many uses for him are as a vase, pencil holder, sugar cube holder or our favorite… cocktail glass!<\/p>",
+        "text_block": "<p>The verre tête is moulded in the likeness of one of la Soufflerie's founders, Sebastien. Some of the many uses for him are as a vase, pencil holder, sugar cube holder or our favourite… cocktail glass!<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -151,7 +151,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "197c8eb4-b0b9-4ae4-85b8-be7e1717ebac": {
@@ -161,7 +161,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "bc2c6636-368d-4977-9302-fcd7a55a3821": {
@@ -174,7 +174,7 @@
         "subheading": "",
         "location": false,
         "title": "Cobalt Cafetiere Large",
-        "text_block": "<p>£175<\/p><p><\/p><p>\"A Cafetière. Or French press. The French press was invented in 1933 (by an Italian, Calimani) to make it possible for anyone to make a good cup of coffee in their home.  We had wanted to make a ceramic one for a while - to take the idea of the ‘coffee pot’ (a teapot-like vessel used simply to serve previously brewed coffee in) and cross that with the Cafetière - to make a functional coffee pot for the table. Cutting out the coffee maker middleman and making the ritual of coffee for more than four a delight.<\/p><p>Handmade in our workshop in Devon using fine bone china from Cornwall, the cafetière has stainless steel parts made for us by Steve at his mill just down the road on the outskirts of Exeter. The steel we’ve used is medical-grade, because it’s the best you can get. The jug has an elongated spout to ensure a perfect pour, a large hand-painted handle and a dimpled lid with a fine bone china pull on top that’s a wonkily imperfect circle, to add a FUN-ctional element of sketch-like surprise.\" Feldspar potters & founders<\/p>",
+        "text_block": "<p>\"A Cafetière. Or French press. The French press was invented in 1933 (by an Italian, Calimani) to make it possible for anyone to make a good cup of coffee in their home.  We had wanted to make a ceramic one for a while - to take the idea of the ‘coffee pot’ (a teapot-like vessel used simply to serve previously brewed coffee in) and cross that with the Cafetière - to make a functional coffee pot for the table. Cutting out the coffee maker middleman and making the ritual of coffee for more than four a delight.<\/p><p>Handmade in our workshop in Devon using fine bone china from Cornwall, the cafetière has stainless steel parts made for us by Steve at his mill just down the road on the outskirts of Exeter. The steel we’ve used is medical-grade, because it’s the best you can get. The jug has an elongated spout to ensure a perfect pour, a large hand-painted handle and a dimpled lid with a fine bone china pull on top that’s a wonkily imperfect circle, to add a FUN-ctional element of sketch-like surprise.\" Feldspar potters & founders<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -188,7 +188,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "8dc3fa67-fa12-4e4d-8f91-a45bc1042e6e": {
@@ -215,7 +215,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "ab55c16a-1ffa-49ee-94b5-b9c6725b2ecc": {
@@ -228,7 +228,7 @@
         "subheading": "",
         "location": false,
         "title": "Highbrow Planter II",
-        "text_block": "<p>£224<\/p><p>Single piece sculpture<\/p>",
+        "text_block": "<p>Single piece sculpture<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -242,7 +242,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "c905fc5a-a061-4be7-857e-4fdd14249ce9": {
@@ -255,7 +255,7 @@
         "subheading": "",
         "location": false,
         "title": "Sweet Yellow Mini Terry Robe",
-        "text_block": "<p>£88<\/p><p>With a sunnier and happier take, Mini Terry Robes stand out as the amalgamation of bathrobes and lounge wear. Soft, light, refined yet relaxed, super comfortable robes feature fluffy terry loops and a waist tie with two pockets. Made out of \u00100 long-staple Turkish cotton, they are designed to make you comfortable and happy, anywhere you wear them.<\/p>",
+        "text_block": "<p>With a sunnier and happier take, Mini Terry Robes stand out as the amalgamation of bathrobes and loungewear. Soft, light, refined yet relaxed, super comfortable robes feature fluffy terry loops and a waist tie with two pockets. Made out of \u00100 long-staple Turkish cottons, they are designed to make you comfortable and happy, anywhere you wear them.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -269,7 +269,7 @@
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "fbb75f33-6a13-431e-8067-2090889c794a": {
@@ -282,7 +282,7 @@
         "subheading": "",
         "location": false,
         "title": "Rattan Woven Light Shade",
-        "text_block": "<p>£155<\/p><p>Intricately woven from natural rattan, our unique, parasol-shaped lightshade is inspired by Scandinavian style and will cast beautiful patterns across your room. Perfect for your lounge or dining room, this shade can be fitted to any pendant light fitting. <a href=\"http:\/\/3.9.65.88\/how-to-get-the-scandinavian-modern-style-with-vintage-furniture\/\">Read our guide on how to get the Scandinavian modern style.<\/a><\/p>",
+        "text_block": "<p>Intricately woven from natural rattan, our unique, parasol-shaped lightshade is inspired by Scandinavian style and will cast beautiful patterns across your room. Perfect for your lounge or dining room, this shade can be fitted to any pendant light fitting.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,

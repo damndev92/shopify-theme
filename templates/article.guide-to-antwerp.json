@@ -1,0 +1,145 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BOWRHW2YRAW3U7JLEBTDSR6TQE.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "large",
+        "subheading": "TRAVEL GUIDE",
+        "page_title": "Flights of Fancy: Antwerp",
+        "title": "",
+        "text": "<p>We’ve all been aching for a trip, haven’t we? Though we may have enjoyed the last 18 months of hibernation, everyone we know is not just ready but ecstatic to be on the go again. Who ever thought we’d be missing delayed flights, bland airplane food and hotel city taxes so desperately? <\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "326ac67d-79fb-456f-9650-65eb8c3cf9e6": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "full-width",
+        "subheading": "",
+        "page_title": "",
+        "title": "The best of Antwerp",
+        "text": "<p>While we’re certainly going to hit up some of our old travel standbys, we feel like we’re entering a new era of travel. We’re not necessarily on the hunt for exotic locales and totally off the grid restaurants, but we do find ourselves gravitating to unsung heroes. We’re booking trips to second cities and not-so-hotspots, to places that were hiding in plain sight all along. You heard us right. We’re ditching glamorous, glittering Paris and heading northeast. We’re booking a trip to <em>Antwerp<\/em>. Wondering what to do whilst you’re there? We’ve got you covered<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/7-1024x1024_595641cc-a022-4a43-9ad4-6aba7c81de25.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Where to stay?",
+        "text_block": "<p>Do you love Hotel Grand Amour? You’ll fall just as head over heels for Graanmarkt 13. Never stay anywhere but <a href=\"https:\/\/hotelparticulier.com\/en\/\">Hotel Particulier<\/a>? Book a room at <a href=\"https:\/\/www.august-antwerp.com\/\">August Antwerp<\/a>; you may never look back!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/8-1024x1024_7aa89faf-73fc-434d-952b-5ae8414bcfe2.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Where to eat?",
+        "text_block": "<p>If you can’t get enough of <a href=\"http:\/\/www.septime-charonne.fr\/\">Septime<\/a> whenever you’re in the 11th, we promise you’ll find <a href=\"https:\/\/lejohn.be\/\">Le John<\/a> just as dreamy. Never leave Paris without a baguette in tow from <a href=\"http:\/\/dupainetdesidees.com\/\">Du Pain et Des Idees?<\/a> Give <a href=\"https:\/\/www.domestic-bakkerij.be\/\">Domestic Bakkerij<\/a> a go. The pastries are nothing to sneeze at; trust us.<\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "cce337a4-d949-49f1-9b64-b83298a02463": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/9-1024x1024_873b37f6-2a3a-43cd-a09d-5217619c37e4.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Where to shop?",
+        "text_block": "<p>Forget <a href=\"https:\/\/merci-merci.com\/en\">Merci<\/a>. Shopping is just as good (if not better) at <a href=\"https:\/\/www.stvincents.co\/\">St. Vincents<\/a> and <a href=\"http:\/\/www.princess.eu\/store\/renaissance\/\">Renaissance<\/a>.<\/p><p><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "5c906c6c-e178-4742-8700-d2e1be79e9d1": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/10-1024x1024_a5880013-6f14-43e9-92ea-b521f16ec669.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Where to go?",
+        "text_block": "<p>And, last but not least, we can never resist a little culture. While the Atelier Brancusi is all well and good, we simply adore the <a href=\"https:\/\/rubenshuis.be\/nl\">Rubenshuis<\/a>. And while it may not be the Louvre, the <a href=\"https:\/\/www.museumplantinmoretus.be\/nl\">Plantin-Moretus Museum<\/a> will have you thinking ‘Mona Lisa, who?’<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "326ac67d-79fb-456f-9650-65eb8c3cf9e6",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "cce337a4-d949-49f1-9b64-b83298a02463",
+    "5c906c6c-e178-4742-8700-d2e1be79e9d1",
+    "main",
+    "blog-posts"
+  ]
+}

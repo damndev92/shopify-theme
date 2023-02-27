@@ -15,10 +15,10 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
-        "page_title": "Flânerie in the design backstage: A Hotel Tale",
-        "title": "",
-        "text": "<p>‘Allo’ <\/p><p>‘Hi – this is Ian Schragger – am I speaking to Philippe Starck?’<\/p><p>‘Yes’<\/p><p>‘Can you come to New York?’ I would love for you to reinvent the concept of palaces for me’ <\/p><p>‘I’ve never been to a palace of my life’<\/p><p>‘It doesn’t matter. I have prepared you fifteen days to experiment. Every day, twice a day, you will change hotels. And after that, you’ll tell me what you think.’<\/p><p>‘Alright, send me money for the flight’<\/p><p> <\/p><p><a href=\"https:\/\/astridmalingreau.com\/\">By Astrid Malingreau<\/a><\/p>",
+        "subheading": "the Flâneurs",
+        "page_title": "",
+        "title": "Flânerie in the design backstage: A Hotel Tale",
+        "text": "<p>‘Allo’ <\/p><p>‘Hi – this is Ian Schragger – am I speaking to Philippe Starck?’<\/p><p>‘Yes’<\/p><p>‘Can you come to New York?’ I would love for you to reinvent the concept of palaces for me’ <\/p><p>‘I’ve never been to a palace in my life<\/p><p>‘It doesn’t matter. I have prepared you fifteen days to experiment. Every day, twice a day, you will change hotels. And after that, you’ll tell me what you think.’<\/p><p>‘Alright, send me money for the flight’ <\/p><p><a href=\"https:\/\/astridmalingreau.com\/\">By Astrid Malingreau<\/a><\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -80,7 +80,7 @@
         "colors": "white",
         "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/Schermata-2021-05-12-alle-15.46.46.png",
-        "layout": "right",
+        "layout": "left",
         "subheading": "",
         "location": false,
         "title": "",

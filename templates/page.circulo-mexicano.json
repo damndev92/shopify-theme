@@ -109,17 +109,29 @@
         "template--17824560611643__531141af-d88a-4ddc-a4a0-fbc9e984f5c7-1676391521c92cff8d-0": {
           "type": "product",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CM_SHOP_THE_LOOK.jpg",
+            "image": "shopify:\/\/shop_images\/shop_the_look_TEMPLATE_3.png",
+            "image__position": "image--left",
+            "product": "1784-wooden-chair-with-polypropylene-fabric",
+            "product-2": "high-wooden-coat-rack",
+            "product-3": "1784-collection-wooden-stool",
+            "product-4": "u-collection-wooden-nightstand-with-drawer"
+          }
+        },
+        "2ac1fa8d-8ed8-4466-84cf-aef82a693c67": {
+          "type": "product",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shop_the_look_TEMPLATE_4.png",
             "image__position": "image--left",
             "product": "1784-collection-wooden-chair",
-            "product-2": "1784-collection-wooden-rocking-chair",
-            "product-3": "1784-collection-wooden-stool",
-            "product-4": ""
+            "product-2": "1784-collection-wooden-coffee-table",
+            "product-3": "u-collection-wooden-bench",
+            "product-4": "i-collection-wooden-chair-with-metallic-structure"
           }
         }
       },
       "block_order": [
-        "template--17824560611643__531141af-d88a-4ddc-a4a0-fbc9e984f5c7-1676391521c92cff8d-0"
+        "template--17824560611643__531141af-d88a-4ddc-a4a0-fbc9e984f5c7-1676391521c92cff8d-0",
+        "2ac1fa8d-8ed8-4466-84cf-aef82a693c67"
       ],
       "settings": {
         "colors": "white",

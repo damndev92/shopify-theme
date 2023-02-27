@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Article-header-image-1-1024x341.png",
+        "image": "shopify:\/\/shop_images\/pigalle_dac209c4-945c-4e79-845a-56f25c2fb7ba.png",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -15,7 +15,7 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "",
+        "subheading": "Destinations",
         "page_title": "Discover the Le Pigalle, Paris Shop",
         "title": "",
         "text": "<p>We have partnered with one of our favourite destinations Le Pigalle in Paris! Together we have curated the ultimate festive shop. Explore the limited edition collection of merchandise designed by famed tattoo artist Jean Andre, glassware by Anissa Kermiche, and beautiful statement lighting from Charlotte Perriand.<\/p>",
@@ -33,7 +33,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>White Cotton Graphic Tote Bag, Jean André x Le Pigalle<\/strong><\/p><p>Grocery shopping’s no fun. But thanks to this graphic cotton tote bag, you can do it in style. Its ample size makes days out in the city a dream, able to hold everything you need. And with a bold graphic lip print and a short, easy-to-grab handle, it’s been designed for both form and function.<\/p><p>This piece is part of a collaboration between artist <a href=\"http:\/\/jeanandre.fr\/\" target=\"_blank\">Jean André<\/a> and <a href=\"https:\/\/www.maisonflaneur.com\/venues\/le-pigalle\/products\/\">Le Pigalle<\/a> – a spot loved by creatives, his illustrations and posters are well-loved on Instagram, and thanks to this tote bag’s playful design, even the most mundane of days can become an Instagram-worthy moment.<\/p>",
+        "text_block": "<p><strong>White Cotton Graphic Tote Bag, Jean André x Le Pigalle<br\/><br\/><\/strong><\/p><p>Grocery shopping’s no fun. But thanks to this graphic cotton tote bag, you can do it in style. Its ample size makes days out in the city a dream, able to hold everything you need. And with a bold graphic lip print and a short, easy-to-grab handle, it’s been designed for both form and function.<br\/><br\/><\/p><p>This piece is part of a collaboration between artist Jean Andre and Le Pigalle– a spot loved by creatives, his illustrations and posters are well-loved on Instagram, and thanks to this tote bag’s playful design, even the most mundane of days can become an Instagram-worthy moment.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -50,7 +50,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>White Cotton Graphic T-shirt, Le Pigalle<\/strong><\/p><p>You probably don’t think ‘uniform’ when you think of Pigalle – a neighbourhood in Paris that’s anything but. That was local designer Olivia’s challenge, when asked to design the ‘anti-uniform’ in collaboration with urban-cool boutique hotel Le Pigalle.<\/p><p>This white cotton, short-sleeved t-shirt forms part of the collaboration, worn by hotel staff at Le Pigalle. With its small heart-shaped logo and monochrome design, it’s perfectly Parisian, and perfectly Pigalle. Style it with your favourite jeans for easy, comfortable, city style.<\/p>",
+        "text_block": "<p><strong>White Cotton Graphic T-shirt, Le Pigalle<br\/><br\/><\/strong><\/p><p>You probably don’t think ‘uniform’ when you think of Pigalle – a neighbourhood in Paris that’s anything but. That was local designer Olivia’s challenge, when asked to design the ‘anti-uniform’ in collaboration with urban-cool boutique hotel Le Pigalle.<br\/><br\/><\/p><p>This white cotton, short-sleeved t-shirt forms part of the collaboration, worn by hotel staff at Le Pigalle. With its small heart-shaped logo and monochrome design, it’s perfectly Parisian, and perfectly Pigalle. Style it with your favourite jeans for easy, comfortable, city style.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -80,7 +80,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>White Cotton Graphic Backpack, Jean André x Le Pigalle<\/strong><\/p><p>The latest piece from the Le Pigalle X Jean André collaboration is the White Cotton Graphic Backpack. Perfect for everyday use with the ability to hold everything you need. It has a bold graphic lip print with a stylish backpack design.<\/p>",
+        "text_block": "<p><strong>White Cotton Graphic Backpack, Jean André x Le Pigalle<\/strong><\/p><p><strong><br\/><\/strong><\/p><p>The latest piece from the Le Pigalle X Jean André collaboration is the White Cotton Graphic Backpack. Perfect for everyday use with the ability to hold everything you need. It has a bold graphic lip print with a stylish backpack design.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -97,53 +97,45 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Red Enamel Shoe Keyring, Jean André x Le Pigalle<\/strong><\/p><p>All the coolest Parisians love Jean André, the infamous illustrator with a passion for all things feminine and vintage. His posters hang in many indie-cool living rooms in Pigalle. And now you can take a piece of his art wherever you go, thanks to this enamel keyring in the shape of chic red high heels.<\/p><p>This piece is part of a collaboration between the artist and Le Pigalle.<\/p>",
+        "text_block": "<p><strong>Red Enamel Shoe Keyring, Jean André x Le Pigalle<br\/><br\/><\/strong><\/p><p>All the coolest Parisians love Jean André, the infamous illustrator with a passion for all things feminine and vintage. His posters hang in many indie-cool living rooms in Pigalle. And now you can take a piece of his art wherever you go, thanks to this enamel keyring in the shape of chic red high heels.<\/p><p>This piece is part of a collaboration between the artist and Le Pigalle.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
         "button_label": ""
       }
     },
-    "428e3d03-e814-48b6-a038-604aea53a8b9": {
-      "type": "image--gallery",
+    "f2e7e91d-0f94-4931-b030-8f5852600268": {
+      "type": "collection--featured-collection",
       "blocks": {
-        "template--18075187511611__428e3d03-e814-48b6-a038-604aea53a8b9-16769941554343e511-0": {
-          "type": "image",
+        "template--18075187511611__f2e7e91d-0f94-4931-b030-8f5852600268-1677428067d965fdd2-0": {
+          "type": "grid-card-title",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hotel-pigalle-Packshot-111-1024x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>White Cotton Graphic Tote Bag, Jean André x Le Pigalle<\/p><p>£24<\/p>"
           }
         },
-        "template--18075187511611__428e3d03-e814-48b6-a038-604aea53a8b9-16769941554343e511-1": {
-          "type": "image",
+        "template--18075187511611__f2e7e91d-0f94-4931-b030-8f5852600268-1677428067d965fdd2-1": {
+          "type": "grid-card-price",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Le-Pigalle-White-T-shirt-1024x1024.jpg",
-            "link": "",
-            "title": "",
-            "description": "<p>White Cotton Graphic T-shirt, Le Pigalle<\/p><p>From £27<\/p>"
           }
         },
-        "template--18075187511611__428e3d03-e814-48b6-a038-604aea53a8b9-16769941554343e511-2": {
-          "type": "image",
+        "template--18075187511611__f2e7e91d-0f94-4931-b030-8f5852600268-1677428067d965fdd2-2": {
+          "type": "grid-card-swatches",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1-3-1024x1024_c50427f1-d297-43d6-9d77-9a258a9929e3.png",
-            "link": "",
-            "title": "",
-            "description": "<p>Tit for Tat Glass Carafe – Blue Bundle<\/p><p>£155<\/p>"
           }
         }
       },
       "block_order": [
-        "template--18075187511611__428e3d03-e814-48b6-a038-604aea53a8b9-16769941554343e511-0",
-        "template--18075187511611__428e3d03-e814-48b6-a038-604aea53a8b9-16769941554343e511-1",
-        "template--18075187511611__428e3d03-e814-48b6-a038-604aea53a8b9-16769941554343e511-2"
+        "template--18075187511611__f2e7e91d-0f94-4931-b030-8f5852600268-1677428067d965fdd2-0",
+        "template--18075187511611__f2e7e91d-0f94-4931-b030-8f5852600268-1677428067d965fdd2-1",
+        "template--18075187511611__f2e7e91d-0f94-4931-b030-8f5852600268-1677428067d965fdd2-2"
       ],
       "settings": {
         "colors": "white",
-        "subheading": "",
-        "title": "Explore The Collection Below"
+        "subheading": "Le Pigalle, Paris",
+        "title": "Explore The Collection Below",
+        "collection": "le-pigalle",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "blog-posts": {
@@ -168,7 +160,7 @@
     "main",
     "53d7bb0e-b784-42a0-8e5f-29e929f07111",
     "e17944b9-3a17-47df-a09a-9a900eea390d",
-    "428e3d03-e814-48b6-a038-604aea53a8b9",
+    "f2e7e91d-0f94-4931-b030-8f5852600268",
     "blog-posts"
   ]
 }

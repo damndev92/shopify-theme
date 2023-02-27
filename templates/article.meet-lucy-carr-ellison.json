@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Green-Fruit-Bowl-5-1024x768.jpg",
+        "image": "shopify:\/\/shop_images\/7bdec1c8f0c05a659ba12ed8aa6caa4e.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -14,9 +14,9 @@
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "Meet Lucy Carr-Ellison, Founder of Tart London",
+        "width": "large",
+        "subheading": "THE FLÂNEURS",
+        "page_title": "Meet Lucy Carr-Ellison, Founder of Tart, London",
         "title": "",
         "text": "<p>Lucy Carr-Ellison (On the right of this picture), is a cook, food writer, and one half of the duo, with Jemima Jones of  Tart London.  Tart started in 2012 as a catering company that provides high-quality, healthy, and delicious on-site cooking for fashion and film shoots and private events. Lucy and Jemima, along with Tom Warren of Lock Studios, have opened <a href=\"https:\/\/wildbytart.com\/\">Wild by Tart,<\/a> in the heart of Victoria. In the 9000sq ft of this former power station and coal store in London, you’ll find: a restaurant, bar, deli and kiosk, delicious food and so much more.<\/p>",
         "button_link": "",
@@ -67,58 +67,7 @@
         "subheading": "",
         "location": false,
         "title": "",
-        "text_block": "<p><strong>Favourite hotel in London\/in the world?<\/strong><\/p><p>Last year, I went to Kalinaw on Siagaro island in the Philippines which was incredible<\/p><p><strong>Favourite address for decoration in London\/ in the world.<\/strong><\/p><p>Kempton Market, if you’re luck<\/p><p><strong>Is there an object you wish you had brought home from a hotel or a restaurant?<\/strong><\/p><p>There’s a hotel in Morocco called El Fenn, pretty much everything in there I wish I could have taken home.<\/p><p>(Lucy is in luck, you can bring some home thanks to Maison Flâneur <a href=\"https:\/\/www.maisonflaneur.com\/venues\/el-fenn\/products\/\">here<\/a>)<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "6c8c972e-f856-4f46-9a87-3b85f0349fcc": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Cook-Book-768x1024.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "Private: Cook Book",
-        "text_block": "<p>€35<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "42576f2c-d3df-43f5-b88e-148f580c2322": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Wild-Terracotta-Plate-in-Blue-768x1024.jpg",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "Private: Wild Terracotta Plate in Blue",
-        "text_block": "<p>€36<\/p><p>Made in Mallorca.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "a9dc19ab-70e0-40bf-9af6-540e78171b72": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/Tart-Terracotta-Plate-in-Red-768x1024.jpg",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "Private: Tart Terracotta Plate in Red",
-        "text_block": "<p>€36<\/p><p>Made in Mallorca.<\/p>",
+        "text_block": "<p><strong>Favourite hotel in London\/in the world?<\/strong><\/p><p>Last year, I went to Kalinaw on Siagaro island in the Philippines which was incredible<\/p><p><strong>Favourite address for decoration in London\/ in the world.<\/strong><\/p><p>Kempton Market, if you’re luck<\/p><p><strong>Is there an object you wish you had brought home from a hotel or a restaurant?<\/strong><\/p><p>There’s a hotel in Morocco called El Fenn, pretty much everything in there I wish I could have taken home.<\/p><p><\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -158,9 +107,6 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "8bf6c2a4-5b76-4df7-87e6-98a8b0f6059a",
-    "6c8c972e-f856-4f46-9a87-3b85f0349fcc",
-    "42576f2c-d3df-43f5-b88e-148f580c2322",
-    "a9dc19ab-70e0-40bf-9af6-540e78171b72",
     "main",
     "blog-posts"
   ]
