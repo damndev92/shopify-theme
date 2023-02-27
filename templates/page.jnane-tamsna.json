@@ -99,11 +99,13 @@
         "colors": "white",
         "width": 220,
         "subheading": "",
-        "title": ""
+        "title": "",
+        "mobile_image": "shopify:\/\/shop_images\/jnane_05c3feba-2159-4d0a-b2df-3d446c5052f8.png"
       }
     },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
       "type": "product--shop-the-look",
+      "disabled": true,
       "blocks": {
         "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
           "type": "product",
@@ -264,7 +266,7 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
           "type": "tab_content",
           "settings": {
-            "question": "where to eat?",
+            "question": "how would you describe the food?",
             "text": "<p>Drawing on Morocco’s rich culinary heritage and inspired by modern Mediterranean cuisine, meals are a movable feast to be enjoyed in Jnane's vast gardens or in our spacious dining room.<\/p>"
           }
         },
