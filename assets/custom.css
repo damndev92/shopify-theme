@@ -377,10 +377,6 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 50px;
 }
 
-.maison-grid-collection article .homepage-collection-link a {
-    pointer-events: none;
-}
-
 .maison-grid-collection article .article-title {
     margin-top: 15px;
     margin-bottom: 10px;
