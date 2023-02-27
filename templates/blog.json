@@ -13,7 +13,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/FLaNEUR_MAGAZINE_1.png",
-            "mobile_image": "shopify:\/\/shop_images\/NEW_IN_3.png",
+            "mobile_image": "shopify:\/\/shop_images\/NEW_IN_4.png",
             "subheading": "",
             "title": "FLÂNEUR MAGAZINE",
             "text": "",
@@ -39,12 +39,12 @@
         "slider-width": "full-width",
         "show-slide-full-screen": false,
         "slider-slide-time": 5,
-        "caption-heading-size": 52,
+        "caption-heading-size": 30,
         "show-slide-dots": false,
         "show-slide-arrows": false,
         "show-slide-controls": false,
         "slider-navigation--color": "#ffffff",
-        "overlay": true
+        "overlay": false
       }
     },
     "77b1822d-4dfc-4cf1-aac1-eabc999205b8": {
