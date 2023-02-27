@@ -104,6 +104,7 @@
     },
     "9fea23e4-4148-476e-8672-5ecd0222c1b0": {
       "type": "product--shop-the-look",
+      "disabled": true,
       "blocks": {
         "7ffbdd07-c76e-4465-9e5b-32f26115f01e": {
           "type": "product",
