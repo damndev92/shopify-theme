@@ -72,7 +72,7 @@
         "show-slide-full-screen": false,
         "slider-slide-time": 8,
         "caption-heading-size": 52,
-        "show-slide-dots": false,
+        "show-slide-dots": true,
         "show-slide-arrows": false,
         "show-slide-controls": false,
         "slider-navigation--color": "#ffffff",
@@ -126,7 +126,7 @@
         "template--17643497783611__96b97083-6b8b-479e-a943-5eb7568e145a-1676564864eb37761e-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_2629826e-e478-4986-ae84-6b1c0fe83df0.png",
+            "image": "shopify:\/\/shop_images\/1_79aa168a-c590-4047-8467-766b36165d2a.png",
             "link": "shopify:\/\/collections\/new-in",
             "title": "",
             "description": ""
@@ -135,7 +135,7 @@
         "template--17643497783611__96b97083-6b8b-479e-a943-5eb7568e145a-1676564864eb37761e-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_9b28dcee-e6e5-4bb5-9175-566e2fad0463.png",
+            "image": "shopify:\/\/shop_images\/NEW_IN_2edc73aa-e6fb-4c70-8351-bd577b8bd8bf.png",
             "link": "shopify:\/\/pages\/shop-by-destination",
             "title": "",
             "description": ""
@@ -144,7 +144,7 @@
         "template--17643497783611__96b97083-6b8b-479e-a943-5eb7568e145a-1676564864eb37761e-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/NEW_IN.png",
+            "image": "shopify:\/\/shop_images\/3_b062aaae-aff6-4a7d-9bfc-8c95ce325b5b.png",
             "link": "shopify:\/\/pages\/our-brands",
             "title": "",
             "description": ""
@@ -170,7 +170,7 @@
       "settings": {
         "colors": "white",
         "subheading": "",
-        "title": ""
+        "title": "Maison Flaneur"
       }
     },
     "ab24a27b-0737-410b-b2cb-3f65e5c9d489": {
@@ -297,7 +297,7 @@
       "type": "newsletter--newsletter",
       "settings": {
         "colors": "dark",
-        "subheading": "",
+        "subheading": "Become a Flâneur",
         "title": "FOR THE LOVE OF DESIGN",
         "newsletter_description": "<p>Sign up for early access to our latest collaborations, far-flung and under-the-radar travel inspo and if we haven't convinced you yet... get 10% off your first order!<\/p>"
       }
