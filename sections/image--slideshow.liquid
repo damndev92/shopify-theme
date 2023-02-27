@@ -15,7 +15,7 @@
 
 				<div class="row">
 					<div class="flexslider-container col-md-12">
-						<div class="flexslider flexslider-homepage{% if section.settings.show-slide-full-screen %} slideshow--full-screen{% endif %}" data-slider-id="{{ section.id }}" data-slider-slide-time="{{ section.settings.slider-slide-time }}000" data-slider-animation="{{ section.settings.slider-animation }}" data-slider-controls="{{ section.settings.show-slide-controls }}" data-slider-dots="{{ section.settings.show-slide-dots }}" data-slider-arrows="{{ section.settings.show-slide-arrows }}">
+						<div class="flexslider swiper flexslider-homepage{% if section.settings.show-slide-full-screen %} slideshow--full-screen{% endif %}" data-slider-id="{{ section.id }}" data-slider-slide-time="{{ section.settings.slider-slide-time }}000" data-slider-animation="{{ section.settings.slider-animation }}" data-slider-controls="{{ section.settings.show-slide-controls }}" data-slider-dots="{{ section.settings.show-slide-dots }}" data-slider-arrows="{{ section.settings.show-slide-arrows }}">
 							<ul class="slides">
 								{% assign number_of_slides_float = section.blocks | size | times:1.0 %}
 
@@ -295,9 +295,9 @@
                                     width: 100% !important;
                                 }
 
-                                .splitted-flex-slider:not(:nth-of-type({{ section.settings.slide_on_mobile }})) {
+                                /* .splitted-flex-slider:not(:nth-of-type({{ section.settings.slide_on_mobile }})) {
                                     display: none !important;
-                                }
+                                } */
                             }
                         </style>
                     {% endfor %}
@@ -458,7 +458,85 @@
 		}
 	}
 </style>
+<script>
+    let swiper = null;
+    let originalHTML = null;
 
+    function loadSlider() {
+        if (window.innerWidth < 768) {
+            const slides = document.querySelector('.slides');
+            slides.classList.add('swiper-wrapper');
+
+            const swiperPagination = document.createElement('div');
+            swiperPagination.classList.add('swiper-pagination');
+            slides.parentNode.insertBefore(swiperPagination, slides.nextSibling);
+
+            const slideshowMobileImages = document.querySelectorAll('.splitted-flex-slider');
+            slideshowMobileImages.forEach((image) => {
+                image.classList.add('swiper-slide');
+            });
+
+            // initialize the slider when screen size is smaller than mobile breakpoint
+            if (!swiper) {
+                swiper = new Swiper('.flexslider.swiper', {
+                    loop: true,
+                    pagination: {
+                        el: '.swiper-pagination',
+                        clickable: true
+                    }
+                });
+            }
+        } else {
+            const slides = document.querySelector('.slides');
+            slides.classList.remove('swiper-wrapper');
+
+            const slideshowMobileImages = document.querySelectorAll('.splitted-flex-slider');
+            slideshowMobileImages.forEach((image) => {
+                image.classList.remove('swiper-slide');
+            });
+
+            const swiperPagination = document.querySelector('.swiper-pagination');
+            if (swiperPagination) {
+                swiperPagination.parentNode.removeChild(swiperPagination);
+            }
+
+            // remove all swiper instances when screen size is larger than mobile breakpoint
+            const swiperContainers = document.querySelectorAll('.flexslider.swiper .swiper-container');
+            if (swiperContainers) {
+                swiperContainers.forEach(container => {
+                    container.parentNode.removeChild(container);
+                });
+            }
+            if (swiper) {
+                swiper.destroy();
+                swiper = null;
+            }
+
+            // load the original HTML when screen size is larger than mobile breakpoint
+            if (originalHTML) {
+                const flexslider = document.querySelector('.flexslider');
+                flexslider.innerHTML = originalHTML;
+                originalHTML = null;
+            }
+        }
+    }
+
+    // save the original HTML inside the flexslider container on desktop load
+    window.addEventListener('load', () => {
+        const flexslider = document.querySelector('.flexslider');
+        originalHTML = flexslider.innerHTML;
+        flexslider.removeAttribute('style');
+    });
+
+    // load slider on page load
+    loadSlider();
+
+    // add event listener to reload slider on screen resize
+    window.addEventListener('resize', () => {
+        loadSlider();
+    });
+
+</script>
 {% schema %}
 {
     "name": {
