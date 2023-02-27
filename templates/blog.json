@@ -157,9 +157,9 @@
       "type": "newsletter--newsletter",
       "settings": {
         "colors": "dark",
-        "subheading": "",
-        "title": "Join our Mailing List",
-        "newsletter_description": "<p>Describe the benefits of your newsletter<\/p>"
+        "subheading": "Become a flâneur",
+        "title": "Join our community!",
+        "newsletter_description": ""
       }
     },
     "175d16b8-8f1f-4a9a-8422-7302b25d0f4b": {
