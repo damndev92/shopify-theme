@@ -291,7 +291,7 @@
           "type": "tab_content",
           "settings": {
             "question": "WHERE TO EAT?",
-            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+            "text": "<p>Eat at the the rooftop terrace, where the restaurant provides spectacular views of the capital’s Metropolitan Cathedral, National Palace, Templo Mayor and Torre Latino americana, which makes it one of the most attractive meeting points in the city. <br\/>We serve organic wines, traditional mezcals, freshly made fruit infused waters and juices from the bar which also serves a selection of snacks and side dishes cooked on an open grill.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
@@ -304,8 +304,8 @@
         "59b8580a-a40d-47f5-ac44-cf3db9849e10": {
           "type": "tab_content",
           "settings": {
-            "question": "three facts MOST PEOPLE DON'T KNOW ABOUT grupo habita?",
-            "text": "<p>Three facts about Grupo Habita: We have fun. We love our jobs. We are permanent nomads.<\/p>"
+            "question": "three facts MOST PEOPLE DON'T KNOW ABOUT Circulo Mexicano?",
+            "text": "<p>Three facts: We have fun. We love our jobs. We are permanent nomads.<\/p>"
           }
         }
       },

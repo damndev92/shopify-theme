@@ -297,7 +297,7 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
           "type": "tab_content",
           "settings": {
-            "question": "where to eat?",
+            "question": "How would you describe the food at le pigalle?",
             "text": "<p>At Le Pigalle, we assemble flavours that reflect the diversity of the neighbourhood; scallops in the restaurant, croque-monsieur in your room, kebab in the street or espresso to take away.<\/p>"
           }
         },
@@ -312,7 +312,7 @@
           "type": "tab_content",
           "settings": {
             "question": "something most people don't know about paris?",
-            "text": "<p>One of the fun fact about Paris is that the famous cocktail, Bloody Mary was first made in the French Capital.<\/p>"
+            "text": "<p>The famous cocktail, The Bloody Mary was first made in the French Capital.<\/p>"
           }
         }
       },
@@ -403,7 +403,7 @@
           "settings": {
             "blog_post_1": "flaneur-magazine\/make-yourself-at-home-review-of-le-pigalle-paris",
             "blog_post_2": "flaneur-magazine\/object-of-desire-anissa-kermiche-le-pigalle-paris",
-            "blog_post_3": "flaneur-magazine\/discover-the-le-pigalle-paris-shop",
+            "blog_post_3": "",
             "blog_post_4": ""
           }
         }
@@ -415,7 +415,7 @@
         "colors": "white",
         "subheading": "Read From",
         "title": "Flâneur Magazine",
-        "post_limit": 3,
+        "post_limit": 2,
         "show_author_name": false,
         "show_dates": false,
         "show_blog_images": true,

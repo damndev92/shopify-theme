@@ -113,8 +113,8 @@
             "image__position": "image--left",
             "product": "hunter-desk-lamp",
             "product-2": "alfonso-scented-candle",
-            "product-3": "abstract-4",
-            "product-4": ""
+            "product-3": "viso-merino-blanket-black",
+            "product-4": "viso-jazz-porcelain-vase-navy"
           }
         }
       },
@@ -245,7 +245,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "large",
+        "image-width": "extra-large",
         "image": "shopify:\/\/shop_images\/pacai.png",
         "layout": "left",
         "subheading": "meet the host - Rūta Pulkauninkaitė-Macikė",
@@ -253,7 +253,7 @@
         "title": "\"My favourite story (about Pacai) was when a guest who watched a TV show before going to sleep, met the main actor of the TV show as he arrived for breakfast.  He ran to reception asking if he had had a hallucination!\"",
         "text_block": "",
         "page_description": false,
-        "button_link": "",
+        "button_link": "shopify:\/\/blogs\/flaneur-magazine\/meet-ruta-pulkauninkaite-macike-hotel-pacai-vilnius",
         "hotel_page_url": false,
         "button_label": "Read More"
       }

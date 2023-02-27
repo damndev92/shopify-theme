@@ -113,11 +113,24 @@
         "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "",
-        "text_block": "<p><strong>Is there a Danish way of hosting? <\/strong><\/p><p>I actually do not know but there is never a shortage of wine and snacks, haha..<\/p><p><strong>What are your tips for the perfect table setting? <\/strong><\/p><p>Rather too much than too little. Remember flowers and candles. And I think placemats or a tablecloth can always make a boring day more festive.<\/p><p><strong>Any wishes for 2022?<\/strong><\/p><p>No war – only peace!<\/p>",
+        "title": "Is there a Danish way of hosting? ",
+        "text_block": "<p>I actually do not know but there is never a shortage of wine and snacks, haha..<\/p><p><\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "2557b9f8-1960-4499-88d3-5bd438ae7e3c": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "What are your tips for the perfect table setting?",
+        "text": "<p>Rather too much than too little. Remember flowers and candles. And I think placemats or a tablecloth can always make a boring day more festive.<\/p>",
+        "button_link": "",
         "button_label": ""
       }
     },
@@ -178,6 +191,7 @@
     "62b0f83b-aff0-48c8-b9a8-6e9d716edebb",
     "c42446e6-aee0-42c5-b5c9-ade2d5036596",
     "632ea9d6-7300-4008-ad2e-af35ae66de7b",
+    "2557b9f8-1960-4499-88d3-5bd438ae7e3c",
     "714f5b3e-35c7-404e-aada-b50036431350",
     "blog-posts"
   ]

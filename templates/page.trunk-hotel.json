@@ -112,7 +112,7 @@
             "product": "beefbar-main-plate-knife-emoji",
             "top": 63,
             "left": 51,
-            "disable_spot": false
+            "disable_spot": true
           }
         },
         "61a17092-0b88-43c9-888c-ee6b50651501": {
@@ -121,7 +121,7 @@
             "product": "design-clock-solari-cifra-3-black",
             "top": 0,
             "left": 0,
-            "disable_spot": false
+            "disable_spot": true
           }
         },
         "2d0cd767-4992-4798-8a74-406d517d073e": {
@@ -130,7 +130,7 @@
             "product": "wall-lamp-applique-a-volant-pivotant-plie-by-charlotte-perriand",
             "top": 33,
             "left": 0,
-            "disable_spot": false
+            "disable_spot": true
           }
         }
       },
