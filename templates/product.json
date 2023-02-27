@@ -152,14 +152,14 @@
           "type": "tab_content",
           "settings": {
             "question": "When will my product be delivered?",
-            "text": "<p>We strive to give you access to independent brands from all over the world. This means delivery times may vary make sure to check our estimated lead time on each product page. Once your order is dispatched you will receive your tracking information. <\/p>"
+            "text": "<p>Delivery times may vary make sure to check our estimated lead time on each product page. Once your order is dispatched you will receive your tracking information by email. <\/p>"
           }
         },
         "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-1": {
           "type": "tab_content",
           "settings": {
             "question": "Can I return my product?",
-            "text": "<p>Most of our products are elligeble for return withing 14 days of delivery. If your product is made to order, we cannot accept any returns. Make sure to check the delivery and return section on each product page for more information.<\/p>"
+            "text": "<p>Most of our products are eligible for return within 14 days of delivery. If your product is made to order, we cannot accept any returns. Make sure to check the delivery and return section on each product page for more information.<\/p>"
           }
         },
         "template--17643497914683__65211727-6a2a-4219-a8f9-1f8ac9a1ba73-1674222159f1fe3a91-0": {
