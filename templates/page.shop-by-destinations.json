@@ -91,7 +91,7 @@
         "collection_type": "hotel",
         "number_of_collections_to_display": 0,
         "show_location": true,
-        "show_filter_location": true,
+        "show_filter_location": false,
         "content_alignment": "center",
         "show_buttons_over_image": true,
         "image_size": "big"
