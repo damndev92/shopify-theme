@@ -74,6 +74,15 @@
         "text-over-image-width": "full-width"
       }
     },
+    "ad180775-de38-4fa2-ad98-1da9654f8455": {
+      "type": "newsletter--newsletter",
+      "settings": {
+        "colors": "accent",
+        "subheading": "",
+        "title": "Join our Mailing List",
+        "newsletter_description": "<p>Describe the benefits of your newsletter<\/p>"
+      }
+    },
     "86c13f5c-2fc8-449d-8260-f997667eac00": {
       "type": "visual-navigation-banner",
       "blocks": {
@@ -81,7 +90,7 @@
           "type": "navigation_link",
           "settings": {
             "link_url": "https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/the-flaneurs",
-            "link_image": "shopify:\/\/shop_images\/FACT_BLOCKS_4ab8954e-42d4-4c2c-9612-b7e31fb8d8e1.png",
+            "link_image": "shopify:\/\/shop_images\/Design_Inspo_9.png",
             "link_text": "The Flâneurs"
           }
         },
@@ -187,6 +196,7 @@
     "ee74f721-c7ad-4284-9dc1-aeb57f9c6e6f",
     "77b1822d-4dfc-4cf1-aac1-eabc999205b8",
     "1272ddd9-0b1a-4d69-a6cd-885e6ad0c43b",
+    "ad180775-de38-4fa2-ad98-1da9654f8455",
     "86c13f5c-2fc8-449d-8260-f997667eac00",
     "main",
     "175d16b8-8f1f-4a9a-8422-7302b25d0f4b",
