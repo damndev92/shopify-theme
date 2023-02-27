@@ -177,7 +177,7 @@
       "settings": {
         "url": "https:\/\/youtu.be\/HD_8Ibc8tkQ",
         "desktopHeight": "550",
-        "mobileHeight": "fullscreen",
+        "mobileHeight": "550",
         "subheading": "NEW BRAND",
         "title": "JORE COPENHAGEN",
         "text": "",
@@ -185,8 +185,8 @@
         "textColor": "#ffffff",
         "textShadow": true,
         "subheading--text-size": 20,
-        "heading--text-size": 56,
-        "button_link": "",
+        "heading--text-size": 44,
+        "button_link": "shopify:\/\/collections\/jore-copenhagen",
         "button_label": ""
       }
     },
