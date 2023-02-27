@@ -107,7 +107,13 @@
         "colors": "white",
         "subheading": "",
         "title": "Discover More",
-        "collection_type": "brand"
+        "collection_type": "brand",
+        "number_of_collections_to_display": 3,
+        "show_location": false,
+        "show_filter_location": false,
+        "content_alignment": "center",
+        "show_buttons_over_image": false,
+        "image_size": "small"
       }
     }
   },
