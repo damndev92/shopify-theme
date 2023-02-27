@@ -106,17 +106,6 @@
     "9ddffc45-d823-4e4e-853f-f5a0933f6f11": {
       "type": "maison--shop-the-look",
       "blocks": {
-        "template--17824597410107__9ddffc45-d823-4e4e-853f-f5a0933f6f11-1676391521c92cff8d-0": {
-          "type": "product",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shop_the_look_TEMPLATE_8.png",
-            "image__position": "image--left",
-            "product": "duck-feather-cushion-inner-1",
-            "product-2": "komboloi-with-mati",
-            "product-3": "viso-tapestry-blanket-cream-black-green-and-red-abstract",
-            "product-4": "ceramic-plate-psari"
-          }
-        },
         "0885b999-abfb-4fdc-a4e7-66341b913ecd": {
           "type": "product",
           "settings": {
@@ -127,11 +116,22 @@
             "product-3": "poseidon-hook",
             "product-4": "ray"
           }
+        },
+        "template--17824597410107__9ddffc45-d823-4e4e-853f-f5a0933f6f11-1676391521c92cff8d-0": {
+          "type": "product",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shop_the_look_TEMPLATE_8.png",
+            "image__position": "image--left",
+            "product": "duck-feather-cushion-inner-1",
+            "product-2": "komboloi-with-mati",
+            "product-3": "viso-tapestry-blanket-cream-black-green-and-red-abstract",
+            "product-4": "ceramic-plate-psari"
+          }
         }
       },
       "block_order": [
-        "template--17824597410107__9ddffc45-d823-4e4e-853f-f5a0933f6f11-1676391521c92cff8d-0",
-        "0885b999-abfb-4fdc-a4e7-66341b913ecd"
+        "0885b999-abfb-4fdc-a4e7-66341b913ecd",
+        "template--17824597410107__9ddffc45-d823-4e4e-853f-f5a0933f6f11-1676391521c92cff8d-0"
       ],
       "settings": {
         "colors": "white",
@@ -272,9 +272,9 @@
         "title": "\"For us Parīlio, is a celebration of Cycladic simplicity—of brightness, calmness, warmth, and the island’s carefree spirit. And that is the exact state of mind that Antonis and I are in this stage of our lives!\"",
         "text_block": "",
         "page_description": false,
-        "button_link": "",
+        "button_link": "shopify:\/\/blogs\/flaneur-magazine\/meet-kalia-konstantinidou-istoria-and-parilio-greece",
         "hotel_page_url": false,
-        "button_label": "Learn More"
+        "button_label": "Read More"
       }
     },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
