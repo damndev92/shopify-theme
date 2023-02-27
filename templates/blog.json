@@ -74,15 +74,6 @@
         "text-over-image-width": "full-width"
       }
     },
-    "ad180775-de38-4fa2-ad98-1da9654f8455": {
-      "type": "newsletter--newsletter",
-      "settings": {
-        "colors": "accent",
-        "subheading": "",
-        "title": "Join our Mailing List",
-        "newsletter_description": "<p>Describe the benefits of your newsletter<\/p>"
-      }
-    },
     "86c13f5c-2fc8-449d-8260-f997667eac00": {
       "type": "visual-navigation-banner",
       "blocks": {
@@ -162,6 +153,15 @@
         "show_recent_posts": false
       }
     },
+    "ad180775-de38-4fa2-ad98-1da9654f8455": {
+      "type": "newsletter--newsletter",
+      "settings": {
+        "colors": "dark",
+        "subheading": "",
+        "title": "Join our Mailing List",
+        "newsletter_description": "<p>Describe the benefits of your newsletter<\/p>"
+      }
+    },
     "175d16b8-8f1f-4a9a-8422-7302b25d0f4b": {
       "type": "blog--blog-posts",
       "disabled": true,
@@ -196,9 +196,9 @@
     "ee74f721-c7ad-4284-9dc1-aeb57f9c6e6f",
     "77b1822d-4dfc-4cf1-aac1-eabc999205b8",
     "1272ddd9-0b1a-4d69-a6cd-885e6ad0c43b",
-    "ad180775-de38-4fa2-ad98-1da9654f8455",
     "86c13f5c-2fc8-449d-8260-f997667eac00",
     "main",
+    "ad180775-de38-4fa2-ad98-1da9654f8455",
     "175d16b8-8f1f-4a9a-8422-7302b25d0f4b",
     "ff2c6b21-c2c6-4721-a0af-bda119721b0a"
   ]
