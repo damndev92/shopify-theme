@@ -117,14 +117,12 @@
             "type": "content",
             "settings": {
               "mega-menu": "Flâneur Magazine",
-              "mega_image_1": "shopify:\/\/shop_images\/10_2e11bd52-4040-4c27-b75c-c75322b01004.png",
               "mega_image_header_1": "",
               "mega_image_subheader_1": "",
-              "mega_image_link_1": "shopify:\/\/blogs\/flaneur-magazine\/the-petal-lamps-collection",
-              "mega_image_2": "shopify:\/\/shop_images\/11_dcaffccf-ad50-4ade-9836-5034c762a818.png",
+              "mega_image_link_1": "shopify:\/\/collections\/le-pigalle",
               "mega_image_header_2": "",
               "mega_image_subheader_2": "",
-              "mega_image_link_2": "shopify:\/\/blogs\/flaneur-magazine\/meet-josephine-reich-founder-of-jore-copenhagen"
+              "mega_image_link_2": ""
             }
           },
           "59b9c62a-8f3e-436c-8449-8c0b1089a52d": {
