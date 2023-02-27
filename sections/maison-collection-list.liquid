@@ -1,7 +1,7 @@
 {{ 'section-collection-list.min.css' | asset_url | stylesheet_tag }}
 
 {% style %}
-  {% if section.settings.show_location %}
+  {% if section.settings.show_location == true %}
     #{{ section.id }} .indiv-collection-grid-homepage .homepage-collection-link {
       text-align: left;
     }
@@ -12,8 +12,20 @@
 
   {% if section.settings.image_size == 'big' %}
     #{{ section.id }} .homepage-collection-grid-inner .grid-image .grid-image--centered img {
-      height: 462px;
+      height: 40vw;
       object-fit: cover;
+    }
+
+    @media screen and (max-width: 767px) {
+      #{{ section.id }} .homepage-collection-grid-inner .grid-image .grid-image--centered img {
+        height: 70vw;
+      }
+    }
+
+    @media screen and (max-width: 575px) {
+      #{{ section.id }} .homepage-collection-grid-inner .grid-image .grid-image--centered img {
+        height: 467px;
+      }
     }
   {% endif %}
 
@@ -43,7 +55,6 @@
     flex-direction: column;
     opacity: 0;
     transition: visibility 0s, opacity 0.5s ease-in-out;
-    z-index: 9;
   }
 
   .grid-buttons > a {
@@ -69,6 +80,11 @@
   }
   {% endif %}
 
+  #{{ section.id }} .article-title,
+  #{{ section.id }} .location {
+    text-align: {{ section.settings.content_alignment }};
+  }
+
 
 {% endstyle %}
 
@@ -83,8 +99,6 @@
     <section class="homepage-sections-wrapper homepage-sections-wrapper--dark">
 {% endcase %}
 
-  <div class="container">
-    <div class="row">
       <div class="page-width col-md-12">
 
         {% if section.settings.title != blank or section.settings.subheading != blank %}
@@ -98,13 +112,29 @@
           </div>
         {% endif %}
 
-        <div id="{{ section.id }}" class="collection-grid">
+        {% if section.settings.show_filter_location == true %}
+          <div class="maison-filter collection-filters__item sorting">
+            <div class="collection-filters__field">
+              <label class="collection-filters__label type-subheading type-subheading--1" for="displayByLocation">Show By Location</label>
+              <div class="select">
+                <select name="sort_by" class="select__select collection-filters__sort" id="displayByLocation" aria-describedby="a11y-refresh-page-message"></select>
+
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon-caret" viewBox="0 0 10 6">
+                  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+                  </path>
+                </svg>
+              </div>
+            </div>
+          </div>
+        {% endif %}
+        <div id="{{ section.id }}" class="collection-grid maison-grid-collection">
           <div class="row"></div>
+          <div class="empty">
+            {{ 'No collections for selected location.' }}
+          </div>
         </div>
 
       </div>
-    </div>
-  </div>
 </section>
 
 <script>
@@ -119,7 +149,7 @@
           image {
             url
           }
-          metafields(identifiers: [{namespace: "custom", key: "location"}, {namespace: "custom", key: "collection_type"}]) {
+          metafields(identifiers: [{namespace: "custom", key: "location"}, {namespace: "custom", key: "collection_type"}, {namespace: "custom", key: "shop_now"}]) {
             key
             value
           }
@@ -163,12 +193,89 @@
         );
       })
       .sort(() => 0.5 - Math.random())
-      .slice(0, 3);
+      {% if section.settings.number_of_collections_to_display != 0 %}
+      .slice(0, {{ section.settings.number_of_collections_to_display }})
+      {% endif %}
+      .sort((a, b) => (a.node.title > b.node.title ? 1 : -1));
 
-    console.log(selectedCollections)
+    {% if section.settings.show_filter_location == true %}
+    // Locations filter
+    const selectedLocations = Array.from(
+      collections
+        .filter(({ node }) => {
+          const metafields = node?.metafields; // Add optional chaining operator to check if node is defined
+          return (
+            metafields &&
+            metafields.some((mf) => mf && mf.key === "location")
+          );
+        })
+        .reduce((uniqueLocations, { node }) => {
+          const locationMetafield = node.metafields.find(
+            (mf) => mf && mf.key === "location"
+          );
+          const location = locationMetafield ? locationMetafield.value : "";
+          const locationWithoutPrefix = location.replace(/^[^,]*,\s*/g, "").replace(/\s/g, "");
+          if (!uniqueLocations.has(locationWithoutPrefix)) {
+            uniqueLocations.set(locationWithoutPrefix, node);
+          }
+          return uniqueLocations;
+        }, new Map())
+        .values()
+    );
+
+    const selectedLocationValues = selectedLocations.map(({ metafields }) => {
+      const locationMetafield = metafields.find((mf) => mf && mf.key === "location");
+      const location = locationMetafield ? locationMetafield.value : null;
+      return location.replace(/^[^,]*,\s*/g, "").replace(/\s/g, "");
+    });
+
+
+    // Create a select element
+    const locationSelect = document.querySelector("#displayByLocation");
+
+// Add an initial "All Locations" option
+    const allOption = document.createElement("option");
+    allOption.value = "";
+    allOption.textContent = "All Locations";
+    locationSelect.appendChild(allOption);
+
+    for (let i = 0; i < selectedLocationValues.length; i++) {
+      const node = selectedLocationValues[i];
+      const locationOption = document.createElement("option");
+      locationOption.value = node;
+      locationOption.textContent = node;
+      locationSelect.appendChild(locationOption);
+    }
+
+// Add an event listener to filter the collection grid based on the selected location
+    locationSelect.addEventListener("change", () => {
+      const selectedLocation = locationSelect.value;
+
+      // Loop through the collection grid items and show/hide them based on the selected location
+      const collectionGridItems = document.querySelectorAll(".indiv-collection-grid-homepage");
+
+      let allHidden = true;
+
+      collectionGridItems.forEach(item => {
+        const locationDiv = item.querySelector(".location");
+        if (locationDiv) {
+          const itemLocation = locationDiv.getAttribute('country');
+          if (selectedLocation === "" || itemLocation === selectedLocation) {
+            item.style.display = "block";
+          } else {
+            item.style.display = "none";
+          }
+        }
+      });
+    });
+    {% endif %}
+
+    // Add the location selector to the page
+    //document.querySelector(".collection-grid").prepend(locationSelect);
+
     for (const { node: selectedCollectionNode } of selectedCollections) {
       const indivCollectionGridHomepage = document.createElement("article");
-      indivCollectionGridHomepage.className = "indiv-collection-grid-homepage wow fadeInUp col-md-4";
+      indivCollectionGridHomepage.className = "indiv-collection-grid-homepage col-md-4 col-sm-6";
 
       const collectionGridInner = document.createElement("div");
       collectionGridInner.className = "homepage-collection-grid-inner";
@@ -198,7 +305,7 @@
       hpTitle.className = "hp-title homepage-collection-link";
 
       const h3 = document.createElement("h3");
-      h3.className = "type-subheading type-subheading--1";
+      h3.className = "article-title";
 
       const link = document.createElement("a");
       link.href = "{{ shop.url }}/collections/" + selectedCollectionNode.handle;
@@ -220,13 +327,23 @@
       shopnowLink.href = "{{ shop.url }}/collections/" + selectedCollectionNode.handle;
 
       gridButtons.appendChild(exploreLink)
-      gridButtons.appendChild(shopnowLink)
+
+
+      if (selectedCollectionNode && selectedCollectionNode.metafields) {
+        const shopnow = selectedCollectionNode.metafields.find(mf => mf && mf.key === "shop_now");
+        if (shopnow) {
+          gridButtons.appendChild(shopnowLink)
+        }
+      }
       {% endif %}
 
-      {% if section.settings.show_location %}
+      {% if section.settings.show_location == true %}
         const locationDiv = document.createElement('div');
         locationDiv.className = "location";
-        locationDiv.textContent = selectedCollectionNode.metafields.find(mf => mf.key === "location").value;
+        const locationFullName = selectedCollectionNode.metafields.find(mf => mf.key === "location").value;
+        const country = locationFullName.replace(/^[^,]*,\s*/g, "").replace(/\s/g, "");
+        locationDiv.textContent = locationFullName;
+        locationDiv.setAttribute('country', country);
         indivCollectionGridHomepage.appendChild(locationDiv);
       {% endif %}
 
@@ -240,7 +357,7 @@
 {% schema %}
 {
     "name": "Maison - Collection list",
-    "class": "homepage-section--featured-collections-wrapper wow fadeIn",
+    "class": "homepage-section--featured-collections-wrapper",
     "settings": [
         {
             "type": "select",
@@ -342,10 +459,44 @@
         ]
       },
       {
+        "type": "number",
+        "id": "number_of_collections_to_display",
+        "label": "Max number collections to show?",
+        "info": "0 is set by default. 0 will show all collections that meets criteria.",
+        "default": 0
+      },
+      {
         "type": "checkbox",
         "id": "show_location",
         "default": false,
-        "label": "Show location"
+        "label": "Show location",
+        "info": "Display location eg. Paris, France under title."
+      },
+      {
+        "type": "checkbox",
+        "id": "show_filter_location",
+        "default": false,
+        "label": "Show filter location"
+      },
+      {
+        "type": "select",
+        "id": "content_alignment",
+        "label": "Content alignment",
+        "default": "center",
+        "options": [
+          {
+            "value": "center",
+            "label": "Center"
+          },
+          {
+            "value": "left",
+            "label": "Left"
+          },
+          {
+            "value": "right",
+            "label": "Right"
+          }
+        ]
       },
       {
       "type": "checkbox",

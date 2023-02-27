@@ -353,3 +353,45 @@ h1, h2, h3, h4, h5, h6 {
 .swym-wishlist-button-bar button.btn.swym-button:hover:after {
     color: #000000 !important;
 }
+
+/* Collection */
+.maison-filter {
+    margin: 50px 0 50px 0;
+}
+
+.maison-filter .select {
+    max-width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    .maison-filter .select {
+        max-width: 20%;
+    }
+}
+
+#displayByLocation {
+    border: 1px solid rgba(63, 73, 76, .5);
+}
+
+.maison-grid-collection article {
+    margin-bottom: 50px;
+}
+
+.maison-grid-collection article .article-title {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 1.3rem;
+}
+
+.maison-grid-collection .empty {
+    display: none;
+}
+
+@media screen and (max-width: 767px) {
+    .maison-grid-collection .homepage-collection-grid-inner .grid-image .grid-image--centered img {
+        height: 70vw;
+    }
+}
+
+
+
