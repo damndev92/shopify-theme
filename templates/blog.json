@@ -81,7 +81,7 @@
           "type": "navigation_link",
           "settings": {
             "link_url": "https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/the-flaneurs",
-            "link_image": "shopify:\/\/shop_images\/Design_Inspo_9.png",
+            "link_image": "shopify:\/\/shop_images\/FACT_BLOCKS_4ab8954e-42d4-4c2c-9612-b7e31fb8d8e1.png",
             "link_text": "The Flâneurs"
           }
         },
@@ -136,7 +136,7 @@
       ],
       "settings": {
         "title": "",
-        "image_style": "circle"
+        "image_style": "square"
       }
     },
     "main": {
