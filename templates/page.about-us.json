@@ -18,7 +18,7 @@
         "parallax": false,
         "alignment": "center",
         "hero_size": "x-large",
-        "text-over-image-width": "full-width"
+        "text-over-image-width": "fixed"
       }
     },
     "d5e53e1d-b659-4c3b-aeb0-5264be4be37b": {
