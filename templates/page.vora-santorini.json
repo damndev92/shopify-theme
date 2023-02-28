@@ -105,6 +105,7 @@
     },
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083": {
       "type": "product--shop-the-look",
+      "disabled": true,
       "blocks": {
         "template--17526727344443__d8d797eb-2ad1-4c2a-ad47-2e73380b2083-1673351952766dc040-1": {
           "type": "product",
@@ -320,9 +321,9 @@
         "title": "“I want guests to know the Santorini of my parents, the still-secret locations, the smells, and food I grew up with.”",
         "text_block": "",
         "page_description": false,
-        "button_link": "",
+        "button_link": "shopify:\/\/blogs\/flaneur-magazine\/meet-yannis-bellonias-hotelier-vora-santorini",
         "hotel_page_url": false,
-        "button_label": "Learn More"
+        "button_label": "Read More"
       }
     },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
