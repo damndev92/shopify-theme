@@ -384,7 +384,7 @@
       "settings": {
         "colors": "light",
         "subheading": "JOIN",
-        "title": "Thousands of Happy Flâneurs!",
+        "title": "Thousands of happy Flâneurs!",
         "slider-animation": "slide",
         "slider-slide-time": 4,
         "show-slide-dots": true,
@@ -449,8 +449,8 @@
       "settings": {
         "colors": "white",
         "width": 150,
-        "subheading": "",
-        "title": "As seen in"
+        "subheading": "PRESS",
+        "title": "AS SEEN IN"
       }
     },
     "c94d79d4-bbe0-4f33-a57f-335300f24f32": {
