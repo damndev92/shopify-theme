@@ -1,1 +1,45 @@
-{"sections":{"main":{"type":"template--cart","settings":{}},"rich-text":{"type":"text--rich-text","settings":{"colors":"light"}},"featured-collection":{"type":"collection--featured-collection","blocks":{"featured-collection-0":{"type":"grid-card-title","settings":{}},"featured-collection-1":{"type":"grid-card-price","settings":{}},"featured-collection-2":{"type":"grid-card-swatches","settings":{}}},"block_order":["featured-collection-0","featured-collection-1","featured-collection-2"],"settings":{"grid":3}}},"order":["main","rich-text","featured-collection"]}
+{
+  "sections": {
+    "main": {
+      "type": "template--cart",
+      "settings": {
+      }
+    },
+    "e88f6c10-42c0-43fa-913a-70effb3d8e16": {
+      "type": "text--text-adverts",
+      "blocks": {
+        "template--17643498537275__e88f6c10-42c0-43fa-913a-70effb3d8e16-1677610159fe3c11c4-0": {
+          "type": "text",
+          "settings": {
+            "icon": "message-circle",
+            "heading": "We're here to help",
+            "subheading": "If you have any question - get in touch at hello@maisonflaneur.com",
+            "link": ""
+          }
+        },
+        "template--17643498537275__e88f6c10-42c0-43fa-913a-70effb3d8e16-1677610159fe3c11c4-1": {
+          "type": "text",
+          "settings": {
+            "icon": "truck",
+            "heading": "Hassle free delivery",
+            "subheading": "Your tracking information with your delivery date will be sent to you as soon as your order is  on its way to you",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17643498537275__e88f6c10-42c0-43fa-913a-70effb3d8e16-1677610159fe3c11c4-0",
+        "template--17643498537275__e88f6c10-42c0-43fa-913a-70effb3d8e16-1677610159fe3c11c4-1"
+      ],
+      "settings": {
+        "colors": "accent",
+        "alignment": "center",
+        "icon-size": "text-adverts__icon-size--medium"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "e88f6c10-42c0-43fa-913a-70effb3d8e16"
+  ]
+}
