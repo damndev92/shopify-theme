@@ -14,6 +14,11 @@
       "type": "template--page",
       "disabled": true,
       "settings": {
+        "white_label": false,
+        "hide_header": false,
+        "hide_default_content": false,
+        "alignment": "center",
+        "url": ""
       }
     },
     "f7c0748c-6ba1-46ec-850f-c0f1e93b3446": {
@@ -183,7 +188,7 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
           "type": "tab_content",
           "settings": {
-            "question": "where to eat?",
+            "question": "where should we eat?",
             "text": "<p>With food practice rooted in sustainability, elegant simplicity, and a resonating authenticity, salute the nightly moon with spirited cocktails and Chef-driven fine dining at ALBA, book a special Chef’s Table experience with the freshest locally sourced ingredients, and enjoy après surf and all-day snacks to sun-drenched soundtracks at Hotelito’s Club de Playa.<\/p>"
           }
         },
