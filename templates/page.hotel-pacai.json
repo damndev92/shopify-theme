@@ -130,12 +130,12 @@
     "fc207bbe-372a-410a-9fd6-efb127b006be": {
       "type": "maison--btn",
       "settings": {
-        "btn": "Shop the collection",
+        "btn": "Shop all products",
         "url": "",
         "link": "shopify:\/\/collections\/hotel-pacai",
         "bg_color": "#e28065",
-        "padding_top": 15,
-        "padding_bottom": 20
+        "padding_top": 25,
+        "padding_bottom": 25
       }
     },
     "3e33914a-e927-4abd-a0bb-4265c3e5c2c6": {
@@ -395,6 +395,17 @@
         "show_blog_images": true,
         "imageSize": "portrait"
       }
+    },
+    "9c918f8c-4c68-4033-90f5-20fb4cb33f4c": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Shop the collection",
+        "url": "",
+        "link": "shopify:\/\/collections\/hotel-pacai",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
+      }
     }
   },
   "order": [
@@ -412,6 +423,7 @@
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "deea3ece-1807-417b-bf36-8cea431fe6f7",
-    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
+    "9c918f8c-4c68-4033-90f5-20fb4cb33f4c"
   ]
 }
