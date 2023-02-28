@@ -17,7 +17,7 @@
         "image": "shopify:\/\/shop_images\/cretan-malia-park-rooms_ff5a5325-be7a-4032-a2b6-6ecf500252de.jpg",
         "subheading": "Welcome",
         "title": "Cretan Malia Shop",
-        "text": "in partnership with Maison Flâneur & Design Hotels",
+        "text": "in partnership with Design Hotels",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
@@ -68,8 +68,8 @@
         "subheading": "",
         "title": "",
         "collection": "cretan-malia",
-        "grid": 4,
-        "rows": 3,
+        "grid": 3,
+        "rows": 4,
         "show_view_all": true
       }
     },
