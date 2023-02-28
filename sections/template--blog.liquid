@@ -44,7 +44,11 @@
 								<div
 									class="blog-title-wrapper homepage-blog-title-wrapper{% if article.image %} article-image-header{% endif %}">
 
-									<h3 class="type-subheading type-subheading--2">
+									{% for tag in article.tags limit: 1 %}
+										<h6 class="type-subheading type-subheading--2">{{ tag }}</h6>
+									{% endfor %}
+
+									<h3>
 										<a href="{{ article.url }}">{{ article.title }}</a>
 									</h3>
 

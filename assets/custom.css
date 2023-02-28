@@ -432,6 +432,11 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 45% 45% 0px 0px;
 }
 
+.blog-title-wrapper .type-subheading {
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
 /* minicart */
 @media screen and (max-width: 767px) {
     .cart--shipping-message a:before {
