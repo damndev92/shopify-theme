@@ -383,6 +383,17 @@
         "show_blog_images": true,
         "imageSize": "portrait"
       }
+    },
+    "369252fc-d44a-46db-acc1-46aece250341": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Shop the collection",
+        "url": "",
+        "link": "shopify:\/\/collections\/thyme",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
+      }
     }
   },
   "order": [
@@ -400,6 +411,7 @@
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "1816c868-da66-4ff9-a480-d41bd814d46b",
-    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
+    "369252fc-d44a-46db-acc1-46aece250341"
   ]
 }
