@@ -297,14 +297,14 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
           "type": "tab_content",
           "settings": {
-            "question": "your favourite object in the hotel?",
+            "question": "what is your favourite object in the hotel?",
             "text": "<p>Our striped pool umbrellas!<\/p>"
           }
         },
         "cbf8cc1f-e932-4ee8-8365-efd1ba25591d": {
           "type": "tab_content",
           "settings": {
-            "question": "SomEthing people don't know about villa lena?",
+            "question": "What is SomEthing people don't know about villa lena?",
             "text": "<p>It's an Artist's Residency<\/p>"
           }
         }
