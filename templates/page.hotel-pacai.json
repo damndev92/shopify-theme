@@ -264,21 +264,21 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
           "type": "tab_content",
           "settings": {
-            "question": "A little bit about Hotel Pacai",
+            "question": "Tell us a little bit about Hotel Pacai.",
             "text": "<p>The hotel is set in the heart of Vilnius’s old town. It is one of the best-preserved in Northern Europe and was inscribed on the World Heritage List in 1994, It is an exceptional illustration of a medieval Central European town that evolved over a period of five centuries.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
           "type": "tab_content",
           "settings": {
-            "question": "Dining at Pacai",
+            "question": "Where's the best place to eat at Pacai and why?",
             "text": "<p>For a long time (Chef Matas Paulinas) worked in Japanese cuisine restaurants in Denmark, he has also worked at a “Michelin” star lever restaurant in Monaco. Later, while living in Copenhagen, he worked in “Noma” where he became a fan of Scandinavian kitchen philosophy. His food style is<em>a<\/em>contemporary interpretation of ethnographic themes from recent history, Matas is extremely creative inside the plate.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
           "type": "tab_content",
           "settings": {
-            "question": "Your favourite object in the hotel?",
+            "question": "What's your favourite object in the hotel?",
             "text": "<p>Athena – a sculpture of 17th century greets you on the second floor. The sculpture was found during renovation without a head, the head was cut and placed next to the feet. Reborn Athena is as important as a reborn mansion.<\/p>"
           }
         },
