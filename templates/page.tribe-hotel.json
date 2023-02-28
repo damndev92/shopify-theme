@@ -105,6 +105,7 @@
     },
     "10caa287-4a89-49d9-8925-6c29a96cf928": {
       "type": "maison--shop-the-look",
+      "disabled": true,
       "blocks": {
         "template--17824588923195__10caa287-4a89-49d9-8925-6c29a96cf928-1676391521c92cff8d-0": {
           "type": "product",
@@ -260,9 +261,9 @@
         "title": "“Tribe was conceived from the simple belief that we coexist on a single planet and there is only one Tribe that matters: humankind.”",
         "text_block": "",
         "page_description": false,
-        "button_link": "",
+        "button_link": "shopify:\/\/blogs\/flaneur-magazine\/meet-shamim-ehsani-tribe-hotel-nairobi",
         "hotel_page_url": false,
-        "button_label": ""
+        "button_label": "Read More"
       }
     },
     "49eef2c3-3938-4acd-8012-2b5b85df06d8": {
