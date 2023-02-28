@@ -330,17 +330,6 @@
                   {% endif %}
                 {% endunless %}
 
-                {%- if shop.taxes_included or shop.shipping_policy.body != blank -%}
-                  <div class="product-page__policies rte">
-                    {%- if shop.taxes_included and block.settings.tax_included -%}
-                      {{ 'products.product.include_taxes' | t }}
-                    {%- endif -%}
-                    {%- if shop.shipping_policy.body != blank and block.settings.shipping_policy -%}
-                      {{ 'products.product.shipping_policy_html' | t: link: shop.shipping_policy.url }}
-                    {%- endif -%}
-                  </div>
-                {%- endif -%}
-
               {% when 'product-options' %}
                 {% if settings.show_swatches == false and block.settings.pick_an_option %}
                   {% unless product.has_only_default_variant %}
