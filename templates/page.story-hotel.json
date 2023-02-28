@@ -178,6 +178,17 @@
         "title": "Shop  Story Hotel"
       }
     },
+    "f5a230cb-7d10-4f76-b6ba-b981b09e692f": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Shop all products",
+        "url": "",
+        "link": "shopify:\/\/collections\/story-hotel",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
+      }
+    },
     "eb531f23-4a6c-4a89-81ea-844b841eb4af": {
       "type": "image--image-with-text-overlay",
       "blocks": {
@@ -401,12 +412,12 @@
         "imageSize": "portrait"
       }
     },
-    "f5a230cb-7d10-4f76-b6ba-b981b09e692f": {
+    "b0037abe-1f02-40a2-b68f-c835ddc82df4": {
       "type": "maison--btn",
       "settings": {
-        "btn": "shop",
+        "btn": "Shop the collection",
         "url": "",
-        "link": "",
+        "link": "shopify:\/\/collections\/story-hotel",
         "bg_color": "#e28065",
         "padding_top": 25,
         "padding_bottom": 25
@@ -422,6 +433,7 @@
     "fa27e928-71d7-4dc8-b0a9-357789a2e8e1",
     "d8d797eb-2ad1-4c2a-ad47-2e73380b2083",
     "e5115269-60bc-4eb5-8e29-093c6285bb75",
+    "f5a230cb-7d10-4f76-b6ba-b981b09e692f",
     "eb531f23-4a6c-4a89-81ea-844b841eb4af",
     "3c3ad3d0-ccd6-4a3d-97ee-b9cff65bfe21",
     "49eef2c3-3938-4acd-8012-2b5b85df06d8",
@@ -429,6 +441,6 @@
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "69cd073a-fe3b-4bc1-92a9-5ada08ca506a",
     "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
-    "f5a230cb-7d10-4f76-b6ba-b981b09e692f"
+    "b0037abe-1f02-40a2-b68f-c835ddc82df4"
   ]
 }
