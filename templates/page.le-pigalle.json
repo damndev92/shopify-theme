@@ -421,6 +421,17 @@
         "show_blog_images": true,
         "imageSize": "portrait"
       }
+    },
+    "4ad3cad6-36e2-4e58-be6f-a9b1dcad6149": {
+      "type": "maison--btn",
+      "settings": {
+        "btn": "Shop the collection",
+        "url": "",
+        "link": "shopify:\/\/collections\/le-pigalle",
+        "bg_color": "#e28065",
+        "padding_top": 25,
+        "padding_bottom": 25
+      }
     }
   },
   "order": [
@@ -438,6 +449,7 @@
     "889d2c25-4140-44f5-af7a-2c8599551986",
     "0a78e6fa-8d24-4dbb-be88-a1d7ecb83d0e",
     "c6ad92a3-37e4-4fa2-8a2d-827e7ef1f951",
-    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b"
+    "480509ef-0ef4-479c-8c5e-b15bb3c1fc8b",
+    "4ad3cad6-36e2-4e58-be6f-a9b1dcad6149"
   ]
 }
