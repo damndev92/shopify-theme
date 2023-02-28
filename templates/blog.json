@@ -76,6 +76,7 @@
     },
     "86c13f5c-2fc8-449d-8260-f997667eac00": {
       "type": "visual-navigation-banner",
+      "disabled": true,
       "blocks": {
         "3a996d82-d511-4e24-9c19-363a59ee2c03": {
           "type": "navigation_link",
@@ -139,6 +140,19 @@
         "image_style": "square"
       }
     },
+    "85652b7b-3491-416a-a325-834af391d504": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><a href=\"https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/the-flaneurs\" title=\"https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/the-flaneurs\">THE FLANEURS <\/a> \/  <a href=\"https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/destinations\" title=\"https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/destinations\">DESTINATIONS<\/a> \/ <a href=\"https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/travel-guide\" title=\"https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/travel-guide\">GUIDES<\/a> \/ <a href=\"https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/edits\" title=\"https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/edits\">DESIGN HUB<\/a> \/ <a href=\"https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/how-to\" title=\"https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/how-to\">HOW-TO<\/a><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--blog",
       "settings": {
@@ -197,6 +211,7 @@
     "77b1822d-4dfc-4cf1-aac1-eabc999205b8",
     "1272ddd9-0b1a-4d69-a6cd-885e6ad0c43b",
     "86c13f5c-2fc8-449d-8260-f997667eac00",
+    "85652b7b-3491-416a-a325-834af391d504",
     "main",
     "ad180775-de38-4fa2-ad98-1da9654f8455",
     "175d16b8-8f1f-4a9a-8422-7302b25d0f4b",
