@@ -211,7 +211,7 @@
       "sort_by_label": "Sort by",
       "title": "Collection",
       "to": "To",
-      "use_fewer_filters_html": "Use fewer filters or <a class=\"{{ class }}\" href=\"{{ link }}\">clear all</a>"
+      "use_fewer_filters_html": "Use fewer filters or <a class=\"{{ class }}\" href=\"{{ link }}\">clear all<\/a>"
     }
   },
   "contact": {
@@ -374,7 +374,7 @@
       "sorry_stock": "Sorry, currently out of stock",
       "quantity": "Quantity",
       "thanks": "Thanks! We will notify you when this product becomes available!",
-      "out-stock_html": "Enter your email to be notified by email when <strong>{{ product }} {{ variant }}</strong> becomes available.",
+      "out-stock_html": "Enter your email to be notified by email when <strong>{{ product }} {{ variant }}<\/strong> becomes available.",
       "wrong-email": "Please provide a valid email address.",
       "view_in_space": "View in your space",
       "view_in_space_label": "View in your space, loads item in augmented reality window",
