@@ -10,6 +10,21 @@
         "url": ""
       }
     },
+    "c43da4e3-a64d-46dd-92d4-b871b23278eb": {
+      "type": "maison-collection-list",
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Shop by Brand",
+        "collection_type": "brand",
+        "number_of_collections_to_display": 30,
+        "show_location": true,
+        "show_filter_location": false,
+        "content_alignment": "center",
+        "show_buttons_over_image": true,
+        "image_size": "small"
+      }
+    },
     "6ebef4dd-8039-42d7-a989-ad9a5df05aa0": {
       "type": "collection--collection-list",
       "blocks": {
@@ -377,6 +392,7 @@
   },
   "order": [
     "main",
+    "c43da4e3-a64d-46dd-92d4-b871b23278eb",
     "6ebef4dd-8039-42d7-a989-ad9a5df05aa0",
     "cfa6f2f4-4140-4b9d-8f1b-cc8829904856",
     "10bdf396-dbda-4947-b9e6-a3575a52ccca",
