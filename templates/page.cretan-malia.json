@@ -367,7 +367,7 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-0": {
           "type": "tab_content",
           "settings": {
-            "question": "Where to eat?",
+            "question": "Where should we eat?",
             "text": "<p>On the South of Crete, on a remote beach accessible only by boat, <em>Chryssanthos, <\/em>makes the most delicious bread, salads, eggs, and meat cooked in Cretan style.<\/p>"
           }
         },
@@ -381,7 +381,7 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
           "type": "tab_content",
           "settings": {
-            "question": "Something most people don't know about Crete?",
+            "question": "Tell us something most people don't know about Crete?",
             "text": "<p>In mythology Crete was the birthplace of Zeus and also the place where later Zeus took his love Europa, who gave birth to Minos – later King Minos and founder of the first European civilization, the Minoans. In a way, it all started here. <\/p>"
           }
         }
