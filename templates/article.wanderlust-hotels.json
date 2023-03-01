@@ -87,6 +87,23 @@
         "button_label": ""
       }
     },
+    "5625eaec-f8dd-4a85-bfb4-93037de0d8e2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Mamula-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "4. Mamula Island Hotel, Montenegro",
+        "text_block": "<p><strong>Bay of Kotor, Mirišta, Montenegro<\/strong><\/p><p>Montenegro is one of Europe’s hidden holiday gems, and Mamula Island is the crowning jewel. In the middle of UNESCO heritage Kotor Bay, a previously uninhabited 19th-century fort has been transformed into a truly unique hotel. Once on the tranquil island, the sun-drenched courtyards, private beach, spa, pools and bars and restaurants will be sure to keep you busy.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -121,6 +138,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "e61ebd9a-9e41-43f2-86f4-5b19c3ac3e3f",
+    "5625eaec-f8dd-4a85-bfb4-93037de0d8e2",
     "main",
     "blog-posts"
   ]
