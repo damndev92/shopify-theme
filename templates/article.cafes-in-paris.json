@@ -134,6 +134,46 @@
         "button_label": ""
       }
     },
+    "cda4b090-1e05-4181-8a62-00b534f33550": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18164597063995__cda4b090-1e05-4181-8a62-00b534f33550-1677659664b792d083-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MF_DO_AmourGlasses_Silo-1_4d8e7973-673a-490b-ab9b-807bc187824b.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Verres Amour, Set of 4<\/p><p>£48<\/p>"
+          }
+        },
+        "template--18164597063995__cda4b090-1e05-4181-8a62-00b534f33550-1677659664b792d083-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18164597063995__cda4b090-1e05-4181-8a62-00b534f33550-1677659664b792d083-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18164597063995__cda4b090-1e05-4181-8a62-00b534f33550-1677659664b792d083-0",
+        "template--18164597063995__cda4b090-1e05-4181-8a62-00b534f33550-1677659664b792d083-1",
+        "template--18164597063995__cda4b090-1e05-4181-8a62-00b534f33550-1677659664b792d083-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -158,6 +198,7 @@
     "db2f0c18-b803-4a91-aca3-04d7562670aa",
     "main",
     "5d517547-58c1-440f-bce9-7923b97b8184",
+    "cda4b090-1e05-4181-8a62-00b534f33550",
     "blog-posts"
   ]
 }
