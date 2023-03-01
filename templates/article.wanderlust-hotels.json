@@ -253,6 +253,23 @@
         "button_label": ""
       }
     },
+    "bdfb84de-18c1-4cd1-b5ce-5d4ccfa7957d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Cap-Karoso-Indonesia-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "13. Cap Karoso, Indonesia",
+        "text_block": "<p><strong>Kodi, Sumba, Indonesia<\/strong><\/p><p>Miles of wild beaches surround the untamed paradise of Cap Karoso, making it a welcome alternative to the commotion of nearby Bali. 47 eco-chic villas boast both Brutalist design and local Sumbese treasures, while wooden decking provides the ultimate location for a spot of morning Yoga or sunset watching. In case that didn’t convince you, the retreat is also home to a shaman-run spa, open-air cinema, 33m outdoor swimming pool and an organic farm growing indigenous food.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -297,6 +314,7 @@
     "36f0e0b6-2ee8-4b01-bb0f-65449d7c5a36",
     "d1afff4a-0e24-43c4-8057-fa6e6b8e977a",
     "6fc48887-4874-40ad-99ce-f17e0c9eac92",
+    "bdfb84de-18c1-4cd1-b5ce-5d4ccfa7957d",
     "main",
     "blog-posts"
   ]
