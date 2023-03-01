@@ -125,6 +125,23 @@
         "button_label": ""
       }
     },
+    "82405d00-c322-4032-bd84-6f9cdaa53488": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-15-at-10.31.41-Large-1024x717.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "What are the things to avoid?",
+        "text_block": "<p>Cookie-cutter chain hotels that do not have a sense of place nor individual identity, or ones that have a brash theme that attracts the Instagram crowd.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -161,6 +178,7 @@
     "3cbcfdd5-26f7-4960-8d0a-85fb82cf572c",
     "6255cfcb-0727-4ad4-acef-8fefeced09cd",
     "8fc64b8d-98ce-4a81-a91d-06de09ebdba9",
+    "82405d00-c322-4032-bd84-6f9cdaa53488",
     "main",
     "blog-posts"
   ]
