@@ -155,6 +155,23 @@
         "button_label": ""
       }
     },
+    "0ef5328a-3480-41e6-a8b4-8dbc485bcafa": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Hotel-Hotel-Lisbon-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "8. Hotel Hotel, Lisbon",
+        "text_block": "<p><strong>Travessa da Gloria 22, Lisbon 1250-118, Portugal<\/strong><\/p><p>So good they named it twice, Hotel Hotel offers a design-centric perspective on Lisbon. Realised by artists and local designers, it’s centred around an outside-in approach, with the hotel’s garden being modelled on the nearby Botanical Garden. Inside you’ll find 40 rooms, a bar, an immersive yoga studio, an outside pool and in-house restaurant, Animal. Its location, on a quiet side street right off Lisbon’s main artery, means you can be out exploring straight away.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -193,6 +210,7 @@
     "4f8f490d-b892-4bc3-ac2e-29a671eda39b",
     "c320fe24-0571-4d3e-9a70-f6353ad1d111",
     "a5dee0bc-24ff-4404-8e22-c4266ed71a73",
+    "0ef5328a-3480-41e6-a8b4-8dbc485bcafa",
     "main",
     "blog-posts"
   ]
