@@ -212,14 +212,14 @@
       "settings": {
         "blog_layout": "grid",
         "blog-posts-per-page": 12,
-        "background-color": "#ffffff",
+        "background-color": "#f9e5e0",
         "show_author_name": false,
         "show_dates": false,
         "blog-sidebar-link": "",
         "blog_sidebar_title": "",
         "blog_sidebar_desc": "",
-        "show_blog_tags": false,
-        "show_recent_posts": false
+        "show_blog_tags": true,
+        "show_recent_posts": true
       }
     },
     "ad180775-de38-4fa2-ad98-1da9654f8455": {
