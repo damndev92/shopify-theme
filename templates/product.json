@@ -79,7 +79,7 @@
           "settings": {
             "icon": "truck",
             "product-accordion-subheader": "Delivery and Return",
-            "product-specifications": "<p>{{ product.metafields.custom.product_delivery_returns | metafield_tag }}<\/p>"
+            "product-specifications": "{{ product.metafields.custom.return_policy | metafield_tag }}"
           }
         }
       },
