@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/1-724x1024.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "Instructions",
+        "text_block": "<ol><li>Heat the olive oil in a pot, and add onion and garlic. Sear for a few moments until it becomes fragrant.<\/li><li>Add all of the remaining ingredients to the pot, bring to a boil, then reduce the flame, and simmer for 2ish hours, stirring often to prevent the rinds from sticking to the pot.<\/li><li>Strain through a sieve and discard the pieces.<\/li><li>Cook the ravioli according to the package instructions, then serve in hot parmesan stock with an optional sprinkle of dried edible flower petals.<\/li><\/ol><p>*Use the stock as a base for any and all soups! It’s a real umami bomb 💥<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
