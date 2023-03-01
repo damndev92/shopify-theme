@@ -142,6 +142,23 @@
         "button_label": ""
       }
     },
+    "230d9eaf-a7da-45f8-b55d-9102e3f0fb2c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-15-at-11.05.44-Large-1024x792.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "You must discover the most amazing artisans. Do you have a piece at home that you have brought back that has a special meaning to you?",
+        "text_block": "<p>During a riding expedition deep into the Tien Shien mountains in Kazakhstan, we met a handful of incredible artisans who’s skills have been influenced by hundreds of years of living on the silk route. I bought a unique rug that brings the silk route to my sitting room in London and reinforces there are still many authentic remote gems worth searching for whilst travelling.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -179,6 +196,7 @@
     "6255cfcb-0727-4ad4-acef-8fefeced09cd",
     "8fc64b8d-98ce-4a81-a91d-06de09ebdba9",
     "82405d00-c322-4032-bd84-6f9cdaa53488",
+    "230d9eaf-a7da-45f8-b55d-9102e3f0fb2c",
     "main",
     "blog-posts"
   ]
