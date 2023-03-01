@@ -9,8 +9,8 @@
     "header-overlay-text-color": "#e79983",
     "sticky-header-background-color": "#ffffff",
     "sticky-header-text-color": "#3f494c",
-    "sidebar-navigation--background-color": "#656565",
-    "sidebar-navigation--text-color": "#ffffff",
+    "sidebar-navigation--background-color": "#f3f3f3",
+    "sidebar-navigation--text-color": "#3f494c",
     "footer-background-color": "#272c2f",
     "footer-text-color": "#ffffff",
     "add-to-cart-background-color": "#e28065",
@@ -70,7 +70,7 @@
     "checkout_logo_image": "shopify:\/\/shop_images\/master_secondary_RGB_983e04e2-3db9-415b-addf-4e99c6b760ba.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "small",
-    "checkout_accent_color": "#e28065",
+    "checkout_accent_color": "#3f494c",
     "checkout_button_color": "#e28065",
     "sections": {
       "announcement-bar": {

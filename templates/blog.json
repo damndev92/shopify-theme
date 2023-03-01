@@ -201,8 +201,8 @@
         "adc51486-290a-459e-8f2b-0e876ec1eefb"
       ],
       "settings": {
-        "colors": "white",
-        "width": 160,
+        "colors": "light",
+        "width": 150,
         "subheading": "",
         "title": ""
       }
@@ -212,7 +212,8 @@
       "settings": {
         "blog_layout": "grid",
         "blog-posts-per-page": 12,
-        "background-color": "#fae4de",
+        "background-color": "#ffe4de",
+        "background-image": "shopify:\/\/shop_images\/Untitled_design_9.png",
         "show_author_name": false,
         "show_dates": false,
         "blog-sidebar-link": "",
