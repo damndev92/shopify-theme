@@ -30,7 +30,7 @@
     "7ea02b15-29ff-4f86-bc85-3c147796ccf0": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_6.gif",
+        "image": "shopify:\/\/shop_images\/GIFS_1800_x_1200px.png",
         "parallax": false,
         "alignment": "center",
         "hero_size": "x-large",
@@ -275,7 +275,7 @@
     "6fc4d213-a936-40bb-9aff-0f040a7b8076": {
       "type": "maison--btn",
       "settings": {
-        "btn": "Discover Now",
+        "btn": "Discover now",
         "url": "",
         "link": "shopify:\/\/collections\/new-in",
         "bg_color": "#e28065",
