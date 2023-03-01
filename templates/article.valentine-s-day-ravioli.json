@@ -73,17 +73,10 @@
     "f11710e3-a928-41aa-a290-844d3c06f74e": {
       "type": "image--gallery",
       "blocks": {
-        "template--18166326722875__f11710e3-a928-41aa-a290-844d3c06f74e-16776741112ea82ef4-0": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
         "template--18166326722875__f11710e3-a928-41aa-a290-844d3c06f74e-16776741112ea82ef4-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Jan-6-Large-724x1024.jpg",
             "link": "",
             "title": "",
             "description": ""
@@ -92,6 +85,7 @@
         "template--18166326722875__f11710e3-a928-41aa-a290-844d3c06f74e-16776741112ea82ef4-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Jan-724x1024.jpg",
             "link": "",
             "title": "",
             "description": ""
@@ -99,7 +93,6 @@
         }
       },
       "block_order": [
-        "template--18166326722875__f11710e3-a928-41aa-a290-844d3c06f74e-16776741112ea82ef4-0",
         "template--18166326722875__f11710e3-a928-41aa-a290-844d3c06f74e-16776741112ea82ef4-1",
         "template--18166326722875__f11710e3-a928-41aa-a290-844d3c06f74e-16776741112ea82ef4-2"
       ],
