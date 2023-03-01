@@ -202,7 +202,7 @@
       ],
       "settings": {
         "colors": "white",
-        "width": 130,
+        "width": 160,
         "subheading": "",
         "title": ""
       }
@@ -218,8 +218,8 @@
         "blog-sidebar-link": "",
         "blog_sidebar_title": "",
         "blog_sidebar_desc": "",
-        "show_blog_tags": true,
-        "show_recent_posts": true
+        "show_blog_tags": false,
+        "show_recent_posts": false
       }
     },
     "ad180775-de38-4fa2-ad98-1da9654f8455": {
