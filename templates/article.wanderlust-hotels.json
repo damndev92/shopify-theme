@@ -287,6 +287,23 @@
         "button_label": ""
       }
     },
+    "37b3c0f6-a1ab-40e9-bbba-fc4e9e16cce9": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/15-1024x1024_7089f3bd-1725-4fb3-969d-6b217d1230b5.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "15. The Warehouse Hotel, Singapore",
+        "text_block": "<p><strong>320 Havelock Road, Robertson Quay, 169628, Singapore<\/strong><\/p><p>Meticulously restored from its 1895 origins as a spice warehouse into a 37-room boutique getaway, Singapore’s Warehouse Hotel expertly combines luxury, heritage and slick industrial design. Highlights include an elevated hawker-inspired restaurant run by a celebrated local chef, a pink-tiled lap pool on the roof, and, of course, its location on the banks of the Singapore river and within walking distance of the city’s hotspots.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -333,6 +350,7 @@
     "6fc48887-4874-40ad-99ce-f17e0c9eac92",
     "bdfb84de-18c1-4cd1-b5ce-5d4ccfa7957d",
     "cca92069-9bfd-4b6d-a5d0-b1a182669b5a",
+    "37b3c0f6-a1ab-40e9-bbba-fc4e9e16cce9",
     "main",
     "blog-posts"
   ]
