@@ -1,0 +1,225 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Article-header-image-12-1024x341.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Meet David Vivirido and Francesco Sourigues, VISO Project, New York",
+        "title": "",
+        "text": "<p>Discover the story behind <a href=\"https:\/\/www.maisonflaneur.com\/brand\/viso-project\/products\/\">VISO Project<\/a>. Based between Madrid and New York, the creative duo is best known for its use of delicious textiles and creative patterns. Learn more about the creative process and the artisans behind our new favourite products.<\/p><p><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Unknown-1-1024x768.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Can you tell us about the history of VISO Project?",
+        "text_block": "<p>VISO Project is a lifestyle brand based between Madrid and New York. Inspired by the worlds of art and design, VISO Project came to life in 2017. We aim at creating distinct design objects crafted by expert artisans and manufacturers around the world.<\/p><p>David Vivirido and Francesco Sourigues founded the brand after working for 15 years in the world of publishing, editing, and consulting for luxury brands. It was time for them to take a detour into the world of design. With a fun and vibrant approach, including patterns, textures, and finishings, VISO Project injects a sophisticated and meaningful aesthetic twist into the world of decor and gifting.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Unknown-2-768x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Can you tell us about the artisans you work with?",
+        "text_block": "<p>VISO Project has strong core values. We want to empower artisans by exploring different techniques and types of craftsmanship through various products.<\/p><p>Our products range from luxurious handmade blankets to porcelain, glass, rugs, tapestries, and collaborations with interior and product designers. We want to focus on limited production, sustainable, developed, and crafted with the most meticulous attention to detail. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "17fd370e-5e9b-4ea7-a0b5-33f091be386d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Unknown-3-768x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "VISO Project is all about texture and patterns. Could you give us tips about how to incorporate them into our homes?",
+        "text_block": "<p>There are no rules really. Our own approach is pretty eclectic, it is based on mixing a lot of elements that, somehow,  live together pretty well. Our textiles are usually rich in color and texture. We like the idea of throwing out blankets or pillows in a minimalist environment, such as solid coloured couch or bed, to create a fun and bright focal point.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "c4b823c0-5ee4-43d0-85a6-4fcffe639377": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Unknown-1024x768.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Is there a piece you have a specific affinity with?",
+        "text_block": "<p>Pretty much all our textiles. Our mohair pieces are very special due to the way they are crafted.<\/p><h3><strong><br\/>Do you want to tell us the story behind it?<\/strong><\/h3><p>It’s a very artisanal and complex process, from hand-dying the raw material to weaving and combing the pieces. It can take up to 9 months to produce a set of blankets! There is so much work and heritage in each piece.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "5d94befb-02f8-467e-a3c9-363aabbe60a8": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-01-at-16.45.09.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "What places inspire you in New York?",
+        "text_block": "<p><a href=\"https:\/\/www.noguchi.org\/museum\/exhibitions\/view\/akari-sculpture-by-other-means\/\">The Noguchi Museum<\/a>, The Brooklyn Museum, or Dia in Beacon (Upstate NY) are always inspiring places for us.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "7a775fd8-5386-454e-b6cb-0b0621ccfd81": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18165281947963__7a775fd8-5386-454e-b6cb-0b0621ccfd81-1677666620bbd673e2-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jarron-01-2-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Viso Jazz Porcelain Vase Navy<\/p><p>£296<\/p><p><\/p>"
+          }
+        },
+        "template--18165281947963__7a775fd8-5386-454e-b6cb-0b0621ccfd81-1677666620bbd673e2-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled-design-20-1.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Viso Mohair Blanket Black, Yellow and White Colour Block<\/p><p>£460<\/p>"
+          }
+        },
+        "template--18165281947963__7a775fd8-5386-454e-b6cb-0b0621ccfd81-1677666620bbd673e2-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled-design-10-1.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Viso Mohair Blanket Pink<\/p><p>£412<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18165281947963__7a775fd8-5386-454e-b6cb-0b0621ccfd81-1677666620bbd673e2-0",
+        "template--18165281947963__7a775fd8-5386-454e-b6cb-0b0621ccfd81-1677666620bbd673e2-1",
+        "template--18165281947963__7a775fd8-5386-454e-b6cb-0b0621ccfd81-1677666620bbd673e2-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Shop VISO Project"
+      }
+    },
+    "7145d33d-6cb7-4381-b3f4-a34f31a5f13c": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18165281947963__7145d33d-6cb7-4381-b3f4-a34f31a5f13c-1677666620bbd673e2-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Unknown-4-768x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18165281947963__7145d33d-6cb7-4381-b3f4-a34f31a5f13c-1677666620bbd673e2-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Unknown-6-768x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18165281947963__7145d33d-6cb7-4381-b3f4-a34f31a5f13c-1677666620bbd673e2-0",
+        "template--18165281947963__7145d33d-6cb7-4381-b3f4-a34f31a5f13c-1677666620bbd673e2-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "17fd370e-5e9b-4ea7-a0b5-33f091be386d",
+    "c4b823c0-5ee4-43d0-85a6-4fcffe639377",
+    "5d94befb-02f8-467e-a3c9-363aabbe60a8",
+    "main",
+    "7a775fd8-5386-454e-b6cb-0b0621ccfd81",
+    "7145d33d-6cb7-4381-b3f4-a34f31a5f13c",
+    "blog-posts"
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Article-header-image-13-1024x341.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "16 Wanderlust-Inducing Hotels to Book for Your Next Getaway",
+        "title": "",
+        "text": "<p>There’s barely a day that goes by when daydreams of holidays to far-flung beaches, bustling cities and wild mountaintops aren’t occupying our thoughts. With that in mind, we’ve scoured the globe for the most exciting hotels to book for your 2023 getaway. Discover an amalgamation of hotly anticipated new openings and well-established destinations, short and long-haul locations from Paris to Peru and unforgettable experiences to inspire endless wanderlust.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "light",
+        "width": "small",
+        "subheading": "",
+        "page_title": "",
+        "title": "Short Haul",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/owo-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "1. Raffles at the OWO, London",
+        "text_block": "<p><strong>57 Whitehall, SW1A 2BX London, UK<\/strong><\/p><p>Starting close to home, historical institution Raffles is set to open its first London hotel come spring. The location? None other than the Old War Rooms, where Churchill orchestrated the country’s World War II strategy. Aside from 120 luxurious rooms and 86 residences designed by Thierry Despont, you can expect the UK’s first Guerlain spa, three bars and nine restaurants – three of which will be overseen by Michelin-starred chef Mauro Colagreco.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/hotel-le-grand-mazarin-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "2. Hôtel Le Grand Mazarin, Paris",
+        "text_block": "<p><strong>17 Rue de la Verrerie, 75004 Paris, France<\/strong><\/p><p>If all-out opulence and 17th-century-inspired interiors are your thing, then Le Grand Mazarin should be your next getaway. Set in the heart of Le Marais, the newly opened hotel is the brainchild of esteemed interior architect Martin Brudnizki. If the hand-crafted wallpapers, vintage lampshades and 50 individually decorated rooms aren’t impressive enough, its location is just a stone’s throw from some of Paris’s best eateries and attractions.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "e61ebd9a-9e41-43f2-86f4-5b19c3ac3e3f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/De-Durgerdam-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "3. De Durgerdam, Amsterdam",
+        "text_block": "<p><strong>Durgderdammerdijk 73, 1026 CC Amsterdam, Netherlands<\/strong><\/p><p>Located a mere 15 minutes from the hustle and bustle of Amsterdam, De Durgerdam is a coastal hideaway for those seeking a slower pace of life. Once a 17th-century fisherman’s inn, the historic timber building now plays host to 14 bedrooms, a cosy snug library, a bar and plenty of rustic decor. The highlight, though, is the restaurant De Mark, overseen by two Michelin-starred chefs and serving fresh local ingredients.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "5625eaec-f8dd-4a85-bfb4-93037de0d8e2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Mamula-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "4. Mamula Island Hotel, Montenegro",
+        "text_block": "<p><strong>Bay of Kotor, Mirišta, Montenegro<\/strong><\/p><p>Montenegro is one of Europe’s hidden holiday gems, and Mamula Island is the crowning jewel. In the middle of UNESCO heritage Kotor Bay, a previously uninhabited 19th-century fort has been transformed into a truly unique hotel. Once on the tranquil island, the sun-drenched courtyards, private beach, spa, pools and bars and restaurants will be sure to keep you busy.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "4f8f490d-b892-4bc3-ac2e-29a671eda39b": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/The-Bracken-Hide-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "5. The Bracken Hide, Isle of Skye",
+        "text_block": "<p><strong>Struan Rd, Portree, Isle of Skye, IV51 9EG, Scotland<\/strong><\/p><p>A Hebridean hideaway that seamlessly blends nature and home comforts, The Bracken Hide gives a new meaning to the idea of a staycation. Set to open in March, the 45-strong collection of timber bothies (kitted out with king-sized beds and underfloor heating, no less) is accompanied by a fully-stocked whiskey bar, cinema, Nordic sauna and undisturbed views of the surrounding wilderness. If you’re feeling brave enough, there’s a wild plunge pool too.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "c320fe24-0571-4d3e-9a70-f6353ad1d111": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/16-Wanderlust-Inducing-Hotels-to-Book-for-Your-Next-Getaway-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "6. Stallmästaregården, Stockholm",
+        "text_block": "<p><strong>Stallmästaregården, Norrtull, Stockholm 113 47, Sweden<\/strong><\/p><p>Once the location of royal midsummer celebrations, Stallmästaregården was Sweden’s first inn, and its heritage is perfectly reflected in its elegant decor. The boutique hotel is just a short walk away from the historic streets and achingly cool shops of central Stockholm, while its tranquil bayside setting offers bucolic scenery, outdoor activities such as kayaking, and traditional Swedish saunas and massages. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "a5dee0bc-24ff-4404-8e22-c4266ed71a73": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/deplar-farm-iceland-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "7. Deplar Farm, Iceland",
+        "text_block": "<p><strong>570 Fljót, Ólafsfjörður, Iceland<\/strong><\/p><p>Despite its extreme location on Iceland’s Troll Peninsula, Deplar Farm is the pinnacle of luxurious travel. Once an 18th-century sheep farm, the turf-topped farmhouse is matched only by the awe-inspiring scenery it’s surrounded by. Expect locally sourced food, a geothermal pool, endless adventurous activities and rustic Scandi rooms to unwind in after an evening spent chasing the Northern Lights. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "0ef5328a-3480-41e6-a8b4-8dbc485bcafa": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Hotel-Hotel-Lisbon-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "8. Hotel Hotel, Lisbon",
+        "text_block": "<p><strong>Travessa da Gloria 22, Lisbon 1250-118, Portugal<\/strong><\/p><p>So good they named it twice, Hotel Hotel offers a design-centric perspective on Lisbon. Realised by artists and local designers, it’s centred around an outside-in approach, with the hotel’s garden being modelled on the nearby Botanical Garden. Inside you’ll find 40 rooms, a bar, an immersive yoga studio, an outside pool and in-house restaurant, Animal. Its location, on a quiet side street right off Lisbon’s main artery, means you can be out exploring straight away.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "dc226159-1cf2-4ca3-bf87-1ed27fb71def": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "Long Haul",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "5f5d153b-f8c2-45b8-81f5-ff251318b1c7": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Future-Found-Sanctuary-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "9. Future Found Sanctuary, Cape Town",
+        "text_block": "<p><strong>10 Hunters Way, Hout Bay, Cape Town, 7806, South Africa<\/strong><\/p><p>Nestled on the slopes of Table Mountain, Future Found Sanctuary blends wellness with the region’s appeal. Marvel at the panoramic views from one of the nine rooms, each designed with natural materials, practise your Sun Salutation on the lawn, plunge into both heated and natural cold immersion pools or hike in the surrounding nature. Once you’re relaxed, the retreat is within easy reach of the city, Kirstenbosch Gardens, beaches, Constantia wine estates and the Cape peninsula.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "36f0e0b6-2ee8-4b01-bb0f-65449d7c5a36": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Wayfinder-Waikiki-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "10. Wayfinder Waikiki, Hawaii",
+        "text_block": "<p><strong>2375 Ala Wai Blvd, Honolulu, HI 96815, United States<\/strong><\/p><p>Brutalist architecture meets tropical colours and lush foliage at Wayfinder Waikiki. The Hawaiian resort boasts 228 playful rooms and poolside studios, as well as numerous culinary options including made-to-order poke, a tropical speakeasy and a sensory coffee shop. What’s more, Waikiki beach is just a short stroll away, should you feel like exploring the island’s legendary surf scene for yourself and riding a tube.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "d1afff4a-0e24-43c4-8057-fa6e6b8e977a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/16-Wanderlust-Inducing-Hotels-to-Book-for-Your-Next-Getaway-1-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "11. Soho House, Mexico City",
+        "text_block": "<p><strong>TBC, Colonia Juárez, Mexico City, Mexico<\/strong><\/p><p>Located in the historic neighbourhood of Colonia Juárez in a restored casa, Soho House Mexico City will be the members club’s first location in Latin America. You can expect the familiar amenities and ambience the brand is known for, alongside custom-made furniture and vintage decor from local artisans as well as three bars, an alfresco pool and plenty of indoor and outdoor dining options. And, of course, the bustling metropolis of Mexico City is right on the doorstep.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "6fc48887-4874-40ad-99ce-f17e0c9eac92": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Shinta-Mani-Mustang-Nepal-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "12. Shinta Mani Mustang, Nepal",
+        "text_block": "<p><strong>Marpha-5, Jomsom 33100, Nepal<\/strong><\/p><p>If it’s an adventure you seek, look no further than Shinta Mani Mustang. Located in Nepal’s remote “Forbidden Kingdom”, the uber-luxurious, all-inclusive lodge is made up of 29 suites with unrivalled views of the Himalayas’ dramatic snow-capped peaks. While there, guests can try their hand at horse riding, hiking, helicopter tours and more, as well as exploring local Buddhist monasteries. After all that, a spa offering ancient ayurvedic treatments is just what the amchi ordered.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "bdfb84de-18c1-4cd1-b5ce-5d4ccfa7957d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Cap-Karoso-Indonesia-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "13. Cap Karoso, Indonesia",
+        "text_block": "<p><strong>Kodi, Sumba, Indonesia<\/strong><\/p><p>Miles of wild beaches surround the untamed paradise of Cap Karoso, making it a welcome alternative to the commotion of nearby Bali. 47 eco-chic villas boast both Brutalist design and local Sumbese treasures, while wooden decking provides the ultimate location for a spot of morning Yoga or sunset watching. In case that didn’t convince you, the retreat is also home to a shaman-run spa, open-air cinema, 33m outdoor swimming pool and an organic farm growing indigenous food.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "cca92069-9bfd-4b6d-a5d0-b1a182669b5a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Andenia-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "14. Andenia, Peru",
+        "text_block": "<p><strong>Km 58.5 Highway Pisac-Urubamba (28B), Sacred Valley, Peru<\/strong><\/p><p>If a trip to Machu Pichu is on your bucket list, then Andenia should be your base camp. Situated high up in Peru’s Sacred Valley and surrounded by nature, Incan ruins and hidden terraces, it’s comprised of three adobe casitas with wabi-sabi-inspired interiors and natural materials galore. As well as the surrounding natural beauty, the hotel has a garden with streams, a waterfall and local food growing where you can take a class in traditional outdoor cooking.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "37b3c0f6-a1ab-40e9-bbba-fc4e9e16cce9": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/15-1024x1024_7089f3bd-1725-4fb3-969d-6b217d1230b5.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "15. The Warehouse Hotel, Singapore",
+        "text_block": "<p><strong>320 Havelock Road, Robertson Quay, 169628, Singapore<\/strong><\/p><p>Meticulously restored from its 1895 origins as a spice warehouse into a 37-room boutique getaway, Singapore’s Warehouse Hotel expertly combines luxury, heritage and slick industrial design. Highlights include an elevated hawker-inspired restaurant run by a celebrated local chef, a pink-tiled lap pool on the roof, and, of course, its location on the banks of the Singapore river and within walking distance of the city’s hotspots.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "3307e04e-8e97-45e9-ae53-ac7415b6e1d1": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/okcs-Retreat-Setouchi-Aonagi-Japan-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "16. okcs Retreat Setouchi Aonagi, Japan",
+        "text_block": "<p><strong>794-1 Yanaidanimachi, Matsuyama, Ehime 790-2641, Japan<\/strong><\/p><p>The brainchild of legendary minimalist architect Tadao Ando, okcs Retreat Setouchi Aonagi is a masterclass in refined design. Set on a mountaintop on the Japanese island of Shikoku with views overlooking the Seko Inland Sea, it’s the perfect escape for tranquillity and Zen. The eight pared-back rooms are accompanied by an architecturally dramatic pool, a hot spring bath and a restaurant specialising in local ingredients, as well as countless other amenities.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "e61ebd9a-9e41-43f2-86f4-5b19c3ac3e3f",
+    "5625eaec-f8dd-4a85-bfb4-93037de0d8e2",
+    "4f8f490d-b892-4bc3-ac2e-29a671eda39b",
+    "c320fe24-0571-4d3e-9a70-f6353ad1d111",
+    "a5dee0bc-24ff-4404-8e22-c4266ed71a73",
+    "0ef5328a-3480-41e6-a8b4-8dbc485bcafa",
+    "dc226159-1cf2-4ca3-bf87-1ed27fb71def",
+    "5f5d153b-f8c2-45b8-81f5-ff251318b1c7",
+    "36f0e0b6-2ee8-4b01-bb0f-65449d7c5a36",
+    "d1afff4a-0e24-43c4-8057-fa6e6b8e977a",
+    "6fc48887-4874-40ad-99ce-f17e0c9eac92",
+    "bdfb84de-18c1-4cd1-b5ce-5d4ccfa7957d",
+    "cca92069-9bfd-4b6d-a5d0-b1a182669b5a",
+    "37b3c0f6-a1ab-40e9-bbba-fc4e9e16cce9",
+    "3307e04e-8e97-45e9-ae53-ac7415b6e1d1",
+    "main",
+    "blog-posts"
+  ]
+}
