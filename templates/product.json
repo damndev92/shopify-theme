@@ -57,7 +57,8 @@
         "6b24a8c9-e601-4d7a-a2b7-0d762e14441c": {
           "type": "days-to-deliver",
           "settings": {
-            "days-to-deliver": "<p>{{ product.metafields.custom.days_to_deliver.value }}<\/p>"
+            "days-to-deliver": "<p>{{ product.metafields.custom.days_to_deliver.value }}<\/p>",
+            "days-to-deliver_text": "<p>Make sure to select your shipping destination for a more accurate estimate<\/p>"
           }
         },
         "payment-buttons": {

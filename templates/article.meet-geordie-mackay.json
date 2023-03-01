@@ -1,0 +1,203 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-15-at-11.02.43-Large-1024x572.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Meet Geordie Mackay-Lewis, Co-founder and CEO of Pelorus, London",
+        "title": "",
+        "text": "<p>Unique experiences, tailor-made adventures, utmost attention to detail: Luxury at the edge of the world. When it comes to discovering the world, Geordie is your guy.  We sit down with the co-founder and CEO of <a href=\"https:\/\/pelorusx.com\/\">Pelorus<\/a>, the London-based high-end travel specialist, to discuss his work, his favourite memories, tips to plan the perfect trip, and bringing back memories home.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-15-at-10.15.45-1024x787.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Can you tell us about your work at Pelorus?",
+        "text_block": "<p>We founded Pelorus in 2017 to approach experiential travel and yachting in a different way. We exist to transform people’s perspectives of the world and our impact on the planet through immersive and sustainable experiences.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-15-at-10.17.10-1024x718.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "What makes a great trip?",
+        "text_block": "<p>Achieving multiple ‘wow’ moments each day for all our guests. If we can stimulate a positive emotional reaction through the experiences we have created then we have succeeded in creating long-lasting memories.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "27a44322-cfba-4a41-bd1b-6d8641d65d87": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-15-at-10.21.37-1024x715.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "What tips would you give to someone planning a trip?",
+        "text_block": "<p>Think about how you want to feel when you are on the plane home. Is it creatively inspired because you’ve devoured world-class art or feasted in sensational restaurants? Is it physically exhausted because you’ve conquered a lofty peak or celebrated into the early hours? Or is it calm and zen because your days have been spent practicing yoga deep in the jungle, cocooned from the outside world? Once you have decided on this, you can plan everything else around it.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "3cbcfdd5-26f7-4960-8d0a-85fb82cf572c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-15-at-10.24.14-1024x730.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "What’s the one thing people often forget about when planning a trip?",
+        "text_block": "<p>Don’t over plan and schedule your day to the last second; leave some room for spontaneity. You never know what extraordinary character you might meet who unlocks a hidden secret or takes you on an extraordinary adventure.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "6255cfcb-0727-4ad4-acef-8fefeced09cd": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-15-at-10.25.39.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Can you tell us about your most memorable trip?",
+        "text_block": "<p>Visiting the Island of Socotra, which is sandwiched between Yemen and Somalia. This culturally rich island consists of age-old fishing communities around its coastline and Bedouin herders in the mountains. It has four different environments and 70% endemic flora. It is a place stuck in time, a lost island forgotten by the rest of the world.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "8fc64b8d-98ce-4a81-a91d-06de09ebdba9": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-15-at-10.27.39-1024x766.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "How do you choose the right hotels?",
+        "text_block": "<p>Excellent service comes as standard, but it’s the little touches that truly elevate the experience. We choose a hotel that has a story and a reason for being and how this has been woven into every aspect of the hotel – from the interior design to what cocktails are being shaken up at the bar.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "82405d00-c322-4032-bd84-6f9cdaa53488": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-15-at-10.31.41-Large-1024x717.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "What are the things to avoid?",
+        "text_block": "<p>Cookie-cutter chain hotels that do not have a sense of place nor individual identity, or ones that have a brash theme that attracts the Instagram crowd.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "230d9eaf-a7da-45f8-b55d-9102e3f0fb2c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-15-at-11.05.44-Large-1024x792.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "You must discover the most amazing artisans. Do you have a piece at home that you have brought back that has a special meaning to you?",
+        "text_block": "<p>During a riding expedition deep into the Tien Shien mountains in Kazakhstan, we met a handful of incredible artisans who’s skills have been influenced by hundreds of years of living on the silk route. I bought a unique rug that brings the silk route to my sitting room in London and reinforces there are still many authentic remote gems worth searching for whilst travelling.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "27a44322-cfba-4a41-bd1b-6d8641d65d87",
+    "3cbcfdd5-26f7-4960-8d0a-85fb82cf572c",
+    "6255cfcb-0727-4ad4-acef-8fefeced09cd",
+    "8fc64b8d-98ce-4a81-a91d-06de09ebdba9",
+    "82405d00-c322-4032-bd84-6f9cdaa53488",
+    "230d9eaf-a7da-45f8-b55d-9102e3f0fb2c",
+    "main",
+    "blog-posts"
+  ]
+}
