@@ -45,16 +45,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/motmartre-1024x683.jpg",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "",
+        "text_block": "<p><strong>The Hidden one: Hotel Particulier,<\/strong> <strong>Montmartre<\/strong><\/p><p>Tucked in a secret passageway of Montmartre, Paris’s most picturesque neighborhood, is the wonderful “Hotel Particulier”. Ring the buzzer number 23, outside an unmarked black-gated entrance, walk down a mysterious stone-paved alley behind a high wall, to uncover one of the city’s best-hidden secret. Discover their beautiful designer suites, decorated with retro flea-market finds, but also their cafe, inside magical garden, designed by famous landscape architect Louis Benech.<\/p><p><a href=\"http:\/\/www.hotel-particulier-montmartre.com\/\">Pavillon D, 23 Avenue Junot, 75018 Paris, France<\/a><\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
