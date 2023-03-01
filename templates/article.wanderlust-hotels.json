@@ -236,6 +236,23 @@
         "button_label": ""
       }
     },
+    "6fc48887-4874-40ad-99ce-f17e0c9eac92": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Shinta-Mani-Mustang-Nepal-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "12. Shinta Mani Mustang, Nepal",
+        "text_block": "<p><strong>Marpha-5, Jomsom 33100, Nepal<\/strong><\/p><p>If it’s an adventure you seek, look no further than Shinta Mani Mustang. Located in Nepal’s remote “Forbidden Kingdom”, the uber-luxurious, all-inclusive lodge is made up of 29 suites with unrivalled views of the Himalayas’ dramatic snow-capped peaks. While there, guests can try their hand at horse riding, hiking, helicopter tours and more, as well as exploring local Buddhist monasteries. After all that, a spa offering ancient ayurvedic treatments is just what the amchi ordered.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -279,6 +296,7 @@
     "5f5d153b-f8c2-45b8-81f5-ff251318b1c7",
     "36f0e0b6-2ee8-4b01-bb0f-65449d7c5a36",
     "d1afff4a-0e24-43c4-8057-fa6e6b8e977a",
+    "6fc48887-4874-40ad-99ce-f17e0c9eac92",
     "main",
     "blog-posts"
   ]
