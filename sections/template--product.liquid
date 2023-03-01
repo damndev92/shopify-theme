@@ -302,7 +302,7 @@
 
                 {% liquid
                   if block.settings.days-to-deliver != blank
-                    render 'delivery-date', days_to_deliver_block: block.settings.days-to-deliver
+                    render 'delivery-date', days_to_deliver_block: block.settings.days-to-deliver, content: block.settings.days-to-deliver_text
                   endif
                 %}
 
@@ -1556,6 +1556,11 @@
             "type": "richtext",
             "id": "days-to-deliver",
             "label": "Type in or choose dynamic content."
+            },
+            {
+              "type": "richtext",
+              "id": "days-to-deliver_text",
+              "label": "Content"
             }
           ]
         },
