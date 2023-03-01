@@ -2,6 +2,10 @@
   "sections": {
     "main": {
       "type": "main-404",
+      "disabled": true,
+      "custom_css": [
+
+      ],
       "settings": {
       }
     },
@@ -37,6 +41,19 @@
         "colors": "white",
         "subheading": "",
         "title": "Continue shopping"
+      }
+    },
+    "362b3b9b-6d85-4757-97c6-dc0364532410": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "Oops, sorry!",
+        "text": "<p>The item or page you were looking for is now gone, you’ve gotta be quick! Don’t worry you can continue shopping our most popular categories below.<\/p>",
+        "button_link": "",
+        "button_label": ""
       }
     },
     "858d301e-bf32-4633-80c9-bfe5a1acde9f": {
@@ -95,6 +112,7 @@
   "order": [
     "main",
     "collection-list",
+    "362b3b9b-6d85-4757-97c6-dc0364532410",
     "858d301e-bf32-4633-80c9-bfe5a1acde9f"
   ]
 }
