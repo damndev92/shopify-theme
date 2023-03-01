@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "7feffe0d-c6cf-4b0c-b20a-e5406b28a057": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Relais-de-la-Butte-1024x682.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>The most Parisian:  Le Relais de la Butte<\/strong><\/p><p>The shaded terrace of the Restaurant ‘Le Relais de la Butte’ on the Place Emile Goudeau offers the perfect setting for a Parisian café experience. Expect good traditional French cooking, a relaxed atmosphere, and nice views: what more could you ask for?<\/p><p><a href=\"https:\/\/lerelaisdelabutte.fr\/en\">12 Rue Ravignan, 75018 Paris, France<\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "2e18695d-481c-4ec2-b9a7-98e0f2903a45",
+    "7feffe0d-c6cf-4b0c-b20a-e5406b28a057",
     "main",
     "blog-posts"
   ]
