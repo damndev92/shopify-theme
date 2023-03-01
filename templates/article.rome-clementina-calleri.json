@@ -50,7 +50,7 @@
         "subheading": "",
         "location": false,
         "title": "2. Lunch break at:",
-        "text_block": "<p><a href=\"https:\/\/www.pianostrada.it\/\">Pianostrada<\/a><\/p><p>Via delle Zoccolette 22, Rome, Italy<\/p>",
+        "text_block": "<p><a href=\"https:\/\/www.instagram.com\/pianostrada\/?hl=en\" title=\"https:\/\/www.instagram.com\/pianostrada\/?hl=en\">Pianostrada<\/a><\/p><p>Via delle Zoccolette 22, Rome, Italy<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -141,7 +141,7 @@
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
-        "colors": "light",
+        "background-color": "#F3F3F3",
         "subheading": "BLOG",
         "title": "Latest articles",
         "post_limit": 3,
