@@ -172,6 +172,19 @@
         "button_label": ""
       }
     },
+    "dc226159-1cf2-4ca3-bf87-1ed27fb71def": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "Long Haul",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "5f5d153b-f8c2-45b8-81f5-ff251318b1c7": {
       "type": "text--image-with-text",
       "settings": {
@@ -228,6 +241,7 @@
     "c320fe24-0571-4d3e-9a70-f6353ad1d111",
     "a5dee0bc-24ff-4404-8e22-c4266ed71a73",
     "0ef5328a-3480-41e6-a8b4-8dbc485bcafa",
+    "dc226159-1cf2-4ca3-bf87-1ed27fb71def",
     "5f5d153b-f8c2-45b8-81f5-ff251318b1c7",
     "main",
     "blog-posts"
