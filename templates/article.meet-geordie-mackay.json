@@ -3,7 +3,7 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-15-at-11.02.43-Large-1024x572.jpg",
+        "image": "shopify:\/\/shop_images\/43363-true-north-adventure-cruises-koolama-bay-king-george-river.jpg",
         "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
@@ -203,7 +203,7 @@
         "subheading": "",
         "location": false,
         "title": "What’s your wish for the travel community for 2023?",
-        "text_block": "<p>The travel community remains incredibly positive in the face of adversity, and I hope that we can continue developing as a force for good and moving towards a more sustainably led approach.<\/p><p> <\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/16-wanderlust-inducing-hotels-to-book-for-your-next-getaway\/\">Discover 16 Wanderlust-Inducing Hotels to Book for Your Next Getaway<\/a><\/p>",
+        "text_block": "<p>The travel community remains incredibly positive in the face of adversity, and I hope that we can continue developing as a force for good and moving towards a more sustainably led approach.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -226,7 +226,7 @@
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
-        "colors": "light",
+        "background-color": "#F3F3F3",
         "subheading": "BLOG",
         "title": "Latest articles",
         "post_limit": 3,
