@@ -200,9 +200,9 @@
         "title": "9. Future Found Sanctuary, Cape Town",
         "text_block": "<p><strong>10 Hunters Way, Hout Bay, Cape Town, 7806, South Africa<\/strong><\/p><p>Nestled on the slopes of Table Mountain, Future Found Sanctuary blends wellness with the region’s appeal. Marvel at the panoramic views from one of the nine rooms, each designed with natural materials, practise your Sun Salutation on the lawn, plunge into both heated and natural cold immersion pools or hike in the surrounding nature. Once you’re relaxed, the retreat is within easy reach of the city, Kirstenbosch Gardens, beaches, Constantia wine estates and the Cape peninsula.<\/p>",
         "page_description": false,
-        "button_link": "",
+        "button_link": "https:\/\/futurefoundsanctuary.com\/",
         "hotel_page_url": false,
-        "button_label": ""
+        "button_label": "Discover now"
       }
     },
     "36f0e0b6-2ee8-4b01-bb0f-65449d7c5a36": {
@@ -340,6 +340,7 @@
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
+        "background-color": "#F3F3F3",
         "subheading": "BLOG",
         "title": "Latest articles",
         "post_limit": 3,
