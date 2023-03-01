@@ -32,7 +32,7 @@
           </div>
         {% endif %}
 
-        <div class="swiper {{ section.id }}">
+        <div class="{% if section.blocks.size > 1 %}swiper{% endif %} {{ section.id }}">
           <div class="swiper-wrapper">
             {% for block in section.blocks %}
               <div class="swiper-slide stl__main {% if block.settings.image__position == 'image--right' %} stl__img-right{% endif %}">
@@ -43,7 +43,7 @@
                       alt: block.settings.image.alt
                     %}
                   </div>
-                  <div class="swiper-pagination mobile"></div>
+                  {% if section.blocks.size > 1 %}<div class="swiper-pagination mobile"></div>{% endif %}
                 </div>
 
                 <div class="stl__outer-products-container">
@@ -100,7 +100,7 @@
               </div>
             {% endfor %}
           </div>
-          <div class="swiper-pagination desktop"></div>
+          {% if section.blocks.size > 1 %}<div class="swiper-pagination desktop"></div>{% endif %}
         </div>
       </div>
     </div>
