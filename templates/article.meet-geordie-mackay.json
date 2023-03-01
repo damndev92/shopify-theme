@@ -176,6 +176,40 @@
         "button_label": ""
       }
     },
+    "91d25975-1a4e-4248-bb7d-2044bb8fb928": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-15-at-10.40.41-Large-1024x679.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "What locations would you recommend for 2023?",
+        "text_block": "<p>Japan, but a route less trodden. I’ve always been fascinated by the <em>ama, <\/em>the “sea women” who dive for pearls in Ago Bay. There are now only a few female divers still working so time is of the essence. Or I would set off on the Nakasendo Way – an ancient route that meanders through the rural Kiso Valley passing through picturesque villages of wooden houses, their appearance changing little over time.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "8e25ef86-2bdc-4b78-b43c-afac9fc0530d": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-15-at-10.43.15-Large-1024x677.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "What’s your wish for the travel community for 2023?",
+        "text_block": "<p>The travel community remains incredibly positive in the face of adversity, and I hope that we can continue developing as a force for good and moving towards a more sustainably led approach.<\/p><p> <\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/16-wanderlust-inducing-hotels-to-book-for-your-next-getaway\/\">Discover 16 Wanderlust-Inducing Hotels to Book for Your Next Getaway<\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -215,6 +249,8 @@
     "82405d00-c322-4032-bd84-6f9cdaa53488",
     "230d9eaf-a7da-45f8-b55d-9102e3f0fb2c",
     "015bba59-13cb-4826-82aa-58b3ccc44a52",
+    "91d25975-1a4e-4248-bb7d-2044bb8fb928",
+    "8e25ef86-2bdc-4b78-b43c-afac9fc0530d",
     "main",
     "blog-posts"
   ]
