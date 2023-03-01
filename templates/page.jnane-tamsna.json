@@ -260,7 +260,7 @@
           "type": "tab_content",
           "settings": {
             "question": "Tell us a little bit about Jnane Tamsna.",
-            "text": "<p>A unique boutique hotel offering 24 individual rooms, private villa rentals and full exclusivity for events.<\/p>"
+            "text": "<p>We are a unique boutique hotel offering 24 individual rooms, private villa rentals and full exclusivity for events.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
@@ -280,7 +280,7 @@
         "b00dd7ab-2374-47ba-a199-88f978fdba6d": {
           "type": "tab_content",
           "settings": {
-            "question": "something most people don't know about marrakech?",
+            "question": "What's something most people don't know about marrakech?",
             "text": "<p>I think Marrakech is very different than the rest of Morocco. The impact of the expats is significant. As much as Rabat is linked to politics and Casablanca to business, the people chose Marrakech because they fell in love with the town. <\/p>"
           }
         }
@@ -381,7 +381,7 @@
         "f004a3e3-1329-42c8-8c03-7c3022d26dee"
       ],
       "settings": {
-        "colors": "white",
+        "background-color": "#F3F3F3",
         "subheading": "Read From",
         "title": "Flâneur Magazine",
         "post_limit": 2,
