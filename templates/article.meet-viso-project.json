@@ -163,6 +163,45 @@
         "title": "Shop VISO Project"
       }
     },
+    "7145d33d-6cb7-4381-b3f4-a34f31a5f13c": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18165281947963__7145d33d-6cb7-4381-b3f4-a34f31a5f13c-1677666620bbd673e2-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18165281947963__7145d33d-6cb7-4381-b3f4-a34f31a5f13c-1677666620bbd673e2-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18165281947963__7145d33d-6cb7-4381-b3f4-a34f31a5f13c-1677666620bbd673e2-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18165281947963__7145d33d-6cb7-4381-b3f4-a34f31a5f13c-1677666620bbd673e2-0",
+        "template--18165281947963__7145d33d-6cb7-4381-b3f4-a34f31a5f13c-1677666620bbd673e2-1",
+        "template--18165281947963__7145d33d-6cb7-4381-b3f4-a34f31a5f13c-1677666620bbd673e2-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -187,6 +226,7 @@
     "5d94befb-02f8-467e-a3c9-363aabbe60a8",
     "main",
     "7a775fd8-5386-454e-b6cb-0b0621ccfd81",
+    "7145d33d-6cb7-4381-b3f4-a34f31a5f13c",
     "blog-posts"
   ]
 }
