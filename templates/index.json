@@ -318,7 +318,7 @@
         "7a313341-6907-41f3-9690-276a9793e8ee"
       ],
       "settings": {
-        "colors": "white",
+        "background-color": "#ffffff",
         "subheading": "Read",
         "title": "FLÂNEUR MAGAZINE",
         "post_limit": 3,
