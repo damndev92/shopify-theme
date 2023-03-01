@@ -11,14 +11,74 @@
         "url": ""
       }
     },
-    "7ea02b15-29ff-4f86-bc85-3c147796ccf0": {
+    "289e16f7-3833-4185-aa0d-e7cef1f53140": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Christmas_hero_banner.png",
+        "image": "shopify:\/\/shop_images\/Christmas_hero_banner_3636e986-ce1c-4da5-b658-3315e43c04cb.png",
         "parallax": false,
         "alignment": "top",
-        "hero_size": "large",
-        "text-over-image-width": "fixed"
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "116abf4e-afc2-4c23-be8a-d4bf7c597f33": {
+      "type": "image--slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--18166380364091__116abf4e-afc2-4c23-be8a-d4bf7c597f33-1677675254c47905ae-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Christmas_hero_banner_3636e986-ce1c-4da5-b658-3315e43c04cb.png",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_text": "",
+            "link": "",
+            "caption-background": "rgba(0,0,0,0)",
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#000000",
+            "button-background-hover": "#797979",
+            "horizontal-alignment": "left",
+            "vertical-alignment": "middle"
+          }
+        },
+        "template--18166380364091__116abf4e-afc2-4c23-be8a-d4bf7c597f33-1677675254c47905ae-1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "subheading": "",
+            "title": "Share your story",
+            "text": "Here's your chance to make a great first impression",
+            "button_text": "",
+            "link": "",
+            "caption-background": "rgba(0,0,0,0)",
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#000000",
+            "button-background-hover": "#797979",
+            "horizontal-alignment": "left",
+            "vertical-alignment": "middle"
+          }
+        }
+      },
+      "block_order": [
+        "template--18166380364091__116abf4e-afc2-4c23-be8a-d4bf7c597f33-1677675254c47905ae-0",
+        "template--18166380364091__116abf4e-afc2-4c23-be8a-d4bf7c597f33-1677675254c47905ae-1"
+      ],
+      "settings": {
+        "split-images": false,
+        "slide_on_mobile": 1,
+        "slider-animation": "fade",
+        "slider-width": "full-width",
+        "show-slide-full-screen": true,
+        "slider-slide-time": 5,
+        "caption-heading-size": 50,
+        "show-slide-dots": false,
+        "show-slide-arrows": false,
+        "show-slide-controls": false,
+        "slider-navigation--color": "#ffffff",
+        "overlay": true
       }
     },
     "863777fe-8108-4759-b7c3-326c19c0254c": {
@@ -27,7 +87,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
-        "page_title": "Maison Flâneur Christmas",
+        "page_title": "The countdown is on...",
         "title": "",
         "text": "<p>It's never too early to start thinking about Christmas!<\/p>",
         "button_link": "",
@@ -85,71 +145,13 @@
         "subheading": "",
         "title": ""
       }
-    },
-    "116abf4e-afc2-4c23-be8a-d4bf7c597f33": {
-      "type": "image--slideshow",
-      "blocks": {
-        "template--18166380364091__116abf4e-afc2-4c23-be8a-d4bf7c597f33-1677675254c47905ae-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Christmas_hero_banner.png",
-            "subheading": "",
-            "title": "",
-            "text": "",
-            "button_text": "",
-            "link": "",
-            "caption-background": "rgba(0,0,0,0)",
-            "caption-text": "#ffffff",
-            "button-text": "#ffffff",
-            "button-background": "#000000",
-            "button-background-hover": "#797979",
-            "horizontal-alignment": "left",
-            "vertical-alignment": "middle"
-          }
-        },
-        "template--18166380364091__116abf4e-afc2-4c23-be8a-d4bf7c597f33-1677675254c47905ae-1": {
-          "type": "slide",
-          "settings": {
-            "subheading": "",
-            "title": "Share your story",
-            "text": "Here's your chance to make a great first impression",
-            "button_text": "",
-            "link": "",
-            "caption-background": "rgba(0,0,0,0)",
-            "caption-text": "#ffffff",
-            "button-text": "#ffffff",
-            "button-background": "#000000",
-            "button-background-hover": "#797979",
-            "horizontal-alignment": "left",
-            "vertical-alignment": "middle"
-          }
-        }
-      },
-      "block_order": [
-        "template--18166380364091__116abf4e-afc2-4c23-be8a-d4bf7c597f33-1677675254c47905ae-0",
-        "template--18166380364091__116abf4e-afc2-4c23-be8a-d4bf7c597f33-1677675254c47905ae-1"
-      ],
-      "settings": {
-        "split-images": false,
-        "slide_on_mobile": 1,
-        "slider-animation": "slide",
-        "slider-width": "full-width",
-        "show-slide-full-screen": true,
-        "slider-slide-time": 5,
-        "caption-heading-size": 50,
-        "show-slide-dots": false,
-        "show-slide-arrows": true,
-        "show-slide-controls": true,
-        "slider-navigation--color": "#ffffff",
-        "overlay": true
-      }
     }
   },
   "order": [
     "main",
-    "7ea02b15-29ff-4f86-bc85-3c147796ccf0",
+    "289e16f7-3833-4185-aa0d-e7cef1f53140",
+    "116abf4e-afc2-4c23-be8a-d4bf7c597f33",
     "863777fe-8108-4759-b7c3-326c19c0254c",
-    "ee04ac75-aa4d-46e9-a2df-38f736ec7c60",
-    "116abf4e-afc2-4c23-be8a-d4bf7c597f33"
+    "ee04ac75-aa4d-46e9-a2df-38f736ec7c60"
   ]
 }
