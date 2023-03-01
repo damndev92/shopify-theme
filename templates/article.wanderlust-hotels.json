@@ -270,6 +270,23 @@
         "button_label": ""
       }
     },
+    "cca92069-9bfd-4b6d-a5d0-b1a182669b5a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Andenia-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "14. Andenia, Peru",
+        "text_block": "<p><strong>Km 58.5 Highway Pisac-Urubamba (28B), Sacred Valley, Peru<\/strong><\/p><p>If a trip to Machu Pichu is on your bucket list, then Andenia should be your base camp. Situated high up in Peru’s Sacred Valley and surrounded by nature, Incan ruins and hidden terraces, it’s comprised of three adobe casitas with wabi-sabi-inspired interiors and natural materials galore. As well as the surrounding natural beauty, the hotel has a garden with streams, a waterfall and local food growing where you can take a class in traditional outdoor cooking.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -315,6 +332,7 @@
     "d1afff4a-0e24-43c4-8057-fa6e6b8e977a",
     "6fc48887-4874-40ad-99ce-f17e0c9eac92",
     "bdfb84de-18c1-4cd1-b5ce-5d4ccfa7957d",
+    "cca92069-9bfd-4b6d-a5d0-b1a182669b5a",
     "main",
     "blog-posts"
   ]
