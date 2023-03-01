@@ -159,6 +159,23 @@
         "button_label": ""
       }
     },
+    "015bba59-13cb-4826-82aa-58b3ccc44a52": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-15-at-10.39.23-Large-1024x717.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "What about a piece that you wish you had brought back but couldn’t\/didn’t?",
+        "text_block": "<p>I was lucky enough to be gifted a special Yemeni knife, with intricate carvings in silver that belonged to a tribesman in the Hadramout region of Yemen. Not long after that trip, the country descended into civil war, so it reminds me we must make the most of every opportunity to see the world now, as we don’t know what tomorrow holds. Sadly I could not bring the knife back.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -197,6 +214,7 @@
     "8fc64b8d-98ce-4a81-a91d-06de09ebdba9",
     "82405d00-c322-4032-bd84-6f9cdaa53488",
     "230d9eaf-a7da-45f8-b55d-9102e3f0fb2c",
+    "015bba59-13cb-4826-82aa-58b3ccc44a52",
     "main",
     "blog-posts"
   ]
