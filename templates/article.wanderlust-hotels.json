@@ -58,16 +58,16 @@
       "settings": {
         "colors": "white",
         "image-width": "extra-large",
-        "image": "shopify:\/\/shop_images\/2-3.png",
-        "layout": "right",
+        "image": "shopify:\/\/shop_images\/hotel-le-grand-mazarin-1024x1024.png",
+        "layout": "left",
         "subheading": "",
         "location": false,
-        "title": "2. Cornerstone",
-        "text_block": "<p>3 Prince Edward Rd, E9 5NP<br\/><strong>Head chef:<\/strong> James Toth<br\/><strong>Order the:<\/strong> Pickled oysters<br\/><br\/><\/p><p>If something low-key but nevertheless delicious is more your style, then Tom Brown’s solo debut, Cornerstone, should be your first point of call. His produce-driven approach sees seafood as the star of the show, while a seat at the bar offers an unparalleled view of the chefs at work.<\/p>",
+        "title": "2. Hôtel Le Grand Mazarin, Paris",
+        "text_block": "<p><strong>17 Rue de la Verrerie, 75004 Paris, France<\/strong><\/p><p>If all-out opulence and 17th-century-inspired interiors are your thing, then Le Grand Mazarin should be your next getaway. Set in the heart of Le Marais, the newly opened hotel is the brainchild of esteemed interior architect Martin Brudnizki. If the hand-crafted wallpapers, vintage lampshades and 50 individually decorated rooms aren’t impressive enough, its location is just a stone’s throw from some of Paris’s best eateries and attractions.<\/p>",
         "page_description": false,
-        "button_link": "https:\/\/cornerstonehackney.com\/",
+        "button_link": "",
         "hotel_page_url": false,
-        "button_label": "Book Now"
+        "button_label": ""
       }
     },
     "main": {
