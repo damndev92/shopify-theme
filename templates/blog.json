@@ -212,7 +212,8 @@
       "settings": {
         "blog_layout": "grid",
         "blog-posts-per-page": 12,
-        "background-color": "#fae4de",
+        "background-color": "#ffe4de",
+        "background-image": "shopify:\/\/shop_images\/1_af4c4768-ed55-4aab-b653-87902f58309f.png",
         "show_author_name": false,
         "show_dates": false,
         "blog-sidebar-link": "",
