@@ -45,7 +45,7 @@
     "buttons--capitalize": false,
     "cart-type": "drawer",
     "cart-action": "drawer",
-    "allow_note": true,
+    "allow_note": false,
     "enable_terms_conditions": false,
     "enable_store_pickup": false,
     "show_swatches": false,
