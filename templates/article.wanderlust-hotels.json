@@ -304,6 +304,23 @@
         "button_label": ""
       }
     },
+    "3307e04e-8e97-45e9-ae53-ac7415b6e1d1": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/okcs-Retreat-Setouchi-Aonagi-Japan-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "16. okcs Retreat Setouchi Aonagi, Japan",
+        "text_block": "<p><strong>794-1 Yanaidanimachi, Matsuyama, Ehime 790-2641, Japan<\/strong><\/p><p>The brainchild of legendary minimalist architect Tadao Ando, okcs Retreat Setouchi Aonagi is a masterclass in refined design. Set on a mountaintop on the Japanese island of Shikoku with views overlooking the Seko Inland Sea, it’s the perfect escape for tranquillity and Zen. The eight pared-back rooms are accompanied by an architecturally dramatic pool, a hot spring bath and a restaurant specialising in local ingredients, as well as countless other amenities.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -351,6 +368,7 @@
     "bdfb84de-18c1-4cd1-b5ce-5d4ccfa7957d",
     "cca92069-9bfd-4b6d-a5d0-b1a182669b5a",
     "37b3c0f6-a1ab-40e9-bbba-fc4e9e16cce9",
+    "3307e04e-8e97-45e9-ae53-ac7415b6e1d1",
     "main",
     "blog-posts"
   ]
