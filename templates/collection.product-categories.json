@@ -86,6 +86,7 @@
     },
     "collection-list": {
       "type": "collection--collection-list",
+      "disabled": true,
       "blocks": {
         "collection-list-0": {
           "type": "featured_collection",
