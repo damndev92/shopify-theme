@@ -121,6 +121,19 @@
         "show_recent_posts": false
       }
     },
+    "5d517547-58c1-440f-bce9-7923b97b8184": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><a href=\"https:\/\/www.maisonflaneur.com\/shop\/\"><strong>Discover Maison Flaneur’s full collection here.<\/strong><\/a><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/flan-club-alexandra-van-houtte\/\"><strong>For more French inspiration, discover Alexandra Van Houtte’s selection from MF.<\/strong><\/a><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -144,6 +157,7 @@
     "7feffe0d-c6cf-4b0c-b20a-e5406b28a057",
     "db2f0c18-b803-4a91-aca3-04d7562670aa",
     "main",
+    "5d517547-58c1-440f-bce9-7923b97b8184",
     "blog-posts"
   ]
 }
