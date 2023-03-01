@@ -138,6 +138,23 @@
         "button_label": ""
       }
     },
+    "a5dee0bc-24ff-4404-8e22-c4266ed71a73": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/deplar-farm-iceland-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "7. Deplar Farm, Iceland",
+        "text_block": "<p><strong>570 Fljót, Ólafsfjörður, Iceland<\/strong><\/p><p>Despite its extreme location on Iceland’s Troll Peninsula, Deplar Farm is the pinnacle of luxurious travel. Once an 18th-century sheep farm, the turf-topped farmhouse is matched only by the awe-inspiring scenery it’s surrounded by. Expect locally sourced food, a geothermal pool, endless adventurous activities and rustic Scandi rooms to unwind in after an evening spent chasing the Northern Lights. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -175,6 +192,7 @@
     "5625eaec-f8dd-4a85-bfb4-93037de0d8e2",
     "4f8f490d-b892-4bc3-ac2e-29a671eda39b",
     "c320fe24-0571-4d3e-9a70-f6353ad1d111",
+    "a5dee0bc-24ff-4404-8e22-c4266ed71a73",
     "main",
     "blog-posts"
   ]
