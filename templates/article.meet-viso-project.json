@@ -121,6 +121,48 @@
         "show_recent_posts": false
       }
     },
+    "7a775fd8-5386-454e-b6cb-0b0621ccfd81": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18165281947963__7a775fd8-5386-454e-b6cb-0b0621ccfd81-1677666620bbd673e2-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jarron-01-2-1024x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Viso Jazz Porcelain Vase Navy<\/p><p>£296<\/p><p><\/p>"
+          }
+        },
+        "template--18165281947963__7a775fd8-5386-454e-b6cb-0b0621ccfd81-1677666620bbd673e2-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled-design-20-1.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Viso Mohair Blanket Black, Yellow and White Colour Block<\/p><p>£460<\/p>"
+          }
+        },
+        "template--18165281947963__7a775fd8-5386-454e-b6cb-0b0621ccfd81-1677666620bbd673e2-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled-design-10-1.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Viso Mohair Blanket Pink<\/p><p>£412<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18165281947963__7a775fd8-5386-454e-b6cb-0b0621ccfd81-1677666620bbd673e2-0",
+        "template--18165281947963__7a775fd8-5386-454e-b6cb-0b0621ccfd81-1677666620bbd673e2-1",
+        "template--18165281947963__7a775fd8-5386-454e-b6cb-0b0621ccfd81-1677666620bbd673e2-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Shop VISO Project"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -144,6 +186,7 @@
     "c4b823c0-5ee4-43d0-85a6-4fcffe639377",
     "5d94befb-02f8-467e-a3c9-363aabbe60a8",
     "main",
+    "7a775fd8-5386-454e-b6cb-0b0621ccfd81",
     "blog-posts"
   ]
 }
