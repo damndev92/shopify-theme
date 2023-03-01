@@ -74,6 +74,40 @@
         "button_label": ""
       }
     },
+    "c4b823c0-5ee4-43d0-85a6-4fcffe639377": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Unknown-1024x768.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Is there a piece you have a specific affinity with?",
+        "text_block": "<p>Pretty much all our textiles. Our mohair pieces are very special due to the way they are crafted.<\/p><h3><strong><br\/>Do you want to tell us the story behind it?<\/strong><\/h3><p>It’s a very artisanal and complex process, from hand-dying the raw material to weaving and combing the pieces. It can take up to 9 months to produce a set of blankets! There is so much work and heritage in each piece.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "5d94befb-02f8-467e-a3c9-363aabbe60a8": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Unknown-3-768x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +141,8 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "17fd370e-5e9b-4ea7-a0b5-33f091be386d",
+    "c4b823c0-5ee4-43d0-85a6-4fcffe639377",
+    "5d94befb-02f8-467e-a3c9-363aabbe60a8",
     "main",
     "blog-posts"
   ]
