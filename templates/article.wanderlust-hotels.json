@@ -219,6 +219,23 @@
         "button_label": ""
       }
     },
+    "d1afff4a-0e24-43c4-8057-fa6e6b8e977a": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/16-Wanderlust-Inducing-Hotels-to-Book-for-Your-Next-Getaway-1-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "11. Soho House, Mexico City",
+        "text_block": "<p><strong>TBC, Colonia Juárez, Mexico City, Mexico<\/strong><\/p><p>Located in the historic neighbourhood of Colonia Juárez in a restored casa, Soho House Mexico City will be the members club’s first location in Latin America. You can expect the familiar amenities and ambience the brand is known for, alongside custom-made furniture and vintage decor from local artisans as well as three bars, an alfresco pool and plenty of indoor and outdoor dining options. And, of course, the bustling metropolis of Mexico City is right on the doorstep.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -261,6 +278,7 @@
     "dc226159-1cf2-4ca3-bf87-1ed27fb71def",
     "5f5d153b-f8c2-45b8-81f5-ff251318b1c7",
     "36f0e0b6-2ee8-4b01-bb0f-65449d7c5a36",
+    "d1afff4a-0e24-43c4-8057-fa6e6b8e977a",
     "main",
     "blog-posts"
   ]
