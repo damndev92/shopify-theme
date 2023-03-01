@@ -174,7 +174,7 @@
         "template--17643497849147__cf077cad-85d2-4b89-9e5d-736cf4697deb-16775829108252513c-2": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/MAG_CATS_350_x_100px_2.png",
+            "image": "shopify:\/\/shop_images\/MAG_CATS_shopify_350_x_100px.png",
             "link": "https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/travel-guide"
           }
         },
@@ -236,7 +236,7 @@
       "type": "blog--blog-posts",
       "disabled": true,
       "settings": {
-        "colors": "white",
+        "background-color": "#F3F3F3",
         "subheading": "",
         "title": "From the blog",
         "post_limit": 3,
@@ -250,7 +250,7 @@
       "type": "blog--blog-posts",
       "disabled": true,
       "settings": {
-        "colors": "white",
+        "background-color": "#F3F3F3",
         "subheading": "",
         "title": "From the blog",
         "post_limit": 3,
