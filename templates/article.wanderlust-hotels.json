@@ -104,6 +104,23 @@
         "button_label": ""
       }
     },
+    "4f8f490d-b892-4bc3-ac2e-29a671eda39b": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/The-Bracken-Hide-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "5. The Bracken Hide, Isle of Skye",
+        "text_block": "<p><strong>Struan Rd, Portree, Isle of Skye, IV51 9EG, Scotland<\/strong><\/p><p>A Hebridean hideaway that seamlessly blends nature and home comforts, The Bracken Hide gives a new meaning to the idea of a staycation. Set to open in March, the 45-strong collection of timber bothies (kitted out with king-sized beds and underfloor heating, no less) is accompanied by a fully-stocked whiskey bar, cinema, Nordic sauna and undisturbed views of the surrounding wilderness. If you’re feeling brave enough, there’s a wild plunge pool too.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -139,6 +156,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "e61ebd9a-9e41-43f2-86f4-5b19c3ac3e3f",
     "5625eaec-f8dd-4a85-bfb4-93037de0d8e2",
+    "4f8f490d-b892-4bc3-ac2e-29a671eda39b",
     "main",
     "blog-posts"
   ]
