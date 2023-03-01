@@ -1,0 +1,206 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/paris-viewpoints-1024x640.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "5 of the best cafés in Paris",
+        "title": "",
+        "text": "<p>Do not lose hope, spring is said to be around the corner. We thought there was no better time to present a list of Maison Flaneur’s favourite cafés in Paris – With two Parisian co-founders, it would have been rude not to. Some better for a croissant and a morning coffee, some for a glass of wine with friends and some for a secret date: they are the perfect place to discover your inner Flâneur. Whatever the reason, you can always bring back a piece of Paris <a href=\"https:\/\/www.maisonflaneur.com\/venues\/hotelgrandamour\/products\/\">home<\/a>.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/ca4faff7216b77fa9f1749f86a2eb0d8-1024x1024.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>The best Location: Le Nemours<\/strong><\/p><p>The Nemours is located Place Colette, just outside of the beaded entrance of the metro Palais Royal, on the side of Le Louvre. This café is an excellent place for people watching: spot the actors from the Comédie Française smoking on the first-floor balcony and groups of tourists coming and going from the museum. Enjoy a stroll through the <em>Colonnes de Buren<\/em>, the art installation created by the French artist Daniel Buren in the inner courtyard of the Palais Royal or in the beautiful parc behind it.<\/p><p><a href=\"http:\/\/www.lenemours.paris\/\">Galerie de Nemours, 2 Place Colette, 75001 Paris, France<\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/motmartre-1024x683.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>The Hidden one: Hotel Particulier,<\/strong> <strong>Montmartre<\/strong><\/p><p>Tucked in a secret passageway of Montmartre, Paris’s most picturesque neighborhood, is the wonderful “Hotel Particulier”. Ring the buzzer number 23, outside an unmarked black-gated entrance, walk down a mysterious stone-paved alley behind a high wall, to uncover one of the city’s best-hidden secret. Discover their beautiful designer suites, decorated with retro flea-market finds, but also their cafe, inside magical garden, designed by famous landscape architect Louis Benech.<\/p><p><a href=\"http:\/\/www.hotel-particulier-montmartre.com\/\">Pavillon D, 23 Avenue Junot, 75018 Paris, France<\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "2e18695d-481c-4ec2-b9a7-98e0f2903a45": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/le_comptoir_general_salle_de_l_aquarium.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>The Quirkiest: Le Comptoir général<\/strong><\/p><p>In an old 600 square-meter barn is the offbeat “The Comptoir General”, a buzzing Parisian hangout, located in the 10th arrondissement. “As you walk in, the size of the space blows you away – two enormous, shadowy rooms connected by a smoking area formed from a tropical garden in an enormous greenhouse that creates a well of light in the centre of the venue. In another corner sits a cabinet of curiosities, full of neat rows of skeletons, rare bird feathers, and stuffed animals.” Are you intrigued yet?<\/p><p><a href=\"https:\/\/www.lecomptoirgeneral.com\/\">80 Quai de Jemmapes, 75010 Paris, France<\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "7feffe0d-c6cf-4b0c-b20a-e5406b28a057": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Relais-de-la-Butte-1024x682.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>The most Parisian:  Le Relais de la Butte<\/strong><\/p><p>The shaded terrace of the Restaurant ‘Le Relais de la Butte’ on the Place Emile Goudeau offers the perfect setting for a Parisian café experience. Expect good traditional French cooking, a relaxed atmosphere, and nice views: what more could you ask for?<\/p><p><a href=\"https:\/\/lerelaisdelabutte.fr\/en\">12 Rue Ravignan, 75018 Paris, France<\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "db2f0c18-b803-4a91-aca3-04d7562670aa": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Cafe_de_Flore-1024x768.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>The Historical: The Café de Flore<\/strong><\/p><p>The Café de Flore is one of the oldest coffeehouses in Paris. It is located in the heart of the Saint-Germain-des-Prés district, in the 6th district of Paris, at the crossroads of the Boulevard Saint-Germain and the rue Saint-Benoît. Over the years, Le Flore has been known for being the meeting point of famous intellectual and artistic figures, from Apollinaire to Sartre, Camus, and Prévert. A must in Saint-Germain-des-Prés, the café is a good starting point for a visit of Paris.<\/p><p><a href=\"https:\/\/cafedeflore.fr\/?lang=en\">172 Boulevard Saint-Germain, 75006 Paris, France<\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "5d517547-58c1-440f-bce9-7923b97b8184": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "",
+        "text": "<p><a href=\"https:\/\/www.maisonflaneur.com\/shop\/\"><strong>Discover Maison Flaneur’s full collection here.<\/strong><\/a><\/p><p><a href=\"https:\/\/www.maisonflaneur.com\/flan-club-alexandra-van-houtte\/\"><strong>For more French inspiration, discover Alexandra Van Houtte’s selection from MF.<\/strong><\/a><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "cda4b090-1e05-4181-8a62-00b534f33550": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18164597063995__cda4b090-1e05-4181-8a62-00b534f33550-1677659664b792d083-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MF_DO_AmourGlasses_Silo-1_4d8e7973-673a-490b-ab9b-807bc187824b.jpg",
+            "link": "",
+            "title": "",
+            "description": "<p>Verres Amour, Set of 4<\/p><p>£48<\/p>"
+          }
+        },
+        "template--18164597063995__cda4b090-1e05-4181-8a62-00b534f33550-1677659664b792d083-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ashtray-blue-1.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Small Blue Vintage Mirrored Glass Ashtray<\/p><p>£88<\/p>"
+          }
+        },
+        "template--18164597063995__cda4b090-1e05-4181-8a62-00b534f33550-1677659664b792d083-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Egg-300ml-cafe-latte-cup-and-saucer-red_8a6d8453-45b2-47ff-b0ef-5920c6d529df.png",
+            "link": "",
+            "title": "",
+            "description": "<p>Latte Coffee Cup & Saucer<\/p><p>From £14<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18164597063995__cda4b090-1e05-4181-8a62-00b534f33550-1677659664b792d083-0",
+        "template--18164597063995__cda4b090-1e05-4181-8a62-00b534f33550-1677659664b792d083-1",
+        "template--18164597063995__cda4b090-1e05-4181-8a62-00b534f33550-1677659664b792d083-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "2e18695d-481c-4ec2-b9a7-98e0f2903a45",
+    "7feffe0d-c6cf-4b0c-b20a-e5406b28a057",
+    "db2f0c18-b803-4a91-aca3-04d7562670aa",
+    "main",
+    "5d517547-58c1-440f-bce9-7923b97b8184",
+    "cda4b090-1e05-4181-8a62-00b534f33550",
+    "blog-posts"
+  ]
+}

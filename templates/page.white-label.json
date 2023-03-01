@@ -6,8 +6,8 @@
         "white_label": true,
         "hide_header": true,
         "hide_default_content": true,
-        "logo": "shopify:\/\/shop_images\/Seagreencushioncover_1024x1024_2x-1024x999.jpg",
-        "alignment": "start",
+        "logo": "shopify:\/\/shop_images\/CMP_logo.png",
+        "alignment": "center",
         "url": "https:\/\/google.com\/"
       }
     },
@@ -15,51 +15,15 @@
       "type": "image--image-with-text-overlay",
       "settings": {
         "image": "shopify:\/\/shop_images\/cretan-malia-park-rooms_ff5a5325-be7a-4032-a2b6-6ecf500252de.jpg",
-        "subheading": "",
-        "title": "Share your story",
-        "text": "Here's your chance to make a great first impression",
+        "subheading": "Welcome",
+        "title": "Cretan Malia Shop",
+        "text": "in partnership with Design Hotels",
         "parallax": true,
         "alignment": "center",
         "hero_size": "large",
         "text-over-image-width": "full-width",
         "button_link": "",
         "button_label": ""
-      }
-    },
-    "b5841813-5b90-4732-801f-6390a80bbdde": {
-      "type": "text--rich-text",
-      "settings": {
-        "colors": "white",
-        "width": "medium",
-        "subheading": "",
-        "page_title": "",
-        "title": "Welcome to our store",
-        "text": "<p>Cretan Malia uses traditional materials, textures, and colors of Crete, as well as curious indigenous objects to curate a warm atmosphere. Walnut, chestnut, and bamboo combine with rattan, ceramic, stone, and brass to create a palette of wood tones, mustard yellow, copper-red, blue, green, and orange that imparts a relaxed, boho mood in the bright, airy rooms. Murals artistically bring the nature of Crete inside the living spaces and serve as main focal points for the interior design.<\/p>",
-        "button_link": "",
-        "button_label": ""
-      }
-    },
-    "394e0521-3550-45eb-a9b6-b925d8183804": {
-      "type": "maison--shop-the-look",
-      "blocks": {
-        "template--17986797338939__394e0521-3550-45eb-a9b6-b925d8183804-16765500200c0c335e-0": {
-          "type": "product",
-          "settings": {
-            "image__position": "image--left",
-            "product": "",
-            "product-2": "",
-            "product-3": "",
-            "product-4": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17986797338939__394e0521-3550-45eb-a9b6-b925d8183804-16765500200c0c335e-0"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "Subheading",
-        "title": "Shop the look"
       }
     },
     "90b33bab-9985-46f3-9a43-07ace85fbd08": {
@@ -104,29 +68,27 @@
         "subheading": "",
         "title": "",
         "collection": "cretan-malia",
-        "grid": 4,
-        "rows": 3,
+        "grid": 3,
+        "rows": 4,
         "show_view_all": true
-      }
-    },
-    "c9a61d13-2c42-4997-a4a0-1a2a7a2999f8": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "extra-large",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "Share brand or product details",
-        "text_block": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
       }
     },
     "0bdc3bf9-fccc-4d0e-9ae0-84983c2e9c46": {
       "type": "blog--blog-posts",
+      "blocks": {
+        "bf318736-3dbb-481c-a264-53ed71b81048": {
+          "type": "article",
+          "settings": {
+            "blog_post_1": "flaneur-magazine\/make-yourself-at-home-cretan-malia-park-crete",
+            "blog_post_2": "flaneur-magazine\/meet-agapi-and-costantza-sbokou-owners-of-cretan-malia-park-crete",
+            "blog_post_3": "flaneur-magazine\/the-petal-lamps-collection",
+            "blog_post_4": ""
+          }
+        }
+      },
+      "block_order": [
+        "bf318736-3dbb-481c-a264-53ed71b81048"
+      ],
       "settings": {
         "colors": "white",
         "subheading": "",
@@ -142,11 +104,8 @@
   "order": [
     "main",
     "b2e7a996-9e06-46c2-a3d8-7522bbc9997a",
-    "b5841813-5b90-4732-801f-6390a80bbdde",
-    "394e0521-3550-45eb-a9b6-b925d8183804",
     "90b33bab-9985-46f3-9a43-07ace85fbd08",
     "2db02d1c-7e79-4596-bd62-7ee3d91740cf",
-    "c9a61d13-2c42-4997-a4a0-1a2a7a2999f8",
     "0bdc3bf9-fccc-4d0e-9ae0-84983c2e9c46"
   ]
 }
