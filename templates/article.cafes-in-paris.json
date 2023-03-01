@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "2e18695d-481c-4ec2-b9a7-98e0f2903a45": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/le_comptoir_general_salle_de_l_aquarium.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>The Quirkiest: Le Comptoir général<\/strong><\/p><p>In an old 600 square-meter barn is the offbeat “The Comptoir General”, a buzzing Parisian hangout, located in the 10th arrondissement. “As you walk in, the size of the space blows you away – two enormous, shadowy rooms connected by a smoking area formed from a tropical garden in an enormous greenhouse that creates a well of light in the centre of the venue. In another corner sits a cabinet of curiosities, full of neat rows of skeletons, rare bird feathers, and stuffed animals.” Are you intrigued yet?<\/p><p><a href=\"https:\/\/www.lecomptoirgeneral.com\/\">80 Quai de Jemmapes, 75010 Paris, France<\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "2e18695d-481c-4ec2-b9a7-98e0f2903a45",
     "main",
     "blog-posts"
   ]
