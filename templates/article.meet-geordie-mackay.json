@@ -108,6 +108,23 @@
         "button_label": ""
       }
     },
+    "8fc64b8d-98ce-4a81-a91d-06de09ebdba9": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-15-at-10.27.39-1024x766.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "How do you choose the right hotels?",
+        "text_block": "<p>Excellent service comes as standard, but it’s the little touches that truly elevate the experience. We choose a hotel that has a story and a reason for being and how this has been woven into every aspect of the hotel – from the interior design to what cocktails are being shaken up at the bar.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -143,6 +160,7 @@
     "27a44322-cfba-4a41-bd1b-6d8641d65d87",
     "3cbcfdd5-26f7-4960-8d0a-85fb82cf572c",
     "6255cfcb-0727-4ad4-acef-8fefeced09cd",
+    "8fc64b8d-98ce-4a81-a91d-06de09ebdba9",
     "main",
     "blog-posts"
   ]
