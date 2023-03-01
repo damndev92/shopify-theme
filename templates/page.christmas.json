@@ -34,6 +34,7 @@
         },
         "template--18166380364091__116abf4e-afc2-4c23-be8a-d4bf7c597f33-1677675254c47905ae-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "subheading": "",
             "title": "Share your story",
