@@ -70,6 +70,23 @@
         "button_label": ""
       }
     },
+    "e61ebd9a-9e41-43f2-86f4-5b19c3ac3e3f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/De-Durgerdam-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "3. De Durgerdam, Amsterdam",
+        "text_block": "<p><strong>Durgderdammerdijk 73, 1026 CC Amsterdam, Netherlands<\/strong><\/p><p>Located a mere 15 minutes from the hustle and bustle of Amsterdam, De Durgerdam is a coastal hideaway for those seeking a slower pace of life. Once a 17th-century fisherman’s inn, the historic timber building now plays host to 14 bedrooms, a cosy snug library, a bar and plenty of rustic decor. The highlight, though, is the restaurant De Mark, overseen by two Michelin-starred chefs and serving fresh local ingredients.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -103,6 +120,7 @@
     "dd5b1c80-384b-4626-a9be-ef9c6b6c92c0",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "e61ebd9a-9e41-43f2-86f4-5b19c3ac3e3f",
     "main",
     "blog-posts"
   ]
