@@ -74,6 +74,23 @@
         "button_label": ""
       }
     },
+    "3cbcfdd5-26f7-4960-8d0a-85fb82cf572c": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-15-at-10.24.14-1024x730.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "What’s the one thing people often forget about when planning a trip?",
+        "text_block": "<p>Don’t over plan and schedule your day to the last second; leave some room for spontaneity. You never know what extraordinary character you might meet who unlocks a hidden secret or takes you on an extraordinary adventure.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -107,6 +124,7 @@
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "27a44322-cfba-4a41-bd1b-6d8641d65d87",
+    "3cbcfdd5-26f7-4960-8d0a-85fb82cf572c",
     "main",
     "blog-posts"
   ]
