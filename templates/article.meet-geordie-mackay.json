@@ -57,6 +57,23 @@
         "button_label": ""
       }
     },
+    "27a44322-cfba-4a41-bd1b-6d8641d65d87": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-15-at-10.21.37-1024x715.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "What tips would you give to someone planning a trip?",
+        "text_block": "<p>Think about how you want to feel when you are on the plane home. Is it creatively inspired because you’ve devoured world-class art or feasted in sensational restaurants? Is it physically exhausted because you’ve conquered a lofty peak or celebrated into the early hours? Or is it calm and zen because your days have been spent practicing yoga deep in the jungle, cocooned from the outside world? Once you have decided on this, you can plan everything else around it.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -89,6 +106,7 @@
     "caa04637-6009-4065-89c7-931d3e44b826",
     "60bed94f-19d1-471f-9213-301734a4bab2",
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "27a44322-cfba-4a41-bd1b-6d8641d65d87",
     "main",
     "blog-posts"
   ]
