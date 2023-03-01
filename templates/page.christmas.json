@@ -14,9 +14,9 @@
     "7ea02b15-29ff-4f86-bc85-3c147796ccf0": {
       "type": "image--image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/PARILIO_COVER.jpg",
+        "image": "shopify:\/\/shop_images\/Christmas_hero_banner.png",
         "parallax": false,
-        "alignment": "center",
+        "alignment": "top",
         "hero_size": "large",
         "text-over-image-width": "fixed"
       }
@@ -27,7 +27,7 @@
         "colors": "white",
         "width": "medium",
         "subheading": "",
-        "page_title": "Christmas",
+        "page_title": "Maison Flâneur Christmas",
         "title": "",
         "text": "<p>It's never too early to start thinking about Christmas!<\/p>",
         "button_link": "",
