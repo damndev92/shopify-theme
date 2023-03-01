@@ -185,7 +185,9 @@
     const selectedCollections = collections
       .filter(({ node }) => {
         const metafields = node.metafields;
+        const handle = node.handle;
         return (
+          handle !== "{{ collection.handle }}" &&
           metafields &&
           metafields.some(
             (mf) =>
@@ -286,6 +288,7 @@
     //document.querySelector(".collection-grid").prepend(locationSelect);
 
     for (const { node: selectedCollectionNode } of selectedCollections) {
+      console.log(selectedCollectionNode)
       const indivCollectionGridHomepage = document.createElement("article");
       indivCollectionGridHomepage.className = "indiv-collection-grid-homepage col-md-4 col-sm-6";
 
@@ -338,14 +341,20 @@
       shopnowLink.textContent = 'Shop now'
       shopnowLink.href = "{{ shop.url }}/collections/" + selectedCollectionNode.handle;
 
-      gridButtons.appendChild(exploreLink)
-
       if (selectedCollectionNode && selectedCollectionNode.metafields) {
+        gridButtons.appendChild(exploreLink)
         gridButtons.appendChild(shopnowLink)
         const shopnow = selectedCollectionNode.metafields.find(mf => mf && mf.key === "shop_now");
         if (shopnow) {
           if (shopnow.value === 'false') {
             shopnowLink.setAttribute('data-url', 'false')
+          }
+        }
+
+        const explorenow = selectedCollectionNode.metafields.find(mf => mf && mf.key === "collection_type");
+        if (explorenow) {
+          if (explorenow.value === 'brand') {
+            exploreLink.setAttribute('data-url', 'false')
           }
         }
       }
