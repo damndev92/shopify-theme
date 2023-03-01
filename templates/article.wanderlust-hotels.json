@@ -121,6 +121,23 @@
         "button_label": ""
       }
     },
+    "c320fe24-0571-4d3e-9a70-f6353ad1d111": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/16-Wanderlust-Inducing-Hotels-to-Book-for-Your-Next-Getaway-1024x1024.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "6. Stallmästaregården, Stockholm",
+        "text_block": "<p><strong>Stallmästaregården, Norrtull, Stockholm 113 47, Sweden<\/strong><\/p><p>Once the location of royal midsummer celebrations, Stallmästaregården was Sweden’s first inn, and its heritage is perfectly reflected in its elegant decor. The boutique hotel is just a short walk away from the historic streets and achingly cool shops of central Stockholm, while its tranquil bayside setting offers bucolic scenery, outdoor activities such as kayaking, and traditional Swedish saunas and massages. <\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -157,6 +174,7 @@
     "e61ebd9a-9e41-43f2-86f4-5b19c3ac3e3f",
     "5625eaec-f8dd-4a85-bfb4-93037de0d8e2",
     "4f8f490d-b892-4bc3-ac2e-29a671eda39b",
+    "c320fe24-0571-4d3e-9a70-f6353ad1d111",
     "main",
     "blog-posts"
   ]
