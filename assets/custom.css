@@ -488,3 +488,9 @@ main .shopify-policy__container {
 #customer-accounts .title-bar {
     margin-top: 50px;
 }
+
+/* Search resulsts */
+.section-search-grid .indiv-product .hp-title,
+.section-search-grid .indiv-product .search-article-image .aspect-ratio--square {
+    padding: 0;
+}
