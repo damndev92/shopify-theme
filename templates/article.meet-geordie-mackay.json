@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "6255cfcb-0727-4ad4-acef-8fefeced09cd": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Screenshot-2023-02-15-at-10.25.39.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Can you tell us about your most memorable trip?",
+        "text_block": "<p>Visiting the Island of Socotra, which is sandwiched between Yemen and Somalia. This culturally rich island consists of age-old fishing communities around its coastline and Bedouin herders in the mountains. It has four different environments and 70% endemic flora. It is a place stuck in time, a lost island forgotten by the rest of the world.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "27a44322-cfba-4a41-bd1b-6d8641d65d87",
     "3cbcfdd5-26f7-4960-8d0a-85fb82cf572c",
+    "6255cfcb-0727-4ad4-acef-8fefeced09cd",
     "main",
     "blog-posts"
   ]
