@@ -253,6 +253,15 @@
                   <!-- Swym button on product pages -->
                   <div class="swym-wishlist-button-bar"></div>
                   <!-- Swym button on product pages -->
+                  <style>
+                    .swym-wishlist-button-bar .swym-btn-container .swym-add-to-wishlist.swym-heart:after {
+                        content: url({{ 'heart.svg' | asset_url }});
+                    }
+
+                    .swym-wishlist-button-bar .swym-btn-container .swym-add-to-wishlist.swym-heart:hover:after {
+                        content: url({{ 'heart-black.svg' | asset_url }});
+                    }
+                  </style>
                 </div>
 
               {% when 'vendor-sku' %}

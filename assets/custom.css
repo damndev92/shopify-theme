@@ -51,7 +51,14 @@ We highly recommend labelling changes, or App installs, so these can also be upd
     max-width: initial;
     display: flex;
     align-items: end;
-    justify-content: space-between;
+}
+
+.quantity-controls__outer .swym-wishlist-button-bar {
+    margin-left: 15px;
+}
+
+.swym-wishlist-button-bar .swym-btn-container[data-position=default] .swym-add-to-wishlist.swym-icon {
+    line-height: 60px;
 }
 
 .swiper-pagination-bullets .swiper-pagination-bullet:not(:nth-of-type(1)):not(:nth-of-type(2)):not(:nth-of-type(3)):not(:nth-of-type(4)):not(:nth-of-type(5)) {
@@ -461,5 +468,9 @@ h1, h2, h3, h4, h5, h6 {
     .maison-collection-header-icons {
         display: none;
     }
+}
+
+.product-description-wrapper {
+    margin-top: 17.5px;
 }
 
