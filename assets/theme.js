@@ -25463,6 +25463,9 @@ class PredictiveSearch {
         if (_this.searchTypesNum == 1) groupMax = 4;else if (_this.searchTypesNum == 2) groupMax = 3;else if (_this.searchTypesNum == 3) groupMax = 2; // Give products a little more precedence.
 
         if (resultType == 'product' && groupMax < 4) groupMax = groupMax++;
+
+        if (resultType == 'products') groupMax = 3;
+
         group.results = resultWithPrice.slice(0, groupMax);
 
         if (group.results && group.results.length > 0) {
