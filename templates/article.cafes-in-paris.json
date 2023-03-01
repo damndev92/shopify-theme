@@ -91,6 +91,23 @@
         "button_label": ""
       }
     },
+    "db2f0c18-b803-4a91-aca3-04d7562670aa": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Cafe_de_Flore-1024x768.jpg",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "",
+        "text_block": "<p><strong>The Historical: The Café de Flore<\/strong><\/p><p>The Café de Flore is one of the oldest coffeehouses in Paris. It is located in the heart of the Saint-Germain-des-Prés district, in the 6th district of Paris, at the crossroads of the Boulevard Saint-Germain and the rue Saint-Benoît. Over the years, Le Flore has been known for being the meeting point of famous intellectual and artistic figures, from Apollinaire to Sartre, Camus, and Prévert. A must in Saint-Germain-des-Prés, the café is a good starting point for a visit of Paris.<\/p><p><a href=\"https:\/\/cafedeflore.fr\/?lang=en\">172 Boulevard Saint-Germain, 75006 Paris, France<\/a><\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -125,6 +142,7 @@
     "35b16fa5-38a0-4a0d-b186-e6266af128fc",
     "2e18695d-481c-4ec2-b9a7-98e0f2903a45",
     "7feffe0d-c6cf-4b0c-b20a-e5406b28a057",
+    "db2f0c18-b803-4a91-aca3-04d7562670aa",
     "main",
     "blog-posts"
   ]
