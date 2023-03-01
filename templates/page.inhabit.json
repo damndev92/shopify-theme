@@ -293,7 +293,7 @@
           "type": "tab_content",
           "settings": {
             "question": "where should we eat?",
-            "text": "<p>A commitment to wellbeing can be seen around every corner, from the Scandinavian inspired design to the Californian menu at Yeotown restaurant.<\/p>"
+            "text": "<p>Eat here at Inhabit! A commitment to wellbeing can be seen around every corner of our Yeotown restaurant, from the Scandinavian inspired design to the Californian menu.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
@@ -407,7 +407,7 @@
         "74386de5-5792-4da4-9e52-b3263e31d4cb"
       ],
       "settings": {
-        "colors": "white",
+        "background-color": "#F3F3F3",
         "subheading": "Read From",
         "title": "Flâneur Magazine",
         "post_limit": 3,
