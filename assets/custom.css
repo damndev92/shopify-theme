@@ -475,3 +475,16 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 17.5px;
 }
 
+/* Pages width */
+main .shopify-policy__container {
+    max-width: 1140px;
+}
+
+.shopify-policy__title {
+    margin-top: 50px;
+}
+
+#customer .title-bar,
+#customer-accounts .title-bar {
+    margin-top: 50px;
+}
