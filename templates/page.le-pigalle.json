@@ -304,7 +304,7 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
           "type": "tab_content",
           "settings": {
-            "question": "your favourite object in the hotel?",
+            "question": "your favourite object(s) in the hotel?",
             "text": "<p>The history behind the hotels, the curated objects, the exciting reads on the shelves, the locally sourced cuisines—these aren’t just business decisions, they are an expression of my past, my experiences, and my quest for knowledge.<\/p>"
           }
         },
@@ -412,7 +412,7 @@
         "fa3a8b69-b66e-4f46-8be8-7e50286be548"
       ],
       "settings": {
-        "colors": "white",
+        "background-color": "#F3F3F3",
         "subheading": "Read From",
         "title": "Flâneur Magazine",
         "post_limit": 2,
