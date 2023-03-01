@@ -3,6 +3,10 @@
 		#blog_posts {
 			background-color: {{ section.settings.background-color }};
 		}
+
+    .homepage-section--logo-bar-wrapper {
+      background-color: {{ section.settings.background-color }};
+    }
 	{% else %}
 		#blog_posts {
 			background-image: url("{{ section.settings.background-image | img_url: "1920x1080" }}");

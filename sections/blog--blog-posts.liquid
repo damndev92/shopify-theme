@@ -58,7 +58,11 @@
 
                     <div class="blog-title-wrapper homepage-blog-title-wrapper{% if article.image %} article-image-in-header{% endif %}">
 
-                      <h3 class="type-subheading type-subheading--1"><a href="#">{{ article.title }}</a></h3>
+                      {% for tag in article.tags limit: 1 %}
+                        <h6 class="type-subheading type-subheading--2">{{ tag }}</h6>
+                      {% endfor %}
+
+                      <h3><a href="#">{{ article.title }}</a></h3>
 
                       {% if section.settings.show_dates or section.settings.show_author_name %}
                         <div class="blog__date-author">
@@ -128,7 +132,12 @@
                       {% endif %}
 
                       <div class="blog-title-wrapper homepage-blog-title-wrapper{% if current_post.image and section.settings.show_blog_images %} article-image-in-header{% endif %}">
-                        <h3 class="type-subheading type-subheading--1"><a href="{{current_post.url}}">{{ current_post.title }}</a></h3>
+
+                        {% for tag in current_post.tags limit: 1 %}
+                          <h6 class="type-subheading type-subheading--2">{{ tag }}</h6>
+                        {% endfor %}
+
+                        <h3><a href="{{current_post.url}}">{{ current_post.title }}</a></h3>
                         {% if section.settings.show_dates or section.settings.show_author_name %}
                           <div class="blog__date-author">
                             <div class="blog-publish-date">
@@ -169,7 +178,12 @@
                       {% endif %}
 
                       <div class="blog-title-wrapper homepage-blog-title-wrapper{% if current_post.image and section.settings.show_blog_images %} article-image-in-header{% endif %}">
-                        <h3 class="type-subheading type-subheading--1"><a href="#">{{ 'general.onboarding.blog_title' | t }}</a></h3>
+
+                        {% for tag in current_post.tags limit: 1 %}
+                          <h6 class="type-subheading type-subheading--2">{{ tag }}</h6>
+                        {% endfor %}
+
+                        <h3><a href="#">{{ 'general.onboarding.blog_title' | t }}</a></h3>
                         {% if section.settings.show_dates or section.settings.show_author_name %}
                           <div class="blog__date-author">
                             <div class="blog-publish-date">
@@ -232,7 +246,12 @@
                       {% endif %}
 
                       <div class="blog-title-wrapper homepage-blog-title-wrapper{% if article.image and section.settings.show_blog_images %} article-image-in-header{% endif %}">
-                        <h3 class="type-subheading type-subheading--1"><a href="{{article.url}}">{{ article.title }}</a></h3>
+
+                        {% for tag in article.tags limit: 1 %}
+                          <h6 class="type-subheading type-subheading--2">{{ tag }}</h6>
+                        {% endfor %}
+
+                        <h3><a href="{{article.url}}">{{ article.title }}</a></h3>
                         {% if section.settings.show_dates or section.settings.show_author_name %}
                           <div class="blog__date-author">
                             <div class="blog-publish-date">
@@ -286,7 +305,12 @@
                         {% endif %}
 
                         <div class="blog-title-wrapper homepage-blog-title-wrapper{% if article.image %} article-image-in-header{% endif %}">
-                          <h3 class="type-subheading type-subheading--1"><a href="#">{{ 'general.onboarding.blog_title' | t }}</a></h3>
+
+                          {% for tag in article.tags limit: 1 %}
+                            <h6 class="type-subheading type-subheading--2">{{ tag }}</h6>
+                          {% endfor %}
+
+                          <h3><a href="#">{{ 'general.onboarding.blog_title' | t }}</a></h3>
                           {% if section.settings.show_dates or section.settings.show_author_name %}
                             <div class="blog__date-author">
                               <div class="blog-publish-date">
