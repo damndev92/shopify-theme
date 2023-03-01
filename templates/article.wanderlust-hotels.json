@@ -48,9 +48,9 @@
         "title": "1. Raffles at the OWO, London",
         "text_block": "<p><strong>57 Whitehall, SW1A 2BX London, UK<\/strong><\/p><p>Starting close to home, historical institution Raffles is set to open its first London hotel come spring. The location? None other than the Old War Rooms, where Churchill orchestrated the country’s World War II strategy. Aside from 120 luxurious rooms and 86 residences designed by Thierry Despont, you can expect the UK’s first Guerlain spa, three bars and nine restaurants – three of which will be overseen by Michelin-starred chef Mauro Colagreco.<\/p>",
         "page_description": false,
-        "button_link": "",
+        "button_link": "https:\/\/theowo.london\/",
         "hotel_page_url": false,
-        "button_label": ""
+        "button_label": "Discover now"
       }
     },
     "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
@@ -174,6 +174,9 @@
     },
     "dc226159-1cf2-4ca3-bf87-1ed27fb71def": {
       "type": "text--rich-text",
+      "custom_css": [
+
+      ],
       "settings": {
         "colors": "white",
         "width": "medium",
@@ -337,7 +340,6 @@
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
-        "colors": "light",
         "subheading": "BLOG",
         "title": "Latest articles",
         "post_limit": 3,
