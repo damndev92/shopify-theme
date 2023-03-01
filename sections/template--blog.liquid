@@ -1,5 +1,18 @@
 {% style %}
-
+	{% if section.settings.background-image == blank %}
+		#blog_posts {
+			background-color: {{ section.settings.background-color }};
+		}
+	{% else %}
+		#blog_posts {
+			background-image: url("{{ section.settings.background-image | img_url: "1920x1080" }}");
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 100%;
+		}
+	{% endif %}
 {% endstyle %}
   <section id="blog_posts" class="collection">
 
