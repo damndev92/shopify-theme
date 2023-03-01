@@ -290,14 +290,14 @@
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-1": {
           "type": "tab_content",
           "settings": {
-            "question": "Ehat's your favourite spot on Paros?",
+            "question": "What's your favourite spot on Paros?",
             "text": "<p>Our favourite spot on Paros is the scenic village of Lefkes, characterised by the island's distinct white windmills, craggy quarries, and whitewashed properties.<\/p>"
           }
         },
         "template--17769028649275__49eef2c3-3938-4acd-8012-2b5b85df06d8-1675102973f668e9f9-2": {
           "type": "tab_content",
           "settings": {
-            "question": "What is your favourite object in the hotel?",
+            "question": "What's your favourite object in the hotel?",
             "text": "<p>A replica of \"The Fat Lady of Saliagos\" which is exhibited in the hotel lobby. The actual historic relic, housed in Paros' archaeological museum, is the oldest ever found in the area and lies at the heart of the hotel's symbolism.<\/p>"
           }
         },
@@ -405,7 +405,7 @@
         "efbdbd89-bb58-4bae-a796-2cba6d46fc7a"
       ],
       "settings": {
-        "colors": "white",
+        "background-color": "#F3F3F3",
         "subheading": "Read From",
         "title": "Flâneur Magazine",
         "post_limit": 3,
