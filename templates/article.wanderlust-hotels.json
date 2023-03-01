@@ -202,6 +202,23 @@
         "button_label": ""
       }
     },
+    "36f0e0b6-2ee8-4b01-bb0f-65449d7c5a36": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Wayfinder-Waikiki-1024x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "10. Wayfinder Waikiki, Hawaii",
+        "text_block": "<p><strong>2375 Ala Wai Blvd, Honolulu, HI 96815, United States<\/strong><\/p><p>Brutalist architecture meets tropical colours and lush foliage at Wayfinder Waikiki. The Hawaiian resort boasts 228 playful rooms and poolside studios, as well as numerous culinary options including made-to-order poke, a tropical speakeasy and a sensory coffee shop. What’s more, Waikiki beach is just a short stroll away, should you feel like exploring the island’s legendary surf scene for yourself and riding a tube.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -243,6 +260,7 @@
     "0ef5328a-3480-41e6-a8b4-8dbc485bcafa",
     "dc226159-1cf2-4ca3-bf87-1ed27fb71def",
     "5f5d153b-f8c2-45b8-81f5-ff251318b1c7",
+    "36f0e0b6-2ee8-4b01-bb0f-65449d7c5a36",
     "main",
     "blog-posts"
   ]
