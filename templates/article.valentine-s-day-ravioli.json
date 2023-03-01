@@ -1,0 +1,128 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled-design-29-1024x576.jpg",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Valentine’s Day: Heart-Shaped Ravioli in a Rich Parmesan Stock",
+        "title": "",
+        "text": "<p>An amorous twist on the classic pasta, we present to you heart-shaped ravioli! Cheesy, herby, and filled with love, this will really set the mood for Valentine’s dinner.  The perfect dish brought to you from our favourite <a href=\"https:\/\/www.maisonflaneur.com\/thanksgiving-pumkin-soup-recipe\/\">@sssssoupsssss.<\/a><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "60bed94f-19d1-471f-9213-301734a4bab2": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/Jan-4-724x1024.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Ingredients",
+        "text_block": "<p>Heart-shaped ravioli (you can make your own, but we love these <a href=\"https:\/\/www.latuapasta.com\/shop\/black-truffle-ravioli-hearts\/\">black truffle and ricotta<\/a> ones!)<\/p><p>A bit of olive oil<\/p><p>1 onion, quartered<\/p><p>1 head of garlic, cut in half<\/p><p>6 parmesan rinds (start saving them instead of throwing them away!)<\/p><p>1 bay leaf<\/p><p>A handful of black peppercorns<\/p><p>2 stalks of rosemary<\/p><p>4 cups of water<\/p><p>1\/2 cup of dry white wine<\/p><p>Optional: dried edible flower petals<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "extra-large",
+        "image": "shopify:\/\/shop_images\/1-724x1024.jpg",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Instructions",
+        "text_block": "<ol><li>Heat the olive oil in a pot, and add onion and garlic. Sear for a few moments until it becomes fragrant.<\/li><li>Add all of the remaining ingredients to the pot, bring to a boil, then reduce the flame, and simmer for 2ish hours, stirring often to prevent the rinds from sticking to the pot.<\/li><li>Strain through a sieve and discard the pieces.<\/li><li>Cook the ravioli according to the package instructions, then serve in hot parmesan stock with an optional sprinkle of dried edible flower petals.<\/li><\/ol><p>*Use the stock as a base for any and all soups! It’s a real umami bomb 💥<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "f11710e3-a928-41aa-a290-844d3c06f74e": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--18166326722875__f11710e3-a928-41aa-a290-844d3c06f74e-16776741112ea82ef4-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jan-6-Large-724x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--18166326722875__f11710e3-a928-41aa-a290-844d3c06f74e-16776741112ea82ef4-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jan-724x1024.jpg",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18166326722875__f11710e3-a928-41aa-a290-844d3c06f74e-16776741112ea82ef4-1",
+        "template--18166326722875__f11710e3-a928-41aa-a290-844d3c06f74e-16776741112ea82ef4-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "light",
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "60bed94f-19d1-471f-9213-301734a4bab2",
+    "35b16fa5-38a0-4a0d-b186-e6266af128fc",
+    "main",
+    "f11710e3-a928-41aa-a290-844d3c06f74e",
+    "blog-posts"
+  ]
+}
