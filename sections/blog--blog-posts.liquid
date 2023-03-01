@@ -69,7 +69,7 @@
                       <h6 class="type-subheading type-subheading--2">{{ tag }}</h6>
                     {% endfor %}
 
-                    <h3><a href="#">{{ article.title }}</a></h3>
+                    <h3><a href="{{ article.url }}">{{ article.title }}</a></h3>
 
                     {% if section.settings.show_dates or section.settings.show_author_name %}
                       <div class="blog__date-author">
@@ -199,7 +199,7 @@
                           <h6 class="type-subheading type-subheading--2">{{ tag }}</h6>
                         {% endfor %}
 
-                        <h3><a href="#">{{ 'general.onboarding.blog_title' | t }}</a></h3>
+                        <h3><a href="{{ current_post.url }}">{{ 'general.onboarding.blog_title' | t }}</a></h3>
                         {% if section.settings.show_dates or section.settings.show_author_name %}
                           <div class="blog__date-author">
                             <div class="blog-publish-date">
