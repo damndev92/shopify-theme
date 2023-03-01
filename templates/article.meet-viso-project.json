@@ -169,14 +169,7 @@
         "template--18165281947963__7145d33d-6cb7-4381-b3f4-a34f31a5f13c-1677666620bbd673e2-0": {
           "type": "image",
           "settings": {
-            "link": "",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--18165281947963__7145d33d-6cb7-4381-b3f4-a34f31a5f13c-1677666620bbd673e2-1": {
-          "type": "image",
-          "settings": {
+            "image": "shopify:\/\/shop_images\/Unknown-4-768x1024.jpg",
             "link": "",
             "title": "",
             "description": ""
@@ -185,6 +178,7 @@
         "template--18165281947963__7145d33d-6cb7-4381-b3f4-a34f31a5f13c-1677666620bbd673e2-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Unknown-6-768x1024.jpg",
             "link": "",
             "title": "",
             "description": ""
@@ -193,7 +187,6 @@
       },
       "block_order": [
         "template--18165281947963__7145d33d-6cb7-4381-b3f4-a34f31a5f13c-1677666620bbd673e2-0",
-        "template--18165281947963__7145d33d-6cb7-4381-b3f4-a34f31a5f13c-1677666620bbd673e2-1",
         "template--18165281947963__7145d33d-6cb7-4381-b3f4-a34f31a5f13c-1677666620bbd673e2-2"
       ],
       "settings": {
