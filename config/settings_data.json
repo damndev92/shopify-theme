@@ -252,9 +252,9 @@
         "type": "shopify:\/\/apps\/customerhub\/blocks\/mini-hub\/0fb3ba0b-4c65-4919-a85a-48bc2d368e9c",
         "disabled": false,
         "settings": {
-          "primary_color": "#e28065",
-          "secondary_color": "#f9e5e0",
-          "text_color": "#f9e5e0",
+          "primary_color": "#f9e5e0",
+          "secondary_color": "#e28065",
+          "text_color": "#e28065",
           "background_color": "#FFFFFF",
           "minihub_position": "right",
           "minihub_load_from": "always_visible",
