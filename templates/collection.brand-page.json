@@ -96,7 +96,7 @@
         "grid-card-swatches"
       ],
       "settings": {
-        "grid": 4,
+        "grid": 5,
         "rows": 7,
         "pagination_type": "infinite_scrolling"
       }

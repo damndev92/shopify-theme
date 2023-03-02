@@ -1,0 +1,111 @@
+{
+  "sections": {
+    "main": {
+      "type": "template--page",
+      "settings": {
+        "white_label": true,
+        "hide_header": true,
+        "hide_default_content": true,
+        "logo": "shopify:\/\/shop_images\/PARILIO_LOGO_DH_cmyk.png",
+        "alignment": "center",
+        "url": "https:\/\/google.com\/"
+      }
+    },
+    "b2e7a996-9e06-46c2-a3d8-7522bbc9997a": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/10-Facts-about-Parilio-Hotel-2-1024x1024.webp",
+        "subheading": "Welcome",
+        "title": "Parilio Shop",
+        "text": "in partnership with Design Hotels",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "x-large",
+        "text-over-image-width": "fixed",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "90b33bab-9985-46f3-9a43-07ace85fbd08": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "Welcome to our store",
+        "text": "<p>Inspired by Cycladic simplicity, Parīlio's subdued color palette presents Cycladic architecture in a modern light. Distinctive features—such as arches, concrete columns, and thick masonry—are representative of traditional building techniques and help to create a sense of sanctuary.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "2db02d1c-7e79-4596-bd62-7ee3d91740cf": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17986797338939__2db02d1c-7e79-4596-bd62-7ee3d91740cf-1676466076019aa533-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17986797338939__2db02d1c-7e79-4596-bd62-7ee3d91740cf-1676466076019aa533-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17986797338939__2db02d1c-7e79-4596-bd62-7ee3d91740cf-1676466076019aa533-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17986797338939__2db02d1c-7e79-4596-bd62-7ee3d91740cf-1676466076019aa533-0",
+        "template--17986797338939__2db02d1c-7e79-4596-bd62-7ee3d91740cf-1676466076019aa533-1",
+        "template--17986797338939__2db02d1c-7e79-4596-bd62-7ee3d91740cf-1676466076019aa533-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "",
+        "collection": "parilio",
+        "grid": 4,
+        "rows": 5,
+        "show_view_all": false
+      }
+    },
+    "0bdc3bf9-fccc-4d0e-9ae0-84983c2e9c46": {
+      "type": "blog--blog-posts",
+      "blocks": {
+        "bf318736-3dbb-481c-a264-53ed71b81048": {
+          "type": "article",
+          "settings": {
+            "blog_post_1": "flaneur-magazine\/meet-kalia-konstantinidou-istoria-and-parilio-greece",
+            "blog_post_2": "flaneur-magazine\/destinations-paros-by-kalia-konstantinidou-from-istoria-and-para-lio-hotel",
+            "blog_post_3": "flaneur-magazine\/meet-iosif-foskolos-artist-athens",
+            "blog_post_4": ""
+          }
+        }
+      },
+      "block_order": [
+        "bf318736-3dbb-481c-a264-53ed71b81048"
+      ],
+      "settings": {
+        "background-color": "#ffffff",
+        "subheading": "",
+        "title": "From the blog",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": false,
+        "show_blog_images": true,
+        "imageSize": "portrait"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b2e7a996-9e06-46c2-a3d8-7522bbc9997a",
+    "90b33bab-9985-46f3-9a43-07ace85fbd08",
+    "2db02d1c-7e79-4596-bd62-7ee3d91740cf",
+    "0bdc3bf9-fccc-4d0e-9ae0-84983c2e9c46"
+  ]
+}

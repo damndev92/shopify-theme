@@ -29,8 +29,9 @@
     },
     "7ea02b15-29ff-4f86-bc85-3c147796ccf0": {
       "type": "image--image",
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_6.gif",
+        "image": "shopify:\/\/shop_images\/GIFS_1800_x_1200px_1800_x_1000px.png",
         "parallax": false,
         "alignment": "center",
         "hero_size": "x-large",
@@ -112,15 +113,55 @@
         "overlay": false
       }
     },
+    "b95134b8-5306-4aab-a1d8-0b092ec334b9": {
+      "type": "image--slideshow",
+      "blocks": {
+        "template--18019873751355__b95134b8-5306-4aab-a1d8-0b092ec334b9-1677698722104f1caf-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GIFS_1800_x_1200px_1800_x_1000px.png",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_text": "",
+            "link": "",
+            "caption-background": "rgba(0,0,0,0)",
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#000000",
+            "button-background-hover": "#797979",
+            "horizontal-alignment": "left",
+            "vertical-alignment": "middle"
+          }
+        }
+      },
+      "block_order": [
+        "template--18019873751355__b95134b8-5306-4aab-a1d8-0b092ec334b9-1677698722104f1caf-0"
+      ],
+      "settings": {
+        "split-images": false,
+        "slide_on_mobile": 1,
+        "slider-animation": "slide",
+        "slider-width": "full-width",
+        "show-slide-full-screen": true,
+        "slider-slide-time": 5,
+        "caption-heading-size": 50,
+        "show-slide-dots": false,
+        "show-slide-arrows": false,
+        "show-slide-controls": false,
+        "slider-navigation--color": "#ffffff",
+        "overlay": false
+      }
+    },
     "863777fe-8108-4759-b7c3-326c19c0254c": {
       "type": "text--rich-text",
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "Hello!",
-        "page_title": "This is us...",
+        "subheading": "",
+        "page_title": "Salut!",
         "title": "",
-        "text": "<p>We leverage the minds of world-class architects, interior designers, hoteliers and their local communities to bring our audience a unique and personal approach to homeware.<br\/><br\/>As travellers, we strive to find authentic locations, and as consumers, we want to create meaningful relationships with the things we buy. We want to put homeware back in the context of the cultures and trends that shape the world we live in. <br\/><br\/>We pride ourselves in showcasing the very best homeware from all over the world including far-flung and off-the-radar destinations.<\/p><p><\/p>",
+        "text": "<p>At MF, we leverage the minds of world-class architects, interior designers, hoteliers and their local communities to bring our audience a unique and personal approach to homeware.<br\/><br\/>As travel-enthusiasts, we strive to find authentic locations, and as consumers, we want to create meaningful relationships with the things we buy. We want to put homeware back in the context of the cultures and trends that shape the world we live in. <br\/><br\/>We pride ourselves in showcasing the very best homeware from all over the world, including far-flung and off-the-radar destinations.<\/p><p><\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -275,7 +316,7 @@
     "6fc4d213-a936-40bb-9aff-0f040a7b8076": {
       "type": "maison--btn",
       "settings": {
-        "btn": "Discover Now",
+        "btn": "Discover now",
         "url": "",
         "link": "shopify:\/\/collections\/new-in",
         "bg_color": "#e28065",
@@ -290,6 +331,7 @@
     "7ea02b15-29ff-4f86-bc85-3c147796ccf0",
     "d5e53e1d-b659-4c3b-aeb0-5264be4be37b",
     "46d6febe-f2ff-4f61-b688-2fd2e9a63385",
+    "b95134b8-5306-4aab-a1d8-0b092ec334b9",
     "863777fe-8108-4759-b7c3-326c19c0254c",
     "f6a3cad9-346d-48ef-9b6a-3953133fbabb",
     "9c2bf53a-dd1b-43a7-bd34-d063b3ef48b0",
