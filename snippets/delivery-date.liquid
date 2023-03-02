@@ -10,8 +10,8 @@
 {% liquid
   assign default_number_of_days = 5
 
-  if block.settings.days-to-deliver
-    assign days_to_deliver = days_to_deliver_block | jsonify
+  if days_to_deliver_block != blank
+    assign days_to_deliver = days_to_deliver_block | strip_html
   else
     assign days_to_deliver = default_number_of_days
   endif
