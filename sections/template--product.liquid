@@ -310,9 +310,7 @@
               {% when 'days-to-deliver' %}
 
                 {% liquid
-                  if block.settings.days-to-deliver != blank
-                    render 'delivery-date', days_to_deliver_block: block.settings.days-to-deliver, content: block.settings.days-to-deliver_text
-                  endif
+                  render 'delivery-date', days_to_deliver_block: block.settings.days-to-deliver, content: block.settings.days-to-deliver_text
                 %}
 
               {% when 'product-price' %}
