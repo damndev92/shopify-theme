@@ -4,7 +4,7 @@
       "type": "image--image",
       "settings": {
         "image": "shopify:\/\/shop_images\/pigalle_hp.png",
-        "parallax": false,
+        "parallax": true,
         "alignment": "center",
         "hero_size": "large",
         "text-over-image-width": "full-width"
@@ -38,7 +38,7 @@
       "type": "image--image",
       "settings": {
         "image": "shopify:\/\/shop_images\/PIGALLE_COVER.jpg",
-        "parallax": false,
+        "parallax": true,
         "alignment": "center",
         "hero_size": "large",
         "text-over-image-width": "full-width"
@@ -259,7 +259,7 @@
         "subheading": "",
         "title": "Take a tour",
         "text": "",
-        "parallax": false,
+        "parallax": true,
         "alignment": "center",
         "hero_size": "medium",
         "text-over-image-width": "full-width",
