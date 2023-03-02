@@ -77,7 +77,7 @@
         "type": "announcement-bar",
         "settings": {
           "enable": true,
-          "message_text": "Free delivery from £150 - Returns within 14 days",
+          "message_text": "Sign up to our newsletter for 10% off your first order!",
           "message_link": "",
           "notification-bar--background-color": "#fab7a4",
           "notification-bar--text-color": "#ffffff",
