@@ -14,14 +14,14 @@
     "b2e7a996-9e06-46c2-a3d8-7522bbc9997a": {
       "type": "image--image-with-text-overlay",
       "settings": {
-        "image": "shopify:\/\/shop_images\/cretan-malia-park-rooms_ff5a5325-be7a-4032-a2b6-6ecf500252de.jpg",
+        "image": "shopify:\/\/shop_images\/10-Facts-about-Parilio-Hotel-2-1024x1024.webp",
         "subheading": "Welcome",
-        "title": "Cretan Malia Shop",
+        "title": "Parilio Shop",
         "text": "in partnership with Design Hotels",
         "parallax": true,
         "alignment": "center",
-        "hero_size": "large",
-        "text-over-image-width": "full-width",
+        "hero_size": "x-large",
+        "text-over-image-width": "fixed",
         "button_link": "",
         "button_label": ""
       }
@@ -34,7 +34,7 @@
         "subheading": "",
         "page_title": "",
         "title": "Welcome to our store",
-        "text": "<p>Cretan Malia uses traditional materials, textures, and colors of Crete, as well as curious indigenous objects to curate a warm atmosphere. Walnut, chestnut, and bamboo combine with rattan, ceramic, stone, and brass to create a palette of wood tones, mustard yellow, copper-red, blue, green, and orange that imparts a relaxed, boho mood in the bright, airy rooms. Murals artistically bring the nature of Crete inside the living spaces and serve as main focal points for the interior design.<\/p>",
+        "text": "<p>Inspired by Cycladic simplicity, Parīlio's subdued color palette presents Cycladic architecture in a modern light. Distinctive features—such as arches, concrete columns, and thick masonry—are representative of traditional building techniques and help to create a sense of sanctuary.<\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -67,10 +67,10 @@
         "colors": "white",
         "subheading": "",
         "title": "",
-        "collection": "cretan-malia",
-        "grid": 3,
-        "rows": 4,
-        "show_view_all": true
+        "collection": "parilio",
+        "grid": 4,
+        "rows": 5,
+        "show_view_all": false
       }
     },
     "0bdc3bf9-fccc-4d0e-9ae0-84983c2e9c46": {
