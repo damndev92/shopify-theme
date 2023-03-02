@@ -111,27 +111,15 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/shop_the_look_TEMPLATE_3.png",
             "image__position": "image--left",
-            "product": "1784-wooden-chair-with-polypropylene-fabric",
+            "product": "wooden-lounge-chair-c-collection",
             "product-2": "high-wooden-coat-rack",
-            "product-3": "1784-collection-wooden-stool",
-            "product-4": "u-collection-wooden-nightstand-with-drawer"
-          }
-        },
-        "2ac1fa8d-8ed8-4466-84cf-aef82a693c67": {
-          "type": "product",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shop_the_look_TEMPLATE_4.png",
-            "image__position": "image--left",
-            "product": "1784-collection-wooden-chair",
-            "product-2": "1784-collection-wooden-coffee-table",
-            "product-3": "u-collection-wooden-bench",
-            "product-4": "i-collection-wooden-chair-with-metallic-structure"
+            "product-3": "u-collection-wooden-nightstand-without-drawer",
+            "product-4": "wooden-chair-c-collection-without-armrest"
           }
         }
       },
       "block_order": [
-        "template--17824560611643__531141af-d88a-4ddc-a4a0-fbc9e984f5c7-1676391521c92cff8d-0",
-        "2ac1fa8d-8ed8-4466-84cf-aef82a693c67"
+        "template--17824560611643__531141af-d88a-4ddc-a4a0-fbc9e984f5c7-1676391521c92cff8d-0"
       ],
       "settings": {
         "colors": "white",
@@ -405,7 +393,7 @@
         "7b0f31f5-f528-403b-a8f1-b0af151eb2fd"
       ],
       "settings": {
-        "colors": "white",
+        "background-color": "#F3F3F3",
         "subheading": "Read From",
         "title": "Flâneur Magazine",
         "post_limit": 3,
