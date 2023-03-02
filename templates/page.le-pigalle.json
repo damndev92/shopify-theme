@@ -4,7 +4,7 @@
       "type": "image--image",
       "settings": {
         "image": "shopify:\/\/shop_images\/pigalle_hp.png",
-        "parallax": true,
+        "parallax": false,
         "alignment": "center",
         "hero_size": "large",
         "text-over-image-width": "full-width"
@@ -38,7 +38,7 @@
       "type": "image--image",
       "settings": {
         "image": "shopify:\/\/shop_images\/PIGALLE_COVER.jpg",
-        "parallax": true,
+        "parallax": false,
         "alignment": "center",
         "hero_size": "large",
         "text-over-image-width": "full-width"
@@ -259,7 +259,7 @@
         "subheading": "",
         "title": "Take a tour",
         "text": "",
-        "parallax": true,
+        "parallax": false,
         "alignment": "center",
         "hero_size": "medium",
         "text-over-image-width": "full-width",
@@ -412,7 +412,7 @@
         "fa3a8b69-b66e-4f46-8be8-7e50286be548"
       ],
       "settings": {
-        "background-color": "#F3F3F3",
+        "background-color": "#f3f3f3",
         "subheading": "Read From",
         "title": "Flâneur Magazine",
         "post_limit": 2,
