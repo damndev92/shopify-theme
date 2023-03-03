@@ -124,7 +124,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   {% include 'sca-quick-view-init' %}
  
   {% render 'qikify-apps' %}
-</head>
+{% render ‘product-datalayer.liquid’ %}
+  </head>
 
   <body
     id="{{ page_title | handle }}"
