@@ -176,6 +176,7 @@
     },
     "ab24a27b-0737-410b-b2cb-3f65e5c9d489": {
       "type": "video--video-with-text-overlay",
+      "disabled": true,
       "settings": {
         "url": "https:\/\/youtu.be\/HD_8Ibc8tkQ",
         "desktopHeight": "550",
