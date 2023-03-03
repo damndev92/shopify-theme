@@ -253,6 +253,10 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 185px;
 }
 
+.maison-collection-category .type-subheading {
+  text-align: center;
+}
+
 .splitted-flex-slider {
     display: flex !important;
 }
