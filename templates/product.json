@@ -99,7 +99,7 @@
         "cabcb8ad-0fc8-4db4-95b8-29765a0b1244"
       ],
       "settings": {
-        "show_out_of_stock_email": true,
+        "show_out_of_stock_email": false,
         "form_position": "below-payment-buttons",
         "size_guide_link": "",
         "size_guide_message": "What's my size?",
