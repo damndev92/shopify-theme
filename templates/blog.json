@@ -182,7 +182,7 @@
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/MAG_CATS_350_x_100px_3.png",
-            "link": "https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/edits"
+            "link": "https:\/\/maisonflaneur.myshopify.com\/blogs\/flaneur-magazine\/tagged\/design-hub"
           }
         },
         "adc51486-290a-459e-8f2b-0e876ec1eefb": {
@@ -236,7 +236,7 @@
       "type": "blog--blog-posts",
       "disabled": true,
       "settings": {
-        "background-color": "#F3F3F3",
+        "background-color": "#f3f3f3",
         "subheading": "",
         "title": "From the blog",
         "post_limit": 3,
@@ -250,7 +250,7 @@
       "type": "blog--blog-posts",
       "disabled": true,
       "settings": {
-        "background-color": "#F3F3F3",
+        "background-color": "#f3f3f3",
         "subheading": "",
         "title": "From the blog",
         "post_limit": 3,
