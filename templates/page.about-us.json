@@ -29,12 +29,11 @@
     },
     "7ea02b15-29ff-4f86-bc85-3c147796ccf0": {
       "type": "image--image",
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/GIFS_1800_x_1200px_1800_x_1000px.png",
         "parallax": false,
         "alignment": "center",
-        "hero_size": "x-large",
+        "hero_size": "large",
         "text-over-image-width": "fixed"
       }
     },
@@ -115,6 +114,7 @@
     },
     "b95134b8-5306-4aab-a1d8-0b092ec334b9": {
       "type": "image--slideshow",
+      "disabled": true,
       "blocks": {
         "template--18019873751355__b95134b8-5306-4aab-a1d8-0b092ec334b9-1677698722104f1caf-0": {
           "type": "slide",
