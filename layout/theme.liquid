@@ -79,8 +79,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       {{ 'theme.min.css' | asset_url | stylesheet_tag }}
     {% endif %}
 
-    {{ 'custom.aio.min.css' | asset_url | stylesheet_tag }}
-    {{ 'simple-lightbox.aio.min.css' | asset_url | stylesheet_tag }}
+    {{ 'custom.css' | asset_url | stylesheet_tag }}
+    {{ 'simple-lightbox.css' | asset_url | stylesheet_tag }}
 
     {% if settings.type_base_font contains 'Google' %}
       {%- assign type_body_parts = settings.type_base_font | split: '_' -%}
