@@ -89,65 +89,12 @@
         "title": "Get 10% off your first order",
         "newsletter_description": "<p>Sign-up for early access to our latest collaborations, far-flung and under-the-radar travel inspo and if we haven't convinced you yet...<\/p>"
       }
-    },
-    "ee04ac75-aa4d-46e9-a2df-38f736ec7c60": {
-      "type": "image--gallery",
-      "blocks": {
-        "template--18019757850939__ee04ac75-aa4d-46e9-a2df-38f736ec7c60-1676564864eb37761e-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1-1_b2211056-408c-48b3-89d1-50156a7ac600.png",
-            "link": "shopify:\/\/collections\/new-in",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--18019757850939__ee04ac75-aa4d-46e9-a2df-38f736ec7c60-1676564864eb37761e-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4-1.png",
-            "link": "shopify:\/\/pages\/shop-by-destination",
-            "title": "",
-            "description": ""
-          }
-        },
-        "template--18019757850939__ee04ac75-aa4d-46e9-a2df-38f736ec7c60-1676564864eb37761e-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2-4.png",
-            "link": "shopify:\/\/pages\/our-brands",
-            "title": "",
-            "description": ""
-          }
-        },
-        "a82f3fa4-7dcb-41a1-a731-5535bda1ac9a": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/automation-email-cats.png",
-            "link": "shopify:\/\/blogs\/flaneur-magazine",
-            "title": "",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18019757850939__ee04ac75-aa4d-46e9-a2df-38f736ec7c60-1676564864eb37761e-0",
-        "template--18019757850939__ee04ac75-aa4d-46e9-a2df-38f736ec7c60-1676564864eb37761e-1",
-        "template--18019757850939__ee04ac75-aa4d-46e9-a2df-38f736ec7c60-1676564864eb37761e-2",
-        "a82f3fa4-7dcb-41a1-a731-5535bda1ac9a"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
     }
   },
   "order": [
     "main",
     "289e16f7-3833-4185-aa0d-e7cef1f53140",
     "116abf4e-afc2-4c23-be8a-d4bf7c597f33",
-    "7ae3ada8-dc92-423f-b2ae-8a3191add834",
-    "ee04ac75-aa4d-46e9-a2df-38f736ec7c60"
+    "7ae3ada8-dc92-423f-b2ae-8a3191add834"
   ]
 }
