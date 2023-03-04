@@ -1,0 +1,5 @@
+/*
+Generated time: March 4, 2023 09:22
+This file was created by the app developer. Feel free to contact the original developer with any questions. It was minified (compressed) by AVADA. AVADA do NOT own this script.
+*/
+.delivery-date{display:flex;align-items:baseline}.delivery-date .fa{color:var(--active-link-color);margin-left:10px;cursor:pointer}.delivery-date tooltip{position:relative}.delivery-date tooltip .tooltip-text{visibility:hidden;width:215px;background-color:#aeaeae;color:#fff;text-align:center;border-radius:6px;padding:10px 0;position:absolute;z-index:1;bottom:35px;left:-90px}.delivery-date tooltip .fa:hover+.tooltip-text{visibility:visible}.delivery-date tooltip .tooltip-text:after{content:"";position:absolute;left:101px;top:65px;width:0;height:0;border-left:5px solid transparent;border-right:5px solid transparent;border-top:5px solid #aeaeae}delivery-date{display:flex;line-height:1rem}.delivery-date--title{margin-bottom:0}
