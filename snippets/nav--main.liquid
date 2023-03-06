@@ -35,7 +35,7 @@
 
                 <div class="mega-menu-block" data-mega-menu-block-id="{{ block.id }}" {{ block.shopify_attributes }}>
                   {% assign mega = block.settings.mega-menu %}
-                  {% assign mega_nav_column_count = 6 %}
+                  {% assign mega_nav_column_count = 2 %}
                   {% assign mega_column_width = link.links.size %}
                   {% if block.settings.mega_image_1 %}
                     {% assign mega_nav_column_count = mega_nav_column_count | minus: 1 %}
@@ -47,7 +47,7 @@
                     {% assign mega_column_width = mega_column_width | plus: 1 %}
                   {% endif %}
 
-                  {% assign mega_column_width = mega_column_width | limit: 6 %}
+                  {% assign mega_column_width = mega_column_width | limit: 2 %}
                   {% for sub_link in link.links limit: 2 %}
                     {% if mega_column_width <= 3 %}
                       {% assign grid_item_width = 'three_columns'  %}
