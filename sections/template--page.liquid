@@ -1,8 +1,11 @@
-{% render 'header-white-label',
-	logo: section.settings.logo,
-	logo_alignment: section.settings.alignment,
-	url: section.settings.url
-%}
+{% if page.template_suffix contains 'white-label' %}
+	{% render 'header-white-label',
+		logo: section.settings.logo,
+		logo_alignment: section.settings.alignment,
+		url: section.settings.url
+	%}
+{% endif %}
+
 
 <style>
 	{% if section.settings.hide_default_content == true %}
@@ -37,12 +40,6 @@
 		"type": "checkbox",
 		"id": "white_label",
 		"label": "White label page"
-		},
-		{
-			"type": "checkbox",
-			"id": "hide_header",
-			"label": "Hide header",
-			"info": "Hide site logo, navigation, search and my account icon"
 		},
 		{
 		"type": "checkbox",
