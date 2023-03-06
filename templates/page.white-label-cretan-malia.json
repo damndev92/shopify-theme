@@ -1,0 +1,111 @@
+{
+  "sections": {
+    "main": {
+      "type": "template--page",
+      "settings": {
+        "white_label": true,
+        "hide_header": true,
+        "hide_default_content": true,
+        "logo": "shopify:\/\/shop_images\/CMP_logo.png",
+        "alignment": "center",
+        "url": "https:\/\/google.com\/"
+      }
+    },
+    "b2e7a996-9e06-46c2-a3d8-7522bbc9997a": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cretan-malia-park-rooms_ff5a5325-be7a-4032-a2b6-6ecf500252de.jpg",
+        "subheading": "Welcome",
+        "title": "Cretan Malia Shop",
+        "text": "in partnership with Design Hotels",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "large",
+        "text-over-image-width": "full-width",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "90b33bab-9985-46f3-9a43-07ace85fbd08": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "Welcome to our store",
+        "text": "<p>Cretan Malia uses traditional materials, textures, and colors of Crete, as well as curious indigenous objects to curate a warm atmosphere. Walnut, chestnut, and bamboo combine with rattan, ceramic, stone, and brass to create a palette of wood tones, mustard yellow, copper-red, blue, green, and orange that imparts a relaxed, boho mood in the bright, airy rooms. Murals artistically bring the nature of Crete inside the living spaces and serve as main focal points for the interior design.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "2db02d1c-7e79-4596-bd62-7ee3d91740cf": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--17986797338939__2db02d1c-7e79-4596-bd62-7ee3d91740cf-1676466076019aa533-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--17986797338939__2db02d1c-7e79-4596-bd62-7ee3d91740cf-1676466076019aa533-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--17986797338939__2db02d1c-7e79-4596-bd62-7ee3d91740cf-1676466076019aa533-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17986797338939__2db02d1c-7e79-4596-bd62-7ee3d91740cf-1676466076019aa533-0",
+        "template--17986797338939__2db02d1c-7e79-4596-bd62-7ee3d91740cf-1676466076019aa533-1",
+        "template--17986797338939__2db02d1c-7e79-4596-bd62-7ee3d91740cf-1676466076019aa533-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "",
+        "collection": "cretan-malia",
+        "grid": 3,
+        "rows": 4,
+        "show_view_all": true
+      }
+    },
+    "0bdc3bf9-fccc-4d0e-9ae0-84983c2e9c46": {
+      "type": "blog--blog-posts",
+      "blocks": {
+        "bf318736-3dbb-481c-a264-53ed71b81048": {
+          "type": "article",
+          "settings": {
+            "blog_post_1": "flaneur-magazine\/make-yourself-at-home-cretan-malia-park-crete",
+            "blog_post_2": "flaneur-magazine\/meet-agapi-and-costantza-sbokou-owners-of-cretan-malia-park-crete",
+            "blog_post_3": "flaneur-magazine\/the-petal-lamps-collection",
+            "blog_post_4": ""
+          }
+        }
+      },
+      "block_order": [
+        "bf318736-3dbb-481c-a264-53ed71b81048"
+      ],
+      "settings": {
+        "background-color": "#ffffff",
+        "subheading": "",
+        "title": "From the blog",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": false,
+        "show_blog_images": true,
+        "imageSize": "portrait"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b2e7a996-9e06-46c2-a3d8-7522bbc9997a",
+    "90b33bab-9985-46f3-9a43-07ace85fbd08",
+    "2db02d1c-7e79-4596-bd62-7ee3d91740cf",
+    "0bdc3bf9-fccc-4d0e-9ae0-84983c2e9c46"
+  ]
+}
