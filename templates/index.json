@@ -305,6 +305,7 @@
     },
     "blog_blog_posts": {
       "type": "blog--blog-posts",
+      "disabled": true,
       "blocks": {
         "7a313341-6907-41f3-9690-276a9793e8ee": {
           "type": "blog",
@@ -330,6 +331,7 @@
     },
     "965c199b-916f-4301-a1cc-ef4095be5f72": {
       "type": "text--image-with-text",
+      "disabled": true,
       "settings": {
         "colors": "white",
         "image-width": "medium",
@@ -496,6 +498,7 @@
     },
     "0c78a5c1-7d9a-4374-9d3b-e76f80ed41b3": {
       "type": "maison--shop-the-look",
+      "disabled": true,
       "blocks": {
         "template--17643497783611__0c78a5c1-7d9a-4374-9d3b-e76f80ed41b3-1676111267fd38b487-0": {
           "type": "product",
