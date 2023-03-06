@@ -443,7 +443,7 @@
 </ul>
 
 <ul class="nav no-js mobile {{ class }}" role="tree">
-  {% for link in linklists[nav--main].links %}
+  {% for link in linklists[nav--main].links limit: 2 %}
     {% if link.links != blank %}
       {% assign link-title = link.title | strip %}
 
