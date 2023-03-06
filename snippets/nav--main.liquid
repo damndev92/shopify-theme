@@ -69,7 +69,7 @@
                           </a>
                         </p>
                         <ul class="dropdown-submenu__linklist">
-                          {% for sub_sub_link in sub_link.links %}
+                          {% for sub_sub_link in sub_link.links limit: 2 %}
                             <li>
                               <a 
                                 class="dropdown-submenu__link"
