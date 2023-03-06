@@ -1,5 +1,5 @@
 <ul class="nav js {{ class }}">
-  {% for link in linklists[nav--main].links limit: 2 %}
+  {% for link in linklists[nav--main].links %}
     {% if link.links != blank %}
       {% assign link-title = link.title | strip %}
 
