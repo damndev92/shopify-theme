@@ -1,0 +1,190 @@
+<style>
+  .site-header__logo-image img,
+  .overlay-logo-image {
+    max-width: 150px;
+  }
+
+  button.slide-menu.slide-menu-mobile.alt-focus.header-link.header-link--button {
+      display: none;
+  }
+
+  @media(max-width:768px) {
+      .header-wrapper .site-header__logo-image img {
+          height: 75px;
+      }
+    .site-header__logo-image img,
+    .overlay-logo-image {
+      max-width: 140px;
+    }
+
+    .site-header__logo-image img,
+    .overlay-logo-image {
+      width: 140px;
+    }
+
+    .logo-placement-within-wrapper--logo {
+      width: 140px;
+      flex-basis: 140px;
+    }
+  }
+
+    .site-header__logo-image img,
+    .overlay-logo-image {
+      width: 150px;
+    }
+
+    .logo-placement-within-wrapper--logo {
+      width: 150px;
+      flex-basis: 150px;
+    }
+
+
+  @media screen and (max-width: 767px) {
+    #site-header svg, .sticky-header-wrapper svg {
+        height: 24px;
+    }
+  }
+
+
+</style>
+
+{% capture header_logo %}
+
+<div class="site-header__logo h1 logo-placement--within" itemscope itemtype="http://schema.org/Organization">
+
+    <a href="{{ url }}" itemprop="url" class="site-header__logo-image">
+      {% capture alt %}{{ logo.alt | default: shop.name }}{% endcapture %}
+      {% render 'responsive-image' with logo, alt: alt, props: props %}
+    </a>
+</div>
+
+{% endcapture %}
+
+<div class="header-wrapper js" data-wetheme-section-type="header">
+
+
+<div class="sticky-header-wrapper">
+  <div class="sticky-header-wrapper__inner">
+    <div class="sticky-header-placer d-none d-lg-block"></div>
+
+        <div class="sticky-header-logo d-none d-lg-block">
+          {{ header_logo }}
+        </div>
+    <div class="sticky-header-menu d-none d-lg-block">
+      {% comment %}#main-navigation-wrapper will be copied here{% endcomment %}
+    </div>
+    <div class="sticky-header-icons d-none d-lg-flex">
+      <div class="maison-country-selector">
+        <img src="https://cdn.shopify.com/static/images/flags/{{ localization.country.iso_code | downcase }}.svg"
+             width="26"
+             height="26"
+        />
+      </div>
+    </div>
+    <div class="sticky-mobile-header d-lg-none">
+      {% comment %}Mobile menu will be copied here{% endcomment %}
+    </div>
+  </div>
+</div>
+
+<div class="header-logo-wrapper" data-section-id="{{ section.id }}" data-section-type="header-section">
+
+<nav
+  id="theme-menu"
+  class="mobile-menu-wrapper slideout-panel-hidden"
+  role="dialog"
+  aria-label="{{ 'general.menu.nav_label' | t }}"
+  aria-modal="true"
+>
+  {% render 'nav-mobile' %}
+</nav>
+
+<div class="d-flex d-lg-none">
+  <div class="mobile-header--wrapper">
+		<div class="mobile-side-column mobile-header-wrap--icons">
+			<button
+        type="button"
+        class="slide-menu slide-menu-mobile alt-focus header-link header-link--button"
+        aria-label="{{ 'general.menu.open_nav' | t }}"
+        aria-controls="mobile-menu--main-menu"
+      >
+        <i id="iconAnim" data-feather="menu"></i>
+			</button>
+		</div>
+
+		<div class="mobile-logo-column mobile-header-wrap--icons">
+			{{ header_logo }}
+		</div>
+
+		<div class="mobile-side-column mobile-header-wrap--icons mobile-header-right">
+      <div class="maison-country-selector">
+        <img src="https://cdn.shopify.com/static/images/flags/{{ localization.country.iso_code | downcase }}.svg"
+             width="26"
+             height="26"
+        />
+      </div>
+
+      <button
+        type="button"
+        class="alt-focus header-link header-link--button slide-menu slide-menu-cart"
+        aria-label="{{ 'cart.general.open_cart' | t }}"
+        aria-controls="cartSlideoutAside"
+      >
+
+        {% render 'icon-suitcase' %}
+        <span class="header--supporting-text header--mobile-cart-quantity"><span class="cart-item-count-header cart-item-count-header--quantity">{{ cart.item_count }}</span></span>
+
+      </button>
+		</div>
+  </div>
+</div>
+
+{% capture main_icons %}
+    <div class="header-icons cart-link">
+        <ul>
+            <li>
+                  <button
+                    type="button"
+                    class="icons--inline alt-focus header-link btn-normalize slide-menu slide-menu-cart"
+                    title="{{ 'layout.header.your_cart' | t }}"
+                    aria-label="{{ 'cart.general.open_cart' | t }}"
+                    aria-controls="cartSlideoutAside"
+                  >
+
+                    {% render 'icon-suitcase' %}
+                    <span class="header--supporting-text"><span class="cart-item-count-header cart-item-count-header--quantity">{{ cart.item_count }}</span></span>
+
+                  </button>
+            </li>
+        </ul>
+    </div>
+{% endcapture %}
+
+{% capture main_icons_locale %}
+    <div class="main-icons-with-locale">
+        <div class="maison-country-selector">
+          <img src="https://cdn.shopify.com/static/images/flags/{{ localization.country.iso_code | downcase }}.svg"
+               width="26"
+               height="26"
+          />
+        </div>
+        {{ main_icons }}
+    </div>
+{% endcapture %}
+
+<header id="site-header" class="clearfix d-none d-lg-block">
+  <div>
+    <div class="header-content logo-placement-within-wrapper">
+      <div class="logo-placement-within-wrapper__item logo-placement-within-wrapper--logo empty"></div>
+      <div class="logo-placement-within-wrapper__item logo-placement-within-wrapper--logo">
+          {{ header_logo }}
+      </div>
+      <div class="logo-placement-within-wrapper__item">
+          {{ main_icons_locale }}
+      </div>
+    </div>
+  </div>
+
+</header>
+</div>
+</div>

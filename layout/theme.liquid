@@ -141,7 +141,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     {% endif %}
 
     <div
-      id="main-body"
+      id="main-body" data="{{ page.template_suffix }}"
       class="{% if template == 'search' %} search-template{% elsif template.name == 'collection' %} collection-template{% endif %}"
       data-editor-open="{{ request.design_mode }}"
     >
@@ -151,8 +151,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <div id="slideout-overlay"></div>
 
-      {% section 'announcement-bar' %}
-      {% section 'header' %}
+      {% unless page.template_suffix contains 'white-label' %}
+        {% section 'announcement-bar' %}
+        {% section 'header' %}
+      {% endunless %}
 
       <main id="main">
         {{ content_for_layout }}
