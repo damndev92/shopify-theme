@@ -2,6 +2,7 @@
   "sections": {
     "image_slideshow": {
       "type": "image--slideshow",
+      "disabled": true,
       "blocks": {
         "image--slideshow-0": {
           "type": "slide",
@@ -123,6 +124,7 @@
     },
     "96b97083-6b8b-479e-a943-5eb7568e145a": {
       "type": "image--gallery",
+      "disabled": true,
       "blocks": {
         "template--17643497783611__96b97083-6b8b-479e-a943-5eb7568e145a-1676564864eb37761e-0": {
           "type": "image",
@@ -176,6 +178,7 @@
     },
     "ab24a27b-0737-410b-b2cb-3f65e5c9d489": {
       "type": "video--video-with-text-overlay",
+      "disabled": true,
       "settings": {
         "url": "https:\/\/youtu.be\/HD_8Ibc8tkQ",
         "desktopHeight": "550",
@@ -194,6 +197,7 @@
     },
     "featured_collection": {
       "type": "collection--featured-collection",
+      "disabled": true,
       "blocks": {
         "grid-card-title": {
           "type": "grid-card-title",
@@ -296,6 +300,7 @@
     },
     "newsletter": {
       "type": "newsletter--newsletter",
+      "disabled": true,
       "settings": {
         "colors": "dark",
         "subheading": "Become a Flâneur",
@@ -305,6 +310,7 @@
     },
     "blog_blog_posts": {
       "type": "blog--blog-posts",
+      "disabled": true,
       "blocks": {
         "7a313341-6907-41f3-9690-276a9793e8ee": {
           "type": "blog",
@@ -347,6 +353,7 @@
     },
     "cab7e0c8-ccb0-41e9-8fcb-49ec92305af0": {
       "type": "text--testimonials",
+      "disabled": true,
       "blocks": {
         "template--17643497783611__cab7e0c8-ccb0-41e9-8fcb-49ec92305af0-1674557253e906ad71-2": {
           "type": "textarea",
@@ -394,6 +401,7 @@
     },
     "logo-list": {
       "type": "image--logo-list",
+      "disabled": true,
       "blocks": {
         "logo-list-0": {
           "type": "logo_image",
@@ -455,6 +463,7 @@
     },
     "c94d79d4-bbe0-4f33-a57f-335300f24f32": {
       "type": "text--text-adverts",
+      "disabled": true,
       "blocks": {
         "template--17456700391739__c94d79d4-bbe0-4f33-a57f-335300f24f32-1673176379b2355835-0": {
           "type": "text",
