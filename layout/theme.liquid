@@ -60,7 +60,7 @@
 
     {% if template == 'index' %}
       <link rel="preload" href="{{ 'theme-index.min.css' | asset_url }}" as="style">
-      <!-- {{ 'theme-index.min.css' | asset_url | stylesheet_tag }} -->
+      {{ 'theme-index.min.css' | asset_url | stylesheet_tag }}
     {% elsif template.name == 'collection' %}
       <link rel="preload" href="{{ 'theme-collection.min.css' | asset_url }}" as="style">
       {{ 'theme-collection.min.css' | asset_url | stylesheet_tag }}
@@ -214,7 +214,7 @@
       }
     </script>
     {% render 'structured-data' %}
-    <!-- <script defer type="module" src="{{ 'theme.aio.min.js' | asset_url }}"></script> -->
+    <script defer type="module" src="{{ 'theme.aio.min.js' | asset_url }}"></script>
     <script defer nomodule src="{{ 'theme.legacy.min.js' | asset_url }}"></script>
     <script src="{{ 'simple-lightbox.aio.min.js' | asset_url }}"></script>
     {% include 'sca-quick-view-template' %}
