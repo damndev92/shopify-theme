@@ -116,10 +116,6 @@
                   {% assign section-id = '.featured-blog--block--' | append: section.id %}
                   {% assign selector = ' .article--background-image--' | append: forloop.index | prepend: section-id %}
 
-                  <style>
-                    {% render 'responsive-background-image' with current_post.image, alt: current_post.title, selector: selector, scale: scale %}
-                  </style>
-
                   <div
                     class="{{ post_limit_grid }} wow fadeInUp {% cycle '', 'delay-1', 'delay-2', 'delay-3' %} index-blog-item--wrapper index-blog-item--image---{{ section.settings.imageSize }}
                   ">
@@ -134,10 +130,11 @@
                               </a>
                             </div>
                           {% else %}
-                            <a href="{{ current_post.url }}" tabindex="-1">
-                              <div
-                                class="article--background-image article--background-image--{{ forloop.index }}"></div>
-                            </a>
+                            <div class="article-image">
+                              <a href="{{ current_post.url }}" tabindex="-1">
+                                {% render 'responsive-image' with current_post.image, alt: current_post.title %}
+                              </a>
+                            </div>
                           {% endif %}
                         {% endif %}
                       {% endif %}
@@ -240,10 +237,6 @@
                     {% assign section-id = '.featured-blog--block--' | append: section.id %}
                     {% assign selector = ' .article--background-image--' | append: forloop.index | prepend: section-id %}
 
-                    <style>
-                      {% render 'responsive-background-image' with article.image, alt: article.title, selector: selector, scale: scale %}
-                    </style>
-
                     <div
                       class="{{ post_limit_grid }} wow fadeInUp {% cycle '', 'delay-1', 'delay-2', 'delay-3' %} index-blog-item--wrapper index-blog-item--image---{{ section.settings.imageSize }}
                     ">
@@ -257,10 +250,11 @@
                               </a>
                             </div>
                           {% else %}
-                            <a href="{{ article.url }}" tabindex="-1">
-                              <div
-                                class="article--background-image article--background-image--{{ forloop.index }}"></div>
-                            </a>
+                            <div class="article-image">
+                              <a href="{{ article.url }}" tabindex="-1">
+                                {% render 'responsive-image' with article.image, alt: article.title %}
+                              </a>
+                            </div>
                           {% endif %}
                         {% endif %}
                       {% endif %}
