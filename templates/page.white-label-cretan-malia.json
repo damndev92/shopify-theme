@@ -4,7 +4,6 @@
       "type": "template--page",
       "settings": {
         "white_label": true,
-        "hide_header": true,
         "hide_default_content": true,
         "logo": "shopify:\/\/shop_images\/CMP_logo.png",
         "alignment": "center",
