@@ -7,9 +7,9 @@
   <!-- <![endif] -->
 
   <head>
-	<!-- Added by AVADA SEO Suite -->
-	{% include 'avada-seo' %}
-	<!-- /Added by AVADA SEO Suite -->
+    <!-- Added by AVADA SEO Suite -->
+    {% include 'avada-seo' %}
+    <!-- /Added by AVADA SEO Suite -->
     <meta charset="utf-8">
 
     <!--[if lt IE 9]> <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
@@ -44,13 +44,15 @@
     {% endif %}
 
     {% render 'social-meta-tags' %}
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-5JJNHJB');</script>
-<!-- End Google Tag Manager -->
+    <!-- Google Tag Manager -->
+    <script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-5JJNHJB');
+    </script>
+    <!-- End Google Tag Manager -->
     <link rel="canonical" href="{{ canonical_url }}">
 
     <!-- CSS -->
@@ -121,20 +123,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css">
     <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
-  {% include 'sca-quick-view-init' %}
- 
-  {% render 'qikify-apps' %}
-{% render ‘product-datalayer.liquid’ %}
+    {% include 'sca-quick-view-init' %}
+
+    {% render 'qikify-apps' %}
+    {% render ‘product-datalayer.liquid’ %}
   </head>
 
   <body
     id="{{ page_title | handle }}"
     class="page-title--{{ page_title | handle }} {% if customer %}customer-logged-in {% endif %}template-{{ template | replace: '.', ' ' | truncatewords: 1, '' | handle }} flexbox-wrapper{% unless settings.animations_enabled %} animations-disabled{% endunless %}"
   >
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5JJNHJB"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <!-- Google Tag Manager (noscript) -->
+    <noscript
+      ><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-5JJNHJB"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     {% render 'maison-country-popup' %}
     {% if template != 'cart' and settings['cart-type'] == 'drawer' %}
       {% render 'cart-drawer' %}
@@ -211,9 +219,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script defer type="module" src="{{ 'theme.aio.min.js' | asset_url }}"></script>
     <script defer nomodule src="{{ 'theme.legacy.min.js' | asset_url }}"></script>
     <script src="{{ 'simple-lightbox.aio.min.js' | asset_url }}"></script>
-  {% include 'sca-quick-view-template' %} 
- 
-{% include 'swymSnippet' %}
+    {% include 'sca-quick-view-template' %}
 
-</body>
+    {% include 'swymSnippet' %}
+  </body>
 </html>
