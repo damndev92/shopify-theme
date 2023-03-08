@@ -209,7 +209,47 @@
       "settings": {
         "colors": "white",
         "subheading": "",
-        "title": "Discover some of our women-led brands"
+        "title": "Discover more of our women-led brands"
+      }
+    },
+    "659b457a-acd9-49b7-9f24-d0f0ebf7bdd6": {
+      "type": "collection--collection-list",
+      "blocks": {
+        "7a12e2f4-0d5f-48fc-8f10-fd22ef07ae44": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "guayaba-studio"
+          }
+        },
+        "a2061e30-37d1-4d8e-ac07-972e8852ed30": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "anissa-kermiche"
+          }
+        },
+        "7fda39ce-085a-4e30-b4a2-f0c184e9eff8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "amuse-la-bouche"
+          }
+        },
+        "c87e21d0-3dfe-479d-9f6c-1e1ae8580b11": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "la-veste"
+          }
+        }
+      },
+      "block_order": [
+        "7a12e2f4-0d5f-48fc-8f10-fd22ef07ae44",
+        "a2061e30-37d1-4d8e-ac07-972e8852ed30",
+        "7fda39ce-085a-4e30-b4a2-f0c184e9eff8",
+        "c87e21d0-3dfe-479d-9f6c-1e1ae8580b11"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
       }
     },
     "blog-posts": {
@@ -239,6 +279,7 @@
     "a94e5b5a-0db4-46d6-8ecb-e72ccd905718",
     "main",
     "2c93c024-9368-45c4-b817-706ee4130d9d",
+    "659b457a-acd9-49b7-9f24-d0f0ebf7bdd6",
     "blog-posts"
   ]
 }
