@@ -23,6 +23,36 @@
         "button_label": ""
       }
     },
+    "f8496f9b-bf99-4214-b5be-771555639dc3": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/766fa7c9-41e2-4817-95cc-6b3573f43897.png",
+        "layout": "left",
+        "subheading": "Co-founder of Maison Flâneur",
+        "location": false,
+        "title": "Marie Winckler",
+        "text_block": "<p>\"Empowering women for me is being mindful of the challenges faced by women in the workplace. By making intentional, conscious efforts to address issues such as unequal pay, discriminatory practices, and lack of opportunities for professional growth. We are all responsible for making people around us feel empowered.\"<\/p><p><br\/><\/p><p>For IWD this year, I thought it would be interesting to hear from the women around me and get their advice on how they, themselves, feel is the best way to empower the women around them. <br\/><br\/>In a world that has shown that there is no such thing as a given right, we must continue to strive to do better. <br\/><br\/>Because when women are given a voice, and use it to encourage others there is no limit to what they can achieve.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "b33a44a5-2c39-4974-b822-03d88306c742": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "A word from our community",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "3edbe082-74de-4c8f-9141-ef44fe1b09a3": {
       "type": "text--image-with-text",
       "settings": {
@@ -217,23 +247,6 @@
         "button_label": ""
       }
     },
-    "f8496f9b-bf99-4214-b5be-771555639dc3": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "large",
-        "image": "shopify:\/\/shop_images\/766fa7c9-41e2-4817-95cc-6b3573f43897.png",
-        "layout": "left",
-        "subheading": "Co-founder of Maison Flâneur",
-        "location": false,
-        "title": "Marie Winckler",
-        "text_block": "<p>\"Empowering women for me is being mindful of the challenges faced by women in the workplace. By making intentional, conscious efforts to address issues such as unequal pay, discriminatory practices, and lack of opportunities for professional growth. We are all responsible for making people around us feel empowered.\"<\/p><p><br\/><\/p><p>For IWD this year, I thought it would be interesting to hear from the women around me and get their advice on how they, themselves, feel is the best way to empower the women around them. <br\/><br\/>In a world that has shown that there is no such thing as a given right, we must continue to strive to do better. <br\/><br\/>Because when women are given a voice, and use it to encourage others there is no limit to what they can achieve.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -264,6 +277,8 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
+    "f8496f9b-bf99-4214-b5be-771555639dc3",
+    "b33a44a5-2c39-4974-b822-03d88306c742",
     "3edbe082-74de-4c8f-9141-ef44fe1b09a3",
     "6191fbbe-6445-4521-8f58-2d243e420702",
     "7c10a1d9-fac8-4348-ba3b-12d2d5c9b915",
@@ -276,7 +291,6 @@
     "3c65ec32-a6da-4100-92b0-772b01f2e486",
     "c986adcd-af97-4f1e-ac14-ca4d5d862728",
     "70e6aebe-b111-48fe-8254-35942c7f1aec",
-    "f8496f9b-bf99-4214-b5be-771555639dc3",
     "main",
     "blog-posts"
   ]
