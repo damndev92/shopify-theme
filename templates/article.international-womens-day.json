@@ -44,7 +44,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/w1900_q65.jpg",
         "layout": "left",
         "subheading": "Founder & designer Anissa Kermiche",
@@ -85,7 +85,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/Screenshot_2023-01-25_at_14.18.11_480x480_0b2fee43-370d-4c00-b720-54a889e8a75b.webp",
         "layout": "left",
         "subheading": "Founder of Amuse La Bouche",
