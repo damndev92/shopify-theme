@@ -116,7 +116,7 @@
       "settings": {
         "colors": "white",
         "image-width": "large",
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-01-25_at_14.18.11_480x480_0b2fee43-370d-4c00-b720-54a889e8a75b.webp",
+        "image": "shopify:\/\/shop_images\/WOMEN_template_4.png",
         "layout": "left",
         "subheading": "Founder of Amuse La Bouche",
         "location": false,
@@ -149,8 +149,8 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
-        "image": "shopify:\/\/shop_images\/georges-store_creator_02.jpg",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/WOMEN_template_6.png",
         "layout": "left",
         "subheading": "Founder of Georges",
         "location": false,
