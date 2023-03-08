@@ -43,7 +43,7 @@
     "b33a44a5-2c39-4974-b822-03d88306c742": {
       "type": "text--rich-text",
       "settings": {
-        "colors": "light",
+        "colors": "white",
         "width": "medium",
         "subheading": "",
         "page_title": "",
@@ -247,6 +247,19 @@
         "button_label": ""
       }
     },
+    "1d6710d2-7525-48b3-a4b7-add692c718b7": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "",
+        "title": "Welcome to our store",
+        "text": "",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -291,6 +304,7 @@
     "c986adcd-af97-4f1e-ac14-ca4d5d862728",
     "70e6aebe-b111-48fe-8254-35942c7f1aec",
     "3edbe082-74de-4c8f-9141-ef44fe1b09a3",
+    "1d6710d2-7525-48b3-a4b7-add692c718b7",
     "main",
     "blog-posts"
   ]
