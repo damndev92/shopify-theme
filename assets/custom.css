@@ -502,3 +502,9 @@ main .shopify-policy__container {
 .section-search-grid .indiv-product .search-article-image .aspect-ratio--square {
     padding: 0;
 }
+
+/* Accordions */
+summary::-webkit-details-marker {
+  display:none;
+}
+
