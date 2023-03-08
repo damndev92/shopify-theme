@@ -120,6 +120,7 @@
       "settings": {
         "colors": "white",
         "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/georges-store_creator_02.jpg",
         "layout": "left",
         "subheading": "Founder of Georges",
         "location": false,
@@ -137,7 +138,7 @@
         "colors": "white",
         "image-width": "large",
         "image": "shopify:\/\/shop_images\/ca87f687-e100-4c17-85f4-c007338154c4.png",
-        "layout": "left",
+        "layout": "right",
         "subheading": "Creative Director of Malaika",
         "location": false,
         "title": "Cruz María Wyndham",
