@@ -1,0 +1,365 @@
+{
+  "sections": {
+    "a7278f70-4e30-4842-a597-b42daa02c6fc": {
+      "type": "image--image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Magazine_Header_-_1800_X1200_abfee000-4b6c-44e9-a11a-852f1351282a.png",
+        "parallax": true,
+        "alignment": "center",
+        "hero_size": "medium",
+        "text-over-image-width": "full-width"
+      }
+    },
+    "e59ec62f-07b5-46d9-921d-cba01b9aebad": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "page_title": "Meet Géraldine Dohogne, Interior Designer, London",
+        "title": "",
+        "text": "<p><br\/>Meet Geraldine Dohogne the energetic founder of Beyond Design. Based in London she specializes in architecture & interiors for worldwide hospitality, lifestyle, and residential projects. We discuss with her, her distinctive work and her inspirations.<\/p><p><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6": {
+      "type": "image--gallery",
+      "blocks": {
+        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_5a59b540-1123-4609-be65-7635339ab3e5.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_1aafe866-6b1c-4915-9def-50ec28bfaa84.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-0",
+        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-1",
+        "template--17769055748411__e2cb01ce-9cf6-4a94-82bd-8345b135c7a6-1674823333db0d4f7d-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "caa04637-6009-4065-89c7-931d3e44b826": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p><strong>Tell us three things people might not know about you? <br\/><br\/><\/strong>I never studied design! My career began by naturally gravitating towards my passion and curiosity of the world.<\/p><p>I never go to the same restaurant in London more than once (even if it was a favourite!) This keeps my taste buds and curiosity heightened.<\/p><p>My best piece of advice: Nothing is a given in life. You have to work hard to get to where you want to be, and design is no different.<br\/><br\/><strong>What makes a home in one word?<\/strong><\/p><p>Memories<\/p><p> <\/p><p><strong>How would you describe your style in one word?<\/strong><\/p><p>Contextual<\/p><p><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "465bd8cf-0b90-4509-995b-c07aeefbe031": {
+      "type": "image--gallery",
+      "blocks": {
+        "19b22b12-2937-4e55-8afc-81ba466b6abd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_ad2d83dc-230f-4399-b66c-c43fd61a16d4.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "8d574722-6f06-4dd7-9abd-1c88ac4ed944": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "065fb4fa-51af-44ff-869e-a5abeb0cdb9a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_e73313ac-604f-4abd-a08c-c5ca46d29575.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "19b22b12-2937-4e55-8afc-81ba466b6abd",
+        "8d574722-6f06-4dd7-9abd-1c88ac4ed944",
+        "065fb4fa-51af-44ff-869e-a5abeb0cdb9a"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "e7d2425a-53d5-4163-bc76-529e5c087a1f": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p><strong>Where do you think your interest in interior design came from?<\/strong><\/p><p>I would say mostly from my life experiences and education through traveling. Each visited place taught and inspired me in a unique way, that allowed me to be inspired by so much of the world.<\/p><p><strong><br\/>Where do you find your inspiration for interior design?<\/strong><\/p><p>History and culture.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "bdff20fa-c207-4cf0-a079-74d145bb8535": {
+      "type": "image--gallery",
+      "blocks": {
+        "cd08665a-75a0-464e-863c-c1e371db8af1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_3fa8de79-8419-4fdc-913c-e1273c930c60.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "94e06691-e8a6-4988-b689-8e299631380a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Magazine_Header_-_1800_X1200_abfee000-4b6c-44e9-a11a-852f1351282a.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "cd08665a-75a0-464e-863c-c1e371db8af1",
+        "94e06691-e8a6-4988-b689-8e299631380a"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "4933d240-dcc6-43c6-980b-024b1a8684a4": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p><strong>Who is your interior style icon? <br\/><br\/><\/strong>I don’t really have a style icon perse, but rather, I admire style and stories from the kinds of people I meet through my work. On a trip to Italy last month, I met a couple that have a collection house in Europe. They have bought arts, antiques and prototypes from designers of the highest calibre, reciting decades of their lives. The mix-and-match of artifacts of the world is just gorgeous, and the stories it told of them even more so. They inspired me so much by being able to harmonise all of this to tell a true story through design. So, to answer your question, I suppose, each project really brings to light its own style icon!<br\/><br\/><strong>Describe your philosophy when it comes to decoration?<br\/><br\/><\/strong>I don’t like the word decoration because it implies you are focusing on the ‘superficial’ or the ‘unnecessary’. I prefer to focus on the essentials – materials, textures and colours, local construction methods. To me, this is what “decorates” a space.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "626a439a-fc95-4c91-a74c-e344e3072f09": {
+      "type": "image--gallery",
+      "blocks": {
+        "090c2e2f-e157-425a-b7ec-6b43859f50b3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_3fa8de79-8419-4fdc-913c-e1273c930c60.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "090c2e2f-e157-425a-b7ec-6b43859f50b3"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "7643a6f3-d3dd-47f8-ba4c-e08d036994e0": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p><strong>How did you incorporate Maison Flaneur in your project? <br\/><br\/><\/strong>I love taking Maison Flaneur’s strong silhouettes and existing styles and crafting it into our own. They have a great range of products from around the world so its great to work from this and match to project locations.<br\/><br\/><strong>How different is the approach to a restaurant\/ hotel project rather than a home?<br\/><br\/><\/strong>Not very different – the main differentiating element is the capacity which influences the materials and durability of most items. You have to think of every person and nationality and satisfy a whole panel of people – from the owner, to the journalist, the traveller, and the staff working there. Other than that, I believe a hotel should feel like an extension of a home, of course you incorporate more luxury amenities, but I believe the idea, in both, is to feel encapsulated by the country and its culture.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "eb0a2d64-a73f-4709-b77c-ee311d27cdaf": {
+      "type": "image--gallery",
+      "blocks": {
+        "afb003b3-cd64-4917-89df-f5804e63e96b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_ad2d83dc-230f-4399-b66c-c43fd61a16d4.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "9eafbdd0-52a3-4119-9eb3-f1c0d50b0186": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "576a4fae-8e01-466b-8405-7d5bc85d7e23": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_e73313ac-604f-4abd-a08c-c5ca46d29575.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "afb003b3-cd64-4917-89df-f5804e63e96b",
+        "9eafbdd0-52a3-4119-9eb3-f1c0d50b0186",
+        "576a4fae-8e01-466b-8405-7d5bc85d7e23"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "ea569cc1-30a5-4e94-8011-ed149fc1d0fc": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p><strong>Your favourite object in your home?<br\/><br\/><\/strong>The first antique vitrine that I bought. It’s a collection of all my memories from my travels. It’s the first piece that I bought when I first started living alone. It was expensive for me at the time but I felt so drawn to it.<br\/><br\/><strong>Your favourite hotel in the world?<br\/><br\/><\/strong>The Fife Arms – no matter the company you’re with! Family, friends, it is all-around gorgeous.<br\/><br\/><strong>Your favourite restaurant in the world?<br\/><br\/><\/strong>The Noma in Copenhagen. 7 hours later and I can honestly say it was the best dining-experience I’ve ever had!<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "77e8486b-7c59-4fb8-81a6-0396e5cdb474": {
+      "type": "image--gallery",
+      "blocks": {
+        "8160d6d7-3e78-41e4-b9c8-547393676ea4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_ad2d83dc-230f-4399-b66c-c43fd61a16d4.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "359144ee-4c47-4623-a7ca-1b310a8939e5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        },
+        "21bb5fd6-0919-4012-b0ec-6233a306aff8": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_e73313ac-604f-4abd-a08c-c5ca46d29575.png",
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "8160d6d7-3e78-41e4-b9c8-547393676ea4",
+        "359144ee-4c47-4623-a7ca-1b310a8939e5",
+        "21bb5fd6-0919-4012-b0ec-6233a306aff8"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": ""
+      }
+    },
+    "6a160bf6-9969-45cd-8384-21822c612f39": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "",
+        "title": "",
+        "text": "<p><strong>Favourite address for decoration in London\/ in the world?<br\/><br\/><\/strong>Antique market of Portobello Road In London. In the world- flea markets are always my favourite.<br\/><br\/><strong>A piece of advice for people in lockdown?<br\/><br\/><\/strong>Remember you just have one life, so make the best of it everyday! Whatever the situation is.<\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "main": {
+      "type": "template--article",
+      "disabled": true,
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true,
+        "blog-sidebar-link": "",
+        "blog_sidebar_title": "",
+        "blog_sidebar_desc": "",
+        "show_blog_tags": false,
+        "show_recent_posts": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "subheading": "BLOG",
+        "title": "Latest articles",
+        "post_limit": 3,
+        "show_author_name": false,
+        "show_dates": true,
+        "show_blog_images": true,
+        "imageSize": "portrait"
+      }
+    }
+  },
+  "order": [
+    "a7278f70-4e30-4842-a597-b42daa02c6fc",
+    "e59ec62f-07b5-46d9-921d-cba01b9aebad",
+    "e2cb01ce-9cf6-4a94-82bd-8345b135c7a6",
+    "caa04637-6009-4065-89c7-931d3e44b826",
+    "465bd8cf-0b90-4509-995b-c07aeefbe031",
+    "e7d2425a-53d5-4163-bc76-529e5c087a1f",
+    "bdff20fa-c207-4cf0-a079-74d145bb8535",
+    "4933d240-dcc6-43c6-980b-024b1a8684a4",
+    "626a439a-fc95-4c91-a74c-e344e3072f09",
+    "7643a6f3-d3dd-47f8-ba4c-e08d036994e0",
+    "eb0a2d64-a73f-4709-b77c-ee311d27cdaf",
+    "ea569cc1-30a5-4e94-8011-ed149fc1d0fc",
+    "77e8486b-7c59-4fb8-81a6-0396e5cdb474",
+    "6a160bf6-9969-45cd-8384-21822c612f39",
+    "main",
+    "blog-posts"
+  ]
+}
