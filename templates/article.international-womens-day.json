@@ -157,7 +157,6 @@
     },
     "blog-posts": {
       "type": "blog--blog-posts",
-      "disabled": true,
       "settings": {
         "background-color": "#f3f3f3",
         "subheading": "BLOG",
