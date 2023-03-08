@@ -53,17 +53,17 @@
         "button_label": ""
       }
     },
-    "3edbe082-74de-4c8f-9141-ef44fe1b09a3": {
+    "51e59958-983d-4169-abd1-1e4cdca02b53": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "large",
-        "image": "shopify:\/\/shop_images\/60c6f15a-c65e-4c1e-ba0b-73c76f014aaf.png",
+        "image": "shopify:\/\/shop_images\/ca87f687-e100-4c17-85f4-c007338154c4.png",
         "layout": "right",
-        "subheading": "Founder of SEW BELLA",
+        "subheading": "Creative Director of Malaika",
         "location": false,
-        "title": "Bella Bowker",
-        "text_block": "<p><em>\"Always be a cheerleader! It’s way too easy to compare yourself to other women, too easy to get jealous & too easy to tear them down because of your own insecurities. Lift them up, shower them with golden compliments & be ready to listen and help if things aren’t going their way.\"<br\/><br\/><\/em><\/p><p>Bella’s personality is vibrant, and this is reflected in her brand, Sew Bella. Embroidery is a longtime hobby of Bella’s, and she has given everything to make it what it is today. Her work tests the boundaries of art, and if you check out her brand, you’ll see there’s nothing she can’t embroider. Her brand is a wonderful metaphor to women that nothing is impossible.<\/p>",
+        "title": "Cruz María Wyndham",
+        "text_block": "<p><em>\"Creativity can be a powerful tool for empowering underprivileged women. Expression can provide a way to assert their identities, share their stories and connect with others in their community. Ultimately, empowerment means creating a safe and supportive environment where women can develop their skills and talents, express themselves creatively, and gain the confidence and independence they need to succeed.\"<br\/><br\/><\/em><\/p><p>More than just a brand, Malaika Linens is a social enterprise powered by two women with the urge to not only produce high quality pieces, but to educate and uplift other women across the world. The brand works closely with an Egyptian charity that teaches embroidery to local women, regardless of their situation or background. This gives them a chance to show off their skills, whilst also gaining financial independence.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -162,30 +162,13 @@
         "button_label": ""
       }
     },
-    "51e59958-983d-4169-abd1-1e4cdca02b53": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "large",
-        "image": "shopify:\/\/shop_images\/ca87f687-e100-4c17-85f4-c007338154c4.png",
-        "layout": "right",
-        "subheading": "Creative Director of Malaika",
-        "location": false,
-        "title": "Cruz María Wyndham",
-        "text_block": "<p><em>\"Creativity can be a powerful tool for empowering underprivileged women. Expression can provide a way to assert their identities, share their stories and connect with others in their community. Ultimately, empowerment means creating a safe and supportive environment where women can develop their skills and talents, express themselves creatively, and gain the confidence and independence they need to succeed.\"<br\/><br\/><\/em><\/p><p>More than just a brand, Malaika Linens is a social enterprise powered by two women with the urge to not only produce high quality pieces, but to educate and uplift other women across the world. The brand works closely with an Egyptian charity that teaches embroidery to local women, regardless of their situation or background. This gives them a chance to show off their skills, whilst also gaining financial independence.<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
     "488b7900-21a0-4eae-b799-218a1a37eea7": {
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
         "image-width": "large",
         "image": "shopify:\/\/shop_images\/IMG_5145_1.jpg",
-        "layout": "left",
+        "layout": "right",
         "subheading": "Founders of Guayaba Studio",
         "location": false,
         "title": "Alicia and Cristine",
@@ -202,7 +185,7 @@
         "colors": "white",
         "image-width": "large",
         "image": "shopify:\/\/shop_images\/348735c3-9b40-4e7b-a0d1-199676a2dd3f.jpg",
-        "layout": "right",
+        "layout": "left",
         "subheading": "Co-founder of Chali Conseil",
         "location": false,
         "title": "Charlotte Di Calypso",
@@ -219,7 +202,7 @@
         "colors": "white",
         "image-width": "large",
         "image": "shopify:\/\/shop_images\/e7d6f665-b597-46b6-a7e3-f67ea2d527ac.png",
-        "layout": "left",
+        "layout": "right",
         "subheading": "Co-founder of Semaine.",
         "location": false,
         "title": "Michelle Lu",
@@ -236,11 +219,28 @@
         "colors": "white",
         "image-width": "large",
         "image": "shopify:\/\/shop_images\/WOMEN_template.png",
-        "layout": "right",
+        "layout": "left",
         "subheading": "Founder of HEAT",
         "location": false,
         "title": "Sophia Lie",
         "text_block": "<p><em>\"Being an empowered woman doesn’t mean you have to be perfect. In fact, I often think it means the opposite. For me, being empowered is about being honest with yourself, embracing your flaws, and knowing when to ask for help. I designed HEAT as a place where women can check in with themselves. It’s all about unlocking that inner strength — and hitting reset when you need to — so you can leave feeling your most powerful\"<\/em><\/p><p><br\/><\/p><p>It’s after a “big-time burnout” that Sophia lie came up with HEAT. <\/p><p>After over a decade of working as a model around the world, she struggled with full-body fatigue. As a real boss lady she worked around the clock to develop the best wellness solutions she could find. It is through admitting her own vulnerability that Sophia found her new calling and it is this duality that we admire most about her. Because maybe empowerment is not the denial of ones sensitivity but the acceptance of it.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "3edbe082-74de-4c8f-9141-ef44fe1b09a3": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/60c6f15a-c65e-4c1e-ba0b-73c76f014aaf.png",
+        "layout": "right",
+        "subheading": "Founder of SEW BELLA",
+        "location": false,
+        "title": "Bella Bowker",
+        "text_block": "<p><em>\"Always be a cheerleader! It’s way too easy to compare yourself to other women, too easy to get jealous & too easy to tear them down because of your own insecurities. Lift them up, shower them with golden compliments & be ready to listen and help if things aren’t going their way.\"<br\/><br\/><\/em><\/p><p>Bella’s personality is vibrant, and this is reflected in her brand, Sew Bella. Embroidery is a longtime hobby of Bella’s, and she has given everything to make it what it is today. Her work tests the boundaries of art, and if you check out her brand, you’ll see there’s nothing she can’t embroider. Her brand is a wonderful metaphor to women that nothing is impossible.<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -279,18 +279,18 @@
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "f8496f9b-bf99-4214-b5be-771555639dc3",
     "b33a44a5-2c39-4974-b822-03d88306c742",
-    "3edbe082-74de-4c8f-9141-ef44fe1b09a3",
+    "51e59958-983d-4169-abd1-1e4cdca02b53",
     "6191fbbe-6445-4521-8f58-2d243e420702",
     "7c10a1d9-fac8-4348-ba3b-12d2d5c9b915",
     "a94e5b5a-0db4-46d6-8ecb-e72ccd905718",
     "6509e405-19ba-4fa8-8c2d-13a45d0afe34",
     "6256e0d2-1cf1-405d-94f9-ddbdb45edf7f",
     "6de85dda-df67-403a-9d83-d15377646bdf",
-    "51e59958-983d-4169-abd1-1e4cdca02b53",
     "488b7900-21a0-4eae-b799-218a1a37eea7",
     "3c65ec32-a6da-4100-92b0-772b01f2e486",
     "c986adcd-af97-4f1e-ac14-ca4d5d862728",
     "70e6aebe-b111-48fe-8254-35942c7f1aec",
+    "3edbe082-74de-4c8f-9141-ef44fe1b09a3",
     "main",
     "blog-posts"
   ]
