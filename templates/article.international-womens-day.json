@@ -155,6 +155,39 @@
         "show_recent_posts": false
       }
     },
+    "2c93c024-9368-45c4-b817-706ee4130d9d": {
+      "type": "collection--collection-list",
+      "blocks": {
+        "template--18243015213371__2c93c024-9368-45c4-b817-706ee4130d9d-167827127286986ac5-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "malaika"
+          }
+        },
+        "template--18243015213371__2c93c024-9368-45c4-b817-706ee4130d9d-167827127286986ac5-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "issy-granger"
+          }
+        },
+        "template--18243015213371__2c93c024-9368-45c4-b817-706ee4130d9d-167827127286986ac5-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "jore-copenhagen"
+          }
+        }
+      },
+      "block_order": [
+        "template--18243015213371__2c93c024-9368-45c4-b817-706ee4130d9d-167827127286986ac5-0",
+        "template--18243015213371__2c93c024-9368-45c4-b817-706ee4130d9d-167827127286986ac5-1",
+        "template--18243015213371__2c93c024-9368-45c4-b817-706ee4130d9d-167827127286986ac5-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Discover some of our women-led brands"
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -180,6 +213,7 @@
     "51e59958-983d-4169-abd1-1e4cdca02b53",
     "70e6aebe-b111-48fe-8254-35942c7f1aec",
     "main",
+    "2c93c024-9368-45c4-b817-706ee4130d9d",
     "blog-posts"
   ]
 }
