@@ -40,12 +40,6 @@
         "button_label": ""
       }
     },
-    "7c10a1d9-fac8-4348-ba3b-12d2d5c9b915": {
-      "type": "advanced-layout--custom-liquid",
-      "settings": {
-        "custom_liquid": "<style>\n   hr {\n        width: 100%;\n        height: 1px;\n        margin-left: auto;\n        margin-right: auto;\n        background-color: #FAB7A4;\n      }\n    <\/style>\n    <hr>"
-      }
-    },
     "fef9a1b9-8a57-488d-883f-e95bff215725": {
       "type": "text--rich-text",
       "settings": {
@@ -57,6 +51,12 @@
         "text": "<p><em>\"Always be a cheerleader! It’s way too easy to compare yourself to other women, too easy to get jealous & too easy to tear them down because of your own insecurities. Lift them up, shower them with golden compliments & be ready to listen and help if things aren’t going their way.\"<br\/><\/em><\/p>",
         "button_link": "",
         "button_label": ""
+      }
+    },
+    "7c10a1d9-fac8-4348-ba3b-12d2d5c9b915": {
+      "type": "advanced-layout--custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n   hr {\n        width: 100%;\n        height: 1px;\n        margin-left: auto;\n        margin-right: auto;\n        background-color: #FAB7A4;\n      }\n    <\/style>\n    <hr>"
       }
     },
     "6256e0d2-1cf1-405d-94f9-ddbdb45edf7f": {
@@ -302,8 +302,8 @@
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "3edbe082-74de-4c8f-9141-ef44fe1b09a3",
-    "7c10a1d9-fac8-4348-ba3b-12d2d5c9b915",
     "fef9a1b9-8a57-488d-883f-e95bff215725",
+    "7c10a1d9-fac8-4348-ba3b-12d2d5c9b915",
     "6256e0d2-1cf1-405d-94f9-ddbdb45edf7f",
     "1cb0fac5-0ac4-4773-a4f2-5d22a6d514fc",
     "f8496f9b-bf99-4214-b5be-771555639dc3",
