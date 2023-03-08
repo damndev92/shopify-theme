@@ -15,10 +15,46 @@
       "settings": {
         "colors": "white",
         "width": "medium",
-        "subheading": "THE  FlâneurS",
+        "subheading": "The  Flâneurs",
         "page_title": "Celebrating International Women's Day 2023",
         "title": "",
         "text": "<p><br\/>It's International Women's Day today so let's celebrate the achievements of women, whilst also continuing to support and uplift women across the world. At MF, we want to dedicate this time to our female-led businesses, which continue to encourage and pave the way for future generations of female entrepreneurs.<\/p><p><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "3edbe082-74de-4c8f-9141-ef44fe1b09a3": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/60c6f15a-c65e-4c1e-ba0b-73c76f014aaf.png",
+        "layout": "right",
+        "subheading": "SEW BELLA",
+        "location": false,
+        "title": "Bella Bowker",
+        "text_block": "<p>Embroidery has been a longtime hobby of Bella’s and decided to give everything she had to her brand Sew Bella. Her personality is vibrant, and Bella really is a ray of sunshine. She tests the boundaries of art, and if you check out her brand, you’ll see there’s nothing she can’t embroider. Her brand is a wonderful metaphor to women that nothing is impossible.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "7c10a1d9-fac8-4348-ba3b-12d2d5c9b915": {
+      "type": "advanced-layout--custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n   hr {\n        width: 100%;\n        height: 1px;\n        margin-left: auto;\n        margin-right: auto;\n        background-color: #FAB7A4;\n      }\n    <\/style>\n    <hr>"
+      }
+    },
+    "fef9a1b9-8a57-488d-883f-e95bff215725": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "A note from Bella",
+        "page_title": "",
+        "title": "",
+        "text": "<p><em>\"Always be a cheerleader! It’s way too easy to compare yourself to other women, too easy to get jealous & too easy to tear them down because of your own insecurities. Lift them up, shower them with golden compliments & be ready to listen and help if things aren’t going their way.\"<br\/><\/em><\/p>",
         "button_link": "",
         "button_label": ""
       }
@@ -81,23 +117,6 @@
         "location": false,
         "title": "Charlotte Di Calypso, Co-founder of Chali Conseil",
         "text_block": "<p>\"I try and share the idea that you don't need to delegate things you don't understand. Instead, I give you the tools to get it by yourself. Knowledge is power. Freedom is also power. It’s so important to be free to make your own decisions.\"<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "3edbe082-74de-4c8f-9141-ef44fe1b09a3": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "large",
-        "image": "shopify:\/\/shop_images\/60c6f15a-c65e-4c1e-ba0b-73c76f014aaf.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "Bella Bowker, Founder of Sew Bella",
-        "text_block": "<p>\"Always be a cheerleader! It’s way too easy to compare yourself to other women, too easy to get jealous & too easy to tear them down because of your own insecurities. Lift them up, shower them with golden compliments & be ready to listen and help if things aren’t going their way.\"<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -282,11 +301,13 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
+    "3edbe082-74de-4c8f-9141-ef44fe1b09a3",
+    "7c10a1d9-fac8-4348-ba3b-12d2d5c9b915",
+    "fef9a1b9-8a57-488d-883f-e95bff215725",
     "6256e0d2-1cf1-405d-94f9-ddbdb45edf7f",
     "1cb0fac5-0ac4-4773-a4f2-5d22a6d514fc",
     "f8496f9b-bf99-4214-b5be-771555639dc3",
     "3c65ec32-a6da-4100-92b0-772b01f2e486",
-    "3edbe082-74de-4c8f-9141-ef44fe1b09a3",
     "c986adcd-af97-4f1e-ac14-ca4d5d862728",
     "51e59958-983d-4169-abd1-1e4cdca02b53",
     "70e6aebe-b111-48fe-8254-35942c7f1aec",
