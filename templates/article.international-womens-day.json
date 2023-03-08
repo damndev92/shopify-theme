@@ -247,86 +247,6 @@
         "show_recent_posts": false
       }
     },
-    "2c93c024-9368-45c4-b817-706ee4130d9d": {
-      "type": "collection--collection-list",
-      "blocks": {
-        "template--18243015213371__2c93c024-9368-45c4-b817-706ee4130d9d-167827127286986ac5-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "georges"
-          }
-        },
-        "bc599d3c-53db-4bdb-94bb-c12fb330c422": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "alice-palmer-co"
-          }
-        },
-        "template--18243015213371__2c93c024-9368-45c4-b817-706ee4130d9d-167827127286986ac5-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "the-platera"
-          }
-        },
-        "template--18243015213371__2c93c024-9368-45c4-b817-706ee4130d9d-167827127286986ac5-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "jore-copenhagen"
-          }
-        }
-      },
-      "block_order": [
-        "template--18243015213371__2c93c024-9368-45c4-b817-706ee4130d9d-167827127286986ac5-0",
-        "bc599d3c-53db-4bdb-94bb-c12fb330c422",
-        "template--18243015213371__2c93c024-9368-45c4-b817-706ee4130d9d-167827127286986ac5-1",
-        "template--18243015213371__2c93c024-9368-45c4-b817-706ee4130d9d-167827127286986ac5-2"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "Discover even more women-led brands"
-      }
-    },
-    "659b457a-acd9-49b7-9f24-d0f0ebf7bdd6": {
-      "type": "collection--collection-list",
-      "blocks": {
-        "7a12e2f4-0d5f-48fc-8f10-fd22ef07ae44": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "guayaba-studio"
-          }
-        },
-        "a2061e30-37d1-4d8e-ac07-972e8852ed30": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "anissa-kermiche"
-          }
-        },
-        "7fda39ce-085a-4e30-b4a2-f0c184e9eff8": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "amuse-la-bouche"
-          }
-        },
-        "c87e21d0-3dfe-479d-9f6c-1e1ae8580b11": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "la-veste"
-          }
-        }
-      },
-      "block_order": [
-        "7a12e2f4-0d5f-48fc-8f10-fd22ef07ae44",
-        "a2061e30-37d1-4d8e-ac07-972e8852ed30",
-        "7fda39ce-085a-4e30-b4a2-f0c184e9eff8",
-        "c87e21d0-3dfe-479d-9f6c-1e1ae8580b11"
-      ],
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": ""
-      }
-    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -358,8 +278,6 @@
     "70e6aebe-b111-48fe-8254-35942c7f1aec",
     "f8496f9b-bf99-4214-b5be-771555639dc3",
     "main",
-    "2c93c024-9368-45c4-b817-706ee4130d9d",
-    "659b457a-acd9-49b7-9f24-d0f0ebf7bdd6",
     "blog-posts"
   ]
 }
