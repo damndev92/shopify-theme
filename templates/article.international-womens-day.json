@@ -157,13 +157,14 @@
     },
     "blog-posts": {
       "type": "blog--blog-posts",
+      "disabled": true,
       "settings": {
-        "background-color": "#F3F3F3",
+        "background-color": "#f3f3f3",
         "subheading": "BLOG",
         "title": "Latest articles",
         "post_limit": 3,
         "show_author_name": false,
-        "show_dates": true,
+        "show_dates": false,
         "show_blog_images": true,
         "imageSize": "portrait"
       }
