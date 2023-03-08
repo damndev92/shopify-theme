@@ -53,10 +53,58 @@
         "button_label": ""
       }
     },
+    "6191fbbe-6445-4521-8f58-2d243e420702": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "dark",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/w1900_q65.jpg",
+        "layout": "left",
+        "subheading": "Founder & designer",
+        "location": false,
+        "title": "Anissa Kermiche",
+        "text_block": "<p>If you haven’t heard of Anissa Kermiche… where have you been, girl? With an early interest in engineering and computer science, she used her skills to adopt a different approach: jewelry engineering, which then led to the additional production of homeware. Anissa is bold and rebellious, and this is reflected in her beautifully sculpted pieces of the female form. She portrays the art with the use of raw lines, curves, circles, and the pieces compliment reality with confrontational and non-conforming figures.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "7c10a1d9-fac8-4348-ba3b-12d2d5c9b915": {
       "type": "advanced-layout--custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<style>\n   hr {\n        width: 100%;\n        height: 1px;\n        margin-left: auto;\n        margin-right: auto;\n        background-color: #FAB7A4;\n      }\n    <\/style>\n    <hr>"
+      }
+    },
+    "a94e5b5a-0db4-46d6-8ecb-e72ccd905718": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/WOMEN_template_1.png",
+        "layout": "right",
+        "subheading": "Creative Director",
+        "location": false,
+        "title": "Josephine Fauchier",
+        "text_block": "<p>Meet the coolest illustrator in East London, Josephine Dessine. Like many independent brands, Josephine started her business during the pandemic, and has led her one-woman-show ever since. Much of her artwork portrays the feminine form in ways that tell women <em>we are in charge of our own body. <\/em>Her pieces scream freedom, liberty, and most importantly, EMPOWERMENT!<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "32f8752c-9e13-40e9-b462-b150b8bfc0eb": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "A note from Josephine",
+        "page_title": "",
+        "title": "",
+        "text": "<p><em>\"Empowerment to me is having the agency to fail hard and thrive in success and know what those words mean to you.\"<\/em><\/p>",
+        "button_link": "",
+        "button_label": ""
       }
     },
     "6256e0d2-1cf1-405d-94f9-ddbdb45edf7f": {
@@ -65,7 +113,7 @@
         "colors": "white",
         "image-width": "large",
         "image": "shopify:\/\/shop_images\/04d51e0b-6ff1-47cf-a419-8b75e225337d.png",
-        "layout": "left",
+        "layout": "right",
         "subheading": "",
         "location": false,
         "title": "1.",
@@ -86,6 +134,23 @@
         "title": "",
         "text": "<p><em>\"Showing girls from a young age that in life anything is possible. There are so many incredible female role models in all different walks of life and professions who can encourage young girls to grow into confident and successful women of the future.\"<\/em><\/p>",
         "button_link": "",
+        "button_label": ""
+      }
+    },
+    "6509e405-19ba-4fa8-8c2d-13a45d0afe34": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "dark",
+        "image-width": "medium",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-01-25_at_14.18.11_480x480_0b2fee43-370d-4c00-b720-54a889e8a75b.webp",
+        "layout": "right",
+        "subheading": "Founder of Amuse La Bouche",
+        "location": false,
+        "title": "Georgie Morley",
+        "text_block": "<p>Amuse La Bouche started with a vision: to bring people together, to celebrate and reconnect. Georgie Morley, the founder, created the homeware brand as both purposeful and to a design statement. You’ll see the brand has collaborated with many other like-minded creatives to launch endlessly wondrous pieces. As you can tell,  Amuse La Bouche is all about women supporting women, with even the materials being handcrafted from worldwide artisans.<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
         "button_label": ""
       }
     },
@@ -168,23 +233,6 @@
         "location": false,
         "title": "Sophia Lie, Founder of HEAT",
         "text_block": "<p>\"Being an empowered woman doesn’t mean you have to be perfect. In fact, I often think it means the opposite. For me, being empowered is about being honest with yourself, embracing your flaws, and knowing when to ask for help.I designed HEAT as a place where women can check in with themselves. It’s all about unlocking that inner strength — and hitting reset when you need to — so you can leave feeling your most powerful\"<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "a94e5b5a-0db4-46d6-8ecb-e72ccd905718": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "large",
-        "image": "shopify:\/\/shop_images\/WOMEN_template_1.png",
-        "layout": "right",
-        "subheading": "",
-        "location": false,
-        "title": "Josephine Fauchier, Creative Director of Malaika",
-        "text_block": "<p>\"Empowerment to me is having the agency to fail hard and thrive in success and know what those words mean to you.\"<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -303,15 +351,18 @@
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
     "3edbe082-74de-4c8f-9141-ef44fe1b09a3",
     "fef9a1b9-8a57-488d-883f-e95bff215725",
+    "6191fbbe-6445-4521-8f58-2d243e420702",
     "7c10a1d9-fac8-4348-ba3b-12d2d5c9b915",
+    "a94e5b5a-0db4-46d6-8ecb-e72ccd905718",
+    "32f8752c-9e13-40e9-b462-b150b8bfc0eb",
     "6256e0d2-1cf1-405d-94f9-ddbdb45edf7f",
     "1cb0fac5-0ac4-4773-a4f2-5d22a6d514fc",
+    "6509e405-19ba-4fa8-8c2d-13a45d0afe34",
     "f8496f9b-bf99-4214-b5be-771555639dc3",
     "3c65ec32-a6da-4100-92b0-772b01f2e486",
     "c986adcd-af97-4f1e-ac14-ca4d5d862728",
     "51e59958-983d-4169-abd1-1e4cdca02b53",
     "70e6aebe-b111-48fe-8254-35942c7f1aec",
-    "a94e5b5a-0db4-46d6-8ecb-e72ccd905718",
     "main",
     "2c93c024-9368-45c4-b817-706ee4130d9d",
     "659b457a-acd9-49b7-9f24-d0f0ebf7bdd6",
