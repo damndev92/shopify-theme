@@ -23,6 +23,36 @@
         "button_label": ""
       }
     },
+    "6256e0d2-1cf1-405d-94f9-ddbdb45edf7f": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/04d51e0b-6ff1-47cf-a419-8b75e225337d.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "1.",
+        "text_block": "<p>\"Showing girls from a young age that in life anything is possible. There are so many incredible female role models in all different walks of life and professions who can encourage young girls to grow into confident and successful women of the future.\"<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "1cb0fac5-0ac4-4773-a4f2-5d22a6d514fc": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "width": "medium",
+        "subheading": "Issy Granger, Founder of Issy Granger London",
+        "page_title": "",
+        "title": "",
+        "text": "<p><em>\"Showing girls from a young age that in life anything is possible. There are so many incredible female role models in all different walks of life and professions who can encourage young girls to grow into confident and successful women of the future.\"<\/em><\/p>",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
     "f8496f9b-bf99-4214-b5be-771555639dc3": {
       "type": "text--image-with-text",
       "settings": {
@@ -51,23 +81,6 @@
         "location": false,
         "title": "Charlotte Di Calypso, Co-founder of Chali Conseil",
         "text_block": "<p>\"I try and share the idea that you don't need to delegate things you don't understand. Instead, I give you the tools to get it by yourself. Knowledge is power. Freedom is also power. It’s so important to be free to make your own decisions.\"<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
-    "6256e0d2-1cf1-405d-94f9-ddbdb45edf7f": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "large",
-        "image": "shopify:\/\/shop_images\/04d51e0b-6ff1-47cf-a419-8b75e225337d.png",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "Issy Granger, Founder of Issy Granger London",
-        "text_block": "<p>\"Showing girls from a young age that in life anything is possible. There are so many incredible female role models in all different walks of life and professions who can encourage young girls to grow into confident and successful women of the future.\"<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -269,9 +282,10 @@
   "order": [
     "a7278f70-4e30-4842-a597-b42daa02c6fc",
     "e59ec62f-07b5-46d9-921d-cba01b9aebad",
+    "6256e0d2-1cf1-405d-94f9-ddbdb45edf7f",
+    "1cb0fac5-0ac4-4773-a4f2-5d22a6d514fc",
     "f8496f9b-bf99-4214-b5be-771555639dc3",
     "3c65ec32-a6da-4100-92b0-772b01f2e486",
-    "6256e0d2-1cf1-405d-94f9-ddbdb45edf7f",
     "3edbe082-74de-4c8f-9141-ef44fe1b09a3",
     "c986adcd-af97-4f1e-ac14-ca4d5d862728",
     "51e59958-983d-4169-abd1-1e4cdca02b53",
