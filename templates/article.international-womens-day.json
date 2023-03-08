@@ -166,23 +166,6 @@
         "button_label": ""
       }
     },
-    "f8496f9b-bf99-4214-b5be-771555639dc3": {
-      "type": "text--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image-width": "large",
-        "image": "shopify:\/\/shop_images\/766fa7c9-41e2-4817-95cc-6b3573f43897.png",
-        "layout": "left",
-        "subheading": "",
-        "location": false,
-        "title": "Marie Winckler, Co-founder of Maison Flâneur",
-        "text_block": "<p>\"Empowering women for me is being mindful of the challenges faced by women in the workplace. By making intentional, conscious efforts to address issues such as unequal pay, discriminatory practices, and lack of opportunities for professional growth. We are all responsible for making people around us feel empowered.\"<\/p>",
-        "page_description": false,
-        "button_link": "",
-        "hotel_page_url": false,
-        "button_label": ""
-      }
-    },
     "3c65ec32-a6da-4100-92b0-772b01f2e486": {
       "type": "text--image-with-text",
       "settings": {
@@ -228,6 +211,23 @@
         "location": false,
         "title": "Sophia Lie, Founder of HEAT",
         "text_block": "<p>\"Being an empowered woman doesn’t mean you have to be perfect. In fact, I often think it means the opposite. For me, being empowered is about being honest with yourself, embracing your flaws, and knowing when to ask for help. I designed HEAT as a place where women can check in with themselves. It’s all about unlocking that inner strength — and hitting reset when you need to — so you can leave feeling your most powerful\"<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
+    "f8496f9b-bf99-4214-b5be-771555639dc3": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/766fa7c9-41e2-4817-95cc-6b3573f43897.png",
+        "layout": "left",
+        "subheading": "",
+        "location": false,
+        "title": "Marie Winckler, Co-founder of Maison Flâneur",
+        "text_block": "<p>\"Empowering women for me is being mindful of the challenges faced by women in the workplace. By making intentional, conscious efforts to address issues such as unequal pay, discriminatory practices, and lack of opportunities for professional growth. We are all responsible for making people around us feel empowered.\"<\/p>",
         "page_description": false,
         "button_link": "",
         "hotel_page_url": false,
@@ -353,10 +353,10 @@
     "6de85dda-df67-403a-9d83-d15377646bdf",
     "51e59958-983d-4169-abd1-1e4cdca02b53",
     "488b7900-21a0-4eae-b799-218a1a37eea7",
-    "f8496f9b-bf99-4214-b5be-771555639dc3",
     "3c65ec32-a6da-4100-92b0-772b01f2e486",
     "c986adcd-af97-4f1e-ac14-ca4d5d862728",
     "70e6aebe-b111-48fe-8254-35942c7f1aec",
+    "f8496f9b-bf99-4214-b5be-771555639dc3",
     "main",
     "2c93c024-9368-45c4-b817-706ee4130d9d",
     "659b457a-acd9-49b7-9f24-d0f0ebf7bdd6",
