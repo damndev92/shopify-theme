@@ -142,6 +142,23 @@
         "button_label": ""
       }
     },
+    "a94e5b5a-0db4-46d6-8ecb-e72ccd905718": {
+      "type": "text--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image-width": "large",
+        "image": "shopify:\/\/shop_images\/WOMEN_template_1.png",
+        "layout": "right",
+        "subheading": "",
+        "location": false,
+        "title": "Josephine Fauchier, Creative Director of Malaika",
+        "text_block": "<p>\"Empowerment to me is having the agency to fail hard and thrive in success and know what those words mean to you.\"<\/p>",
+        "page_description": false,
+        "button_link": "",
+        "hotel_page_url": false,
+        "button_label": ""
+      }
+    },
     "main": {
       "type": "template--article",
       "disabled": true,
@@ -161,13 +178,19 @@
         "template--18243015213371__2c93c024-9368-45c4-b817-706ee4130d9d-167827127286986ac5-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "malaika"
+            "collection": "georges"
+          }
+        },
+        "bc599d3c-53db-4bdb-94bb-c12fb330c422": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "project-213a"
           }
         },
         "template--18243015213371__2c93c024-9368-45c4-b817-706ee4130d9d-167827127286986ac5-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "issy-granger"
+            "collection": "the-platera"
           }
         },
         "template--18243015213371__2c93c024-9368-45c4-b817-706ee4130d9d-167827127286986ac5-2": {
@@ -179,6 +202,7 @@
       },
       "block_order": [
         "template--18243015213371__2c93c024-9368-45c4-b817-706ee4130d9d-167827127286986ac5-0",
+        "bc599d3c-53db-4bdb-94bb-c12fb330c422",
         "template--18243015213371__2c93c024-9368-45c4-b817-706ee4130d9d-167827127286986ac5-1",
         "template--18243015213371__2c93c024-9368-45c4-b817-706ee4130d9d-167827127286986ac5-2"
       ],
@@ -212,6 +236,7 @@
     "c986adcd-af97-4f1e-ac14-ca4d5d862728",
     "51e59958-983d-4169-abd1-1e4cdca02b53",
     "70e6aebe-b111-48fe-8254-35942c7f1aec",
+    "a94e5b5a-0db4-46d6-8ecb-e72ccd905718",
     "main",
     "2c93c024-9368-45c4-b817-706ee4130d9d",
     "blog-posts"
