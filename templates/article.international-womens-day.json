@@ -153,7 +153,7 @@
       "type": "text--image-with-text",
       "settings": {
         "colors": "white",
-        "image-width": "medium",
+        "image-width": "large",
         "image": "shopify:\/\/shop_images\/IMG_5145_1.jpg",
         "layout": "left",
         "subheading": "Founders of Guayaba Studio",
