@@ -43,7 +43,7 @@
     "b33a44a5-2c39-4974-b822-03d88306c742": {
       "type": "text--rich-text",
       "settings": {
-        "colors": "white",
+        "colors": "light",
         "width": "medium",
         "subheading": "",
         "page_title": "",
