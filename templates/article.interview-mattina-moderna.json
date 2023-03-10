@@ -138,6 +138,40 @@
         "button_label": ""
       }
     },
+    "7a2be7fd-15bd-4414-80e1-120b92363c29": {
+      "type": "collection--featured-collection",
+      "blocks": {
+        "template--18267260584251__7a2be7fd-15bd-4414-80e1-120b92363c29-1678460116907f42e1-0": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "template--18267260584251__7a2be7fd-15bd-4414-80e1-120b92363c29-1678460116907f42e1-1": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "template--18267260584251__7a2be7fd-15bd-4414-80e1-120b92363c29-1678460116907f42e1-2": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18267260584251__7a2be7fd-15bd-4414-80e1-120b92363c29-1678460116907f42e1-0",
+        "template--18267260584251__7a2be7fd-15bd-4414-80e1-120b92363c29-1678460116907f42e1-1",
+        "template--18267260584251__7a2be7fd-15bd-4414-80e1-120b92363c29-1678460116907f42e1-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "discover more",
+        "title": "Mattina Moderna",
+        "collection": "mattina-moderna",
+        "grid": 4,
+        "rows": 1,
+        "show_view_all": true
+      }
+    },
     "blog-posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -162,6 +196,7 @@
     "90f20b6f-fefc-447d-ba02-5275b1a08eb4",
     "bf27a49f-0851-4ef8-9ade-2d759ff58e35",
     "56cd7eea-e442-462a-bd9c-68755b566508",
+    "7a2be7fd-15bd-4414-80e1-120b92363c29",
     "blog-posts"
   ]
 }
