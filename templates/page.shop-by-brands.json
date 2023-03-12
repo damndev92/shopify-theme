@@ -4,7 +4,6 @@
       "type": "template--page",
       "settings": {
         "white_label": false,
-        "hide_header": false,
         "hide_default_content": false,
         "alignment": "center",
         "url": ""
@@ -17,7 +16,7 @@
         "subheading": "",
         "title": "",
         "collection_type": "brand",
-        "number_of_collections_to_display": 40,
+        "number_of_collections_to_display": 45,
         "show_location": true,
         "show_filter_location": false,
         "content_alignment": "center",
