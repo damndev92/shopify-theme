@@ -194,7 +194,11 @@
               mf && // Add check for mf not being null/undefined
               mf.key === "collection_type" &&
               mf.value === "{{ section.settings.collection_type }}"
-          )
+          ) {% if section.settings.show_location == true %} &&
+          metafields.some(
+            (mf) =>
+              mf && mf.key === "location"
+          ) {% endif %}
         );
       })
       .sort(() => 0.5 - Math.random())
@@ -363,11 +367,14 @@
       {% if section.settings.show_location == true %}
         const locationDiv = document.createElement('div');
         locationDiv.className = "location";
-        const locationFullName = selectedCollectionNode.metafields.find(mf => mf.key === "location").value;
-        const country = locationFullName.replace(/^[^,]*,\s*/g, "").replace(/\s/g, "");
-        locationDiv.textContent = locationFullName;
-        locationDiv.setAttribute('country', country);
-        indivCollectionGridHomepage.appendChild(locationDiv);
+        const locationMetafield = selectedCollectionNode.metafields.find(mf => mf.key === "location");
+        if (locationMetafield) {
+          const locationFullName = locationMetafield.value;
+          const country = locationFullName.replace(/^[^,]*,\s*/g, "").replace(/\s/g, "");
+          locationDiv.textContent = locationFullName;
+          locationDiv.setAttribute('country', country);
+          indivCollectionGridHomepage.appendChild(locationDiv);
+        }
       {% endif %}
 
       document.querySelector(".collection-grid .row").appendChild(indivCollectionGridHomepage);
